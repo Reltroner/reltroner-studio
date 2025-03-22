@@ -8,7 +8,7 @@ This project serves as a digital home for articles, lore, and self-reflections a
 
 - Framework: [Next.js](https://nextjs.org/)
 - Styling: Tailwind CSS
-- Hosting: (Coming soon via Vercel or Netlify)
+- Hosting: https://vercel.com/rraidans-projects/reltroner-studio
 - Format: Static Blog-style layout (no Auth, no CRUD)
 
 ## 📁 Folder Structure
