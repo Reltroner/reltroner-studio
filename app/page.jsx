@@ -5,7 +5,7 @@ export default function Home() {
         {
             title: "World Building Basics",
             description: "Exploring the fundamentals of world-building for creative writing.",
-            link: "/blog/study",
+            link: "/blog/worldbuilding",
             image: "/images/WorldBuilding.jpg"
         },
         {
