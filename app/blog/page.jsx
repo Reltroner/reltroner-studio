@@ -46,6 +46,12 @@ export default function Blog() {
             description: "Explore the philosophy, mission, and future-facing projects of Reltroner Studio.",
             link: "/blog/reltroner",
             image: "/images/reltroner-studio-banner.webp"
+        },
+        {
+            title: "For Recruiters & Collaborators",
+            description: "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
+            link: "/blog/for-recruiters",
+            image: "/images/for-recruiters-banner.webp"
         }
         
     ];
