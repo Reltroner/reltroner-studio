@@ -52,6 +52,12 @@ export default function Blog() {
             description: "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
             link: "/blog/for-recruiters",
             image: "/images/for-recruiters-banner.webp"
+        },
+        {
+            title: "My Roadmap to 2045",
+            description: "A personal vision of growth, legacy, and freedom — from zero to Astralis Pinnacle.",
+            link: "/blog/roadmap-2045",
+            image: "/images/roadmap-2045-banner.webp"
         }
         
     ];
