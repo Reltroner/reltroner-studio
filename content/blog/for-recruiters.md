@@ -30,7 +30,7 @@ If you’re a recruiter, collaborator, or company owner interested in working wi
 ...feel free to reach out through the contacts below:
 
 📧 **edward5raidan54@gmail.com**  
-💻 **https://github.com/RaidanRR/reltroner-studio.git**  
+💻 **https://github.com/Reltroner/reltroner-studio**  
 🧠 **https://reltroner-studio.vercel.app/**
 
 I may not appear on camera,  
