@@ -10,41 +10,35 @@ export default function Home() {
       image: "/images/WorldBuilding.jpg"
     },
     {
-      title: "Magic Systems",
-      description: "Crafting balanced and intriguing magic systems.",
-      link: "/blog/magic-systems",
-      image: "/images/magicsystem.png"
+      title: "Magic System: Astralis vs Nytherion",
+      description: "Explore the core metaphysical conflict between creation and illusion in Asthortera.",
+      link: "/blog/magic-system",
+      image: "/images/magic-astralis-nytherion.webp"
     },
     {
       title: "Cultures & Civilizations",
       description: "Building realistic cultures and societies for your world.",
-      link: "/blog/cultures",
-      image: "/images/culwil.png"
+      link: "/blog/cultures-civilizations",
+      image: "/images/culciv.webp"
     },
     {
       title: "Politics",
       description: "Understanding political systems and power dynamics in your world.",
       link: "/blog/politics",
-      image: "/images/politics.png"
+      image: "/images/politics.webp"
     },
     {
       title: "Locations/Geography",
       description: "Designing immersive landscapes and geographic features.",
       link: "/blog/locations",
-      image: "/images/locationexample.jpg"
+      image: "/images/locations.webp"
     },
     {
       title: "Events",
       description: "Creating impactful historical and future events for your world.",
       link: "/blog/events",
-      image: "/images/calendar.png"
+      image: "/images/events.webp"
     },
-    {
-      title: "Certificate Achievement",
-      description: "My journey completing a Laravel CRUD project through sheer self-discipline and effort.",
-      link: "/blog/certificate-achievement",
-      image: "/images/direktori-listing.png"
-    }
   ];
 
   return (
