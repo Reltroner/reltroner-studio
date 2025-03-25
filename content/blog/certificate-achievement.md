@@ -1,18 +1,21 @@
 ---
 title: "Certificate Achievement"
 date: "2025-03-22"
+published: true
 image: "/images/direktori-listing.png"
 ---
 
 # 🌟 Certificate Achievement: My Self-Learning Journey
 
-This page is dedicated to showcasing one of the earliest milestones in my **Astralis Pinnacle journey** — the successful completion of a Laravel CRUD mini project through **self-study and relentless debugging**.
+This page is dedicated to showcasing one of the earliest milestones in my **Astralis Pinnacle journey** — the successful completion of a **CRUD web project using Express.js, EJS, Bootstrap, and MongoDB** through intense self-study and long nights of debugging.
 
 ---
 
 ## 🧠 Context
 
-I built a basic **Laravel CRUD system** as part of my self-learning. It took me many hours, mostly spent **fighting through bugs**, poor documentation understanding, and trial-and-error. Despite weak CSS and limited resources, I pushed through and **completed the project alone.**
+I built a basic **full-stack CRUD application** using Express.js (Node.js backend), EJS (template engine), Bootstrap (UI), and MongoDB (NoSQL database). It took me many hours, most of them spent **decoding stack traces**, **experimenting with MongoDB queries**, and dealing with **middleware config errors**.
+
+Despite design limitations and lack of guidance, I chose to stay on track and **finish the project by myself.**
 
 > 🔥 This project marks my transition from "Strategic Analyzer" into the "Framework Builder" stage of self-awareness.
 
@@ -20,32 +23,32 @@ I built a basic **Laravel CRUD system** as part of my self-learning. It took me 
 
 ## 🏆 Certificate Details
 - **Platform:** CodePolitan (Indonesia)
-- **Course:** Laravel CRUD Fundamentals
+- **Course:** Express CRUD Fundamentals
 - **Status:** Completed
-- **Project Output:** Functional Laravel CRUD App
-- **Focus Area:** MVC Architecture, Routing, Controllers, Blade Templates
+- **Project Output:** Functional CRUD App (Express + EJS + MongoDB)
+- **Focus Area:** RESTful Routing, EJS Rendering, Bootstrap Layout, MongoDB Integration
 
 > 📸 *Note: The certificate file had minor corruption, but screenshots & documentation are retained for personal records.*
 
 ---
 
 ## 📂 GitHub / Project Repository
-> *https://github.com/RaidanRR/employee-management.git*
+> *https://github.com/RaidanRR/employee-management-express.git*
 
 ---
 
 ## 🧭 Reflection
 This project taught me:
-- The **value of struggle** in learning real-world development
-- How important it is to **stay consistent**, even if progress is slow
-- That **burnout can be defeated** with vision and self-belief
+- The **grit needed** to survive real-world backend bugs and async hell
+- The power of **consistency over perfection**
+- That even without help, I can still stand up and **build systems from scratch**
 
 It is the first true stone in the legacy I am building as a **Legacy Architect**.
 
-> _"I finished it not because it was beautiful, but because I refuse to remain in the Abyss."_
+> _"I finished it not because it was easy or clean, but because I refuse to remain in the Abyss."_  
 
 ---
 
-🚀 More certificates and proof of mastery will be added as I continue to ascend through Astralis Pinnacle.
+🚀 More certificates and proof of mastery will be added as I continue to ascend through **Astralis Pinnacle** — the realm of pure value creation.
 
 — Raidan

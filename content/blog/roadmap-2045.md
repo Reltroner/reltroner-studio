@@ -77,3 +77,16 @@ If I ever get lost… I will remember:
 
 🔴 Stay Red-Pill. Keep building. Keep becoming.
 
+---
+
+<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+
+<a href="/blog" style="padding: 0.75rem 1.5rem; background-color: #2D2F36; color: white; text-decoration: none; border-radius: 8px;">
+🔙 Back to Blog
+</a>
+
+<a href="/files/roadmap-2045.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
+📄 Download PDF Version
+</a>
+
+</div>

@@ -2,7 +2,8 @@
 title: "Scout Parade in Evercotage"
 description: "Highlight of the grand Scout Parade in Evercotage, the capital of Stelpadland."
 author: "RaidanRR"
-uploadDate: "March 16, 2025"
+date: "March 16, 2025"
+published: true
 image: "/images/scout-parade.webp"
 ---
 

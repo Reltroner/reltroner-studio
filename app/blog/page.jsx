@@ -37,7 +37,7 @@ export default function Blog() {
         },
         {
             title: "Certificate Achievement",
-            description: "My journey completing a Laravel CRUD project through sheer self-discipline and effort.",
+            description: "My journey completing a express.js CRUD project through sheer self-discipline and effort.",
             link: "/blog/certificate-achievement",
             image: "/images/direktori-listing.png"
         },
