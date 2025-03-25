@@ -66,9 +66,9 @@ We don't chase trends. We **write timelines**.
 ---
 
 ## 🌐 Contact
-📮 Email: [reltroner@protonmail.com](mailto:reltroner@protonmail.com)  
-🧠 GitHub: [github.com/reltroner](https://github.com/reltroner) *(sample placeholder)*  
-🌌 Headquarters: Central Reltronepolis Municipality, Reltronland
+📮 Email: [edward5raidan54@gmail.com](mailto:edward5raidan54@gmail.com)  
+🧠 GitHub: [https://github.com/Reltroner](https://github.com/Reltroner/reltroner-studio.git) *(sample placeholder)*  
+🌌 Headquarters: Reltroner Tower, Astralis Avenue Street, Astralis Pinnacle District (RGD), Central Reltronepolis Municipality, Reltronepolis, Reltronland.
 
 ---
 
