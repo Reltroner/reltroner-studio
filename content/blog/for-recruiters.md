@@ -33,5 +33,18 @@ If you’re a recruiter, collaborator, or company owner interested in working wi
 💻 **https://github.com/Reltroner/reltroner-studio**  
 🧠 **https://reltroner-studio.vercel.app/**
 
+---
+
+## 🧱 Bonus for Tech-Focused Recruiters
+
+I also maintain a dedicated public repository to **document real-world coding errors**, insights, and practical fixes I encounter during development. This is not copied tutorial content — it's based on actual debugging experience with tools like **Express.js**, **EJS**, **MongoDB**, and **Bootstrap**.
+
+📂 **Error Documentation GitHub Repo**  
+🔗 [https://github.com/Reltroner/error-documentation](https://github.com/Reltroner/error-documentation)
+
+> Because I don't just build features — I understand what breaks them, why they break, and how to fix them for good.
+
+---
+
 I may not appear on camera,  
 But I’m **fully present in every line of code and trace of my work.**
