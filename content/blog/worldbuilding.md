@@ -1,7 +1,7 @@
 ---
 title: "World Building Basics"
 description: "Exploring the fundamentals of world-building for creative writing."
-author: "RaidanRR"
+author: "Raidan"
 date: "March 3, 2025"
 published: true
 image: "/images/WorldBuilding.jpg"

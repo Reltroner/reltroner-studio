@@ -1,6 +1,7 @@
 ---
 title: "My Roadmap to 2045"
 description: "A personal vision of growth, legacy, and freedom — from zero to Astralis Pinnacle"
+author: "Raidan"
 date: "2025-03-24"
 published: true
 image: "/images/roadmap-2045-banner.webp"

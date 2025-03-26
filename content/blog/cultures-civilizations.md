@@ -1,7 +1,7 @@
 ---
 title: "Cultures & Civilizations"
 description: "Building realistic cultures and societies for your world."
-author: "RaidanRR"
+author: "Raidan"
 date: "March 26, 2025"
 published: true
 image: "/images/culciv.webp"

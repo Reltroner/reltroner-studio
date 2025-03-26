@@ -1,7 +1,7 @@
 ---
 title: "Timeline of Events in Asthortera (0-25)"
 description: "Detailed timeline of key characters and major events shaping the world of Asthortera."
-author: "RaidanRR"
+author: "Raidan"
 date: "March 27, 2025"
 published: true
 image: "/images/events.webp"

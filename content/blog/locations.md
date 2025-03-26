@@ -1,7 +1,7 @@
 ---
 title: "Locations & Geography"
 description: "Designing immersive landscapes and geographic features for your world."
-author: "RaidanRR"
+author: "Raidan"
 date: "March 26, 2025"
 published: true
 image: "/images/locations.webp"

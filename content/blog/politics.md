@@ -1,7 +1,7 @@
 ---
 title: "Politics"
 description: "Understanding political systems and power dynamics in your world."
-author: "RaidanRR"
+author: "Raidan"
 date: "March 26, 2025"
 published: true
 image: "/images/politics.webp"

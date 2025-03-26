@@ -58,6 +58,12 @@ export default function Blog() {
             description: "A personal vision of growth, legacy, and freedom — from zero to Astralis Pinnacle.",
             link: "/blog/roadmap-2045",
             image: "/images/roadmap-2045-banner.webp"
+        },
+        {
+            title: "Let Astralis Light the Unknown",
+            description: "An original poem reflecting the spirit of Astralis Pinnacle in The Abyss of Comfort.",
+            link: "/blog/astralis-poem",
+            image: "/images/astralis-poem-banner.webp"
         }
         
     ];
