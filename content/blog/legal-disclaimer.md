@@ -27,7 +27,7 @@ We acknowledge that the terms *“Red Pill”* and *“Blue Pill”* were popula
 ## 🧠 Original Concepts
 
 All core systems — including:
-- 🌌 *Astralis Pinnacle*
+- 🔺 *Astralis Pinnacle*
 - 🕳️ *Nytherion Abyss*
 - ⚡ *Energy Red Pill / Blue Pill*
 - 🏙️ *Reltronland, Depcutland, etc.*

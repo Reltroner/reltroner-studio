@@ -9,7 +9,7 @@ image: "/images/events.webp"
 
 # 📅 Timeline of Events in Asthortera (Years 0–25)
 
-Asthortera is shaped by layered conflicts between powerful characters — from noble heroes to cunning villains and morally gray agents. Here's the complete character timeline shaping this fictional galaxy.
+Asthortera is shaped by layered conflicts between powerful characters — from noble heroes to cunning villains and morally gray agents. Here's the complete character timeline shaping this fictional universe.
 
 ---
 

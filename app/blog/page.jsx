@@ -4,10 +4,10 @@ import PostCard from "@/components/PostCard";
 export default function Blog() {
     const posts = [
         {
-            title: "World Building Basics",
-            description: "Exploring the fundamentals of world-building for creative writing.",
-            link: "/blog/worldbuilding",
-            image: "/images/WorldBuilding.jpg",
+            title: "Astralis × Nytherion Manifesto",
+            description: "A powerful duality shaping the core of Reltroner Studio — between clarity and illusion, growth and stagnation.",
+            link: "/blog/astralis-nytherion-manifesto",
+            image: "/images/astralis-nytherion-banner.webp",
             author: "RaidanRR",
             uploadDate: "March 8, 2025"
         },
