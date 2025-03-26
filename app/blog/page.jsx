@@ -24,7 +24,7 @@ export default function Blog() {
             description: "An inspiring speech by President Relugus Rigle during the Pi Day celebration in Reltronepolis.",
             link: "/blog/pinews",
             image: "/images/pi-day-news.webp",
-            author: "RaidanRR",
+            author: "Reltroner Studio",
             date: "March 14, 2025"
         },
         {
@@ -32,44 +32,56 @@ export default function Blog() {
             description: "Highlight of the grand Scout Parade in Evercotage, the capital of Stelpadland.",
             link: "/blog/scoutparade",
             image: "/images/scout-parade.webp",
-            author: "RaidanRR",
+            author: "Raidan",
             date: "March 16, 2025"
         },
         {
             title: "Certificate Achievement",
             description: "My journey completing a express.js CRUD project through sheer self-discipline and effort.",
             link: "/blog/certificate-achievement",
-            image: "/images/direktori-listing.png"
+            image: "/images/direktori-listing.png",
+            author: "Raidan",
+            date: "2025-03-22"
         },
         {
             title: "Reltroner Studio Portfolio",
             description: "Explore the philosophy, mission, and future-facing projects of Reltroner Studio.",
             link: "/blog/reltroner",
-            image: "/images/reltroner-studio-banner.webp"
+            image: "/images/reltroner-studio-banner.webp",
+            author: "Raidan",
+            date: "2025-03-22"
         },
         {
             title: "For Recruiters & Collaborators",
             description: "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
             link: "/blog/for-recruiters",
-            image: "/images/for-recruiters-banner.webp"
+            image: "/images/for-recruiters-banner.webp",
+            author: "Raidan",
+            date: "2025-03-22"
         },
         {
             title: "My Roadmap to 2045",
             description: "A personal vision of growth, legacy, and freedom — from zero to Astralis Pinnacle.",
             link: "/blog/roadmap-2045",
-            image: "/images/roadmap-2045-banner.webp"
+            image: "/images/roadmap-2045-banner.webp",
+            author: "Raidan",
+            date: "2025-03-24"
         },
         {
             title: "Let Astralis Light the Unknown",
             description: "An original poem reflecting the spirit of Astralis Pinnacle in The Abyss of Comfort.",
             link: "/blog/astralis-poem",
-            image: "/images/astralis-poem-banner.webp"
+            image: "/images/astralis-poem-banner.webp",
+            author: "Raidan",
+            date: "2025-03-25"
         },
         {
             title: "Astralis-Based Developer Evaluation",
             description: "A unique evaluation framework that measures developers by clarity, resilience, and legacy — not just technical skills.",
             link: "/blog/astralis-evaluation-framework",
-            image: "/images/astralis-evaluation-banner.png"
+            image: "/images/astralis-evaluation-banner.png",
+            author: "Raidan",
+            date: "2025-03-26"
         }
         
         

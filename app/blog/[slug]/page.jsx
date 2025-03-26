@@ -13,11 +13,11 @@ export default async function Basic({ params: { slug } }) {
             </p>
 
             <div className="flex gap-5">
-                <a href="https://www.coursera.org/specializations/web-development" target="_blank" rel="noreferrer">Coursera</a><br />
-                <a href="https://www.udemy.com/course/the-complete-web-developer-bootcamp/" target="_blank" rel="noreferrer">Udemy</a><br />
-                <a href="https://www.youtube.com/watch?v=4tqhcEr彡0&list=PLTjRvDozrdlxnqTj7BQWwB2vqHx16B1Vq" target="_blank" rel="noreferrer">YouTube</a><br />
-                <a href="https://github.com/bradtraversy/proshop_mern" target="_blank" rel="noreferrer">GitHub</a><br />
-                <a href="https://www.w3schools.com/" target="_blank" rel="noreferrer">W3Schools</a>
+                <a href="" target="_blank" rel="noreferrer"></a><br />
+                <a href="" target="_blank" rel="noreferrer"></a><br />
+                <a href="" target="_blank" rel="noreferrer"></a><br />
+                <a href="" target="_blank" rel="noreferrer"></a><br />
+                <a href="" target="_blank" rel="noreferrer"></a>
             </div>
 
             {/* Gambar Dinamis dari Metadata Markdown */}
