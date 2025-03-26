@@ -64,7 +64,14 @@ export default function Blog() {
             description: "An original poem reflecting the spirit of Astralis Pinnacle in The Abyss of Comfort.",
             link: "/blog/astralis-poem",
             image: "/images/astralis-poem-banner.webp"
+        },
+        {
+            title: "Astralis-Based Developer Evaluation",
+            description: "A unique evaluation framework that measures developers by clarity, resilience, and legacy — not just technical skills.",
+            link: "/blog/astralis-evaluation-framework",
+            image: "/images/astralis-evaluation-banner.png"
         }
+        
         
     ];
 
