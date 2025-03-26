@@ -21,7 +21,7 @@ export default function Blog() {
         },
         {
             title: "Pi Day News",
-            description: "Pidato Presiden Relugus Rigle di Reltronepolis tentang Pi Day.",
+            description: "An inspiring speech by President Relugus Rigle during the Pi Day celebration in Reltronepolis.",
             link: "/blog/pinews",
             image: "/images/pi-day-news.webp",
             author: "RaidanRR",
