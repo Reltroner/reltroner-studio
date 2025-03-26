@@ -8,7 +8,7 @@ export default function Layout({ children }) {
         <html lang="en" className={roboto.variable}>
             <head>
             <title>Reltroner Studio</title>
-                    <link rel="icon" href="/reltroner-studio.png" type="image/png" />
+                    <link rel="icon" href="/images/reltroner-studio.png" type="image/png" />
                     {/*  jika punya .ico: */}
                     {/* <link rel="icon" href="/reltroner-logo.ico" type="image/x-icon" /> */}
             </head>
