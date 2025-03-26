@@ -9,7 +9,7 @@ export default function Navbar() {
                     <li><Link href="/blog" className="flex gap-2 hover:underline">Blog</Link></li>
                     <li><Link href="/contact" className="flex gap-2 hover:underline">Contact</Link></li>
                     <li><Link href="/blog/worldbuilding" className="flex gap-2 hover:underline">Basic</Link></li>
-                    <li><Link href="/blog/pi" className="flex gap-2 hover:underline">Pi Day</Link></li>
+                    <li><Link href="/blog/disclaimer" className="flex gap-2 hover:underline">Disclaimer</Link></li>
                 </ul>
             </nav>
         </div>

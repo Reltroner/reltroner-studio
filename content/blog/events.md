@@ -15,7 +15,7 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 
 ## 🌟 Protagonists Timeline (Year 0–25)
 
-### Delwyn Hunson
+### Delwyn Harper
 - **0–5:** Bounty hunter in Pencilfania.
 - **6–10:** Uncovers criminal network linked to Henchoeway.
 - **11–15:** Joins Barry and Hendry to expose Henchoeway.

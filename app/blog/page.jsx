@@ -12,11 +12,11 @@ export default function Blog() {
             uploadDate: "March 8, 2025"
         },
         {
-            title: "Pi Day Celebration",
-            description: "Exploring the significance of Pi in mathematics and beyond.",
-            link: "/blog/pi",
-            image: "/images/pi-day.jpg",
-            author: "Mathematicians",
+            title: "Legal Disclaimer",
+            description: "Clarifying the originality of Astralis Pinnacle, Red Pill concepts, and the legacy of Reltroner Studio.",
+            link: "/blog/legal-disclaimer",
+            image: "/images/legal-disclaimer.png",
+            author: "Reltroner Studio",
             uploadDate: "March 14, 2025"
         },
         {
