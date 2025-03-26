@@ -7,9 +7,9 @@ export default function Blog() {
             title: "Astralis × Nytherion Manifesto",
             description: "A powerful duality shaping the core of Reltroner Studio — between clarity and illusion, growth and stagnation.",
             link: "/blog/astralis-nytherion-manifesto",
-            image: "/images/astralis-nytherion-banner.webp",
-            author: "RaidanRR",
-            uploadDate: "March 8, 2025"
+            image: "/images/astralis-nytherion-banner.png",
+            author: "Reltroner Studio",
+            date: "March 8, 2025"
         },
         {
             title: "Legal Disclaimer",
@@ -17,7 +17,7 @@ export default function Blog() {
             link: "/blog/legal-disclaimer",
             image: "/images/legal-disclaimer.png",
             author: "Reltroner Studio",
-            uploadDate: "March 14, 2025"
+            date: "March 14, 2025"
         },
         {
             title: "Pi Day News",
@@ -25,7 +25,7 @@ export default function Blog() {
             link: "/blog/pinews",
             image: "/images/pi-day-news.webp",
             author: "RaidanRR",
-            uploadDate: "March 14, 2025"
+            date: "March 14, 2025"
         },
         {
             title: "Scout Parade in Evercotage",
@@ -33,7 +33,7 @@ export default function Blog() {
             link: "/blog/scoutparade",
             image: "/images/scout-parade.webp",
             author: "RaidanRR",
-            uploadDate: "March 16, 2025"
+            date: "March 16, 2025"
         },
         {
             title: "Certificate Achievement",
@@ -91,7 +91,7 @@ export default function Blog() {
                         link={post.link}
                         image={post.image}
                         author={post.author}
-                        uploadDate={post.uploadDate}
+                        date={post.date}
                     />
                 ))}
             </div>

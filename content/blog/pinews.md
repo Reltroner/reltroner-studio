@@ -1,37 +1,36 @@
 ---
-title: "Pidato Presiden Relugus Rigle di Reltronepolis tentang Pi Day"
-description: "Pidato inspiratif Presiden Relugus Rigle dalam perayaan Pi Day di Reltronepolis."
+title: "President Relugus Rigle's Speech on Pi Day in Reltronepolis"
+description: "An inspiring speech by President Relugus Rigle during the Pi Day celebration in Reltronepolis."
 date: "2025-03-14"
 published: true
 image: "/images/pi-day-news.webp"
 ---
 
-# Pidato Presiden Relugus Rigle di Reltronepolis tentang Pi Day
+# President Relugus Rigle's Speech on Pi Day in Reltronepolis
 
-Pada tanggal 14 Maret 2025, Presiden Relugus Rigle menyampaikan pidato penting dalam perayaan **Pi Day** yang berlangsung di pusat ekonomi Reltronland, Reltronepolis. Acara ini dihadiri oleh ilmuwan, insinyur, akademisi, dan masyarakat umum yang turut merayakan keajaiban konstanta **π (Pi)** dalam dunia matematika, sains, dan teknologi.
+On March 14, 2025, President Relugus Rigle delivered a significant speech during the **Pi Day** celebration held in the economic hub of Reltronland, Reltronepolis. The event was attended by scientists, engineers, academics, and the general public who came together to celebrate the wonder of the constant **π (Pi)** in the world of mathematics, science, and technology.
 
-## Peran Pi dalam Kemajuan Reltronland
+## The Role of Pi in Reltronland’s Advancement
 
-Dalam pidatonya, Presiden Rigle menekankan bagaimana **π (3.14159...)** bukan sekadar angka, tetapi juga simbol **ketekunan, eksplorasi, dan inovasi** yang telah membawa Reltronland menjadi pusat kemajuan peradaban di Asthortera.
+In his speech, President Rigle emphasized how **π (3.14159...)** is not merely a number, but a symbol of **perseverance, exploration, and innovation** that has propelled Reltronland to become a center of civilization and advancement in Asthortera.
 
-> "Pi adalah bukti bahwa sains dan matematika adalah bahasa universal yang menghubungkan seluruh peradaban. Seperti lingkaran yang tidak memiliki ujung, perjalanan kita dalam pengetahuan juga tidak mengenal batas."
+> "Pi is proof that science and mathematics are the universal languages that connect all civilizations. Like a circle with no end, our journey in the pursuit of knowledge also knows no bounds."
 
-Beliau juga menyoroti bagaimana **π digunakan dalam berbagai aspek kehidupan**, mulai dari teknologi arsitektur pencakar langit di Reltronepolis hingga perhitungan presisi dalam navigasi antariksa.
+He also highlighted how **π is used in many aspects of life**, from the architecture of skyscrapers in Reltronepolis to high-precision calculations in space navigation.
 
-## Inovasi dan Pendidikan Berbasis Matematika
+## Innovation and Math-Based Education
 
-Presiden Rigle mengumumkan inisiatif **"Pi for the Future"**, program pendidikan yang bertujuan untuk memperkuat literasi matematika bagi generasi muda Reltronland. Program ini akan memperkenalkan:
-- **Simulasi digital Pi dalam teknologi kuantum.**
-- **Beasiswa bagi mahasiswa matematika dan fisika.**
-- **Kompetisi inovasi berbasis Pi bagi peneliti muda.**
+President Rigle announced the **"Pi for the Future"** initiative, an educational program aimed at strengthening mathematical literacy among the younger generation of Reltronland. The program will introduce:
+- **Digital Pi simulations in quantum technology.**
+- **Scholarships for mathematics and physics students.**
+- **Innovation competitions based on Pi for young researchers.**
 
-Beliau juga menambahkan bahwa investasi dalam **sains dan pendidikan** akan menjadi pilar utama dalam mempertahankan dominasi Reltronland sebagai **pusat intelektual dan teknologi di Asthortera**.
+He further stated that investment in **science and education** will be a key pillar in maintaining Reltronland’s dominance as an **intellectual and technological superpower in Asthortera**.
 
-## Kesimpulan
+## Conclusion
 
-Acara Pi Day di Reltronepolis berakhir dengan **simulasi real-time perhitungan Pi** hingga miliaran digit menggunakan **komputer kuantum** terbaru. Presiden Rigle mengajak semua generasi untuk terus mengembangkan pemikiran analitis dan sains sebagai kunci menuju **kemajuan peradaban**.
+The Pi Day event in Reltronepolis concluded with a **real-time simulation calculating Pi** to billions of digits using the latest **quantum computers**. President Rigle invited all generations to continue cultivating analytical thinking and scientific curiosity as the key to **civilizational progress**.
 
-> "Matematika adalah jantung inovasi, dan Pi adalah denyut nadinya. Mari kita terus maju, tanpa batas, seperti angka Pi yang tak pernah berakhir."
+> "Mathematics is the heart of innovation, and Pi is its pulse. Let us move forward, without limits, like the infinite digits of Pi."
 
-Pi Day tahun ini menjadi momentum yang tidak hanya merayakan angka π, tetapi juga menegaskan **visi Reltronland dalam sains, teknologi, dan pendidikan** untuk masa depan. 🚀
-
+This year's Pi Day was not only a celebration of the number π, but also a reaffirmation of **Reltronland’s vision in science, technology, and education** for the future. 🚀
