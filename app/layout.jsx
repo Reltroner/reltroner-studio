@@ -7,7 +7,10 @@ export default function Layout({ children }) {
     return (
         <html lang="en" className={roboto.variable}>
             <head>
-                <title>My First Next App</title>
+            <title>Reltroner Studio</title>
+                    <link rel="icon" href="/reltroner-studio.png" type="image/png" />
+                    {/*  jika punya .ico: */}
+                    {/* <link rel="icon" href="/reltroner-logo.ico" type="image/x-icon" /> */}
             </head>
             <body className="bg-slate-100 px-5 py-5 flex flex-col min-h-screen">
                 <header>
