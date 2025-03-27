@@ -1,42 +1,48 @@
 import Link from "next/link";
+import PostCard from "@/components/PostCard";
 import Heading from "@/components/Heading";
+
+export const metadata = {
+  title: "Home",
+  description: "Welcome to the home page about world-building!"
+};
 
 export default function Home() {
   const posts = [
     {
       title: "World Building Basics",
       description: "Exploring the fundamentals of world-building for creative writing.",
-      link: "/blog/worldbuilding",
+      slug: "worldbuilding",
       image: "/images/WorldBuilding.jpg"
     },
     {
       title: "Magic System: Astralis vs Nytherion",
       description: "Explore the core metaphysical conflict between creation and illusion in Asthortera.",
-      link: "/blog/magic-system",
+      slug: "magic-system",
       image: "/images/magic-astralis-nytherion.webp"
     },
     {
       title: "Cultures & Civilizations",
       description: "Building realistic cultures and societies for your world.",
-      link: "/blog/cultures-civilizations",
+      slug: "cultures-civilizations",
       image: "/images/culciv.webp"
     },
     {
       title: "Politics",
       description: "Understanding political systems and power dynamics in your world.",
-      link: "/blog/politics",
+      slug: "politics",
       image: "/images/politics.webp"
     },
     {
       title: "Locations/Geography",
       description: "Designing immersive landscapes and geographic features.",
-      link: "/blog/locations",
+      slug: "locations",
       image: "/images/locations.webp"
     },
     {
       title: "Events",
       description: "Creating impactful historical and future events for your world.",
-      link: "/blog/events",
+      slug: "events",
       image: "/images/events.webp"
     },
   ];
@@ -48,7 +54,7 @@ export default function Home() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {posts.map((post, index) => (
-          <Link href={post.link} key={index} className="block h-full">
+          <Link href={`/blog/${post.slug}`} key={index} className="block h-full">
           <div className="flex flex-col justify-between h-full border rounded-lg shadow-md overflow-hidden hover:shadow-lg transition duration-300 min-h-[300px]">
             <img
               src={post.image}

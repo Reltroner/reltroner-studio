@@ -1,6 +1,10 @@
 import Heading from "@/components/Heading";
 import { getPost } from "@/lib/post";
 
+export const metadata = {
+    title: "Disclaimer",
+    description: "Legal disclaimer for Astralis Pinnacle and Red Pill concepts.",
+  };
 
 export default async function Legal() {
     const post = await getPost("legal-disclaimer");

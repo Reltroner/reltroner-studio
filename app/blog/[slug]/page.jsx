@@ -1,29 +1,54 @@
 import Heading from "@/components/Heading";
-import { getPost } from "@/lib/post";
+import { getPost, getAllPosts } from "@/lib/post";
 
-export default async function Basic({ params: { slug } }) {
-    const post = await getPost(slug);
-
-    return (
-        <div>
-            <Heading>{post.title}</Heading>
-            <p className="text-sm text-gray-500">{post.description}</p>
-            <p className="italic text-sm pb-2">
-                {post.date} - {post.published ? 'Published' : 'Draft'}
-            </p>
-
-            <div className="flex gap-5">
-                <a href="" target="_blank" rel="noreferrer"></a><br />
-                <a href="" target="_blank" rel="noreferrer"></a><br />
-                <a href="" target="_blank" rel="noreferrer"></a><br />
-                <a href="" target="_blank" rel="noreferrer"></a><br />
-                <a href="" target="_blank" rel="noreferrer"></a>
-            </div>
-
-            {/* Gambar Dinamis dari Metadata Markdown */}
-            <img src={post.image} alt={post.title} width={640} height={400} className="mb-3"/>
-
-            <article dangerouslySetInnerHTML={{ __html: post.html }} className="max-w-screen-sm prose prose-slate"/>
-        </div>
-    );
+// ✅ WAJIB: Generate semua slug agar tidak error
+export async function generateStaticParams() {
+    console.log("Generating static params for blog posts");
+    const posts = await getAllPosts();
+    return posts.map((post) => ({
+        slug: post.slug,
+    }));
 }
+
+export async function generateMetadata({ params: { slug } }) {
+    console.log("Generating metadata for blog post", slug);
+    const post = await getPost(slug); // ✅ langsung pakai slug
+    return {
+      title: post.title,
+      description: post.description,
+    };
+  }
+  
+
+// ✅ Halaman BlogPostPage
+export default async function BlogPostPage(props) {
+    const { params } = await props; // FIX UTAMA
+    console.log("Rendering blog post page", params);
+    const post = await getPost(params.slug);
+  
+    if (!post || !post.title) {
+      return <div className="p-6 text-red-500 font-bold">Post not found</div>;
+    }
+  
+    return (
+      <div className="max-w-screen-md mx-auto px-4 py-6">
+        <Heading>{post.title}</Heading>
+        <p className="text-sm text-gray-600">{post.description}</p>
+        <p className="italic text-sm text-gray-500 mb-4">
+          {post.date} — {post.published ? "Published" : "Draft"}
+        </p>
+        {post.image && (
+          <img
+            src={post.image}
+            alt={post.title}
+            className="w-full h-auto rounded-lg mb-6 object-cover"
+          />
+        )}
+        <article
+          className="prose prose-slate max-w-none text-justify"
+          dangerouslySetInnerHTML={{ __html: post.html }}
+        />
+      </div>
+    );
+  }
+  

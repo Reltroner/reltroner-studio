@@ -3,6 +3,14 @@ import './global.css';
 import Navbar from "@/components/Navbar";
 import { roboto } from "./fonts";
 
+export const metadata = {
+    title: {
+        default: "Reltroner Studio",
+        template: "%s | Reltroner Studio",
+    },
+    description: "Reltroner Studio is a digital agency specializing in web development and creative sanctuary of the fictional universe Asthortera.",
+  };
+
 export default function Layout({ children }) {
     return (
         <html lang="en" className={roboto.variable}>

@@ -1,5 +1,10 @@
 import Heading from "@/components/Heading";
 
+export const metadata = {
+    title: "About",
+    description: "Learn more about Reltroner Studio and the fictional universe Asthortera.",
+  };
+
 export default function About() {
     return (
         <div className="max-w-3xl mx-auto px-4 py-8 text-gray-800">
