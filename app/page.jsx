@@ -22,6 +22,14 @@ export default function Home() {
       image: "/images/magic-astralis-nytherion.webp"
     },
     {
+      title: "Creative Lore Bible",
+      description: "The ideological framework and worldbuilding foundation of Reltroner Studio — where illusion meets clarity, and fiction becomes a manifesto.",
+      slug: "creative-lore-bible",
+      image: "/images/creative-lore-bible.png",
+      author: "Reltroner Studio",
+      date: "March 28, 2025"
+    },
+    {
       title: "Cultures & Civilizations",
       description: "Building realistic cultures and societies for your world.",
       slug: "cultures-civilizations",

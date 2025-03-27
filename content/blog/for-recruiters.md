@@ -31,7 +31,7 @@ If you’re a recruiter, collaborator, or company owner interested in working wi
 
 📧 **edward5raidan54@gmail.com**  
 💻 **https://github.com/Reltroner/reltroner-studio**  
-🧠 **https://reltroner-studio.vercel.app/**
+🌐 **https://www.reltroner.com/**
 
 ---
 
