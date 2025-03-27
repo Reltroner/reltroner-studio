@@ -254,7 +254,7 @@ Let Astralis light the unknown.
 📄 Download PDF Version
 </a>
 
-<a href="/content/blog/external-creator-handbook" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
+<a href="/blog/external-creator-handbook" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
 ➡️ External Creator Handbook
 </a>
 
