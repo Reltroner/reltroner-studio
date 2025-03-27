@@ -75,7 +75,7 @@ Violation = **license revocation + IP infringement process**.
 ---
 
 ## 📬 5. Contact & Submission
-- All applications go to: [collab@reltroner.com]
+- All applications go to: [collab@reltroner.com](comming soon)
 - Allow 7–14 days for review
 - Emergency questions: contact Lore Verification Officer via internal channel (if granted)
 
