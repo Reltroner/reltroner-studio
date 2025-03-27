@@ -4,7 +4,7 @@ export default function Navbar() {
     return (
         <div className="overflow-x-auto whitespace-nowrap px-4 py-3 bg-white shadow-sm">
             <nav>
-                <ul className="flex gap-5 font-roboto text-base sm:text-lg">
+                <ul className="flex min-w-max gap-5 font-roboto text-base sm:text-lg pr-4">
                     <li><Link href="/" className="hover:underline">Home</Link></li>
                     <li><Link href="/about" className="hover:underline">About</Link></li>
                     <li><Link href="/blog" className="hover:underline">Blog</Link></li>
