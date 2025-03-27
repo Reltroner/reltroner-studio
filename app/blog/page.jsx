@@ -88,6 +88,14 @@ export default function Blog() {
             image: "/images/astralis-evaluation-banner.png",
             author: "Raidan",
             date: "2025-03-26"
+        },
+        {
+          title: "Reltroner Studio – External Creator Handbook",
+          description: "A concise PDF guide for external collaborators seeking to contribute within the Asthortera universe under Reltroner Studio.",
+          slug: "external-creator-handbook",
+          image: "/images/external-creator-handbook.png",
+          author: "Raidan",
+          date: "2025-03-28",
         }
         
         
