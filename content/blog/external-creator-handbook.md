@@ -88,7 +88,7 @@ We believe in creators who fight illusion with clarity, and fiction with purpose
 
 <div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
 
-<a href="#" style="padding: 0.75rem 1.5rem; background-color: #2D2F36; color: white; text-decoration: none; border-radius: 8px;">
+<a href="/" style="padding: 0.75rem 1.5rem; background-color: #2D2F36; color: white; text-decoration: none; border-radius: 8px;">
 🔙 Back to Home
 </a>
 
@@ -96,7 +96,7 @@ We believe in creators who fight illusion with clarity, and fiction with purpose
 📄 Download PDF Version
 </a>
 
-<a href="/content/blog/creative-lore-bible.md" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
+<a href="/content/blog/creative-lore-bible" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
 ➡️ Creative Lore Bible
 </a>
 

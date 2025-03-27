@@ -47,3 +47,11 @@ For inquiries or collaboration, contact:
 
 > **“True originality isn’t about avoiding inspiration — it’s about building a system the world has never seen.”**  
 > — Reltroner Studio
+
+<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+
+<a href="/files/reltroner-studio-legal-declaration.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
+📄 Download PDF Version
+</a>
+
+</div>

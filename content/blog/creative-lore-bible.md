@@ -246,7 +246,7 @@ Let Astralis light the unknown.
 
 <div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
 
-<a href="#" style="padding: 0.75rem 1.5rem; background-color: #2D2F36; color: white; text-decoration: none; border-radius: 8px;">
+<a href="/" style="padding: 0.75rem 1.5rem; background-color: #2D2F36; color: white; text-decoration: none; border-radius: 8px;">
 🔙 Back to Home
 </a>
 
@@ -254,7 +254,7 @@ Let Astralis light the unknown.
 📄 Download PDF Version
 </a>
 
-<a href="/content/blog/external-creator-handbook.md" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
+<a href="/content/blog/external-creator-handbook" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
 ➡️ External Creator Handbook
 </a>
 
