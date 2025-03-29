@@ -36,7 +36,7 @@ export default function Home() {
       image: "/images/lorebook-asthortera.png",
       author: "Reltroner Studio",
       published: true,
-      date: "2025-03-29",
+      date: "March 29, 2025",
       
     },
     {

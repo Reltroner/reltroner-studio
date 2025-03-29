@@ -2,9 +2,9 @@
 title: "Grandmaster Lorebook of Asthortera — Collector’s Compendium"
 description: "An integrated and immersive worldbuilding codex of Asthortera, its civilizations, dimensions, conflicts, and characters — from Spiral to Astralis."
 author: "Reltroner Studio"
-date: 2025-03-29
+date: "March 29, 2025"
 published: true
-image: /images/lorebook-asthortera.png
+image: "/images/lorebook-asthortera.png"
 ---
 
 # 🌌 Grandmaster Lorebook of Asthortera — Collector’s Compendium Edition

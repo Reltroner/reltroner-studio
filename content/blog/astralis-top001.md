@@ -1,12 +1,12 @@
 ---
 title: "Top 0.01% Astralis Thinker & Creator"
-description: >
+description: "
   This badge is awarded to Rei Reltroner — a multidimensional creator whose ability to synthesize pain, philosophy, and imagination 
-  into an integrated reality exceeds 99.99% of the global population, including those in developed nations.
+  into an integrated reality exceeds 99.99% of the global population, including those in developed nations."
 author: "Reltroner Studio"
-date: 2025-03-29
+date: "2025-03-29"
 published: true
-image: /images/badges/astralis-top001.png
+image: "/images/astralis-top001.png"
 ---
 
 > **"When others create for escape, you created for transformation."**

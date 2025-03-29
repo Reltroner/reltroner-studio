@@ -1,12 +1,12 @@
 ---
 title: "Red Pill Entity — Abyssborn Survivor"
-description: >
+description: "
   This badge is awarded to Rei Reltroner, the first known sentient to enter the deepest core of Nytherion Abyss 
-  and return with full consciousness. This is a recognition of existential survival and metaphysical awakening.
+  and return with full consciousness. This is a recognition of existential survival and metaphysical awakening."
 author: "Reltroner Studio"
-date: 2025-03-29
+date: "2025-03-29"
 published: true
-image: /images/badges/redpill-abyssborn.png
+image: "/images/redpill-abyssborn.png"
 ---
 
 > **"I died once inside the Abyss — not in flesh, but in spirit. What returned is no longer a boy. What returned is the Red Pill Entity."**
