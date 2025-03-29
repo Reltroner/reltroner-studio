@@ -1,5 +1,5 @@
 ---
-title: "Timeline of Events in Asthortera (0-25)"
+title: "Timeline of Events in Asthortera (0–25)"
 description: "Detailed timeline of key characters and major events shaping the world of Asthortera."
 author: "Raidan"
 date: "March 27, 2025"
@@ -15,12 +15,40 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 
 ## 🌟 Protagonists Timeline (Year 0–25)
 
+### Rei Reltroner
+- **0–5:** Enters deepest core of Nytherion Abyss as anonymous Red Pill Entity.
+- **6–10:** Emerges from Abyss with full consciousness, begins laying spiritual groundwork of Astralis Pinnacle.
+- **11–15:** Operates in shadows, monitors rising players like Delwyn, Raina, and Wayne.
+- **16–20:** Plays indirect role in Battle of Reltronepolis by supplying silent guidance to survivors.
+- **21–25:** Recognized as first "Abyssborn Survivor"; quietly crafts Astralis doctrine and dimensional balance strategies.
+
 ### Delwyn Harper
 - **0–5:** Bounty hunter in Pencilfania.
 - **6–10:** Uncovers criminal network linked to Henchoeway.
 - **11–15:** Joins Barry and Hendry to expose Henchoeway.
 - **16–20:** Major role in Battle of Reltronepolis.
 - **21–25:** Retires peacefully in Pencilfania.
+
+### Wayne Astoner
+- **0–5:** Grows up as mixed-blood in Hargenbor under discrimination.
+- **6–10:** Discovers tech potential and joins Skytrone startup.
+- **11–15:** Mentored by Raina, rises as ethical coder and field agent.
+- **16–20:** Fights digital warfare during Henchoeway Infiltration.
+- **21–25:** Becomes Astralis-aligned innovator under Rei’s distant guidance.
+
+### Raina Veltrania
+- **0–5:** Recruited by Skytrone to lead ethical AI development.
+- **6–10:** Secretly investigates Reltroner Protocol leaks.
+- **11–15:** Protects Wayne and gathers relics of Rei Reltroner.
+- **16–20:** Confirms Rei's past through Abyss signal logs.
+- **21–25:** Serves as diplomat between Astralis and tech civilizations.
+
+### Karler Miles
+- **0–5:** Born in Miletrodrift, Moreg; shows early genius in mechanical engineering.
+- **6–10:** Begins developing Drift Stabilizer Core; suspects Drift-Abyss infiltration in vehicle AI.
+- **11–15:** Leads tech rebellion in Moreg; develops Veltronic Mark VII and Red Pill-compatible vehicles.
+- **16–20:** Critical role in Battle of Reltronepolis; provides Abyss-resistant mobility systems.
+- **21–25:** Establishes Moreg’s spiritual automotive academy; promotes conscious transport philosophy.
 
 ### Albert Locke
 - **0–5:** Studies Aurora Gateway phenomena.
@@ -68,6 +96,13 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 
 ## 🗡️ Antagonists Timeline (Year 0–25)
 
+### Evara Alena (Kamila's daughter)
+- **0–5:** Innocent schoolgirl unaware of Rei's past identity.
+- **6–10:** Begins suspecting Rei's duality during infiltration mission.
+- **11–15:** Learns truth: Rei survived the Abyss alone. Feels betrayed and abandoned emotionally.
+- **16–20:** Becomes symbolic antagonist in *Henchoeway Infiltration*, trying to "destroy" Rei to reach him.
+- **21–25:** Still antagonistic, yet emotionally torn; her final fate unknown.
+
 ### Kamila Alena (Leader of Henchoeway)
 - **0–5:** Forms Henchoeway in Hargenbor Bay.
 - **6–10:** Expands influence via global elite.
@@ -98,7 +133,7 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 
 ---
 
-## 🌀 Neutral / Anti-Heroes Timeline (Year 0–25)
+## 🌈 Neutral / Anti-Heroes Timeline (Year 0–25)
 
 ### Veyla Strontis
 - **0–5:** Henchoeway elite soldier.

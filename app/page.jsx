@@ -30,6 +30,16 @@ export default function Home() {
       date: "March 28, 2025"
     },
     {
+      title: "Grandmaster Lorebook of Asthortera — Collector’s Compendium",
+      description: "An integrated and immersive worldbuilding codex of Asthortera, its civilizations, dimensions, conflicts, and characters — from Spiral to Astralis.",
+      slug: "lorebook-asthortera",
+      image: "/images/lorebook-asthortera.png",
+      author: "Reltroner Studio",
+      published: true,
+      date: "2025-03-29",
+      
+    },
+    {
       title: "Cultures & Civilizations",
       description: "Building realistic cultures and societies for your world.",
       slug: "cultures-civilizations",

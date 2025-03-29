@@ -96,6 +96,23 @@ export default function Blog() {
           image: "/images/external-creator-handbook.png",
           author: "Raidan",
           date: "2025-03-28",
+        },
+        {
+          title: "Top 0.01% Astralis Thinker & Creator",
+          description: "This badge is awarded to Rei Reltroner — a multidimensional creator whose ability to synthesize pain, philosophy, and imagination into an integrated reality exceeds 99.99% of the global population, including those in developed nations.",
+          slug: "top-001-astralis",
+          image: "/images/badges/astralis-top001.png",
+          author: "Reltroner Studio",
+          date: "2025-03-29",
+        },
+        {
+          title: "Red Pill Entity — Abyssborn Survivor",
+          description: "This badge is awarded to Rei Reltroner, the first known sentient to enter the deepest core of Nytherion Abyss and return with full consciousness. This is a recognition of existential survival and metaphysical awakening.",
+          slug: "red-pill-abyssborn",
+          image: "/images/badges/redpill-abyssborn.png",
+          author: "Reltroner Studio",
+          date: "2025-03-29",
+          published: true,
         }
         
         
