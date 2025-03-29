@@ -81,17 +81,17 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 
 ## IV. Key Series and Timeline
 
-| Year | Arc/Event                         | Main Protagonists             | Main Antagonists                  |
-|------|-----------------------------------|-------------------------------|-----------------------------------|
-| 0–15 | The Spiral and The Astralis       | Rei, Evara                    | Spiral Energy                     |
-| 0–15 | Spiral Containment Initiative     | Rei (disguised)              | Abyssal anomalies                 |
-| 6–25 | The Abyss of Comfort              | Delwyn, Barry, Valethra       | Kamila, Henchoeway                |
-| 6–25 | Delwyn's Bounty Hunter Team       | Delwyn, Hendry, Barry         | Blackmarket Syndicates           |
+| Year | Arc/Event                         | Main Protagonists             | Main Antagonists                 |
+|------|-----------------------------------|-------------------------------|----------------------------------|
+| 0–15 | The Spiral and The Astralis       | Rei                           | Evara, Spiral Energy             |
+| 0–15 | Spiral Containment Initiative     | Rei (disguised)               | Abyssal anomalies                |
+| 6–25 | The Abyss of Comfort              | Delwyn, Barry, Valethra       | Kamila, Henchoeway               |
+| 6–25 | Delwyn's Bounty Hunter Team       | Delwyn, Redley, Sterling      | Blackmarket Syndicates           |
 | 6–25 | Barry & Hendry Arc                | Barry, Hendry                 | Technocratic Spiral Cult         |
 | 6–25 | Valethra & Albert Arc             | Valethra, Albert              | Celestial Deceivers              |
 | 11–13| The Freezone Code                 | Wayne, Raina                  | Caldron Gandia                   |
 | 0–25 | Karler & The Moreg Driftwar       | Karler Miles, Rei             | Drift Tech Abyss                 |
-| 16–20| Battle of Reltronepolis           | All protagonists              | Spiral Army                      |
+| 16–20| Battle of Reltronepolis           | All protagonists              | Spiral Army, Henchoeway, Depeisit Army                      |
 | 6–20 | Rise & Fall of Henchoeway         | Delwyn, Rei, Barry            | Kamila, Spiral Council           |
 
 ---
