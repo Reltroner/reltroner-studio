@@ -9,6 +9,8 @@ image: "/images/for-recruiters-banner.webp"
 ## 🧭 For Recruiters & Collaborators
 
 Hello,  
+My name is Raidan (Rei Reltroner), a self-taught full stack developer, creative IP world-builder, and visionary founder of Reltroner Studio. This section is a gateway for recruiters and partners to explore the fusion of software engineering, narrative development, and futuristic world strategy.
+
 I am the creator of **Reltroner Studio** — a self-branding and worldbuilding project built with **full dedication, wild imagination, and commitment to real work**.
 
 This website is an expression of who I am, without the need to show my face. For me, **true identity doesn't come from appearance, but from results, consistency, and the courage to take risks.**
