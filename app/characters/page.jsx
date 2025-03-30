@@ -113,7 +113,7 @@ export default function Characters() {
             <div className="flex flex-col justify-between h-full border rounded-lg shadow-md overflow-hidden hover:shadow-lg hover:scale-105 transition duration-300 min-h-[300px]">
               <img
                 src={character.image}
-                alt={character.name}
+                alt={`${character.name}, ${character.role}`}
                 className="w-full max-h-[400px] object-contain mx-auto"
               />
               <div className="p-4 flex flex-col flex-grow">
