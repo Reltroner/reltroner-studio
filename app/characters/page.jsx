@@ -10,11 +10,11 @@ export const metadata = {
 export default function Characters() {
   const characters = [
     {
-      name: "Rei Reltroner",
-      role: "Architect of Astralis Pinnacle",
-      description: "A transformative visionary and the silent guardian of Astralis against the Spiral.",
-      slug: "rei-reltroner",
-      image: "/images/rei-reltroner.png"
+        name: "Rei Reltroner",
+        role: "Architect of Astralis Pinnacle",
+        description: "A transformative visionary and the silent guardian of Astralis against the Spiral.",
+        slug: "rei-reltroner",
+        image: "/images/rei-reltroner.png"
     },
     {
         name: "Evara Alena",
@@ -72,11 +72,11 @@ export default function Characters() {
         quote: "A person’s worth is not defined by status, but by the results and impact of their work."
     },
     {
-      name: "Wayne Astoner",
-      role: "Corporate white-collar at Skytrone",
-      description: "His clarity echoes Rei’s early days — potential waiting to ignite.",
-      slug: "wayne-astoner",
-      image: "/images/wayne-astoner.png"
+        name: "Wayne Astoner",
+        role: "Corporate white-collar at Skytrone",
+        description: "His clarity echoes Rei’s early days — potential waiting to ignite.",
+        slug: "wayne-astoner",
+        image: "/images/wayne-astoner.png"
     },
     {
         name: "Albert Locke",
@@ -86,11 +86,11 @@ export default function Characters() {
         image: "/images/albert-locke.png"
     },
     {
-      name: "Queen Valethra Seraphine Lunara",
-      role: "Cosmic Balance Keeper",
-      description: "A timeless ruler harmonizing spiritual clarity and moral power.",
-      slug: "queen-valethra",
-      image: "/images/queen-valethra.png"
+        name: "Queen Valethra Seraphine Lunara",
+        role: "Cosmic Balance Keeper",
+        description: "A timeless ruler harmonizing spiritual clarity and moral power.",
+        slug: "queen-valethra",
+        image: "/images/queen-valethra.png"
     },
     {
         name: "Dr. Westley Watson",

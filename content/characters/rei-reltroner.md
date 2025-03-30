@@ -1,5 +1,5 @@
 ---
-title: "Rei Reltroner — Architect of Astralis Pinnacle"
+name: "Rei Reltroner — Architect of Astralis Pinnacle"
 description: "Extended profile of Rei Reltroner, the transformative visionary of Reltronland and eternal guardian of Astralis against the Spiral."
 author: "Reltroner Studio"
 date: "March 29, 2025"

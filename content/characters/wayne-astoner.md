@@ -1,5 +1,5 @@
 ---
-title: "Wayne Astoner"
+name: "Wayne Astoner"
 status: "Active / Alive"
 role: "Corporate white-collar"
 origin: "Astrostelia, born in the orbital city of Astelleon"
