@@ -26,7 +26,7 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 - **Population:** 272 billion
 - **SDI (Sentient Development Index):** 0.984/1
 - **Notable Figure:** Rei Reltroner
-- **District Highlight:** Little Reltrania (origin of Little Rei)
+- **District Highlight:** Reltrania (origin of Little Rei)
 
 ### ⚙️ Depcutland — "Echoes of Depeisit"
 - **Government Type:** Federal Industrial Technocracy

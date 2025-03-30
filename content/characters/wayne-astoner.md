@@ -88,7 +88,7 @@ He walks a thin line between being a changemaker and being consumed by the very 
 ## Relationships
 - **Raina Veltrania** – His direct mentor at Skytrone. Challenges and inspires Wayne, eventually becoming a key ally.
 - **Barry Heathrow** – Sees in Wayne the future of balanced leadership. Supports his efforts behind the scenes.
-- **Delwyn Hunson** – A figure of contrast and eventual collaboration. Wayne respects his logic but diverges on emotional strategy.
+- **Delwyn Harper** – A figure of contrast and eventual collaboration. Wayne respects his logic but diverges on emotional strategy.
 - **Evara Alena** – A mysterious connection from Kamila’s lineage. Their interactions shake Wayne’s belief in identity.
 - **Regulus Rigel** – Symbol of ideal Reltroner values. A silent judge of Wayne’s worth.
 
