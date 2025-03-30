@@ -11,7 +11,7 @@
 - **Core Trait:** Cold rationality mixed with quiet compassion
 - **Mission:** Safeguard Astralis from Spiral influence
 
-## 🌸 Evara Kamila
+## 🌸 Evara Alena
 - **Affiliation:** Hargenbor / Spiral Host
 - **Role:** Antagonist-Protagonist Paradox
 - **Background:** Daughter of Kamila, raised near Neopeltriana Abyss
@@ -20,7 +20,7 @@
 - **Signature Behavior:** Empty stares during high tension
 - **Bond:** Unspoken connection with Rei across all forms
 
-## 🪐 Delwyn Hunson
+## 🪐 Delwyn Harper
 - **Affiliation:** Pencilfania
 - **Role:** Scholar-Tactician
 - **Abilities:** Master of forbidden runes, deep spiral decoding

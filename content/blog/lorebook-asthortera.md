@@ -99,18 +99,29 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 ## V. Iconic Characters
 
 **🧠 Rei Reltroner**  
-- Builder of Astralis Pinnacle  
-- Capable of transforming into aircraft, skyscraper, or sentient machine  
-- Alias: Little Rei Reltrania (child form for infiltration missions)  
+- **Affiliation:** Reltronland
+- **Role:** Builder of Astralis Pinnacle, Transformative Agent
+- **Abilities:** Transforms into aircraft, skyscraper, sentient AI; master of Astralis logic
+- **Notable Alias:** Little Rere (child disguise)
+- **Signature Item:** Refillable blue soda can "Reltron Refresh"
+- **Core Trait:** Cold rationality mixed with quiet compassion
+- **Mission:** Safeguard Astralis from Spiral influence
 
-**🌸 Evara Kamila**  
-- Spiral Host, daughter of Kamila Alena  
-- Appears emotionless but forms cryptic bond with Rei  
-- Holds power to awaken the Abyss or destroy it  
+**🌸 Evara Alena**  
+- **Affiliation:** Hargenbor / Spiral Host
+- **Role:** Antagonist-Protagonist Paradox
+- **Background:** Daughter of Kamila, raised near Neopeltriana Abyss
+- **Abilities:** Spiral Manifestation, passive mind domination, ritual resonance
+- **Eye Color:** Violet glow under pressure
+- **Signature Behavior:** Empty stares during high tension
+- **Bond:** Unspoken connection with Rei across all forms
 
-**🪐 Delwyn Hunson**  
-- Researcher of forbidden magic and abyssal patterns  
-- Main POV of \"The Abyss of Comfort\"
+**🪐 Delwyn Harper**  
+- **Affiliation:** Pencilfania
+- **Role:** Scholar-Tactician
+- **Abilities:** Master of forbidden runes, deep spiral decoding
+- **Profession:** Lead researcher & bounty hunter commander
+- **Known For:** Building cross-continental bounty intelligence network
 
 **🕊 Valethra Seraphine**  
 - Queen of Aurastelia  

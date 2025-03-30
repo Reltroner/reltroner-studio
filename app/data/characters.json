@@ -1,0 +1,67 @@
+[
+    {
+      "name": "Rei Reltroner",
+      "role": "Architect of Astralis Pinnacle",
+      "description": "A transformative visionary and the silent guardian of Astralis against the Spiral.",
+      "slug": "rei-reltroner",
+      "image": "/images/rei-reltroner.png",
+      "quote": "He never looks back because he carries every ruin forward."
+    },
+    {
+      "name": "Kamila Alena",
+      "role": "Founder of Henchoeway",
+      "description": "The silent origin of Nytherion's chaos, carrying pain turned into strategy.",
+      "slug": "kamila-alena",
+      "image": "/images/kamila-alena.webp",
+      "quote": "She never raised her voice, yet entire nations shifted."
+    },
+    {
+      "name": "Velgrin Altherion",
+      "role": "Successor of the Abyss",
+      "description": "A quiet force born from absence, balancing destruction and silent longing.",
+      "slug": "velgrin-altherion",
+      "image": "/images/velgrin-altherion.png",
+      "quote": "I am not what you fear. I am what you left."
+    },
+    {
+      "name": "Faye Callister",
+      "role": "Voice of Radiant Memory",
+      "description": "Once a warm presence, now battling echoes of trauma from Nytherion’s pull.",
+      "slug": "faye-callister",
+      "image": "/images/faye-callister.webp",
+      "quote": "He’s not a savior. He’s the reason the world still has something left to save."
+    },
+    {
+      "name": "Wayne Astoner",
+      "role": "Emerging Astralis Inheritor",
+      "description": "His clarity echoes Rei’s early days — potential waiting to ignite.",
+      "slug": "wayne-astoner",
+      "image": "/images/wayne-astoner.webp",
+      "quote": "There’s something about him that makes me want to go further. As if he sees a version of me that hasn’t arrived yet."
+    },
+    {
+      "name": "Queen Valethra Seraphine Lunara",
+      "role": "Cosmic Balance Keeper",
+      "description": "A timeless ruler harmonizing spiritual clarity and moral power.",
+      "slug": "valethra-seraphine",
+      "image": "/images/queen-valethra.webp",
+      "quote": "Our methods differ, but his presence anchors the harmony we strive for."
+    },
+    {
+      "name": "Albert Locke",
+      "role": "Scientific Architect of Logic",
+      "description": "A quiet observer of metaphysics, rationality, and truth systems.",
+      "slug": "albert-locke",
+      "image": "/images/albert-locke.webp",
+      "quote": "He speaks few words, but every step he takes echoes in the laws of logic."
+    },
+    {
+      "name": "President Regulus Rigel",
+      "role": "President of Strategic Perfection",
+      "description": "Reltronland’s strongest hand of order — relentless and precise.",
+      "slug": "regulus-rigel",
+      "image": "/images/regulus-rigel.webp",
+      "quote": "He is the still point in a storm of progress."
+    }
+  ]
+  
