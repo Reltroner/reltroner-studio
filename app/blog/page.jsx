@@ -116,9 +116,17 @@ export default function Blog() {
         },
         {
           title: "Manifesto of Leadership",
-          description: "Sebuah manifesto kepemimpinan oleh Rei Reltroner, menyuarakan semangat ketegasan, visi jangka panjang, dan keteguhan dalam menghadapi realitas.",
+          description: "A leadership manifesto by Rei Reltroner, voicing the spirit of decisiveness, long-term vision, and steadfastness in the face of reality.",
           slug: "manifesto-leadership",
           image: "/images/manifesto-leadership.png",
+          author: "Raidan",
+          date: "2025-04-01"
+        },
+        {
+          title: "Astralis Vanguard Leader",
+          description: "Official certification for Rei Reltroner as the highest level leader in the Astralis Pinnacle structure, with a leadership index of 97.1 out of 100.",
+          slug: "astralis-vanguard",
+          image: "/images/astralis-vanguard.png",
           author: "Raidan",
           date: "2025-04-01"
         }
