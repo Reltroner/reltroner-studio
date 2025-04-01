@@ -129,7 +129,16 @@ export default function Blog() {
           image: "/images/astralis-vanguard.png",
           author: "Raidan",
           date: "2025-04-01"
+        },
+        {
+          title: "Astralis Leadership Origin",
+          description: "The origin story of Rei Reltroner's leadership, forged not by systems, but through collapse, self-reinvention, and the relentless pursuit of meaning.",
+          slug: "astralis-leadership-origin",
+          image: "/images/astralis-leadership-origin.png",
+          author: "Raidan",
+          date: "2025-04-01"
         }
+        
         
         
         

@@ -1,6 +1,6 @@
 ---
 title: "Manifesto of Leadership"
-description: "Sebuah manifesto kepemimpinan oleh Rei Reltroner, menyuarakan semangat ketegasan, visi jangka panjang, dan keteguhan dalam menghadapi realitas."
+description: "A leadership manifesto by Rei Reltroner, voicing the spirit of decisiveness, long-term vision, and steadfastness in the face of reality."
 image: "/images/manifesto-leadership.png"
 author: "Raidan"
 published: true
