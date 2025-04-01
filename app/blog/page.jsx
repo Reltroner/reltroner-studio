@@ -113,7 +113,16 @@ export default function Blog() {
           author: "Reltroner Studio",
           date: "2025-03-29",
           published: true,
+        },
+        {
+          title: "Manifesto of Leadership",
+          description: "Sebuah manifesto kepemimpinan oleh Rei Reltroner, menyuarakan semangat ketegasan, visi jangka panjang, dan keteguhan dalam menghadapi realitas.",
+          slug: "manifesto-leadership",
+          image: "/images/manifesto-leadership.png",
+          author: "Raidan",
+          date: "2025-04-01"
         }
+        
         
         
     ];

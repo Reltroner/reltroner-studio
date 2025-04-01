@@ -6,8 +6,8 @@
 - **Affiliation:** Reltronland
 - **Role:** Builder of Astralis Pinnacle, Transformative Agent
 - **Abilities:** Transforms into aircraft, skyscraper, sentient AI; master of Astralis logic
-- **Notable Alias:** Little Rei Reltrania (child disguise)
-- **Signature Item:** Refillable blue soda can "Reltron Refresh"
+- **Notable Alias:** Little Rere (child disguise)
+- **Signature Item:** Refillable blue soda can "Reltron Refresh"(child disguise), Notebook (default)
 - **Core Trait:** Cold rationality mixed with quiet compassion
 - **Mission:** Safeguard Astralis from Spiral influence
 
