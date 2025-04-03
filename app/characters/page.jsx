@@ -99,7 +99,24 @@ export default function Characters() {
         slug: "westley-watson",
         image: "/images/westley-watson.png",
         quote: "Knowledge is power... but only to those who know how to wield it."
-    }
+    },
+    {
+      name: "Franklin Scouter",
+      role: "Senior Scout Mentor of Oakcottage",
+      description: "A grounded and principled leader from Whispergrove Forest, Franklin is the only person who feels the void left by Georger’s disappearance, despite not remembering him. His quiet resilience and deep connection with nature make him a guardian of forgotten truths.",
+      slug: "franklin-scouter", 
+      image: "/images/franklin-scouter.png", 
+      quote: "There’s a name stuck in my heart, though I’ve never heard it before."
+  },
+  {
+      name: "Georger Woodman", 
+      role: "Scout Creator & Viral Influencer",
+      description: "A visionary content creator who blended scouting tradition with modern digital storytelling. Once beloved by billions, he vanished mysteriously into the Nytherion Abyss, erasing all traces of his existence — except a lingering echo in Whispergrove.",
+      slug: "georger-woodman",
+      image: "/images/georger-woodman.png", 
+      quote: "Maybe I just wanted to be remembered for something that mattered."
+  }
+  
   ];
 
   return (

@@ -137,11 +137,16 @@ export default function Blog() {
           image: "/images/astralis-leadership-origin.png",
           author: "Raidan",
           date: "2025-04-01"
+        },
+        {
+          title: "Full Stack Developer Interview Simulation – Project Walkthrough & Security Readiness",
+          description: "A simulated technical interview showcasing project understanding, structure, logic flow, deployment, and error handling of a full stack attendance management system.",
+          slug: "fullstack-interview-summary",
+          image: "fullstack-interview-summary.png",
+          author: "Rei Reltroner",
+          date: "2025-04-03"
         }
-        
-        
-        
-        
+           
     ];
 
     return (

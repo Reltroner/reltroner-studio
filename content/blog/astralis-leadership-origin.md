@@ -25,7 +25,7 @@ Rei Reltroner did not rise as a leader through traditional institutions or campu
 |--------|-------------------|
 | Campus Organization Leadership | 2.0 |
 | Class Duty Leadership (High School) | 1.5 |
-| Group Project Leadership | 1.0 |
+| Group Project Leadership (High School & Campus)| 1.0 |
 | All School & College Organization Participation | 1.5 |
 | Life Decision Leadership | 8.0 |
 
