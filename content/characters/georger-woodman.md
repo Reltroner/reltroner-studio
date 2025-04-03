@@ -5,7 +5,8 @@ description: "A visionary content creator who blended scouting tradition with mo
 image: "/images/georger-woodman.png"
 quote: "Maybe I just wanted to be remembered for something that mattered."
 ---
-# Character Profile: Georger Woodman
+---
+# Georger Woodman
 
 ## Basic Information
 - **Full Name:** Georger Woodman  

@@ -1,5 +1,5 @@
 ---
-title: "Reltroner Studio Portfolio"
+title: "Reltroner Studio Principles"
 date: "2025-03-22"
 published: true
 image: "/images/reltroner-studio-banner.webp"
@@ -10,6 +10,64 @@ image: "/images/reltroner-studio-banner.webp"
 **Visionary Code, Timeless Legacy.**
 
 Welcome to **Reltroner Studio**, an independent digital studio founded by **Raidan the Reltroner**, designed as a reflection of the Astralis Pinnacle principles: clarity, depth, mastery, and futuristic ambition. Our mission is to craft not just software, but **structures of thought**, **immersive systems**, and **legacy-defining technology**.
+
+Not just a project, not just a startup, but a **civilization built on mental warfare, purpose, and precision.**
+
+This is not where people come to relax.  
+This is where people come to **execute.**
+
+---
+
+## 🔥 1. “Sleep is Optional, Execution is Eternal.”
+
+We don’t chase 8-hour sleeps.  
+We chase visions that keep us awake.
+
+> If an idea comes at 3:21 AM,  
+> We write it down.  
+> Because we respect the gift of awareness.
+
+---
+
+## 🧠 2. “We Don’t Follow the Clock. We Follow the Vision.”
+
+Reltroner Studio is **not bound by calendar hours**.  
+Ideas, innovation, and breakthroughs don’t wait for Monday 9AM.  
+So neither do we.
+
+> Mental readiness beats timezones.  
+> Passion overrides comfort.
+
+---
+
+## 🧱 3. “Don’t Ask for Peace — Build the System That Earns It.”
+
+Peace is not granted.  
+It is architected through order, rigor, and discipline.
+
+> In chaos, we build structure.  
+> In noise, we build silence through systems.
+
+---
+
+## ⚙️ 4. “You’re Not Here to Chill. You’re Here to Conquer.”
+
+Reltroner Studio is **not a cozy startup**.  
+It is an elite unit of sentient builders, coders, and thinkers.
+
+> We don’t just deliver features.  
+> We craft legacy.
+
+---
+
+## 🧬 Culture Summary
+
+| Pillar         | Description                                      |
+|----------------|--------------------------------------------------|
+| 🔧 Meritocracy | Rank by contribution, not title.                 |
+| 🔥 Hustle      | We move fast, break comfort, and fix meaningfully. |
+| 🧠 Awareness   | If it must be written, then write it now.        |
+| 📡 Execution   | Every task is a mission. No "half-commits."      |
 
 ---
 
@@ -65,6 +123,19 @@ We don't chase trends. We **write timelines**.
 
 ---
 
+## 🏁 Final Words
+
+Reltroner Studio is not about sleep or hype.  
+It’s about **output, accountability, and relentless clarity**.
+
+We don’t look for “balance.”  
+We look for **alignment**.
+
+Welcome to the Forge.  
+**You either burn with the mission, or burn out trying.**
+
+---
+
 ## 🌐 Contact
 📮 Email: [edward5raidan54@gmail.com](mailto:edward5raidan54@gmail.com)  
 🧠 GitHub: [https://github.com/Reltroner](https://github.com/Reltroner/reltroner-studio.git) *(sample placeholder)*  
@@ -73,4 +144,4 @@ We don't chase trends. We **write timelines**.
 ---
 
 Built with fire, vision, and code.  
-**– Raidan, Founder of Reltroner Studio**
+**– Rei Reltroner (Raidan), Founder of Reltroner Studio**

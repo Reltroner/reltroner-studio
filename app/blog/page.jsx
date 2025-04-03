@@ -50,7 +50,7 @@ export default function Blog() {
             date: "2025-03-22"
         },
         {
-            title: "Reltroner Studio Portfolio",
+            title: "Reltroner Studio Principles",
             description: "Explore the philosophy, mission, and future-facing projects of Reltroner Studio.",
             slug: "reltroner",
             image: "/images/reltroner-studio-banner.webp",

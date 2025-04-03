@@ -5,7 +5,8 @@ description: "A grounded and principled leader from Whispergrove Forest, Frankli
 image: "/images/franklin-scouter.png"
 quote: "There’s a name stuck in my heart, though I’ve never heard it before."
 ---
-# Character Profile: Franklin Scouter
+---
+# Franklin Scouter
 
 ## Basic Information
 - **Full Name:** Franklin Scouter  
