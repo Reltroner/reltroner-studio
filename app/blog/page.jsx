@@ -50,7 +50,7 @@ export default function Blog() {
             date: "2025-03-22"
         },
         {
-            title: "Reltroner Studio Principles",
+            title: "Reltroner Studio Manifesto: Building Systems Beyond Survival",
             description: "Explore the philosophy, mission, and future-facing projects of Reltroner Studio.",
             slug: "reltroner",
             image: "/images/reltroner-studio-banner.webp",
