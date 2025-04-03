@@ -1,3 +1,10 @@
+---
+name: "Georger Woodman"
+role: "Scout Creator & Viral Influencer"
+description: "A visionary content creator who blended scouting tradition with modern digital storytelling. Once beloved by billions, he vanished mysteriously into the Nytherion Abyss, erasing all traces of his existence — except a lingering echo in Whispergrove."
+image: "/images/georger-woodman.png"
+quote: "Maybe I just wanted to be remembered for something that mattered."
+---
 # Character Profile: Georger Woodman
 
 ## Basic Information

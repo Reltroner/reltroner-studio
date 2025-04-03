@@ -2,14 +2,14 @@
 name: "Oakcottage Headquarters"
 type: "Institution"
 location: "Whispergrove Forest, East Scotpaders, Stelpadland"
-slug: "oakcottage-headquarters"
 image: "/images/oakcottage-hq.png"
 description: "A legendary scouting institution rooted in the heart of Whispergrove Forest. Oakcottage trains leaders of character and resilience, blending nature, survival, and spiritual development into a sacred rite of passage."
 established: "Year 712 (Stelpad Calendar)"
 affiliation: "Ministry of Education & character Formation, Stelpadland"
 quote: "We remember even what the world forgets."
 ---
-# Organization Profile: Oakcottage Headquarters
+---
+# Oakcottage Headquarters
 
 ## General Information
 - **Name:** Oakcottage Headquarters  

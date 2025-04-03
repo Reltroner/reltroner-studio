@@ -142,7 +142,7 @@ export default function Blog() {
           title: "Full Stack Developer Interview Simulation – Project Walkthrough & Security Readiness",
           description: "A simulated technical interview showcasing project understanding, structure, logic flow, deployment, and error handling of a full stack attendance management system.",
           slug: "fullstack-interview-summary",
-          image: "fullstack-interview-summary.png",
+          image: "/images/fullstack-interview-summary.png",
           author: "Rei Reltroner",
           date: "2025-04-03"
         }

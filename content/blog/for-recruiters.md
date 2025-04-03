@@ -50,3 +50,19 @@ I also maintain a dedicated public repository to **document real-world coding er
 
 I may not appear on camera,  
 But I’m **fully present in every line of code and trace of my work.**
+
+<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+
+<a href="/blog" style="padding: 0.75rem 1.5rem; background-color: #2D2F36; color: white; text-decoration: none; border-radius: 8px;">
+🔙 Back to Blog
+</a>
+
+<a href="/files/for-recruiters.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
+📄 Download PDF Version
+</a>
+
+<a href="/blog/fullstack-interview-summary" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
+➡️ Full Stack Developer Interview Simulation 
+</a>
+
+</div>
