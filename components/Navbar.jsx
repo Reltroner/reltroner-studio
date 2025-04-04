@@ -21,3 +21,9 @@ export default function Navbar() {
         </div>
     );
 }
+
+// Timeline → Untuk visualisasi perjalanan semesta: dari Battle of Reltronepolis hingga The Fall of Depeisit.
+
+// Organizations → Misalnya: Henchoeway, Astralis Circle, Cosmeilian Council, dll.
+
+// Media → Galeri ilustrasi, musik orisinal, atau mungkin audio naratif dari Nytherion.

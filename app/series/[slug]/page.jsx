@@ -10,7 +10,7 @@ export async function generateMetadata({ params }) {
   const { data } = await getSerie(params.slug);
   if (!data) return notFound();
   return {
-    title: data.name,
+    title: data.title,
     description: data.description,
   };
 }
@@ -32,10 +32,10 @@ export default async function SeriePage({ params }) {
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
-      <Heading>{data.name}</Heading>
+      <Heading>{data.title}</Heading>
       <img
         src={data.image}
-        alt={data.name}
+        alt={data.title}
         className="w-full max-h-[400px] object-contain mx-auto"
       />
       <p className="text-gray-700 text-lg font-semibold italic mb-2">{data.role}</p>
