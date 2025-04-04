@@ -47,7 +47,7 @@ export default function Places() {
   return (
     <div className="p-5 bg-slate-100">
       <Heading>Places</Heading>
-      <p className="mb-4 text-center font-bold">Explore the living minds that shape Asthortera’s destiny.</p>
+      <p className="mb-4 text-center font-bold">Explore the places of Asthortera, a complex, layered, and deeply intertwined story that shape Asthortera’s destiny.</p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {places.map((place, index) => (

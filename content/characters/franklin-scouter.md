@@ -12,7 +12,6 @@ quote: "There’s a name stuck in my heart, though I’ve never heard it before.
 - **Full Name:** Franklin Scouter  
 - **Alias(es):** Chief Scout, The Oak Mentor, Keeper of Whispergrove  
 - **Gender:** Male  
-- **Age:** 26 (at the time of Georger's disappearance)  
 - **Origin:** East Scotpaders, Stelpadland  
 - **Affiliation:** Oakcottage Headquarters  
 - **Occupation:** Senior Scout Mentor, Survivalist Instructor  

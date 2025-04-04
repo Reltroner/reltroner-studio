@@ -12,7 +12,6 @@ quote: "Maybe I just wanted to be remembered for something that mattered."
 - **Full Name:** Georger Woodman  
 - **Alias(es):** The Scout Creator, Forest Influencer, The Forgotten Flame  
 - **Gender:** Male  
-- **Age:** 22 (at the time of disappearance)  
 - **Origin:** East Scotpaders, Stelpadland  
 - **Affiliation:** Oakcottage (former member)  
 - **Occupation:** Content Creator, Scout Innovator, Social Media Influencer  
