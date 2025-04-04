@@ -161,6 +161,22 @@ export default function Blog() {
           image: "/images/mask-reltronland.png",
           author: "Rei Reltroner",
           date: "2025-04-04",
+        },
+        {
+          title: "Reltroner Studio – 12-Month Development Roadmap",
+          description: "Strategic vision for the foundational year of building reltroner.com as an immersive, multidimensional worldbuilding platform.",
+          slug: "12-month-roadmap",
+          image: "/images/12-month-roadmap.png",
+          author: "Rei Reltroner",
+          date: "2025-04-04"
+        },
+        {
+          title: "The Oath of Reltroner Studio: A Lifelong Build",
+          description: "A philosophical commitment to the eternal journey of building reltroner.com as a multidimensional world.",
+          slug: "a-lifelong-build",
+          image: "/images/a-lifelong-build.png",
+          author: "Rei Reltroner",
+          date: "2025-04-04"
         }
            
     ];
