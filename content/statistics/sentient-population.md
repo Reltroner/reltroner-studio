@@ -32,7 +32,7 @@ This document provides a detailed overview of the sentient population structures
   - 92% Human (Caucasian origin)
   - 5% East Asian Mongoloid
   - 3% Technocratic descendants from lost colonies
-- **Notable Characteristic:** Reflects classical 19th-century European civilization. Most non-Caucasian populations have migrated to Asthortera.
+- **Notable Characteristic:** Reflects classical 19th-century European civilization. Most of the immigrants from Depeisit have migrated to Asthortera.
 
 ---
 
