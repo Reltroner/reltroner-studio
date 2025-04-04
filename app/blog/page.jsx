@@ -145,6 +145,14 @@ export default function Blog() {
           image: "/images/fullstack-interview-summary.png",
           author: "Rei Reltroner",
           date: "2025-04-03"
+        },
+        {
+          title: "GPTPlus Manifesto for Reltroner Studio",
+          description: "A cultural pillar for sustainable productivity and conscious digital practice in Reltroner Studio.",
+          slug: "gptplus-manifesto-reltroner",
+          image: "/images/gptplus_manifesto_cover.png",
+          author: "Rei Reltroner",
+          date: "2025-04-04"
         }
            
     ];
