@@ -23,11 +23,14 @@ I believe in:
 - **Meritocracy**: I only want to work with people or teams who value real contribution and growth.
 - **Work Ethic**: I learn, practice, and face errors daily to level up.
 - **Openness**: I’m not anti-criticism. I’m anti-stagnation.
+- **Spiritual Narrative Systems**: I apply philosophical storytelling layers through Astralis vs Nytherion metaphors, embedded within structured code.
+- **Self-discipline Architecture**: I designed the site and content structure to reflect conscious worldbuilding—not just features, but meaning.
 
 If you’re a recruiter, collaborator, or company owner interested in working with someone who:
 - Has deep dedication to their project
 - Rejects comfort zones and illusions
 - Prefers real output over empty words
+- Combines full stack skills with narrative vision and data-backed content logic
 
 ...feel free to reach out through the contacts below:
 
