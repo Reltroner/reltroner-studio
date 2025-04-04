@@ -1,6 +1,7 @@
 ---
 title: "Why I Don’t Chase Fame: The Reltroner Perspective on Talent and Longevity"
 description: "A philosophical reflection on why fame is not the end goal for true creators and world-builders."
+image: "/images/talent-longevity.png"
 author: "Rei Reltroner"
 date: "2025-04-04"
 ---
