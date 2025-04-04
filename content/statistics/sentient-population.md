@@ -18,7 +18,7 @@ This document provides a detailed overview of the sentient population structures
 - **Total Sentient Population:** **~4.4 trillion**
 - **Composition:**
   - 85% Human (East Asian Mongoloid & Caucasian lineages)
-  - 7% Manusia-Wizard-Witch (native Asthorteran race)
+  - 7% Human-Wizard-Witch (native Asthorteran race)
   - 5% Cosmeilia-Human Mixed
   - 3% Others (alien humanoids, hybrids)
 - **Notable Characteristic:** Asthortera is the primary destination for immigrants across the galaxy, known for its exceptionally high standard of living and balanced civilization, attracting those seeking long-term prosperity and development.
