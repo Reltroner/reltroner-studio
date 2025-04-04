@@ -103,7 +103,7 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 - **Role:** Builder of Astralis Pinnacle, Transformative Agent
 - **Abilities:** Transforms into aircraft, skyscraper, sentient AI; master of Astralis logic
 - **Notable Alias:** Little Rere (child disguise)
-- **Signature Item:** Refillable blue soda can "Reltron Refresh"
+- **Signature Item:** Refillable blue soda can "Reltron Refresh" *(in disguise)*; Polished black notebook *(in default form)*  
 - **Core Trait:** Cold rationality mixed with quiet compassion
 - **Mission:** Safeguard Astralis from Spiral influence
 

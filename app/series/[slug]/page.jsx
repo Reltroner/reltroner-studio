@@ -7,7 +7,7 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getChapter(params.slug);
+  const { data } = await getSerie(params.slug);
   if (!data) return notFound();
   return {
     title: data.name,
@@ -15,8 +15,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-async function getChapter(slug) {
-  const filePath = path.join(process.cwd(), "content/chapters", `${slug}.md`);
+async function getSerie(slug) {
+  const filePath = path.join(process.cwd(), "content/series", `${slug}.md`);
   if (!fs.existsSync(filePath)) return { data: null, contentHtml: null };
 
   const fileContent = fs.readFileSync(filePath, "utf8");
@@ -26,8 +26,8 @@ async function getChapter(slug) {
   return { data, contentHtml };
 }
 
-export default async function ChapterPage({ params }) {
-  const { data, contentHtml } = await getChapter(params.slug);
+export default async function SeriePage({ params }) {
+  const { data, contentHtml } = await getSerie(params.slug);
   if (!data) return notFound();
 
   return (

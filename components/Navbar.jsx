@@ -10,7 +10,7 @@ export default function Navbar() {
                     <li><Link href="/blog" className="hover:underline">Blog</Link></li>
                     <li><Link href="/characters" className="hover:underline">Characters</Link></li>
                     <li><Link href="/places" className="hover:underline">Places</Link></li>
-                    <li><Link href="/chapters" className="hover:underline">Chapters</Link></li>
+                    <li><Link href="/series" className="hover:underline">Series</Link></li>
                     <li><Link href="/contact" className="hover:underline">Contact</Link></li>
                     <li><Link href="/blog/for-recruiters" className="hover:underline">Portfolio</Link></li>
                     <li><Link href="/blog/reltroner" className="hover:underline">Principles</Link></li>
