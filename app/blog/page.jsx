@@ -149,8 +149,8 @@ export default function Blog() {
         {
           title: "GPTPlus Manifesto for Reltroner Studio",
           description: "A cultural pillar for sustainable productivity and conscious digital practice in Reltroner Studio.",
-          slug: "gptplus-manifesto-reltroner",
-          image: "/images/gptplus_manifesto_cover.png",
+          slug: "gptplus",
+          image: "/images/gptplus.png",
           author: "Rei Reltroner",
           date: "2025-04-04"
         },

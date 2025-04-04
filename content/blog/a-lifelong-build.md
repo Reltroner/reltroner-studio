@@ -3,6 +3,7 @@ title: "The Oath of Reltroner Studio: A Lifelong Build"
 description: "A philosophical commitment to the eternal journey of building reltroner.com as a multidimensional world."
 author: "Rei Reltroner"
 image: "/images/a-lifelong-build.png"
+published: true
 date: "2025-04-04"
 ---
 

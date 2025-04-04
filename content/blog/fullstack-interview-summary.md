@@ -4,6 +4,7 @@ description: "A simulated technical interview showcasing project understanding, 
 slug: "fullstack-interview-summary"
 image: "/images/fullstack-interview-summary.png"
 author: "Rei Reltroner"
+published: true
 date: "2025-04-03"
 ---
 

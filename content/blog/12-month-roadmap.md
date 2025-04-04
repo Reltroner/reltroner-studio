@@ -3,6 +3,7 @@ title: "Reltroner Studio – 12-Month Development Roadmap"
 description: "Strategic vision for the foundational year of building reltroner.com as an immersive, multidimensional worldbuilding platform."
 author: "Rei Reltroner"
 image: "/images/12-month-roadmap.png"
+published: true
 date: "2025-04-04"
 ---
 
