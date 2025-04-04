@@ -59,7 +59,7 @@ He does not forget darkness. He seals it behind **Security Level: Infinity.**
 
 Kamila Alena: A figure from Rei’s past and mother of Velgrin. While their ideologies oppose each other, their connection remains rooted in silent understanding.
 
-Velgrin Altherion: A future adversary Rei may never truly fight. Their conflict is less of battle and more of reflection—two beings shaped by different responses to pain.
+Selgrin Altherion: A future adversary Rei may never truly fight. Their conflict is less of battle and more of reflection—two beings shaped by different responses to pain.
 
 Evara Alena: A classmate of Little Rere who notices subtle patterns. Though unaware of Rei’s true identity, she represents the world’s lingering intuition.
 
