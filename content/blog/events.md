@@ -13,8 +13,6 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 
 ---
 
-## 🌟 Protagonists Timeline (Year 0–25)
-
 ### Rei Reltroner
 - **0–5:** Enters deepest core of Nytherion Abyss as anonymous Red Pill Entity.
 - **6–10:** Emerges from Abyss with full consciousness, begins laying spiritual groundwork of Astralis Pinnacle.
@@ -92,10 +90,6 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 - **16–20:** Aids protagonists via leaked intel.
 - **21–25:** Founds neutral research org for Asthortera balance.
 
----
-
-## 🗡️ Antagonists Timeline (Year 0–25)
-
 ### Evara Alena (Kamila's daughter)
 - **0–5:** Innocent schoolgirl unaware of Rei's past identity.
 - **6–10:** Begins suspecting Rei's duality during infiltration mission.
@@ -130,10 +124,6 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 - **11–15:** Oversees "Black Aurora" superweapon.
 - **16–20:** Defeated by Isaac and rebels.
 - **21–25:** Dies, tech legacy haunts Asthortera.
-
----
-
-## 🌈 Neutral / Anti-Heroes Timeline (Year 0–25)
 
 ### Veyla Strontis
 - **0–5:** Henchoeway elite soldier.
