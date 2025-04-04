@@ -1,6 +1,6 @@
 ---
 name: "Kamila Alena"
-role: "Founder of Henchoeway & Nytherion Abyss Architect"
+role: "Leader of Henchoeway & Nytherion Abyss Architect"
 description: "The orchestrator of Nytherion’s birth, Kamila is the mind behind the world's deepest illusions."
 author: "Reltroner Studio"
 date: "March 29, 2025"
@@ -9,7 +9,7 @@ image: "/images/kamila-alena.png"
 quote: "Peace built on truth is fragile. Peace built on comfort is eternal."
 ---
 
-Kamila Alena is a name whispered in political chambers, echoed in broken dreams, and feared in the hearts of those who dared to question comfort. She is the enigmatic founder of **Henchoeway**, a covert organization that masterminded the spread of **Nytherion Abyss** — a dimension born from the collective desire to escape pain, loss, and reality.
+Kamila Alena is a name whispered in political chambers, echoed in broken dreams, and feared in the hearts of those who dared to question comfort. She is the enigmatic leader of **Henchoeway**, a covert organization that masterminded the spread of **Nytherion Abyss** — a dimension born from the collective desire to escape pain, loss, and reality.
 
 Born in **Hargenbor**, Kamila was once a brilliant student of metaphysical science, but her life changed after surviving the *Eterna Collapse*, a cataclysmic energy failure that claimed the lives of thousands, including her closest family. That trauma reshaped her ideology: she came to see pain as humanity’s greatest enemy — and illusion as its only salvation.
 
