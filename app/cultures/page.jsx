@@ -22,7 +22,7 @@ export default function Cultures() {
   ];
 
   return (
-    <div className="px-6 py-5 bg-slate-100 max-w-screen-md mx-auto">
+    <div className="p-5 bg-slate-100">
       <Heading>Cultures</Heading>
       <p className="mb-4 text-center font-bold">Dive into the ethos and daily rituals of Asthortera — where identity, behavior, and belief systems converge into legacies that define civilizations.</p>
 

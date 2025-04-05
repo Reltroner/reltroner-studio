@@ -83,15 +83,28 @@ This system supports both personal accountability and studio-wide recognition by
 ## 📋 Standard Logging Format
 Each team member is encouraged to log their rest using the following structure:
 
-```plaintext
-[Date]        : 2025-04-05
-[Timeframe]   : 10:30 AM – 12:00 PM
-[Activity]    : Sacred Rest (laying on bed with plushie, no devices)
-[Location]    : Personal Reflection Space
-[State]       : Mentally drained, seeking clarity
-[Insight Gained] : Realized new narrative twist for Altron arc, visual metaphors using spiral descent
-[Tag]         : #loredevelopment #innerreset
-```
+**🗓 Date**  
+`2025-04-05`
+
+**⏰ Timeframe**  
+`10:30 AM – 12:00 PM`
+
+**🎯 Activity**  
+`Sacred Rest (laying on bed with plushie, no devices)`
+
+**📍 Location**  
+`Personal Reflection Space`
+
+**🧠 State**  
+`Mentally drained, seeking clarity`
+
+**💡 Insight Gained**  
+`Realized new narrative twist for Altron arc, visual metaphors using spiral descent`
+
+**🏷️ Tags**  
+`#loredevelopment` `#innerreset`
+
+---
 
 Logs can be written in plain text, markdown, or through the internal Reltroner Logging UI.
 
