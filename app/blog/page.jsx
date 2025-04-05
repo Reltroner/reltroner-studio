@@ -205,7 +205,7 @@ export default function Blog() {
                 Explore recent articles about world-building and events.
             </p>
     
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 justify-center">
             {posts.map((post, index) => (
               <Link href={`/blog/${post.slug}`} key={index} className="block h-full">
                 <div className="flex flex-col justify-between h-full border rounded-lg shadow-md overflow-hidden hover:shadow-lg hover:scale-105 transition duration-300 min-h-[300px]">
