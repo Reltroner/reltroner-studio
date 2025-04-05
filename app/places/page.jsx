@@ -42,14 +42,14 @@ export default function Places() {
         quote: "We remember even what the world forgets."
     },
     {
-      "name": "Heart of the Abyss",
-      "type": "Dimension",
-      "location": "Nytherion Abyss",
-      "description": "An artistic depiction of the deepest and most cursed core within the Nytherion Abyss, where time, memory, and self fracture into darkness.",
-      "author": "Rei Reltroner",
-      "slug": "dark-abyss",
-      "date": "2025-04-05",
-      "image": "/images/dark-abyss.png"
+      name: "Heart of the Abyss",
+      type: "Dimension",
+      location: "Nytherion Abyss",
+      description: "An artistic depiction of the deepest and most cursed core within the Nytherion Abyss, where time, memory, and self fracture into darkness.",
+      author: "Rei Reltroner",
+      slug: "dark-abyss",
+      date: "2025-04-05",
+      image: "/images/dark-abyss.png"
     }    
   
   ];
@@ -57,7 +57,7 @@ export default function Places() {
   return (
     <div className="p-5 bg-slate-100">
       <Heading>Places</Heading>
-      <p className="mb-4 text-center font-bold">Explore the places of Asthortera, a complex, layered, and deeply intertwined story that shape Asthortera’s destiny.</p>
+      <p className="mb-4 text-center font-bold">Journey through cities, ruins, and forgotten dimensions — each with their own pulse, memory, and power in the grand chronicle of Asthortera.</p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {places.map((place, index) => (

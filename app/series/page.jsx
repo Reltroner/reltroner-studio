@@ -23,7 +23,7 @@ export default function Series() {
   return (
     <div className="p-5 bg-slate-100">
       <Heading>Series</Heading>
-      <p className="mb-4 text-center font-bold">Explore the series of Asthortera, a complex, layered, and deeply intertwined story that shape Asthortera’s destiny.</p>
+      <p className="mb-4 text-center font-bold">Unravel the character-driven sagas across multiple timelines — where political tension, cosmic mysteries, and inner wars shape Asthortera’s fate.</p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {series.map((serie, index) => (

@@ -23,7 +23,7 @@ export default function Statistics() {
   return (
     <div className="p-5 bg-slate-100">
       <Heading>Statistics</Heading>
-      <p className="mb-4 text-center font-bold">Explore the statistics of Asthortera, a complex, layered, and deeply intertwined story that shape Asthortera’s destiny.</p>
+      <p className="mb-4 text-center font-bold">Decode the raw numbers behind the world — from population structures to SDI indicators — and understand what truly drives Asthortera beneath the surface.</p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {statistics.map((statistic, index) => (

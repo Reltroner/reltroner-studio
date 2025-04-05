@@ -9,6 +9,7 @@ export default function Navbar() {
                     <li><Link href="/about" className="hover:underline">About</Link></li>
                     <li><Link href="/blog" className="hover:underline">Blog</Link></li>
                     <li><Link href="/characters" className="hover:underline">Characters</Link></li>
+                    <li><Link href="/cultures" className="hover:underline">Cultures</Link></li>
                     <li><Link href="/places" className="hover:underline">Places</Link></li>
                     <li><Link href="/series" className="hover:underline">Series</Link></li>
                     <li><Link href="/statistics" className="hover:underline">Statistics</Link></li>
