@@ -9,7 +9,7 @@ affiliation: "Ministry of Education & character Formation, Stelpadland"
 quote: "We remember even what the world forgets."
 ---
 ---
-# Oakcottage Headquarters
+## Oakcottage Headquarters
 
 ## General Information
 - **Name:** Oakcottage Headquarters  

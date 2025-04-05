@@ -8,7 +8,7 @@ phenomenon: ["Stillness Veil", "Memory Pulse", "Vanishing Echo"]
 quote: "Still water holds the loudest grief."
 ---
 ---
-# Llyn Geda
+## Llyn Geda
 
 ## General Information
 - **Name:** Llyn Geda  

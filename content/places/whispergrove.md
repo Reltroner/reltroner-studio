@@ -9,7 +9,7 @@ myth: "The forest whispers the names the world has forgotten."
 quote: "The forest sings what the world is too loud to hear."
 ---
 ---
-# Whispergrove Forest
+## Whispergrove Forest
 
 ## General Information
 - **Name:** Whispergrove Forest  

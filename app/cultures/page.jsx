@@ -22,7 +22,7 @@ export default function Cultures() {
   ];
 
   return (
-    <div className="p-5 bg-slate-100">
+    <div className="px-6 py-5 bg-slate-100 max-w-screen-md mx-auto">
       <Heading>Cultures</Heading>
       <p className="mb-4 text-center font-bold">Dive into the ethos and daily rituals of Asthortera — where identity, behavior, and belief systems converge into legacies that define civilizations.</p>
 
@@ -33,7 +33,7 @@ export default function Cultures() {
               <img
                 src={culture.image}
                 alt={`${culture.title}, ${culture.role}`}
-                className="w-full max-h-[400px] object-contain mx-auto"
+                className="w-full max-h-[400px] object-contain mx-auto px-4"
               />
               <div className="p-4 flex flex-col flex-grow">
                 <h2 className="text-xl font-bold mb-1 group-hover:text-blue-600 transition-colors">

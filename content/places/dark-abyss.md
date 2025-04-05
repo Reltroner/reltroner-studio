@@ -8,7 +8,7 @@ date: "2025-04-05"
 image: "/images/dark-abyss.png"
 ---
 
-# 🕳️ Heart of the Abyss
+## 🕳️ Heart of the Abyss
 
 > *“This is where time doesn’t flow, memory loops endlessly, and pain is the only light that remains.”*
 

@@ -214,38 +214,67 @@ Below is a clear breakdown of how Reltroner Studio fundamentally diverges from t
 ---
 
 ## 🧭 Philosophy & Motivation
-| Aspect | Reltroner Studio | Traditional Studios |
-|--------|------------------|---------------------|
-| Core Motivation | Spiritual rebellion & legacy | Entertainment & mass appeal |
-| Emotional Tone | Raw, red pill, anti-delusion | Comforting, inspirational, family-safe |
-| Character Origin | Born from trauma and philosophy | Designed for audience relatability |
+
+**Core Motivation**
+- **Reltroner Studio**: Spiritual rebellion & legacy  
+- **Traditional Studios**: Entertainment & mass appeal  
+
+**Emotional Tone**
+- **Reltroner Studio**: Raw, red pill, anti-delusion  
+- **Traditional Studios**: Comforting, inspirational, family-safe  
+
+**Character Origin**
+- **Reltroner Studio**: Born from trauma and philosophy  
+- **Traditional Studios**: Designed for audience relatability  
 
 ---
 
 ## ⏱️ Work Culture & Rhythm
-| Aspect | Reltroner Studio | Traditional Studios |
-|--------|------------------|---------------------|
-| Office Hours | None (output-based, trust-driven) | Flex-time but still clock-aware |
-| Break Philosophy | Sacred Rest (resting = regeneration) | Scheduled breaks & deadlines |
-| Productivity Source | Emotional clarity & inner alignment | Team pressure & market pacing |
+
+**Office Hours**
+- **Reltroner Studio**: None (output-based, trust-driven)  
+- **Traditional Studios**: Flex-time but still clock-aware  
+
+**Break Philosophy**
+- **Reltroner Studio**: Sacred Rest (resting = regeneration)  
+- **Traditional Studios**: Scheduled breaks & deadlines  
+
+**Productivity Source**
+- **Reltroner Studio**: Emotional clarity & inner alignment  
+- **Traditional Studios**: Team pressure & market pacing  
 
 ---
 
 ## 🎨 Creative Direction
-| Aspect | Reltroner Studio | Traditional Studios |
-|--------|------------------|---------------------|
-| Visual Identity | World-specific, ideologically rich | Market-tested, audience-optimized |
-| Brand Voice | Arsitek galaksi dengan luka | Neutral narrator for all ages |
-| Content Objective | Transformation & inner rebellion | Engagement & monetization |
+
+**Visual Identity**
+- **Reltroner Studio**: World-specific, ideologically rich  
+- **Traditional Studios**: Market-tested, audience-optimized  
+
+**Brand Voice**
+- **Reltroner Studio**: Arsitek galaksi dengan luka  
+- **Traditional Studios**: Neutral narrator for all ages  
+
+**Content Objective**
+- **Reltroner Studio**: Transformation & inner rebellion  
+- **Traditional Studios**: Engagement & monetization  
 
 ---
 
 ## 🧠 Team Structure & Leadership
-| Aspect | Reltroner Studio | Traditional Studios |
-|--------|------------------|---------------------|
-| Hierarchy | Flat, meritocratic, anti-feudal | Title-based chain of command |
-| Creative Freedom | Absolute (if aligned with philosophy) | Limited by studio approvals |
-| Feedback Culture | Brutally honest & spiritual | Professional but filtered |
+
+**Hierarchy**
+- **Reltroner Studio**: Flat, meritocratic, anti-feudal  
+- **Traditional Studios**: Title-based chain of command  
+
+**Creative Freedom**
+- **Reltroner Studio**: Absolute (if aligned with philosophy)  
+- **Traditional Studios**: Limited by studio approvals  
+
+**Feedback Culture**
+- **Reltroner Studio**: Brutally honest & spiritual  
+- **Traditional Studios**: Professional but filtered  
+
 
 ---
 

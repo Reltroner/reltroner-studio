@@ -31,7 +31,7 @@ export default async function BlogPostPage(props) {
     }
   
     return (
-      <div className="flex-grow px-4 sm:px-6 md:px-8 py-6 max-w-screen-md mx-auto w-full pl-20">
+      <div className="flex-grow px-4 sm:px-6 md:px-8 py-6 max-w-screen-md mx-auto w-full pl-4">
         <Heading>{post.title}</Heading>
         <p className="text-sm text-gray-600 pl-4">{post.description}</p>
         <p className="italic text-sm text-gray-500 mb-4 pl-4">
