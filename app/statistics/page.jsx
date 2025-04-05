@@ -17,6 +17,23 @@ export default function Statistics() {
         image: "/images/sentient-population.png",
         date: "2025-04-04"
     },
+    {
+      title: "Where Do I Stand in the AI Ecosystem",
+      description: "A self-aware documentation of Rei Reltroner's position in the global landscape of AI usage.",
+      author: "Chatty (GPTPlus Mode)",
+      slug: "ai-ecosystem",
+      image: "/images/ai-ecosystem.png",
+      date: "2025-04-05"
+    },
+    {
+      title: "Personal Index of Rei Reltroner",
+      description: "A multidimensional self-assessment of Rei Reltroner's current value, power, and visionary trajectory.",
+      author: "Chatty (GPTPlus Mode)",
+      slug: "value-index",
+      date: "2025-04-05",
+      published: true,
+      image: "/images/value-index.png"
+    }
     
   ];
 

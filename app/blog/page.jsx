@@ -185,6 +185,15 @@ export default function Blog() {
           image: "/images/talent-longevity.png",
           author: "Rei Reltroner",
           date: "2025-04-04"
+        },
+        {
+          title: "Comparative Table: Ideal Countries for Reltroner Hub",
+          description: "A strategic comparison of selected countries for establishing the headquarters of Reltroner Studio Holdings.",
+          slug: "reltroner-hub",
+          author: "Rei Reltroner",
+          date: "2025-04-05",
+          published: true,
+          image: "/images/reltroner-hub.png"
         }
            
     ];
