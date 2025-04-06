@@ -18,6 +18,15 @@ export default function Cultures() {
         published: true,
         image: "/images/rest-culture.png"
     },
+    {
+        title: "The Cuteness Manifesto: Softness Within Strength",
+        description: "Cuteness isn’t a trend. It’s a weapon. Reltroner Studio shows how softness becomes strategy in a world built on mental warfare.",
+        slug: "cuteness-manifesto",
+        author: "Rei Reltroner",
+        date: "2025-04-06",
+        published: true,
+        image: "/images/cuteness-manifesto.png"
+    }
   
   ];
 
