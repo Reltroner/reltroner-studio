@@ -60,11 +60,21 @@ Commonly found in corrupt bureaucracies, cult leaders, passive elites, or anyone
 
 The battle between **Astralis Pinnacle** and **Nytherion Abyss** is not merely magical — it's psychological, philosophical, and spiritual. This duality fuels the conflicts in *The Abyss of Comfort* and explains the inner battles faced by protagonists like **Delwyn Harper**, **Wayne Astoner**, and **Faye Callister**.
 
-| System | Symbol | Energy Type | Risk | Reward |
-|--------|--------|-------------|------|--------|
-| Astralis Pinnacle | 🔺 | Conscious Evolution | Extreme Burnout | Real Legacy |
-| Nytherion Abyss | ⚫ | Subconscious Regression | Eternal Loop | Instant Pleasure |
+## 🌌 System Comparison: Astralis vs Nytherion
 
+### 🔺 **Astralis Pinnacle**
+- **Symbol**: 🔺  
+- **Energy Type**: Conscious Evolution  
+- **Risk**: Extreme Burnout  
+- **Reward**: Real Legacy  
+
+---
+
+### ⚫ **Nytherion Abyss**
+- **Symbol**: ⚫  
+- **Energy Type**: Subconscious Regression  
+- **Risk**: Eternal Loop  
+- **Reward**: Instant Pleasure  
 ---
 
 ## 📜 Final Words
