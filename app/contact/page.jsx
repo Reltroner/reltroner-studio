@@ -2,14 +2,17 @@
 import Heading from "@/components/Heading";
 
 export default function Contact() {
+  const formEndpoint = process.env.NEXT_PUBLIC_FORMSPREE_ENDPOINT;
+
   return (
     <div className="max-w-xl mx-auto py-12 px-4">
       <Heading>Contact Us</Heading>
       <form
-        action={formEndpoint} // <- ganti ini
+        action={formEndpoint}
         method="POST"
         className="mt-6 space-y-6 bg-white shadow-md rounded-xl p-6"
       >
+        {/* field inputs seperti sebelumnya */}
         <div>
           <label htmlFor="name" className="block text-sm font-medium text-gray-700">
             Name
