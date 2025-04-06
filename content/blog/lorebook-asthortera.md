@@ -81,18 +81,75 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 
 ## IV. Key Series and Timeline
 
-| Year | Arc/Event                         | Main Protagonists             | Main Antagonists                 |
-|------|-----------------------------------|-------------------------------|----------------------------------|
-| 0–15 | The Spiral and The Astralis       | Rei                           | Evara, Spiral Energy             |
-| 0–15 | Spiral Containment Initiative     | Rei (disguised)               | Abyssal anomalies                |
-| 6–25 | The Abyss of Comfort              | Delwyn, Barry, Valethra       | Kamila, Henchoeway               |
-| 6–25 | Delwyn's Bounty Hunter Team       | Delwyn, Redley, Sterling      | Blackmarket Syndicates           |
-| 6–25 | Barry & Hendry Arc                | Barry, Hendry                 | Technocratic Spiral Cult         |
-| 6–25 | Valethra & Albert Arc             | Valethra, Albert              | Celestial Deceivers              |
-| 11–13| The Freezone Code                 | Wayne, Raina                  | Caldron Gandia                   |
-| 0–25 | Karler & The Moreg Driftwar       | Karler Miles, Rei             | Drift Tech Abyss                 |
-| 16–20| Battle of Reltronepolis           | All protagonists              | Spiral Army, Henchoeway, Depeisit Army                      |
-| 6–20 | Rise & Fall of Henchoeway         | Delwyn, Rei, Barry            | Kamila, Spiral Council           |
+---
+
+### 🔹 Year: 0–15  
+**Arc/Event:** *The Spiral and The Astralis*  
+**Protagonist:** Rei  
+**Antagonists:** Evara, Spiral Energy  
+
+---
+
+### 🔹 Year: 0–15  
+**Arc/Event:** *Spiral Containment Initiative*  
+**Protagonist:** Rei (disguised)  
+**Antagonists:** Abyssal anomalies  
+
+---
+
+### 🔹 Year: 6–25  
+**Arc/Event:** *The Abyss of Comfort*  
+**Protagonists:** Delwyn, Barry, Valethra  
+**Antagonists:** Kamila, Henchoeway  
+
+---
+
+### 🔹 Year: 6–25  
+**Arc/Event:** *Delwyn’s Bounty Hunter Team*  
+**Protagonists:** Delwyn, Redley, Sterling  
+**Antagonists:** Blackmarket Syndicates  
+
+---
+
+### 🔹 Year: 6–25  
+**Arc/Event:** *Barry & Hendry Arc*  
+**Protagonists:** Barry, Hendry  
+**Antagonists:** Technocratic Spiral Cult  
+
+---
+
+### 🔹 Year: 6–25  
+**Arc/Event:** *Valethra & Albert Arc*  
+**Protagonists:** Valethra, Albert  
+**Antagonists:** Celestial Deceivers  
+
+---
+
+### 🔹 Year: 11–13  
+**Arc/Event:** *The Freezone Code*  
+**Protagonists:** Wayne, Raina  
+**Antagonist:** Caldron Gandia  
+
+---
+
+### 🔹 Year: 0–25  
+**Arc/Event:** *Karler & The Moreg Driftwar*  
+**Protagonists:** Karler Miles, Rei  
+**Antagonist:** Drift Tech Abyss  
+
+---
+
+### 🔹 Year: 16–20  
+**Arc/Event:** *Battle of Reltronepolis*  
+**Protagonists:** All protagonists  
+**Antagonists:** Spiral Army, Henchoeway, Depeisit Army  
+
+---
+
+### 🔹 Year: 6–20  
+**Arc/Event:** *Rise & Fall of Henchoeway*  
+**Protagonists:** Delwyn, Rei, Barry  
+**Antagonists:** Kamila, Spiral Council  
 
 ---
 
