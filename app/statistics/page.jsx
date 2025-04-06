@@ -33,6 +33,15 @@ export default function Statistics() {
       date: "2025-04-05",
       published: true,
       image: "/images/value-index.png"
+    },
+    {
+      title: "Official SDI Report of Asthortera",
+      description: "A world-building overview of the Sentient Development Index (SDI) across key nations in Asthortera, including Reltronland, Depcutland, and others.",
+      author: "Rei Reltroner",
+      slug: "sdi-report-asthortera",
+      date: "2025-04-06",
+      published: true,
+      image: "/images/sdi-report-asthortera.png"
     }
     
   ];

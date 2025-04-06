@@ -26,6 +26,15 @@ export default function Cultures() {
         date: "2025-04-06",
         published: true,
         image: "/images/cuteness-manifesto.png"
+    },
+    {
+        title: "Children of Asthortera",
+        description: "An exploration of the sentient, curious, and emotionally resilient children in the world of Asthortera.",
+        slug: "children-of-asthortera",
+        author: "Rei Reltroner",
+        date: "2025-04-06",
+        published: true,
+        image: "/images/children-of-asthortera.png"
     }
   
   ];
