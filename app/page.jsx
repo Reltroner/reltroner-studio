@@ -19,7 +19,17 @@ export default function Home() {
       title: "Magic System: Astralis vs Nytherion",
       description: "Explore the core metaphysical conflict between creation and illusion in Asthortera.",
       slug: "magic-system",
-      image: "/images/magic-astralis-nytherion.webp"
+      image: "/images/magic-astralis-nytherion.webp",
+
+    },
+    {
+      title: "Public Identity Declaration of Rei Reltroner",
+      description: "The official declaration of Rei Reltroner's real-world identity and spiritual alignment with the Asthortera world-building.",
+      slug: "rei-reltroner-identity",
+      author: "Rei Reltroner (Raidan)",
+      date: "2025-04-06",
+      published: true,
+      image: "/images/rei-idcard.png"
     },
     {
       title: "Creative Lore Bible",
