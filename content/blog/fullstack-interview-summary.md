@@ -49,7 +49,6 @@ I implemented a global error handler (`errorHandler.js`) and `ExpressError` util
 ---
 
 🔙 Back to [Blog](https://www.reltroner.com/blog)
-
 <div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
 
 <a href="/files/fullstack-interview-summary.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
@@ -57,5 +56,4 @@ I implemented a global error handler (`errorHandler.js`) and `ExpressError` util
 </a>
 
 </div>
-
 ➡️ To [For Recruiters & Collaborators](https://www.reltroner.com/blog/for-recruiters)

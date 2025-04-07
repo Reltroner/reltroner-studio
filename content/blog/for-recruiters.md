@@ -57,7 +57,6 @@ But I’m **fully present in every line of code and trace of my work.**
 ---
 
 🔙 Back to [Blog](https://www.reltroner.com/blog)
-
 <div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
 
 <a href="/files/for-recruiters.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
@@ -65,6 +64,4 @@ But I’m **fully present in every line of code and trace of my work.**
 </a>
 
 </div>
-
-
 ➡️ To [Full Stack Developer Interview Simulation ](https://www.reltroner.com/blog/fullstack-interview-summary)

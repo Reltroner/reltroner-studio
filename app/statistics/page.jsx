@@ -69,9 +69,16 @@ export default function Statistics() {
       date: "2025-04-07", 
       published: true,
       image: "/images/cosmeilia_identity.png"
-    }
-    
-    
+    },
+    {
+      title: "Cistheta Identity",
+      description: "A hyper-urbanized planet of ancestral discipline and digital precision. Cistheta leads the galaxy in technocultural synthesis, merging tradition with high-speed innovation.",
+      author: "Rei Reltroner",
+      slug: "cistheta_identity",  
+      date: "2025-04-07", 
+      published: true,
+      image: "/images/cistheta_identity.png"
+    }    
     
     
   ];
