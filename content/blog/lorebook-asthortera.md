@@ -26,7 +26,6 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 - **Population:** 272 billion
 - **SDI (Sentient Development Index):** 0.984/1
 - **Notable Figure:** Rei Reltroner
-- **District Highlight:** Reltrania (origin of Little Rei)
 
 ### ⚙️ Depcutland — "Echoes of Depeisit"
 - **Government Type:** Federal Industrial Technocracy
@@ -81,148 +80,124 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 
 ## IV.📚 Roadmap Series Asthortera - Reltroner Studio**
 
----
-
-### **1. _The Spiral and The Astralis_**
-- **Tahun**: 0–15
-- **Protagonis**: Rei Reltroner
-- **Antagonis**: Spiral Energy, Evara
-- **Ringkasan**:
-  Rei kecil menyaksikan kehancuran dimensi asalnya karena spiral collapse. Ia menjadi pengembara kesadaran dan bertemu dengan cahaya "Astralis" sebagai jawaban dari eksistensinya. Awal mula benturan ideologi Blue Pill vs Red Pill.
-- **Key Scenes**:
-  - Rei pertama kali masuk ke Celestial Mirror dan melihat bayangannya di masa depan.
-  - Pertemuan dengan Evara di perpustakaan dimensi spiral.
-  - Ritual awal Astralis Pinnacle.
+**1. Title:** *The Spiral and The Astralis*
+**Timeline:** Year 0–15  
+**Main POV:** Rei Reltroner  
+**Summary:** The origin story of Rei Reltroner, revealing his early awakening to Spiral Energy and his first encounter with Astralis Pinnacle. Explores the philosophical conflict between destiny and free will, and Rei’s resistance against the inner pull of Evara, the Spiral's emissary.
+**Key Scenes:**  
+- Rei's first vision of Astralis through a collapsing star  
+- Evara tempting Rei with a life of comfort and absolute power  
+- Rei unlocking the Astralis Core after surviving the Spiral trial  
 
 ---
 
-### **2. _Spiral Containment Initiative_**
-- **Tahun**: 0–15
-- **Protagonis**: Rei (dalam penyamaran "Little Reltronia")
-- **Antagonis**: Abyssal anomalies
-- **Ringkasan**:
-  Rei menyamar sebagai anak kecil genius dalam proyek rahasia untuk menutup retakan spiral. Misi ini tidak diketahui siapa pun kecuali Valethra dan Barry.
-- **Key Scenes**:
-  - Rei menginfiltrasi pusat riset anak-anak berbakat.
-  - Proses penutupan retakan spiral dengan teknomagik.
-  - Evara muncul kembali menyadari penyamaran Rei.
+**2. Title:** *Spiral Containment Initiative*  
+**Timeline:** Year 0–15  
+**Main POV:** Rei (as Little Reltronia)  
+**Summary:** Under the disguise of "Little Reltronia," Rei infiltrates underground facilities to contain abyssal anomalies. It's a secret, cerebral, and stealth-driven arc full of codes, pseudoscience, and ethical dilemmas.
+**Key Scenes:**  
+- The first abyssal breach in Runwayria underground zone  
+- Rei deactivating a Spiral Reactor at the cost of a friend’s memory  
+- Rei's journal entry: "There is no comfort without chaos."
 
 ---
 
-### **3. _Karler & The Moreg Driftwar_**
-- **Tahun**: 0–25
-- **Protagonis**: Karler Miles, Rei Reltroner
-- **Antagonis**: Drift Tech Abyss
-- **Ringkasan**:
-  Perang antar faksi teknologi waktu yang memanipulasi realitas di batas dimensi Moreg. Karler mencoba melindungi masa depan, Rei menyelamatkan stabilitas sejarah.
-- **Key Scenes**:
-  - Karler menemukan 'Chrono Relic'.
-  - Rei mengintervensi masa depan palsu ciptaan Drift Tech.
-  - Keruntuhan dimensi Moreg dan pengorbanan pasukan penjaga waktu.
+**3. Title:** *Karler & The Moreg Driftwar*  
+**Timeline:** Year 0–25  
+**Main POV:** Karler Miles & Rei (split POV)  
+**Summary:** A technology-driven war sparked by the misuse of Drift Tech linked to Spiral corruption. Karler, a data engineer, teams up with Rei to end the madness while struggling with the cost of innovation.
+**Key Scenes:**  
+- Karler discovering Drift Time Leakage in the Moreg District  
+- Rei sacrificing his physical form to stop a Spiral Overdrive weapon  
+- Post-war tribunal where Karler testifies about knowledge vs wisdom
 
 ---
 
-### **4. _Rise & Fall of Henchoeway_**
-- **Tahun**: 6–20
-- **Protagonis**: Delwyn, Rei, Barry
-- **Antagonis**: Kamila Alena, Spiral Council
-- **Ringkasan**:
-  Awal berdirinya organisasi Henchoeway yang idealis, lalu terjerumus dalam doktrin manipulatif. Proses pengkhianatan dan perpecahan internal.
-- **Key Scenes**:
-  - Deklarasi resmi Henchoeway oleh Kamila.
-  - Barry keluar dari organisasi.
-  - Kamila pertama kali menggunakan energi abyss untuk memanipulasi publik.
+**4. Title:** *Rise & Fall of Henchoeway*  
+**Timeline:** Year 6–20  
+**Main POV:** Delwyn, Rei, Barry  
+**Summary:** The internal collapse of the once-idealistic Henchoeway group. Delwyn’s infiltration exposes Kamila’s descent into extremist philosophy. Rei and Barry are caught in the moral chaos.
+**Key Scenes:**  
+- Delwyn's confrontation with Kamila inside Henchoeway Temple  
+- Barry leaking classified Henchoeway operations  
+- Final split of Henchoeway into two radical factions
 
 ---
 
-### **5. _The Abyss of Comfort_**
-- **Tahun**: 6–25
-- **Protagonis**: Delwyn, Barry, Valethra
-- **Antagonis**: Kamila, Henchoeway
-- **Ringkasan**:
-  Serial utama tentang perjuangan pribadi karakter utama melawan kenyamanan palsu, trauma masa lalu, dan bayangan dimensi abyss. Puncak spiritual dan mental seluruh semesta.
-- **Key Scenes**:
-  - Delwyn memasuki Nytherion Abyss untuk pertama kalinya.
-  - Ritual Astralis Pinnacle oleh Valethra.
-  - Pertemuan terakhir Delwyn dengan Kamila sebelum semuanya lenyap.
+**5. Title:** *The Abyss of Comfort*  
+**Timeline:** Year 6–25  
+**Main POV:** Delwyn, Barry, Valethra  
+**Summary:** The spiritual war against Nytherion Abyss. Focuses on internal suffering, illusions of comfort, and the search for truth through the "Energy Red Pill." A deeply emotional and philosophical arc.
+**Key Scenes:**  
+- Valethra's meditation inside Aurora Gateway  
+- Delwyn falling into an illusion loop  
+- Barry burning his old journals to escape past traumas
 
 ---
 
-### **6. _Delwyn’s Bounty Hunter Team_**
-- **Tahun**: 6–25
-- **Protagonis**: Delwyn, Hendry, Barry
-- **Antagonis**: Blackmarket Syndicates
-- **Ringkasan**:
-  Petualangan ala bounty hunter yang gelap, penuh pengkhianatan dan hubungan antar karakter. Setiap misi mengungkap lapisan baru dari organisasi kriminal di balik Henchoeway.
-- **Key Scenes**:
-  - Misi gagal di pelabuhan Westruna.
-  - Hendry mengkhianati klien yang bersekongkol dengan spiral cult.
-  - Base mereka diserang oleh tentara bayaran.
+**6. Title:** *Delwyn’s Bounty Hunter Team*  
+**Timeline:** Year 6–25  
+**Main POV:** Delwyn, Hendry, Barry  
+**Summary:** Episodic missions across Asthortera to hunt key figures tied to Henchoeway and Spiral syndicates. A mix of action, dialogue-heavy planning, and bonding.
+**Key Scenes:**  
+- Hendry’s betrayal and redemption  
+- The assault on a blackmarket AI hub  
+- Barry laughing for the first time in years during campfire
 
 ---
 
-### **7. _Barry & Hendry Arc_**
-- **Tahun**: 6–25
-- **Protagonis**: Barry, Hendry
-- **Antagonis**: Technocratic Spiral Cult
-- **Ringkasan**:
-  Duo brutal dan sarkastik yang mencoba membongkar kultus teknokratik yang memperdagangkan manusia dan ideologi melalui teknologi.
-- **Key Scenes**:
-  - Hendry menyamar sebagai kultis.
-  - Barry meledakkan pusat data kultus.
-  - Flashback masa lalu Hendry sebagai yatim.
+**7. Title:** *Barry & Hendry Arc*  
+**Timeline:** Year 6–25  
+**Main POV:** Barry & Hendry  
+**Summary:** A side series focusing on Barry's cynical wit and Hendry's unorthodox tactics in destroying Spiral cult branches.
+**Key Scenes:**  
+- Disguising as cultists to infiltrate secret rituals  
+- Barry confronting an old mentor turned cultist  
+- Emotional fallout after destroying a youth training center
 
 ---
 
-### **8. _Valethra & Albert Arc_**
-- **Tahun**: 6–25
-- **Protagonis**: Valethra, Albert
-- **Antagonis**: Celestial Deceivers
-- **Ringkasan**:
-  Pergulatan antara sains dan spiritualitas dalam menghadapi "dewa-dewa palsu" yang mencoba memanipulasi sejarah dan harapan rakyat.
-- **Key Scenes**:
-  - Valethra menginterogasi nabi palsu.
-  - Albert menciptakan alat pembaca aurora.
-  - Ritual pemurnian spiritual dari penjajahan metafisik.
+**8. Title:** *Valethra & Albert Arc*  
+**Timeline:** Year 6–25  
+**Main POV:** Valethra, Albert  
+**Summary:** Combines science and spirituality. Valethra and Albert investigate ancient celestial codes and find themselves targeted by mysterious prophets known as Celestial Deceivers.
+**Key Scenes:**  
+- Albert solving the Mirror Algorithm  
+- Valethra confronting her cosmic bloodline  
+- Near-death experience and fusion with Aurora Manifestation
 
 ---
 
-### **9. _The Freezone Code_**
-- **Tahun**: 11–13
-- **Protagonis**: Wayne, Raina
-- **Antagonis**: Caldron Gandia
-- **Ringkasan**:
-  Thriller penuh teka-teki dan peretasan dalam wilayah netral antar negara. Mengungkap kode besar yang bisa menghancurkan kestabilan Reltronland.
-- **Key Scenes**:
-  - Penemuan data 'Zero Protocol'.
-  - Raina nyaris tertangkap di gedung Freezone Tower.
-  - Wayne menyandera diplomat palsu.
+**9. Title:** *The Freezone Code*  
+**Timeline:** Year 11–13  
+**Main POV:** Wayne, Raina  
+**Summary:** A fast-paced mystery thriller in the Freezone where encryption, identity, and espionage collide. Wayne and Raina uncover Caldron Gandia's plot to rewrite economic systems.
+**Key Scenes:**  
+- Cracking the encrypted Freezone Broadcast  
+- Escape from a collapsing sky station  
+- Raina decoding a childhood memory linked to the code
 
 ---
 
-### **10. _Oakcottage: A Name I Should Have Known_**
-- **Tahun**: 12–14
-- **Protagonis**: Franklin Scouter
-- **Antagonis**: Nytherion Abyss
-- **Ringkasan**:
-  Narasi pribadi dan menyakitkan tentang hilangnya Georger Woodman. Memory loss massal sebagai efek abyss.
-- **Key Scenes**:
-  - Franklin menangis di bawah pohon maple, membaca surat terakhir Georger.
-  - Dunia sekitar melupakan Georger.
-  - Nytherion Abyss muncul dalam bentuk kenangan hampa.
+**10. Title:** *Oakcottage: A Name I Should Have Known*  
+**Timeline:** Year 12–14  
+**Main POV:** Franklin Scouter  
+**Summary:** The emotional collapse of a scout leader after losing his best friend to public hatred and Nytherion Abyss. Slow-paced and poetic.
+**Key Scenes:**  
+- Burning of Oakcottage archive  
+- Final message from Georger fading in the wind  
+- Franklin walking into the abyss, smiling in peace
 
 ---
 
-### **11. _Battle of Reltronepolis_**
-- **Tahun**: 16–20
-- **Protagonis**: All protagonists (multi-POV)
-- **Antagonis**: Spiral Army
-- **Ringkasan**:
-  Puncak konflik militer seluruh semesta. Serangan terhadap pusat ekonomi dan intelektual Reltronland. Semua tokoh berkumpul untuk mempertahankan Astralis Pinnacle.
-- **Key Scenes**:
-  - Serangan besar Spiral Army dari arah timur.
-  - Rei menghilang setelah menggabungkan tubuhnya dengan Reltronland.
-  - Kamila mundur ke gerbang abyss terakhir.
+**11. Title:** *Battle of Reltronepolis*  
+**Timeline:** Year 16–20  
+**Main POV:** All protagonists (rotating POVs per chapter)  
+**Summary:** The peak of military conflict. The superpower cities clash, powered by Spiral energy and ideologies. Reltronepolis becomes the stage for all stories to converge.
+**Key Scenes:**  
+- Delwyn ordering the retreat to protect civilians  
+- Rei synchronizing with Astralis to end the bombardment  
+- Kamila's final words before being dissolved by Spiral backlash
 
 ---
 
@@ -232,7 +207,7 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 - **Affiliation:** Reltronland
 - **Role:** Builder of Astralis Pinnacle, Transformative Agent
 - **Abilities:** Transforms into aircraft, skyscraper, sentient AI; master of Astralis logic
-- **Notable Alias:** Little Rere (child disguise)
+- **Notable Alias:** Little Rere (Rei's child disguise)
 - **Signature Item:** Refillable blue soda can "Reltron Refresh" *(in disguise)*; Polished black notebook *(in default form)*  
 - **Core Trait:** Cold rationality mixed with quiet compassion
 - **Mission:** Safeguard Astralis from Spiral influence
@@ -275,7 +250,7 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 > *\"The world needed saving. The soul did not.\"* — Rei Reltroner  
 > *\"Every time a Spiral whispers, an Astralis answers in silence.\"*  
 > *\"Evara, the spiral wasn't your fate — it was your choice.\"*  
-> *\"You transformed to survive. I transformed to remember.\"* — Little Rei
+> *\"You transformed to survive. I transformed to remember.\"* — Little Rei (Rere)
 
 ---
 
