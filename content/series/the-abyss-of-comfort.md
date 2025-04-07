@@ -16,7 +16,7 @@ A character-driven novel series exploring the darkest corners of comfort and the
 
 ## 📖 Overview
 **Timeline:** Year 6 to Year 25  
-**Main POV:** Delwyn Harper, Barry Heathrow, Valethra Seraphine Lunara  
+**Main POV:** Delwyn Harper, Isaac Luminar, Barry Heathrow, Valethra Seraphine Lunara  
 **Antagonists:** Kamila Alena, Henchoeway, and the unseen forces of Nytherion Abyss  
 
 This series reflects the battle between illusion and truth, fear and clarity, stagnation and transformation. Every choice the characters make reverberates across dimensions, threading a web of cosmic consequence and emotional scars.

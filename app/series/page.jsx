@@ -9,14 +9,7 @@ export const metadata = {
 
 export default function Series() {
   const series = [
-    {
-        title: "Arrival at Eterna Ruin",
-        description: "The next serie as the protagonists arrive at the true location of the Nytherion Abyss portal, filled with mystery and spiritual tension.",
-        author: "Rei Reltroner",
-        slug: "eterna-ruin",
-        image: "/images/eterna-ruin.png",
-        date: "2025-04-04"
-    },
+    
     {
       title: "The Abyss of Comfort",
       description: "A spiritual saga where illusion shatters, comfort crumbles, and awakening begins. This is the core identity of Nytherion Abyss, and the flagship series of Reltroner Studio.",

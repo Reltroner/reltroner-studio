@@ -42,7 +42,17 @@ export default function Statistics() {
       date: "2025-04-06",
       published: true,
       image: "/images/sdi-report-asthortera.png"
+    },
+    {
+      title: "Depeisit Identity",
+      description: "A planet rooted in tradition and trapped in spiritual stagnation. Depeisit reflects a civilization that fears change, worships order, and slowly drifts into the abyss of comfort.",
+      author: "Rei Reltroner",
+      slug: "depeisit_identity", 
+      date: "2025-04-07", 
+      published: true,
+      image: "/images/depeisit_identity.png"
     }
+    
     
   ];
 

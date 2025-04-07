@@ -50,7 +50,15 @@ export default function Places() {
       slug: "dark-abyss",
       date: "2025-04-05",
       image: "/images/dark-abyss.png"
-    }    
+    },
+    {
+      name: "Eterna Ruin",
+      description: "The next serie as the protagonists arrive at the true location of the Nytherion Abyss portal, filled with mystery and spiritual tension.",
+      author: "Rei Reltroner",
+      slug: "eterna-ruin",
+      image: "/images/eterna-ruin.png",
+      date: "2025-04-04"
+    },
   
   ];
 

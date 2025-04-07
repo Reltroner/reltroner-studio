@@ -17,6 +17,15 @@ export default function Organizations() {
       author: "Rei Reltroner",
       date: "2025-04-04"
     },
+    {
+      title: "Henchoeway",
+      description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
+      slug: "henchoeway", 
+      image: "/images/henchoeway.png", 
+      author: "Rei Reltroner",
+      date: "2025-04-07"
+    }
+    
     
   ];
 

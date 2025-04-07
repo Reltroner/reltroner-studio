@@ -1,12 +1,12 @@
 ---
-title: "Arrival at Eterna Ruin"
+name: "Eterna Ruin"
 description: "The next chapter as the protagonists arrive at the true location of the Nytherion Abyss portal, filled with mystery and spiritual tension."
 author: "Rei Reltroner"
 image: "/images/eterna-ruin.png"
 date: "2025-04-04"
 ---
 
-# Chapter: Arrival at Eterna Ruin
+# Eterna Ruin
 
 > _“This place doesn’t remember time. It only remembers silence.”_
 
