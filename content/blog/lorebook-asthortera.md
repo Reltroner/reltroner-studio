@@ -93,8 +93,8 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 
 **2. Title:** *Spiral Containment Initiative*  
 **Timeline:** Year 0–15  
-**Main POV:** Rei (as Little Reltronia)  
-**Summary:** Under the disguise of "Little Reltronia," Rei infiltrates underground facilities to contain abyssal anomalies. It's a secret, cerebral, and stealth-driven arc full of codes, pseudoscience, and ethical dilemmas.
+**Main POV:** Rei (as Little Rere)  
+**Summary:** Under the disguise of "Little Rere," Rei infiltrates underground facilities to contain abyssal anomalies. It's a secret, cerebral, and stealth-driven arc full of codes, pseudoscience, and ethical dilemmas.
 **Key Scenes:**  
 - The first abyssal breach in Runwayria underground zone  
 - Rei deactivating a Spiral Reactor at the cost of a friend’s memory  
