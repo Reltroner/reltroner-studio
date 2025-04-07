@@ -64,4 +64,5 @@ But I’m **fully present in every line of code and trace of my work.**
 </a>
 
 </div>
+
 ➡️ To [Full Stack Developer Interview Simulation ](https://www.reltroner.com/blog/fullstack-interview-summary)
