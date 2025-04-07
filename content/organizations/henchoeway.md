@@ -165,5 +165,5 @@ A warning.
 
 ---
 
-📍 Return to [Series Overview](https://reltroner.com/series)
+📍 Return to [Organizations Overview](https://reltroner.com/organizations)
 

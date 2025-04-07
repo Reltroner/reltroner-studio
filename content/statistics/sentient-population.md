@@ -14,10 +14,11 @@ This document provides a detailed overview of the sentient population structures
 ---
 
 ## 🌍 **Planet Asthortera**
-- **Dominant Population:** Humans with East Asian Mongoloid (Japan, China, Korea) and Western European features
+- **Dominant Population:** Humans with East Asian Mongoloid and Western European features
 - **Total Sentient Population:** **~4.4 trillion**
 - **Composition:**
-  - 85% Human (East Asian Mongoloid & Caucasian lineages)
+  - 61% Human (Caucasian lineages)
+  - 24% Human (East Asian Mongoloid)
   - 7% Human-Wizard-Witch (native Asthorteran race)
   - 5% Cosmeilia-Human Mixed
   - 3% Others (alien humanoids, hybrids)

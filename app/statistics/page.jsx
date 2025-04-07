@@ -51,7 +51,17 @@ export default function Statistics() {
       date: "2025-04-07", 
       published: true,
       image: "/images/depeisit_identity.png"
+    },
+    {
+      title: "Asthortera Identity",
+      description: "A planet of conscious evolution, diversity, and high development. Asthortera stands as the galaxy's central stage for meritocracy, interstellar migration, and spiritual-political balance.",
+      author: "Rei Reltroner",
+      slug: "asthortera_identity",  
+      date: "2025-04-07", 
+      published: true,
+      image: "/images/asthortera_identity.png"
     }
+    
     
     
   ];
