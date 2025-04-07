@@ -79,77 +79,151 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 
 ---
 
-## IV. Key Series and Timeline
+
+**📚 Roadmap Series Asthortera - Reltroner Studio**
 
 ---
 
-### 🔹 Year: 0–15  
-**Arc/Event:** *The Spiral and The Astralis*  
-**Protagonist:** Rei  
-**Antagonists:** Evara, Spiral Energy  
+### **1. _The Spiral and The Astralis_**
+- **Tahun**: 0–15
+- **Protagonis**: Rei Reltroner
+- **Antagonis**: Spiral Energy, Evara
+- **Ringkasan**:
+  Rei kecil menyaksikan kehancuran dimensi asalnya karena spiral collapse. Ia menjadi pengembara kesadaran dan bertemu dengan cahaya "Astralis" sebagai jawaban dari eksistensinya. Awal mula benturan ideologi Blue Pill vs Red Pill.
+- **Key Scenes**:
+  - Rei pertama kali masuk ke Celestial Mirror dan melihat bayangannya di masa depan.
+  - Pertemuan dengan Evara di perpustakaan dimensi spiral.
+  - Ritual awal Astralis Pinnacle.
 
 ---
 
-### 🔹 Year: 0–15  
-**Arc/Event:** *Spiral Containment Initiative*  
-**Protagonist:** Rei (disguised)  
-**Antagonists:** Abyssal anomalies  
+### **2. _Spiral Containment Initiative_**
+- **Tahun**: 0–15
+- **Protagonis**: Rei (dalam penyamaran "Little Reltronia")
+- **Antagonis**: Abyssal anomalies
+- **Ringkasan**:
+  Rei menyamar sebagai anak kecil genius dalam proyek rahasia untuk menutup retakan spiral. Misi ini tidak diketahui siapa pun kecuali Valethra dan Barry.
+- **Key Scenes**:
+  - Rei menginfiltrasi pusat riset anak-anak berbakat.
+  - Proses penutupan retakan spiral dengan teknomagik.
+  - Evara muncul kembali menyadari penyamaran Rei.
 
 ---
 
-### 🔹 Year: 6–25  
-**Arc/Event:** *The Abyss of Comfort*  
-**Protagonists:** Delwyn, Barry, Valethra  
-**Antagonists:** Kamila, Henchoeway  
+### **3. _Karler & The Moreg Driftwar_**
+- **Tahun**: 0–25
+- **Protagonis**: Karler Miles, Rei Reltroner
+- **Antagonis**: Drift Tech Abyss
+- **Ringkasan**:
+  Perang antar faksi teknologi waktu yang memanipulasi realitas di batas dimensi Moreg. Karler mencoba melindungi masa depan, Rei menyelamatkan stabilitas sejarah.
+- **Key Scenes**:
+  - Karler menemukan 'Chrono Relic'.
+  - Rei mengintervensi masa depan palsu ciptaan Drift Tech.
+  - Keruntuhan dimensi Moreg dan pengorbanan pasukan penjaga waktu.
 
 ---
 
-### 🔹 Year: 6–25  
-**Arc/Event:** *Delwyn’s Bounty Hunter Team*  
-**Protagonists:** Delwyn, Redley, Sterling  
-**Antagonists:** Blackmarket Syndicates  
+### **4. _Rise & Fall of Henchoeway_**
+- **Tahun**: 6–20
+- **Protagonis**: Delwyn, Rei, Barry
+- **Antagonis**: Kamila Alena, Spiral Council
+- **Ringkasan**:
+  Awal berdirinya organisasi Henchoeway yang idealis, lalu terjerumus dalam doktrin manipulatif. Proses pengkhianatan dan perpecahan internal.
+- **Key Scenes**:
+  - Deklarasi resmi Henchoeway oleh Kamila.
+  - Barry keluar dari organisasi.
+  - Kamila pertama kali menggunakan energi abyss untuk memanipulasi publik.
 
 ---
 
-### 🔹 Year: 6–25  
-**Arc/Event:** *Barry & Hendry Arc*  
-**Protagonists:** Barry, Hendry  
-**Antagonists:** Technocratic Spiral Cult  
+### **5. _The Abyss of Comfort_**
+- **Tahun**: 6–25
+- **Protagonis**: Delwyn, Barry, Valethra
+- **Antagonis**: Kamila, Henchoeway
+- **Ringkasan**:
+  Serial utama tentang perjuangan pribadi karakter utama melawan kenyamanan palsu, trauma masa lalu, dan bayangan dimensi abyss. Puncak spiritual dan mental seluruh semesta.
+- **Key Scenes**:
+  - Delwyn memasuki Nytherion Abyss untuk pertama kalinya.
+  - Ritual Astralis Pinnacle oleh Valethra.
+  - Pertemuan terakhir Delwyn dengan Kamila sebelum semuanya lenyap.
 
 ---
 
-### 🔹 Year: 6–25  
-**Arc/Event:** *Valethra & Albert Arc*  
-**Protagonists:** Valethra, Albert  
-**Antagonists:** Celestial Deceivers  
+### **6. _Delwyn’s Bounty Hunter Team_**
+- **Tahun**: 6–25
+- **Protagonis**: Delwyn, Hendry, Barry
+- **Antagonis**: Blackmarket Syndicates
+- **Ringkasan**:
+  Petualangan ala bounty hunter yang gelap, penuh pengkhianatan dan hubungan antar karakter. Setiap misi mengungkap lapisan baru dari organisasi kriminal di balik Henchoeway.
+- **Key Scenes**:
+  - Misi gagal di pelabuhan Westruna.
+  - Hendry mengkhianati klien yang bersekongkol dengan spiral cult.
+  - Base mereka diserang oleh tentara bayaran.
 
 ---
 
-### 🔹 Year: 11–13  
-**Arc/Event:** *The Freezone Code*  
-**Protagonists:** Wayne, Raina  
-**Antagonist:** Caldron Gandia  
+### **7. _Barry & Hendry Arc_**
+- **Tahun**: 6–25
+- **Protagonis**: Barry, Hendry
+- **Antagonis**: Technocratic Spiral Cult
+- **Ringkasan**:
+  Duo brutal dan sarkastik yang mencoba membongkar kultus teknokratik yang memperdagangkan manusia dan ideologi melalui teknologi.
+- **Key Scenes**:
+  - Hendry menyamar sebagai kultis.
+  - Barry meledakkan pusat data kultus.
+  - Flashback masa lalu Hendry sebagai yatim.
 
 ---
 
-### 🔹 Year: 0–25  
-**Arc/Event:** *Karler & The Moreg Driftwar*  
-**Protagonists:** Karler Miles, Rei  
-**Antagonist:** Drift Tech Abyss  
+### **8. _Valethra & Albert Arc_**
+- **Tahun**: 6–25
+- **Protagonis**: Valethra, Albert
+- **Antagonis**: Celestial Deceivers
+- **Ringkasan**:
+  Pergulatan antara sains dan spiritualitas dalam menghadapi "dewa-dewa palsu" yang mencoba memanipulasi sejarah dan harapan rakyat.
+- **Key Scenes**:
+  - Valethra menginterogasi nabi palsu.
+  - Albert menciptakan alat pembaca aurora.
+  - Ritual pemurnian spiritual dari penjajahan metafisik.
 
 ---
 
-### 🔹 Year: 16–20  
-**Arc/Event:** *Battle of Reltronepolis*  
-**Protagonists:** All protagonists  
-**Antagonists:** Spiral Army, Henchoeway, Depeisit Army  
+### **9. _The Freezone Code_**
+- **Tahun**: 11–13
+- **Protagonis**: Wayne, Raina
+- **Antagonis**: Caldron Gandia
+- **Ringkasan**:
+  Thriller penuh teka-teki dan peretasan dalam wilayah netral antar negara. Mengungkap kode besar yang bisa menghancurkan kestabilan Reltronland.
+- **Key Scenes**:
+  - Penemuan data 'Zero Protocol'.
+  - Raina nyaris tertangkap di gedung Freezone Tower.
+  - Wayne menyandera diplomat palsu.
 
 ---
 
-### 🔹 Year: 6–20  
-**Arc/Event:** *Rise & Fall of Henchoeway*  
-**Protagonists:** Delwyn, Rei, Barry  
-**Antagonists:** Kamila, Spiral Council  
+### **10. _Oakcottage: A Name I Should Have Known_**
+- **Tahun**: 12–14
+- **Protagonis**: Franklin Scouter
+- **Antagonis**: Nytherion Abyss
+- **Ringkasan**:
+  Narasi pribadi dan menyakitkan tentang hilangnya Georger Woodman. Memory loss massal sebagai efek abyss.
+- **Key Scenes**:
+  - Franklin menangis di bawah pohon maple, membaca surat terakhir Georger.
+  - Dunia sekitar melupakan Georger.
+  - Nytherion Abyss muncul dalam bentuk kenangan hampa.
+
+---
+
+### **11. _Battle of Reltronepolis_**
+- **Tahun**: 16–20
+- **Protagonis**: All protagonists (multi-POV)
+- **Antagonis**: Spiral Army
+- **Ringkasan**:
+  Puncak konflik militer seluruh semesta. Serangan terhadap pusat ekonomi dan intelektual Reltronland. Semua tokoh berkumpul untuk mempertahankan Astralis Pinnacle.
+- **Key Scenes**:
+  - Serangan besar Spiral Army dari arah timur.
+  - Rei menghilang setelah menggabungkan tubuhnya dengan Reltronland.
+  - Kamila mundur ke gerbang abyss terakhir.
 
 ---
 
