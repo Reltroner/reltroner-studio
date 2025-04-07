@@ -46,18 +46,16 @@ I implemented a global error handler (`errorHandler.js`) and `ExpressError` util
 
 🛡️ This simulation represents my real project navigation, done while having the source code opened live during the interview-style practice. Every answer was formed based on my understanding and hands-on implementation.
 
-<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+---
 
-<a href="/blog" style="padding: 0.75rem 1.5rem; background-color: #2D2F36; color: white; text-decoration: none; border-radius: 8px;">
-🔙 Back to Blog
-</a>
+🔙 Back to [Blog](https://www.reltroner.com/blog)
+
+<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
 
 <a href="/files/fullstack-interview-summary.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
 📄 Download PDF Version
 </a>
 
-<a href="/blog/for-recruiters" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
-➡️ For Recruiters & Collaborators
-</a>
-
 </div>
+
+➡️ To [For Recruiters & Collaborators](https://www.reltroner.com/blog/for-recruiters)

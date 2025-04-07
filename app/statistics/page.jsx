@@ -60,7 +60,17 @@ export default function Statistics() {
       date: "2025-04-07", 
       published: true,
       image: "/images/asthortera_identity.png"
+    },
+    {
+      title: "Cosmeilia Identity",
+      description: "A planet of ethereal beauty, cosmic resonance, and spiritual governance. Cosmeilia thrives beyond material progress, led by light, emotion, and harmonic purpose.",
+      author: "Rei Reltroner",
+      slug: "cosmeilia_identity",  
+      date: "2025-04-07", 
+      published: true,
+      image: "/images/cosmeilia_identity.png"
     }
+    
     
     
     

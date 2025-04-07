@@ -41,10 +41,11 @@ This document provides a detailed overview of the sentient population structures
 - **Dominant Population:** Cosmeilia-Human Mixed (cosmic aesthetic sentient lineage)
 - **Total Sentient Population:** **~3.7 trillion**
 - **Composition:**
-  - 68% Cosmeilia-Human Mixed
+  - 70% Cosmeilia-Human Mixed
   - 20% Native Cosmeilian Sentients
-  - 7% Immigrants from Asthortera
-  - 5% Immigrants from Depeisit
+  - 5% Immigrants from Asthortera
+  - 4% Immigrants from Depeisit
+  - 1% Others (alien humanoids, hybrids)
 - **Notable Characteristic:** Ethereal beauty and cosmic spirituality define the dominant population. No full-blooded Earth-human exists in Cosmeilia as native.
 
 ---

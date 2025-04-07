@@ -244,18 +244,16 @@ Reltroner Studio stands for consciousness, clarity, and courage. The war between
 
 Let Astralis light the unknown.
 
-<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+---
 
-<a href="/" style="padding: 0.75rem 1.5rem; background-color: #2D2F36; color: white; text-decoration: none; border-radius: 8px;">
-🔙 Back to Home
-</a>
+🔙 Back to [Home](https://www.reltroner.com/)
+
+<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
 
 <a href="/files/creative-lore-bible.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
 📄 Download PDF Version
 </a>
 
-<a href="/blog/external-creator-handbook" style="padding: 0.75rem 1.5rem; background-color: #00693E; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
-➡️ External Creator Handbook
-</a>
-
 </div>
+
+➡️ To [External Creator Handbook](https://www.reltroner.com/blog/external-creator-handbook)
