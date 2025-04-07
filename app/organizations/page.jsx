@@ -4,7 +4,7 @@ import Heading from "@/components/Heading";
 
 export const metadata = {
   title: "Organizations",
-  description: "Explore the organizations of Asthortera — complex, layered, and deeply intertwined with the fate of Astralis."
+  description: "A curated directory of visionary entities in Asthortera — from philosophical alliances to tech-engineered think tanks — each playing a pivotal role in shaping the world’s creative, economic, and ideological future."
 };
 
 export default function Organizations() {
