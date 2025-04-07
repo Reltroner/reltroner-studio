@@ -195,6 +195,15 @@ export default function Blog() {
           author: "Reltroner Studio",
           published: true,
           date: "April 8, 2025"
+        },
+        {
+          title: "Reltroner x Joker – Shadow of Truth",
+          description: "An unofficial crossover encounter between Rei Reltroner and Joker from Persona 5. A metaphysical clash of reality, illusion, and rebellion in the Smash multiverse.",
+          slug: "reltroner-joker",
+          image: "/images/reltroner-joker.png",
+          author: "Reltroner Studio",
+          published: true,
+          date: "April 8, 2025"
         }
            
     ];
