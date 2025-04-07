@@ -186,6 +186,15 @@ export default function Blog() {
           date: "2025-04-05",
           published: true,
           image: "/images/reltroner-hub.png"
+        },
+        {
+          title: "Rei Reltroner Joins Super Smash Bros. Ultimate!",
+          description: "Introducing Rei Reltroner as Fighter #93 in an epic crossover from the Astralis Pinnacle to Smash. Discover his moveset, Final Smash, and what makes him a truly unique fighter.",
+          slug: "rei-super-smash",
+          image: "/images/rei-smash-poster.png",
+          author: "Reltroner Studio",
+          published: true,
+          date: "April 8, 2025"
         }
            
     ];
