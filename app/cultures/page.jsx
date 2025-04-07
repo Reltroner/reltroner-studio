@@ -35,6 +35,14 @@ export default function Cultures() {
         date: "2025-04-06",
         published: true,
         image: "/images/children-of-asthortera.png"
+    },
+    {
+      title: "Culture Note: Masks and Mobility in Reltronland",
+      description: "An overview of why mask-wearing remains prevalent in Reltronland despite the absence of a health crisis.",
+      slug: "mask-reltronland",
+      image: "/images/mask-reltronland.png",
+      author: "Rei Reltroner",
+      date: "2025-04-04",
     }
   
   ];

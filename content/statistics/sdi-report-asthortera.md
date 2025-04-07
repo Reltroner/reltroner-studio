@@ -19,7 +19,6 @@ Here, **SDI (Sentient Development Index)** is the ultimate indicator of a nation
 - 🌱 **Child resilience and curiosity levels**
 - 🕊️ **Freedom from feudal or illusion-based systems**
 - 📚 **Cultural prioritization** of education, healing, and self-awareness
-
 - 🏡 **Decent standard of living** that promotes dignity and stability
 - ❤️ **Holistic health**: both physical well-being and spiritual/emotional alignment
 

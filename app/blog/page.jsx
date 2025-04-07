@@ -155,14 +155,6 @@ export default function Blog() {
           date: "2025-04-04"
         },
         {
-          title: "Culture Note: Masks and Mobility in Reltronland",
-          description: "An overview of why mask-wearing remains prevalent in Reltronland despite the absence of a health crisis.",
-          slug: "mask-reltronland",
-          image: "/images/mask-reltronland.png",
-          author: "Rei Reltroner",
-          date: "2025-04-04",
-        },
-        {
           title: "Reltroner Studio – 12-Month Development Roadmap",
           description: "Strategic vision for the foundational year of building reltroner.com as an immersive, multidimensional worldbuilding platform.",
           slug: "12-month-roadmap",
