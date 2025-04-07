@@ -79,8 +79,7 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 
 ---
 
-
-**📚 Roadmap Series Asthortera - Reltroner Studio**
+**IV.📚 Roadmap Series Asthortera - Reltroner Studio**
 
 ---
 
