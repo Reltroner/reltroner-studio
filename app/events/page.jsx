@@ -4,7 +4,7 @@ import Heading from "@/components/Heading";
 
 export const metadata = {
   title: "Events",
-  description: "Explore the events of Asthortera — complex, layered, and deeply intertwined with the fate of Astralis."
+  description: "A living archive of world-shaping phenomena in Asthortera — from revolutions in spiritual philosophy to technological uprisings, and from interdimensional conflicts to peaceful cultural summits. Every event listed here plays a key role in forging the soul and future of the Reltroner Saga."
 };
 
 export default function Events() {
@@ -25,7 +25,7 @@ export default function Events() {
   return (
     <div className="p-5 bg-slate-100">
       <Heading>Events</Heading>
-      <p className="mb-4 text-center font-bold">A curated directory of visionary entities in Asthortera — from philosophical alliances to tech-engineered think tanks — each playing a pivotal role in shaping the world’s creative, economic, and ideological future.</p>
+      <p className="mb-4 text-center font-bold">A living archive of world-shaping phenomena in Asthortera — from revolutions in spiritual philosophy to technological uprisings, and from interdimensional conflicts to peaceful cultural summits. Every event listed here plays a key role in forging the soul and future of the Reltroner Saga.</p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {events.map((event, index) => (

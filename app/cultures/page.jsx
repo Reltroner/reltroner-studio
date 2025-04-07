@@ -4,7 +4,7 @@ import Heading from "@/components/Heading";
 
 export const metadata = {
   title: "Cultures",
-  description: "Explore the cultures of Asthortera — complex, layered, and deeply intertwined with the fate of Astralis."
+  description: "Dive into the ethos and daily rituals of Asthortera — where identity, behavior, and belief systems converge into legacies that define civilizations."
 };
 
 export default function Cultures() {

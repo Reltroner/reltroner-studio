@@ -4,7 +4,7 @@ import Heading from "@/components/Heading";
 
 export const metadata = {
   title: "places",
-  description: "Explore the places of Asthortera — complex, layered, and deeply intertwined with the fate of Astralis."
+  description: "Journey through cities, ruins, and forgotten dimensions — each with their own pulse, memory, and power in the grand chronicle of Asthortera."
 };
 
 export default function Places() {

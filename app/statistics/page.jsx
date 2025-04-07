@@ -4,7 +4,7 @@ import Heading from "@/components/Heading";
 
 export const metadata = {
   title: "Statistics",
-  description: "Explore the statistics of Asthortera, a complex, layered, and deeply intertwined story that shape Asthortera’s destiny."
+  description: "Decode the raw numbers behind the world — from population structures to SDI indicators — and understand what truly drives Asthortera beneath the surface."
 };
 
 export default function Statistics() {

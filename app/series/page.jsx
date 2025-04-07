@@ -4,7 +4,7 @@ import Heading from "@/components/Heading";
 
 export const metadata = {
   title: "Series",
-  description: "Explore the series of Asthortera — complex, layered, and deeply intertwined with the fate of Astralis."
+  description: "Unravel the character-driven sagas across multiple timelines — where political tension, cosmic mysteries, and inner wars shape Asthortera’s fate."
 };
 
 export default function Series() {

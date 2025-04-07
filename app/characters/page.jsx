@@ -4,7 +4,7 @@ import Heading from "@/components/Heading";
 
 export const metadata = {
   title: "Characters",
-  description: "Explore the characters of Asthortera — complex, layered, and deeply intertwined with the fate of Astralis."
+  description: "Explore the living minds that shape Asthortera’s destiny."
 };
 
 export default function Characters() {
