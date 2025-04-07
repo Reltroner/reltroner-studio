@@ -13,13 +13,17 @@ image: "/images/sdi-report-asthortera.png"
 In the world of Asthortera, the measurement of progress transcends GDP or material wealth.  
 Here, **SDI (Sentient Development Index)** is the ultimate indicator of a nation's collective growth.
 
-SDI evaluates:
-- Cognitive & emotional maturity of citizens
-- Child resilience and curiosity levels
-- Freedom from feudal or illusion-based systems
-- Cultural prioritization of education, healing, and self-awareness
+**Sentient Development Index (SDI)** evaluates more than surface-level prosperity. It focuses on the inner infrastructure of a civilization:
 
-This is a report of the top-performing nations and the reasoning behind their ranks.
+- 🧠 **Cognitive & emotional maturity** of citizens
+- 🌱 **Child resilience and curiosity levels**
+- 🕊️ **Freedom from feudal or illusion-based systems**
+- 📚 **Cultural prioritization** of education, healing, and self-awareness
+
+- 🏡 **Decent standard of living** that promotes dignity and stability
+- ❤️ **Holistic health**: both physical well-being and spiritual/emotional alignment
+
+These indicators are not fixed—they evolve with each generation’s spiritual and intellectual choices.
 
 ---
 
@@ -150,7 +154,7 @@ making it one of the most emotionally stable nations in Asthortera.
 ---
 
 ### ⚓ **Hargenbor**  
-**SDI:** 0.928  
+**SDI:** 0.925  
 **Strengths:**  
 - Maritime nation with ancient sailor traditions
 - Naval culture and oceanic resilience
