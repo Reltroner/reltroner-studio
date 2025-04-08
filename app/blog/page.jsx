@@ -222,6 +222,15 @@ export default function Blog() {
           author: "Reltroner Studio",
           published: true,
           date: "April 8, 2025"
+        },
+        {
+          title: "Twilight Terminal",
+          description: "A silent space between comfort and chaos. Where Rei and Joker find something deeper than battle — stillness.",
+          slug: "twilight-terminal",
+          image: "/images/twilight-terminal.png",
+          author: "Reltroner Studio",
+          published: true,
+          date: "April 8, 2025"
         }
            
     ];
