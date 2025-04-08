@@ -204,6 +204,15 @@ export default function Blog() {
           author: "Reltroner Studio",
           published: true,
           date: "April 8, 2025"
+        },
+        {
+          title: "2v3: Reltroner & Joker vs Nytherion Army",
+          description: "An ultimate duo clash between Rei Reltroner and Joker as they take on the twisted forces of the Nytherion Abyss. A cosmic 2v3 battle across realities.",
+          slug: "2v3-reltroner-joker",
+          image: "/images/2v3-reltroner-joker.png",
+          author: "Reltroner Studio",
+          published: true,
+          date: "April 8, 2025"
         }
            
     ];
