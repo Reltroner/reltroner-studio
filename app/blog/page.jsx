@@ -213,6 +213,15 @@ export default function Blog() {
           author: "Reltroner Studio",
           published: true,
           date: "April 8, 2025"
+        },
+        {
+          title: "Rei & Joker: Reflections of Rebellion",
+          description: "A cosmic friendship between Rei Reltroner and Joker from Persona 5. Together, they reflect each other's inner strength in a bond forged beyond illusion.",
+          slug: "rei-joker-friend",
+          image: "/images/rei-joker-friendship.png",
+          author: "Reltroner Studio",
+          published: true,
+          date: "April 8, 2025"
         }
            
     ];
