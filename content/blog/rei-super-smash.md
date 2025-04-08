@@ -46,9 +46,15 @@ Rei Reltroner, also known as *The Astralis Architect*, officially enters **Super
 
 ---
 
+### 🔹 **Down B (Hold) - Form Switch: Jet Mode	Aerial / Control**	
+> Transforms into a mini Astralis fighter for hovering and ranged Red Pill lasers.
+
+---
+
 ### 🔹 **Final Smash – Ritual of Astralis Pinnacle**  
 > A cinematic super attack. The battlefield shifts into the Astralis Realm. Enemies are caught in red light beams and thrown into the Nytherion Abyss with massive impact.
 
+![Signature Moveset](/images/litlle-rere-jet.png)
 ---
 
 ## 🌟 Passive Ability
