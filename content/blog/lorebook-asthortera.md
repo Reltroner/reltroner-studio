@@ -28,9 +28,9 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 - **Notable Figure:** Rei Reltroner
 
 ### ⚙️ Depcutland — "Echoes of Depeisit"
-- **Government Type:** Federal Industrial Technocracy
+- **Government Type:** Archival-Meritocracy
 - **Capital:** Depsetica
-- **Philosophy:** Free Industrialism, Technological Expansion
+- **Philosophy:** Preservation of thought, structured creativity, and post-feudal enlightenment
 - **Relation with Reltronland:** Cultural kinship, historical conflict
 - **Notable Conflict:** The Reiweston Crisis
 
