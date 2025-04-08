@@ -19,6 +19,16 @@ export default function Layout({ children }) {
                     <link rel="icon" href="/images/reltroner-studio.png" type="image/png" />
                     {/*  jika punya .ico: */}
                     {/* <link rel="icon" href="/reltroner-logo.ico" type="image/x-icon" /> */}
+                    {/* Google Analytics */}
+                    <script async src={`https://www.googletagmanager.com/gtag/js?id=G-VZ7QYLZPF0`}></script>
+                    <script dangerouslySetInnerHTML={{
+                    __html: `
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag(){dataLayer.push(arguments);}
+                        gtag('js', new Date());
+                        gtag('config', 'G-VZ7QYLZPF0');
+                    `
+                    }} />
             </head>
             <body className="bg-slate-100 px-5 py-5 flex flex-col min-h-screen">
                 <header>
