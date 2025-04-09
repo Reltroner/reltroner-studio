@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../contentlayer.config.js"],
+  "sourcesContent": ["import { defineDocumentType, makeSource } from \"contentlayer/source-files\";\r\n\r\nexport const Blog = defineDocumentType(() => ({\r\n  name: \"Blog\",\r\n  filePathPattern: `blog/*.md`,\r\n  contentType: \"markdown\",\r\n  fields: {\r\n    title: { type: \"string\", required: true },\r\n    description: { type: \"string\" },\r\n    date: { type: \"date\" },\r\n  },\r\n  computedFields: {\r\n    slug: {\r\n      type: \"string\",\r\n      resolve: (doc) => doc._raw.sourceFileName.replace(/\\.md$/, \"\"),\r\n    },\r\n  },\r\n}));\r\n\r\n// Tambahkan document type lain seperti Characters, Cultures, dll\r\n\r\nexport default makeSource({\r\n  contentDirPath: \"content\",\r\n  documentTypes: [Blog],\r\n});\r\n"],
+  "mappings": ";AAAA,SAAS,oBAAoB,kBAAkB;AAExC,IAAM,OAAO,mBAAmB,OAAO;AAAA,EAC5C,MAAM;AAAA,EACN,iBAAiB;AAAA,EACjB,aAAa;AAAA,EACb,QAAQ;AAAA,IACN,OAAO,EAAE,MAAM,UAAU,UAAU,KAAK;AAAA,IACxC,aAAa,EAAE,MAAM,SAAS;AAAA,IAC9B,MAAM,EAAE,MAAM,OAAO;AAAA,EACvB;AAAA,EACA,gBAAgB;AAAA,IACd,MAAM;AAAA,MACJ,MAAM;AAAA,MACN,SAAS,CAAC,QAAQ,IAAI,KAAK,eAAe,QAAQ,SAAS,EAAE;AAAA,IAC/D;AAAA,EACF;AACF,EAAE;AAIF,IAAO,8BAAQ,WAAW;AAAA,EACxB,gBAAgB;AAAA,EAChB,eAAe,CAAC,IAAI;AACtB,CAAC;",
+  "names": []
+}
