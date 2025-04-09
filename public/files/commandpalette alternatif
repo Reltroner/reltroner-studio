@@ -1,0 +1,111 @@
+// 'use client';
+
+// import { useEffect, useState } from 'react';
+// import {
+//   CommandDialog,
+//   CommandInput,
+//   CommandList,
+//   CommandItem,
+//   CommandEmpty,
+//   CommandGroup,
+// } from 'cmdk';
+// import { useRouter } from 'next/navigation';
+// import { DialogTitle } from '@radix-ui/react-dialog';
+// import { VisuallyHidden } from '@radix-ui/react-visually-hidden';
+
+// export default function CommandPalette() {
+//   const [open, setOpen] = useState(false);
+//   const router = useRouter();
+
+//   // Shortcut listener
+//   useEffect(() => {
+//     const down = (e) => {
+//       if ((e.key === 'k' && (e.metaKey || e.ctrlKey))) {
+//         e.preventDefault();
+//         setOpen((open) => !open);
+//       }
+//     };
+
+//     document.addEventListener('keydown', down);
+//     return () => document.removeEventListener('keydown', down);
+//   }, []);
+
+//   const pages = [
+//     { name: "Home", path: "/" },
+//     { name: "Blog", path: "/blog" },
+//     { name: "About", path: "/about" },
+//     { name: "Characters", path: "/characters", tag: "Main Pages" },
+//     { name: "Cultures", path: "/cultures", tag: "Main Pages" },
+//     { name: "Places", path: "/places", tag: "Main Pages" },
+//     { name: "Series", path: "/series", tag: "Main Pages" },
+//     { name: "Statistics", path: "/statistics", tag: "Main Pages" },
+//     { name: "Organizations", path: "/organizations", tag: "Main Pages" },
+//     { name: "Events", path: "/events", tag: "Main Pages" },
+//     { name: "Contact", path: "/contact", tag: "Main Pages" },
+//     { name: "Portfolio", path: "/blog/for-recruiters", tag: "Blog" },
+//     { name: "Principles", path: "/blog/reltroner", tag: "Blog" },
+//     { name: "Disclaimer", path: "/blog/disclaimer", tag: "Blog" },
+//     { name: "Astralis Manifesto", path: "/blog/astralis-nytherion-manifesto", tag: "Philosophy" },
+//     { name: "Cuteness Manifesto", path: "/cultures/cuteness-manifesto", tag: "Culture" },
+//     { name: "SDI Report", path: "/statistics/sdi-report-asthortera", tag: "Statistics" },
+//     { name: "Talent Longevity", path: "/blog/talent-longevity", tag: "Profile" },
+//     { name: "Characters: Delwyn Harper", path: "/characters/delwyn-harper", tag: "Characters" },
+//     { name: "Characters: Rei Reltroner", path: "/characters/rei-reltroner", tag: "Characters" },
+//     { name: "Asthortera Identity", path: "/statistics/asthortera_identity", tag: "Statistics" },
+//     { name: "Cosmeilia Identity", path: "/statistics/cosmeilia_identity", tag: "Statistics" },
+//     { name: "Depeisit Identity", path: "/statistics/depeisit_identity", tag: "Statistics" },
+//     { name: "Cistheta Identity", path: "/statistics/cistheta_identity", tag: "Statistics" },
+//     { name: "Sentient Population", path: "/statistics/sentient-population", tag: "Statistics" },
+//     { name: "Value Index", path: "/statistics/value-index", tag: "Statistics" },
+//     { name: "Creative Lore Bible", path: "/blog/creative-lore-bible", tag: "Lore" },
+//     { name: "Lorebook Asthortera", path: "/blog/lorebook-asthortera", tag: "Lore" },
+//     { name: "Magic System", path: "/blog/magic-system", tag: "Lore" },
+//   ];
+
+//   // Grouping by tag
+//   const groupedPages = pages.reduce((acc, page) => {
+//     const tag = page.tag || '⬇️ Click below to select a page';
+//     if (!acc[tag]) acc[tag] = [];
+//     acc[tag].push(page);
+//     return acc;
+//   }, {});
+
+//   return (
+//     <CommandDialog
+//       open={open}
+//       onOpenChange={setOpen}
+//       className="fixed inset-0 flex items-center justify-center z-[9999] bg-black/30 backdrop-blur-sm transition-opacity duration-200 ease-in-out"
+//     >
+//       <VisuallyHidden>
+//         <DialogTitle>Command Palette</DialogTitle>
+//       </VisuallyHidden>
+
+//       <div className="w-full max-w-lg mx-auto bg-white dark:bg-gray-800 rounded-xl shadow-xl border dark:border-gray-600 p-4">
+//         <CommandInput
+//           placeholder="Search page..."
+//           className="w-full p-2 border rounded dark:bg-gray-700 dark:text-white mb-4"
+//         />
+//         <CommandList className="max-h-96 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-400 dark:scrollbar-thumb-gray-600">
+//           <CommandEmpty>No results found.</CommandEmpty>
+//           {Object.entries(groupedPages).map(([tag, items]) => (
+//             <CommandGroup key={tag} heading={tag}>
+//               {items.map((page) => (
+//                 <CommandItem
+//                   key={page.path}
+//                   value={page.name}
+//                   onSelect={() => {
+//                     router.push(page.path);
+//                     setOpen(false);
+//                   }}
+//                   className="hover:bg-gray-100 dark:hover:bg-gray-700 dark:text-white"
+//                 >
+//                   {page.name}
+//                 </CommandItem>
+//               ))}
+//             </CommandGroup>
+//           ))}
+//         </CommandList>
+//       </div>
+//     </CommandDialog>
+//   );
+// }

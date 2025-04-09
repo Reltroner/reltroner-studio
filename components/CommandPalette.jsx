@@ -33,7 +33,7 @@ export default function CommandPalette() {
     { name: "Home", path: "/" },
     { name: "Blog", path: "/blog" },
     { name: "About", path: "/about" },
-    { name: "Characters", path: "/characters" },
+    { name: "Characters", path: "/characters", tag: "Characters" },
     { name: "Cultures", path: "/cultures" },
     { name: "Places", path: "/places" },
     { name: "Series", path: "/series" },
@@ -57,7 +57,7 @@ export default function CommandPalette() {
     { name: "Certificate Achievement", path: "/blog/certificate-achievement" },
     { name: "Creative Lore Bible", path: "/blog/creative-lore-bible" },
     { name: "Cultures Civilizations", path: "/blog/cultures-civilizations" },
-    { name: "Events", path: "/blog/events" },
+    { name: "Timeline of Events", path: "/blog/events" },
     { name: "External Creator Handbook", path: "/blog/external-creator-handbook" },
     { name: "Fullstack Interview Summary", path: "/blog/fullstack-interview-summary" },
     { name: "GPTPlus", path: "/blog/gptplus" },
@@ -80,20 +80,20 @@ export default function CommandPalette() {
     { name: "Twilight Terminal", path: "/blog/twilight-terminal" },
     { name: "Worldbuilding", path: "/blog/worldbuilding" },
     // Characters
-    { name: "Albert Locke", path: "/characters/albert-locke" },
-    { name: "Barry Heathrow", path: "/characters/barry-heathrow" },
-    { name: "Delwyn Harper", path: "/characters/delwyn-harper" },
-    { name: "Evara Alena", path: "/characters/evara-alena" },
-    { name: "Franklin Scouter", path: "/characters/franklin-scouter" },
-    { name: "Georger Woodman", path: "/characters/georger-woodman" },
-    { name: "Hendry Harry", path: "/characters/hendry-harry" },
-    { name: "Isaac Luminar", path: "/characters/isaac-luminar" },
-    { name: "Kamila Alena", path: "/characters/kamila-alena" },
-    { name: "Queen Valethra", path: "/characters/queen-valethra" },
-    { name: "Raina Veltrania", path: "/characters/raina-veltrania" },
-    { name: "Rei Reltroner", path: "/characters/rei-reltroner" },
-    { name: "Wayne Astoner", path: "/characters/wayne-astoner" },
-    { name: "Westley Watson", path: "/characters/westley-watson" },
+    { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
+    { name: "Barry Heathrow", path: "/characters/barry-heathrow", tag: "Characters" },
+    { name: "Delwyn Harper", path: "/characters/delwyn-harper", tag: "Characters" },
+    { name: "Evara Alena", path: "/characters/evara-alena", tag: "Characters" },
+    { name: "Franklin Scouter", path: "/characters/franklin-scouter", tag: "Characters" },
+    { name: "Georger Woodman", path: "/characters/georger-woodman", tag: "Characters" },
+    { name: "Hendry Harry", path: "/characters/hendry-harry", tag: "Characters" },
+    { name: "Isaac Luminar", path: "/characters/isaac-luminar", tag: "Characters" },
+    { name: "Kamila Alena", path: "/characters/kamila-alena", tag: "Characters" },
+    { name: "Queen Valethra", path: "/characters/queen-valethra", tag: "Characters" },
+    { name: "Raina Veltrania", path: "/characters/raina-veltrania", tag: "Characters" },
+    { name: "Rei Reltroner", path: "/characters/rei-reltroner", tag: "Characters" },
+    { name: "Wayne Astoner", path: "/characters/wayne-astoner", tag: "Characters" },
+    { name: "Westley Watson", path: "/characters/westley-watson", tag: "Characters" },
     // Cultures
     { name: "Children of Asthortera", path: "/cultures/children-of-asthortera" },
     { name: "Cuteness Manifesto", path: "/cultures/cuteness-manifesto" },
@@ -123,6 +123,12 @@ export default function CommandPalette() {
     { name: "Sentient Population", path: "/statistics/sentient-population" },
     { name: "Value Index", path: "/statistics/value-index" },
   ];
+
+  const groupedPages = pages.reduce((acc, page) => {
+    if (!acc[page.tag]) acc[page.tag] = [];
+    acc[page.tag].push(page);
+    return acc;
+  }, {});
 
   return (
     <CommandDialog
@@ -159,8 +165,5 @@ export default function CommandPalette() {
     </CommandList>
   </div>
 </CommandDialog>
-
-
-
   );
 }
