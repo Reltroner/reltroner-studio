@@ -64,6 +64,8 @@ Depcutland prioritizes wisdom as much as efficiency,
 making it one of the most emotionally stable nations in Asthortera.
 
 ---
+🔍 *Top SDI Nations:* ![SDI Nations Statistics](/images/sdi2025.png)
+---
 
 ### 🌈 Other Notable High-SDI Nations
 
