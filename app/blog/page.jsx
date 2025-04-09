@@ -31,14 +31,6 @@ const posts = [
       date: "March 14, 2025"
   },
   {
-      title: "Scout Parade in Evercotage",
-      description: "Highlight of the grand Scout Parade in Evercotage, the capital of Stelpadland.",
-      slug: "scoutparade",
-      image: "/images/scout-parade.webp",
-      author: "Raidan",
-      date: "March 16, 2025"
-  },
-  {
       title: "Certificate Achievement",
       description: "My journey completing a express.js CRUD project through sheer self-discipline and effort.",
       slug: "certificate-achievement",

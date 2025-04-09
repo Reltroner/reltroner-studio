@@ -15,6 +15,14 @@ const events = [
     published: true,
     date: "April 8, 2025",
   },
+  {
+    title: "Scout Parade in Evercotage",
+    description: "Highlight of the grand Scout Parade in Evercotage, the capital of Stelpadland.",
+    slug: "scoutparade",
+    image: "/images/scout-parade.webp",
+    author: "Raidan",
+    date: "March 16, 2025"
+  },
   // Tambahkan lebih banyak event di masa depan...
 ];
 

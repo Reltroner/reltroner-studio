@@ -75,7 +75,6 @@ export default function CommandPalette() {
     { name: "Reltroner Hub", path: "/blog/reltroner-hub" },
     { name: "Reltroner Joker", path: "/blog/reltroner-joker" },
     { name: "Roadmap 2045", path: "/blog/roadmap-2045" },
-    { name: "Scout Parade", path: "/blog/scoutparade" },
     { name: "Talent Longevity", path: "/blog/talent-longevity" },
     { name: "Twilight Terminal", path: "/blog/twilight-terminal" },
     { name: "Worldbuilding", path: "/blog/worldbuilding" },
@@ -103,6 +102,7 @@ export default function CommandPalette() {
     { name: "Rest Culture", path: "/cultures/rest-culture" },
     // Events
     { name: "Series Roadmap", path: "/events/series-roadmap" },
+    { name: "Scout Parade", path: "/events/scoutparade" },
     // Organizations
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
