@@ -27,25 +27,25 @@ export default async function BlogPostPage(props) {
     const post = await getPost(params.slug);
   
     if (!post || !post.title) {
-      return <div className="p-6 text-red-500 font-bold">Post not found</div>;
+      return <div className="p-6 text-red-500 font-bold dark:bg-gray-900 dark:text-white">Post not found</div>;
     }
   
     return (
-      <div className="flex-grow px-4 sm:px-6 md:px-8 py-6 max-w-screen-md mx-auto w-full pl-4">
+      <div className="flex-grow px-4 sm:px-6 md:px-8 py-6 max-w-screen-md mx-auto w-full pl-4  dark:bg-gray-900 dark:text-white prose dark:prose-invert">
         <Heading>{post.title}</Heading>
-        <p className="text-sm text-gray-600 pl-4">{post.description}</p>
-        <p className="italic text-sm text-gray-500 mb-4 pl-4">
+        <p className="text-sm text-gray-600 pl-4 dark:bg-gray-900 dark:text-white">{post.description}</p>
+        <p className="italic text-sm text-gray-500 mb-4 pl-4 dark:bg-gray-900 dark:text-white">
           {post.date} — {post.published ? "Published" : "Draft"}
         </p>
         {post.image && (
           <img
             src={post.image}
             alt={post.title}
-            className="w-full h-auto rounded-lg mb-6 object-cover sm:px-0 px-4"
+            className="w-full h-auto rounded-lg mb-6 object-cover sm:px-0 px-4 dark:bg-gray-900 dark:text-white"
           />
         )}
         <article
-          className="prose prose-slate max-w-none text-justify sm:px-0 px-4"
+          className="prose prose-slate max-w-none text-justify sm:px-0 px-4 dark:bg-gray-900 dark:text-white"
           dangerouslySetInnerHTML={{ __html: post.html }}
         />
       </div>

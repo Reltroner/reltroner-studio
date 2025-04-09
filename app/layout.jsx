@@ -2,6 +2,7 @@ import Link from "next/link";
 import './global.css';
 import Navbar from "@/components/Navbar";
 import { roboto } from "./fonts";
+import MobileNavbar from "@/components/MobileNavbar";
 
 export const metadata = {
     title: {
@@ -15,6 +16,7 @@ export default function Layout({ children }) {
     return (
         <html lang="en" className={roboto.variable}>
             <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
             <title>Reltroner Studio</title>
                     <link rel="icon" href="/images/reltroner-studio.png" type="image/png" />
                     {/*  jika punya .ico: */}
@@ -30,12 +32,13 @@ export default function Layout({ children }) {
                     `
                     }} />
             </head>
-            <body className="bg-slate-100 px-5 py-5 flex flex-col min-h-screen">
+            <body className="bg-slate-100 px-5 py-5 flex flex-col min-h-screen  text-black dark:bg-gray-900 dark:text-white">
+            <MobileNavbar />
                 <header>
                     <Navbar />
                 </header>
-                <main className="py-5 grow">{children}</main>
-                <footer className="border-t pt-4 pb-6 text-center text-xs text-gray-500">
+                <main className="py-5 grow dark:bg-gray-900 dark:text-white">{children}</main>
+                <footer className="border-t pt-4 pb-6 text-center text-xs text-gray-500  dark:bg-gray-900 dark:text-white">
                     © {new Date().getFullYear()} Reltroner Studio. All rights reserved.
                     <br />
                     Built with ❤️ in Asthortera.

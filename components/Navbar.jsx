@@ -1,10 +1,12 @@
 import Link from "next/link";
+import DarkModeToggle from "./DarkModeToggle";
 
 export default function Navbar() {
     return (
-        <div className="overflow-x-auto whitespace-nowrap px-4 py-3 bg-white shadow-sm">
+        <div className="overflow-x-auto whitespace-nowrap px-4 py-3 bg-white shadow-sm text-black dark:bg-gray-900 dark:text-white">
             <nav>
-                <ul className="flex min-w-max gap-5 font-roboto text-base sm:text-lg pr-4">
+                <ul className="flex min-w-max gap-5 font-roboto text-base sm:text-lg pr-4 hidden md:flex">
+                    {/* <li><DarkModeToggle /></li> */}
                     <li><Link href="/" className="hover:underline">Home</Link></li>
                     <li><Link href="/about" className="hover:underline">About</Link></li>
                     <li><Link href="/blog" className="hover:underline">Blog</Link></li>

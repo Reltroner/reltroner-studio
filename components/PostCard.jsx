@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function PostCard({ title, description, slug, image, author, uploadDate }) {
     return (
-        <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl hover:scale-[1.015] transition-all duration-300 w-full max-w-[400px] mx-auto">
+        <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl hover:scale-[1.015] transition-all duration-300 w-full max-w-[400px] mx-auto dark:bg-gray-900 dark:text-white">
             <div className="p-4">
                 <Link href={`/blog/${slug}`}>
                     <img
