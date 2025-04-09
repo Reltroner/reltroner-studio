@@ -79,6 +79,8 @@ export default function CommandPalette() {
     { name: "Talent Longevity", path: "/blog/talent-longevity" },
     { name: "Twilight Terminal", path: "/blog/twilight-terminal" },
     { name: "Worldbuilding", path: "/blog/worldbuilding" },
+    { name: "Reltroner Sparkpade", path: "/blog/reltroner-sparkpad" },
+    { name: "gen-z-alpha-market-potential", path: "/blog/gen-z-alpha-market-potential" },
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
     { name: "Barry Heathrow", path: "/characters/barry-heathrow", tag: "Characters" },

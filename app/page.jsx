@@ -68,6 +68,19 @@ const posts = [
     slug: "events",
     image: "/images/events.webp"
   },
+  {
+    title: "Reltroner Sparkpad",
+    description: "A futuristic personal branding toolkit designed for Gen Z & Alpha to build powerful digital identities through portfolio builders, AI content assistants, and growth trackers.",
+    slug: "reltroner-sparkpad",
+    image: "/images/reltroner-sparkpad.png"
+  },
+  {
+    title: "Gen z & Alpha Market Potential",
+    description: "Strategic insight and business directions for capturing the minds and markets of Gen Z and Gen Alpha, focused on clarity, identity, and digital sanctuary.",
+    slug: "gen-z-alpha-market-potential",
+    image: "/images/gen-z-alpha-market-potential.png"
+  }
+  
 ];
 
 export default function Home() {
