@@ -29,7 +29,7 @@ export default function StatisticsClient({ statistics }) {
         </p>
       </div>
       {/* Search Box */}
-      <div className="flex items-center gap-x-2 mb-6 sticky top-4">
+      <div className="flex items-center gap-x-2 mb-6">
         <label htmlFor="search" className="font-semibold text-gray-700">
           Search:
         </label>
