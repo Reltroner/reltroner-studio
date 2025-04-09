@@ -44,28 +44,104 @@ export default function CommandPalette() {
     { name: "Portfolio", path: "/blog/for-recruiters" },
     { name: "Principles", path: "/blog/reltroner" },
     { name: "Disclaimer", path: "/blog/disclaimer" },
-    { name: "Statistics: SDI Report", path: "/statistics/sdi-report-asthortera" },
-    { name: "Culture: Cuteness Manifesto", path: "/cultures/cuteness-manifesto" },
-    { name: "Profile: Talent Longevity", path: "/blog/talent-longevity" },
+    { name: "2v3 Reltroner Joker", path: "/blog/2v3-reltroner-joker" },
+    { name: "12 Month Roadmap", path: "/blog/12-month-roadmap" },
+    { name: "A Lifelong Build", path: "/blog/a-lifelong-build" },
+    { name: "Asthortera Character Pocketbook", path: "/blog/asthortera-character-pocketbook" },
+    { name: "Astralis Evaluation Framework", path: "/blog/astralis-evaluation-framework" },
+    { name: "Astralis Leadership Origin", path: "/blog/astralis-leadership-origin" },
+    { name: "Astralis Nytherion Manifesto", path: "/blog/astralis-nytherion-manifesto" },
+    { name: "Astralis Poem", path: "/blog/astralis-poem" },
+    { name: "Astralis Top 001", path: "/blog/astralis-top001" },
+    { name: "Astralis Vanguard", path: "/blog/astralis-vanguard" },
+    { name: "Certificate Achievement", path: "/blog/certificate-achievement" },
+    { name: "Creative Lore Bible", path: "/blog/creative-lore-bible" },
+    { name: "Cultures Civilizations", path: "/blog/cultures-civilizations" },
+    { name: "Events", path: "/blog/events" },
+    { name: "External Creator Handbook", path: "/blog/external-creator-handbook" },
+    { name: "Fullstack Interview Summary", path: "/blog/fullstack-interview-summary" },
+    { name: "GPTPlus", path: "/blog/gptplus" },
+    { name: "Legal Disclaimer", path: "/blog/legal-disclaimer" },
+    { name: "Lorebook Asthortera", path: "/blog/lorebook-asthortera" },
+    { name: "Magic System", path: "/blog/magic-system" },
+    { name: "Manifesto Leadership", path: "/blog/manifesto-leadership" },
+    { name: "Piday", path: "/blog/piday" },
+    { name: "Pinews", path: "/blog/pinews" },
+    { name: "Politics", path: "/blog/politics" },
+    { name: "Redpill Abyssborn", path: "/blog/redpill-abyssborn" },
+    { name: "Rei Reltroner Identity", path: "/blog/rei-reltroner-identity" },
+    { name: "Rei Super Smash", path: "/blog/rei-super-smash" },
+    { name: "Rei Joker Friend", path: "/blog/rei-joker-friend" },
+    { name: "Reltroner Hub", path: "/blog/reltroner-hub" },
+    { name: "Reltroner Joker", path: "/blog/reltroner-joker" },
+    { name: "Roadmap 2045", path: "/blog/roadmap-2045" },
+    { name: "Scout Parade", path: "/blog/scoutparade" },
+    { name: "Talent Longevity", path: "/blog/talent-longevity" },
+    { name: "Twilight Terminal", path: "/blog/twilight-terminal" },
+    { name: "Worldbuilding", path: "/blog/worldbuilding" },
+    // Characters
+    { name: "Albert Locke", path: "/characters/albert-locke" },
+    { name: "Barry Heathrow", path: "/characters/barry-heathrow" },
+    { name: "Delwyn Harper", path: "/characters/delwyn-harper" },
+    { name: "Evara Alena", path: "/characters/evara-alena" },
+    { name: "Franklin Scouter", path: "/characters/franklin-scouter" },
+    { name: "Georger Woodman", path: "/characters/georger-woodman" },
+    { name: "Hendry Harry", path: "/characters/hendry-harry" },
+    { name: "Isaac Luminar", path: "/characters/isaac-luminar" },
+    { name: "Kamila Alena", path: "/characters/kamila-alena" },
+    { name: "Queen Valethra", path: "/characters/queen-valethra" },
+    { name: "Raina Veltrania", path: "/characters/raina-veltrania" },
+    { name: "Rei Reltroner", path: "/characters/rei-reltroner" },
+    { name: "Wayne Astoner", path: "/characters/wayne-astoner" },
+    { name: "Westley Watson", path: "/characters/westley-watson" },
+    // Cultures
+    { name: "Children of Asthortera", path: "/cultures/children-of-asthortera" },
+    { name: "Cuteness Manifesto", path: "/cultures/cuteness-manifesto" },
+    { name: "Mask Reltronland", path: "/cultures/mask-reltronland" },
+    { name: "Rest Culture", path: "/cultures/rest-culture" },
+    // Events
+    { name: "Series Roadmap", path: "/events/series-roadmap" },
+    // Organizations
+    { name: "Henchoeway", path: "/organizations/henchoeway" },
+    { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
+    // Places
+    { name: "Dark Abyss", path: "/places/dark-abyss" },
+    { name: "Eterna Ruin", path: "/places/eterna-ruin" },
+    { name: "Llyn Geda", path: "/places/llyn-geda" },
+    { name: "Oakcottage", path: "/places/oakcottage" },
+    { name: "Whispergrove", path: "/places/whispergrove" },
+    // Series
+    { name: "False Portal", path: "/series/false-portal" },
+    { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
+    // Statistics
+    { name: "AI Ecosystem", path: "/statistics/ai-ecosystem" },
+    { name: "Asthortera Identity", path: "/statistics/asthortera_identity" },
+    { name: "Cistheta Identity", path: "/statistics/cistheta_identity" },
+    { name: "Cosmeilia Identity", path: "/statistics/cosmeilia_identity" },
+    { name: "Depeisit Identity", path: "/statistics/depeisit_identity" },
+    { name: "SDI Report Asthortera", path: "/statistics/sdi-report-asthortera" },
+    { name: "Sentient Population", path: "/statistics/sentient-population" },
+    { name: "Value Index", path: "/statistics/value-index" },
   ];
 
   return (
     <CommandDialog
   open={open}
   onOpenChange={setOpen}
-  className="fixed inset-0 flex items-center justify-center z-[9999] px-4 transition-opacity duration-200 ease-in-out"
+  className="fixed inset-0 flex items-center justify-center z-[9999] bg-black/30 backdrop-blur-sm transition-opacity duration-200 ease-in-out"
 >
-  <div className="w-full max-w-lg bg-white dark:bg-gray-800 rounded-xl shadow-xl border dark:border-gray-600 p-4 transition-all duration-200 ease-in-out transform scale-100 opacity-100">
-    <VisuallyHidden>
-      <DialogTitle>Command Palette</DialogTitle>
-    </VisuallyHidden>
+  <VisuallyHidden>
+    <DialogTitle>Command Palette</DialogTitle>
+  </VisuallyHidden>
+
+  <div className="w-full max-w-lg mx-auto bg-white dark:bg-gray-800 rounded-xl shadow-xl border dark:border-gray-600 p-4">
     <CommandInput
       placeholder="Search page..."
       className="w-full p-2 border rounded dark:bg-gray-700 dark:text-white mb-4"
     />
-    <CommandList>
+    <CommandList className="max-h-96 overflow-y-auto scrollbar-thin scrollbar-thumb-gray-400 dark:scrollbar-thumb-gray-600">
       <CommandEmpty>No results found.</CommandEmpty>
-      <CommandGroup heading="⬇️Click down here to select a page">
+      <CommandGroup heading="⬇️ Click below to select a page">
         {pages.map((page) => (
           <CommandItem
             key={page.path}
@@ -83,6 +159,8 @@ export default function CommandPalette() {
     </CommandList>
   </div>
 </CommandDialog>
+
+
 
   );
 }
