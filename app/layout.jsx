@@ -3,6 +3,8 @@ import './global.css';
 import Navbar from "@/components/Navbar";
 import { roboto } from "./fonts";
 import MobileNavbar from "@/components/MobileNavbar";
+import CommandPalette from "@/components/CommandPalette";
+
 
 export const metadata = {
     title: {
@@ -35,6 +37,7 @@ export default function Layout({ children }) {
             <body className="bg-slate-100 px-5 py-5 flex flex-col min-h-screen  text-black dark:bg-gray-900 dark:text-white">
             <MobileNavbar />
                 <header>
+                <CommandPalette />
                     <Navbar />
                 </header>
                 <main className="py-5 grow dark:bg-gray-900 dark:text-white">{children}</main>

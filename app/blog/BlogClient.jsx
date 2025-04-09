@@ -23,7 +23,7 @@ export default function BlogClient({ posts }) {
       <p className="mb-4 text-center font-bold ">Explore recent articles about world-building and events.</p>
 
       {/* Search Box */}
-      <div className="flex items-center gap-x-2 mb-6 ">
+      <div className="flex items-center gap-x-2 mb-6">
         <label htmlFor="search" className="font-semibold text-gray-700 dark:bg-gray-900 dark:text-white">
           Search:
         </label>

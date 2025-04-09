@@ -26,6 +26,10 @@ export default function HomeClient({ posts }) {
         <p className="text-sm text-gray-700 font-bold">
           Welcome to the home page about world-building!
         </p>
+        <p className="text-center text-sm text-gray-600 mt-2">
+  💡      Press <kbd className="px-1 py-0.5 border rounded text-sm">Ctrl</kbd> + <kbd className="px-1 py-0.5 border rounded text-sm">K</kbd> or <kbd className="px-1 py-0.5 border rounded text-sm">⌘</kbd> + <kbd className="px-1 py-0.5 border rounded text-sm">K</kbd> to quickly navigate pages.
+        </p>
+
       </div>
       {/* Search Box */}
       <div className="flex items-center gap-x-2 mb-6">
