@@ -20,7 +20,7 @@ const navItems = [
 
   // Optional but impactful
   { name: "Factions", href: "/factions" },
-  { name: "Mythos", href: "/mythos" },
+  { name: "Myths", href: "/myths" },
 
   // Supportive
   { name: "Statistics", href: "/statistics" },
