@@ -15,7 +15,7 @@ Henchoeway is a deep-sea cult organization rooted in the darkest depths of **Nyt
 ---
 
 ## 🌊 Origins & Name
-- The name “Henchoeway” was inspired by a childhood memory of a black-suited scuba diver at a waterpark, whom the founder called “Henchoewayway.”
+- The name “Henchoeway” was inspired by a Rei's childhood memory of a black-suited scuba diver at a waterpark, whom the founder called “Henchoewayway.”
 - The second sighting occurred at Sea World, reinforcing the emotional imprint.
 - From “Henchoewayway Scuba Institute,” it evolved into **Henchoeway**, a formalized and eerie name tied forever to abyssal manipulation.
 

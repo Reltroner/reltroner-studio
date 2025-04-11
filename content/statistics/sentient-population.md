@@ -72,5 +72,3 @@ The racial composition of each planet reflects its function and aesthetic in the
 
 Each planet has a different distribution, but all tie back into the larger cosmic balance of the Astralis and the threat of Nytherion.
 
----
-

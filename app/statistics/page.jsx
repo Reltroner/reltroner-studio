@@ -75,6 +75,15 @@ const statistics = [
     date: "2025-04-07", 
     published: true,
     image: "/images/cistheta_identity.png"
+  },
+  {
+    title: "SDI Score Matrix",
+    description: "A matrix of the Sentient Development Index (SDI) scores of Reltronland, showcasing their development levels across various dimensions.",
+    author: "Rei Reltroner",
+    slug: "sdi-score-matrix",  
+    date: "2025-04-11", 
+    published: true,
+    image: "/images/sdi-score-matrix.png"
   }
 ];
 

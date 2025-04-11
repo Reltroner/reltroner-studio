@@ -103,6 +103,11 @@ export default function CommandPalette() {
     // Events
     { name: "Series Roadmap", path: "/events/series-roadmap" },
     { name: "Scout Parade", path: "/events/scoutparade" },
+    //Myths
+    { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
+    { name: "Reltroner’s Zero Day", path: "/myths/reltroners-zero-day" },
+    { name: "The 5 Awakening Signals", path: "/myths/five-awakening-signals" },
+    { name: "The Silent Mouthpiece", path: "/myths/silent-mouthpiece" },
     // Organizations
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
@@ -124,6 +129,20 @@ export default function CommandPalette() {
     { name: "SDI Report Asthortera", path: "/statistics/sdi-report-asthortera" },
     { name: "Sentient Population", path: "/statistics/sentient-population" },
     { name: "Value Index", path: "/statistics/value-index" },
+    { name: "Reltronland SDI Score Matrix", path: "/statistics/sdi-score-matrix" },
+    // Philosophies
+    { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
+    // Factions
+    { name: "Reltronland", path: "/factions/reltronland" },
+    //Laws
+    { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },
+    { name: "Reltronland Immigration Policy", path: "/laws/reltronland-immigration" },
+    //Technologies
+    { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
+    { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },
+    { name: "Entropy Firewall", path: "/technologies/entropy-firewall" },
+    { name: "Quantum Memory Cloud", path: "/technologies/quantum-memory-cloud" },
+
   ];
 
   const groupedPages = pages.reduce((acc, page) => {

@@ -11,15 +11,30 @@ const navItems = [
   { name: "About", href: "/about" },
   { name: "Blog", href: "/blog" },
   { name: "Characters", href: "/characters" },
-  { name: "Cultures", href: "/cultures" },
-  { name: "Places", href: "/places" },
   { name: "Series", href: "/series" },
+
+  // Worldbuilding Core
+  { name: "Philosophies", href: "/philosophies" },
+  { name: "Laws", href: "/laws" },
+  { name: "Technologies", href: "/technologies" },
+
+  // Optional but impactful
+  { name: "Factions", href: "/factions" },
+  { name: "Mythos", href: "/mythos" },
+
+  // Supportive
   { name: "Statistics", href: "/statistics" },
   { name: "Organizations", href: "/organizations" },
+  { name: "Places", href: "/places" },
+  { name: "Cultures", href: "/cultures" },
   { name: "Events", href: "/events" },
-  { name: "Contact", href: "/contact" },
+
+  // Professional
   { name: "Portfolio", href: "/blog/for-recruiters" },
   { name: "Principles", href: "/blog/reltroner" },
+
+  // Footer-type
+  { name: "Contact", href: "/contact" },
   { name: "Disclaimer", href: "/blog/disclaimer" },
 ];
 

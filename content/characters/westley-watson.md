@@ -47,7 +47,7 @@ quote: "Knowledge is power... but only to those who know how to wield it."
 - **Queen Valethra Seraphine Lunara:** Respects her, yet sees her spiritualism as a manipulable flaw.
 - **Albert Locke:** Sees him as a valuable asset; occasionally exploits his idealism.
 - **Klara Veston:** Investigative journalist who monitors Watson closely, suspecting his ties to the Horizon Eclipse project.
-- **Velgrin Altherion (rumored):** Might be indirectly involved in securing the child of Kamila Alena.
+- **Selgrin Altherion (rumored):** Might be indirectly involved in securing the child of Kamila Alena.
 
 ---
 
