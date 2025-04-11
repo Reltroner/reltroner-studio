@@ -6,12 +6,14 @@ author: "Rei Reltroner"
 date: "2025-04-10"
 ---
 
-# 🛡️ Faction Profile: Reltronland
+## 🛡️ Faction Profile: Reltronland
 
 ---
 
 ## 🏛️ Overview
-**Reltronland** is more than just a nation-state — it is a sovereign ideological faction rooted in the doctrine of **Astralis Pinnacle**. As one of the dominant factions in Asthortera, Reltronland symbolizes elite governance, sentient awakening, and the disciplined pursuit of reality without illusion.
+**Reltronland** is more than just a nation-state — it is a sovereign ideological faction rooted in 
+the doctrine of **Astralis Pinnacle**. As one of the dominant factions in Asthortera, Reltronland 
+symbolizes elite governance, sentient awakening, and the disciplined pursuit of reality without illusion.
 
 > _“To lead is to see truth clearer than comfort.”_
 
@@ -57,7 +59,8 @@ date: "2025-04-10"
 ---
 
 ## 🧭 Symbolic Significance
-Reltronland is the physical embodiment of Astralis Pinnacle. It represents the ultimate test for those who seek success without shortcuts — and the final refuge for those who choose reality over false peace.
+Reltronland is the physical embodiment of Astralis Pinnacle. It represents the ultimate test for those 
+who seek success without shortcuts — and the final refuge for those who choose reality over false peace.
 
 > _“Those who can endure Astralis, deserve Reltronland.”_
 
@@ -71,16 +74,19 @@ Reltronland is the physical embodiment of Astralis Pinnacle. It represents the u
 
 ---
 
-# ✨ Country Profile: Reltronland — The Manifestation of Astralis Pinnacle
+## ✨ Country Profile: Reltronland — The Manifestation of Astralis Pinnacle
 
 ---
 
 ## 🏛️ Overview
-**Reltronland** isn’t just a nation — it’s a living vision of ambition, sentient development, and cyber-meritocratic order. Known by many as the "Reltronland Dream," this state is the **manifestation of Astralis Pinnacle** — a reality built on red pill realism, strategic growth, and elite-level order.
+**Reltronland** isn’t just a nation — it’s a living vision of ambition, sentient development, 
+and cyber-meritocratic order. Known by many as the "Reltronland Dream," this state is the 
+**manifestation of Astralis Pinnacle** — a reality built on red pill realism, strategic growth, and elite-level order.
 
 > _"Where Ambition Meets Opportunity"_
 
-It attracts billions across Asthortera with its promise: anyone with skill, drive, and connections can thrive — regardless of origin.
+It attracts billions across Asthortera with its promise: anyone with skill, drive, and connections 
+can thrive — regardless of origin.
 
 ---
 
@@ -135,7 +141,8 @@ It attracts billions across Asthortera with its promise: anyone with skill, driv
 ---
 
 ## 💼 Economic Model: The Reltronland Dream
-Reltronland thrives on **social mobility and high meritocracy**. Whether native or immigrant, those with the right skills can achieve unimaginable success.
+Reltronland thrives on **social mobility and high meritocracy**. Whether native or immigrant, 
+those with the right skills can achieve unimaginable success.
 
 ### 🔑 Success Pillars:
 1. **Professional Expertise** – Specialize in science, business, tech, or art
@@ -145,7 +152,8 @@ Reltronland thrives on **social mobility and high meritocracy**. Whether native 
 ---
 
 ## 🚨 Immigration & Social Policies
-While open to talented outsiders, Reltronland employs **strict layered immigration programs** to maintain equilibrium:
+While open to talented outsiders, Reltronland employs **strict layered immigration programs** 
+to maintain equilibrium:
 
 ### 🌍 Tiered Immigration:
 - **Tier 1:** Professionals/specialists → fast-track to citizenship

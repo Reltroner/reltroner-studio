@@ -7,7 +7,7 @@ published: true
 date: "2025-04-11"
 ---
 
-# 🧠 Quantum Memory Cloud (QMC)
+## 🧠 Quantum Memory Cloud (QMC)
 
 ---
 

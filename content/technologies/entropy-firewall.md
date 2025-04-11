@@ -7,7 +7,7 @@ published: true
 date: "2025-04-11"
 ---
 
-# 🔐 Entropy Firewall System
+## 🔐 Entropy Firewall System
 
 ---
 
