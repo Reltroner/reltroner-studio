@@ -170,14 +170,49 @@ The **Reltronland Immigration Policy Act** was ratified in **Cycle 550**, design
 
 ---
 
-## V. Immigration Violations & Sanctions
+## 🛑 V. Immigration Violations & Sanctions
 
-| Offense                                  | Penalty                                      |
-|------------------------------------------|----------------------------------------------|
-| Forging documents or SDI records         | 5 million REL fine + lifetime ban             |
-| Bribery within RBIS system               | AI flagging + instant application nullified   |
-| Cultural sabotage or extremist doctrine  | Citizenship revocation + deportation          |
-| Unauthorized residence                   | 2 million REL fine + digital ID suspension    |
+Below are the most critical immigration violations in Reltronland and their corresponding sanctions:
+
+---
+
+### • Forging Documents or SDI Records  
+**Penalty:** 💸 5 million REL fine + ❌ lifetime immigration ban
+
+---
+
+### • Bribery within RBIS System  
+**Penalty:** 🧠 AI-flagging + application instantly nullified and logged in permanent rejection list
+
+---
+
+### • Cultural Sabotage or Extremist Doctrine  
+**Penalty:** 🛂 Citizenship revoked + deportation protocol initiated
+
+---
+
+### • Unauthorized Residence  
+**Penalty:** 💰 2 million REL fine + 🆔 digital ID suspension
+
+---
+
+### • Behavioral Incompatibility with Astralis Ethics  
+**Penalty:** ⬇️ SDI downgrade + 🧩 mandatory reformation protocol activated
+
+---
+
+### • Manipulating AI Application Systems  
+**Penalty:** ⛔ Permanent Reltronland blacklist + 💸 10 million REL fine
+
+---
+
+### • Spread of Bluepill Disinformation  
+**Penalty:** 📉 3-year access restriction + 🛰️ digital tracking enabled
+
+---
+
+### • Post-Entry Dormancy (No contribution within 3 years)  
+**Penalty:** 🧐 Performance status review + ❓ visa status re-evaluation
 
 ---
 

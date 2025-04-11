@@ -77,7 +77,7 @@ SDI ranges are categorized into tiers:
 
 - Falsification or AI-bias exploitation is treated as a **federal crime**
 - Individuals found manipulating SDI inputs will face:
-  - **3 million REL fine**
+  - **3 million $REL fine**
   - **Revocation of all access rights**
   - **Blacklisting from Astralis Vanguard talent pools**
 
