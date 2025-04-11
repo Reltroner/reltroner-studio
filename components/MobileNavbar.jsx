@@ -7,36 +7,37 @@ import Link from "next/link";
 import DarkModeToggle from "./DarkModeToggle";
 
 const navItems = [
-  { name: "Home", href: "/" },
-  { name: "About", href: "/about" },
-  { name: "Blog", href: "/blog" },
-  { name: "Characters", href: "/characters" },
-  { name: "Series", href: "/series" },
+  { name: "🏠 Home", href: "/" },
+  { name: "ℹ️ About", href: "/about" },
+  { name: "📝 Blog", href: "/blog" },
+  { name: "👤 Characters", href: "/characters" },
+  { name: "🎬 Series", href: "/series" },
 
   // Worldbuilding Core
-  { name: "Philosophies", href: "/philosophies" },
-  { name: "Laws", href: "/laws" },
-  { name: "Technologies", href: "/technologies" },
+  { name: "🧠 Philosophies", href: "/philosophies" },
+  { name: "⚖️ Laws", href: "/laws" },
+  { name: "🧬 Technologies", href: "/technologies" },
 
   // Optional but impactful
-  { name: "Factions", href: "/factions" },
-  { name: "Myths", href: "/myths" },
+  { name: "🛡️ Factions", href: "/factions" },
+  { name: "🕯️ Myths", href: "/myths" },
 
   // Supportive
-  { name: "Statistics", href: "/statistics" },
-  { name: "Organizations", href: "/organizations" },
-  { name: "Places", href: "/places" },
-  { name: "Cultures", href: "/cultures" },
-  { name: "Events", href: "/events" },
+  { name: "📊 Statistics", href: "/statistics" },
+  { name: "🏢 Organizations", href: "/organizations" },
+  { name: "🌆 Places", href: "/places" },
+  { name: "🎎 Cultures", href: "/cultures" },
+  { name: "📅 Events", href: "/events" },
 
   // Professional
-  { name: "Portfolio", href: "/blog/for-recruiters" },
-  { name: "Principles", href: "/blog/reltroner" },
+  { name: "🧳 Portfolio", href: "/blog/for-recruiters" },
+  { name: "📜 Principles", href: "/blog/reltroner" },
 
   // Footer-type
-  { name: "Contact", href: "/contact" },
-  { name: "Disclaimer", href: "/blog/disclaimer" },
+  { name: "📬 Contact", href: "/contact" },
+  { name: "⚠️ Disclaimer", href: "/blog/disclaimer" },
 ];
+
 
 export default function MobileNavbar() {
   const [isOpen, setIsOpen] = useState(false);
