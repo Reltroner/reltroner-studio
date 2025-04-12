@@ -13,7 +13,16 @@ const series = [
     slug: "the-abyss-of-comfort",
     image: "/images/the-abyss-of-comfort.png",
     date: "2025-04-04"
+  },
+  {
+    title: "Rei in Abyss",
+    description: "A psychological, existential descent into Nytherion Abyss. After losing everything—academic status, identity, and 95% of his assets—Rei awakens in a false paradise of comfort, entertainment, and forgetfulness. But he refuses to stay. A story of quiet revolt, painful truth, and rebuilding from nothing.",
+    author: "Rei Reltroner",
+    slug: "rei-in-abyss",
+    image: "/images/rei-in-abyss.png",
+    date: "2025-04-13"
   }
+
 ];
 
 export default function Series() {

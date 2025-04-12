@@ -125,6 +125,7 @@ export default function CommandPalette() {
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
+    { name: "Rei in Abyss", path: "/series/rei-in-abyss" },
     // Statistics
     { name: "AI Ecosystem", path: "/statistics/ai-ecosystem" },
     { name: "Asthortera Identity", path: "/statistics/asthortera_identity" },
