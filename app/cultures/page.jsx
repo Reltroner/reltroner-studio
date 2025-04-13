@@ -48,7 +48,32 @@ const cultures = [
     image: "/images/fashion-culture.png",
     author: "Rei Reltroner",
     date: "2025-04-13",
+  },
+  {
+    title: "Major Cultural Exports — Reltronland vs Depcutland",
+    description: "An in-depth look at the top cultural exports from Reltronland and Depcutland, showcasing how fashion, literature, music, and architecture shape their global influence across Asthortera.",
+    slug: "cultural-exports",
+    image: "/images/cultural-exports.png",
+    author: "Rei Reltroner",
+    date: "2025-04-13",
+  },
+  {
+    title: "Music Culture of Reltronland",
+    description: "Explore how retro jazz, lo-fi instrumentals, and ambient elegance form the rhythmic soul of Reltronland’s white-collar civilization.",
+    slug: "reltronland-music",
+    image: "/images/reltronland-music.png",
+    author: "Rei Reltroner",
+    date: "2025-04-13",
+  },
+  {
+    title: "Music Culture of Depcutland",
+    description: "Dive into the solemn grandeur of Depcutland's classical music culture—where orchestral rituals, philosophical soundscapes, and aesthetic discipline echo through marble halls.",
+    slug: "depcutland-music",
+    image: "/images/depcutland-music.png",
+    author: "Rei Reltroner",
+    date: "2025-04-13",
   }
+  
   
 
 ];

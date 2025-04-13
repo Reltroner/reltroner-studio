@@ -105,6 +105,10 @@ export default function CommandPalette() {
     { name: "Cuteness Manifesto", path: "/cultures/cuteness-manifesto" },
     { name: "Mask Reltronland", path: "/cultures/mask-reltronland" },
     { name: "Rest Culture", path: "/cultures/rest-culture" },
+    { name: "Fashion Culture Manual of Asthortera", path: "/cultures/fashion-culture" },
+    { name: "Major Cultural Exports — Reltronland vs Depcutland", path: "/cultures/cultural-exports" },
+    { name: "Music Culture of Depcutland", path: "/cultures/depcutland-music" },
+    { name: "Music Culture of Reltronland", path: "/cultures/reltronland-music" },
     // Events
     { name: "Series Roadmap", path: "/events/series-roadmap" },
     { name: "Scout Parade", path: "/events/scoutparade" },
