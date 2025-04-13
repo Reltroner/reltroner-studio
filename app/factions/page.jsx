@@ -45,16 +45,16 @@ const factions = [
     image: "/images/reltronland-vs-depcutland.png",
     author: "Rei Reltroner",
     date: "2025-04-13"
+  },
+  {
+    title: "Henchoeway",
+    description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
+    slug: "henchoeway", 
+    image: "/images/henchoeway.png", 
+    author: "Rei Reltroner",
+    date: "2025-04-07"
   }
-  
-  // {
-  //   title: "Depcutland",
-  //   description: "The ideological embodiment of Depcut Pinnacle — a disciplined superpower built on meritocracy, sentient development, and the rejection of illusion.",
-  //   slug: "depcutland",
-  //   image: "/images/depcutland-cover.png",
-  //   author: "Rei Reltroner",
-  //   date: "2025-04-10"
-  // }
+
   // {
   //   title: "Henchoeway",
   //   description: "A manipulative organization that seeks to control minds and systems through illusion, stagnation, and psychological warfare. The brain behind the abyss.",
