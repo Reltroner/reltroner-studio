@@ -67,7 +67,7 @@ export default function CommandPalette() {
     { name: "Fullstack Interview Summary", path: "/blog/fullstack-interview-summary" },
     { name: "GPTPlus", path: "/blog/gptplus" },
     { name: "Legal Disclaimer", path: "/blog/legal-disclaimer" },
-    { name: "Lorebook Asthortera", path: "/blog/lorebook-asthortera" },
+    { name: "Grandmaster Lorebook of Asthortera — Collector’s Compendium", path: "/blog/lorebook-asthortera" },
     { name: "Magic System", path: "/blog/magic-system" },
     { name: "Manifesto Leadership", path: "/blog/manifesto-leadership" },
     { name: "Piday", path: "/blog/piday" },
@@ -144,6 +144,10 @@ export default function CommandPalette() {
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },
+    { name: "Depcutland", path: "/factions/depcutland" },
+    { name: "Fractal Civilizations of Asthortera: Strategic Identity Map", path: "/factions/fractal-civilizations" },
+    { name: "Reltronland & Depcutland: The Pillars Who Embrace the International Family", path: "/factions/international-family" },
+    { name: "Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization", path: "/factions/reltronland-vs-depcutland" },
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },
     { name: "Reltronland Immigration Policy", path: "/laws/reltronland-immigration" },

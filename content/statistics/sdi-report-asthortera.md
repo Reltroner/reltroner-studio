@@ -120,6 +120,16 @@ making it one of the most emotionally stable nations in Asthortera.
 
 ---
 
+### 🧪 **Taramistry**  
+**SDI:** 0.954  
+**Strengths:**  
+- Biochemical innovation & pharmapunk science  
+- Advanced medical technology ecosystem  
+- Scientific experimentation culture  
+- Meritocratic-presidential governance model  
+
+---
+
 ### ✈️ **Pasgerflit**  
 **SDI:** 0.949  
 **Strengths:**  
