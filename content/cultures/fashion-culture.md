@@ -196,14 +196,37 @@ It is designed to:
 - Daily wardrobe rotation with fresh variations
 - Formal slip-on shoes in black polished tone
 
-### 🧭 Situational Styles
-| Context | Shirt Style | Pants | Shoes | Notes |
-|--------|-------------|-------|--------|-------|
-| Office Daytime | Classic White Collar | Licin Black Trousers | Derby or Monkstrap | Rolled sleeves allowed |
-| Night Shift | Loose Modern Collar | Relaxed Formal Black | Minimalist Flats | Optional: white hoodie overlay |
-| Coastal Retreat | Linen Collar Shirt | Quick-dry Black Pants | Sandals | Must remain visually clean |
-| Homewear | Light White Cotton | Loose Trousers | Barefoot or indoor slippers | Must remain formal-coded |
-| National Ceremony | Full Sleeve with Crest | Pressed Sharp Black | Glossed Formal Shoes | Mandatory weekly event |
+### 🧭 Situational Styles – Reltronland
+
+#### **Office Daytime**
+- **Shirt Style:** Classic White Collar  
+- **Pants:** Slippery Black Trousers  
+- **Shoes:** Derby or Monkstrap  
+- **Notes:** Rolled sleeves allowed
+
+#### **Night Shift**
+- **Shirt Style:** Loose Modern Collar  
+- **Pants:** Relaxed Formal Black  
+- **Shoes:** Minimalist Flats  
+- **Notes:** Optional: white hoodie overlay
+
+#### **Coastal Retreat**
+- **Shirt Style:** Linen Collar Shirt  
+- **Pants:** Quick-dry Black Pants  
+- **Shoes:** Sandals  
+- **Notes:** Must remain visually clean
+
+#### **Homewear**
+- **Shirt Style:** Light White Cotton  
+- **Pants:** Loose Trousers  
+- **Shoes:** Barefoot or indoor slippers  
+- **Notes:** Must remain formal-coded
+
+#### **National Ceremony**
+- **Shirt Style:** Full Sleeve with Crest  
+- **Pants:** Pressed Sharp Black  
+- **Shoes:** Glossed Formal Shoes  
+- **Notes:** Mandatory weekly event
 
 ---
 
@@ -215,14 +238,37 @@ It is designed to:
 - Vertical-striped trousers with high waist
 - Pocket watch, gloves, optional top hats
 
-### 🧭 Situational Styles
-| Context | Top Wear | Pants | Footwear | Accessories |
-|--------|----------|-------|----------|-------------|
-| Civic Engagement | Wool Suit Jacket | Vertical Classic Trousers | Leather Boots | Cane, Watch |
-| Academia | Cravat Shirt + Vest | Checkered Trousers | Lace-up Vintage | Reading Glasses |
-| Musical/Art Events | Double-breasted Coat | Solid Dark Pants | Loafers | White Gloves |
-| Indoor Leisure | Robe Coat | Wool Slacks | Slippers | Book or Scroll |
-| State Ceremony | Tailed Jacket | Satin Lined Pants | High Gloss Boots | Golden Pin or Medal |
+### 🧭 Situational Styles – Depcutland
+
+#### **Civic Engagement**
+- **Top Wear:** Wool Suit Jacket  
+- **Pants:** Vertical Classic Trousers  
+- **Footwear:** Leather Boots  
+- **Accessories:** Cane, Watch
+
+#### **Academia**
+- **Top Wear:** Cravat Shirt + Vest  
+- **Pants:** Checkered Trousers  
+- **Footwear:** Lace-up Vintage  
+- **Accessories:** Reading Glasses
+
+#### **Musical/Art Events**
+- **Top Wear:** Double-breasted Coat  
+- **Pants:** Solid Dark Pants  
+- **Footwear:** Loafers  
+- **Accessories:** White Gloves
+
+#### **Indoor Leisure**
+- **Top Wear:** Robe Coat  
+- **Pants:** Wool Slacks  
+- **Footwear:** Slippers  
+- **Accessories:** Book or Scroll
+
+#### **State Ceremony**
+- **Top Wear:** Tailed Jacket  
+- **Pants:** Satin Lined Pants  
+- **Footwear:** High Gloss Boots  
+- **Accessories:** Golden Pin or Medal
 
 ---
 
@@ -245,13 +291,30 @@ It is designed to:
 
 ## 🎨 Section V: Swatch Reference Library (Selected Examples)
 
-| Fabric Code | Texture | Origin | Approved Use |
-|-------------|---------|--------|----------------|
-| REL-WHT-01 | Polished cotton-white | Reltronland | Universal shirtwear |
-| DPT-BRN-03 | Wool-mix coffee | Depcutland | Coat, trousers |
-| COS-VLT-07 | Shimmering silk-violet | Cosmeilia | Ceremonial accessories |
-| BLF-CHR-04 | Charcoal mystic weave | Belufner | Robes & mantle overlays |
-| INT-MLT-09 | Interwoven linen-obsidian | Mixed Planetary | Fusion trousers |
+#### **REL-WHT-01**
+- **Texture:** Polished cotton-white  
+- **Origin:** Reltronland  
+- **Approved Use:** Universal shirtwear
+
+#### **DPT-BRN-03**
+- **Texture:** Wool-mix coffee  
+- **Origin:** Depcutland  
+- **Approved Use:** Coat, trousers
+
+#### **COS-VLT-07**
+- **Texture:** Shimmering silk-violet  
+- **Origin:** Cosmeilia  
+- **Approved Use:** Ceremonial accessories
+
+#### **BLF-CHR-04**
+- **Texture:** Charcoal mystic weave  
+- **Origin:** Belufner  
+- **Approved Use:** Robes & mantle overlays
+
+#### **INT-MLT-09**
+- **Texture:** Interwoven linen-obsidian  
+- **Origin:** Mixed Planetary  
+- **Approved Use:** Fusion trousers
 
 ---
 
