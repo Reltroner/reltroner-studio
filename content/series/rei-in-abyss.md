@@ -48,5 +48,5 @@ Young adults to adults (16–35) who have faced burnout, academic pressure, self
 Completed as full-length manuscript. Available in `.docx`, `.md`, and soon `.pdf` and `.epub` formats. Accompanied by original visual cover, markdown structure, and character art.
 
 ## Contact
-📧 reltroner.studio@gmail.com  
+📧 edward5raidan54@gmail.com  
 🌐 [reltroner.com](https://reltroner.com)

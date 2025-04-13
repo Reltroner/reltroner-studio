@@ -40,7 +40,16 @@ const cultures = [
     image: "/images/mask-reltronland.png",
     author: "Rei Reltroner",
     date: "2025-04-04",
+  },
+  {
+    title: "Fashion Culture Manual of Asthortera",
+    description: "A comprehensive guide to the visual philosophy, national dress codes, and cultural fusion attire of Reltronland and Depcutland—two supercivilizations united by elegance, discipline, and interplanetary dignity.",
+    slug: "fashion-culture",
+    image: "/images/fashion-culture.png",
+    author: "Rei Reltroner",
+    date: "2025-04-13",
   }
+  
 
 ];
 
