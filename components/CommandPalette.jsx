@@ -134,6 +134,7 @@ export default function CommandPalette() {
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
     { name: "Rei in Abyss", path: "/series/rei-in-abyss" },
+    { name: "Reltronland ComicBall Wiki", path: "/series/comicball" },
     // Statistics
     { name: "AI Ecosystem", path: "/statistics/ai-ecosystem" },
     { name: "Asthortera Identity", path: "/statistics/asthortera_identity" },
@@ -152,7 +153,9 @@ export default function CommandPalette() {
     { name: "Depcutland", path: "/factions/depcutland" },
     { name: "Fractal Civilizations of Asthortera: Strategic Identity Map", path: "/factions/fractal-civilizations" },
     { name: "Reltronland & Depcutland: The Pillars Who Embrace the International Family", path: "/factions/international-family" },
-    { name: "Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization", path: "/factions/reltronland-vs-depcutland" },
+    { name: "Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization", path: "/factions/reltronland-vs-depcutland" },    
+    { name: "Reltronball & Depcutball: Bureaucracy Bros", path: "/factions/bureaucracy-bros" },
+
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },
     { name: "Reltronland Immigration Policy", path: "/laws/reltronland-immigration" },

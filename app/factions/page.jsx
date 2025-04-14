@@ -23,6 +23,15 @@ const factions = [
     date: "2025-04-10"
   },
   {
+    title: "Reltronball & Depcutball: Bureaucracy Bros",
+    description: "A satirical comic series set in the world of Asthortera, where Reltronland and Depcutland’s iconic countryballs clash in delightful debates over bureaucracy, philosophy, castella, and formalwear.",
+    slug: "bureaucracy-bros",
+    image: "/images/bureaucracy-bros.png",
+    author: "Rei Reltroner",
+    date: "2025-04-14",
+    published: true
+  },
+  {
     title: "Fractal Civilizations of Asthortera: Strategic Identity Map",
     description: "An in-depth ideological overview of the four major forces shaping Asthortera: Reltronland, Depcutland, Henchoeway, and Depeisit—each reflecting a distinct philosophy of civilization, consciousness, and collapse.",
     slug: "fractal-civilizations",

@@ -21,6 +21,15 @@ const series = [
     slug: "rei-in-abyss",
     image: "/images/rei-in-abyss.png",
     date: "2025-04-13"
+  },
+  {
+    title: "Reltronland ComicBall Wiki",
+    description: "The official wiki hub for the bureaucratic satire of Reltronball and Depcutball—where castella meets cravat, and diplomacy is illustrated with wit and charm.",
+    slug: "comicball",
+    image: "/images/comicball.png",
+    author: "Reltroner Studio",
+    date: "2025-04-14",
+    published: true
   }
 
 ];
