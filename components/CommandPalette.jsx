@@ -85,6 +85,7 @@ export default function CommandPalette() {
     { name: "Worldbuilding", path: "/blog/worldbuilding" },
     { name: "Reltroner Sparkpade", path: "/blog/reltroner-sparkpad" },
     { name: "gen-z-alpha-market-potential", path: "/blog/gen-z-alpha-market-potential" },
+    { name: "Why People Fall in Love with the World of Reltroner Studio", path: "/blog/fall-in-love" },
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
     { name: "Barry Heathrow", path: "/characters/barry-heathrow", tag: "Characters" },
@@ -112,6 +113,8 @@ export default function CommandPalette() {
     // Events
     { name: "Series Roadmap", path: "/events/series-roadmap" },
     { name: "Scout Parade", path: "/events/scoutparade" },
+    { name: "Origins of Reltronland", path: "/events/reltronland-founding" },
+    { name: "The True Purpose Behind Depcutland’s Founding", path: "/events/depcutland-founding" },
     //Myths
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
     { name: "Reltroner’s Zero Day", path: "/myths/reltroners-zero-day" },
@@ -121,11 +124,12 @@ export default function CommandPalette() {
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
     // Places
-    { name: "Dark Abyss", path: "/places/dark-abyss" },
+    { name: "Heart of the Abyss", path: "/places/dark-abyss" },
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },
     { name: "Oakcottage", path: "/places/oakcottage" },
     { name: "Whispergrove", path: "/places/whispergrove" },
+    { name: "Province Profile: Leastroper – A Land Beyond Conflict", path: "/places/leastroper-profile" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
@@ -151,6 +155,7 @@ export default function CommandPalette() {
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },
     { name: "Reltronland Immigration Policy", path: "/laws/reltronland-immigration" },
+    { name: "The Soil Charter of Reltronland", path: "/laws/soil-charter" },
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },

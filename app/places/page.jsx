@@ -56,6 +56,16 @@ const places = [
     image: "/images/eterna-ruin.png",
     date: "2025-04-04"
   },
+  {
+    title: "Province Profile: Leastroper – A Land Beyond Conflict",
+    description: "Explore Leastroper, the demilitarized diplomatic province of Reltronland—known for its clarity, serenity, and peaceful border with the crystalline kingdom of Krisberia.",
+    slug: "leastroper-profile",
+    image: "/images/leastroper-profile.png",
+    author: "Rei Reltroner",
+    date: "2025-04-14",
+    published: true
+
+  }
 ];
 
 export default function Places() {

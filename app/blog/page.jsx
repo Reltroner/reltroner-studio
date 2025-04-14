@@ -220,6 +220,15 @@ const posts = [
     author: "Reltroner Studio",
     published: true,
     date: "April 8, 2025"
+  },
+  {
+    title: "Why People Fall in Love with the World of Reltroner Studio",
+    description: "Why Reltroner Studio resonates deeply—more than a world, it's a mirror to the self.",
+    slug: "fall-in-love",
+    image: "/images/fall-in-love.png",
+    author: "Reltroner Studio",
+    published: true,
+    date: "2025-04-14"
   }
      
 ];

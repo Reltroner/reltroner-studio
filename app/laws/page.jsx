@@ -23,6 +23,15 @@ const laws = [
     author: "Reltroner Studio",
     published: true,
     date: "2025-04-11",
+  },
+  {
+    title: "The Soil Charter of Reltronland",
+    description: "The foundational zoning doctrine of Reltronland that defines how every piece of land must serve clarity, merit, and sentient development—marking Rathroper as sacred ground zero.",
+    slug: "soil-charter",
+    image: "/images/soil-charter.png",
+    author: "Rei Reltroner",
+    date: "2025-04-14",
+    published: true
   }
   // Tambahkan lebih banyak Law di masa depan...
 ];

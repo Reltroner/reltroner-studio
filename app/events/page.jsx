@@ -23,6 +23,24 @@ const events = [
     author: "Raidan",
     date: "March 16, 2025"
   },
+  {
+    title: "Origins of Reltronland",
+    description: "The origin story of Reltronland—from Rathroper's soil to a nation of conscious design and meritocratic spirit.",
+    slug: "reltronland-founding",
+    image: "/images/reltronland-founding.png",
+    author: "Reltroner Studio",
+    published: true,
+    date: "2025-04-11"
+  },
+  {
+    title: "The True Purpose Behind Depcutland’s Founding",
+    description: "Uncover the hidden motivations and long-game strategy behind Depcutland’s creation—how a former Depeisit elite established a cultural buffer to preserve legacy, counter Reltronland, and shape the future through subtlety.",
+    slug: "depcutland-founding",
+    image: "/images/depcutland-founding.png",
+    author: "Rei Reltroner",
+    date: "2025-04-14",
+    published: true
+  }
   // Tambahkan lebih banyak event di masa depan...
 ];
 
