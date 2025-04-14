@@ -229,6 +229,15 @@ const posts = [
     author: "Reltroner Studio",
     published: true,
     date: "2025-04-14"
+  },
+  {
+    title: "Why Bureaucracy is the New Rebellion",
+    description: "A manifesto by Reltroner Studio that redefines quiet resistance through bureaucracy, elegance, and philosophical satire. In a noisy world, clarity becomes the sharpest weapon.",
+    slug: "bureaucracy-rebellion",
+    image: "/images/why-bureaucracy-rebellion.png",
+    author: "Reltroner Studio",
+    date: "2025-04-14",
+    published: true
   }
      
 ];
