@@ -46,18 +46,6 @@ export default function Layout({ children }) {
                     <br />
                     Built with ❤️ in Asthortera.
                 </footer>
-                <Script
-                src="https://www.googletagmanager.com/gtag/js?id=G-VZ7QYLZPF0"
-                strategy="afterInteractive"
-                />
-                <Script id="google-analytics" strategy="afterInteractive">
-                {`
-                    window.dataLayer = window.dataLayer || [];
-                    function gtag(){dataLayer.push(arguments);}
-                    gtag('js', new Date());
-                    gtag('config', 'G-VZ7QYLZPF0');
-                `}
-                </Script>
             </body>
         </html>
     );

@@ -84,6 +84,15 @@ const statistics = [
     date: "2025-04-11", 
     published: true,
     image: "/images/sdi-score-matrix.png"
+  },
+  {
+    title: "Education Civilization Index – Asthortera Edition",
+    description: "A cross-national report evaluating the depth, diversity, and sentient impact of higher education systems across Asthortera—featuring metrics like field of study distribution, lifelong learning, and immigrant integration.",
+    slug: "edu-civilization-index",
+    image: "/images/education-civilization-index.png",
+    author: "Rei Reltroner",
+    date: "2025-04-14",
+    published: true
   }
 ];
 

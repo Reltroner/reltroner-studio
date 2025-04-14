@@ -144,6 +144,7 @@ export default function CommandPalette() {
     { name: "Sentient Population", path: "/statistics/sentient-population" },
     { name: "Value Index", path: "/statistics/value-index" },
     { name: "Reltronland SDI Score Matrix", path: "/statistics/sdi-score-matrix" },
+    { name: "Education Civilization Index", path: "/statistics/edu-civilization-index" },
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     // Factions

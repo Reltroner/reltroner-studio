@@ -1,3 +1,13 @@
+---
+title: "Education Civilization Index – Asthortera Edition"
+description: "A cross-national report evaluating the depth, diversity, and sentient impact of higher education systems across Asthortera—featuring metrics like field of study distribution, lifelong learning, and immigrant integration."
+slug: "edu-civilization-index"
+image: "/images/education-civilization-index.png"
+author: "Rei Reltroner"
+date: "2025-04-14"
+published: true
+---
+
 # 🎓 Education Civilization Index – Asthortera Edition
 ### Version 1.0 | Compiled by Reltroner Studio | Astralis Pinnacle Certified
 
@@ -54,25 +64,46 @@ This index highlights and compares the educational frameworks, cultural philosop
 
 ---
 
-### 5. **Education Satisfaction Index (ESI)** – Scale: 0–100
-| Category                                | Reltronland | Depcutland |
-|-----------------------------------------|-------------|------------|
-| Curriculum Relevance                    | 94          | 79         |
-| Teaching Quality                        | 88          | 91         |
-| Infrastructure & Digital Access         | 92          | 81         |
-| Cultural Pride in the Education System  | 90          | 96         |
-| **Total Average (ESI)**                 | **91**      | **87**     |
+### 5. **Education Satisfaction Index (ESI)**  
+**Scale:** 0–100  
+
+**📘 Reltronland**
+- Curriculum Relevance: **94**  
+- Teaching Quality: **88**  
+- Infrastructure & Digital Access: **92**  
+- Cultural Pride in Education: **90**  
+- **Total ESI Average: 91**
+
+**📙 Depcutland**
+- Curriculum Relevance: **79**  
+- Teaching Quality: **91**  
+- Infrastructure & Digital Access: **81**  
+- Cultural Pride in Education: **96**  
+- **Total ESI Average: 87**
 
 ---
 
 ## 📌 Summary Snapshot
-| Indicator                               | Reltronland         | Depcutland         |
-|-----------------------------------------|----------------------|---------------------|
-| Dominant Academic Field                 | Technology & STEM    | Philosophy & Classics |
-| Research Output per Million Citizens    | 48,720               | 55,890              |
-| Lifelong Learning (age 40+)            | 74%                  | 66%                 |
-| Immigrant Bachelor's Degree Completion (10 Years)     | 87%                  | 74%                 |
-| Education Satisfaction Index            | 91                  | 87                  |
+
+**🔹 Dominant Academic Field**  
+- Reltronland: *Technology & STEM*  
+- Depcutland: *Philosophy & Classics*
+
+**🔹 Research Output per Million Citizens**  
+- Reltronland: *48,720*  
+- Depcutland: *55,890*
+
+**🔹 Lifelong Learning (Age 40+)**  
+- Reltronland: *74%*  
+- Depcutland: *66%*
+
+**🔹 Immigrant Bachelor’s Completion (10 Years)**  
+- Reltronland: *87%*  
+- Depcutland: *74%*
+
+**🔹 Education Satisfaction Index**  
+- Reltronland: *91*  
+- Depcutland: *87*
 
 ---
 
