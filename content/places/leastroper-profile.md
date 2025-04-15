@@ -1,5 +1,5 @@
 ---
-title: "Province Profile: Leastroper – A Land Beyond Conflict"
+name: "Province Profile: Leastroper – A Land Beyond Conflict"
 description: "Explore Leastroper, the demilitarized diplomatic province of Reltronland—known for its clarity, serenity, and peaceful border with the crystalline kingdom of Krisberia."
 image: "/images/leastroper-profile.png"
 author: "Rei Reltroner"
@@ -54,12 +54,11 @@ published: true
 ---
 
 ### 🧘 Key Districts
-| District       | Description                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| **Neolux**      | Controlled luxury zone with regulated gambling for foreign elite            |
-| **Cristavell**  | Jewel artisan district, diplomacy lounges, high fashion institutions        |
-| **Tranquera**   | Center for healing, reflection, and stress detox technologies               |
-| **Eastcore**    | Trade and customs zone connecting to Krisberia’s diplomatic route           |
+
+- **Neolux**     :  Controlled luxury zone with regulated gambling for foreign elite            
+- **Cristavell** :  Jewel artisan district, diplomacy lounges, high fashion institutions        
+- **Tranquera**  :  Center for healing, reflection, and stress detox technologies               
+- **Eastcore**   :  Trade and customs zone connecting to Krisberia’s diplomatic route           
 
 ---
 
