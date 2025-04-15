@@ -118,3 +118,9 @@ Nations below these standards face **economic sanctions** from ALREO.
 
 **Motto:**
 _“Fair Work. Bright Future.”_ ✨
+
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+
+> 🛡️ **This document is protected by the Asthortera Anti-Feudal Law Protocol.**
+>
+> Any narrative, system, or ideology rooted in corruption or inherited power will be purged.

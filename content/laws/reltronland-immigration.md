@@ -442,3 +442,9 @@ embodies the spirit of discipline, honesty, and mental clarity required to thriv
 
 **Issued by:** Reltronland Citizenship Tribunal (RCT)  
 **Monitored by:** Astralis Integrity Network (AIN)
+
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+
+> 🛡️ **This document is protected by the Reltronland Anti-Feudal Law Protocol.**
+>
+> Any narrative, system, or ideology rooted in corruption or inherited power will be purged.

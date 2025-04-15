@@ -143,3 +143,9 @@ Let Astralis guide every hand that shapes the nation.
 ---
 
 > *“Clarity is not luxury. It is a duty of civilization.” — Article II, Public Clarity Act*
+
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+
+> 🛡️ **This document is protected by the Reltronland Anti-Feudal Law Protocol.**
+>
+> Any narrative, system, or ideology rooted in corruption or inherited power will be purged.

@@ -161,6 +161,8 @@ export default function CommandPalette() {
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },
     { name: "Reltronland Immigration Policy", path: "/laws/reltronland-immigration" },
     { name: "The Soil Charter of Reltronland", path: "/laws/soil-charter" },
+    { name: "Reltronland Anti-Corruption Protocol", path: "/laws/reltronland-anti-corruption" },
+    { name: "The Origin of Absolute Law: From Depeisit Collapse to Reltronland Ascension", path: "/laws/anti-corruption-origin" },
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },

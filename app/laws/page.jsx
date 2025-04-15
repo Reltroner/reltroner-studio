@@ -25,6 +25,24 @@ const laws = [
     date: "2025-04-11",
   },
   {
+    title: "Reltronland Anti-Corruption Protocol",
+    description: "Absolute justice against corruption and feudalism within Reltronland and Asthortera.",
+    slug: "reltronland-anti-corruption",
+    author: "Reltroner Studio",
+    date: "2025-04-15",
+    published: true,
+    image: "/images/reltronland-anti-corruption.png"
+  },
+  {
+    title: "The Origin of Absolute Law: From Depeisit Collapse to Reltronland Ascension",
+    description: "How the anti-corruption framework of Reltronland evolved from the ruins of Depeisit through Depcutland's legal enlightenment.",
+    slug: "anti-corruption-origin",
+    author: "Reltroner Studio",
+    date: "2025-04-15",
+    published: true,
+    image: "/images/anti-corruption-origin.png"
+  },
+  {
     title: "The Soil Charter of Reltronland",
     description: "The foundational zoning doctrine of Reltronland that defines how every piece of land must serve clarity, merit, and sentient development—marking Rathroper as sacred ground zero.",
     slug: "soil-charter",
