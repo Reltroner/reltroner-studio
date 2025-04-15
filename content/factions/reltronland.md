@@ -50,8 +50,8 @@ symbolizes elite governance, sentient awakening, and the disciplined pursuit of 
 ---
 
 ## 🔰 Factional Behavior & Strategy
-- **Allies:** Depcutland (conditional), Kalgered (tech-trade)
-- **Neutral:** Stelpadland, Aurastelia
+- **Allies:** Depcutland (conditional), Aurastelia, Krisberia
+- **Neutral:** Stelpadland, Kalgered and other Tier 2 nations
 - **Opposition:** Henchoeway, Nytherion-aligned cults, Depeisit ideological enforcers
 - **Military Strategy:** Defensive Excellence, Psyops Warfare, High-Skies Satellite Grid
 - **Cultural Influence:** Global media, tech infiltration, talent absorption

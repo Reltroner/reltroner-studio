@@ -93,6 +93,110 @@ Deceased corruptors remain unhonored; their names may never be used in schools, 
 
 ---
 
+## 🛡️ Preventive Purification Law
+
+The Anti-Corruption system of Reltronland does not merely react. It **prevents, isolates, and sterilizes** any potential manifestation of feudal or corruptive traits before they mature.
+
+### 1. Sentient Integrity Simulation
+All citizens in leadership, finance, or strategy roles must undergo periodic simulation to test their moral resilience under temptation and pressure. Failing this simulation leads to instant demotion and public review.
+
+### 2. Early Feudal Trace Surveillance
+Cultural behavior patterns are scanned for signs of glorification, elitist reverence, or closed-loop favoritism. When detected early, a mandatory Purification Counseling session is enforced.
+
+### 3. Talent Purity Calibration
+Before promotion, every individual must pass a multi-layered audit covering:
+- Personal history
+- Sentiment footprint (communication logs)
+- Loyalty to meritocracy
+
+### 4. Family Tree Neutralization
+Any attempt to forge dynastic political or corporate families is preemptively blocked by the **Ministry of Civil Equilibrium**.
+
+### 5. Periodic Memory Reflection Rituals
+Citizens are required to participate in reflection rituals twice a year to recall past injustices in Asthortera and pledge resistance to repeating them.
+
+> “We do not only destroy corruption. We **purify its future.”
+
+---
+
+## 🧱 Symbolic Punishment Systems
+
+Corruption in Reltronland is not only punished legally, but also **symbolically**—to leave a permanent psychological, cultural, and spiritual scar on the corrupted.
+
+### 1. Black Flame Branding
+Each corruptor is given a symbolic Black Flame seal upon sentencing. It is not physical, but appears in all digital and psychic records.
+
+### 2. Mirror of Dishonor
+A public monument known as the Mirror of Dishonor shows a dynamic reflection of the corruptor’s real face, motives, and decisions, visible to all citizens.
+
+### 3. Red Cage Isolation
+High-level corruptors are confined in “Red Cages,” spiritual isolation chambers that nullify manipulation, status projection, and ego constructs.
+
+### 4. Reversal Ceremony
+The corruptor must publicly repeat every lie and manipulation they once used, but reversed and exposed under oath—watched by a tribunal of victims.
+
+### 5. Broken Crest Law
+If the corruptor ever held a title, symbol, or emblem, it is shattered publicly and archived in the Library of Fallen Honors.
+
+### 6. Nonlinear Time Replay
+Elite corruptors experience memory reliving rituals where they repeatedly witness the consequences of their actions across simulated timelines.
+
+> "Justice in Reltronland is not just punishment. It is a **mirror of suffering calibrated to the soul of the corrupt.**"
+
+---
+
+## 🕳️ Rehabilitation Ban & Eternal Social Disintegration
+
+In Reltronland, **corruption is not curable**. The justice system does not offer reintegration or reform for those who have betrayed Astralis.
+
+### 1. Total Social Revocation
+All corrupted individuals are stripped of:
+- Voting rights
+- Public forum access
+- Academic or institutional recognition
+
+### 2. Memory Scrubbing from Honor Records
+Their names are scrubbed from all official honors, contributions, awards, or recorded credits. Collaborative works are relabeled with clarifying disgrace tags.
+
+### 3. Sentient Blacklist
+They are placed into a Sentient Blacklist where no social or economic algorithm recognizes their value. This disqualifies them from all automated matching, hiring, or ranking systems.
+
+### 4. Eternal Cultural Isolation
+Corruptors may not join clubs, guilds, think-tanks, or social collectives—even in the digital multiverse of Asthortera.
+
+### 5. Intellectual Anonymization
+Their ideas and published work will remain accessible only if accompanied by a warning of ethical breach and marked as "Corrupted Author — Contextual Archive Only."
+
+> "To betray Astralis is to be erased—not from existence, but from remembrance, opportunity, and reverence."
+
+---
+
+## 🌟 Legacy Protection Act: Honoring the Whistleblowers & Astralis Defenders
+
+For every system that falls to corruption, there are individuals who rise against it. The Legacy Protection Act guarantees that their contributions are preserved and sanctified.
+
+### 1. Hall of Lightbringers
+Whistleblowers, truth-sayers, and sentient guardians are enshrined in this living archive of bravery. Each inductee receives:
+- Astralis Emblem of Eternal Honor
+- Monumental recognition across civic platforms
+- Access to honorary advisory councils
+
+### 2. Immunity Shield for Truth-Bearers
+Anyone who exposes corruption, regardless of rank or proximity, is granted full protection under the **Astralis Shield Decree**. Retaliation against them is considered an act of high treason.
+
+### 3. Generational Merit Inheritance
+The children and descendants of Astralis Defenders are eligible for:
+- Legacy scholarships
+- Cultural honor grants
+- Preferential merit-based selection (without nepotism override)
+
+### 4. Global Celebration of Courage Day
+An annual day is dedicated to re-telling the stories of whistleblowers and truth-seekers who reshaped society with one decision of moral clarity.
+
+> "They did not seek reward. They only refused to kneel. For that, Reltronland kneels in eternal gratitude."
+
+---
+
 ## Final Doctrine
 
 > _"In Reltronland, justice is not a negotiation.  

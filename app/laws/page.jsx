@@ -43,6 +43,15 @@ const laws = [
     image: "/images/anti-corruption-origin.png"
   },
   {
+    title: "Core Constitution of Reltronland",
+    description: "The foundational doctrines that govern the Reltronland civilization—spiritually, ethically, structurally.",
+    slug: "reltronland-core-constitution",
+    author: "Reltroner Studio",
+    date: "2025-04-15",
+    published: true,
+    image: "/images/reltronland-core-constitution.png"
+  },
+  {
     title: "The Soil Charter of Reltronland",
     description: "The foundational zoning doctrine of Reltronland that defines how every piece of land must serve clarity, merit, and sentient development—marking Rathroper as sacred ground zero.",
     slug: "soil-charter",

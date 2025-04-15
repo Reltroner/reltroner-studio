@@ -163,6 +163,7 @@ export default function CommandPalette() {
     { name: "The Soil Charter of Reltronland", path: "/laws/soil-charter" },
     { name: "Reltronland Anti-Corruption Protocol", path: "/laws/reltronland-anti-corruption" },
     { name: "The Origin of Absolute Law: From Depeisit Collapse to Reltronland Ascension", path: "/laws/anti-corruption-origin" },
+    { name: "Core Constitution of Reltronland", path: "/laws/reltronland-core-constitution" },
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },
