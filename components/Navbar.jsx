@@ -26,10 +26,10 @@ export default function Navbar() {
                     <li><Link href="/statistics" className="hover:underline">📊 Statistics</Link></li>
                     <li><Link href="/organizations" className="hover:underline">🏢 Organizations</Link></li>
                     <li><Link href="/events" className="hover:underline">📅 Events</Link></li>
+                    <li><Link href="/principles" className="hover:underline">📜 Principles</Link></li>
 
                     {/* Professional & Footer */}
                     <li><Link href="/blog/for-recruiters" className="hover:underline">🧳 Portfolio</Link></li>
-                    <li><Link href="/blog/reltroner" className="hover:underline">📜 Principles</Link></li>
                     <li><Link href="/contact" className="hover:underline">📬 Contact</Link></li>
                     <li><Link href="/blog/disclaimer" className="hover:underline">⚠️ Disclaimer</Link></li>
                 </ul>

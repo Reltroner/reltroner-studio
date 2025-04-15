@@ -28,10 +28,10 @@ const navItems = [
   { name: "🌆 Places", href: "/places" },
   { name: "🎎 Cultures", href: "/cultures" },
   { name: "📅 Events", href: "/events" },
+  { name: "📜 Principles", href: "/principles" },
 
   // Professional
   { name: "🧳 Portfolio", href: "/blog/for-recruiters" },
-  { name: "📜 Principles", href: "/blog/reltroner" },
 
   // Footer-type
   { name: "📬 Contact", href: "/contact" },

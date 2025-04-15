@@ -47,7 +47,7 @@ export default function CommandPalette() {
     { name: "Laws", path: "/laws" },
     { name: "Contact", path: "/contact" },
     { name: "Portfolio", path: "/blog/for-recruiters" },
-    { name: "Principles", path: "/blog/reltroner" },
+    { name: "Principles", path: "/principles" },
     { name: "Disclaimer", path: "/blog/disclaimer" },
     { name: "2v3 Reltroner Joker", path: "/blog/2v3-reltroner-joker" },
     { name: "12 Month Roadmap", path: "/blog/12-month-roadmap" },
@@ -169,6 +169,9 @@ export default function CommandPalette() {
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },
     { name: "Entropy Firewall", path: "/technologies/entropy-firewall" },
     { name: "Quantum Memory Cloud", path: "/technologies/quantum-memory-cloud" },
+    //Principles
+    { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
+    { name: "The Death of Feudalism: Astralis Principle 07", path: "/principles/death-of-feudalism" },
 
   ];
 
