@@ -163,6 +163,8 @@ export default function CommandPalette() {
     { name: "Reltronland & Depcutland: The Pillars Who Embrace the International Family", path: "/factions/international-family" },
     { name: "Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization", path: "/factions/reltronland-vs-depcutland" },    
     { name: "Reltronball & Depcutball: Bureaucracy Bros", path: "/factions/bureaucracy-bros" },
+    { name: "Cenrestier Country Profile — Land of Fortresses", path: "/factions/cenrestier-country-profile" },
+    { name: "Kalgered Country Profile — The Neutral Heart of Asthortera", path: "/factions/kalgered-country-profile" },
 
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },

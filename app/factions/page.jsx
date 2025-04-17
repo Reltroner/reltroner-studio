@@ -56,6 +56,22 @@ const factions = [
     date: "2025-04-13"
   },
   {
+    title: "Cenrestier Country Profile — Land of Fortresses",
+    description: "A proud nation built on memory, stone, and timeless discipline. Cenrestier is home to ancient castles, concentric fortress cities, and a people who believe that remembering the past is the highest form of strength.",
+    slug: "cenrestier-country-profile",
+    image: "/images/cenrestier-country-profile.png",
+    author: "Rei Reltroner",
+    date: "2025-04-17"
+  },
+  {
+    title: "Kalgered Country Profile — The Neutral Heart of Asthortera",
+    description: "A high-altitude sovereign state known for its timeless fortresses, acoustic architecture, and unshakable neutrality. Kalgered is the diplomatic core of Asthortera, where silence speaks louder than conflict.",
+    slug: "kalgered-country-profile",
+    date: "2025-04-18",
+    image: "/images/kalgered-country-profile.png",
+    tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelhaven"]
+  },  
+  {
     title: "Henchoeway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoeway", 
