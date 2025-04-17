@@ -59,6 +59,15 @@ const laws = [
     author: "Rei Reltroner",
     date: "2025-04-14",
     published: true
+  },
+  {
+    title: "Aurastelia Governance Model",
+    description: "A spiritual-functional hybrid system led by Queen Valethra, balancing sentient resonance, harmony, and conscious policymaking.",
+    slug: "aurastelia-governance-model",
+    image: "/images/aurastelia-governance-model.png",
+    author: "Rei Reltroner",
+    date: "2025-04-17",
+    published: true
   }
   // Tambahkan lebih banyak Law di masa depan...
 ];

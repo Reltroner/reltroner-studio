@@ -64,7 +64,15 @@ const places = [
     author: "Rei Reltroner",
     date: "2025-04-14",
     published: true
-
+  },
+  {
+    name: "Why Aurastelia is the Most Beautiful Realm",
+    description: "Beyond visual splendor, Aurastelia offers a living resonance of balance, light, and inner clarity — unmatched across any fictional universe.",
+    slug: "why-aurastelia-is-the-most-beautiful-realm",
+    image: "/images/aurastelia-most-beautiful-realm-banner.png",
+    author: "Rei Reltroner",
+    date: "2025-04-17",
+    published: true
   }
 ];
 

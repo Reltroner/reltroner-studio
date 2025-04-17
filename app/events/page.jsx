@@ -40,6 +40,15 @@ const events = [
     author: "Rei Reltroner",
     date: "2025-04-14",
     published: true
+  },
+  {
+    title: "When Raina Read The Letter",
+    description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words.",
+    slug: "when-raina-read-the-letter",
+    image: "/images/when-raina-read-the-letter.png",
+    author: "Rei Reltroner",
+    date: "2025-04-17",
+    published: true
   }
   // Tambahkan lebih banyak event di masa depan...
 ];

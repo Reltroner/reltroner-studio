@@ -72,6 +72,31 @@ const cultures = [
     image: "/images/depcutland-music.png",
     author: "Rei Reltroner",
     date: "2025-04-13",
+  },
+  {
+    title: "Aurora Faith of Aurastelia",
+    description: "The spiritual foundation of Aurastelia led by Queen Valethra — a radiant path of inner peace, balance, and silent enlightenment.",
+    slug: "aurora-faith",
+    author: "Rei Reltroner",
+    date: "2025-04-14",
+    image: "/images/aurora-faith.png"
+  },
+  {
+    title: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto",
+    description: "A deconstruction of outdated tropes by Asthortera’s mature philosophy of sentient connection.",
+    slug: "anti-klise-gender-friendship",
+    author: "Reltroner Studio",
+    date: "2025-04-16",
+    image: "/images/anti-klise-gender-friendship.png"
+  },
+  {
+    title: "Gender Friendship Manifesto of Asthortera",
+    description: "A cultural doctrine that redefines friendship across genders without stigma, cringe, or romantic overtones.",
+    slug: "gender-friendship-manifesto",
+    author: "Reltroner Studio",
+    date: "2025-04-16",
+    published: true,
+    image: "/images/gender-friendship-manifesto.png"
   }
   
   

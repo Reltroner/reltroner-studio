@@ -30,6 +30,15 @@ const series = [
     author: "Reltroner Studio",
     date: "2025-04-14",
     published: true
+  },
+  {
+    title: "The Safe House Pact",
+    description: "A secret meeting near the border of Leastroper reveals the first spiritual operation to stop Gandia’s Nytherion infiltration in Skytrone.",
+    slug: "the-safe-house-pact",
+    image: "/images/the-safe-house-pact.png",
+    author: "Rei Reltroner",
+    date: "2025-04-17",
+    published: true
   }
 
 ];

@@ -97,11 +97,12 @@ export default function CommandPalette() {
     { name: "Hendry Harry", path: "/characters/hendry-harry", tag: "Characters" },
     { name: "Isaac Luminar", path: "/characters/isaac-luminar", tag: "Characters" },
     { name: "Kamila Alena", path: "/characters/kamila-alena", tag: "Characters" },
-    { name: "Queen Valethra", path: "/characters/queen-valethra", tag: "Characters" },
+    { name: "Queen Valethra Seraphine Lunara", path: "/characters/queen-valethra", tag: "Characters" },
     { name: "Raina Veltrania", path: "/characters/raina-veltrania", tag: "Characters" },
     { name: "Rei Reltroner", path: "/characters/rei-reltroner", tag: "Characters" },
     { name: "Wayne Astoner", path: "/characters/wayne-astoner", tag: "Characters" },
     { name: "Westley Watson", path: "/characters/westley-watson", tag: "Characters" },
+    { name: "Moris Monte", path: "/characters/moris-monte", tag: "Characters" },
     // Cultures
     { name: "Children of Asthortera", path: "/cultures/children-of-asthortera" },
     { name: "Cuteness Manifesto", path: "/cultures/cuteness-manifesto" },
@@ -111,11 +112,15 @@ export default function CommandPalette() {
     { name: "Major Cultural Exports — Reltronland vs Depcutland", path: "/cultures/cultural-exports" },
     { name: "Music Culture of Depcutland", path: "/cultures/depcutland-music" },
     { name: "Music Culture of Reltronland", path: "/cultures/reltronland-music" },
+    { name: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto", path: "/cultures/anti-klise-gender-friendship" },
+    { name: "Aurora Faith of Aurastelia", path: "/cultures/aurora-faith" },
+    { name: "Gender Friendship Manifesto of Asthortera", path: "/cultures/gender-friendship-manifesto" },
     // Events
     { name: "Series Roadmap", path: "/events/series-roadmap" },
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },
     { name: "The True Purpose Behind Depcutland’s Founding", path: "/events/depcutland-founding" },
+    { name: "When Raina Read The Letter", path: "/events/when-raina-read-the-letter" },
     //Myths
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
     { name: "Reltroner’s Zero Day", path: "/myths/reltroners-zero-day" },
@@ -131,11 +136,13 @@ export default function CommandPalette() {
     { name: "Oakcottage", path: "/places/oakcottage" },
     { name: "Whispergrove", path: "/places/whispergrove" },
     { name: "Province Profile: Leastroper – A Land Beyond Conflict", path: "/places/leastroper-profile" },
+    { name: "Why Aurastelia is the Most Beautiful Realm", path: "/places/why-aurastelia-is-the-most-beautiful-realm" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
     { name: "Rei in Abyss", path: "/series/rei-in-abyss" },
     { name: "Reltronland ComicBall Wiki", path: "/series/comicball" },
+    { name: "The Safe House Pact", path: "/series/the-safe-house-pact" },
     // Statistics
     { name: "AI Ecosystem", path: "/statistics/ai-ecosystem" },
     { name: "Asthortera Identity", path: "/statistics/asthortera_identity" },
@@ -164,6 +171,7 @@ export default function CommandPalette() {
     { name: "Reltronland Anti-Corruption Protocol", path: "/laws/reltronland-anti-corruption" },
     { name: "The Origin of Absolute Law: From Depeisit Collapse to Reltronland Ascension", path: "/laws/anti-corruption-origin" },
     { name: "Core Constitution of Reltronland", path: "/laws/reltronland-core-constitution" },
+    { name: "Aurastelia Governance Model", path: "/laws/aurastelia-governance-model" },
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },
