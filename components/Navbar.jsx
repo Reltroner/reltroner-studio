@@ -31,6 +31,7 @@ export default function Navbar() {
                     {/* Professional & Footer */}
                     <li><Link href="/blog/for-recruiters" className="hover:underline">🧳 Portfolio</Link></li>
                     <li><Link href="/contact" className="hover:underline">📬 Contact</Link></li>
+                    <li><Link href="/blog/legacy" className="hover:underline">🏛️ Legacy</Link></li>
                     <li><Link href="/blog/disclaimer" className="hover:underline">⚠️ Disclaimer</Link></li>
                 </ul>
             </nav>

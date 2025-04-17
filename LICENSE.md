@@ -33,7 +33,7 @@ This license is enforced to protect the **integrity, originality, and future pot
 
 For licensing requests, collaborations, or permissions, please contact:
 
-📧 **raidan.reltroner@gmail.com** *(contoh email - silakan sesuaikan)*
+📧 **reltroner@gmail.com** 
 
 > *"Imagination is a fortress. You are free to visit, but not to conquer."*
 > — Raidan, Founder of Reltroner Studio

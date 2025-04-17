@@ -35,6 +35,7 @@ const navItems = [
 
   // Footer-type
   { name: "📬 Contact", href: "/contact" },
+  { name: "🏛️ Legacy", href: "/blog/legacy" },
   { name: "⚠️ Disclaimer", href: "/blog/disclaimer" },
 ];
 

@@ -79,6 +79,14 @@ const posts = [
     description: "Strategic insight and business directions for capturing the minds and markets of Gen Z and Gen Alpha, focused on clarity, identity, and digital sanctuary.",
     slug: "gen-z-alpha-market-potential",
     image: "/images/gen-z-alpha-market-potential.png"
+  },
+  {
+    title: "Legacy of Reltroner",
+    description: "A comprehensive overview of the Reltroner legacy, its impact on world-building, and its future directions.",
+    slug: "legacy",
+    date: "2025-04-18",
+    image: "/images/legacy.png",
+    published: true
   }
   
 ];

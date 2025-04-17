@@ -87,6 +87,7 @@ export default function CommandPalette() {
     { name: "gen-z-alpha-market-potential", path: "/blog/gen-z-alpha-market-potential" },
     { name: "Why People Fall in Love with the World of Reltroner Studio", path: "/blog/fall-in-love" },
     { name: "Why Bureaucracy is the New Rebellion", path: "/blog/bureaucracy-rebellion" },
+    { name: "Legacy", path: "/blog/legacy" },
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
     { name: "Barry Heathrow", path: "/characters/barry-heathrow", tag: "Characters" },
