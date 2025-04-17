@@ -94,7 +94,7 @@ It answers with continuity.
 - 25–54 years: 42%  
 - 55–64 years: 16%  
 - 65+ years: 15%  
-- **Median Age:** 40  
+- **Median Age:** 42  
 
 ### 🔹 Daily Spending Categories:
 
@@ -116,7 +116,7 @@ It answers with continuity.
   - Eco-Tourism in Mountain Ranges  
 
 - **Economic Motto:** *"Neutral Ground, Boundless Progress."*  
-- **Gini Coefficient:** 0.28 (very low inequality)  
+- **Gini Coefficient:** 0.21 (very low inequality)  
 - **Annual Economic Growth:** 7% (last 100 years average)  
 - **National Debt:** 45% of GDP (managed with conservative policies)  
 - **CO₂ Emissions per Capita:** 1.3 metric tons  

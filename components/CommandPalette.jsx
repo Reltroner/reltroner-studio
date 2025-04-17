@@ -136,13 +136,14 @@ export default function CommandPalette() {
     { name: "Oakcottage", path: "/places/oakcottage" },
     { name: "Whispergrove", path: "/places/whispergrove" },
     { name: "Province Profile: Leastroper – A Land Beyond Conflict", path: "/places/leastroper-profile" },
+    { name: "The Safe House Pact", path: "/places/the-safe-house-pact" },
     { name: "Why Aurastelia is the Most Beautiful Realm", path: "/places/why-aurastelia-is-the-most-beautiful-realm" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
     { name: "Rei in Abyss", path: "/series/rei-in-abyss" },
     { name: "Reltronland ComicBall Wiki", path: "/series/comicball" },
-    { name: "The Safe House Pact", path: "/series/the-safe-house-pact" },
+    
     // Statistics
     { name: "AI Ecosystem", path: "/statistics/ai-ecosystem" },
     { name: "Asthortera Identity", path: "/statistics/asthortera_identity" },

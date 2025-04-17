@@ -93,6 +93,8 @@ making it one of the most emotionally stable nations in Asthortera.
 **Strengths:**  
 - Strategic resilience  
 - Wartime consciousness  
+- Center of Protocol
+- Diplomatic Firewall of Asthortera
 
 ---
 
