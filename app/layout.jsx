@@ -11,6 +11,11 @@ export const metadata = {
     template: "%s | Reltroner Studio",
   },
   description: "Reltroner Studio is a digital agency specializing in web development and creative sanctuary of the fictional universe Asthortera.",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export default function Layout({ children }) {
