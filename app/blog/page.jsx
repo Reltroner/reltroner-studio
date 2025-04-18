@@ -238,6 +238,15 @@ const posts = [
     author: "Reltroner Studio",
     date: "2025-04-14",
     published: true
+  },
+  {
+    title: "Debugging Victory Abyss",
+    description: "A 50-day technical and spiritual journey to defeat the longest unresolved bug in reltroner.com’s modern history.",
+    slug: "debugging-victory-abyss",
+    image: "/images/debugging-victory-abyss.png",
+    author: "Reltroner Studio",
+    date: "2025-04-18",
+    published: true
   }
      
 ];
