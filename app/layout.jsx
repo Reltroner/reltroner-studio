@@ -38,6 +38,10 @@ export default function Layout({ children }) {
         </header>
         <main className="py-5 grow">{children}</main>
         <footer className="border-t pt-4 pb-6 text-center text-xs text-gray-500">
+        <a href="/blog/for-recruiters" className="text-blue-500 hover:underline">
+            For Recruiters & Collaborators ↗
+          </a>
+          <br />
           © {new Date().getFullYear()} Reltroner Studio. All rights reserved.
         </footer>
       </body>

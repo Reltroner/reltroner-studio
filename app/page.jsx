@@ -45,6 +45,14 @@ const posts = [
     date: "March 29, 2025"
   },
   {
+    title: "For Recruiters & Collaborators – Notion CV",
+    description: "Notion-style version of my professional profile and collaboration vision.",
+    slug: "reltroner-cv",
+    date: "2025-04-18",
+    published: true,
+    image: "/images/reltroner-cv-banner.png"
+  },
+  {
     title: "Cultures & Civilizations",
     description: "Building realistic cultures and societies for your world.",
     slug: "cultures-civilizations",

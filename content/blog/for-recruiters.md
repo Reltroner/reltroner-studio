@@ -66,3 +66,4 @@ But I’m **fully present in every line of code and trace of my work.**
 </div>
 
 ➡️ To [Full Stack Developer Interview Simulation ](https://www.reltroner.com/blog/fullstack-interview-summary)
+➡️ To [For Recruiters & Collaborators – Notion CV](https://www.reltroner.com/blog/reltroner-cv)

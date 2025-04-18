@@ -89,6 +89,7 @@ export default function CommandPalette() {
     { name: "Why Bureaucracy is the New Rebellion", path: "/blog/bureaucracy-rebellion" },
     { name: "Legacy", path: "/blog/legacy" },
     { name: "Debugging Victory Abyss", path: "/blog/debugging-victory-abyss" },
+    { name: "For Recruiters & Collaborators – Notion CV", path: "/blog/reltroner-cv" },
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
     { name: "Barry Heathrow", path: "/characters/barry-heathrow", tag: "Characters" },
