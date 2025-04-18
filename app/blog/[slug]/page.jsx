@@ -27,7 +27,7 @@ async function getBlog(slug) {
   return { data, contentHtml };
 }
 
-export default async function OrganizationPage({ params }) {
+export default async function BlogPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getBlog(slug);
   if (!data) return notFound();
