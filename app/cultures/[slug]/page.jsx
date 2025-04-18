@@ -7,7 +7,8 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getCulture(params.slug);
+  const { slug } = await params;
+  const { data } = await getCulture(slug);
   if (!data) return notFound();
   return {
     title: data.title,
@@ -27,7 +28,8 @@ async function getCulture(slug) {
 }
 
 export default async function CulturePage({ params }) {
-  const { data, contentHtml } = await getCulture(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getCulture(slug);
   if (!data) return notFound();
 
   return (

@@ -7,10 +7,11 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getCharacter(params.slug);
+  const { slug } = await params;
+  const { data } = await getCharacter(slug);
   if (!data) return notFound();
   return {
-    title: data.name,
+    title: data.title,
     description: data.description,
   };
 }
@@ -27,7 +28,8 @@ async function getCharacter(slug) {
 }
 
 export default async function CharacterPage({ params }) {
-  const { data, contentHtml } = await getCharacter(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getCharacter(slug);
   if (!data) return notFound();
 
   return (

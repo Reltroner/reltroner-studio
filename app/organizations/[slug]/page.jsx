@@ -7,7 +7,8 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getOrganization(params.slug);
+  const { slug } = await params;
+  const { data } = await getOrganization(slug);
   if (!data) return notFound();
   return {
     title: data.title,
@@ -27,9 +28,10 @@ async function getOrganization(slug) {
 }
 
 export default async function OrganizationPage({ params }) {
-  const { data, contentHtml } = await getOrganization(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getOrganization(slug);
   if (!data) return notFound();
-
+  
   return (
     <div className="p-6 max-w-3xl mx-auto">
       <Heading>{data.title}</Heading>

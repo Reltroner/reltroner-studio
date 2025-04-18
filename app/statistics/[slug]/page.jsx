@@ -7,7 +7,8 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getStatistic(params.slug);
+  const { slug } = await params;
+  const { data } = await getStatistic(slug);
   if (!data) return notFound();
   return {
     title: data.title,
@@ -27,7 +28,8 @@ async function getStatistic(slug) {
 }
 
 export default async function StatisticPage({ params }) {
-  const { data, contentHtml } = await getStatistic(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getStatistic(slug);
   if (!data) return notFound();
 
   return (

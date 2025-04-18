@@ -7,7 +7,8 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getMyth(params.slug);
+  const { slug } = await params;
+  const { data } = await getMyth(slug);
   if (!data) return notFound();
   return {
     title: data.title,
@@ -27,7 +28,8 @@ async function getMyth(slug) {
 }
 
 export default async function MythPage({ params }) {
-  const { data, contentHtml } = await getMyth(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getMyth(slug);
   if (!data) return notFound();
 
   return (

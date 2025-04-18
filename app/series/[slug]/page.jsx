@@ -7,7 +7,8 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getSerie(params.slug);
+  const { slug } = await params;
+  const { data } = await getSerie(slug);
   if (!data) return notFound();
   return {
     title: data.title,
@@ -27,7 +28,8 @@ async function getSerie(slug) {
 }
 
 export default async function SeriePage({ params }) {
-  const { data, contentHtml } = await getSerie(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getSerie(slug);
   if (!data) return notFound();
 
   return (

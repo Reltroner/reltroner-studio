@@ -7,7 +7,8 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getLaw(params.slug);
+  const { slug } = await params;
+  const { data } = await getLaw(slug);
   if (!data) return notFound();
   return {
     title: data.title,
@@ -27,7 +28,8 @@ async function getLaw(slug) {
 }
 
 export default async function LawPage({ params }) {
-  const { data, contentHtml } = await getLaw(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getLaw(slug);
   if (!data) return notFound();
 
   return (

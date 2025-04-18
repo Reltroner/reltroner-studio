@@ -1,54 +1,56 @@
+import fs from "fs";
+import path from "path";
+import matter from "gray-matter";
+import { notFound } from "next/navigation";
+import { remark } from "remark";
+import html from "remark-html";
 import Heading from "@/components/Heading";
-import { getPost, getAllPosts } from "@/lib/post";
 
-// ✅ WAJIB: Generate semua slug agar tidak error
-export async function generateStaticParams() {
-    console.log("Generating static params for blog posts");
-    const posts = await getAllPosts();
-    return posts.map((post) => ({
-        slug: post.slug,
-    }));
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
+  const { data } = await getBlog(slug);
+  if (!data) return notFound();
+  return {
+    title: data.title,
+    description: data.description,
+  };
 }
 
-export async function generateMetadata({ params: { slug } }) {
-    console.log("Generating metadata for blog post", slug);
-    const post = await getPost(slug); // ✅ langsung pakai slug
-    return {
-      title: post.title,
-      description: post.description,
-    };
-  }
-  
+async function getBlog(slug) {
+  const filePath = path.join(process.cwd(), "content/blog", `${slug}.md`);
+  if (!fs.existsSync(filePath)) return { data: null, contentHtml: null };
 
-// ✅ Halaman BlogPostPage
-export default async function BlogPostPage(props) {
-    const { params } = await props; // FIX UTAMA
-    console.log("Rendering blog post page", params);
-    const post = await getPost(params.slug);
+  const fileContent = fs.readFileSync(filePath, "utf8");
+  const { data, content } = matter(fileContent);
+  const processedContent = await remark().use(html).process(content);
+  const contentHtml = processedContent.toString();
+  return { data, contentHtml };
+}
+
+export default async function OrganizationPage({ params }) {
+  const { slug } = await params;
+  const { data, contentHtml } = await getBlog(slug);
+  if (!data) return notFound();
   
-    if (!post || !post.title) {
-      return <div className="p-6 text-red-500 font-bold dark:bg-gray-900 dark:text-white">Post not found</div>;
-    }
-  
-    return (
-      <div className="flex-grow px-4 sm:px-6 md:px-8 py-6 max-w-screen-md mx-auto w-full pl-4  dark:bg-gray-900 dark:text-white prose dark:prose-invert">
-        <Heading>{post.title}</Heading>
-        <p className="text-sm text-gray-600 pl-4 dark:bg-gray-900 dark:text-white">{post.description}</p>
-        <p className="italic text-sm text-gray-500 mb-4 pl-4 dark:bg-gray-900 dark:text-white">
-          {post.date} — {post.published ? "Published" : "Draft"}
-        </p>
-        {post.image && (
-          <img
-            src={post.image}
-            alt={post.title}
-            className="w-full h-auto rounded-lg mb-6 object-cover sm:px-0 px-4 dark:bg-gray-900 dark:text-white"
-          />
-        )}
-        <article
-          className="prose prose-slate max-w-none text-justify sm:px-0 px-4 dark:bg-gray-900 dark:text-white"
-          dangerouslySetInnerHTML={{ __html: post.html }}
-        />
-      </div>
-    );
-  }
-  
+  return (
+    <div className="p-6 max-w-3xl mx-auto">
+      <Heading>{data.title}</Heading>
+      <img
+        src={data.image}
+        alt={data.title}
+        className="w-full max-h-[400px] object-contain mx-auto"
+      />
+      <p className="text-gray-700 text-lg font-semibold italic mb-2">{data.role}</p>
+      <p className="text-gray-600 mb-4">{data.description}</p>
+      {data.quote && (
+        <blockquote className="border-l-4 border-blue-600 pl-4 italic text-gray-800 mb-4">
+          “{data.quote}”
+        </blockquote>
+      )}
+      <div
+        className="prose prose-lg text-justify text-slate-800"
+        dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+    </div>
+  );
+}

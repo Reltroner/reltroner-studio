@@ -7,7 +7,8 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getEvent(params.slug);
+  const { slug } = await params;
+  const { data } = await getEvent(slug);
   if (!data) return notFound();
   return {
     title: data.title,
@@ -27,7 +28,8 @@ async function getEvent(slug) {
 }
 
 export default async function EventPage({ params }) {
-  const { data, contentHtml } = await getEvent(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getEvent(slug);
   if (!data) return notFound();
 
   return (

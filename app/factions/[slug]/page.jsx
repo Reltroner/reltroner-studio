@@ -7,7 +7,8 @@ import html from "remark-html";
 import Heading from "@/components/Heading";
 
 export async function generateMetadata({ params }) {
-  const { data } = await getFaction(params.slug);
+  const { slug } = await params;
+  const { data } = await getFaction(slug);
   if (!data) return notFound();
   return {
     title: data.title,
@@ -27,7 +28,8 @@ async function getFaction(slug) {
 }
 
 export default async function FactionPage({ params }) {
-  const { data, contentHtml } = await getFaction(params.slug);
+  const { slug } = await params;
+  const { data, contentHtml } = await getFaction(slug);
   if (!data) return notFound();
 
   return (
