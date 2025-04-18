@@ -11,6 +11,14 @@ export const metadata = {
     template: "%s | Reltroner Studio",
   },
   description: "Reltroner Studio is a digital agency specializing in web development and creative sanctuary of the fictional universe Asthortera.",
+  openGraph: {
+    siteName: "Reltroner Studio",
+    type: "website",
+    locale: "en_US",
+  },
+  twitter: {
+    card: "summary_large_image",
+  },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
