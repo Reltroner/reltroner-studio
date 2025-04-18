@@ -1,1 +1,3 @@
 disabled-api/
+pages/api/get.js
+pages/api/set.js
