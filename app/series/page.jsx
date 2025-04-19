@@ -31,6 +31,15 @@ const series = [
     date: "2025-04-14",
     published: true
   },
+  {
+    title: "Asthortera Novel Series Roadmap",
+    description: "Explore the complete timeline and narrative structure of the Asthortera universe. Each novel represents a unique POV arc that weaves into the grand tapestry of the Reltroner Saga.",
+    slug: "series-roadmap",
+    image: "/images/series-roadmap.png",
+    author: "Reltroner Studio",
+    published: true,
+    date: "April 8, 2025",
+  },
 
 ];
 

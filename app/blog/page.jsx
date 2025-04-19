@@ -257,15 +257,6 @@ const posts = [
     date: "2025-04-19",
     published: true
   },
-  {
-    title: "🌍 Rei Shows Earth to Raina",
-    description: "In a quiet moment in Reltralia, Rei shows Raina the harsh realities of Earth—his birthplace. As footage of Indonesia plays, truths are unveiled: cycles of survival, suppressed dreams, and the roots of Reltronland's order. This is not just a memory—it’s the reason Reltronland was born. A story of pain transformed into purpose.",
-    slug: "rei-shows-earth",
-    image: "/images/rei-shows-earth.png",
-    author: "Rei Reltroner",
-    date: "2025-04-18",
-    published: true
-  }
      
 ];
 

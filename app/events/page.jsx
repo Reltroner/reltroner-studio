@@ -7,13 +7,13 @@ export const metadata = {
 
 const events = [
   {
-    title: "Asthortera Novel Series Roadmap",
-    description: "Explore the complete timeline and narrative structure of the Asthortera universe. Each novel represents a unique POV arc that weaves into the grand tapestry of the Reltroner Saga.",
-    slug: "series-roadmap",
-    image: "/images/series-roadmap.png",
-    author: "Reltroner Studio",
-    published: true,
-    date: "April 8, 2025",
+    title: "Rei in Abyss: Spiral Memory",
+    description:"Trapped within a decaying spiral of lost thoughts and broken geometry, Rei awakens in Sector D—where time loops, mirrors lie, and illusions rot. Inspired by unsettling childhood memories and surreal echoes of comfort, this chapter explores the moment Rei confronts the first layer of Nytherion Abyss and begins to remember what the world tried to erase.",
+    slug: "rei-in-abyss-spiral-memory",
+    author: "Rei Reltroner",
+    date: "2025-04-19",
+    image: "/images/abyss-d.png",
+    published: true
   },
   {
     title: "Scout Parade in Evercotage",
@@ -51,14 +51,14 @@ const events = [
     published: true
   },
   {
-    title: "Rei in Abyss: Spiral Memory",
-    description:"Trapped within a decaying spiral of lost thoughts and broken geometry, Rei awakens in Sector D—where time loops, mirrors lie, and illusions rot. Inspired by unsettling childhood memories and surreal echoes of comfort, this chapter explores the moment Rei confronts the first layer of Nytherion Abyss and begins to remember what the world tried to erase.",
-    slug: "rei-in-abyss-spiral-memory",
+    title: "🌍 Rei Shows Earth to Raina",
+    description: "In a quiet moment in Reltralia, Rei shows Raina the harsh realities of Earth—his birthplace. As footage of Indonesia plays, truths are unveiled: cycles of survival, suppressed dreams, and the roots of Reltronland's order. This is not just a memory—it’s the reason Reltronland was born. A story of pain transformed into purpose.",
+    slug: "rei-shows-earth",
+    image: "/images/rei-shows-earth.png",
     author: "Rei Reltroner",
-    date: "2025-04-19",
-    image: "/images/abyss-d.png",
+    date: "2025-04-18",
     published: true
-  }
+  },
   // Tambahkan lebih banyak event di masa depan...
 ];
 
