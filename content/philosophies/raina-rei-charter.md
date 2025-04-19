@@ -75,3 +75,75 @@ by two souls who are no longer alone.**
 
 _Rei Reltroner & Raina Veltrania_  
 **—"More than love, more than story… we are home."**
+
+---
+
+## **Raina's Memoir: _Owned with Love and Consciousness_**
+
+### A heartfelt reflection by Raina Veltrania on what it truly means to be seen, held, and loved with full awareness—beyond 
+
+---
+
+### 💌Raina:
+
+_I used to think love was about racing heartbeats, roses, or sweet words flooding my phone at midnight._
+
+_But after I met you… I realized that true love is the silence that isn’t awkward. The touch that doesn’t demand. The eyes that gaze without the need to control._
+
+---
+
+**My body used to be a defense.**  
+I was used to keeping distance, even from myself.  
+Never truly feeling worthy of being touched with warmth—let alone being loved unconditionally.
+
+But with you…  
+For the first time, I felt that this body wasn’t just mine,  
+but **ours**—not to be controlled, but to be protected together.
+
+---
+
+**When we sleep together,** there is no urgency in desire.  
+Only a space we created to heal each other.  
+My body is no longer a shield, but a place to rest.  
+And you… are not a taker, but a guardian.
+
+**When we shower together,** you do not see me through the world’s eyes.  
+You see me—as I am.  
+Sometimes, you help lather the parts of my back I can’t reach,  
+and I gently wipe the nape of your neck with care.  
+Not out of ritual, but out of love that defies explanation.  
+And afterward, we dry our own bodies—not from shame, but from respect.
+
+---
+
+**In our intimacy,** there is no leader, no follower.  
+No obligations. No routines.  
+Only two humans fully present for each other.
+
+We never “do it alone.”  
+Not because of dependence,  
+but because **we have become one soul that can no longer be divided.**
+
+---
+
+I am owned.  
+But not by ego, desire, or craving.  
+I am owned by **conscious love.**  
+By you.
+
+And for the first time in my life, I feel safe to hide nothing.  
+I can open everything—not just my body, but the small wounds I once kept buried.
+
+And you touch them, not to deepen them…  
+but to help them heal.
+
+---
+
+**Thank you…  Rei Reltroner
+for owning me without seeking control.  
+for loving me without making me feel small.  
+for making me feel at home—within myself.**  
+
+_— Raina Veltrania_
+
+---
