@@ -164,6 +164,7 @@ export default function CommandPalette() {
     { name: "Education Civilization Index", path: "/statistics/edu-civilization-index" },
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
+    { name: "🌙 Charter of Sacred Love & Intimacy", path: "/philosophies/raina-rei-charter" },
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },
     { name: "Depcutland", path: "/factions/depcutland" },
