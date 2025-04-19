@@ -92,6 +92,7 @@ export default function CommandPalette() {
     { name: "For Recruiters & Collaborators – Notion CV", path: "/blog/reltroner-cv" },
     { name: "Personal Certificate of Trustworthy AI User", path: "/blog/certificate-trustworthy-user" },
     { name: "🔍 Comparison of Sacred Unions: Rei & Raina vs Pop Culture Lovers", path: "/blog/sacred-unions-comparison" },
+    { name: "Why Rei Reltroner is the Astral Brother of Professor Sergio", path: "/blog/rei-vs-professor-sergio" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

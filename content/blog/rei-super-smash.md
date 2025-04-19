@@ -55,6 +55,7 @@ Rei Reltroner, also known as *The Astralis Architect*, officially enters **Super
 > A cinematic super attack. The battlefield shifts into the Astralis Realm. Enemies are caught in red light beams and thrown into the Nytherion Abyss with massive impact.
 
 ![Signature Moveset](/images/litlle-rere-jet.png)
+![little-rei-sticker](/images/little-rei-sticker.png)
 ---
 
 ## 🌟 Passive Ability
