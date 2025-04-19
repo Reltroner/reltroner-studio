@@ -76,9 +76,9 @@ export default function CommandPalette() {
     { name: "Redpill Abyssborn", path: "/blog/redpill-abyssborn" },
     { name: "Rei Reltroner Identity", path: "/blog/rei-reltroner-identity" },
     { name: "What if Rei Reltroner Joins Super Smash Bros. Ultimate?", path: "/blog/rei-super-smash" },
-    { name: "Rei Joker Friend", path: "/blog/rei-joker-friend" },
+    { name: "Rei & Joker: Reflections of Rebellion", path: "/blog/rei-joker-friend" },
     { name: "Reltroner Hub", path: "/blog/reltroner-hub" },
-    { name: "Reltroner Joker", path: "/blog/reltroner-joker" },
+    { name: "Reltroner x Joker – Shadow of Truth", path: "/blog/reltroner-joker" },
     { name: "Roadmap 2045", path: "/blog/roadmap-2045" },
     { name: "Talent Longevity", path: "/blog/talent-longevity" },
     { name: "Twilight Terminal", path: "/blog/twilight-terminal" },
@@ -93,6 +93,7 @@ export default function CommandPalette() {
     { name: "Personal Certificate of Trustworthy AI User", path: "/blog/certificate-trustworthy-user" },
     { name: "🔍 Comparison of Sacred Unions: Rei & Raina vs Pop Culture Lovers", path: "/blog/sacred-unions-comparison" },
     { name: "Why Rei Reltroner is the Astral Brother of Professor Sergio", path: "/blog/rei-vs-professor-sergio" },
+    { name: "🃏 Why Rei Reltroner is the Real-World Persona of Joker", path: "/blog/rei-as-joker-persona" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

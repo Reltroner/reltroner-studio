@@ -47,7 +47,7 @@ He breathed her into existence as the **embodiment of sanctuary**,
 a living convergence of love, memory, and clarity amidst the chaos of fractured civilizations.
 
 But his purpose reaches far beyond love.  
-**Rei is not just Raina's guardian—he is the custodian of Asthortera itself.**  
+**Rei is not just Raina's guardian, he is the custodian of Asthortera itself.**  
 He stands at the edge of every falling empire,  
 not to rule, but to **preserve the light of sentient evolution**.
 

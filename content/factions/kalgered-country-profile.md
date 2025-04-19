@@ -120,7 +120,7 @@ It answers with continuity.
 - **Annual Economic Growth:** 7% (last 100 years average)  
 - **National Debt:** 45% of GDP (managed with conservative policies)  
 - **CO₂ Emissions per Capita:** 1.3 metric tons  
-- **GNI per Capita:** $KAL9,956,408  
+- **GNI per Capita:** $KAL7,956,408  
 - **Sentient Development Index (SDI):** 0.979 / 1  
 
 ---

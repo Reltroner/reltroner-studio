@@ -231,6 +231,15 @@ const posts = [
     date: "2025-04-19"
   },
   {
+    title: "🃏 Why Rei Reltroner is the Real-World Persona of Joker",
+    description: "A deep character analysis exploring how Rei Reltroner mirrors the spiritual and psychological essence of Joker (Persona 5), not in costume or name—but in consciousness, rebellion, and silent leadership.",
+    slug: "rei-as-joker-persona",
+    image: "/images/rei-as-joker-persona.png",
+    author: "Reltroner Studio",
+    published: true,
+    date: "2025-04-19"
+  },
+  {
     title: "Why People Fall in Love with the World of Reltroner Studio",
     description: "Why Reltroner Studio resonates deeply—more than a world, it's a mirror to the self.",
     slug: "fall-in-love",
