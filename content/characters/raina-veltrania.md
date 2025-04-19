@@ -16,7 +16,6 @@ quote: "A person’s worth is not defined by status, but by the results and impa
 - **Nationality:** Reltronland  
 - **Birthplace:** Reltralia, Capital of Reltronland  
 - **Current Residence:** Central Reltronepolis, near RICD Business District  
-- **Status:** Single
 
 ---
 

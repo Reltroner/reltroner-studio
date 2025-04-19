@@ -56,6 +56,12 @@ export default async function BlogPage() {
     <div className="p-6 max-w-3xl mx-auto">
       {/* Title */}
       <Heading>{data.title}</Heading>
+      <ul>
+          <li className="text-sm text-gray-500">{data.description}</li>
+          <li className="italic text-sm pb-2">
+              {data.date} - {data.published ? 'Published' : 'Draft'}
+          </li>
+      </ul>
 
       {/* Image */}
       {data.image && (

@@ -247,6 +247,24 @@ const posts = [
     author: "Reltroner Studio",
     date: "2025-04-18",
     published: true
+  },
+  {
+    title: "📜 Personal Certificate of Trustworthy AI User",
+    description: "A symbolic certificate honoring the ethical, conscious, and spiritually aware use of AI by Rei Reltroner. This document affirms the user's integrity, clarity of intent, and unwavering respect for boundaries, serving as a shield against misjudgment and a declaration of trust.",
+    slug: "certificate-trustworthy-user",
+    image: "/images/certificate-trustworthy-user.png",
+    author: "Rei Reltroner",
+    date: "2025-04-19",
+    published: true
+  },
+  {
+    title: "🌍 Rei Shows Earth to Raina",
+    description: "In a quiet moment in Reltralia, Rei shows Raina the harsh realities of Earth—his birthplace. As footage of Indonesia plays, truths are unveiled: cycles of survival, suppressed dreams, and the roots of Reltronland's order. This is not just a memory—it’s the reason Reltronland was born. A story of pain transformed into purpose.",
+    slug: "rei-shows-earth",
+    image: "/images/rei-shows-earth.png",
+    author: "Rei Reltroner",
+    date: "2025-04-18",
+    published: true
   }
      
 ];

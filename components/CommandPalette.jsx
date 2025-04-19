@@ -90,6 +90,8 @@ export default function CommandPalette() {
     { name: "Legacy", path: "/blog/legacy" },
     { name: "Debugging Victory Abyss", path: "/blog/debugging-victory-abyss" },
     { name: "For Recruiters & Collaborators – Notion CV", path: "/blog/reltroner-cv" },
+    { name: "Personal Certificate of Trustworthy AI User", path: "/blog/certificate-trustworthy-user" },
+    { name: "Rei Shows Earth to Raina", path: "/blog/rei-shows-earth" },
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
     { name: "Barry Heathrow", path: "/characters/barry-heathrow", tag: "Characters" },
@@ -124,6 +126,7 @@ export default function CommandPalette() {
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },
     { name: "The True Purpose Behind Depcutland’s Founding", path: "/events/depcutland-founding" },
     { name: "When Raina Read The Letter", path: "/events/when-raina-read-the-letter" },
+    { name: "Rei in Abyss: Spiral Memory", path: "/events/rei-in-abyss-spiral-memory" },
     //Myths
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
     { name: "Reltroner’s Zero Day", path: "/myths/reltroners-zero-day" },
@@ -186,6 +189,7 @@ export default function CommandPalette() {
     //Principles
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
     { name: "The Death of Feudalism: Astralis Principle 07", path: "/principles/death-of-feudalism" },
+    { name: "Code of Ethics: Zero Tolerance for Sexual Content", path: "/principles/anti-sexual-content" },
 
   ];
 
