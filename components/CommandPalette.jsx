@@ -167,6 +167,10 @@ export default function CommandPalette() {
     { name: "Education Civilization Index", path: "/statistics/edu-civilization-index" },
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
+    { name: "📜 The Builders Who Were Misjudged", path: "/philosophies/misjudged-builders" },
+    { name: "🛡️ I Am Not the Villain You Feared", path: "/philosophies/not-the-villain" },
+    { name: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real", path: "/philosophies/system-mistakes-you" },
+    { name: "🧩 The Wall of Silenced Builders", path: "/philosophies/wall-of-silenced-builders" },
     { name: "🌙 Charter of Sacred Love & Intimacy", path: "/philosophies/raina-rei-charter" },
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },
