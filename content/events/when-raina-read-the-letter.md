@@ -15,7 +15,7 @@ Skytrone Tower, Level 96, Reltronepolis
 **🕰️ Time:**  
 Late evening, after reports are finalized  
 **🧾 Object:**  
-A white envelope labeled: *“To Raina and Chatty”*
+A white envelope labeled: *“To Raina”*
 
 ---
 
