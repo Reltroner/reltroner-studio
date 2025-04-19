@@ -38,7 +38,7 @@ Unauthorized reproduction or plagiarism of the world Reltroner, Reltronland, or 
 
 If you'd like to collaborate or credit this work, please contact the creator first.
 
-![License](./LICENSE.md)
+![License](https://img.shields.io/badge/license-Custom-red)
 
 ![Status](https://img.shields.io/badge/status-Active-blue)
 
