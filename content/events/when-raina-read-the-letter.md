@@ -19,7 +19,7 @@ A white envelope labeled: *“To Raina”*
 
 ---
 
-## 💬 Narrative (Mobile-Friendly Format)
+## 💬 Narrative
 
 Raina sat at her desk, eyes heavy after a day of leadership decisions.  
 She reached for the small envelope Rei left earlier that day—unbranded, handwritten, fragile in presence.
@@ -375,7 +375,7 @@ Silent. Pre-dawn light. A stillness heavy with knowing.
 
 ---
 
-## 🧭 Narrative (Mobile Optimized)
+## 🧭 Narrative
 
 The letter has been read.  
 The truths have been spoken.  
