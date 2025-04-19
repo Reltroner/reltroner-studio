@@ -75,7 +75,7 @@ export default function CommandPalette() {
     { name: "Politics", path: "/blog/politics" },
     { name: "Redpill Abyssborn", path: "/blog/redpill-abyssborn" },
     { name: "Rei Reltroner Identity", path: "/blog/rei-reltroner-identity" },
-    { name: "Rei Super Smash", path: "/blog/rei-super-smash" },
+    { name: "What if Rei Reltroner Joins Super Smash Bros. Ultimate?", path: "/blog/rei-super-smash" },
     { name: "Rei Joker Friend", path: "/blog/rei-joker-friend" },
     { name: "Reltroner Hub", path: "/blog/reltroner-hub" },
     { name: "Reltroner Joker", path: "/blog/reltroner-joker" },
