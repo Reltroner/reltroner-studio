@@ -91,6 +91,7 @@ export default function CommandPalette() {
     { name: "Debugging Victory Abyss", path: "/blog/debugging-victory-abyss" },
     { name: "For Recruiters & Collaborators – Notion CV", path: "/blog/reltroner-cv" },
     { name: "Personal Certificate of Trustworthy AI User", path: "/blog/certificate-trustworthy-user" },
+    { name: "🔍 Comparison of Sacred Unions: Rei & Raina vs Pop Culture Lovers", path: "/blog/sacred-unions-comparison" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

@@ -22,9 +22,8 @@ const philosophies = [
     date: "2025-04-19",
     author: "Rei Reltroner",
     image: "/images/raina-rei-charter.png"
-  }
-  
-  
+  },
+ 
 ];
 
 export default function Philosophies() {
