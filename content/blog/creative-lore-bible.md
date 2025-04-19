@@ -247,12 +247,7 @@ Let Astralis light the unknown.
 ---
 
 🔙 Back to [Home](https://www.reltroner.com/)
-<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-
-<a href="/files/creative-lore-bible.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
-📄 Download PDF Version
-</a>
-
-</div>
 
 ➡️ To [External Creator Handbook](https://www.reltroner.com/blog/external-creator-handbook)
+
+[🗎 Download Creative Lore Bible PDF](/files/creative-lore-bible.pdf)

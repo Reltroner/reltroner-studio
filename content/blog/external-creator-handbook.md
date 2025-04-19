@@ -89,12 +89,7 @@ We believe in creators who fight illusion with clarity, and fiction with purpose
 ---
 
 🔙 Back to [Blog](https://www.reltroner.com/blog)
-<div style="margin-top: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-
-<a href="/files/external-creator-handbook.pdf" style="padding: 0.75rem 1.5rem; background-color: #4A90E2; color: white; text-decoration: none; border-radius: 8px;" target="_blank">
-📄 Download PDF Version
-</a>
-
-</div>
 
 ➡️ To [Creative Lore Bible](https://www.reltroner.com/blog/creative-lore-bible)
+
+[🗎 Download External Creator Handbook PDF](/files/external-creator-handbook.pdf)

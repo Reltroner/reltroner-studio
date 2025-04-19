@@ -46,7 +46,7 @@ export default function CommandPalette() {
     { name: "Technologies", path: "/technologies" },
     { name: "Laws", path: "/laws" },
     { name: "Contact", path: "/contact" },
-    { name: "Portfolio", path: "/blog/for-recruiters" },
+    { name: "For Recruiters & Collaborators Portfolio", path: "/blog/for-recruiters" },
     { name: "Principles", path: "/principles" },
     { name: "Disclaimer", path: "/blog/disclaimer" },
     { name: "2v3 Reltroner Joker", path: "/blog/2v3-reltroner-joker" },
@@ -66,7 +66,6 @@ export default function CommandPalette() {
     { name: "External Creator Handbook", path: "/blog/external-creator-handbook" },
     { name: "Fullstack Interview Summary", path: "/blog/fullstack-interview-summary" },
     { name: "GPTPlus", path: "/blog/gptplus" },
-    { name: "Legal Disclaimer", path: "/blog/legal-disclaimer" },
     { name: "Grandmaster Lorebook of Asthortera — Collector’s Compendium", path: "/blog/lorebook-asthortera" },
     { name: "Magic System", path: "/blog/magic-system" },
     { name: "Manifesto Leadership", path: "/blog/manifesto-leadership" },
@@ -94,6 +93,7 @@ export default function CommandPalette() {
     { name: "🔍 Comparison of Sacred Unions: Rei & Raina vs Pop Culture Lovers", path: "/blog/sacred-unions-comparison" },
     { name: "Why Rei Reltroner is the Astral Brother of Professor Sergio", path: "/blog/rei-vs-professor-sergio" },
     { name: "🃏 Why Rei Reltroner is the Real-World Persona of Joker", path: "/blog/rei-as-joker-persona" },
+    { name: "📘 Reltroner 50-Day Journal", path: "/blog/reltroner-50-day-journal" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
