@@ -1,30 +1,14 @@
-import fs from "fs";
-import path from "path";
-import matter from "gray-matter";
+//app\characters\[slug]\page.jsx
 import { notFound } from "next/navigation";
-import { remark } from "remark";
-import html from "remark-html";
 import Heading from "@/components/Heading";
+import { getCharacter } from "@/lib/getCharacter";
 
 export async function generateMetadata({ params }) {
+  // await params before you destructure, because params is a proxy
   const { slug } = await params;
   const { data } = await getCharacter(slug);
   if (!data) return notFound();
-  return {
-    title: data.title,
-    description: data.description,
-  };
-}
-
-async function getCharacter(slug) {
-  const filePath = path.join(process.cwd(), "content/characters", `${slug}.md`);
-  if (!fs.existsSync(filePath)) return { data: null, contentHtml: null };
-
-  const fileContent = fs.readFileSync(filePath, "utf8");
-  const { data, content } = matter(fileContent);
-  const processedContent = await remark().use(html).process(content);
-  const contentHtml = processedContent.toString();
-  return { data, contentHtml };
+  return { title: data.name, description: data.description };
 }
 
 export default async function CharacterPage({ params }) {
@@ -40,7 +24,9 @@ export default async function CharacterPage({ params }) {
         alt={data.name}
         className="w-full max-h-[400px] object-contain mx-auto"
       />
-      <p className="text-gray-700 text-lg font-semibold italic mb-2">{data.role}</p>
+      <p className="text-gray-700 text-lg font-semibold italic mb-2">
+        {data.role}
+      </p>
       <p className="text-gray-600 mb-4">{data.description}</p>
       {data.quote && (
         <blockquote className="border-l-4 border-blue-600 pl-4 italic text-gray-800 mb-4">

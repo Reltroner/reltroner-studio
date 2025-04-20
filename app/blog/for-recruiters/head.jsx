@@ -10,19 +10,37 @@ export default async function Head() {
   const url = "https://www.reltroner.com/blog/for-recruiters";
 
   return (
-    <>
-      <title>{title} | Reltroner Studio</title>
-      <meta name="description" content={description} />
-      <meta property="og:title" content={title} />
-      <meta property="og:description" content={description} />
-      <meta property="og:image" content={`https://www.reltroner.com${image}`} />
-      <meta property="og:url" content={url} />
-      <meta property="og:type" content="article" />
-      <meta property="og:site_name" content="Reltroner Studio" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:description" content={description} />
-      <meta name="twitter:image" content={`https://www.reltroner.com${image}`} />
-    </>
+      <>
+        <title>{title} | Reltroner Studio</title>
+        <meta name="description" content={description} />
+        <link rel="canonical" href={url} />
+        <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta httpEquiv="Content-Language" content="en" />
+        <meta name="description" content={description} />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={`https://www.reltroner.com${image}`} />
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="article" />
+        <meta property="og:site_name" content="Reltroner Studio" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={`https://www.reltroner.com${image}`} />
+
+        {/* OpenGraph */}
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={`https://www.reltroner.com${image}`} />
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="article" />
+        <meta property="og:site_name" content="Reltroner Studio" />
+
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={`https://www.reltroner.com${image}`} />
+      </>
   );
 }

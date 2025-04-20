@@ -4,6 +4,7 @@ import { roboto } from "./fonts";
 import MobileNavbar from "@/components/MobileNavbar";
 import CommandPalette from "@/components/CommandPalette";
 import GoogleAnalytics from "@/components/GoogleAnalytics"; // <- New
+import { getBlogPost } from "@/lib/getBlogPost";
 
 export const metadata = {
   title: {

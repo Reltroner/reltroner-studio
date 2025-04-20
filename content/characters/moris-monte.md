@@ -1,9 +1,11 @@
 ---
 title: "Moris Monte"
-slug: "moris-monte"
+role: "Puzzle Seeker"
+description: "A nostalgic puzzle seeker from Cenrestier who believes the locked Level 9 from his childhood game still exists somewhere in the real world. Moris now lives in the castle-laden outskirts of Citadeladia, searching for memories lost in time."
 date: "2025-04-17"
+author: "Reltroner Studio"
+published: true
 image: "/images/moris-monte.png"
-tags: ["Cenrestier", "Citadeladia", "Memory Series", "Castle Lore"]
 ---
 
 # 🧩 Moris Monte  
