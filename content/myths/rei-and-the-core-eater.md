@@ -91,7 +91,7 @@ It wasn’t a hand waiting to grab. It was a **mouth that chose not to chew yet.
 
 He watched in horror as the glowing spiral flickered — every line of it bending ever so slightly toward the center, as if surrendering. And above it, the blackened claw remained still… respectful… patient.
 
-> "This is the Core-Eater," Rei whispered.
+> 'This is the Core-Eater,' Rei whispered.
 
 Kamila had never mentioned this. Not even in her cruelest metaphors.
 

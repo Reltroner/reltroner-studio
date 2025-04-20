@@ -54,6 +54,15 @@ This isn't a ghost story. It's the story of slowly forgetting who you are, until
 
 ---
 
+## 🏛️ Notable Abyss Structures
+
+### 🔻 **The Feeding Stair**
+A deceptive structure resembling a spiral staircase. Often mistaken as a descent path, it contracts and pulsates like a living throat. Many wanderers lose themselves here, believing they are walking into revelation—when in truth, they are being consumed.
+
+> "The Feeding Stair does not lead you down. It lures you in."
+
+---
+
 ## ✨ Recovery Protocol (Astralis Method)
 
 **Light Memory Ritual**  

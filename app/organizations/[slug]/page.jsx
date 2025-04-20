@@ -1,10 +1,6 @@
-import fs from "fs";
-import path from "path";
-import matter from "gray-matter";
 import { notFound } from "next/navigation";
-import { remark } from "remark";
-import html from "remark-html";
 import Heading from "@/components/Heading";
+import { getOrganization } from "@/lib/getOrganization";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
@@ -14,17 +10,6 @@ export async function generateMetadata({ params }) {
     title: data.title,
     description: data.description,
   };
-}
-
-async function getOrganization(slug) {
-  const filePath = path.join(process.cwd(), "content/organizations", `${slug}.md`);
-  if (!fs.existsSync(filePath)) return { data: null, contentHtml: null };
-
-  const fileContent = fs.readFileSync(filePath, "utf8");
-  const { data, content } = matter(fileContent);
-  const processedContent = await remark().use(html).process(content);
-  const contentHtml = processedContent.toString();
-  return { data, contentHtml };
 }
 
 export default async function OrganizationPage({ params }) {

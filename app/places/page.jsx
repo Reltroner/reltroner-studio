@@ -46,7 +46,7 @@ const places = [
     author: "Rei Reltroner",
     slug: "dark-abyss",
     date: "2025-04-05",
-    image: "/images/dark-abyss.png"
+    image: "/images/abyss-heart.png"
   },
   {
     title: "Eterna Ruin",
