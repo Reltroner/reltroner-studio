@@ -131,10 +131,12 @@ export default function CommandPalette() {
     { name: "Rei in Abyss: Spiral Memory", path: "/events/rei-in-abyss-spiral-memory" },
     { name: "Rei Shows Earth to Raina", path: "/events/rei-shows-earth" },
     //Myths
+    { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
     { name: "Reltroner’s Zero Day", path: "/myths/reltroners-zero-day" },
     { name: "The 5 Awakening Signals", path: "/myths/five-awakening-signals" },
     { name: "The Silent Mouthpiece", path: "/myths/silent-mouthpiece" },
+    { name: "The Spiral That Wasn't a Stair (Core-Eater)", path: "/myths/rei-and-the-core-eater" },
     // Organizations
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },

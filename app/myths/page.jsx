@@ -7,6 +7,15 @@ export const metadata = {
 
 const myths = [
   {
+    title: "🌀 Abyssal Possession (Spiral Inhabitation)",
+    description: "A wiki guide to understanding Nytherion Abyss's psychological and spiritual possession mechanism.",
+    slug: "abyssal-possession",
+    image: "/images/abyssal-possession.png",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-20"
+  },
+  {
     title: "The Abyss Whisper",
     description: "An ancient, untraceable myth said to be the first audible distortion that birthed the Nytherion Abyss — not heard, but felt through doubt, nostalgia, and stillness.",
     slug: "abyss-whisper",
@@ -42,6 +51,15 @@ const myths = [
     published: true,
     date: "2025-04-11"
   },
+  {
+    title: "🌀 The Spiral That Wasn't a Stair",
+    description: "Two scenes from Rei's confrontation with Nytherion Abyss: when the stair revealed itself, and when he stood before the Core-Eater.",
+    slug: "rei-and-the-core-eater",
+    image: "/images/rei-and-the-core-eater.png",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-20"
+  }
 ];
 
 export default function Myths() {

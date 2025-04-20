@@ -1,3 +1,11 @@
+---
+title: "🌀 The Spiral That Wasn't a Stair"
+slug: "rei-and-the-core-eater"
+date: "2025-04-20"
+description: "Two scenes from Rei's confrontation with Nytherion Abyss: when the stair revealed itself, and when he stood before the Core-Eater."
+image: "/images/rei-and-the-core-eater.png"
+---
+
 # The Moment Rei Realized the Stair Was Not a Stair
 
 It was supposed to be just another spiral — one of many that defined the lower structure of the Abyss Core. Rei had descended dozens of these paths before: rusted, silent, geometrically perfect.

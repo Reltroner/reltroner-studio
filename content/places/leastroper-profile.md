@@ -13,14 +13,14 @@ published: true
 ---
 
 ### 🏞️ Overview
-**Leastroper** is a unique province located in the northeastern region of **Reltronland**, directly bordering the glittering kingdom of **Krisberia**. Known for its peaceful spirit, low-security presence, and cultural refinement, Leastroper stands as a beacon of diplomacy, elegance, and restrained strength.
+**Leastroper** is a unique province located in the Eastern region of **Reltronland**, directly bordering the glittering kingdom of **Krisberia**. Known for its peaceful spirit, low-security presence, and cultural refinement, Leastroper stands as a beacon of diplomacy, elegance, and restrained strength.
 
 > *“Where clarity meets grace, no weapon is needed.”*
 
 ---
 
 ### 📍 Geopolitical Position
-- **Location:** Northeastern Reltronland
+- **Location:** Eastern Reltronland
 - **Borders:**
   - East: **Krisberia** (Kingdom of Eternal Jewels)
   - West: **Reltralia** (Reltronland's Capital)
