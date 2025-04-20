@@ -201,6 +201,7 @@ export default function CommandPalette() {
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
     { name: "The Death of Feudalism: Astralis Principle 07", path: "/principles/death-of-feudalism" },
     { name: "Code of Ethics: Zero Tolerance for Sexual Content", path: "/principles/anti-sexual-content" },
+    { name: "📘 YouTubers Have Channels, I Have a Civilization", path: "/principles/youtubers-have-civilization" },
 
   ];
 

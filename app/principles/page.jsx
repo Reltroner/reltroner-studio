@@ -31,6 +31,15 @@ const principles = [
     date: "2025-04-18",
     published: true,
     image: "/images/anti-sexual-content.png"
+  },
+  {
+    title: "📘 YouTubers Have Channels, I Have a Civilization",
+    description: "A powerful reflection from Rei Reltroner on the philosophical and structural difference between posting for visibility and building for legacy. While others create for reach, he constructs a world that lives beyond algorithms — a civilization in motion.",
+    slug: "youtubers-have-civilization",
+    author: "Rei Reltroner",
+    date: "2025-04-20",
+    published: true,
+    image: "/images/youtubers-have-civilization.png"
   }
   
   // Tambahkan lebih banyak principle di masa depan...

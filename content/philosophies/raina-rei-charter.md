@@ -119,7 +119,6 @@ And afterward, we dry our own bodies—not from shame, but from respect.
 **In our intimacy,** there is no leader, no follower.  
 No obligations. No routines.  
 Only two humans fully present for each other.
-
 We never “do it alone.”  
 Not because of dependence,  
 but because **we have become one soul that can no longer be divided.**
