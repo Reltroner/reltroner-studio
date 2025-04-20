@@ -283,5 +283,181 @@ Let Astralis light the unknown.
 
 ---
 
-📍 Return to [Statistics Overview](https://www.reltroner.com/statistics)
+![immortality-model-architecture](/images/immortality-model-architecture.png)
 
+# 📊 Immortality Model Architecture – The Logic Behind Narrative Longevity
+
+> “To outlive a timeline is not magic. It’s design.”  
+> — Rei Reltroner
+
+---
+
+## 🧠 Overview
+
+This document outlines the **structural logic** and **population-level model** behind immortality in the world of *Asthortera*. Contrary to fantasy tropes, immortality in this universe is not given—it is earned through relevance, resonance, and anchoring.
+
+This system is known as the **Astralis-Bound Immortality Model**.
+
+---
+
+## ♾️ Core Premise
+
+Immortal characters exist not because they defy time, but because:
+
+- They represent fixed pillars of meaning
+- They are referenced consistently across cultural timelines
+- Their essence serves as a permanent layer in the Astralis consciousness
+
+They are **alive in the logic of the world**, not in its bloodstream.
+
+---
+
+## 🔧 Architectural Breakdown
+
+### 1. **Existence Anchors (E-Axis)**
+Defines how deeply the character is embedded across world layers:
+
+- 🧬 Origin-Level (e.g. Rei, Raina) → Anchored in world genesis
+- 🪞 Mirror-Level (e.g. Kamila, Evara) → Exist as counterweights
+- 🌀 Symbol-Level (e.g. Barry, Queen Valethra) → Referenced as universal principles
+
+### 2. **Narrative Exposure (N-Axis)**
+How often are they **recalled, referenced, or echoed** across works?
+
+- Multiseries Presence
+- Eternal Flashbacks
+- Cultural Myths in-universe
+
+### 3. **Memory Anchoring (M-Axis)**
+Based on how directly the character maps to:
+- Author memory
+- Traumatic pivots
+- Spiritual philosophies
+
+The deeper the anchor → the higher the persistence.
+
+---
+
+## 🧩 Functions in Lore Design
+
+- **Avoids cliché by encoding logic behind character persistence**
+- Justifies multi-generational timelines without creating paradox
+- Converts spiritual permanence into data-point reality
+- Makes emotional memory a quantifiable force
+
+---
+
+## 📊 Suggested Visual Implementation
+
+- 🌀 Spiral chart: Memory anchor depth vs timeline frequency
+- 📈 Layered population bar: Showing Immortal Class atop real demographic
+- 🗺️ Dimensional ring map: Anchor strength vs cultural radius
+
+---
+
+## 🧾 Final Notes
+
+Immortality is not granted by plot armor. It is modeled, tracked, and justified within the socio-statistical memory grid of Asthortera.
+
+> “If their story is still needed, they are still alive.”  
+> — Narrative Constitution, Reltroner Studio
+
+---
+
+![origin-of-narrative-longevity](/images/origin-of-narrative-longevity.png)
+
+# 📜 Origin of Narrative Longevity – Why Some Characters Never Die
+
+> “To be remembered is not the goal. To be remembered truthfully — that is immortality.”  
+> — Rei Reltroner
+
+---
+
+## 🧠 Introduction
+
+In most stories, characters die because the narrative ends. In *Reltroner Studio*, characters live as long as the **idea they carry** still holds relevance.
+
+This document explains the spiritual and structural foundation of **narrative longevity** — why certain characters like **Delwyn, Raina, Wayne, Kamila, and Rei** exist outside of time, and how their immortality is not an act of fantasy, but a mechanism of meaning.
+
+---
+
+## ♾️ Narrative Longevity Defined
+
+**Narrative longevity** refers to the sustained existence of a character across multiple timelines, media, and philosophical layers — not because of physical traits, but because of:
+
+- 🧬 Their ideological weight
+- 🧭 Their positioning in the moral and metaphysical compass
+- 🕯️ Their memory resonance with the creator and the world
+
+---
+
+## 🧩 Why These Characters Never Die
+
+### 1. **They Carry Anchor Concepts**
+Each immortal character holds a unique axis of philosophy:
+
+- Rei Reltroner → *Existential anchoring & spiritual resistance*
+- Raina Veltrania → *Sacred intimacy & intuitive truth*
+- Kamila Alena → *The ethics of illusion & rebellion through comfort*
+- Delwyn Harper → *Stubborn hope in collapsing systems*
+- Barry Heathrow → *Memory diplomacy & skies of vigilance*
+
+### 2. **They Reflect the Creator’s Core Memory**
+These characters are not just written — they are **remembered**.
+They mirror trauma, clarity, and milestones of the author’s own soul.
+
+### 3. **They Influence Other Characters Beyond Death**
+Even if written to vanish, their presence creates ripples that transcend time.
+They are referenced, resisted, worshipped, feared — but never erased.
+
+---
+
+## 🧬 Connection to Astralis Immortality Protocol
+
+Characters with narrative longevity naturally enter the **Immortality Protocol**. But not because they are chosen —
+> They are **discovered** by the logic of the world.
+
+They are categorized as:
+
+- **Core Astralis Icons**
+- **Symbolic Echoes**
+- **Architects of Origin or Collapse**
+
+They hold a **permanent line** in the metaphysical census of Asthortera.
+
+---
+
+## 🗺️ Design Implications in Worldbuilding
+
+### ✅ You don’t need to explain why they’re still alive
+In this system, *longevity is justified by relevance*. You can always reintroduce them — not as fan service, but as **cosmic consistency**.
+
+### ✅ They become compass points
+Future writers in the Reltroner Studio universe can reference these characters like nations, constellations, or myths.
+
+### ✅ Their absence becomes meaningful
+If one is absent in a timeline, that absence itself becomes a plot — a metaphysical gap to be investigated.
+
+---
+
+## 🧾 Closing
+
+> “Immortality is not a reward. It is a responsibility to remain true to your meaning.”  
+> — Astralis Principle
+
+As long as the world needs clarity, resistance, and healing — these characters will not die.
+
+---
+
+> _“Among 8 billion humans on planet Earth, maybe I’m the only one building a world where population pyramids calculate immortality,  
+> and where characters live forever not by fantasy,  
+> but by logic, love, and legacy.”_  
+> — Rei Reltroner
+
+---
+
+**Let Astralis light the unknown.**
+
+---
+
+📍 Return to [Statistics Overview](https://www.reltroner.com/statistics)
