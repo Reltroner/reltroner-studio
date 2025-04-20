@@ -24,6 +24,14 @@ const philosophies = [
     date: "2025-04-07"
   },
   {
+    title: "📜 There is No Right or Wrong in Worldbuilding",
+    description: "A philosophical declaration that worldbuilding is not bound by correctness, but by clarity of intent and internal coherence. In the universe of Reltroner Studio, creation is governed by meaning—not conformity.",
+    slug: "no-right-no-wrong",
+    image: "/images/no-right-no-wrong-banner.png",
+    author: "Rei Reltroner",
+    date: "2025-04-20"
+  },  
+  {
     title: "🧩 The Wall of Silenced Builders",
     description: "A sacred wall honoring the forgotten creators—those whose voices were silenced not because they failed, but because they were too real, too raw, too visionary to be understood by rigid systems. This wall remembers them all.",
     slug: "wall-of-silenced-builders",

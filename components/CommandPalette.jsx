@@ -168,6 +168,7 @@ export default function CommandPalette() {
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     { name: "♾️ Immortality Protocol – Astralis-Bound Entities", path: "/philosophies/immortality-protocol" },
+    { name: "📜 There is No Right or Wrong in Worldbuilding", path: "/philosophies/no-right-no-wrong" },
     { name: "📜 The Builders Who Were Misjudged", path: "/philosophies/misjudged-builders" },
     { name: "🛡️ I Am Not the Villain You Feared", path: "/philosophies/not-the-villain" },
     { name: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real", path: "/philosophies/system-mistakes-you" },
