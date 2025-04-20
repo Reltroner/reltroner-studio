@@ -1,5 +1,5 @@
 ---
-name: "Province Profile: Leastroper – A Land Beyond Conflict"
+title: "Province Profile: Leastroper – A Land Beyond Conflict"
 description: "Explore Leastroper, the demilitarized diplomatic province of Reltronland—known for its clarity, serenity, and peaceful border with the crystalline kingdom of Krisberia."
 image: "/images/leastroper-profile.png"
 author: "Rei Reltroner"

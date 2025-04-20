@@ -1,26 +1,34 @@
 import { getCharacter } from "@/lib/getCharacter";
+import { notFound } from "next/navigation";
 
 export async function generateMetadata({ params }) {
-    const { data } = await getCharacter(params.slug);
+  const { slug } = await params;
+  const { data } = await getCharacter(slug);
+  if (!data) return notFound();
 
-  if (!data) {
-    return {
-      title: "Not Found | Reltroner Studio",
-      description: "This character profile could not be located.",
-    };
-  }
-
-  const title = data.name;
+  const title = data.title;
   const description = data.description;
   const image = data.image || "/images/default-character.png";
-  const url = `https://www.reltroner.com/characters/${params.slug}`;
+  const url = `https://www.reltroner.com/characters/${slug}`;
 
   return {
     title,
     description,
-    openGraph: { /* ... */ },
-    twitter: { /* ... */ },
-    alternates: { canonical: url }
+    openGraph: {
+      title,
+      description,
+      url,
+      sitetitle: "Reltroner Studio",
+      images: [{ url: `https://www.reltroner.com${image}`, width: 1200, height: 630, alt: title }],
+      type: "article",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [`https://www.reltroner.com${image}`],
+    },
+    alternates: { canonical: url },
   };
 }
 

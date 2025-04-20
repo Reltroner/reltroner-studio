@@ -1,5 +1,5 @@
 ---
-name: "Kamila Alena"
+title: "Kamila Alena"
 role: "Leader of Henchoeway & Nytherion Abyss Architect"
 description: "The orchestrator of Nytherion’s birth, Kamila is the mind behind the world's deepest illusions."
 author: "Reltroner Studio"

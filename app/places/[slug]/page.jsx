@@ -1,10 +1,6 @@
-import fs from "fs";
-import path from "path";
-import matter from "gray-matter";
 import { notFound } from "next/navigation";
-import { remark } from "remark";
-import html from "remark-html";
 import Heading from "@/components/Heading";
+import { getPlace } from "@/lib/getPlace";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
@@ -16,17 +12,6 @@ export async function generateMetadata({ params }) {
   };
 }
 
-async function getPlace(slug) {
-  const filePath = path.join(process.cwd(), "content/places", `${slug}.md`);
-  if (!fs.existsSync(filePath)) return { data: null, contentHtml: null };
-
-  const fileContent = fs.readFileSync(filePath, "utf8");
-  const { data, content } = matter(fileContent);
-  const processedContent = await remark().use(html).process(content);
-  const contentHtml = processedContent.toString();
-  return { data, contentHtml };
-}
-
 export default async function PlacePage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getPlace(slug);
@@ -34,10 +19,10 @@ export default async function PlacePage({ params }) {
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
-      <Heading>{data.name}</Heading>
+      <Heading>{data.title}</Heading>
       <img
         src={data.image}
-        alt={data.name}
+        alt={data.title}
         className="w-full max-h-[400px] object-contain mx-auto"
       />
       <p className="text-gray-700 text-lg font-semibold italic mb-2">{data.role}</p>

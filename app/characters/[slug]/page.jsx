@@ -8,7 +8,7 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const { data } = await getCharacter(slug);
   if (!data) return notFound();
-  return { title: data.name, description: data.description };
+  return { title: data.title, description: data.description };
 }
 
 export default async function CharacterPage({ params }) {
@@ -18,10 +18,10 @@ export default async function CharacterPage({ params }) {
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
-      <Heading>{data.name}</Heading>
+      <Heading>{data.title}</Heading>
       <img
         src={data.image}
-        alt={data.name}
+        alt={data.title}
         className="w-full max-h-[400px] object-contain mx-auto"
       />
       <p className="text-gray-700 text-lg font-semibold italic mb-2">

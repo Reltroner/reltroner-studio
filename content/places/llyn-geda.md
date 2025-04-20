@@ -1,5 +1,5 @@
 ---
-name: "Llyn Geda"
+title: "Llyn Geda"
 type: "Landmark - Sacred Lake"
 location: "Eastern edge of Whispergrove Forest, East Scotpaders, Stelpadland, Planet Asthortera"
 image: "/images/llyn-geda.png"

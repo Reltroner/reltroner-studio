@@ -1,4 +1,3 @@
-import Heading from "@/components/Heading"
 
 export default function CharacterLayout({ children }) {
     return (

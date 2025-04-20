@@ -1,5 +1,5 @@
 ---
-name: "Why Aurastelia is the Most Beautiful Realm"
+title: "Why Aurastelia is the Most Beautiful Realm"
 slug: "why-aurastelia-is-the-most-beautiful-realm"
 description: "Beyond visual splendor, Aurastelia offers a living resonance of balance, light, and inner clarity — unmatched across any fictional universe."
 image: "/images/aurastelia-most-beautiful-realm-banner.png"

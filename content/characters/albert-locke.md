@@ -1,5 +1,5 @@
 ---
-name: "Albert Locke"
+title: "Albert Locke"
 role: "Senior Astronomer & Cosmic Systems Analyst"
 description: "A scientific bridge between logic and the unknown, Albert Locke tracks cosmic phenomena that shape technology and destiny in Asthortera."
 author: "Reltroner Studio"

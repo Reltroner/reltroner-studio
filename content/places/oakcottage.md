@@ -1,5 +1,5 @@
 ---
-name: "Oakcottage Headquarters"
+title: "Oakcottage Headquarters"
 type: "Institution"
 location: "Whispergrove Forest, East Scotpaders, Stelpadland, Planet Asthortera"
 image: "/images/oakcottage-hq.png"

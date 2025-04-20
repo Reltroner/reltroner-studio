@@ -11,7 +11,7 @@ export default function PlacesClient({ places }) {
     const q = searchQuery.toLowerCase();
     return places.filter(
       (place) =>
-        place.name?.toLowerCase().includes(q) ||
+        place.title?.toLowerCase().includes(q) ||
         place.description?.toLowerCase().includes(q) ||
         place.slug?.toLowerCase().includes(q) ||
         place.location?.toLowerCase().includes(q) ||
@@ -52,12 +52,12 @@ export default function PlacesClient({ places }) {
               <div className="flex flex-col justify-between h-full border rounded-lg shadow-md overflow-hidden hover:shadow-lg hover:scale-105 transition duration-300 min-h-[300px]">
                 <img
                   src={place.image}
-                  alt={place.name}
+                  alt={place.title}
                   className="w-full max-h-[400px] object-contain mx-auto"
                 />
                 <div className="p-4 flex flex-col flex-grow">
                   <h2 className="text-xl font-bold mb-1 group-hover:text-blue-600 transition-colors">
-                    {place.name}
+                    {place.title}
                   </h2>
                   {place.type && (
                     <p className="text-sm font-semibold text-gray-700 italic mb-1">

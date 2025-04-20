@@ -1,5 +1,5 @@
 ---
-name: "Barry Heathrow"
+title: "Barry Heathrow"
 role: "Senior Flight Attendant & Covert Aviation Operative"
 description: "An unassuming steward turned critical operative in Asthortera’s shadow war for airspace."
 author: "Reltroner Studio"

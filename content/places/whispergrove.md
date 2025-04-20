@@ -1,5 +1,5 @@
 ---
-name: "Whispergrove Forest"
+title: "Whispergrove Forest"
 type: "Region - Sacred Forest"
 location: "East Scotpaders, Stelpadland, Planet Asthortera"
 image: "/images/whispergrove.png"

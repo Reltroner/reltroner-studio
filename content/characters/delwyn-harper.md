@@ -1,5 +1,5 @@
 ---
-name: "Delwyn Harper"
+title: "Delwyn Harper"
 role: "Bounty Hunter & Abyss Survivor"
 description: "A haunted seeker of truth, Delwyn walks through the colorful illusions of Pencilfania to reveal the shadows beneath."
 author: "Reltroner Studio"

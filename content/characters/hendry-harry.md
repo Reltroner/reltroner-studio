@@ -1,5 +1,5 @@
 ---
-name: "Hendry Harry"
+title: "Hendry Harry"
 role: "Covert Analyst & Morale Anchor of The Flightless Pact"
 description: "A grounded soul in a world of turbulence — Hendry works behind the scenes to keep the resistance human."
 slug: "hendry-harry"

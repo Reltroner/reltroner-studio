@@ -6,6 +6,7 @@ date: "2025-04-17"
 author: "Reltroner Studio"
 published: true
 image: "/images/moris-monte.png"
+tags: ["Cenrestier", "Citadeladia", "Memory Series", "Castle Lore"]
 ---
 
 # 🧩 Moris Monte  

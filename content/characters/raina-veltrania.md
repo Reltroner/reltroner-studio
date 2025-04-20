@@ -1,5 +1,5 @@
 ---
-name: "Raina Veltrania"
+title: "Raina Veltrania"
 role: "Human Capital Development Manager, Skytrone"
 description: "A sharp and composed leader in Reltronland’s most influential innovation company, Raina stands at the intersection of idealism, professionalism, and silent resistance."
 author: "Reltroner Studio"

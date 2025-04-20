@@ -1,5 +1,5 @@
 ---
-name: "Evara Alena"
+title: "Evara Alena"
 role: "Kamila Alena’s Daughter"
 description: "A perceptive and intuitive presence who senses the echoes of Astralis and the void of Nytherion despite her youth."
 author: "Reltroner Studio"

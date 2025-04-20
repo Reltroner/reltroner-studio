@@ -7,7 +7,7 @@ export const metadata = {
 
 const places = [
   {
-    name: "Whispergrove Forest",
+    title: "Whispergrove Forest",
     type: "Region - Sacred Forest",
     location: "East Scotpaders, Stelpadland",
     slug: "whispergrove",
@@ -18,7 +18,7 @@ const places = [
     quote: "The forest sings what the world is too loud to hear."
   },
   {
-    name: "Llyn Geda",
+    title: "Llyn Geda",
     type: "Landmark - Sacred Lake",
     location: "Eastern edge of Whispergrove Forest, East Scotpaders, Stelpadland",
     slug: "llyn-geda",
@@ -28,7 +28,7 @@ const places = [
     quote: "Still water holds the loudest grief."
   },
   {
-    name: "Oakcottage Headquarters",
+    title: "Oakcottage Headquarters",
     type: "Institution",
     location: "Whispergrove Forest, East Scotpaders, Stelpadland",
     slug: "oakcottage",
@@ -39,7 +39,7 @@ const places = [
     quote: "We remember even what the world forgets."
   },
   {
-    name: "Heart of the Abyss",
+    title: "Heart of the Abyss",
     type: "Dimension",
     location: "Nytherion Abyss",
     description: "An artistic depiction of the deepest and most cursed core within the Nytherion Abyss, where time, memory, and self fracture into darkness.",
@@ -49,7 +49,7 @@ const places = [
     image: "/images/dark-abyss.png"
   },
   {
-    name: "Eterna Ruin",
+    title: "Eterna Ruin",
     description: "The next serie as the protagonists arrive at the true location of the Nytherion Abyss portal, filled with mystery and spiritual tension.",
     author: "Rei Reltroner",
     slug: "eterna-ruin",
@@ -57,7 +57,7 @@ const places = [
     date: "2025-04-04"
   },
   {
-    name: "Province Profile: Leastroper – A Land Beyond Conflict",
+    title: "Province Profile: Leastroper – A Land Beyond Conflict",
     description: "Explore Leastroper, the demilitarized diplomatic province of Reltronland—known for its clarity, serenity, and peaceful border with the crystalline kingdom of Krisberia.",
     slug: "leastroper-profile",
     image: "/images/leastroper-profile.png",
@@ -66,7 +66,7 @@ const places = [
     published: true
   },
   {
-    name: "Why Aurastelia is the Most Beautiful Realm",
+    title: "Why Aurastelia is the Most Beautiful Realm",
     description: "Beyond visual splendor, Aurastelia offers a living resonance of balance, light, and inner clarity — unmatched across any fictional universe.",
     slug: "why-aurastelia-is-the-most-beautiful-realm",
     image: "/images/aurastelia-most-beautiful-realm-banner.png",
@@ -75,7 +75,7 @@ const places = [
     published: true
   },
   {
-    name: "The Safe House Pact",
+    title: "The Safe House Pact",
     description: "A secret meeting near the border of Leastroper reveals the first spiritual operation to stop Gandia’s Nytherion infiltration in Skytrone.",
     slug: "the-safe-house-pact",
     image: "/images/the-safe-house-pact.png",

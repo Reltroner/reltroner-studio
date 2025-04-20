@@ -1,5 +1,5 @@
 ---
-name: "Queen Valethra Seraphine Lunara"
+title: "Queen Valethra Seraphine Lunara"
 role: "Spiritual Leader of Aurastelia"
 author: "Reltroner Studio"
 date: "March 29, 2025"

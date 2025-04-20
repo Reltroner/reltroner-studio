@@ -1,5 +1,5 @@
 ---
-name: "Heart of the Abyss"
+title: "Heart of the Abyss"
 type: "Dimension"
 location: "Nytherion Abyss"
 description: "An artistic depiction of the deepest and most cursed core within the Nytherion Abyss, where time, memory, and self fracture into darkness."

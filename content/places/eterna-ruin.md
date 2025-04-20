@@ -1,5 +1,5 @@
 ---
-name: "Eterna Ruin"
+title: "Eterna Ruin"
 description: "The next chapter as the protagonists arrive at the true location of the Nytherion Abyss portal, filled with mystery and spiritual tension."
 author: "Rei Reltroner"
 image: "/images/eterna-ruin.png"

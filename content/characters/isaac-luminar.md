@@ -1,5 +1,5 @@
 ---
-name: "Isaac Luminar"
+title: "Isaac Luminar"
 role: "Lighting Engineer & Aurora Gateway Architect"
 description: "A master of light trapped in a city of illusions, Isaac exposes the dark mechanisms behind the brilliance of Lenternow."
 author: "Reltroner Studio"
