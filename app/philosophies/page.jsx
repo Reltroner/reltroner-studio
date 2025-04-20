@@ -16,6 +16,14 @@ const philosophies = [
     date: "2025-04-10"
   },
   {
+    title: "♾️ Immortality Protocol – Astralis-Bound Entities",
+    description: "A philosophical and metaphysical doctrine defining why certain characters in Asthortera never die—anchored not by biology, but by belief, authorship, and the eternal flame of storytelling. This protocol explains the rare class of immortal entities whose existence mirrors the breath of their creator.",
+    slug: "immortality-protocol",
+    image: "/images/immortality-protocol.png",
+    author: "Rei Reltroner",
+    date: "2025-04-07"
+  },
+  {
     title: "🧩 The Wall of Silenced Builders",
     description: "A sacred wall honoring the forgotten creators—those whose voices were silenced not because they failed, but because they were too real, too raw, too visionary to be understood by rigid systems. This wall remembers them all.",
     slug: "wall-of-silenced-builders",

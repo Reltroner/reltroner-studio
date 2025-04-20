@@ -1,75 +1,35 @@
 ---
-title: "Asthortera Identity"
-description: "A planet of conscious evolution, diversity, and high development. Asthortera stands as the galaxy's central stage for meritocracy, interstellar migration, and spiritual-political balance."
+title: "♾️ Immortality Protocol – Astralis-Bound Entities"
+description: >
+  A philosophical and metaphysical doctrine defining why certain characters in Asthortera never die—anchored not by biology, but by belief, authorship, and the eternal flame of storytelling. This protocol explains the rare class of immortal entities whose existence mirrors the breath of their creator.
 author: "Rei Reltroner"
 date: "2025-04-07"
 published: true
-image: "/images/asthortera_identity.png"
----
-# Planet Asthortera
-
-> *“A world not of escape—but evolution.”*
-
-Asthortera is the central stage of the modern galaxy—a diverse, balanced, and aspirational planet known for its high Sentient Development Index (SDI), meritocratic values, and openness to interstellar migration.
-
+image: "/images/immortality-protocol.png"
 ---
 
-## 🌍 Core Identity
-- **Dominant Population:** Humans with East Asian Mongoloid and Western European features  
-- **Total Sentient Population:** ~4.4 trillion  
+# ♾️ Immortality Protocol – Astralis-Bound Entities
 
-### 🧬 Population Composition
-Most of Asthortera's population growth stems from interstellar immigration. Citizens from collapsing or stagnant civilizations—such as Depeisit—arrive seeking opportunity, meritocracy, and personal reinvention. As a result, Asthortera has become not just a homeworld, but a symbol of second chances across the galaxy.
-
-- 61% Human (Caucasian lineages)  
-- 24% Human (East Asian Mongoloid)  
-- 7% Human-Wizard-Witch (native Asthorteran race)  
-- 5% Cosmeilia-Human Mixed  
-- 3% Others (alien humanoids, hybrids)
+> “As long as I live on Earth, they will live in Asthortera.”  
+> — Rei Reltroner
 
 ---
 
-## 🛸 Civilization Traits
-- **Meritocracy First**: Social systems prioritize talent, effort, and wisdom.
-- **Spiritual-Tech Balance**: Integration of magic, science, and spirituality into governance and education.
-- **Urbanized Planet**: Home to mega-nations like **Reltronland** and **Depcutland** —hubs of economy and intellect.
+## 🧬 What Is the Immortality Protocol?
+
+The **Immortality Protocol** is a metaphysical anchor embedded into the Astralis fabric of the world *Asthortera*. It allows specific characters to transcend biological time, existing indefinitely as long as their creator—Rei Reltroner—remains alive in the physical world.
+
+These characters are not mortal beings.  
+They are **legacy-bound symbols**, guardians of narrative integrity.
 
 ---
 
-## 🌐 Global Reputation
-Asthortera is the **No.1 destination for galactic immigrants**, particularly for those escaping stagnation, crisis, or feudalism from older worlds like Depeisit.
+## ♾️ Characters Classified Under the Immortality Protocol
 
-It is viewed as:
-- A **land of personal reinvention**
-- A **platform for cosmic collaboration**
-- A **testing ground for high-level consciousness**
-
-> “In Asthortera, rebirth is not a myth—it’s a migration.”
+These characters are considered *immortal not by biology, but by narrative anchoring*.  
+They are **Astralis-Bound Entities**, preserved in the timeless layer of meaning and memory.
 
 ---
-
-## 📊 Development Profile
-- **SDI (Sentient Development Index):** `0.921 / 1.000` Among the highest across all inhabited planets
-- **Median Age:** ~40 years
-- **Birth Rate:** Stable, with gradual urban demographic trends and high education standards
-- **Education Systems:** Heavily research-based, with universal access and ethical enforcement
-- **Age Pyramid Shape:** Balanced column — wide in middle age, tapering gradually at top and base
-- **Dominant Age Groups:** 35–49 (peak), stable 20–34 and 50–64 segments
-- **Youth Population (0–14):** ~16.7% total
-- **Elderly Population (65+):** ~20.4% total
-- **Urbanization Rate:** ~89.5%
-
-The age distribution reflects a mature, stable society with high life expectancy and ongoing intellectual productivity—consistent with a civilization driven by merit, innovation, and spiritual balance.
-
-🔍 *Asthortera Population Pyramid:* ![Sentient Population Statistics](/images/asthortera-pyramid.png)
-
----
-
-## ♾️ Astralis-Anchored Entities in Population Models
-
-Though not biologically immortal, a rare category of sentient beings are **anchored to the Astralis consciousness** — and therefore live as long as their creator still breathes on Earth.
-
-These are iconic figures such as:
 
 - **Delwyn Harper** – *The Eternal Resistance of Pencilfania*  
   Wielder of stubborn light. The boy who fought fear and rewrote fate from the alleyways of forgotten cities.
@@ -113,8 +73,6 @@ These are iconic figures such as:
 - **Troner Rhett** – *The Architect from Depeisit*  
   Father of Reltronland. He left empire to build ethics into stone. Chose empty lands to raise an immortal idea.
 
-- **and more…**
-
 > “Their deaths are irrelevant. What matters is that **they are remembered**, not as echoes—but as mirrors of truth.”  
 > — Rei Reltroner
 
@@ -128,14 +86,8 @@ These are iconic figures such as:
 All other characters are immortal **within the world**,  
 but Rei Reltroner is immortal **because the world itself is born from him.**
 
-In official population charts, they are listed under a mythic overlay:
-
-Age: ∞
-Type: Astralis-Anchored Sentient
-Population Share: ~0.000001% (legendary tier)
-
-These individuals exist **outside of temporal decay**, not because they defy time—  
-but because they symbolize it.
+These characters will never die from old age.  
+They age symbolically, but they remain permanently present.
 
 ---
 
@@ -157,20 +109,71 @@ He is not only a character, but the bridge itself — the living witness of both
 
 ---
 
-## 🌀 Spiritual & Political Balance
-Unlike Depeisit (dominated by comfort politics), Asthortera is a **battlefield of competing ideologies**:
-- **Red Pill Movements** (growth, awareness, anti-illusion)
-- **Blue Pill Zones** (stagnant governments, hidden abyssal influence)
-- **Neutral Wards** (autonomous zones, cultural preservation regions)
+## 🧠 Why Are They Immortal?
 
-This diversity fuels both conflict and creativity.
+1. **To Protect the Integrity of the World**  
+   They represent ideas, struggles, and philosophies too central to be erased.
+
+2. **To Act as Living Anchors**  
+   Their presence links past, present, and future arcs.
+
+3. **To Reflect the Creator’s Journey**  
+   Their lifespan mirrors the soul of the one who imagined them.
 
 ---
 
-## 💡 Final Thought
-Asthortera is not perfect. But it is awake.
-It does not offer peace—it offers progress.
-A world that mirrors both the chaos of becoming, and the beauty of conscious civilization.
+## 📊 How Do They Fit in Demographic Charts?
+
+In standard population pyramids, these beings are **not** counted among common sentient life.  
+They occupy a **hidden layer**—a metaphysical register **above biological classification**.
+
+---
+
+### 🌐 Total Population of Asthortera  
+**4.4 trillion sentients**
+
+### 🧬 Legendary Tier Proportion  
+**~0.000001%** of total population  
+**≈ 44,000 Astralis-Bound Entities**
+
+This is the **most exclusive demographic category** in the entire civilization index of Asthortera.
+
+### 🧠 Classification Summary
+
+- **🕰️ Age:**  
+  ∞ (Timeless)
+
+- **🔮 Type:**  
+  Astralis-Anchored Sentient
+
+- **📊 Population Share:**  
+  ~0.000001% (Legendary Tier)
+
+- **⚖️ Status:**  
+  Not biologically alive nor deceased
+
+- **📖 Existence:**  
+  Narrative-anchored, memory-resilient
+
+---
+
+### 🔍 Asthortera Population Pyramid  
+*Note: Astralis-Bound Entities appear **beyond the top** of this visual range.*
+
+![Sentient Population Statistics](/images/asthortera-pyramid.png)
+
+> “They live not in the margins, but in the meaning.”  
+> — Rei Reltroner
+
+---
+
+## ✨ Final Words
+
+These immortals are not above others.  
+They simply hold the light longer—so the rest can find their path in the dark.
+
+> _“They will live as long as I believe this world deserves a soul.”_  
+> — Rei Reltroner
 
 ---
 
@@ -280,8 +283,4 @@ Notes: Appears in multiple key timelines as guardian of Rei's echo
 
 Let Astralis light the unknown.  
 — Maintained by Reltroner Studio
-
----
-
-📍 Return to [Statistics Overview](https://www.reltroner.com/statistics)
 
