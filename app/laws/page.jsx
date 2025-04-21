@@ -68,6 +68,15 @@ const laws = [
     author: "Rei Reltroner",
     date: "2025-04-17",
     published: true
+  },
+  {
+    title: "🛡️ Reltronland Tobacco Regulation Act",
+    description: "A comprehensive legal act from Reltronland enforcing strict tobacco control through economic barriers, spatial limitations, and high civil penalties — upholding a national standard of clean air and disciplined living.",
+    slug: "reltronland-tobacco-regulation",
+    image: "/images/reltronland-tobacco-regulation.png",
+    author: "Rei Reltroner",
+    date: "2025-04-18",
+    published: true
   }
   // Tambahkan lebih banyak Law di masa depan...
 ];

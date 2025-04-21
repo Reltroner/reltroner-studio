@@ -199,6 +199,7 @@ export default function CommandPalette() {
     { name: "The Origin of Absolute Law: From Depeisit Collapse to Reltronland Ascension", path: "/laws/anti-corruption-origin" },
     { name: "Core Constitution of Reltronland", path: "/laws/reltronland-core-constitution" },
     { name: "Aurastelia Governance Model", path: "/laws/aurastelia-governance-model" },
+    { name: "🛡️ Reltronland Tobacco Regulation Act", path: "/laws/reltronland-tobacco-regulation" },
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },
