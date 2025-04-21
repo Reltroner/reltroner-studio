@@ -10,7 +10,7 @@ const posts = [
     title: "World Building Basics",
     description: "Exploring the fundamentals of world-building for creative writing.",
     slug: "worldbuilding",
-    image: "/images/WorldBuilding.jpg"
+    image: "/images/WorldBuilding.webp"
   },
   {
     title: "Magic System: Astralis vs Nytherion",
