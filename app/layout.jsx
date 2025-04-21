@@ -31,6 +31,7 @@ export default function Layout({ children }) {
   return (
     <html lang="en" className={roboto.variable}>
       <head>
+        {/* Structured Data: Organization */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -45,6 +46,24 @@ export default function Layout({ children }) {
                 "https://github.com/reltroner",
                 "https://twitter.com/reltroner"
               ]
+            }),
+          }}
+        />
+
+        {/* Structured Data: WebSite */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "name": "Reltroner Studio",
+              "url": "https://reltroner.com",
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://reltroner.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+              }
             }),
           }}
         />

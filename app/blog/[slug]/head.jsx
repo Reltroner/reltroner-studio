@@ -8,6 +8,8 @@ export default async function Head({ params }) {
   const title = post?.data?.title || "Reltroner Studio";
   const description = post?.data?.description || "Exploring worldbuilding, philosophy, and software craftsmanship.";
   const image = post?.data?.image || "/images/default-og.webp";
+  const datePublished = post?.data?.date || "2025-01-01";
+  const authorName = post?.data?.author || "Rei Reltroner";
   const url = `https://www.reltroner.com/blog/${slug}`;
 
   return (
@@ -25,21 +27,33 @@ export default async function Head({ params }) {
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={`https://www.reltroner.com${image}`} />
 
-      {/* Structured Data for Organization */}
+      {/* Structured Data: Article */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Reltroner Studio",
-            "url": "https://reltroner.com",
-            "logo": "https://reltroner.com/images/logo.png",
-            "sameAs": [
-              "https://www.youtube.com/@reltroner",
-              "https://github.com/reltroner",
-              "https://twitter.com/reltroner"
-            ]
+            "@type": "Article",
+            "headline": title,
+            "description": description,
+            "image": `https://www.reltroner.com${image}`,
+            "author": {
+              "@type": "Person",
+              "name": authorName
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Reltroner Studio",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://reltroner.com/images/logo.png"
+              }
+            },
+            "datePublished": datePublished,
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": url
+            }
           })
         }}
       />
