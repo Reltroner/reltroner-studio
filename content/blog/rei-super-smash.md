@@ -93,6 +93,6 @@ Rei's official trading card features:
 
 ---
 
-Explore more at [reltroner.com/events/series-roadmap](https://www.reltroner.com/events/series-roadmap)  
+Explore more at [reltroner.com/series/series-roadmap](https://www.reltroner.com/series/series-roadmap)  
 Join the resistance. Choose reality.
 
