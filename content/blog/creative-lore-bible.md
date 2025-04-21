@@ -3,7 +3,7 @@ title: "Creative Lore Bible – Reltroner Studio"
 description: "Foundational document for worldbuilders, writers, and visionaries shaping the Asthortera universe through the duality of Nytherion Abyss and Astralis Pinnacle."
 date: "2025-03-28"
 published: true
-image: "/images/creative-lore-bible.png"
+image: "/images/creative-lore-bible.webp"
 ---
 
 # Creative Lore Bible – Reltroner Studio

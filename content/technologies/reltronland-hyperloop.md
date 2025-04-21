@@ -1,7 +1,7 @@
 ---
 title: "Reltronland Hyperloop"
 description: "A 3.3 million km ultra-speed transit network capable of 4,220 km/h, connecting every corner of Reltronland's 25 million km² territory with zero-delay travel."
-image: "/images/reltronland-hyperloop.png"
+image: "/images/reltronland-hyperloop.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"

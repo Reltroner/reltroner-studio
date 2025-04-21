@@ -1,7 +1,7 @@
 ---
 title: "Reltronian AirGrid"
 description: "An AI-governed aerial infrastructure that controls atmospheric logistics, air traffic, and national surveillance across all of Reltronland’s skies."
-image: "/images/reltronian-airgrid.png"
+image: "/images/reltronian-airgrid.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"

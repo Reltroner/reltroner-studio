@@ -1,7 +1,7 @@
 ---
 title: "Music Culture of Reltronland"
 description: "Explore how retro jazz, lo-fi instrumentals, and ambient elegance form the rhythmic soul of Reltronland’s white-collar civilization."
-image: "/images/reltronland-music.png"
+image: "/images/reltronland-music.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
 ---

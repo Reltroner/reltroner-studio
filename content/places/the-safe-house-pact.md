@@ -2,7 +2,7 @@
 title: "The Safe House Pact"
 slug: "the-safe-house-pact"
 description: "A secret meeting near the border of Leastroper reveals the first spiritual operation to stop Gandia’s Nytherion infiltration in Skytrone."
-image: "/images/the-safe-house-pact.png"
+image: "/images/the-safe-house-pact.webp"
 ---
 
 # 🕯️ The Safe House Pact  

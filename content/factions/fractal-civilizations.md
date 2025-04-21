@@ -1,7 +1,7 @@
 ---
 title: "Fractal Civilizations of Asthortera: Strategic Identity Map"
 description: "An in-depth ideological overview of the four major forces shaping Asthortera: Reltronland, Depcutland, Henchoeway, and Depeisit—each reflecting a distinct philosophy of civilization, consciousness, and collapse."
-image: "/images/fractal-civilizations.png"
+image: "/images/fractal-civilizations.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
 ---

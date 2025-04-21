@@ -5,7 +5,7 @@ description: >
 author: "Rei Reltroner"
 date: "2025-04-20"
 slug: "youtubers-have-civilization"
-image: "/images/youtubers-have-civilization.png"
+image: "/images/youtubers-have-civilization.webp"
 published: true
 ---
 

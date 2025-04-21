@@ -2,7 +2,7 @@
 title: "Culture Note: Masks and Mobility in Reltronland"
 description: "An overview of why mask-wearing remains prevalent in Reltronland despite the absence of a health crisis."
 author: "Rei Reltroner"
-image: "/images/mask-reltronland.png"
+image: "/images/mask-reltronland.webp"
 published: true
 date: "2025-04-04"
 ---

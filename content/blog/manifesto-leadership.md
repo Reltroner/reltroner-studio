@@ -1,7 +1,7 @@
 ---
 title: "Manifesto of Leadership"
 description: "A leadership manifesto by Rei Reltroner, voicing the spirit of decisiveness, long-term vision, and steadfastness in the face of reality."
-image: "/images/manifesto-leadership.png"
+image: "/images/manifesto-leadership.webp"
 author: "Raidan"
 published: true
 date: "2025-04-01"

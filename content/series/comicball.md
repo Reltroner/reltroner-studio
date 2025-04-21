@@ -1,7 +1,7 @@
 ---
 title: "Reltronland ComicBall Wiki"
 description: "The official wiki hub for the bureaucratic satire of Reltronball and Depcutball—where castella meets cravat, and diplomacy is illustrated with wit and charm."
-image: "/images/comicball.png"
+image: "/images/comicball.webp"
 author: "Reltroner Studio"
 date: "2025-04-14"
 published: true

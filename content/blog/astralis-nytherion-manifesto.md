@@ -3,7 +3,7 @@ title: "Astralis × Nytherion Manifesto"
 description: "The duality of light and illusion, courage and comfort — a philosophical foundation of Reltroner Studio."
 date: "2025-03-26"
 published: true
-image: "/images/astralis-nytherion-banner.png"
+image: "/images/astralis-nytherion-banner.webp"
 ---
 
 # 🌌 Astralis × Nytherion Manifesto

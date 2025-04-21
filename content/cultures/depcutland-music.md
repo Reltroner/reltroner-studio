@@ -1,7 +1,7 @@
 ---
 title: "Music Culture of Depcutland"
 description: "Dive into the solemn grandeur of Depcutland's classical music culture—where orchestral rituals, philosophical soundscapes, and aesthetic discipline echo through marble halls."
-image: "/images/depcutland-music.png"
+image: "/images/depcutland-music.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
 ---

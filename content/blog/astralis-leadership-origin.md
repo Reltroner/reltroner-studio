@@ -1,7 +1,7 @@
 ---
 title: "Astralis Leadership Origin"
 description: "The origin story of Rei Reltroner's leadership, forged not by systems, but through collapse, self-reinvention, and the relentless pursuit of meaning."
-image: "/images/astralis-leadership-origin.png"
+image: "/images/astralis-leadership-origin.webp"
 author: "Raidan"
 published: true
 date: "2025-04-01"

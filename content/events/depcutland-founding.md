@@ -2,7 +2,7 @@
 title: "The True Purpose Behind Depcutland’s Founding"
 description: "Uncover the hidden motivations and long-game strategy behind Depcutland’s creation—how a former Depeisit elite established a cultural buffer to preserve legacy, counter Reltronland, and shape the future through subtlety."
 slug: "depcutland-founding"
-image: "/images/depcutland-founding.png"
+image: "/images/depcutland-founding.webp"
 author: "Rei Reltroner"
 date: "2025-04-14"
 published: true
@@ -58,7 +58,7 @@ While publicly seen as a peaceful cultural nation, Depcutland’s foundation ser
 - **To ensure Depeisit’s core values live on under new robes.**
 
 ---
-🔍 *Hidden Threads from Depeisit to Depcutland:* ![hidden-threads-depcutland](/images/hidden-threads-depcutland.png)
+🔍 *Hidden Threads from Depeisit to Depcutland:* ![hidden-threads-depcutland](/images/hidden-threads-depcutland.webp)
 ---
 
 ### 🧬 Final Reflection

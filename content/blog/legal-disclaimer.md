@@ -3,7 +3,7 @@ title: "Legal Disclaimer"
 description: "Clarification regarding creative terms, inspirations, and intellectual ownership in the Reltroner Studio universe."
 date: "2025-03-26"
 published: true
-image: "/images/legal-disclaimer.png"
+image: "/images/legal-disclaimer.webp"
 ---
 
 # ⚖️ Legal Disclaimer – Reltroner Studio

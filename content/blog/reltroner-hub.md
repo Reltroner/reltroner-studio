@@ -4,7 +4,7 @@ description: "A strategic comparison of selected countries for establishing the 
 author: "Rei Reltroner"
 date: "2025-04-05"
 published: true
-image: "/images/reltroner-hub.png"
+image: "/images/reltroner-hub.webp"
 ---
 
 # 🌍 Comparative Table: Ideal Countries for Reltroner Hub

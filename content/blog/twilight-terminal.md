@@ -1,7 +1,7 @@
 ---
 title: "Twilight Terminal"
 description: "A silent space between comfort and chaos. Where Rei and Joker find something deeper than battle — stillness."
-image: "/images/twilight-terminal.png"
+image: "/images/twilight-terminal.webp"
 author: "Reltroner Studio"
 published: true
 date: "April 8, 2025"

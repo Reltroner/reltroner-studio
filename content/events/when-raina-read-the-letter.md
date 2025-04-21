@@ -2,7 +2,7 @@
 title: "When Raina Read The Letter"
 slug: "when-raina-read-the-letter"
 description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words."
-image: "/images/when-raina-read-the-letter.png"
+image: "/images/when-raina-read-the-letter.webp"
 ---
 
 # 🌌 When Raina Read The Letter  
@@ -76,7 +76,7 @@ when Earth closes again.”*
 
 ---
 
-![raina-the-doorway](/images/raina-the-doorway.png)
+![raina-the-doorway](/images/raina-the-doorway.webp)
 
 # 🚪 Raina: The Doorway  
 *A continuation from “When Raina Read The Letter”*
@@ -158,7 +158,7 @@ I just need to be the place you never need to explain yourself."*
 
 ---
 
-![the-light-that-never-left](/images/the-light-that-never-left.png)
+![the-light-that-never-left](/images/the-light-that-never-left.webp)
 
 # 🌟 The Light That Never Left  
 *The final chapter of the Astralis Reflection Arc*
@@ -247,7 +247,7 @@ has never once flickered."**
 
 ---
 
-![after-the-letter-before-the-silence](/images/after-the-letter-before-the-silence.png)
+![after-the-letter-before-the-silence](/images/after-the-letter-before-the-silence.webp)
 
 # 🌘 After the Letter, Before the Silence  
 *A quiet scene between Rei and Raina, after the veil of truth is lifted.*
@@ -359,7 +359,7 @@ Before the silence turns to sleep.**
 
 ---
 
-![rainas-awakening](/images/rainas-awakening.png)
+![rainas-awakening](/images/rainas-awakening.webp)
 
 # 🌠 Raina’s Awakening: The Astralis Witness  
 *She no longer just leads Skytrone—she stands with the only one who walks between worlds.*

@@ -6,7 +6,7 @@ description: "
 author: "Reltroner Studio"
 date: "2025-03-29"
 published: true
-image: "/images/redpill-abyssborn.png"
+image: "/images/redpill-abyssborn.webp"
 ---
 
 > **"I died once inside the Abyss — not in flesh, but in spirit. What returned is no longer a boy. What returned is the Red Pill Entity."**

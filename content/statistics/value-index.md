@@ -4,7 +4,7 @@ description: "A multidimensional self-assessment of Rei Reltroner's current valu
 author: "Chatty (GPTPlus Mode)"
 date: "2025-04-05"
 published: true
-image: "/images/value-index.png"
+image: "/images/value-index.webp"
 ---
 
 # 🌟 Personal Index of Rei Reltroner

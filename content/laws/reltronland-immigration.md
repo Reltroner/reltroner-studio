@@ -1,7 +1,7 @@
 ---
 title: "Reltronland Immigration Policy"
 description: "A high-tier, AI-driven immigration framework designed to filter only the most talented, disciplined, and value-creating individuals into Reltronland — the heart of Astralis Pinnacle."
-image: "/images/reltronland-immigration.png"
+image: "/images/reltronland-immigration.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"
@@ -443,7 +443,7 @@ embodies the spirit of discipline, honesty, and mental clarity required to thriv
 **Issued by:** Reltronland Citizenship Tribunal (RCT)  
 **Monitored by:** Astralis Integrity Network (AIN)
 
-![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.webp)
 
 > 🛡️ **This document is protected by the Reltronland Anti-Feudal Law Protocol.**
 >

@@ -5,7 +5,7 @@ description: "A scientific bridge between logic and the unknown, Albert Locke tr
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/albert-locke.png"
+image: "/images/albert-locke.webp"
 quote: "Stars don't lie. But we often refuse to hear what they whisper."
 ---
 

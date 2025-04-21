@@ -2,7 +2,7 @@
 title: "Reltroner Studio Holdings"
 description: "A strategic breakdown of Reltroner Studio’s multidivisional structure and its future-forward ecosystem of creativity, capital, and sovereignty."
 slug: "reltroner-holding"
-image: "/images/reltroner-holding.png"
+image: "/images/reltroner-holding.webp"
 author: "Rei Reltroner"
 date: "2025-04-04"
 ---

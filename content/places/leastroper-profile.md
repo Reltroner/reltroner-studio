@@ -1,7 +1,7 @@
 ---
 title: "Province Profile: Leastroper – A Land Beyond Conflict"
 description: "Explore Leastroper, the demilitarized diplomatic province of Reltronland—known for its clarity, serenity, and peaceful border with the crystalline kingdom of Krisberia."
-image: "/images/leastroper-profile.png"
+image: "/images/leastroper-profile.webp"
 author: "Rei Reltroner"
 date: "2025-04-14"
 published: true
@@ -50,7 +50,7 @@ published: true
 - Architecture blending Reltronland’s white-collar geometry with Krisberian crystal ornamentation
 
 ---
-🔍 *Cultural Diplomacy with Krisberia:* ![leastroper-krisberia](/images/leastroper-krisberia.png)
+🔍 *Cultural Diplomacy with Krisberia:* ![leastroper-krisberia](/images/leastroper-krisberia.webp)
 ---
 
 ### 🧘 Key Districts

@@ -4,7 +4,7 @@ description: "Reltroner Studio's official stance on intentional rest as a pathwa
 author: "Rei Reltroner"
 date: "2025-04-05"
 published: true
-image: "/images/rest-culture.png"
+image: "/images/rest-culture.webp"
 ---
 
 # 🛏️ Sacred Rest Policy

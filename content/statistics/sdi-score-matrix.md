@@ -4,7 +4,7 @@ description: "A matrix of the Sentient Development Index (SDI) scores of Reltron
 author: "Rei Reltroner"
 date: "2025-04-11"
 published: true
-image: "/images/sdi-score-matrix.png"
+image: "/images/sdi-score-matrix.webp"
 ---
 
 # 📊 Sentient Development Index (SDI) Score Matrix

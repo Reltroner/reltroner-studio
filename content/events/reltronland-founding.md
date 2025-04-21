@@ -1,7 +1,7 @@
 ---
 title: "Origins of Reltronland"
 description: "A comprehensive chronicle of Reltronland’s founding—tracing its birth from the silent lands of Rathroper, through the legacy of the Rhett family, to the rise of a nation built on clarity, merit, and sentient design."
-image: "/images/reltronland-founding.png"
+image: "/images/reltronland-founding.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"
@@ -230,7 +230,7 @@ Rei inherited the **philosophical architecture** of Troner and the **pragmatic n
 
 
 ---
-🔍 *Timeline: First 10 Years of Physical Development in Reltronland:* ![first-10-years](/images/first-10-years.png)
+🔍 *Timeline: First 10 Years of Physical Development in Reltronland:* ![first-10-years](/images/first-10-years.webp)
 ---
 
 ## 📜 The Soil Charter of Reltronland

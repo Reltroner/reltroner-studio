@@ -2,7 +2,7 @@
 title: "Multirealm Authority"
 slug: "multirealm-authority"
 description: "Only one entity is permitted to traverse both Earth and Asthortera—Rei Reltroner. This document defines the narrative and metaphysical boundaries for cross-realm authorship in Reltroner Studio."
-image: "/images/multirealm-authority.png"
+image: "/images/multirealm-authority.webp"
 ---
 
 # 🧬 Multirealm Authority  

@@ -5,7 +5,7 @@ description: "A haunted seeker of truth, Delwyn walks through the colorful illus
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/delwyn-harper.png"
+image: "/images/delwyn-harper.webp"
 quote: "Every light leaves a shadow. I'm here to drag it out."
 ---
 

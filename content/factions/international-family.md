@@ -1,7 +1,7 @@
 ---
 title: "Reltronland & Depcutland: The Pillars Who Embrace the International Family"
 description: "A worldbuilding document highlighting how Reltronland and Depcutland, as Tier 1 civilizations, actively collaborate with Tier 2 nations across Asthortera, forming a planetary family built on unity, diplomacy, and conscious growth."
-image: "/images/international-family.png"
+image: "/images/international-family.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
 ---

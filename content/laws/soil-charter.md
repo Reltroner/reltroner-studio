@@ -1,7 +1,7 @@
 ---
 title: "The Soil Charter of Reltronland"
 description: "The foundational zoning doctrine of Reltronland that defines how every piece of land must serve clarity, merit, and sentient development—marking Rathroper as sacred ground zero."
-image: "/images/soil-charter.png"
+image: "/images/soil-charter.webp"
 author: "Rei Reltroner"
 date: "2025-04-14"
 published: true
@@ -144,7 +144,7 @@ Let Astralis guide every hand that shapes the nation.
 
 > *“Clarity is not luxury. It is a duty of civilization.” — Article II, Public Clarity Act*
 
-![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.webp)
 
 > 🛡️ **This document is protected by the Reltronland Anti-Feudal Law Protocol.**
 >

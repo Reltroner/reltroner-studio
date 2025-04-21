@@ -3,7 +3,7 @@ title: "🏙️ Reltralia District Layers"
 description: "An official breakdown of the core, fallback, and metaphysical identity districts within the capital city of Reltronland."
 slug: "reltralia-district-layers"
 date: "2025-04-21"
-image: "/images/reltralia-district-layers.png"
+image: "/images/reltralia-district-layers.webp"
 ---
 
 # 🏙️ The District Layers of Reltralia

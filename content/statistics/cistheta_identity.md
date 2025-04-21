@@ -4,7 +4,7 @@ description: "A hyper-urbanized planet of ancestral discipline and digital preci
 author: "Rei Reltroner" 
 date: "2025-04-07"
 published: true,
-image: "/images/cistheta_identity.png"
+image: "/images/cistheta_identity.webp"
 ---
 # Planet Cistheta
 
@@ -43,7 +43,7 @@ Cistheta is a hyper-urbanized, high-speed civilization where digital ecosystems 
 - **Elderly Population (65+):** ~17.2%  
 - **Workforce Concentration:** 20–39 years dominate with extreme productivity culture
 
-🔍 *Cistheta Population Pyramid:* ![Sentient Population Statistics](/images/cistheta-pyramid.png)
+🔍 *Cistheta Population Pyramid:* ![Sentient Population Statistics](/images/cistheta-pyramid.webp)
 
 Population growth is controlled and strategically aligned with infrastructure scaling and social harmony.
 

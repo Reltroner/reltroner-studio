@@ -3,7 +3,7 @@ title: "🛡️ Code of Ethics: Zero Tolerance for Sexual Content"
 date: "2025-04-18"
 published: true
 layout: post
-image: "/images/anti-sexual-content.png"
+image: "/images/anti-sexual-content.webp"
 ---
 
 # 🛡️ Code of Ethics: Zero Tolerance for Sexual Content  

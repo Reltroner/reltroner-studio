@@ -4,7 +4,7 @@ description: "Absolute justice against corruption and feudalism within Reltronla
 author: "Reltroner Studio"
 date: 2025-04-15
 published: true
-image: "/images/reltronland-anti-corruption.png"
+image: "/images/reltronland-anti-corruption.webp"
 ---
 
 # ⚖️ Reltronland Anti-Corruption Protocol
@@ -209,7 +209,7 @@ but to make it suffer until its last echo is devoured by the collective will of 
 **The Reltronland Sovereign Justice Division**  
 Operates under the full authority of the Astralis Pinnacle Constitution.
 
-![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.webp)
 
 > 🛡️ **This document is protected by the Reltronland Anti-Feudal Law Protocol.**
 >

@@ -2,7 +2,7 @@
 title: "Kalgered Country Profile — The Neutral Heart of Asthortera"
 description: "A high-altitude sovereign state known for its timeless fortresses, acoustic architecture, and unshakable neutrality. Kalgered is the diplomatic core of Asthortera, where silence speaks louder than conflict."
 date: "2025-04-18"
-image: "/images/kalgered-country-profile.png"
+image: "/images/kalgered-country-profile.webp"
 tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelhaven"]
 ---
 

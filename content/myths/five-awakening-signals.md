@@ -1,7 +1,7 @@
 ---
 title: "The 5 Awakening Signals"
 description: "Five cosmic pulses believed to precede major paradigm shifts in Asthortera. Each signal is linked to a collapse of illusion and a rise in collective sentience."
-image: "/images/five-awakening-signals.png"
+image: "/images/five-awakening-signals.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"

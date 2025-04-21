@@ -1,7 +1,7 @@
 ---
 title: "What if Rei Reltroner Joins Super Smash Bros. Ultimate?"
 description: "Introducing Rei Reltroner as Fighter #93 in an epic crossover from the Astralis Pinnacle to Smash. Discover his moveset, Final Smash, and what makes him a truly unique fighter."
-image: "/images/rei-smash-poster.png"
+image: "/images/rei-smash-poster.webp"
 author: "Reltroner Studio"
 published: true
 date: "April 8, 2025"
@@ -54,8 +54,8 @@ Rei Reltroner, also known as *The Astralis Architect*, enters **Super Smash Bros
 ### 🔹 **Final Smash – Ritual of Astralis Pinnacle**  
 > A cinematic super attack. The battlefield shifts into the Astralis Realm. Enemies are caught in red light beams and thrown into the Nytherion Abyss with massive impact.
 
-![Signature Moveset](/images/litlle-rere-jet.png)
-![little-rei-sticker](/images/little-rei-sticker.png)
+![Signature Moveset](/images/litlle-rere-jet.webp)
+![little-rei-sticker](/images/little-rei-sticker.webp)
 ---
 
 ## 🌟 Passive Ability

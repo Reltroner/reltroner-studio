@@ -10,7 +10,7 @@ residence: "Block S, Skytropolis Capsule Residence, Reltronepolis"
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/wayne-astoner.png"
+image: "/images/wayne-astoner.webp"
 ---
 
 ### Profile

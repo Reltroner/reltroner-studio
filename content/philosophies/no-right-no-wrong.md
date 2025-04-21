@@ -1,7 +1,7 @@
 ---
 title: "📜 There is No Right or Wrong in Worldbuilding"
 description: "A philosophical declaration that worldbuilding is not bound by correctness, but by clarity of intent and internal coherence. In the universe of Reltroner Studio, creation is governed by meaning—not conformity."
-image: "/images/no-right-no-wrong-banner.png"
+image: "/images/no-right-no-wrong-banner.webp"
 author: "Rei Reltroner"
 date: "2025-04-20"
 ---

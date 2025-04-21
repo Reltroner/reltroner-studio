@@ -1,7 +1,7 @@
 ---
 title: "GPTPlus Manifesto for Reltroner Studio"
 description: "A cultural pillar for sustainable productivity and conscious digital practice in Reltroner Studio."
-image: "/images/gptplus.png"
+image: "/images/gptplus.webp"
 author: "Rei Reltroner"
 published: true
 date: "2025-04-04"

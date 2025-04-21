@@ -4,7 +4,7 @@ description: "The official declaration of Rei Reltroner's real-world identity an
 author: "Rei Reltroner (Raidan)"
 date: "2025-04-06"
 published: true
-image: "/images/rei-idcard.png"
+image: "/images/rei-idcard.webp"
 ---
 
 # 🪪 Public Identity Declaration of Rei Reltroner  

@@ -4,7 +4,7 @@ description: "How the anti-corruption framework of Reltronland evolved from the 
 author: "Reltroner Studio"
 date: 2025-04-15
 published: true
-image: "/images/anti-corruption-origin.png"
+image: "/images/anti-corruption-origin.webp"
 ---
 
 # ⚖️ The Origin of Absolute Law
@@ -70,7 +70,7 @@ It is a firewall against collapse.
 
 ---
 
-![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.webp)
 
 > 🛡️ **This document is protected by the Reltronland Anti-Feudal Law Protocol.**
 >

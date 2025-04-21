@@ -4,7 +4,7 @@ description: >
   A tribute to those who were misunderstood by automation, abandoned by policy, or mistaken as threats while building sacred and meaningful work. Their intent was pure—this page stands to remember their worth.
 slug: "misjudged-builders"
 date: "2025-04-19"
-image: "/images/misjudged-builders.png"
+image: "/images/misjudged-builders.webp"
 ---
 
 > _"Some of the greatest creators were not banned because they broke the rules—  

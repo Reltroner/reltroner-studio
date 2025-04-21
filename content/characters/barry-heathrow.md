@@ -5,7 +5,7 @@ description: "An unassuming steward turned critical operative in Asthortera’s 
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/barry-heathrow.png"
+image: "/images/barry-heathrow.webp"
 quote: "Not every war is fought on land. Some battles are whispered between altitude and silence."
 ---
 
@@ -62,12 +62,26 @@ Delwyn accepts him as a non-combatant but vital **intelligence and infiltration 
 ---
 
 ## Role in Delwyn’s Team
-| Role | Function |
-|------|----------|
-| **Sky Intel Specialist** | Provides secure infiltration and escape flight paths |
-| **Disguised Operative** | Infiltrates VVIP aircraft posing as licensed crew |
-| **Signal Interceptor** | Uses modified Silver Horizon tech to track Aurora Gateway signals |
-| **Counter-Surveillance** | Prevents tracking from Kalgered and Depeisit agents |
+
+#### 🔹 **Sky Intel Specialist**  
+*Provides secure infiltration and escape flight paths*
+
+---
+
+#### 🔹 **Disguised Operative**  
+*Infiltrates VVIP aircraft posing as licensed crew*
+
+---
+
+#### 🔹 **Signal Interceptor**  
+*Uses modified Silver Horizon tech to track Aurora Gateway signals*
+
+---
+
+#### 🔹 **Counter-Surveillance**  
+*Prevents tracking from Kalgered and Depeisit agents*
+
+--- 
 
 Barry now operates from the skies—but his true mission lies in helping Delwyn rewrite the rules of resistance, one flight at a time.
 

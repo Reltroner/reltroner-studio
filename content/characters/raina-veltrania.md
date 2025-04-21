@@ -5,7 +5,7 @@ description: "A sharp and composed leader in Reltronland’s most influential in
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/raina-veltrania.png"
+image: "/images/raina-veltrania.webp"
 quote: "A person’s worth is not defined by status, but by the results and impact of their work."
 
 ---

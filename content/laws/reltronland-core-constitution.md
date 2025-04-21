@@ -4,7 +4,7 @@ description: "The foundational doctrines that govern the Reltronland civilizatio
 author: "Reltroner Studio"
 date: 2025-04-15
 published: true
-image: "/images/reltronland-core-constitution.png"
+image: "/images/reltronland-core-constitution.webp"
 ---
 
 # 🏛️ Core Constitution of Reltronland
@@ -65,7 +65,7 @@ This is the **spiritual and structural backbone** of the civilization known as *
 
 🕊️ Drafted and sustained under the Astralis Pinnacle Doctrine.
 
-![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.webp)
 
 > 🛡️ **This document is protected by the Reltronland Anti-Feudal Law Protocol.**
 >

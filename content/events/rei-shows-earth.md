@@ -3,7 +3,7 @@ title: "🌍 Rei Shows Earth to Raina"
 description: "In a quiet moment in Reltralia, Rei shows Raina the harsh realities of Earth—his birthplace. As footage of Indonesia plays, truths are unveiled: cycles of survival, suppressed dreams, and the roots of Reltronland's order. This is not just a memory—it’s the reason Reltronland was born. A story of pain transformed into purpose."
 slug: "rei-shows-earth"
 date: "2025-04-18"
-image: "/images/rei-shows-earth.png"
+image: "/images/rei-shows-earth.webp"
 ---
 
 > _“From a world lost in noise and chaos,  

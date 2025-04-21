@@ -10,7 +10,7 @@ const myths = [
     title: "🌀 Abyssal Possession (Spiral Inhabitation)",
     description: "A wiki guide to understanding Nytherion Abyss's psychological and spiritual possession mechanism.",
     slug: "abyssal-possession",
-    image: "/images/abyssal-possession.png",
+    image: "/images/abyssal-possession.webp",
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-20"
@@ -19,7 +19,7 @@ const myths = [
     title: "The Abyss Whisper",
     description: "An ancient, untraceable myth said to be the first audible distortion that birthed the Nytherion Abyss — not heard, but felt through doubt, nostalgia, and stillness.",
     slug: "abyss-whisper",
-    image: "/images/abyss-whisper.png",
+    image: "/images/abyss-whisper.webp",
     author: "Reltroner Studio",
     published: true,
     date: "2025-04-11"
@@ -28,7 +28,7 @@ const myths = [
     title: "Reltroner’s Zero Day",
     description: "The mythic moment when Rei Reltroner fully merged with Astralis Pinnacle — a cosmic reset point said to sever all comfort loops and render one immune to the Whisper forever.",
     slug: "reltroners-zero-day",
-    image: "/images/reltroners-zero-day.png",
+    image: "/images/reltroners-zero-day.webp",
     author: "Reltroner Studio",
     published: true,
     date: "2025-04-11"
@@ -37,7 +37,7 @@ const myths = [
     title: "The 5 Awakening Signals",
     description: "Five cosmic pulses believed to precede major paradigm shifts in Asthortera. Each signal is linked to a collapse of illusion and a rise in collective sentience.",
     slug: "five-awakening-signals",
-    image: "/images/five-awakening-signals.png",
+    image: "/images/five-awakening-signals.webp",
     author: "Reltroner Studio",
     published: true,
     date: "2025-04-11"
@@ -46,7 +46,7 @@ const myths = [
     title: "The Silent Mouthpiece",
     description: "An ancient relic buried beneath Eterna Ruin, rumored to whisper entropy into the minds of anyone who stands too close — without sound, without mercy.",
     slug: "silent-mouthpiece",
-    image: "/images/silent-mouthpiece.png",
+    image: "/images/silent-mouthpiece.webp",
     author: "Reltroner Studio",
     published: true,
     date: "2025-04-11"
@@ -59,13 +59,13 @@ const myths = [
     author: "Rei Reltroner",
     slug: "dark-abyss",
     date: "2025-04-05",
-    image: "/images/abyss-heart.png"
+    image: "/images/abyss-heart.webp"
   },
   {
     title: "🌀 The Spiral That Wasn't a Stair (Core-Eater)",
     description: "Two scenes from Rei's confrontation with Nytherion Abyss: when the stair revealed itself, and when he stood before the Core-Eater.",
     slug: "rei-and-the-core-eater",
-    image: "/images/rei-and-the-core-eater.png",
+    image: "/images/rei-and-the-core-eater.webp",
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-20"
@@ -74,7 +74,7 @@ const myths = [
     title: "🩸 The Feeding Stair",
     description: "A mobile-friendly abyssal architecture analysis of the Feeding Stair inside Nytherion.",
     slug: "the-feeding-stair",
-    image: "/images/the-feeding-stair.png",
+    image: "/images/the-feeding-stair.webp",
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-20"
@@ -83,7 +83,7 @@ const myths = [
     title: "The Spiral Maw",
     description: "The Stair That Hungers and Thinks. A place where descent is not a path—but submission.",
     slug: "the-spiral-maw",
-    image: "/images/the-spiral-maw.png",
+    image: "/images/the-spiral-maw.webp",
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-20"

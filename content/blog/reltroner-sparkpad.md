@@ -4,7 +4,7 @@ description: "A futuristic personal branding toolkit designed for Gen Z & Alpha 
 author: "Rei Reltroner"
 date: "2025-04-09"
 published: true
-image: "/images/reltroner-sparkpad.png"
+image: "/images/reltroner-sparkpad.webp"
 ---
 
 # ✨ Reltroner Sparkpad Proposal
@@ -50,7 +50,7 @@ Designed for creators, learners, rebels, and dreamers — especially from **Gen 
 
 ### 🔐 Optional Add-Ons
 - 🌌 *Astralis Mode*: Journaling, reflections, spiritual prompts
-- 🪪 *Digital ID Card Export*: `.png` or `.vcf` downloads
+- 🪪 *Digital ID Card Export*: `.webp` or `.vcf` downloads
 - ☁️ *Hosted Subdomain*: Free `.reltroner.space` for early users
 
 ---

@@ -5,7 +5,7 @@ description: "A master of light trapped in a city of illusions, Isaac exposes th
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/isaac-luminar.png"
+image: "/images/isaac-luminar.webp"
 quote: "Just because it shines doesn’t mean it saves."
 ---
 

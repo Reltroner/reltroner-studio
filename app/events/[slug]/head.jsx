@@ -9,7 +9,7 @@ export async function generateMetadata({ params }) {
 
   const title = data.title;
   const description = data.description;
-  const image = data.image || "/images/default-event.png";
+  const image = data.image || "/images/default-event.webp";
   const url = `https://www.reltroner.com/events/${slug}`;
 
   return {

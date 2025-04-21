@@ -4,7 +4,7 @@ description: "A unique evaluation framework that measures developers by clarity,
 author: "Raidan"
 date: "2025-03-26"
 published: true
-image: "/images/astralis-evaluation-banner.png"
+image: "/images/astralis-evaluation-banner.webp"
 ---
 
 # ⚖️ Astralis-Based Developer Evaluation Framework

@@ -2,7 +2,7 @@
 title: "Whispergrove Forest"
 type: "Region - Sacred Forest"
 location: "East Scotpaders, Stelpadland, Planet Asthortera"
-image: "/images/whispergrove.png"
+image: "/images/whispergrove.webp"
 description: "An eternally autumn forest where emotions resonate with nature. Whispergrove is a Nytherion-sensitive zone known for its memory echoes, spiritual presence, and mystical silence."
 protectedStatus: "Level-4 Cultural and Ecological Heritage Site"
 myth: "The forest whispers the names the world has forgotten."

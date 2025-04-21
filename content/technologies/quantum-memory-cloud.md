@@ -1,7 +1,7 @@
 ---
 title: "Quantum Memory Cloud"
 description: "A sovereign AI-encoded memory system that stores and safeguards sentient data, learning patterns, and historical integrity across all generations of Reltronland citizens."
-image: "/images/quantum-memory-cloud.png"
+image: "/images/quantum-memory-cloud.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"

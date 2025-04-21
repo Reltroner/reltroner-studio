@@ -5,7 +5,7 @@ location: "Nytherion Abyss"
 description: "An artistic depiction of the deepest and most cursed core within the Nytherion Abyss, where time, memory, and self fracture into darkness."
 author: "Rei Reltroner"
 date: "2025-04-05"
-image: "/images/abyss-heart.png"
+image: "/images/abyss-heart.webp"
 ---
 
 ## 🕳️ Heart of the Abyss

@@ -4,7 +4,7 @@ description: "An exploration of the sentient, curious, and emotionally resilient
 author: "Rei Reltroner"
 date: "2025-04-06"
 published: true
-image: "/images/children-of-asthortera.png"
+image: "/images/children-of-asthortera.webp"
 ---
 
 # 🌟 Children of Asthortera  

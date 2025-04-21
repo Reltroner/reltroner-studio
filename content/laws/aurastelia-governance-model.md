@@ -2,7 +2,7 @@
 title: "Aurastelia Governance Model"
 slug: "aurastelia-governance-model"
 description: "A spiritual-functional hybrid system led by Queen Valethra, balancing sentient resonance, harmony, and conscious policymaking."
-image: "/images/aurastelia-governance-model.png"
+image: "/images/aurastelia-governance-model.webp"
 ---
 
 # 🕊️ Aurastelia Governance Model  

@@ -4,7 +4,7 @@ description: >
   Trapped within a decaying spiral of lost thoughts and broken geometry, Rei awakens in Sector D—where time loops, mirrors lie, and illusions rot. Inspired by unsettling childhood memories and surreal echoes of comfort, this chapter explores the moment Rei confronts the first layer of Nytherion Abyss and begins to remember what the world tried to erase.
 slug: "rei-in-abyss-spiral-memory"
 date: "2025-04-19"
-image: "/images/abyss-d.png"
+image: "/images/abyss-d.webp"
 
 ---
 

@@ -5,7 +5,7 @@ description: "A perceptive and intuitive presence who senses the echoes of Astra
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/evara-alena.png"
+image: "/images/evara-alena.webp"
 quote: "I saw him, but he didn’t say a word. Still... I knew he remembered me."
 ---
 

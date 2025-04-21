@@ -4,7 +4,7 @@ description: "A planet of conscious evolution, diversity, and high development. 
 author: "Rei Reltroner"
 date: "2025-04-07"
 published: true
-image: "/images/asthortera_identity.png"
+image: "/images/asthortera_identity.webp"
 ---
 # Planet Asthortera
 
@@ -61,7 +61,7 @@ It is viewed as:
 
 The age distribution reflects a mature, stable society with high life expectancy and ongoing intellectual productivity—consistent with a civilization driven by merit, innovation, and spiritual balance.
 
-🔍 *Asthortera Population Pyramid:* ![Sentient Population Statistics](/images/asthortera-pyramid.png)
+🔍 *Asthortera Population Pyramid:* ![Sentient Population Statistics](/images/asthortera-pyramid.webp)
 
 ---
 
@@ -174,7 +174,7 @@ A world that mirrors both the chaos of becoming, and the beauty of conscious civ
 
 ---
 
-![legendary-tier-distribution](/images/legendary-tier-distribution.png)
+![legendary-tier-distribution](/images/legendary-tier-distribution.webp)
 
 # 📄 Legendary Tier Distribution – Astralis-Anchored Sentients
 
@@ -283,7 +283,7 @@ Let Astralis light the unknown.
 
 ---
 
-![immortality-model-architecture](/images/immortality-model-architecture.png)
+![immortality-model-architecture](/images/immortality-model-architecture.webp)
 
 # 📊 Immortality Model Architecture – The Logic Behind Narrative Longevity
 
@@ -364,7 +364,7 @@ Immortality is not granted by plot armor. It is modeled, tracked, and justified 
 
 ---
 
-![origin-of-narrative-longevity](/images/origin-of-narrative-longevity.png)
+![origin-of-narrative-longevity](/images/origin-of-narrative-longevity.webp)
 
 # 📜 Origin of Narrative Longevity – Why Some Characters Never Die
 

@@ -4,7 +4,7 @@ description: "A cultural doctrine that redefines friendship across genders witho
 author: "Reltroner Studio"
 date: 2025-04-16
 published: true
-image: "/images/gender-friendship-manifesto.png"
+image: "/images/gender-friendship-manifesto.webp"
 ---
 
 # 🤝 Gender Friendship Manifesto of Asthortera

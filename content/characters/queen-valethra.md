@@ -4,7 +4,7 @@ role: "Spiritual Leader of Aurastelia"
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/queen-valethra.png"
+image: "/images/queen-valethra.webp"
 quote: "Aurora light does not choose light or darkness — it merely reflects the state of our hearts."
 description: "The eternal protector of cosmic balance in Asthortera, Queen Valethra bridges science and spiritual harmony with empathy, grace, and commanding serenity."
 ---

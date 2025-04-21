@@ -4,7 +4,7 @@ description: "Strategic insight and business directions for capturing the minds 
 author: "Rei Reltroner"
 date: "2025-04-09"
 published: true
-image: "/images/gen-z-alpha-market-potential.png"
+image: "/images/gen-z-alpha-market-potential.webp"
 ---
 # Gen Z & Alpha: Market Potential & Strategic Business Directions
 

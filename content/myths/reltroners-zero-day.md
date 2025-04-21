@@ -1,7 +1,7 @@
 ---
 title: "Reltroner’s Zero Day"
 description: "The mythic moment when Rei Reltroner fully merged with Astralis Pinnacle — a cosmic reset point said to sever all comfort loops and render one immune to the Whisper forever."
-image: "/images/reltroners-zero-day.png"
+image: "/images/reltroners-zero-day.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"

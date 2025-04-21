@@ -1,7 +1,7 @@
 ---
 title: "Cenrestier Country Profile — Land of Fortresses"
 description: "A proud nation built on memory, stone, and timeless discipline. Cenrestier is home to ancient castles, concentric fortress cities, and a people who believe that remembering the past is the highest form of strength."
-image: "/images/cenrestier-country-profile.png"
+image: "/images/cenrestier-country-profile.webp"
 author: "Rei Reltroner"
 date: "2025-04-17"
 ---

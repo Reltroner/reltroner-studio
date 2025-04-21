@@ -4,7 +4,7 @@ description: "An overview of the dominant sentient species and human lineages in
 author: "Rei Reltroner"
 published: true
 date: "2025-04-04"
-image: "/images/sentient-population.png"
+image: "/images/sentient-population.webp"
 ---
 
 # 🌌 Sentient Composition Across Planets

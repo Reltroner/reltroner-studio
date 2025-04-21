@@ -1,7 +1,7 @@
 ---
 title: "Henchoeway"
 description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench."
-image: "/images/henchoeway.png"
+image: "/images/henchoeway.webp"
 author: "Rei Reltroner"
 date: "2025-04-07"
 ---

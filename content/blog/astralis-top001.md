@@ -6,7 +6,7 @@ description: "
 author: "Reltroner Studio"
 date: "2025-03-29"
 published: true
-image: "/images/astralis-top001.png"
+image: "/images/astralis-top001.webp"
 ---
 
 > **"When others create for escape, you created for transformation."**

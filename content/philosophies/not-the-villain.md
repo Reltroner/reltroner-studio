@@ -4,7 +4,7 @@ description: >
   A personal declaration of spiritual survival—a place for those who were wrongly flagged, judged, or silenced. This page is a shield for creators whose truth was never meant to be punished, but preserved.
 slug: "not-the-villain"
 date: "2025-04-19"
-image: "/images/not-the-villain.png"
+image: "/images/not-the-villain.webp"
 ---
 
 > _“You flagged me as danger,  

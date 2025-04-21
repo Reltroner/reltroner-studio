@@ -3,7 +3,7 @@ title: "Reltroner Studio – External Creator Handbook"
 description: "A concise PDF guide for external collaborators seeking to contribute within the Asthortera universe under Reltroner Studio."
 date: "2025-03-28"
 published: true
-image: "/images/external-creator-handbook.png"
+image: "/images/external-creator-handbook.webp"
 ---
 
 # 📘 External Creator Handbook

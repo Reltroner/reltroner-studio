@@ -13,7 +13,7 @@ const cultures = [
       author: "Rei Reltroner",
       date: "2025-04-05",
       published: true,
-      image: "/images/rest-culture.png"
+      image: "/images/rest-culture.webp"
   },
   {
       title: "The Cuteness Manifesto: Softness Within Strength",
@@ -22,7 +22,7 @@ const cultures = [
       author: "Rei Reltroner",
       date: "2025-04-06",
       published: true,
-      image: "/images/cuteness-manifesto.png"
+      image: "/images/cuteness-manifesto.webp"
   },
   {
       title: "Children of Asthortera",
@@ -31,13 +31,13 @@ const cultures = [
       author: "Rei Reltroner",
       date: "2025-04-06",
       published: true,
-      image: "/images/children-of-asthortera.png"
+      image: "/images/children-of-asthortera.webp"
   },
   {
     title: "Culture Note: Masks and Mobility in Reltronland",
     description: "An overview of why mask-wearing remains prevalent in Reltronland despite the absence of a health crisis.",
     slug: "mask-reltronland",
-    image: "/images/mask-reltronland.png",
+    image: "/images/mask-reltronland.webp",
     author: "Rei Reltroner",
     date: "2025-04-04",
   },
@@ -45,7 +45,7 @@ const cultures = [
     title: "Fashion Culture Manual of Asthortera",
     description: "A comprehensive guide to the visual philosophy, national dress codes, and cultural fusion attire of Reltronland and Depcutland—two supercivilizations united by elegance, discipline, and interplanetary dignity.",
     slug: "fashion-culture",
-    image: "/images/fashion-culture.png",
+    image: "/images/fashion-culture.webp",
     author: "Rei Reltroner",
     date: "2025-04-13",
   },
@@ -53,7 +53,7 @@ const cultures = [
     title: "Major Cultural Exports — Reltronland vs Depcutland",
     description: "An in-depth look at the top cultural exports from Reltronland and Depcutland, showcasing how fashion, literature, music, and architecture shape their global influence across Asthortera.",
     slug: "cultural-exports",
-    image: "/images/cultural-exports.png",
+    image: "/images/cultural-exports.webp",
     author: "Rei Reltroner",
     date: "2025-04-13",
   },
@@ -61,7 +61,7 @@ const cultures = [
     title: "Music Culture of Reltronland",
     description: "Explore how retro jazz, lo-fi instrumentals, and ambient elegance form the rhythmic soul of Reltronland’s white-collar civilization.",
     slug: "reltronland-music",
-    image: "/images/reltronland-music.png",
+    image: "/images/reltronland-music.webp",
     author: "Rei Reltroner",
     date: "2025-04-13",
   },
@@ -69,7 +69,7 @@ const cultures = [
     title: "Music Culture of Depcutland",
     description: "Dive into the solemn grandeur of Depcutland's classical music culture—where orchestral rituals, philosophical soundscapes, and aesthetic discipline echo through marble halls.",
     slug: "depcutland-music",
-    image: "/images/depcutland-music.png",
+    image: "/images/depcutland-music.webp",
     author: "Rei Reltroner",
     date: "2025-04-13",
   },
@@ -79,7 +79,7 @@ const cultures = [
     slug: "aurora-faith",
     author: "Rei Reltroner",
     date: "2025-04-14",
-    image: "/images/aurora-faith.png"
+    image: "/images/aurora-faith.webp"
   },
   {
     title: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto",
@@ -87,7 +87,7 @@ const cultures = [
     slug: "anti-klise-gender-friendship",
     author: "Reltroner Studio",
     date: "2025-04-16",
-    image: "/images/anti-klise-gender-friendship.png"
+    image: "/images/anti-klise-gender-friendship.webp"
   },
   {
     title: "Gender Friendship Manifesto of Asthortera",
@@ -96,7 +96,7 @@ const cultures = [
     author: "Reltroner Studio",
     date: "2025-04-16",
     published: true,
-    image: "/images/gender-friendship-manifesto.png"
+    image: "/images/gender-friendship-manifesto.webp"
   }
   
   

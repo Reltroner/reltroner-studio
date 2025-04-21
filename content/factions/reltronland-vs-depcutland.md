@@ -1,7 +1,7 @@
 ---
 title: "Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization"
 description: "A philosophical comparison between Reltronland and Depcutland—two ideological giants shaped by meritocracy and elegance, clarity and contemplation, as the twin forces that uphold Asthortera’s sentient evolution."
-image: "/images/reltronland-vs-depcutland.png"
+image: "/images/reltronland-vs-depcutland.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
 ---

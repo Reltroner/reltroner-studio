@@ -1,7 +1,7 @@
 ---
 title: "Entropy Firewall"
 description: "A national defense system designed to detect, neutralize, and isolate cognitive entropy and ideological decay before they spread across systems, networks, or institutions."
-image: "/images/entropy-firewall.png"
+image: "/images/entropy-firewall.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"

@@ -2,7 +2,7 @@
 title: "Oakcottage Headquarters"
 type: "Institution"
 location: "Whispergrove Forest, East Scotpaders, Stelpadland, Planet Asthortera"
-image: "/images/oakcottage-hq.png"
+image: "/images/oakcottage-hq.webp"
 description: "A legendary scouting institution rooted in the heart of Whispergrove Forest. Oakcottage trains leaders of character and resilience, blending nature, survival, and spiritual development into a sacred rite of passage."
 established: "Year 712 (Stelpad Calendar)"
 affiliation: "Ministry of Education & character Formation, Stelpadland"

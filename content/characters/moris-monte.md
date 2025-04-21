@@ -5,7 +5,7 @@ description: "A nostalgic puzzle seeker from Cenrestier who believes the locked 
 date: "2025-04-17"
 author: "Reltroner Studio"
 published: true
-image: "/images/moris-monte.png"
+image: "/images/moris-monte.webp"
 tags: ["Cenrestier", "Citadeladia", "Memory Series", "Castle Lore"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Reltronball & Depcutball: Bureaucracy Bros"
 description: "A satirical comic series set in the world of Asthortera, where Reltronland and Depcutland’s iconic countryballs clash in delightful debates over bureaucracy, philosophy, castella, and formalwear."
-image: "/images/bureaucracy-bros.png"
+image: "/images/bureaucracy-bros.webp"
 author: "Rei Reltroner"
 date: "2025-04-14"
 published: true
@@ -10,7 +10,7 @@ published: true
 ## 🎩 Reltronball & Depcutball: Bureaucracy Bros — Episode 1
 ### "Coffee-Free Meeting"
 
- ![comicball-episode1](/images/comicball-episode1.png)
+ ![comicball-episode1](/images/comicball-episode1.webp)
 
 ---
 
@@ -47,7 +47,7 @@ published: true
 ## 🎩 Reltronball & Depcutball: Bureaucracy Bros — Episode 2
 ### "Crisis in the Coffee Supply Chain"
 
- ![comicball-episode2](/images/comicball-episode2.png)
+ ![comicball-episode2](/images/comicball-episode2.webp)
 
 ---
 
@@ -80,7 +80,7 @@ published: true
 ## 🎩 Reltronball & Depcutball: Bureaucracy Bros — Episode 3
 ### "Visiting the Reltronland Archives (Without a Tie)"
 
- ![comicball-episode3](/images/comicball-episode3.png)
+ ![comicball-episode3](/images/comicball-episode3.webp)
 
 ---
 
@@ -115,7 +115,7 @@ published: true
 ## 🎩 Reltronball & Depcutball: Bureaucracy Bros — Episode 4
 ### "Reltronball Attends a Depcutland Opera (And Almost Falls Asleep)"
 
- ![comicball-episode4](/images/comicball-episode4.png)
+ ![comicball-episode4](/images/comicball-episode4.webp)
 
 ---
 
@@ -148,7 +148,7 @@ published: true
 ## 🎩 Reltronball & Depcutball: Bureaucracy Bros — Episode 5
 ### "Depcutball Tries a Castella Cake (And Files a 17-Page Review)"
 
- ![comicball-episode5](/images/comicball-episode5.png)
+ ![comicball-episode5](/images/comicball-episode5.webp)
 
 ---
 

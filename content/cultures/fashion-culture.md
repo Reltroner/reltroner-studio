@@ -1,7 +1,7 @@
 ---
 title: "Fashion Culture Manual of Asthortera"
 description: "A comprehensive guide to the visual philosophy, national dress codes, and cultural fusion attire of Reltronland and Depcutland—two supercivilizations united by elegance, discipline, and interplanetary dignity."
-image: "/images/fashion-culture.png"
+image: "/images/fashion-culture.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
 ---
@@ -66,7 +66,7 @@ By wearing unified dress codes, citizens express shared goals and mutual respect
   3. Wear formal fusion attire
 - **Official Guidance**: While casualwear is not restricted by law, it is socially discouraged in civic and scholarly districts
 
-🔍 *Reltronland and Depcutland Cultural Fashion:* ![Reltronland and Depcutland Cultural Fashion](/images/reltronland-depcutland-fashion.png)
+🔍 *Reltronland and Depcutland Cultural Fashion:* ![Reltronland and Depcutland Cultural Fashion](/images/reltronland-depcutland-fashion.webp)
 
 ---
 

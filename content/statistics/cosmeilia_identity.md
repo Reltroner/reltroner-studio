@@ -4,7 +4,7 @@ description: "A planet of ethereal beauty, cosmic resonance, and spiritual gover
 author: "Rei Reltroner"
 date: "2025-04-07"
 published: true
-image: "/images/cosmeilia_identity.png"
+image: "/images/cosmeilia_identity.webp"
 ---
 # Planet Cosmeilia
 
@@ -46,7 +46,7 @@ No full-blooded Earth-human exists natively on Cosmeilia.
 - **Urban-Rural Ratio:** 68% urban, 32% nature-integrated settlements  
 - **Birth Rate:** Stable and deliberate, aligned with cosmic cycles
 
-🔍 *Cosmeilia Population Pyramid:* ![Sentient Population Statistics](/images/cosmeilia-piramid.png)
+🔍 *Cosmeilia Population Pyramid:* ![Sentient Population Statistics](/images/cosmeilia-piramid.webp)
 
 ---
 

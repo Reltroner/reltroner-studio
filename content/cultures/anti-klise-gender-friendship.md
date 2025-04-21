@@ -4,7 +4,7 @@ description: "A deconstruction of outdated tropes by Asthortera’s mature philo
 author: "Reltroner Studio"
 date: 2025-04-16
 published: true
-image: "/images/anti-klise-gender-friendship.png"
+image: "/images/anti-klise-gender-friendship.webp"
 ---
 
 # ❌ Top 5 Clichés Destroyed by the Gender Friendship Manifesto

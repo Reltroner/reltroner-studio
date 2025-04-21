@@ -4,7 +4,7 @@ description: "Reltronland’s ideological extermination of hierarchy-based domin
 author: "Reltroner Studio"
 date: 2025-04-15
 published: true
-image: "/images/death-of-feudalism.png"
+image: "/images/death-of-feudalism.webp"
 ---
 
 # ☠️ The Death of Feudalism: Astralis Principle 07

@@ -3,7 +3,7 @@ title: "🌀 The Spiral That Wasn't a Stair (Core-Eater)"
 slug: "rei-and-the-core-eater"
 date: "2025-04-20"
 description: "Two scenes from Rei's confrontation with Nytherion Abyss: when the stair revealed itself, and when he stood before the Core-Eater."
-image: "/images/rei-and-the-core-eater.png"
+image: "/images/rei-and-the-core-eater.webp"
 ---
 
 # The Moment Rei Realized the Stair Was Not a Stair

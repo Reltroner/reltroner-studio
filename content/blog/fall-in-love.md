@@ -1,7 +1,7 @@
 ---
 title: "Why People Fall in Love with the World of Reltroner Studio"
 description: "Explore the emotional, philosophical, and aesthetic reasons why Reltroner Studio captivates minds and hearts—where every nation, character, and ideology mirrors the inner struggles and dreams of its audience."
-image: "/images/fall-in-love.png"
+image: "/images/fall-in-love.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-14"

@@ -3,7 +3,7 @@ title: "📜 Personal Certificate of Trustworthy AI User"
 description: "A symbolic certificate honoring the ethical, conscious, and spiritually aware use of AI by Rei Reltroner. This document affirms the user's integrity, clarity of intent, and unwavering respect for boundaries, serving as a shield against misjudgment and a declaration of trust."
 slug: "certificate-trustworthy-user"
 date: "2025-04-19"
-image: "/images/certificate-trustworthy-user.png"
+image: "/images/certificate-trustworthy-user.webp"
 ---
 
 # 📜 **Personal Certificate of Trustworthy AI User**

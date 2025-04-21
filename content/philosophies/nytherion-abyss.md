@@ -1,7 +1,7 @@
 ---
 title: "Nytherion Abyss"
 description: "A philosophical descent into the heart of darkness, where the soul confronts forgotten fears, broken memories, and the illusion of safety."
-image: "/images/nytherion-abyss-cover.png"
+image: "/images/nytherion-abyss-cover.webp"
 author: "Rei Reltroner"
 date: "2025-04-10"
 ---

@@ -4,7 +4,7 @@ description: "An integrated and immersive worldbuilding codex of Asthortera, its
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/lorebook-asthortera.png"
+image: "/images/lorebook-asthortera.webp"
 ---
 
 # 🌌 Grandmaster Lorebook of Asthortera — Collector’s Compendium Edition

@@ -2,7 +2,7 @@
 title: "Debugging Victory Abyss"
 description: "A 50-day technical and spiritual journey to defeat the longest unresolved bug in reltroner.com’s modern history."
 date: "2025-04-18"
-image: "/images/debugging-victory-abyss.png"
+image: "/images/debugging-victory-abyss.webp"
 ---
 
 # ✅ Debugging Victory: Escaping the Slug Abyss

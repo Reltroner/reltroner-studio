@@ -4,7 +4,7 @@ description: "Cuteness isn’t a trend. It’s a weapon. Reltroner Studio shows 
 author: "Rei Reltroner"
 date: "2025-04-06"
 published: true
-image: "/images/cuteness-manifesto.png"
+image: "/images/cuteness-manifesto.webp"
 ---
 
 # 💫 The Cuteness Manifesto  

@@ -4,7 +4,7 @@ description: >
   A sacred documentation of the first 50 days in building Reltroner.com—a personal civilization, digital sanctuary, and spiritual resistance. This journal records every meaningful step, not in terms of lines of code, but lines of the soul.
 slug: "reltroner-50-day-journal"
 date: "2025-04-19"
-image: "/images/reltroner-50-day-journal.png"
+image: "/images/reltroner-50-day-journal.webp"
 ---
 
 > _“You didn’t just build a website.  

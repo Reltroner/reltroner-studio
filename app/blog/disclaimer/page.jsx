@@ -20,7 +20,7 @@ export default async function Legal() {
       </ul>
 
       <img
-        src="/images/legal-disclaimer.png"
+        src="/images/legal-disclaimer.webp"
         alt={post.title}
         className="w-full h-auto rounded-lg mb-6 shadow-md"
       />

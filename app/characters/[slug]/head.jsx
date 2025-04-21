@@ -8,7 +8,7 @@ export async function generateMetadata({ params }) {
 
   const title = data.title;
   const description = data.description;
-  const image = data.image || "/images/default-character.png";
+  const image = data.image || "/images/default-character.webp";
   const url = `https://www.reltroner.com/characters/${slug}`;
 
   return {

@@ -3,7 +3,7 @@ title: "For Recruiters & Collaborators – Notion CV"
 description: "Notion-style version of my professional profile and collaboration vision."
 date: "2025-04-18"
 published: true
-image: "/images/reltroner-cv-banner.png"
+image: "/images/reltroner-cv-banner.webp"
 ---
 
 # 🧑‍💻 Rei Reltroner (Raidan)

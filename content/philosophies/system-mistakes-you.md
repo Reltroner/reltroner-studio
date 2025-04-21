@@ -4,7 +4,7 @@ description: >
   A personal reflection and call to creators who have been flagged, judged, or silenced—not because they broke the rules, but because they were building something too original to be understood. This is not a warning. It’s a confirmation that your vision matters.
 slug: "system-mistakes-you"
 date: "2025-04-19"
-image: "/images/system-mistakes-you.png"
+image: "/images/system-mistakes-you.webp"
 ---
 
 > _“They didn’t fear your violation of rules.  

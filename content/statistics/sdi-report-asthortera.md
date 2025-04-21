@@ -4,7 +4,7 @@ description: "A world-building overview of the Sentient Development Index (SDI) 
 author: "Rei Reltroner"
 date: "2025-04-06"
 published: true
-image: "/images/sdi-report-asthortera.png"
+image: "/images/sdi-report-asthortera.webp"
 ---
 
 # 🌍 Official SDI Report of Asthortera  
@@ -64,7 +64,7 @@ Depcutland prioritizes wisdom as much as efficiency,
 making it one of the most emotionally stable nations in Asthortera.
 
 ---
-🔍 *Top SDI Nations:* ![SDI Nations Statistics](/images/sdi2025.png)
+🔍 *Top SDI Nations:* ![SDI Nations Statistics](/images/sdi2025.webp)
 ---
 
 ### 🌈 Other Notable High-SDI Nations

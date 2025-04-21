@@ -1,7 +1,7 @@
 ---
 title: "Astralis Vanguard Leader"
 description: "Official certification for Rei Reltroner as the highest level leader in the Astralis Pinnacle structure, with a leadership index of 97.1 out of 100."
-image: "/images/astralis-vanguard.png"
+image: "/images/astralis-vanguard.webp"
 author: "Raidan"
 published: true
 date: "2025-04-01"

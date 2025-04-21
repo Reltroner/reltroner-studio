@@ -46,7 +46,7 @@ export default async function Head({ params }) {
               "name": "Reltroner Studio",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://reltroner.com/images/logo.png"
+                "url": "https://reltroner.com/images/logo.webp"
               }
             },
             "datePublished": datePublished,

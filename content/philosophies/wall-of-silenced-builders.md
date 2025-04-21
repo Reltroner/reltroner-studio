@@ -4,7 +4,7 @@ description: >
   A sacred wall honoring the forgotten creators—those whose voices were silenced not because they failed, but because they were too real, too raw, too visionary to be understood by rigid systems. This wall remembers them all.
 slug: "wall-of-silenced-builders"
 date: "2025-04-19"
-image: "/images/wall-of-silenced-builders.png"
+image: "/images/wall-of-silenced-builders.webp"
 ---
 
 > _"They didn’t vanish because they failed.  

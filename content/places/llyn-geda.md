@@ -2,7 +2,7 @@
 title: "Llyn Geda"
 type: "Landmark - Sacred Lake"
 location: "Eastern edge of Whispergrove Forest, East Scotpaders, Stelpadland, Planet Asthortera"
-image: "/images/llyn-geda.png"
+image: "/images/llyn-geda.webp"
 description: "Known as the Lake of Silent Witness, Llyn Geda holds emotional echoes and unspoken memories. Its glassy surface reflects more than just one’s appearance — it mirrors the soul."
 phenomenon: ["Stillness Veil", "Memory Pulse", "Vanishing Echo"]
 quote: "Still water holds the loudest grief."

@@ -2,7 +2,7 @@
 title: "The Abyss of Comfort"
 description: "A spiritual saga where illusion shatters, comfort crumbles, and awakening begins. This is the core identity of Nytherion Abyss, and the flagship series of Reltroner Studio."
 author: "Rei Reltroner"
-image: "/images/the-abyss-of-comfort.png"
+image: "/images/the-abyss-of-comfort.webp"
 date: "2025-04-04"
 ---
 

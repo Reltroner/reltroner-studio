@@ -1,7 +1,7 @@
 ---
 title: "The Abyss Whisper"
 description: "An ancient, untraceable myth said to be the first audible distortion that birthed the Nytherion Abyss — not heard, but felt through doubt, nostalgia, and stillness."
-image: "/images/abyss-whisper.png"
+image: "/images/abyss-whisper.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"

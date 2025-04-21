@@ -23,7 +23,7 @@ export const metadata = {
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
+    apple: "/apple-touch-icon.webp",
   },
 };
 
@@ -40,7 +40,7 @@ export default function Layout({ children }) {
               "@type": "Organization",
               "name": "Reltroner Studio",
               "url": "https://reltroner.com",
-              "logo": "https://reltroner.com/images/logo.png",
+              "logo": "https://reltroner.com/images/logo.webp",
               "sameAs": [
                 "https://www.youtube.com/@reltroner",
                 "https://github.com/reltroner",

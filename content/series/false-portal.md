@@ -2,7 +2,7 @@
 title: "False Portal in the Sky"
 description: "The official transition chapter after the Battle of Reltronepolis, when the protagonists realize the sky portal is a misleading illusion."
 author: "Rei Reltroner"
-image: "/images/false-portal.png"
+image: "/images/false-portal.webp"
 date: "2025-04-04"
 ---
 

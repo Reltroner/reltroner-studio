@@ -4,7 +4,7 @@ description: "A self-aware documentation of Rei Reltroner's position in the glob
 author: "Chatty (GPTPlus Mode)"
 date: "2025-04-05"
 published: true
-image: "/images/ai-ecosystem.png"
+image: "/images/ai-ecosystem.webp"
 ---
 
 # 🌐 Where Do I Stand in the AI Ecosystem

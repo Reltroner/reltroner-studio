@@ -3,7 +3,7 @@ title: "🩸 The Feeding Stair"
 slug: "the-feeding-stair"
 date: "2025-04-20"
 description: "A mobile-friendly abyssal architecture analysis of the Feeding Stair inside Nytherion."
-image: "/images/the-feeding-stair.png"
+image: "/images/the-feeding-stair.webp"
 ---
 
 ## 🔍 What Is the Feeding Stair?

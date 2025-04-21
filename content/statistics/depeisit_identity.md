@@ -4,7 +4,7 @@ description: "A planet rooted in tradition and trapped in spiritual stagnation. 
 author: "Rei Reltroner"
 date: "2025-04-07"
 published: true
-image: "/images/depeisit_identity.png"
+image: "/images/depeisit_identity.webp"
 ---
 # Planet Depeisit
 
@@ -39,7 +39,7 @@ Depeisit is a once-glorious planet, now spiritually stagnant—an empire of comf
 - **Elderly Dominance:** Age groups 50+ form the core of social, political, and cultural leadership.
 - **Pyramid Shape:** Narrow-bottomed, signaling an aging society with limited youth regeneration.
 
-🔍 *Depeisit Population Pyramid:* ![Sentient Population Statistics](/images/depeisit-piramid.png)
+🔍 *Depeisit Population Pyramid:* ![Sentient Population Statistics](/images/depeisit-piramid.webp)
 
 ---
 

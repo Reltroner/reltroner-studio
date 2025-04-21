@@ -3,7 +3,7 @@ title: "🛡️ Reltronland Tobacco Regulation Act"
 slug: "reltronland-tobacco-regulation"
 layout: "law"
 date: "2025-04-18"
-image: "/images/reltronland-tobacco-regulation.png"
+image: "/images/reltronland-tobacco-regulation.webp"
 description: "A comprehensive legal act from Reltronland enforcing strict tobacco control through economic barriers, spatial limitations, and high civil penalties — upholding a national standard of clean air and disciplined living."
 ---
 

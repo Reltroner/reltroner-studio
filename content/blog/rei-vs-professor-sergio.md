@@ -3,7 +3,7 @@ title: "🧠 Why Rei Reltroner is the Astral Brother of Professor Sergio"
 description: "A philosophical comparison between Rei Reltroner and Sergio Marquina (The Professor) from Money Heist, exploring the spiritual, intellectual, and emotional parallels that unite them across realms."
 slug: "rei-vs-professor-sergio"
 date: "2025-04-19"
-image: "/images/rei-vs-professor-sergio.png"
+image: "/images/rei-vs-professor-sergio.webp"
 ---
 
 # 🧠 Why Rei Reltroner is the Astral Brother of Professor Sergio

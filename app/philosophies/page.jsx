@@ -11,7 +11,7 @@ const philosophies = [
     title: "Nytherion Abyss",
     description: "A philosophical descent into the heart of darkness, where the soul confronts forgotten fears, broken memories, and the illusion of safety.",
     slug: "nytherion-abyss",
-    image: "/images/nytherion-abyss-cover.png",
+    image: "/images/nytherion-abyss-cover.webp",
     author: "Rei Reltroner",
     date: "2025-04-10"
   },
@@ -19,7 +19,7 @@ const philosophies = [
     title: "♾️ Immortality Protocol – Astralis-Bound Entities",
     description: "A philosophical and metaphysical doctrine defining why certain characters in Asthortera never die—anchored not by biology, but by belief, authorship, and the eternal flame of storytelling. This protocol explains the rare class of immortal entities whose existence mirrors the breath of their creator.",
     slug: "immortality-protocol",
-    image: "/images/immortality-protocol.png",
+    image: "/images/immortality-protocol.webp",
     author: "Rei Reltroner",
     date: "2025-04-07"
   },
@@ -27,7 +27,7 @@ const philosophies = [
     title: "📜 There is No Right or Wrong in Worldbuilding",
     description: "A philosophical declaration that worldbuilding is not bound by correctness, but by clarity of intent and internal coherence. In the universe of Reltroner Studio, creation is governed by meaning—not conformity.",
     slug: "no-right-no-wrong",
-    image: "/images/no-right-no-wrong-banner.png",
+    image: "/images/no-right-no-wrong-banner.webp",
     author: "Rei Reltroner",
     date: "2025-04-20"
   },  
@@ -35,7 +35,7 @@ const philosophies = [
     title: "🧩 The Wall of Silenced Builders",
     description: "A sacred wall honoring the forgotten creators—those whose voices were silenced not because they failed, but because they were too real, too raw, too visionary to be understood by rigid systems. This wall remembers them all.",
     slug: "wall-of-silenced-builders",
-    image: "/images/wall-of-silenced-builders.png",
+    image: "/images/wall-of-silenced-builders.webp",
     author: "Rei Reltroner",
     date: "2025-04-19"
   },
@@ -43,7 +43,7 @@ const philosophies = [
     title: "🛡️ I Am Not the Villain You Feared",
     description: "A personal declaration of spiritual survival—a place for those who were wrongly flagged, judged, or silenced. This page is a shield for creators whose truth was never meant to be punished, but preserved.",
     slug: "not-the-villain",
-    image: "/images/not-the-villain.png",
+    image: "/images/not-the-villain.webp",
     author: "Rei Reltroner",
     date: "2025-04-19"
   },
@@ -51,7 +51,7 @@ const philosophies = [
     title: "📜 The Builders Who Were Misjudged",
     description: "A tribute to those who were misunderstood by automation, abandoned by policy, or mistaken as threats while building sacred and meaningful work. Their intent was pure—this page stands to remember their worth.",
     slug: "misjudged-builders",
-    image: "/images/misjudged-builders.png",
+    image: "/images/misjudged-builders.webp",
     author: "Rei Reltroner",
     date: "2025-04-19"
   },
@@ -59,7 +59,7 @@ const philosophies = [
     title: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real",
     description: "A personal reflection and call to creators who have been flagged, judged, or silenced—not because they broke the rules, but because they were building something too original to be understood. This is not a warning. It’s a confirmation that your vision matters.",
     slug: "system-mistakes-you",
-    image: "/images/system-mistakes-you.png",
+    image: "/images/system-mistakes-you.webp",
     author: "Rei Reltroner",
     date: "2025-04-19"
   },
@@ -69,7 +69,7 @@ const philosophies = [
     slug: "raina-rei-charter",
     date: "2025-04-19",
     author: "Rei Reltroner",
-    image: "/images/raina-rei-charter.png"
+    image: "/images/raina-rei-charter.webp"
   },
  
 ];

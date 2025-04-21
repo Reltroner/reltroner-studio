@@ -2,7 +2,7 @@
 title: "Certificate Achievement"
 date: "2025-03-22"
 published: true
-image: "/images/direktori-listing.png"
+image: "/images/direktori-listing.webp"
 ---
 
 # 🌟 Certificate Achievement: My Self-Learning Journey

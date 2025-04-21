@@ -42,7 +42,7 @@ export default async function Head() {
             "@type": "Organization",
             "name": "Reltroner Studio",
             "url": "https://reltroner.com",
-            "logo": "https://reltroner.com/images/logo.png",
+            "logo": "https://reltroner.com/images/logo.webp",
             "sameAs": [
               "https://www.youtube.com/@reltroner",
               "https://github.com/reltroner",
@@ -71,7 +71,7 @@ export default async function Head() {
               "name": "Reltroner Studio",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://reltroner.com/images/logo.png"
+                "url": "https://reltroner.com/images/logo.webp"
               }
             },
             "datePublished": datePublished,

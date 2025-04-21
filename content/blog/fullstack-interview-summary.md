@@ -2,7 +2,7 @@
 title: "Full Stack Developer Interview Simulation – Project Walkthrough & Security Readiness"
 description: "A simulated technical interview showcasing project understanding, structure, logic flow, deployment, and error handling of a full stack attendance management system."
 slug: "fullstack-interview-summary"
-image: "/images/fullstack-interview-summary.png"
+image: "/images/fullstack-interview-summary.webp"
 author: "Rei Reltroner"
 published: true
 date: "2025-04-03"

@@ -1,7 +1,7 @@
 ---
 title: "Reltronland"
 description: "The ideological embodiment of Astralis Pinnacle — a disciplined superpower built on meritocracy, sentient development, and the rejection of illusion."
-image: "/images/reltronland-cover.png"
+image: "/images/reltronland-cover.webp"
 author: "Rei Reltroner"
 date: "2025-04-10"
 ---

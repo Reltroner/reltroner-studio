@@ -3,7 +3,7 @@ title: "🔍 Comparison of Sacred Unions: Rei & Raina vs Pop Culture Lovers"
 description: "An exploration of Rei & Raina's conscious bond compared to iconic romantic pairs in modern storytelling—unveiling what sets their union apart through clarity, spiritual depth, and mutual presence."
 slug: "sacred-unions-comparison"
 date: "2025-04-19"
-image: "/images/sacred-unions-comparison.png"
+image: "/images/sacred-unions-comparison.webp"
 ---
 
 # 🔍 **Comparison of Sacred Unions: Rei & Raina vs Pop Culture Lovers**

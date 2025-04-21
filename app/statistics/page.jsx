@@ -11,7 +11,7 @@ const statistics = [
     description: "An overview of the dominant sentient species and human lineages inhabiting the primary planets in the Asthortera galaxy.",
     author: "Rei Reltroner",
     slug: "sentient-population",
-    image: "/images/sentient-population.png",
+    image: "/images/sentient-population.webp",
     date: "2025-04-04"
   },
   {
@@ -19,7 +19,7 @@ const statistics = [
     description: "A self-aware documentation of Rei Reltroner's position in the global landscape of AI usage.",
     author: "Chatty (GPTPlus Mode)",
     slug: "ai-ecosystem",
-    image: "/images/ai-ecosystem.png",
+    image: "/images/ai-ecosystem.webp",
     date: "2025-04-05"
   },
   {
@@ -29,7 +29,7 @@ const statistics = [
     slug: "value-index",
     date: "2025-04-05",
     published: true,
-    image: "/images/value-index.png"
+    image: "/images/value-index.webp"
   },
   {
     title: "Official SDI Report of Asthortera",
@@ -38,7 +38,7 @@ const statistics = [
     slug: "sdi-report-asthortera",
     date: "2025-04-06",
     published: true,
-    image: "/images/sdi-report-asthortera.png"
+    image: "/images/sdi-report-asthortera.webp"
   },
   {
     title: "Depeisit Identity",
@@ -47,7 +47,7 @@ const statistics = [
     slug: "depeisit_identity", 
     date: "2025-04-07", 
     published: true,
-    image: "/images/depeisit_identity.png"
+    image: "/images/depeisit_identity.webp"
   },
   {
     title: "Asthortera Identity",
@@ -56,7 +56,7 @@ const statistics = [
     slug: "asthortera_identity",  
     date: "2025-04-07", 
     published: true,
-    image: "/images/asthortera_identity.png"
+    image: "/images/asthortera_identity.webp"
   },
   {
     title: "Cosmeilia Identity",
@@ -65,7 +65,7 @@ const statistics = [
     slug: "cosmeilia_identity",  
     date: "2025-04-07", 
     published: true,
-    image: "/images/cosmeilia_identity.png"
+    image: "/images/cosmeilia_identity.webp"
   },
   {
     title: "Cistheta Identity",
@@ -74,7 +74,7 @@ const statistics = [
     slug: "cistheta_identity",  
     date: "2025-04-07", 
     published: true,
-    image: "/images/cistheta_identity.png"
+    image: "/images/cistheta_identity.webp"
   },
   {
     title: "SDI Score Matrix",
@@ -83,15 +83,24 @@ const statistics = [
     slug: "sdi-score-matrix",  
     date: "2025-04-11", 
     published: true,
-    image: "/images/sdi-score-matrix.png"
+    image: "/images/sdi-score-matrix.webp"
   },
   {
     title: "Education Civilization Index – Asthortera Edition",
     description: "A cross-national report evaluating the depth, diversity, and sentient impact of higher education systems across Asthortera—featuring metrics like field of study distribution, lifelong learning, and immigrant integration.",
     slug: "edu-civilization-index",
-    image: "/images/education-civilization-index.png",
+    image: "/images/education-civilization-index.webp",
     author: "Rei Reltroner",
     date: "2025-04-14",
+    published: true
+  },
+  {
+    title: "🎭 Culture Impact Index – Asthortera Edition",
+    description: "A deep dive into how culture shapes civilizational power in Reltronland and Depcutland.",
+    slug: "culture-impact-index",
+    image: "/images/culture-impact-index.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-21",
     published: true
   }
 ];

@@ -3,7 +3,7 @@ title: "🛡️ Reltrorer Identity — Plan B of the Lost Origin"
 description: "A contingency narrative in case the original name 'Reltroner' is compromised. Reltrorer stands as a purified reboot, a parallel self rising from the shadow of trademark decay."
 slug: "reltrorer-identity-plan-b"
 date: "2025-04-21"
-image: "/images/reltrorer-identity-plan-b.png"
+image: "/images/reltrorer-identity-plan-b.webp"
 ---
 
 ## 🧬 Why Reltrorer?

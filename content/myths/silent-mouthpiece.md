@@ -1,7 +1,7 @@
 ---
 title: "The Silent Mouthpiece"
 description: "An ancient relic buried beneath Eterna Ruin, rumored to whisper entropy into the minds of anyone who stands too close — without sound, without mercy."
-image: "/images/silent-mouthpiece.png"
+image: "/images/silent-mouthpiece.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"

@@ -12,7 +12,7 @@ const events = [
     slug: "rei-in-abyss-spiral-memory",
     author: "Rei Reltroner",
     date: "2025-04-19",
-    image: "/images/abyss-d.png",
+    image: "/images/abyss-d.webp",
     published: true
   },
   {
@@ -27,7 +27,7 @@ const events = [
     title: "Origins of Reltronland",
     description: "The origin story of Reltronland—from Rathroper's soil to a nation of conscious design and meritocratic spirit.",
     slug: "reltronland-founding",
-    image: "/images/reltronland-founding.png",
+    image: "/images/reltronland-founding.webp",
     author: "Reltroner Studio",
     published: true,
     date: "2025-04-11"
@@ -36,7 +36,7 @@ const events = [
     title: "The True Purpose Behind Depcutland’s Founding",
     description: "Uncover the hidden motivations and long-game strategy behind Depcutland’s creation—how a former Depeisit elite established a cultural buffer to preserve legacy, counter Reltronland, and shape the future through subtlety.",
     slug: "depcutland-founding",
-    image: "/images/depcutland-founding.png",
+    image: "/images/depcutland-founding.webp",
     author: "Rei Reltroner",
     date: "2025-04-14",
     published: true
@@ -45,7 +45,7 @@ const events = [
     title: "When Raina Read The Letter",
     description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words.",
     slug: "when-raina-read-the-letter",
-    image: "/images/when-raina-read-the-letter.png",
+    image: "/images/when-raina-read-the-letter.webp",
     author: "Rei Reltroner",
     date: "2025-04-17",
     published: true
@@ -54,7 +54,7 @@ const events = [
     title: "🌍 Rei Shows Earth to Raina",
     description: "In a quiet moment in Reltralia, Rei shows Raina the harsh realities of Earth—his birthplace. As footage of Indonesia plays, truths are unveiled: cycles of survival, suppressed dreams, and the roots of Reltronland's order. This is not just a memory—it’s the reason Reltronland was born. A story of pain transformed into purpose.",
     slug: "rei-shows-earth",
-    image: "/images/rei-shows-earth.png",
+    image: "/images/rei-shows-earth.webp",
     author: "Rei Reltroner",
     date: "2025-04-18",
     published: true

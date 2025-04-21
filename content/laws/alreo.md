@@ -1,7 +1,7 @@
 ---
 title: "Asthortera Labor Rights and Employment Organization (ALREO)"
 description: "A comprehensive legal framework protecting labor rights, regulating fair employment, and enforcing ethical workforce distribution across Asthortera."
-image: "/images/alreo.png"
+image: "/images/alreo.webp"
 author: "Reltroner Studio"
 published: true
 date: "2025-04-11"
@@ -119,7 +119,7 @@ Nations below these standards face **economic sanctions** from ALREO.
 **Motto:**
 _“Fair Work. Bright Future.”_ ✨
 
-![Anti-Feudal Law Enforced](/images/anti-feudal-law.png)
+![Anti-Feudal Law Enforced](/images/anti-feudal-law.webp)
 
 > 🛡️ **This document is protected by the Asthortera Anti-Feudal Law Protocol.**
 >

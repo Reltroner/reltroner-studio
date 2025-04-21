@@ -5,7 +5,7 @@ description: "A political intellectual who manipulates information as power, Wat
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/westley-watson.png"
+image: "/images/westley-watson.webp"
 quote: "Knowledge is power... but only to those who know how to wield it."
 ---
 

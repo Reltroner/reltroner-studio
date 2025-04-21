@@ -21,7 +21,7 @@ const principles = [
     author: "Reltroner Studio",
     date: "2025-04-15",
     published: true,
-    image: "/images/death-of-feudalism.png"
+    image: "/images/death-of-feudalism.webp"
   },
   {
     title: "Multirealm Authority",
@@ -30,7 +30,7 @@ const principles = [
     author: "Reltroner Studio",
     date: "2025-04-15",
     published: true,
-    image: "/images/multirealm-authority.png",
+    image: "/images/multirealm-authority.webp",
   },
   {
     title: "🛡️ Code of Ethics: Zero Tolerance for Sexual Content",
@@ -39,7 +39,7 @@ const principles = [
     author: "Reltroner Studio",
     date: "2025-04-18",
     published: true,
-    image: "/images/anti-sexual-content.png"
+    image: "/images/anti-sexual-content.webp"
   },
   {
     title: "📘 YouTubers Have Channels, I Have a Civilization",
@@ -48,7 +48,7 @@ const principles = [
     author: "Rei Reltroner",
     date: "2025-04-20",
     published: true,
-    image: "/images/youtubers-have-civilization.png"
+    image: "/images/youtubers-have-civilization.webp"
   }
   
   // Tambahkan lebih banyak principle di masa depan...

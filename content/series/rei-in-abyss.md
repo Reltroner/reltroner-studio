@@ -2,7 +2,7 @@
 title: "Rei in Abyss"
 description: "A psychological, existential descent into Nytherion Abyss. After losing everything—academic status, identity, and 95% of his assets—Rei awakens in a false paradise of comfort, entertainment, and forgetfulness. But he refuses to stay. A story of quiet revolt, painful truth, and rebuilding from nothing."
 author: "Rei Reltroner"
-image: "/images/rei-in-abyss.png"
+image: "/images/rei-in-abyss.webp"
 date: "2025-04-13"
 ---
 

@@ -3,7 +3,7 @@ title: "Legacy of Reltroner"
 description: "A comprehensive overview of the Reltroner legacy, its impact on world-building, and its future directions."
 slug: "legacy"
 date: "2025-04-18"
-image: "/images/legacy.png"
+image: "/images/legacy.webp"
 published: true
 ---
 

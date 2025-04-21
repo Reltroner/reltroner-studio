@@ -1,7 +1,7 @@
 ---
 title: "Depcutland"
 description: "An elegant and reflective Tier 1 civilization in Asthortera, Depcutland embodies philosophical refinement, archival meritocracy, and cultural diplomacy. It preserves the soul of civilization while mentoring the world in aesthetics, ethics, and memory."
-image: "/images/depcutland.png"
+image: "/images/depcutland.webp"
 author: "Rei Reltroner"
 date: "2025-04-10"
 ---

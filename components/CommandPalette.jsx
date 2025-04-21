@@ -172,6 +172,7 @@ export default function CommandPalette() {
     { name: "Value Index", path: "/statistics/value-index" },
     { name: "Reltronland SDI Score Matrix", path: "/statistics/sdi-score-matrix" },
     { name: "Education Civilization Index", path: "/statistics/edu-civilization-index" },
+    { name: "🎭 Culture Impact Index – Asthortera Edition", path: "/statistics/culture-impact-index"},
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     { name: "♾️ Immortality Protocol – Astralis-Bound Entities", path: "/philosophies/immortality-protocol" },

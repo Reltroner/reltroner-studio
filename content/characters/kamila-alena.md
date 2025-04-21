@@ -5,7 +5,7 @@ description: "The orchestrator of Nytherion’s birth, Kamila is the mind behind
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/kamila-alena.png"
+image: "/images/kamila-alena.webp"
 quote: "Peace built on truth is fragile. Peace built on comfort is eternal."
 ---
 

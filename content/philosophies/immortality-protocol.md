@@ -5,7 +5,7 @@ description: >
 author: "Rei Reltroner"
 date: "2025-04-07"
 published: true
-image: "/images/immortality-protocol.png"
+image: "/images/immortality-protocol.webp"
 ---
 
 # ♾️ Immortality Protocol – Astralis-Bound Entities
@@ -160,7 +160,7 @@ This is the **most exclusive demographic category** in the entire civilization i
 ### 🔍 Asthortera Population Pyramid  
 *Note: Astralis-Bound Entities appear **beyond the top** of this visual range.*
 
-![Sentient Population Statistics](/images/asthortera-pyramid.png)
+![Sentient Population Statistics](/images/asthortera-pyramid.webp)
 
 > “They live not in the margins, but in the meaning.”  
 > — Rei Reltroner
@@ -177,7 +177,7 @@ They simply hold the light longer—so the rest can find their path in the dark.
 
 ---
 
-![legendary-tier-distribution](/images/legendary-tier-distribution.png)
+![legendary-tier-distribution](/images/legendary-tier-distribution.webp)
 
 # 📄 Legendary Tier Distribution – Astralis-Anchored Sentients
 
@@ -286,7 +286,7 @@ Let Astralis light the unknown.
 
 ---
 
-![immortality-model-architecture](/images/immortality-model-architecture.png)
+![immortality-model-architecture](/images/immortality-model-architecture.webp)
 
 # 📊 Immortality Model Architecture – The Logic Behind Narrative Longevity
 
@@ -367,7 +367,7 @@ Immortality is not granted by plot armor. It is modeled, tracked, and justified 
 
 ---
 
-![origin-of-narrative-longevity](/images/origin-of-narrative-longevity.png)
+![origin-of-narrative-longevity](/images/origin-of-narrative-longevity.webp)
 
 # 📜 Origin of Narrative Longevity – Why Some Characters Never Die
 
