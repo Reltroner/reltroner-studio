@@ -24,6 +24,15 @@ const principles = [
     image: "/images/death-of-feudalism.png"
   },
   {
+    title: "Multirealm Authority",
+    description: "Only one entity is permitted to traverse both Earth and Asthortera—Rei Reltroner. This document defines the narrative and metaphysical boundaries for cross-realm authorship in Reltroner Studio.",
+    slug: "multirealm-authority",
+    author: "Reltroner Studio",
+    date: "2025-04-15",
+    published: true,
+    image: "/images/multirealm-authority.png",
+  },
+  {
     title: "🛡️ Code of Ethics: Zero Tolerance for Sexual Content",
     description: "A strict ethical directive from Reltroner Studio banning all forms of sexual content—visual, verbal, or digital—accompanied by a permanent audit and enforcement system designed to preserve the purity, discipline, and clarity of the creative environment.",
     slug: "anti-sexual-content",

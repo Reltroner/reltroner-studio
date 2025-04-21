@@ -32,15 +32,26 @@ It is **strictly prohibited** to use the names *“Nytherion Abyss”*, *“Astr
 
 These entities are **exclusive to the Asthortera World**, and any use outside this universe will be treated as a **violation of the protected Reltroner Studio IP and narrative sanctity.**
 
+### 👤 Exception: Rei Reltroner
+
+**Rei Reltroner** is the **only permitted multirealm traveler**, due to the following reasons:
+
+**🌍 Earth**  
+> *Born, wounded, and shaped by reality*
+
+**🌌 Asthortera**  
+> *Architect, anchor, and spiritual rebuilder*
+
+Rei does not merely write the world of Asthortera.  
+He **escaped into it. He lives in it. He protects it.**
+
+Thus, Rei holds the **Multirealm Authority**.
+
 ### 3. **Genre Flexibility, Lore Integrity**
 Writers are welcome to explore all genres — romance, sci-fi, slice of life, horror — as long as the **core philosophical essence** of the Abyss-Pinnacle duality is maintained.
 
 ### 4. **Lore-Bound Identity**
 Every character, setting, and culture must, even subtly, reflect the **conscious war between illusion and clarity**, comfort and growth. These principles shape not only individual journeys but also national systems, institutions, and even spiritual orders within the Asthortera world.
-
----
-
-## 🧱 Essential Framework Rules (Expanded)
 
 ### 5. **Symbol Protection**
 The symbols of Nytherion Abyss and Astralis Pinnacle (sigils, seals, ritual emblems, light/dark geometry) may not be repurposed or reinterpreted outside of Asthortera. This includes clothing, tattoos, or logos in alternate universes.

@@ -204,6 +204,7 @@ export default function CommandPalette() {
     { name: "The Death of Feudalism: Astralis Principle 07", path: "/principles/death-of-feudalism" },
     { name: "Code of Ethics: Zero Tolerance for Sexual Content", path: "/principles/anti-sexual-content" },
     { name: "📘 YouTubers Have Channels, I Have a Civilization", path: "/principles/youtubers-have-civilization" },
+    { name: "Multirealm Authority", path: "/principles/multirealm-authority" },
 
   ];
 
