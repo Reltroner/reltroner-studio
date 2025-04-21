@@ -77,7 +77,17 @@ const laws = [
     author: "Rei Reltroner",
     date: "2025-04-18",
     published: true
+  },
+  {
+    title: "📜 Reltronland Civilized Taxation Charter",
+    description: "A declaration that abolishes bureaucratic taxation culture and establishes a futuristic, respectful, and civil-centered fiscal system in Reltronland — where clarity replaces fear, and contribution means trust.",
+    slug: "reltronland-taxation-charter",
+    image: "/images/reltronland-taxation-charter.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-22",
+    published: true
   }
+  
   // Tambahkan lebih banyak Law di masa depan...
 ];
 

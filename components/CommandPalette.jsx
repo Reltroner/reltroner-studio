@@ -201,6 +201,8 @@ export default function CommandPalette() {
     { name: "Core Constitution of Reltronland", path: "/laws/reltronland-core-constitution" },
     { name: "Aurastelia Governance Model", path: "/laws/aurastelia-governance-model" },
     { name: "🛡️ Reltronland Tobacco Regulation Act", path: "/laws/reltronland-tobacco-regulation" },
+    { name: "📜 Reltronland Civilized Taxation Charter", path: "/laws/reltronland-taxation-charter"},
+    
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },
