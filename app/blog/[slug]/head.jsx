@@ -24,6 +24,25 @@ export default async function Head({ params }) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={`https://www.reltroner.com${image}`} />
+
+      {/* Structured Data for Organization */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Reltroner Studio",
+            "url": "https://reltroner.com",
+            "logo": "https://reltroner.com/images/logo.png",
+            "sameAs": [
+              "https://www.youtube.com/@reltroner",
+              "https://github.com/reltroner",
+              "https://twitter.com/reltroner"
+            ]
+          })
+        }}
+      />
     </>
   );
 }
