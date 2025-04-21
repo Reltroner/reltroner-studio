@@ -139,6 +139,8 @@ export default function CommandPalette() {
     { name: "The 5 Awakening Signals", path: "/myths/five-awakening-signals" },
     { name: "The Silent Mouthpiece", path: "/myths/silent-mouthpiece" },
     { name: "The Spiral That Wasn't a Stair (Core-Eater)", path: "/myths/rei-and-the-core-eater" },
+    { name: "🩸 The Feeding Stair", path: "/myths/the-feeding-stair" },
+    { name: "🌀 The Spiral Maw", path: "/myths/the-spiral-maw" },
     // Organizations
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },

@@ -59,6 +59,24 @@ const myths = [
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-20"
+  },
+  {
+    title: "🩸 The Feeding Stair",
+    description: "A mobile-friendly abyssal architecture analysis of the Feeding Stair inside Nytherion.",
+    slug: "the-feeding-stair",
+    image: "/images/the-feeding-stair.png",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-20"
+  },
+  {
+    title: "The Spiral Maw",
+    description: "The Stair That Hungers and Thinks. A place where descent is not a path—but submission.",
+    slug: "the-spiral-maw",
+    image: "/images/the-spiral-maw.png",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-20"
   }
 ];
 
