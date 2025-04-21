@@ -67,6 +67,35 @@ export default function Layout({ children }) {
             }),
           }}
         />
+
+        {/* CreativeWork */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "CreativeWork",
+              "name": "Reltroner Studio Universe",
+              "creator": {
+                "@type": "Person",
+                "name": "Rei Reltroner",
+                "url": "https://reltroner.com"
+              },
+              "dateCreated": "2025-04-06",
+              "description": "A deeply immersive digital world known as Asthortera — home of Reltronland, Depcutland, and the core narratives of The Abyss of Comfort and The Freezone Code. All contents, characters, visuals, and designs are original creations of Rei Reltroner.",
+              "publisher": {
+                "@type": "Organization",
+                "name": "Reltroner Studio"
+              },
+              "inLanguage": "en",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://reltroner.com"
+              }
+            }),
+          }}
+        />
+        
       </head>
       <body className="bg-slate-100 text-black dark:bg-gray-900 dark:text-white">
         <GoogleAnalytics />
