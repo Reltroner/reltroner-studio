@@ -138,6 +138,7 @@ export default function CommandPalette() {
     { name: "Reltroner’s Zero Day", path: "/myths/reltroners-zero-day" },
     { name: "The 5 Awakening Signals", path: "/myths/five-awakening-signals" },
     { name: "The Silent Mouthpiece", path: "/myths/silent-mouthpiece" },
+    { name: "Heart of the Abyss", path: "/myths/dark-abyss" },
     { name: "The Spiral That Wasn't a Stair (Core-Eater)", path: "/myths/rei-and-the-core-eater" },
     { name: "🩸 The Feeding Stair", path: "/myths/the-feeding-stair" },
     { name: "🌀 The Spiral Maw", path: "/myths/the-spiral-maw" },
@@ -145,7 +146,6 @@ export default function CommandPalette() {
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
     // Places
-    { name: "Heart of the Abyss", path: "/places/dark-abyss" },
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },
     { name: "Oakcottage", path: "/places/oakcottage" },

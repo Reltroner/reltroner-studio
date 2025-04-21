@@ -52,7 +52,17 @@ const myths = [
     date: "2025-04-11"
   },
   {
-    title: "🌀 The Spiral That Wasn't a Stair",
+    title: "Heart of the Abyss",
+    type: "Dimension",
+    location: "Nytherion Abyss",
+    description: "An artistic depiction of the deepest and most cursed core within the Nytherion Abyss, where time, memory, and self fracture into darkness.",
+    author: "Rei Reltroner",
+    slug: "dark-abyss",
+    date: "2025-04-05",
+    image: "/images/abyss-heart.png"
+  },
+  {
+    title: "🌀 The Spiral That Wasn't a Stair (Core-Eater)",
     description: "Two scenes from Rei's confrontation with Nytherion Abyss: when the stair revealed itself, and when he stood before the Core-Eater.",
     slug: "rei-and-the-core-eater",
     image: "/images/rei-and-the-core-eater.png",

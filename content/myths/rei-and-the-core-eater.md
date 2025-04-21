@@ -1,5 +1,5 @@
 ---
-title: "🌀 The Spiral That Wasn't a Stair"
+title: "🌀 The Spiral That Wasn't a Stair (Core-Eater)"
 slug: "rei-and-the-core-eater"
 date: "2025-04-20"
 description: "Two scenes from Rei's confrontation with Nytherion Abyss: when the stair revealed itself, and when he stood before the Core-Eater."
