@@ -1,10 +1,10 @@
+// app/layout.jsx
 import './global.css';
 import Navbar from "@/components/Navbar";
 import { roboto } from "./fonts";
 import MobileNavbar from "@/components/MobileNavbar";
 import CommandPalette from "@/components/CommandPalette";
-import GoogleAnalytics from "@/components/GoogleAnalytics"; // <- New
-import { getBlogPost } from "@/lib/getBlogPost";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 export const metadata = {
   title: {
@@ -30,6 +30,25 @@ export const metadata = {
 export default function Layout({ children }) {
   return (
     <html lang="en" className={roboto.variable}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "Reltroner Studio",
+              "url": "https://reltroner.com",
+              "logo": "https://reltroner.com/images/logo.png",
+              "sameAs": [
+                "https://www.youtube.com/@reltroner",
+                "https://github.com/reltroner",
+                "https://twitter.com/reltroner"
+              ]
+            }),
+          }}
+        />
+      </head>
       <body className="bg-slate-100 text-black dark:bg-gray-900 dark:text-white">
         <GoogleAnalytics />
         <MobileNavbar />
@@ -39,7 +58,7 @@ export default function Layout({ children }) {
         </header>
         <main className="py-5 grow">{children}</main>
         <footer className="border-t pt-4 pb-6 text-center text-xs text-gray-500">
-        <a href="/blog/for-recruiters" className="text-blue-500 hover:underline">
+          <a href="/blog/for-recruiters" className="text-blue-500 hover:underline">
             For Recruiters & Collaborators ↗
           </a>
           <br />

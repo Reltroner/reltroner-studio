@@ -292,6 +292,15 @@ const posts = [
     author: "Rei Reltroner",
     image: "/images/reltroner-50-day-journal.png",
     published: true
+  },
+  {
+    title: "Reltroner is Not Ultroner",
+    description: "Clarifying the brand identity of Reltroner Studio as a creative tech entity—not affiliated with any vaping product brand.",
+    slug: "reltroner-is-not-ultroner",
+    date: "2025-04-21",
+    author: "Rei Reltroner",
+    image: "/images/reltroner-is-not-ultroner.png",
+    published: true
   }
      
 ];

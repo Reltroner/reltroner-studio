@@ -94,6 +94,7 @@ export default function CommandPalette() {
     { name: "Why Rei Reltroner is the Astral Brother of Professor Sergio", path: "/blog/rei-vs-professor-sergio" },
     { name: "🃏 Why Rei Reltroner is the Real-World Persona of Joker", path: "/blog/rei-as-joker-persona" },
     { name: "📘 Reltroner 50-Day Journal", path: "/blog/reltroner-50-day-journal" },
+    { name: "Reltroner is Not Ultroner", path: "/blog/reltroner-is-not-ultroner" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
