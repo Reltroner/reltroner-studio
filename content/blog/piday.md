@@ -3,7 +3,7 @@ title: "Pi Day Celebration"
 description: "A fun page to celebrate Pi Day on March 14th (3/14)"
 date: "2025-03-14"
 published: true
-image: "/images/pi-day.jpg"
+image: "/images/pi-day.webp"
 ---
 
 # Pi Day Celebration

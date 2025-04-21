@@ -4,7 +4,7 @@ description: "Exploring the fundamentals of world-building for creative writing.
 author: "Raidan"
 date: "March 3, 2025"
 published: true
-image: "/images/WorldBuilding.jpg"
+image: "/images/WorldBuilding.webp"
 ---
 
 # 🌍 World Building Basics
