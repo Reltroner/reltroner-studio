@@ -82,6 +82,15 @@ const places = [
     author: "Rei Reltroner",
     date: "2025-04-17",
     published: true
+  },
+  {
+    title: "🏙️ Reltralia District Layers",
+    description: "An official breakdown of the core, fallback, and metaphysical identity districts within the capital city of Reltronland.",
+    slug: "reltralia-district-layers",
+    image: "/images/reltralia-district-layers.png",
+    author: "Rei Reltroner",
+    date: "2025-04-21",
+    published: true
   }
 ];
 

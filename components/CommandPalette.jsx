@@ -95,6 +95,7 @@ export default function CommandPalette() {
     { name: "🃏 Why Rei Reltroner is the Real-World Persona of Joker", path: "/blog/rei-as-joker-persona" },
     { name: "📘 Reltroner 50-Day Journal", path: "/blog/reltroner-50-day-journal" },
     { name: "Reltroner is Not Ultroner", path: "/blog/reltroner-is-not-ultroner" },
+    { name: "🛡️ Reltrorer Identity — Plan B of the Lost Origin", path: "/blog/reltrorer-identity-plan-b" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -150,6 +151,7 @@ export default function CommandPalette() {
     { name: "Province Profile: Leastroper – A Land Beyond Conflict", path: "/places/leastroper-profile" },
     { name: "The Safe House Pact", path: "/places/the-safe-house-pact" },
     { name: "Why Aurastelia is the Most Beautiful Realm", path: "/places/why-aurastelia-is-the-most-beautiful-realm" },
+    { name: "🏙️ Reltralia District Layers", path: "/places/reltralia-district-layers" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },

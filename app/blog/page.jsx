@@ -301,6 +301,15 @@ const posts = [
     author: "Rei Reltroner",
     image: "/images/reltroner-is-not-ultroner.png",
     published: true
+  },
+  {
+    title: "🛡️ Reltrorer Identity — Plan B of the Lost Origin",
+    description: "A contingency narrative in case the original name 'Reltroner' is compromised. Reltrorer stands as a purified reboot, a parallel self rising from the shadow of trademark decay.",
+    slug: "reltrorer-identity-plan-b",
+    date: "2025-04-21",
+    author: "Rei Reltroner",
+    image: "/images/reltrorer-identity-plan-b.png",
+    published: true
   }
      
 ];
