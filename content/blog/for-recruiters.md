@@ -35,8 +35,8 @@ If you’re a recruiter, collaborator, or company owner interested in working wi
 ...feel free to reach out through the contacts below:
 
 📧 **edward5raidan54@gmail.com**  
-💻 **https://github.com/Reltroner/reltroner-studio**  
-🌐 **https://www.reltroner.com/**
+💻 [github.com/Reltroner](https://github.com/Reltroner)
+🌐 [reltroner.com](https://www.reltroner.com/)
 
 ---
 

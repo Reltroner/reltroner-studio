@@ -12,7 +12,7 @@ date: "2025-04-11"
 ---
 
 ## I. Introduction
-The **Asthortera Labor Rights and Employment Organization (ALREO)** is an independent interplanetary body headquartered in **Kalgered**, a neutral nation with the highest development index in Asthortera.
+The **Asthortera Labor Rights and Employment Organization (ALREO)** is an independent interplanetary body headquartered in **Kalgered**, a neutral nation with very high sentient development index in Asthortera.
 
 Founded in **580 BAC**, ALREO was established to ensure fair labor distribution, protect workers’ rights, prevent exploitation, and create unified labor standards across Asthortera’s diverse nations. Kalgered was chosen as its base to maintain neutrality and avoid direct influence from global powers such as **Reltronland** and **Depcutland**.
 

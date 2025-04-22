@@ -6,6 +6,10 @@ author: "Rei Reltroner"
 date: "2025-04-10"
 ---
 
+![depcutland1](/images/depcutland1.webp)
+![depcutland2](/images/depcutland2.webp)
+![depcutland-3](/images/depcutland-3.webp)
+
 ## 🛡️ Faction Profile: Depcutland
 ### Asthortera Tier 1 Civilization — Cultural Guardian of the Planet
 
@@ -20,6 +24,7 @@ date: "2025-04-10"
 
 ### 📊 Key Stats
 - **SDI (Sentient Development Index):** 0.983
+- **Population:** 85 billion sentient beings
 - **Capital City:** Depsetica
 - **Government Type:** Archival-Meritocracy
 - **National Identity:** Classical dignity, law-driven progress, cultural refinement

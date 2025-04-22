@@ -132,6 +132,9 @@ export default function CommandPalette() {
     { name: "When Raina Read The Letter", path: "/events/when-raina-read-the-letter" },
     { name: "Rei in Abyss: Spiral Memory", path: "/events/rei-in-abyss-spiral-memory" },
     { name: "Rei Shows Earth to Raina", path: "/events/rei-shows-earth" },
+    { name: "Reltroner: The Boy Who Dropped Out to Build a Civilization", path: "/events/reltroner-dropout-manifesto" },
+    { name: "🔥 Final Awakening", path: "/events/final-awakening" },
+    { name: "🕳 Entering the Core-Eater", path: "/events/entering-the-core-eater" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
@@ -142,6 +145,7 @@ export default function CommandPalette() {
     { name: "The Spiral That Wasn't a Stair (Core-Eater)", path: "/myths/rei-and-the-core-eater" },
     { name: "🩸 The Feeding Stair", path: "/myths/the-feeding-stair" },
     { name: "🌀 The Spiral Maw", path: "/myths/the-spiral-maw" },
+    { name: "🌀 Existential Corrosion", path: "/myths/existential-corrosion"},
     // Organizations
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },

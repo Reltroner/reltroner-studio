@@ -14,7 +14,7 @@ _Compiled by Reltroner Studio | Astralis Pinnacle Certified_
 
 ### 🪐 **Purpose**
 The **Culture Impact Index** measures how deeply culture influences identity, innovation, stability, and cross-planetary influence in Asthortera — focusing on two civilizational giants:  
-**Reltronland** 🏙️ & **Depcutland** 🎭
+**Reltronland** 🏙️ & **Depcutland** 📖
 
 ---
 
@@ -58,7 +58,7 @@ The **Culture Impact Index** measures how deeply culture influences identity, in
 
 ---
 
-#### 🎭 **Depcutland**
+#### 📖 **Depcutland**
 - **Cultural Literacy:** 98%  
 - **Export Power (Annual):** 5.6T  
 - **Arts Participation:** 84%  
@@ -67,7 +67,7 @@ The **Culture Impact Index** measures how deeply culture influences identity, in
 
 ---
 
-### 🇷🇪 **Reltronland Highlights**
+### **Reltronland Highlights**
 - **Focus:** Futuristic minimalism, functional creativity, clean fashion
 - **Exports:** White-collar wear, structured literature, soft jazz-electronica, skyscraper aesthetics
 - **Philosophy:**  
@@ -77,7 +77,7 @@ The **Culture Impact Index** measures how deeply culture influences identity, in
 
 ---
 
-### 🇩🇪 **Depcutland Highlights**
+### **Depcutland Highlights**
 - **Focus:** Classical refinement, poetic law, theater arts
 - **Exports:** Victorian attire, drama literature, archival architecture
 - **Philosophy:**  

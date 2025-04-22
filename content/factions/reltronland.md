@@ -6,6 +6,10 @@ author: "Rei Reltroner"
 date: "2025-04-10"
 ---
 
+![reltronland1](/images/reltronland1.webp)
+![reltronland2](/images/reltronland2.webp)
+![reltronland3](/images/reltronland3.webp)
+
 ## 🛡️ Faction Profile: Reltronland
 
 ---
@@ -91,6 +95,7 @@ can thrive — regardless of origin.
 ---
 
 ## 🌐 National Data
+- **SDI (Sentient Development Index):** 0.984
 - **Population:** 272 billion sentient beings
   - 66% Depeisit-descended humans
   - 22% Cisthetan-descended humans

@@ -87,6 +87,16 @@ const myths = [
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-20"
+  },
+  {
+    title: "🌀 Existential Corrosion",
+    description: "Abyssal effect that erases individuals not through death, but through narrative and memory disintegration. One of the most terrifying weapons of the Nytherion Abyss.",
+    slug: "existential-corrosion",
+    image: "/images/existential-corrosion.webp",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-22",
+    tags: ["nytherion abyss", "memory", "existence", "psychological horror", "abyssal effects"]
   }
 ];
 
