@@ -102,13 +102,9 @@ Let this moment shatter what was hidden.
 Let the abyss taste fire.
 
 ---
-title: "🩸 The Core That Breathes Back"
-slug: "the-core-that-breathes-back"
-description: "After Kamila Alena's illusion collapses, the Heart of the Abyss reveals its true nature—not as a battlefield, but as a sentient entity feeding on emotion. Delwyn and the team must now confront not an enemy, but themselves."
-date: "2025-04-22"
-image: "/images/scenes/the-core-that-breathes-back-banner.png"
-tags: ["nytherion abyss", "kamila alena", "delwyn harper", "scene", "the abyss of comfort"]
----
+## 🩸 The Core That Breathes Back
+
+![the-core-that-breathes-back](/images/the-core-that-breathes-back.webp)
 
 > _“The Abyss doesn’t breathe to live.  
 It breathes to remember.”_
@@ -147,14 +143,23 @@ This is something they must **survive**.
 
 Each character is pulled into their own **inner spiral**:
 
-| Character   | Internal Conflict Manifested                   |
-|-------------|------------------------------------------------|
-| **Delwyn**  | Rage toward his father’s absence, turned inward  
-| **Bruce**   | Guilt for forgetting Andy—despite trying to remember  
-| **Barry**   | Doubt whether he matters beyond utility  
-| **Isaac**   | Isolation from humanity—fear that logic is cold  
-| **Rhys**    | Crushed by the weight of truths he buried  
-| **Karter**  | Haunted by how his neutrality led to innocent deaths  
+**Delwyn**  
+> Rage toward his father’s absence, turned inward.
+
+**Bruce**  
+> Guilt for forgetting Andy—despite trying to remember.
+
+**Barry**  
+> Doubt whether he matters beyond utility.
+
+**Isaac**  
+> Isolation from humanity—fear that logic is cold.
+
+**Rhys**  
+> Crushed by the weight of truths he buried.
+
+**Karter**  
+> Haunted by how his neutrality led to innocent deaths.
 
 ---
 
@@ -210,13 +215,9 @@ But it remembers who walked through it…
 and who walked out.”_
 
 ---
-title: "🌌 Legacy of Resistance Returns"
-slug: "legacy-of-resistance-returns"
-description: "As Delwyn and his allies escape the Heart of the Abyss, they discover the hidden key that once allowed Rei Reltroner to awaken from the spiral: the eternal sigil of Astralis, glowing where time collapsed."
-date: "2025-04-22"
-image: "/images/scenes/legacy-of-resistance-returns-banner.png"
-tags: ["the abyss of comfort", "delwyn harper", "rei reltroner", "astralis pinnacle", "abyssal finale"]
----
+## 🌌 Legacy of Resistance Returns
+
+![Legacy of Resistance Returns](/images/legacy-of-resistance-returns.webp)
 
 > _“We didn’t defeat the Abyss with strength.  
 We defeated it with remembrance.”_  
@@ -263,11 +264,14 @@ And he left this so we could too.”
 
 ## 🌀 Philosophical Closure
 
-| Truth                         | Realization                                   |
-|-------------------------------|-----------------------------------------------|
-| **Abyss cannot die**           | But it can be hollowed from within            |
-| **Comfort is seductive**       | But remembrance is stronger                   |
-| **Legacy is immortal**         | If it’s carved in pain, not praise            |
+**Truth:** *The Abyss cannot die*  
+> **Realization:** But it can be hollowed from within.
+
+**Truth:** *Comfort is seductive*  
+> **Realization:** But remembrance is stronger.
+
+**Truth:** *Legacy is immortal*  
+> **Realization:** If it’s carved in pain, not praise.
 
 > _“Rei didn’t leave a message.  
 He left a weapon.  
@@ -299,4 +303,4 @@ Let Astralis shine forever
 —through those who wake,  
 and those who will never forget.
 
-
+[🔙 Back to Events](https://www.reltroner.com/events)

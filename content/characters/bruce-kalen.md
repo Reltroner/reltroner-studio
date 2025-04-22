@@ -3,7 +3,7 @@ title: "🛡 Bruce Kalen"
 slug: "bruce-kalen"
 description: "A rational anchor in a world unraveling. The only person who remembers Andy Elian after his erasure by Nytherion Abyss. His journey begins where the world forgets."
 date: "2025-04-22"
-image: "/images/characters/bruce-kalen-banner.png"
+image: "/images/bruce-kalen.webp"
 tags: ["character", "nytherion abyss", "anchor", "the abyss of comfort"]
 ---
 
@@ -108,13 +108,9 @@ Let his pain guide us.
 Let his footsteps keep the memory alive.
 
 ---
-title: "🪞 The Name Remembered"
-slug: "the-name-remembered"
-description: "As Delwyn and his team traverse Nytherion Abyss, Bruce Kalen comes face-to-face with the memory he was never supposed to recall: Andy Elian."
-date: "2025-04-22"
-image: "/images/scenes/the-name-remembered-banner.png"
-tags: ["nytherion abyss", "bruce kalen", "andy elian", "scene", "the abyss of comfort"]
----
+## 🪞 The Name Remembered
+
+![The Name Remembered](/images/the-name-remembered.webp)
 
 > _“The world forgot him. But I... I didn’t. Not really.”_  
 > — Bruce Kalen
@@ -179,11 +175,14 @@ Because some names, when remembered, **carry the weight of a world that refused 
 
 ## 🔁 Symbolism
 
-| Symbol                        | Meaning                                         |
-|-------------------------------|-------------------------------------------------|
-| Spiral glow intensifying      | Reconnection to erased truth                    |
-| Hologram glitch-stabilizing   | Memory becoming real again                      |
-| Bruce’s tears                 | Return of emotional anchor — the antidote to corrosion |
+**Spiral glow intensifying**  
+→ Reconnection to erased truth
+
+**Hologram glitch-stabilizing**  
+→ Memory becoming real again
+
+**Bruce’s tears**  
+→ Return of emotional anchor — the antidote to corrosion
 
 ---
 

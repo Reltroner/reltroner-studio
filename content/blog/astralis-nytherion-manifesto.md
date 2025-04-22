@@ -50,13 +50,14 @@ Nytherion Abyss is the realm of:
 
 Every developer walks this tightrope:
 
-| Astralis 🔺 | Nytherion 🕳️ |
-|-------------|---------------|
-| Clarity | Confusion |
-| Purpose | Distraction |
-| Legacy | Likes |
-| Grit | Excuses |
-| Reality | Simulation |
+### 🔺 Astralis vs 🕳️ Nytherion
+
+**Clarity** ←→ **Confusion**  
+**Purpose** ←→ **Distraction**  
+**Legacy** ←→ **Likes**  
+**Grit** ←→ **Excuses**  
+**Reality** ←→ **Simulation**
+
 
 You can’t “visit” Astralis part-time.  
 You either commit to rise — or get swallowed back into the loop.

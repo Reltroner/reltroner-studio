@@ -3,7 +3,7 @@ title: "🩸 Andy Elian"
 slug: "andy-elian"
 description: "A curious soul who sought comfort in beauty and simplicity, until comfort became the doorway to erasure. The first known victim of Nytherion Abyss's existential corrosion."
 date: "2025-04-22"
-image: "/images/characters/andy-elian-banner.png"
+image: "/images/andy-elian.webp"
 tags: ["character", "nytherion abyss", "victim", "the abyss of comfort"]
 ---
 
@@ -104,13 +104,9 @@ Let his silence remind us:
 > _Even the most beautiful places can become gates to unbeing._
 
 ---
-title: "🧠 Andy Fragment Log"
-slug: "andy-fragment-log"
-description: "A corrupted memory log recovered deep within Nytherion Abyss. One of the few remaining traces of Andy Elian, the first known victim of total existential erasure."
-date: "2025-04-22"
-image: "/images/memory/andy-fragment-log-banner.png"
-tags: ["andy elian", "nytherion abyss", "memory fragment", "the abyss of comfort"]
----
+## 🧠 Andy Fragment Log
+
+![Andy Fragment Log](/images/andy-log.webp)
 
 > _“If this reaches anyone…  
 My name is Andy Elian. I’m still here. But not… fully.”_
@@ -129,7 +125,6 @@ My name is Andy Elian. I’m still here. But not… fully.”_
 
 ## 📝 Transcribed Voice Log (Fragmented)
 
-```
 [BEGIN LOG - AUDIO STABILIZATION 36%]
 
 (soft hum)
@@ -178,7 +173,6 @@ Even if they never knew me.
 Tell them I **was**.
 
 [END LOG]
-```
 
 ---
 
@@ -203,11 +197,11 @@ And whispered, for the first time in years:
 
 ---
 
-## 🌌 Abyssal Echo Rating
+## 📶 Abyssal Echo Rating
 
-| Signal Quality | Emotional Weight | Reality Distortion |
-|----------------|------------------|---------------------|
-| ✴️ Fragmented   | ❤️‍🔥 Devastating | 🌀 Moderate          |
+- **Signal Quality:** ✴️ Fragmented  
+- **Emotional Weight:** ❤️‍🔥 Devastating  
+- **Reality Distortion:** 🌀 Moderate
 
 ---
 

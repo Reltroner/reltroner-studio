@@ -113,6 +113,8 @@ export default function CommandPalette() {
     { name: "Wayne Astoner", path: "/characters/wayne-astoner", tag: "Characters" },
     { name: "Westley Watson", path: "/characters/westley-watson", tag: "Characters" },
     { name: "Moris Monte", path: "/characters/moris-monte", tag: "Characters" },
+    { name: "🩸 Andy Elian", path: "/characters/andy-elian", tag: "Characters" },
+    { name: "🛡 Bruce Kalen", path: "/characters/bruce-kalen", tag: "Characters" },
     // Cultures
     { name: "Children of Asthortera", path: "/cultures/children-of-asthortera" },
     { name: "Cuteness Manifesto", path: "/cultures/cuteness-manifesto" },
@@ -133,8 +135,10 @@ export default function CommandPalette() {
     { name: "Rei in Abyss: Spiral Memory", path: "/events/rei-in-abyss-spiral-memory" },
     { name: "Rei Shows Earth to Raina", path: "/events/rei-shows-earth" },
     { name: "Reltroner: The Boy Who Dropped Out to Build a Civilization", path: "/events/reltroner-dropout-manifesto" },
+    { name: "🕳️ The First Unraveling", path: "/events/the-first-unraveling" },
     { name: "🔥 Final Awakening", path: "/events/final-awakening" },
     { name: "🕳 Entering the Core-Eater", path: "/events/entering-the-core-eater" },
+    { name: "🩸 Confronting Kamila", path: "/events/confronting-kamila" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },

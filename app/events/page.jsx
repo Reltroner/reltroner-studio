@@ -99,16 +99,16 @@ const events = [
     published: true,
     tags: ["nytherion abyss", "the abyss of comfort", "core-eater", "delwyn harper", "scene"]
   },
-  // {
-  //   title: "🩸 Confronting Kamila",
-  //   description: "At the edge of the Heart of the Abyss, Delwyn Harper and his team come face-to-face with Kamila Alena, the human embodiment of Nytherion's comfort-based annihilation.",
-  //   slug: "confronting-kamila",
-  //   image: "/images/confronting-kamila.webp",
-  //   author: "Rei Reltroner",
-  //   date: "2025-04-22",
-  //   published: true,
-  //   tags: ["kamila alena", "nytherion abyss", "the abyss of comfort", "scene", "delwyn harper"]
-  // }
+  {
+    title: "🩸 Confronting Kamila",
+    description: "At the edge of the Heart of the Abyss, Delwyn Harper and his team come face-to-face with Kamila Alena, the human embodiment of Nytherion's comfort-based annihilation.",
+    slug: "confronting-kamila",
+    image: "/images/confronting-kamila.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-22",
+    published: true,
+    tags: ["kamila alena", "nytherion abyss", "the abyss of comfort", "scene", "delwyn harper"]
+  }
   // Tambahkan lebih banyak event di masa depan...
 ];
 

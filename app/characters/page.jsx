@@ -121,6 +121,24 @@ const characters = [
     date: "2025-04-17",
     image: "/images/moris-monte.webp",
     tags: ["Cenrestier", "Citadeladia", "Memory Series", "Castle Lore"]
+},
+{
+    title: "🩸 Andy Elian",
+    role: "The Victim of Nytherion Abyss",
+    description: "A curious soul who sought comfort in beauty and simplicity, until comfort became the doorway to erasure. The first known victim of Nytherion Abyss's existential corrosion.",
+    slug: "andy-elian",
+    date: "2025-04-22",
+    image: "/images/andy-elian.webp",
+    tags: ["character", "nytherion abyss", "victim", "the abyss of comfort"]
+},
+{
+    title: "🛡 Bruce Kalen",
+    role: "The Rational Anchor",
+    description: "A rational anchor in a world unraveling. The only person who remembers Andy Elian after his erasure by Nytherion Abyss. His journey begins where the world forgets.",
+    slug: "bruce-kalen",
+    date: "2025-04-22",
+    image: "/images/bruce-kalen.webp",
+    tags: ["character", "nytherion abyss", "anchor", "the abyss of comfort"]
 }
   
 ];
