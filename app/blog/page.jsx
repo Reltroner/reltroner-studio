@@ -15,14 +15,6 @@ const posts = [
       date: "March 8, 2025"
   },
   {
-      title: "Legal Disclaimer",
-      description: "Clarifying the originality of Astralis Pinnacle, Red Pill concepts, and the legacy of Reltroner Studio.",
-      slug: "legal-disclaimer",
-      image: "/images/legal-disclaimer.webp",
-      author: "Reltroner Studio",
-      date: "March 14, 2025"
-  },
-  {
       title: "Pi Day News",
       description: "An inspiring speech by President Relugus Rigle during the Pi Day celebration in Reltronepolis.",
       slug: "pinews",
