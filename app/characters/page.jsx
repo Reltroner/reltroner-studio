@@ -38,7 +38,7 @@ const characters = [
   },
   {
       title: "Kamila Alena",
-      role: "Founder of Henchoeway",
+      role: "Leader of Henchoeway",
       description: "The silent origin of Nytherion's chaos, carrying pain turned into strategy.",
       slug: "kamila-alena",
       image: "/images/kamila-alena.webp",

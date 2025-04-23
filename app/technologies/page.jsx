@@ -42,6 +42,33 @@ const techs = [
     published: true,
     date: "2025-04-11",
   },
+  {
+    title: "🌍♻️ Advanced Waste Management System in Reltronland",
+    description: "Discover how Reltronland leads Asthortera with its AI-powered waste system—featuring 100+ smart bins that reject improper trash and monitor urban hygiene in real time.",
+    slug: "reltronland-waste-management",
+    image: "/images/reltronland-waste-management.webp",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-23",
+  },
+  {
+    title: "⚛️ Anti-Matter Energy Tech of Reltronland",
+    description: "Explore Reltronland’s most advanced energy frontier—an antimatter-powered grid fueled by cosmic particles, Aurora synchronization, and ethical quantum control.",
+    slug: "reltronland-antimatter-energy",
+    image: "/images/reltronland-antimatter-energy.webp",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-23"
+  },
+  {
+    title: "🌌 Aurora Synchronization Technologies Across Asthortera",
+    description: "Explore how every nation in Asthortera harnesses the aurora—not just as light, but as energy, memory, and consciousness in motion.",
+    slug: "aurora-synchronization-tech",
+    image: "/images/aurora-synchronization-tech.webp",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-23"
+  }
 ];
 
 

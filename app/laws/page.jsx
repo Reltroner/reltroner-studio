@@ -86,7 +86,16 @@ const laws = [
     author: "Rei Reltroner",
     date: "2025-04-22",
     published: true
-  }
+  },
+  {
+    title: "⚖️ Energy Codex Year 949 BAC — Asthortera Planetary Mandate",
+    description: "The sacred law that governs all energy across Asthortera—ensuring that no power shall rise above sentient harmony and cosmic ethics.",
+    slug: "energy-codex-949",
+    image: "/images/energy-codex-949.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-23",
+    published: true
+  },
   
   // Tambahkan lebih banyak Law di masa depan...
 ];

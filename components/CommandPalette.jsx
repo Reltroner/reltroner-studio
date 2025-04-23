@@ -210,18 +210,23 @@ export default function CommandPalette() {
     { name: "Aurastelia Governance Model", path: "/laws/aurastelia-governance-model" },
     { name: "🛡️ Reltronland Tobacco Regulation Act", path: "/laws/reltronland-tobacco-regulation" },
     { name: "📜 Reltronland Civilized Taxation Charter", path: "/laws/reltronland-taxation-charter"},
+    { name: "⚖️ Energy Codex Year 949 BAC — Asthortera Planetary Mandate", path: "/laws/energy-codex-949"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },
     { name: "Entropy Firewall", path: "/technologies/entropy-firewall" },
     { name: "Quantum Memory Cloud", path: "/technologies/quantum-memory-cloud" },
+    { name: "🌍♻️ Advanced Waste Management System in Reltronland", path: "/technologies/reltronland-waste-management" },
+    { name: "⚛️ Anti-Matter Energy Tech of Reltronland", path: "/technologies/reltronland-antimatter-energy" },
+    { name: "🌌 Aurora Synchronization Technologies Across Asthortera", path: "/technologies/aurora-synchronization-tech" },
     //Principles
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
     { name: "The Death of Feudalism: Astralis Principle 07", path: "/principles/death-of-feudalism" },
     { name: "Code of Ethics: Zero Tolerance for Sexual Content", path: "/principles/anti-sexual-content" },
     { name: "📘 YouTubers Have Channels, I Have a Civilization", path: "/principles/youtubers-have-civilization" },
     { name: "Multirealm Authority", path: "/principles/multirealm-authority" },
+    { name: "🌍 Asthortera Type I.9 Doctrine", path: "/principles/asthortera-type-i9-doctrine" },
 
   ];
 

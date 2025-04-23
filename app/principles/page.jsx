@@ -49,6 +49,16 @@ const principles = [
     date: "2025-04-20",
     published: true,
     image: "/images/youtubers-have-civilization.webp"
+  },
+  {
+    title: "🌍 Asthortera Type I.9 Doctrine",
+    description: "A philosophical manifesto defining Asthortera’s conscious choice to remain a Type I.9 civilization—balancing immense planetary power with deep spiritual restraint.",
+    slug: "asthortera-type-i9-doctrine",
+    author: "Rei Reltroner",
+    date: "2025-04-23",
+    published: true,
+    tags: ["Asthortera", "Type I.9", "Doctrine"],
+    image: "/images/asthortera-type-i9-doctrine.webp"
   }
   
   // Tambahkan lebih banyak principle di masa depan...
