@@ -43,8 +43,9 @@ This document provides a detailed overview of the sentient population structures
 - **Composition:**
   - 70% Cosmeilia-Human Mixed
   - 20% Native Cosmeilian Sentients
-  - 5% Immigrants from Asthortera
-  - 4% Immigrants from Depeisit
+  - 4% Immigrants from Asthortera
+  - 3% Immigrants from Depeisit
+  - 2% Immigrants from Cistheta
   - 1% Others (alien humanoids, hybrids)
 - **Notable Characteristic:** Ethereal beauty and cosmic spirituality define the dominant population. No full-blooded Earth-human exists in Cosmeilia as native.
 

@@ -30,7 +30,15 @@ const philosophies = [
     image: "/images/no-right-no-wrong-banner.webp",
     author: "Rei Reltroner",
     date: "2025-04-20"
-  },  
+  },
+  {
+    title: "🌍 Why Immigrants Choose Asthortera",
+    description: "Despite not leading in Kardashev scale, Asthortera offers the galaxy’s most balanced civilization—where SDI, spirit, and sentient dignity converge.",
+    slug: "why-immigrants-choose-asthortera",
+    image: "/images/why-immigrants-choose-asthortera.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-23"
+  },
   {
     title: "🧩 The Wall of Silenced Builders",
     description: "A sacred wall honoring the forgotten creators—those whose voices were silenced not because they failed, but because they were too real, too raw, too visionary to be understood by rigid systems. This wall remembers them all.",

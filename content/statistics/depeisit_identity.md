@@ -15,6 +15,7 @@ Depeisit is a once-glorious planet, now spiritually stagnant—an empire of comf
 ---
 
 ## 🧬 Core Identity
+- **SDI (Sentient Development Index):** `0.852 / 1.000`
 - **Dominant Species:** Human (Caucasian-European resemblance)  
 - **Total Sentient Population:** ~25 trillion  
 - **Population Composition:**  

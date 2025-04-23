@@ -15,6 +15,7 @@ Cistheta is a hyper-urbanized, high-speed civilization where digital ecosystems 
 ---
 
 ## 🪐 Core Identity
+- **SDI (Sentient Development Index):** `0.898 / 1.000`
 - **Dominant Population:** Humans of East Asian Mongoloid origin  
 - **Total Sentient Population:** ~10 trillion  
 
