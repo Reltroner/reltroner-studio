@@ -90,6 +90,16 @@ const places = [
     author: "Rei Reltroner",
     date: "2025-04-23",
     published: true
+  },
+  {
+    title: "🚧 Neiput Border: Gateway Between Reltronland and Depcutland",
+    description: "A symbolic and strategic passageway between two civilizational titans—Reltronland and Depcutland. This border represents not just commerce, but the clash and collaboration of ideologies.",
+    slug: "neiput-border-trade-gateway",
+    image: "/images/depcutland-reltronland-border.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-23",
+    published: true,
+    date: "2025-04-23"
   }
 ];
 

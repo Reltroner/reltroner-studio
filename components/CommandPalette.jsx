@@ -163,6 +163,7 @@ export default function CommandPalette() {
     { name: "Why Aurastelia is the Most Beautiful Realm", path: "/places/why-aurastelia-is-the-most-beautiful-realm" },
     { name: "🏙️ Reltralia District Layers", path: "/places/reltralia-district-layers" },
     { name: "🗺️ Asthortera World Map — Development Progress Overview", path: "/places/asthortera-world-map-progress" },
+    { name: "🚧 Neiput Border: Gateway Between Reltronland and Depcutland", path: "/places/neiput-border-trade-gateway" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
