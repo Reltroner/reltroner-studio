@@ -162,6 +162,7 @@ export default function CommandPalette() {
     { name: "The Safe House Pact", path: "/places/the-safe-house-pact" },
     { name: "Why Aurastelia is the Most Beautiful Realm", path: "/places/why-aurastelia-is-the-most-beautiful-realm" },
     { name: "🏙️ Reltralia District Layers", path: "/places/reltralia-district-layers" },
+    { name: "🗺️ Asthortera World Map — Development Progress Overview", path: "/places/asthortera-world-map-progress" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
