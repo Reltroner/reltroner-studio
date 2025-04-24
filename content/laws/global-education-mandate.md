@@ -96,7 +96,7 @@ Failure to comply may result in:
 ## 🏛 Key Legal Origin
 
 - **Location of ratification:** **Stelhaven**, Kalgered  
-- **Year of adoption:** 98 AU (After Unification)  
+- **Year of adoption:** 825 BAC 
 - **Regulation Number:** KAL-EDEX-UNIM/47  
 - **Oversight Body:** Kalgered Office of Global Education & Ethics (KOGEE)
 
