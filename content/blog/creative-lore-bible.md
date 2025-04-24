@@ -257,7 +257,7 @@ Let Astralis light the unknown.
 
 ---
 
-🔙 Back to [Home](https://www.reltroner.com/)
+[🔙 Back to Home](https://www.reltroner.com/)
 
 ➡️ To [External Creator Handbook](https://www.reltroner.com/blog/external-creator-handbook)
 

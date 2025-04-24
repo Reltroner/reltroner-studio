@@ -795,3 +795,4 @@ To escape collapse, one must embrace **disciplined discomfort**—the pain of fo
 Let Astralis light the unknown.
 Let collapse end not with a fall, but a refusal to stay still.
 
+[🔙 Back to Philosophies](https://www.reltroner.com/philosophies)
