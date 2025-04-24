@@ -99,7 +99,7 @@ can thrive — regardless of origin.
 - **Population:** 272 billion sentient beings
   - 66% Depeisit-descended humans
   - 22% Cisthetan-descended humans
-  - 5% native Asthorteran hybrids (Human-Wizard-Witch)
+  - 5% Asthortera's original species (Human-Wizard-Witch)
   - 4% Cosmeilia Cosmic Races (and mixed bloodlines)
   - 3% other interplanetary immigrants and mixed species
 - **Land Area:** 25 million km²
