@@ -25,7 +25,7 @@ date: "2025-04-10"
 ### 📊 Key Stats
 - **SDI (Sentient Development Index):** 0.983
 - **Population:** 85 billion sentient beings
-- **Land Area:** 11 million km²
+- **Land Area:** 12.5 million km²
   - 81% of people of planetary descent **Depeisit**
   - 10% of people of planetary descent **Cistheta**
   - 4% of Asthortera's original species (* Human-Wizard-Witch*)
