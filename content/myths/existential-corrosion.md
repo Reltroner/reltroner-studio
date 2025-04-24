@@ -71,9 +71,9 @@ Not only does the person vanish, but their identity begins to corrupt others—p
 ## 🎬 Seen in: *The Abyss of Comfort – "The Erased Traces"*
 
 In this episode, character A is consumed by Nytherion Abyss through comfort addiction.  
-Their erasure triggers B’s spiral into a mystery of loss, with *Existential Corrosion* as the core mechanism.
+Their erasure triggers character B’s spiral into a mystery of loss, with *Existential Corrosion* as the core mechanism.
 
-> Every step toward the truth draws B closer to **being forgotten themselves.**
+> Every step toward the truth draws character B closer to **being forgotten themselves.**
 
 ---
 

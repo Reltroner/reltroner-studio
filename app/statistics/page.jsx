@@ -102,6 +102,15 @@ const statistics = [
     author: "Rei Reltroner",
     date: "2025-04-21",
     published: true
+  },
+  {
+    title: "🚀 Interstellar Mobility Index (IMI) — Asthortera",
+    description: "A ranked evaluation of Asthortera’s top interstellar hubs based on launch throughput, route coverage, passenger flux, and energy integration.",
+    slug: "interstellar-mobility-index",
+    image: "/images/interstellar-mobility-index.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-24",
+    published: true
   }
 ];
 

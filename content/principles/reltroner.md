@@ -62,13 +62,28 @@ It is an elite unit of sentient builders, coders, and thinkers.
 
 ## 🧬 Culture Summary
 
-| Pillar         | Description                                      |
-|----------------|--------------------------------------------------|
-| 🔧 Meritocracy | Rank by contribution, not title.                 |
-| 🔥 Hustle      | We move fast, break comfort, and fix meaningfully. |
-| 🧠 Awareness   | If it must be written, then write it now.        |
-| 📡 Execution   | Every task is a mission. No "half-commits."      |
-| 🛡️ Code Security | No bug survives. No breach tolerated. |
+#### 🔧 **Meritocracy**  
+Rank by contribution, not title.
+
+---
+
+#### 🔥 **Hustle**  
+We move fast, break comfort, and fix meaningfully.
+
+---
+
+#### 🧠 **Awareness**  
+If it must be written, then write it now.
+
+---
+
+#### 📡 **Execution**  
+Every task is a mission. No “half-commits.”
+
+---
+
+#### 🛡️ **Code Security**  
+No bug survives. No breach tolerated.
 
 ---
 

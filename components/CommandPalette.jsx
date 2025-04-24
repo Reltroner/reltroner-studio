@@ -167,6 +167,9 @@ export default function CommandPalette() {
     { name: "🏙️ Reltralia District Layers", path: "/places/reltralia-district-layers" },
     { name: "🗺️ Asthortera World Map — Development Progress Overview", path: "/places/asthortera-world-map-progress" },
     { name: "🚧 Neiput Border: Gateway Between Reltronland and Depcutland", path: "/places/neiput-border-trade-gateway" },
+    { name: "🚉 Reltronepolis Central Station — Heart of Sentient Mobility", path: "/places/reltronepolis-central-station" },
+    { name: "✈️ RAIA — Reltronepolis Aeropolis International Airport", path: "/places/reltronepolis-aeropolis-raia" },
+    { name: "✈️ PAIA — Pasgerflit Aeropolis International Airport Hub", path: "/places/paia-aeropolis-hub" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
@@ -186,11 +189,13 @@ export default function CommandPalette() {
     { name: "Reltronland SDI Score Matrix", path: "/statistics/sdi-score-matrix" },
     { name: "Education Civilization Index", path: "/statistics/edu-civilization-index" },
     { name: "🎭 Culture Impact Index – Asthortera Edition", path: "/statistics/culture-impact-index"},
+    { name: "🚀 Interstellar Mobility Index (IMI) — Asthortera", path: "/statistics/interstellar-mobility-index"},
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     { name: "♾️ Immortality Protocol – Astralis-Bound Entities", path: "/philosophies/immortality-protocol" },
     { name: "📜 There is No Right or Wrong in Worldbuilding", path: "/philosophies/no-right-no-wrong" },
     { name: "🌍 Why Immigrants Choose Asthortera", path: "/philosophies/why-immigrants-choose-asthortera" },
+    { name: "🌐 Worlds for Enthusiasts — Pasgerflit, Moreg, and Hargenbor", path: "/philosophies/worlds-for-enthusiasts" },
     { name: "📜 The Builders Who Were Misjudged", path: "/philosophies/misjudged-builders" },
     { name: "🛡️ I Am Not the Villain You Feared", path: "/philosophies/not-the-villain" },
     { name: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real", path: "/philosophies/system-mistakes-you" },

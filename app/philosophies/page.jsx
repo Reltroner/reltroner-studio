@@ -40,6 +40,14 @@ const philosophies = [
     date: "2025-04-23"
   },
   {
+    title: "🌐 Worlds for Enthusiasts — Pasgerflit, Moreg, and Hargenbor",
+    description: "An exploration of three unique nations in Asthortera—Pasgerflit, Moreg, and Hargenbor—designed not from personal interest, but as heartfelt homes for aviation, automotive, and naval enthusiasts across the galaxy.",
+    slug: "worlds-for-enthusiasts",
+    image: "/images/worlds-for-enthusiasts.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-24"
+  },
+  {
     title: "🧩 The Wall of Silenced Builders",
     description: "A sacred wall honoring the forgotten creators—those whose voices were silenced not because they failed, but because they were too real, too raw, too visionary to be understood by rigid systems. This wall remembers them all.",
     slug: "wall-of-silenced-builders",

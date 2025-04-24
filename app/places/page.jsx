@@ -100,6 +100,36 @@ const places = [
     date: "2025-04-23",
     published: true,
     date: "2025-04-23"
+  },
+  {
+    title: "🚉 Reltronepolis Central Station — Heart of Sentient Mobility",
+    description: "The continent-scale central terminal of Reltronland, integrating every mass transit mode except interstellar, and serving as the mobility pulse of Trons Square District.",
+    slug: "reltronepolis-central-station",
+    image: "/images/reltronepolis-central-station.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-24",
+    published: true,
+    tags: ["reltronepolis", "transportation", "urbanism", "architecture"]
+  },
+  {
+    title: "✈️ RAIA — Reltronepolis Aeropolis International Airport",
+    description: "Reltronland’s primary spaceport for planetary and interstellar travel, seamlessly linked with RCS and powered by hybrid antimatter and aurora systems.",
+    slug: "reltronepolis-aeropolis-raia",
+    image: "/images/reltronepolis-aeropolis-raia.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-24",
+    published: true,
+    tags: ["reltronepolis", "transportation", "urbanism", "architecture"]
+  },
+  {
+    title: "✈️ PAIA — Pasgerflit Aeropolis International Airport Hub",
+    description: "The largest and most advanced interstellar and planetary air hub in Asthortera, representing Pasgerflit’s core identity as the world of endless airports.",
+    slug: "paia-aeropolis-hub",
+    image: "/images/paia-aeropolis-hub.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-24",
+    published: true,
+    tags: ["pasgerflit", "transportation", "urbanism", "architecture"]
   }
 ];
 

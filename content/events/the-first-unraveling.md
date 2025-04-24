@@ -23,12 +23,12 @@ What begins as a tale of two close companions, filled with exploration and share
 
 ## 📖 Summary
 
-- Andy Elian and B are lifelong companions—explorers, creators, or defenders of knowledge.
+- Andy Elian and Bruce Kalen are lifelong companions—explorers, creators, or defenders of knowledge.
 - Andy Elian begins showing signs of **emotional retreat**: longing for comfort, avoiding discomfort, and clinging to routine.
 - In an instant that no one recalls, Andy Elian is gone. Not dead—**absent**.  
   There is no body. No history. No trace in collective memory.
 - Bruce Kalen feels an unexplainable loss—an ache where meaning used to live.
-- Attempts to ask about A result in confusion, blank stares, or complete memory gaps.
+- Attempts to ask about Andy Elian result in confusion, blank stares, or complete memory gaps.
 
 ---
 

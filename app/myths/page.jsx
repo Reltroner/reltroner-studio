@@ -109,7 +109,7 @@ const myths = [
     tags: ["nytherion abyss", "abyssal lore", "blue pill", "existential horror", "reltroner studio"]
   },
   {
-    title: "Silent Echoes of Henchoeway",
+    title: "🤿Silent Echoes of Henchoeway",
     description: "Subtle artifacts and rumors scattered across Asthortera, spreading Henchoeway’s presence like a virus of consciousness.",
     slug: "silent-echoes-of-henchoeway",
     image: "/images/silent-echoes-of-henchoeway.webp",

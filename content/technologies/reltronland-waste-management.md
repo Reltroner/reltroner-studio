@@ -11,7 +11,7 @@ image: "/images/reltronland-waste-management.webp"
 
 In the heart of **Reltronland’s urban ecosystem**, lies the most sophisticated waste management system in all of **Asthortera**.
 
-### 🗑️ **Smart Bins Every 50 Meters**
+### 🗑️ **Smart Bins Every 100 Meters**
 Over **100 types of categorized bins** are deployed every **50 meters** across all urban zones. These bins are not just physical containers—they are **intelligent filtration units** powered by AI and sensor technology.
 
 ### 🚫 **Rejecting Improper Waste**
@@ -25,7 +25,7 @@ The system is integrated with a **centralized dashboard** monitored by environme
 
 ---
 
-## ** How Smart Trash Cans Work in Reltronland**
+## How Smart Trash Cans Work in Reltronland
 
 1️⃣ **Each trash can has a sensor & AI Sorting System**
 - If someone throws inappropriate trash, **the trash can will reject it**.
