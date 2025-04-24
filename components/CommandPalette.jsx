@@ -139,6 +139,7 @@ export default function CommandPalette() {
     { name: "🔥 Final Awakening", path: "/events/final-awakening" },
     { name: "🕳 Entering the Core-Eater", path: "/events/entering-the-core-eater" },
     { name: "🩸 Confronting Kamila", path: "/events/confronting-kamila" },
+    { name: "🌌 Timeline: History of Asthortera, Reltronland, and Depcutland", path: "/events/history-timeline" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
@@ -150,6 +151,8 @@ export default function CommandPalette() {
     { name: "🩸 The Feeding Stair", path: "/myths/the-feeding-stair" },
     { name: "🌀 The Spiral Maw", path: "/myths/the-spiral-maw" },
     { name: "🌀 Existential Corrosion", path: "/myths/existential-corrosion"},
+    { name: "🕳️ How the Abyss Feeds", path: "/myths/how-the-abyss-feeds"},
+    { name: "🤿Silent Echoes of Henchoeway", path: "/myths/silent-echoes-of-henchoeway"},
     // Organizations
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
@@ -214,6 +217,7 @@ export default function CommandPalette() {
     { name: "🛡️ Reltronland Tobacco Regulation Act", path: "/laws/reltronland-tobacco-regulation" },
     { name: "📜 Reltronland Civilized Taxation Charter", path: "/laws/reltronland-taxation-charter"},
     { name: "⚖️ Energy Codex Year 949 BAC — Asthortera Planetary Mandate", path: "/laws/energy-codex-949"},
+    { name: "🌐 Global Education Mandate in Asthortera", path: "/laws/global-education-mandate"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

@@ -16,12 +16,12 @@ const events = [
     published: true
   },
   {
-    title: "Scout Parade in Evercotage",
-    description: "Highlight of the grand Scout Parade in Evercotage, the capital of Stelpadland.",
-    slug: "scoutparade",
-    image: "/images/scout-parade.webp",
-    author: "Raidan",
-    date: "March 16, 2025"
+    title: "🌌 Timeline: History of Asthortera, Reltronland, and Depcutland",
+    description: "A curated historical overview of Asthortera’s civilizations, chronicling the rise of Reltronland and Depcutland—two superpowers born from divergence, vision, and conflict.",
+    slug: "history-timeline",
+    date: "2025-04-23",
+    image: "/images/history-timeline.webp",
+    tags: ["timeline", "asthortera", "reltronland", "depcutland", "history"]
   },
   {
     title: "Origins of Reltronland",
@@ -42,6 +42,16 @@ const events = [
     published: true
   },
   {
+    title: "Reltroner: The Boy Who Dropped Out to Build a Civilization",
+    description: "From failure to foundation. How dropping out became the first brick of Astralis Pinnacle and the birth of Reltroner Studio.",
+    slug: "reltroner-dropout-manifesto",
+    image: "/images/reltroner-dropout-manifesto.webp",
+    author: "Reltroner Studio",
+    date: "2025-04-22",
+    published: true,
+    tags: ["manifesto", "reltroner studio", "astralis", "dropout", "philosophy"]
+  },
+  {
     title: "When Raina Read The Letter",
     description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words.",
     slug: "when-raina-read-the-letter",
@@ -60,14 +70,12 @@ const events = [
     published: true
   },
   {
-    title: "Reltroner: The Boy Who Dropped Out to Build a Civilization",
-    description: "From failure to foundation. How dropping out became the first brick of Astralis Pinnacle and the birth of Reltroner Studio.",
-    slug: "reltroner-dropout-manifesto",
-    image: "/images/reltroner-dropout-manifesto.webp",
-    author: "Reltroner Studio",
-    date: "2025-04-22",
-    published: true,
-    tags: ["manifesto", "reltroner studio", "astralis", "dropout", "philosophy"]
+    title: "Scout Parade in Evercotage",
+    description: "Highlight of the grand Scout Parade in Evercotage, the capital of Stelpadland.",
+    slug: "scoutparade",
+    image: "/images/scout-parade.webp",
+    author: "Raidan",
+    date: "March 16, 2025"
   },
   {
     title: "🕳️ The First Unraveling",
@@ -108,7 +116,8 @@ const events = [
     date: "2025-04-22",
     published: true,
     tags: ["kamila alena", "nytherion abyss", "the abyss of comfort", "scene", "delwyn harper"]
-  }
+  },
+  
   // Tambahkan lebih banyak event di masa depan...
 ];
 

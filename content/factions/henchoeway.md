@@ -226,4 +226,4 @@ It must be resisted in thought, rejected in culture, and outgrown in spirit.
 
 ---
 
-📍 Return to [Organizations Overview](https://reltroner.com/factions)
+📍 Return to [Factions Overview](https://reltroner.com/factions)

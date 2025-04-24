@@ -72,7 +72,7 @@ const myths = [
   },
   {
     title: "🩸 The Feeding Stair",
-    description: "A mobile-friendly abyssal architecture analysis of the Feeding Stair inside Nytherion.",
+    description: "An abyssal architecture analysis of the Feeding Stair inside Nytherion.",
     slug: "the-feeding-stair",
     image: "/images/the-feeding-stair.webp",
     author: "Rei Reltroner",
@@ -80,7 +80,7 @@ const myths = [
     date: "2025-04-20"
   },
   {
-    title: "The Spiral Maw",
+    title: "🌀The Spiral Maw",
     description: "The Stair That Hungers and Thinks. A place where descent is not a path—but submission.",
     slug: "the-spiral-maw",
     image: "/images/the-spiral-maw.webp",
@@ -89,7 +89,7 @@ const myths = [
     date: "2025-04-20"
   },
   {
-    title: "🌀 Existential Corrosion",
+    title: "Existential Corrosion",
     description: "Abyssal effect that erases individuals not through death, but through narrative and memory disintegration. One of the most terrifying weapons of the Nytherion Abyss.",
     slug: "existential-corrosion",
     image: "/images/existential-corrosion.webp",
@@ -97,6 +97,26 @@ const myths = [
     published: true,
     date: "2025-04-22",
     tags: ["nytherion abyss", "memory", "existence", "psychological horror", "abyssal effects"]
+  },
+  {
+    title: "🕳️ How the Abyss Feeds",
+    description: "An official myth entry explaining the feeding nature of Nytherion Abyss, its connection to Blue Pill energy, and why it cannot be destroyed—only starved.",
+    slug: "how-the-abyss-feeds",
+    image: "/images/how-the-abyss-feeds.webp",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-22",
+    tags: ["nytherion abyss", "abyssal lore", "blue pill", "existential horror", "reltroner studio"]
+  },
+  {
+    title: "Silent Echoes of Henchoeway",
+    description: "Subtle artifacts and rumors scattered across Asthortera, spreading Henchoeway’s presence like a virus of consciousness.",
+    slug: "silent-echoes-of-henchoeway",
+    image: "/images/silent-echoes-of-henchoeway.webp",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-22",
+    tags: ["henchoeway", "nytherion abyss", "abyssal lore", "psychological horror", "cultural spread"]
   }
 ];
 

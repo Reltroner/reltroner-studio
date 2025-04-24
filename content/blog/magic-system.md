@@ -58,7 +58,7 @@ Commonly found in corrupt bureaucracies, cult leaders, passive elites, or anyone
 
 ## ⚔️ Clash of Realms
 
-The battle between **Astralis Pinnacle** and **Nytherion Abyss** is not merely magical — it's psychological, philosophical, and spiritual. This duality fuels the conflicts in *The Abyss of Comfort* and explains the inner battles faced by protagonists like **Delwyn Harper**, **Wayne Astoner**, and **Faye Callister**.
+The battle between **Astralis Pinnacle** and **Nytherion Abyss** is not merely magical — it's psychological, philosophical, and spiritual. This duality fuels the conflicts in *The Abyss of Comfort* and explains the inner battles faced by protagonists like **Delwyn Harper**, **Isaac Luminar**, and **Bruce Kalenr**.
 
 ## 🌌 System Comparison: Astralis vs Nytherion
 

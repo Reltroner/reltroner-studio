@@ -96,6 +96,16 @@ const laws = [
     date: "2025-04-23",
     published: true
   },
+  {
+    title: "🌐 Global Education Mandate in Asthortera",
+    description: "A planetary law mandating all nations in Asthortera to implement cybergogical and experiential education with global travel integration.",
+    slug: "global-education-mandate",
+    image: "/images/global-education-mandate.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-23",
+    published: true,
+    tags: ["education", "cybergogy", "international law", "policy", "kalgered"]
+  }
   
   // Tambahkan lebih banyak Law di masa depan...
 ];
