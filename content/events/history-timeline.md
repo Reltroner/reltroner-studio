@@ -75,34 +75,34 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 
 ## 🌌 Crisis and Fragmentation Era
 
-**997 BAC** — *Depeisit Economic Collapse*
+**1057 BAC** — *Depeisit Economic Collapse*
 - Second wave of migrants; Depcutland becomes haven for political refugees and technocrats.
 
-**988 BAC** — *Neiput Border Crisis*
+**1048 BAC** — *Neiput Border Crisis*
 - Cutneiput vs Troneiput dispute intensifies the divide.
 
-**987 BAC** — *Reiweston Bay Trade Crisis*
+**1047 BAC** — *Reiweston Bay Trade Crisis*
 - A ship is intercepted, causing a diplomatic fallout.
 
 ---
 
 ## 🌌 Rebellion and Nation-Building Era
 
-**975 BAC** — *Birth of Two Movements*
+**1035 BAC** — *Birth of Two Movements*
 - **Konsorsium Reltron** founded by Erhard.
 - **Depcut Independence Council** led by Vardik Glouster.
 
-**970 BAC** — *Reltralia Incident*
+**1030 BAC** — *Reltralia Incident*
 - Clashes erupt over mineral exploitation rights.
 
-**955 BAC** — *Trade and Industry Blockade*
+**1015 BAC** — *Trade and Industry Blockade*
 - Reltronland imposes embargo; Depcutland escalates industrial buildup.
 
 ---
 
 ## 🌌 Dual Declaration of Sovereignty
 
-**950 BAC** — *Declaration of Independence*
+**1010 BAC** — *Declaration of Independence*
 - Reltronland and Depcutland declare full autonomy from one another.
 - Reiweston Bay becomes ideological faultline.
 
@@ -113,7 +113,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 
 ## 🌌 Post-Independence Reconstruction
 
-**948–930 BAC** — *Era of National Development*
+**948–849 BAC** — *Era of National Development*
 - Reltronland: Builds Reltralia and Reltronepolis.
 - Depcutland: Constructs The Endless Library of Depcutland, expands Urbanization.
 
