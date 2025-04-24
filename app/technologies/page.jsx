@@ -68,6 +68,15 @@ const techs = [
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-23"
+  },
+  {
+    title: "☀️ Solar Flare Technology in Asthortera",
+    description: "A deep exploration into how Asthortera transforms wild solar flare energy bursts into structured energy systems using satellites, towers, and hybrid reactors—balancing cosmic chaos with sentient design.",
+    slug: "solar-flare-technology",
+    image: "/images/solar-flare-technology.webp",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-04-24"
   }
 ];
 

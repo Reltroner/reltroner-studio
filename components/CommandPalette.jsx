@@ -232,6 +232,7 @@ export default function CommandPalette() {
     { name: "🌍♻️ Advanced Waste Management System in Reltronland", path: "/technologies/reltronland-waste-management" },
     { name: "⚛️ Anti-Matter Energy Tech of Reltronland", path: "/technologies/reltronland-antimatter-energy" },
     { name: "🌌 Aurora Synchronization Technologies Across Asthortera", path: "/technologies/aurora-synchronization-tech" },
+    { name: "☀️ Solar Flare Technology in Asthortera", path: "/technologies/solar-flare-technology" },
     //Principles
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
     { name: "The Death of Feudalism: Astralis Principle 07", path: "/principles/death-of-feudalism" },
