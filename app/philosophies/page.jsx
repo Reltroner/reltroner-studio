@@ -48,6 +48,14 @@ const philosophies = [
     date: "2025-04-24"
   },
   {
+    title: "🧠 Reltronland vs Depcutland: A Tale of Divergent Souls",
+    description: "Two nations, one origin—Reltronland and Depcutland walk diverging paths of clarity and elegance. Discover their souls in contrast.",
+    slug: "reltronland-vs-depcutland-soul",
+    image: "/images/reltronland-vs-depcutland-soul.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-25"
+  },
+  {
     title: "🧩 The Wall of Silenced Builders",
     description: "A sacred wall honoring the forgotten creators—those whose voices were silenced not because they failed, but because they were too real, too raw, too visionary to be understood by rigid systems. This wall remembers them all.",
     slug: "wall-of-silenced-builders",
