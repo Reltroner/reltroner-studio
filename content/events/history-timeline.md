@@ -135,7 +135,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ## 📚 Roadmap Series Asthortera - Reltroner Studio
 
 **1. Title:** *The Spiral and The Astralis*
-**Timeline:** Year 0–15 AC
+**Timeline:** Year 0–15 AC  
 **Main POV:** Rei Reltroner  
 **Summary:** The origin story of Rei Reltroner, revealing his early awakening to Spiral Energy and his first encounter with Astralis Pinnacle. Explores the philosophical conflict between destiny and free will, and Rei’s resistance against the inner pull of Evara, the Spiral's emissary.
 **Key Scenes:**  
@@ -146,7 +146,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **2. Title:** *Spiral Containment Initiative*  
-**Timeline:** Year 0–15 AC
+**Timeline:** Year 0–15 AC  
 **Main POV:** Rei (as Little Rere)  
 **Summary:** Under the disguise of "Little Rere," Rei infiltrates underground facilities to contain abyssal anomalies. It's a secret, cerebral, and stealth-driven arc full of codes, pseudoscience, and ethical dilemmas.
 **Key Scenes:**  
@@ -157,7 +157,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **3. Title:** *Karler & The Moreg Driftwar*  
-**Timeline:** Year 0–25 AC
+**Timeline:** Year 0–25 AC  
 **Main POV:** Karler Miles & Rei (split POV)  
 **Summary:** A technology-driven war sparked by the misuse of Drift Tech linked to Spiral corruption. Karler, a data engineer, teams up with Rei to end the madness while struggling with the cost of innovation.
 **Key Scenes:**  
@@ -168,7 +168,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **4. Title:** *Rise & Fall of Henchoeway*  
-**Timeline:** Year 6–20 AC
+**Timeline:** Year 6–20 AC  
 **Main POV:** Delwyn, Rei, Barry  
 **Summary:** The internal collapse of the once-idealistic Henchoeway group. Delwyn’s infiltration exposes Kamila’s descent into extremist philosophy. Rei and Barry are caught in the moral chaos.
 **Key Scenes:**  
@@ -179,7 +179,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **5. Title:** *The Abyss of Comfort*  
-**Timeline:** Year 6–25 AC
+**Timeline:** Year 6–25 AC  
 **Main POV:** Delwyn, Barry, Bruce  
 **Summary:** The spiritual war against Nytherion Abyss. Focuses on internal suffering, illusions of comfort, and the search for truth through the "Energy Red Pill." A deeply emotional and philosophical arc.
 **Key Scenes:**  
@@ -190,7 +190,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **6. Title:** *Delwyn’s Bounty Hunter Team*  
-**Timeline:** Year 6–25 AC
+**Timeline:** Year 6–25 AC  
 **Main POV:** Delwyn, Isaac, Barry  
 **Summary:** Episodic missions across Asthortera to hunt key figures tied to Henchoeway and Spiral syndicates. A mix of action, dialogue-heavy planning, and bonding.
 **Key Scenes:**  
@@ -201,7 +201,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **7. Title:** *Barry & Hendry Arc*  
-**Timeline:** Year 6–25 AC
+**Timeline:** Year 6–25 AC  
 **Main POV:** Barry & Hendry  
 **Summary:** A side series focusing on Barry's cynical wit and Hendry's unorthodox tactics in destroying Spiral cult branches.
 **Key Scenes:**  
@@ -212,7 +212,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **8. Title:** *Valethra & Albert Arc*  
-**Timeline:** Year 6–25 AC
+**Timeline:** Year 6–25 AC  
 **Main POV:** Valethra, Albert  
 **Summary:** Combines science and spirituality. Valethra and Albert investigate ancient celestial codes and find themselves targeted by mysterious prophets known as Celestial Deceivers.
 **Key Scenes:**  
@@ -223,7 +223,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **9. Title:** *The Freezone Code*  
-**Timeline:** Year 11–13 AC
+**Timeline:** Year 11–13 AC  
 **Main POV:** Wayne, Raina  
 **Summary:** A fast-paced mystery thriller in the Freezone where encryption, identity, and espionage collide. Wayne and Raina uncover Caldron Gandia's plot to rewrite economic systems.
 **Key Scenes:**  
@@ -234,7 +234,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **10. Title:** *Oakcottage: A Name I Should Have Known*  
-**Timeline:** Year 12–14 AC
+**Timeline:** Year 12–14 AC  
 **Main POV:** Franklin Scouter  
 **Summary:** The emotional collapse of a scout leader after losing his best friend to public hatred and Nytherion Abyss. Slow-paced and poetic.
 **Key Scenes:**  
@@ -245,7 +245,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 ---
 
 **11. Title:** *Battle of Reltronepolis*  
-**Timeline:** Year 16–20 AC
+**Timeline:** Year 16–20 AC  
 **Main POV:** All protagonists (rotating POVs per chapter)  
 **Summary:** The peak of military conflict. The superpower cities clash, powered by Spiral energy and ideologies. Reltronepolis becomes the stage for all stories to converge.
 **Key Scenes:**  
