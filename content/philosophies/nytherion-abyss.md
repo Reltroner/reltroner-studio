@@ -342,73 +342,6 @@ That childhood fear — born from audio and visual immersion — isn’t a weakn
 
 ---
 
-# 💀 Final Showdown: Kamila, the Abyss, and the End of Henchoeway
-
----
-
-## ⚫ 1. Henchoeway's Power — Centralized and Condensed
-
-All remaining energy and power once scattered across Henchoeway’s vast network in Asthortera has been **drawn into one forbidden place**: Nytherion Abyss. It’s not just a hidden zone — it’s the **final and most concentrated form of Henchoeway’s power**.
-
----
-
-## 🖤 2. Kamila Alena — The Final Manifestation
-
-Kamila Alena is more than just Henchoeway’s leader — she is the **human embodiment of the Nytherion Abyss itself**. She stands as the avatar of the accumulated destruction, fear, and power forged over decades. 
-
-When protagonists fight her within the heart of the Abyss, they’re not just fighting a person — they’re confronting **the entire legacy of Henchoeway’s manipulation and terror** made flesh.
-
----
-
-## 🧿 3. Fighting Two Entities at Once
-
-Kamila may be the visible enemy on the battlefield — but the protagonists are also locked in battle with **Nytherion Abyss itself**. Kamila is merely its arm, a weapon animated by its core. Defeating her means severing the connection — and unraveling the Abyss from within.
-
----
-
-## 🧠 4. The Philosophical Weight
-
-This moment isn't just epic — it's symbolic. To overcome the deepest darkness in life (fear, comfort, internal weakness), one must confront its **final form — the form it takes when you're almost ready to surrender**.
-
-Kamila represents the **final evolution of the blue pill**: seductive safety, false control, and the illusion that retreat is strength. To defeat her is to **tear free from every version of comfort you once accepted**.
-
----
-
-## 🌌 5. Atmosphere of the Fight
-
-As the battle unfolds, Nytherion Abyss begins to awaken. 
-
-- Walls pulse like a living organism.
-- Whispers echo from every corner — voices from past failures.
-- Every strike from Kamila is charged with **the Abyss’s will**, shaking not just the body, but the mind.
-
-This isn’t just a physical fight — it’s a war within. 
-
-Each protagonist must confront despair, fear, hopelessness — and make the choice to rise above it.
-
----
-
-## 🔥 6. The Collapse and the Exit
-
-When Kamila falls — **so does the Abyss**. Her existence was the final thread keeping the dimension alive.
-
-As the dimension begins to implode, the Aurora Gateway becomes their only escape. Those who survive the collapse aren’t just escaping destruction — they’re escaping **the grip of every psychological chain the Abyss ever held.**
-
-> *They didn’t just win the war — they shattered the illusion.*
-
----
-
-## 🏆 What This Battle Really Means
-
-This final confrontation isn’t just about who has the most power.
-
-> *It’s about who has the strongest will — to reject comfort, to resist fear, and to walk straight into the unknown… and never turn back.*
-
-- **Ending Reflection:**
-> *“Victory isn’t in defeating the enemy outside, but in facing the abyss within, and choosing to rise anyway.”*
-
----
-
 # 🕳️ Abyss as Deception
 
 > _“The most dangerous lie is the one that feels safe.”_  
@@ -785,6 +718,73 @@ Where the Abyss sedates, **Astralis stings.**
 Where the Abyss comforts, **Astralis confronts.**
 
 To escape collapse, one must embrace **disciplined discomfort**—the pain of forging meaning in a world that would rather forget.
+
+---
+
+# 💀 Final Showdown: Kamila, the Abyss, and the End of Henchoeway
+
+---
+
+## ⚫ 1. Henchoeway's Power — Centralized and Condensed
+
+All remaining energy and power once scattered across Henchoeway’s vast network in Asthortera has been **drawn into one forbidden place**: Nytherion Abyss. It’s not just a hidden zone — it’s the **final and most concentrated form of Henchoeway’s power**.
+
+---
+
+## 🖤 2. Kamila Alena — The Final Manifestation
+
+Kamila Alena is more than just Henchoeway’s leader — she is the **human embodiment of the Nytherion Abyss itself**. She stands as the avatar of the accumulated destruction, fear, and power forged over decades. 
+
+When protagonists fight her within the heart of the Abyss, they’re not just fighting a person — they’re confronting **the entire legacy of Henchoeway’s manipulation and terror** made flesh.
+
+---
+
+## 🧿 3. Fighting Two Entities at Once
+
+Kamila may be the visible enemy on the battlefield — but the protagonists are also locked in battle with **Nytherion Abyss itself**. Kamila is merely its arm, a weapon animated by its core. Defeating her means severing the connection — and unraveling the Abyss from within.
+
+---
+
+## 🧠 4. The Philosophical Weight
+
+This moment isn't just epic — it's symbolic. To overcome the deepest darkness in life (fear, comfort, internal weakness), one must confront its **final form — the form it takes when you're almost ready to surrender**.
+
+Kamila represents the **final evolution of the blue pill**: seductive safety, false control, and the illusion that retreat is strength. To defeat her is to **tear free from every version of comfort you once accepted**.
+
+---
+
+## 🌌 5. Atmosphere of the Fight
+
+As the battle unfolds, Nytherion Abyss begins to awaken. 
+
+- Walls pulse like a living organism.
+- Whispers echo from every corner — voices from past failures.
+- Every strike from Kamila is charged with **the Abyss’s will**, shaking not just the body, but the mind.
+
+This isn’t just a physical fight — it’s a war within. 
+
+Each protagonist must confront despair, fear, hopelessness — and make the choice to rise above it.
+
+---
+
+## 🔥 6. The Collapse and the Exit
+
+When Kamila falls — **so does the Abyss**. Her existence was the final thread keeping the dimension alive.
+
+As the dimension begins to implode, the Aurora Gateway becomes their only escape. Those who survive the collapse aren’t just escaping destruction — they’re escaping **the grip of every psychological chain the Abyss ever held.**
+
+> *They didn’t just win the war — they shattered the illusion.*
+
+---
+
+## 🏆 What This Battle Really Means
+
+This final confrontation isn’t just about who has the most power.
+
+> *It’s about who has the strongest will — to reject comfort, to resist fear, and to walk straight into the unknown… and never turn back.*
+
+- **Ending Reflection:**
+> *“Victory isn’t in defeating the enemy outside, but in facing the abyss within, and choosing to rise anyway.”*
 
 ---
 
