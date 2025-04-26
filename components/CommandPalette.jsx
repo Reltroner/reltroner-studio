@@ -225,6 +225,7 @@ export default function CommandPalette() {
     { name: "📜 Reltronland Civilized Taxation Charter", path: "/laws/reltronland-taxation-charter"},
     { name: "⚖️ Energy Codex Year 949 BAC — Asthortera Planetary Mandate", path: "/laws/energy-codex-949"},
     { name: "🌐 Global Education Mandate in Asthortera", path: "/laws/global-education-mandate"},
+    { name: "🏛️ Sentient Zoning Integrity Act — Reltronland", path: "/laws/sentient-zoning-integrity-act"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

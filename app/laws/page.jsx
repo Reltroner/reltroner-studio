@@ -105,7 +105,17 @@ const laws = [
     date: "2025-04-23",
     published: true,
     tags: ["education", "cybergogy", "international law", "policy", "kalgered"]
-  }
+  },
+  {
+    title: "🏛️ Sentient Zoning Integrity Act — Reltronland",
+    description: "A legislative cornerstone ensuring that land usage in Reltronland aligns with the ethical, cognitive, and developmental evolution of its sentient population.",
+    slug: "sentient-zoning-integrity-act",
+    image: "/images/sentient-zoning-integrity-act.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-26",
+    published: true,
+    tags: ["zoning", "land use", "law", "policy", "reltronland"]
+  },
   
   // Tambahkan lebih banyak Law di masa depan...
 ];

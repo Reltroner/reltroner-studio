@@ -89,27 +89,6 @@ The only one who remembers the source and **creator** of the abyss. Holds the st
 
 ---
 
-### 🧍‍♂️ Delwyn Harper  
-**Resistance Score:** **4 / 5**  
-**Description:**  
-Traumatized survivor, partially immune due to *Aurora Gateway* exposure. Needs constant inner strength to resist full collapse.
-
----
-
-### 🧍‍♂️ Wayne Astoner  
-**Resistance Score:** **1 / 5**  
-**Description:**  
-Temporarily manipulated by illusions. Needs external emotional anchors (like Raina) to resist complete submission.
-
----
-
-### 🧍‍♀️ Raina Veltrania  
-**Resistance Score:** **2 / 5**  
-**Description:**  
-Once vulnerable to deep depression, now stabilized through love and understanding. However, remains emotionally sensitive to abyss triggers.
-
----
-
 ### 📋 Rating Scale:
 - **5 = Full Resistance (almost unbreakable)**
 - **4 = Strong Resistance (rarely shaken)**
