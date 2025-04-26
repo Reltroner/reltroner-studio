@@ -237,6 +237,7 @@ export default function CommandPalette() {
     { name: "☀️ Solar Flare Technology in Asthortera", path: "/technologies/solar-flare-technology" },
     //Principles
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
+    { name: "💸 Funded Roadmap — If This Project Gets Backed", path: "/principles/funded-roadmap" },
     { name: "The Death of Feudalism: Astralis Principle 07", path: "/principles/death-of-feudalism" },
     { name: "Code of Ethics: Zero Tolerance for Sexual Content", path: "/principles/anti-sexual-content" },
     { name: "📘 YouTubers Have Channels, I Have a Civilization", path: "/principles/youtubers-have-civilization" },

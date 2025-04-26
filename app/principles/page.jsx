@@ -15,6 +15,14 @@ const principles = [
     date: "2025-03-22"
   },
   {
+    title: "💸 Funded Roadmap — If This Project Gets Backed",
+    description: "A masterlist of systems, upgrades, and innovations awaiting realization—activated only through investor support or external funding.",
+    slug: "funded-roadmap",
+    image: "/images/funded-roadmap.webp",
+    author: "Reltroner Studio",
+    date: "2025-04-26"
+  },
+  {
     title: "The Death of Feudalism: Astralis Principle 07",
     description: "Reltronland’s ideological extermination of hierarchy-based dominance and inherited power.",
     slug: "death-of-feudalism",
