@@ -41,7 +41,7 @@ The **Silent Mouthpiece** is a relic of ancient entropy, unearthed from beneath 
 
 ## 📜 Historic Mentions
 - The earliest poetic mention is found in **Beluftner’s Vanishing Book**, describing _“an object that consumes without asking, whose silence swallows kings.”_
-- One relic researcher vanished in 2413 AC after 12 minutes of unsupervised proximity.
+- One relic researcher vanished in 6 AC after 12 minutes of unsupervised proximity.
 - Delwyn Harper once stood near it during his initiation trial — and survived.
 
 ---

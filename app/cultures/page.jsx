@@ -97,9 +97,16 @@ const cultures = [
     date: "2025-04-16",
     published: true,
     image: "/images/gender-friendship-manifesto.webp"
-  }
-  
-  
+  },
+  {
+    title: "📜 Reltronland Meeting Manifesto",
+    description: "Discover how Reltronland redefines meetings with a culture of pure efficiency, no excessive formalities, and true meritocracy — a new global standard for collaboration.",
+    slug: "meeting-reltronland",
+    author: "Reltroner Studio",
+    date: "2025-04-16",
+    published: true,
+    image: "/images/meeting-reltronland.webp"
+  }  
 
 ];
 

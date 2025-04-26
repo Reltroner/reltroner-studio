@@ -796,3 +796,5 @@ Let Astralis light the unknown.
 Let collapse end not with a fall, but a refusal to stay still.
 
 [🔙 Back to Philosophies](https://www.reltroner.com/philosophies)
+
+**© Reltroner Studio – The Abyss of Comfort**

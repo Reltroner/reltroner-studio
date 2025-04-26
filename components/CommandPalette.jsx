@@ -127,6 +127,7 @@ export default function CommandPalette() {
     { name: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto", path: "/cultures/anti-klise-gender-friendship" },
     { name: "Aurora Faith of Aurastelia", path: "/cultures/aurora-faith" },
     { name: "Gender Friendship Manifesto of Asthortera", path: "/cultures/gender-friendship-manifesto" },
+    { name: "📜 Reltronland Meeting Manifesto", path: "/cultures/meeting-reltronland" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },
