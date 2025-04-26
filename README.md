@@ -25,7 +25,7 @@ This project serves as a digital home for articles, lore, and self-reflections a
 ├── styles/             # Global CSS
 ├── .gitignore
 └── README.md
-
+```
 📚 About the Project
 Reltroner Studio was founded by Raidan, the creator of Asthortera, as a hub for creative expression and fictional storytelling.
 It focuses on the conflict between comfort and consciousness through a narrative lens.
@@ -38,9 +38,6 @@ Unauthorized reproduction or plagiarism of the world Reltroner, Reltronland, or 
 
 If you'd like to collaborate or credit this work, please contact the creator first.
 
-[License](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
+![License](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
 
-
-[Status](https://img.shields.io/badge/status-Active-blue)
-
-
+![Status](https://img.shields.io/badge/status-Active-blue)
