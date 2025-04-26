@@ -38,9 +38,9 @@ Unauthorized reproduction or plagiarism of the world Reltroner, Reltronland, or 
 
 If you'd like to collaborate or credit this work, please contact the creator first.
 
-![License](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
+[License](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
 
 
-![Status](https://img.shields.io/badge/status-Active-blue)
+[Status](https://img.shields.io/badge/status-Active-blue)
 
 
