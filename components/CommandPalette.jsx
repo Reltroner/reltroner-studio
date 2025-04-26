@@ -191,6 +191,7 @@ export default function CommandPalette() {
     { name: "Education Civilization Index", path: "/statistics/edu-civilization-index" },
     { name: "🎭 Culture Impact Index – Asthortera Edition", path: "/statistics/culture-impact-index"},
     { name: "🚀 Interstellar Mobility Index (IMI) — Asthortera", path: "/statistics/interstellar-mobility-index"},
+    { name: "🕳️ Nytherion Abyss Horror Index Map", path: "/statistics/nytherion-abyss-horror-index"},
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     { name: "♾️ Immortality Protocol – Astralis-Bound Entities", path: "/philosophies/immortality-protocol" },

@@ -1,3 +1,12 @@
+---
+title: "🕳️ Nytherion Abyss Horror Index Map"
+description: "A layered psychological index mapping the fear, trauma, and existential horror within Nytherion Abyss — surpassing traditional narratives and revealing the true depth of Asthortera’s most enigmatic dimension."
+image: "/images/nytherion-abyss-horror-index.webp"
+author: "Rei Reltroner"
+date: "2025-04-26"
+published: true
+---
+
 # 🕳️ Nytherion Abyss Horror Index Map
 > _"There is no monster scarier than yourself. And no abyss darker than the comfort you never escaped."_  
 > — Rei Reltroner, Creator of Astralis Pinnacle

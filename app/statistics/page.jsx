@@ -111,6 +111,15 @@ const statistics = [
     author: "Rei Reltroner",
     date: "2025-04-24",
     published: true
+  },
+  {
+    title: "🕳️ Nytherion Abyss Horror Index Map",
+    description: "A layered psychological index mapping the fear, trauma, and existential horror within Nytherion Abyss — surpassing traditional narratives and revealing the true depth of Asthortera’s most enigmatic dimension.",
+    slug: "nytherion-abyss-horror-index",
+    image: "/images/nytherion-abyss-horror-index.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-26", 
+    published: true
   }
 ];
 
