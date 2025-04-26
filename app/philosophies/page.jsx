@@ -32,6 +32,14 @@ const philosophies = [
     date: "2025-04-20"
   },
   {
+    title: "Sentient Value Reflection Theory (SVRT)",
+    description: "A groundbreaking philosophy stating that the authenticity, depth, and admiration of fictional worlds directly mirror the growth, discipline, and sentient development of their creators.",
+    slug: "sentient-value-reflection-theory",
+    date: "2025-04-26",
+    author: "Rei Reltroner",
+    image: "/images/sentient-value-reflection-theory.webp"
+  },  
+  {
     title: "🌍 Why Immigrants Choose Asthortera",
     description: "Despite not leading in Kardashev scale, Asthortera offers the galaxy’s most balanced civilization—where SDI, spirit, and sentient dignity converge.",
     slug: "why-immigrants-choose-asthortera",

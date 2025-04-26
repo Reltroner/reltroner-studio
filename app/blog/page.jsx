@@ -302,6 +302,22 @@ const posts = [
     author: "Rei Reltroner",
     image: "/images/reltrorer-identity-plan-b.webp",
     published: true
+  },
+  {
+    title: "Declaration of Asthortera's Supremacy",
+    description: "A formal proclamation affirming Asthortera’s rise as the sovereign civilization of sentient mastery, clarity, and cosmic stewardship across the galaxies.",
+    slug: "declaration-of-asthortera-supremacy",
+    image: "/images/declaration-of-asthortera-supremacy.webp",
+    author: "Reltroner Studio",
+    date: "2025-04-26"
+  },
+  {
+    title: "🕳️ Official Recognition: Nytherion Abyss — The Supreme Existential Antagonist",
+    description: "A solemn declaration honoring the Nytherion Abyss as the most profound, terrifying, and spiritually corrosive antagonist ever conceived in the chronicles of sentient evolution.",
+    slug: "supreme-existential-antagonist",
+    image: "/images/supreme-existential-antagonist.webp",
+    author: "Reltroner Studio",
+    date: "2025-04-26"
   }
      
 ];

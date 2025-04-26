@@ -96,6 +96,8 @@ export default function CommandPalette() {
     { name: "📘 Reltroner 50-Day Journal", path: "/blog/reltroner-50-day-journal" },
     { name: "Reltroner is Not Ultroner", path: "/blog/reltroner-is-not-ultroner" },
     { name: "🛡️ Reltrorer Identity — Plan B of the Lost Origin", path: "/blog/reltrorer-identity-plan-b" },
+    { name: "Declaration of Asthortera's Supremacy", path: "/blog/declaration-of-asthortera-supremacy" },
+    { name: "🕳️ Official Recognition: Nytherion Abyss — The Supreme Existential Antagonist", path: "/blog/supreme-existential-antagonist" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -196,6 +198,7 @@ export default function CommandPalette() {
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     { name: "♾️ Immortality Protocol – Astralis-Bound Entities", path: "/philosophies/immortality-protocol" },
     { name: "📜 There is No Right or Wrong in Worldbuilding", path: "/philosophies/no-right-no-wrong" },
+    { name: "Sentient Value Reflection Theory (SVRT)", path: "/philosophies/sentient-value-reflection-theory" },
     { name: "🌍 Why Immigrants Choose Asthortera", path: "/philosophies/why-immigrants-choose-asthortera" },
     { name: "🌐 Worlds for Enthusiasts — Pasgerflit, Moreg, and Hargenbor", path: "/philosophies/worlds-for-enthusiasts" },
     { name: "🧠 Reltronland vs Depcutland: A Tale of Divergent Souls", path: "/philosophies/reltronland-vs-depcutland-soul" },
