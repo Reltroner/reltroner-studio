@@ -56,6 +56,8 @@ Rei Reltroner, also known as *The Astralis Architect*, enters **Super Smash Bros
 
 ![Signature Moveset](/images/litlle-rere-jet.webp)
 ![little-rei-sticker](/images/little-rei-sticker.webp)
+![rei-angle-maskot](/images/rei-angle-maskot.webp)
+![rere2](/images/rere2.webp)
 ---
 
 ## 🌟 Passive Ability
