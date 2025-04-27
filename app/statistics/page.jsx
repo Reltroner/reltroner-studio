@@ -7,6 +7,15 @@ export const metadata = {
 
 const statistics = [
   {
+    title: "🌍 Asthortera vs Earth: Planetary Comparison",
+    description: "A detailed and immersive comparison between Earth and the fictional Super Earth, Asthortera — exploring differences in planetary size, population, life expectancy, gravity adaptation, and civilization advancement. Discover how Asthortera envisions a future of resilience, innovation, and spiritual growth across a grander world.",
+    slug: "asthortera-vs-earth",
+    image: "/images/asthortera-vs-earth.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-27", 
+    published: true
+  },
+  {
     title: "Sentient Composition Across Planets",
     description: "An overview of the dominant sentient species and human lineages inhabiting the primary planets in the Asthortera galaxy.",
     author: "Rei Reltroner",
