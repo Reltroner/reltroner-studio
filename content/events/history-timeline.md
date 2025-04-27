@@ -157,6 +157,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 **844 BAC** — *Formation of Global Union in Stelhaven, Kalgered*
 - Asthortera declares recognition of all sovereign states.
 
+![history-timeline-block](/images/history-timeline-2.webp)
 ---
 
 ## 🌌 Modern Canon Timeline (AC)
