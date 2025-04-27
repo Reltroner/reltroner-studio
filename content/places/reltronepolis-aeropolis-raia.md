@@ -36,7 +36,7 @@ RAIA is the **primary planetary and interstellar mobility hub** for Reltronland,
 ### 🚉 Connectivity
 - Direct ARL connection to **Reltronepolis Central Station** 
 - Internal **Autonomous SkyTram Network** within RAIA campus
-- Hyperloop connector to **North Reltralia Cargo Port**
+- Hyperloop connector to **East RAIA Cargo Port**
 
 ---
 
