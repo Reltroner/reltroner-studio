@@ -18,8 +18,8 @@ Despite the passage of time, Cenrestier has maintained a cultural continuity tha
 
 - **Country Name:** Cenrestier  
 - **Nickname:** Land of Fortresses  
-- **Area:** 25 million km²  
-- **Population:** 15 billion people  
+- **Area:** 102 million km²  
+- **Population:** 61 billion people  
 - **Capital:** **Citadeladia** — A sprawling capital renowned for its majestic castles, ornate stone bridges, and pristine preservation of Germanic medieval architecture. Citadeladia is both a cultural and spiritual beacon, where tradition, order, and education define daily life.
 
 ---

@@ -96,13 +96,13 @@ can thrive — regardless of origin.
 
 ## 🌐 National Data
 - **SDI (Sentient Development Index):** 0.984
-- **Population:** 272 billion sentient beings
+- **Population:** 855 billion sentient beings
   - 66% Depeisit-descended humans
   - 22% Cisthetan-descended humans
   - 5% Asthortera's original species (Human-Wizard-Witch)
   - 4% Cosmeilia Cosmic Races (and mixed bloodlines)
   - 3% other interplanetary immigrants and mixed species
-- **Land Area:** 25 million km²
+- **Land Area:** 104 million km²
 - **Capital:** **Reltralia** — the political and policy epicenter
 - **Official Language:** Reltronian (infused with Depeisian and Cisthetan)
 - **Currency:** **REL** (Reltronian Credit)

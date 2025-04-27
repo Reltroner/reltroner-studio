@@ -63,8 +63,8 @@ It answers with continuity.
 
 - **Country Name:** Kalgered  
 - **Nickname(s):** *The Neutral Heart of Asthortera*, *Haven of Diplomacy*, *Land of Accord and Precision*  
-- **Area:** 26 million km²  
-- **Population:** 14 billion sentient beings  
+- **Area:** 108 million km²  
+- **Population:** 58 billion sentient beings  
 - **Capital City:** **Neuvalden** — epicenter of planetary diplomacy and governance  
 - **Institutional Capital:** **Stelhaven** — headquarters of global organizations and interplanetary institutions  
 - **Official Language:** **Kalgerian** (a formal, structured variant of ancient Germanic)  
