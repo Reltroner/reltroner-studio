@@ -33,7 +33,7 @@ Despite design limitations and lack of guidance, I chose to stay on track and **
 ---
 
 ## 📂 GitHub / Project Repository
-> *https://github.com/Reltroner/employee-management.git*
+[employee-management.git](https://github.com/Reltroner/employee-management.git)
 
 ---
 
