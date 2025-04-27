@@ -32,7 +32,7 @@ But it surpasses all of them in **SDI (Sentient Development Index)** with a scor
    Inclusive healthcare, universal education, clean environments, and career mobility for all sentient species.
 
 2. **Ethical Energy Governance**\
-   Powered by the **Energy Codex Year 974**, Asthortera prohibits exploitative systems and prioritizes conscious technology.
+   Powered by the **Energy Codex Year 949 BAC**, Asthortera prohibits exploitative systems and prioritizes conscious technology.
 
 3. **True Meritocracy**\
    Citizenship, careers, and advancement based on contribution—not origin or wealth. No feudalism, no class oppression.
