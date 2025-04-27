@@ -43,6 +43,15 @@ const events = [
     published: true
   },
   {
+    title: "Declaration of War Victory",
+    description: "The pivotal moment that defined Reltronland's ascendancy and Depcutland's transformation. This article chronicles the aftermath of the Great Declaration War, highlighting the victories, struggles, and evolving destinies of two divergent nations.",
+    slug: "declaration-war-victory",
+    image: "/images/declaration-war-victory.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-22",
+    published: true
+  },
+  {
     title: "Reltroner: The Boy Who Dropped Out to Build a Civilization",
     description: "From failure to foundation. How dropping out became the first brick of Astralis Pinnacle and the birth of Reltroner Studio.",
     slug: "reltroner-dropout-manifesto",

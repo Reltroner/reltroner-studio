@@ -5,6 +5,7 @@ slug: "declaration-of-asthortera-supremacy"
 image: "/images/declaration-of-asthortera-supremacy.webp"
 author: "Reltroner Studio"
 date: "2025-04-26"
+published: true
 ---
 
 # 🌌 Declaration of Asthortera's Supremacy

@@ -309,7 +309,8 @@ const posts = [
     slug: "declaration-of-asthortera-supremacy",
     image: "/images/declaration-of-asthortera-supremacy.webp",
     author: "Reltroner Studio",
-    date: "2025-04-26"
+    date: "2025-04-26",
+    published: true
   },
   {
     title: "🕳️ Official Recognition: Nytherion Abyss — The Supreme Existential Antagonist",
@@ -317,8 +318,19 @@ const posts = [
     slug: "supreme-existential-antagonist",
     image: "/images/supreme-existential-antagonist.webp",
     author: "Reltroner Studio",
-    date: "2025-04-26"
+    date: "2025-04-26",
+    published: true
+  },
+  {
+    title: "🤝 What if Chiss and Reltronland Formed a Diplomatic Pact?",
+    description: "An alternate history exploring the monumental alliance between Chiss Ascendancy and Reltronland, forging a new era of sentient growth, technological renaissance, and galactic stability through reason and clarity.",
+    slug: "chiss-reltronland",
+    image: "/images/chiss-reltronland.webp",
+    author: "Reltroner Studio",
+    date: "2025-04-27",
+    published: true
   }
+  
      
 ];
 

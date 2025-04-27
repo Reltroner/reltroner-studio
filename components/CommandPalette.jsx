@@ -98,6 +98,7 @@ export default function CommandPalette() {
     { name: "🛡️ Reltrorer Identity — Plan B of the Lost Origin", path: "/blog/reltrorer-identity-plan-b" },
     { name: "Declaration of Asthortera's Supremacy", path: "/blog/declaration-of-asthortera-supremacy" },
     { name: "🕳️ Official Recognition: Nytherion Abyss — The Supreme Existential Antagonist", path: "/blog/supreme-existential-antagonist" },
+    { name: "🤝 What if Chiss and Reltronland Formed a Diplomatic Pact?", path: "/blog/chiss-reltronland" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -143,6 +144,7 @@ export default function CommandPalette() {
     { name: "🕳 Entering the Core-Eater", path: "/events/entering-the-core-eater" },
     { name: "🩸 Confronting Kamila", path: "/events/confronting-kamila" },
     { name: "🌌 Timeline: History of Asthortera, Reltronland, and Depcutland", path: "/events/history-timeline" },
+    { name: "Declaration of War Victory", path: "/events/declaration-war-victory" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
