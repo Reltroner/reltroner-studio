@@ -16,7 +16,7 @@ const events = [
     published: true
   },
   {
-    title: "🌌 Timeline: History of Asthortera, Reltronland, and Depcutland",
+    title: "🗓️ Timeline: History of Asthortera, Reltronland, and Depcutland",
     description: "A curated historical overview of Asthortera’s civilizations, chronicling the rise of Reltronland and Depcutland—two superpowers born from divergence, vision, and conflict.",
     slug: "history-timeline",
     author: "Rei Reltroner",

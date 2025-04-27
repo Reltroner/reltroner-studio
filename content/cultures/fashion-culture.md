@@ -190,7 +190,7 @@ It is designed to:
 
 ---
 
-## 🇷🇪 Section II: Reltronland Wardrobe Specifications
+## Section II: Reltronland Wardrobe Specifications
 
 ### 📘 Official Elements
 - White long-sleeve collared shirts (smooth texture, ironed)
@@ -232,7 +232,7 @@ It is designed to:
 
 ---
 
-## 🇩🇪 Section III: Depcutland Wardrobe Specifications
+## Section III: Depcutland Wardrobe Specifications
 
 ### 📗 Official Elements
 - 19th-century inspired formal suits in maroon, brown, navy
