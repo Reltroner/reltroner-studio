@@ -161,6 +161,7 @@ export default function CommandPalette() {
     // Organizations
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
+    { name: "🛡️ Reltronland Space Command (RSC)", path: "/organizations/reltronland-space-command" },
     // Places
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },

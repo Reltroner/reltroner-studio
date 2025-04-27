@@ -26,7 +26,7 @@ RAIA is the **primary planetary and interstellar mobility hub** for Reltronland,
 
 ### 🛫 Terminal System
 1. **T1–T900** — Asthorteran continent-to-continent flights
-2. **T901–T1800** — Interplanetary transit (Depeisit, Cistheta, Pencilfania)
+2. **T901–T1800** — Interplanetary transit (Depeisit, Cistheta, Cosmeilia)
 3. **T1801–T2700** — Full interstellar routes and heavy orbital operations
 4. **T-R Core** — Diplomatic, royal, and spiritual class protocols
 5. **T2701–T2844** — Private elite aerospace & technocratic deployments

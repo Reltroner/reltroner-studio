@@ -21,7 +21,16 @@ const organizations = [
     image: "/images/henchoeway.webp", 
     author: "Rei Reltroner",
     date: "2025-04-07"
+  },
+  {
+    title: "🛡️ Reltronland Space Command (RSC)",
+    description: "The supreme void defense and exploration fleet of Reltronland, forged through sentient clarity, strategic realism, and unwavering discipline to safeguard sentient evolution across the galaxy.",
+    slug: "reltronland-space-command",
+    image: "/images/reltronland-space-command.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-27"
   }
+  
 ];
 
 export default function Organizations() {
