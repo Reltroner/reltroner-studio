@@ -153,10 +153,24 @@ This name will remain protected under creative commons, open authorship, and nar
 
 ---
 
+All content on this website — including stories, world-building systems, character concepts, and digital assets — are original works unless otherwise stated.
+
+References, inspirations, or character resemblances to existing media are purely for personal expression, tribute, or thematic illustration.  
+They are not intended for commercial use, ownership claim, or violation of any intellectual property rights.
+
+Any external properties referenced remain fully owned by their respective copyright holders.
+
+If you are a copyright holder and believe your rights may have been infringed unintentionally, please contact us.  
+We are committed to resolving any concerns promptly and respectfully.
+
+---
+
 ## 🖋️ Contact and Transparency
 
 If you represent an entity that wishes to inquire about naming distinctions or explore collaboration, feel free to reach out via the official portal at:
 **www.reltroner.com/contact**
+
+Thank you for supporting a studio that values creativity, authenticity, and respectful creation.
 
 Let clarity protect the dream.  
 Let Astralis light the unknown.

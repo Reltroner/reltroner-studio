@@ -28,12 +28,13 @@ date: "2025-04-10"
 - **Land Area:** 12.5 million km²
   - 81% of people of planetary descent **Depeisit**
   - 10% of people of planetary descent **Cistheta**
-  - 4% of Asthortera's original species (* Human-Wizard-Witch*)
+  - 4% of Asthortera's original species (*Human-Wizard-Witch*)
   - 3% Cosmeilia Cosmic Races (and mixed bloodlines)
-  - 2% more (*mixed species, humanoids, alien hybrids *)
+  - 2% more (*mixed species, humanoids, alien hybrids*)
 - **Capital City:** Depsetica
 - **Government Type:** Archival-Meritocracy
-- **Official Language:** **Deptic Language** (infused with Depeisian and Cisthetan)
+- **Official Language:** **Deptic Language** (infused with Depeisian)
+- **Currency:** **DEL** (Depcut Credit)
 - **National Identity:** Classical dignity, law-driven progress, cultural refinement
 - **Notable Conflict:** Reiweston Crisis, Neiput Border Dispute (Cutneiput vs Troneiput)
 

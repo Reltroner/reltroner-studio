@@ -2,6 +2,7 @@
 title: "🌌 Timeline: History of Asthortera, Reltronland, and Depcutland"
 slug: "history-timeline"
 description: "A curated historical overview of Asthortera’s civilizations, chronicling the rise of Reltronland and Depcutland—two superpowers born from divergence, vision, and conflict."
+author: "Rei Reltroner"
 date: "2025-04-23"
 image: "/images/history-timeline.webp"
 tags: ["timeline", "asthortera", "reltronland", "depcutland", "history"]
