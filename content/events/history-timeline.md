@@ -129,6 +129,8 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 - Reltronland and Depcutland declare full autonomy from one another.
 - Reiweston Bay becomes ideological faultline.
 
+**1008 BAC** — *Interplanetary Transit Accord*
+
 **967 BAC** — *Clarity Transport Manifesto*
 
 **965 BAC** — *Sentient Zoning Integrity Act Development Codex*

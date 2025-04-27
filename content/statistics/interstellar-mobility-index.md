@@ -10,7 +10,7 @@ date: "2025-04-24"
 ## 🚀 Interstellar Mobility Index (IMI) — Asthortera
 
 > _“Mobility is not merely about movement—it is about access, aspiration, and alignment across stars.”_  
-> — Interplanetary Transit Accord, Year 1008
+> — Interplanetary Transit Accord, Year 1008 BAC
 
 ---
 
