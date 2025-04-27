@@ -108,6 +108,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 - Reiweston Bay becomes ideological faultline.
 
 **965 BAC** — *Sentient Zoning Integrity Act Development Codex*
+**967 BAC** — *Clarity Transport Manifesto*
 
 **949 BAC** — *Energy Codex Established*
 - Universal decree to align technology with spiritual and ecological responsibility.
