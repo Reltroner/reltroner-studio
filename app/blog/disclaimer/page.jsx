@@ -15,7 +15,6 @@ export default async function Legal() {
       <Heading className="text-2xl sm:text-3xl mb-4">{post.title}</Heading>
 
       <ul className="space-y-1 mb-6">
-        <li className="text-sm text-gray-500">{post.description}</li>
         <li className="italic text-sm text-gray-400">{post.date} • {post.published ? 'Published' : 'Draft'}</li>
       </ul>
 
@@ -24,6 +23,10 @@ export default async function Legal() {
         alt={post.title}
         className="w-full h-auto rounded-lg mb-6 shadow-md"
       />
+
+      <ul className="space-y-1 mb-6">
+        <li className="text-sm text-gray-500">{post.description}</li>
+      </ul>
 
       <article className="prose prose-slate prose-sm sm:prose lg:prose-lg max-w-none">
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
