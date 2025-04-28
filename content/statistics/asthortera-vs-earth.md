@@ -35,23 +35,6 @@ This document provides a detailed comparison between the fictional Super Earth p
 
 ---
 
-## 🔢 Key Differences
-
-### ✨ Size and Scale
-- **Asthortera** has a diameter over **4.29 times larger** than Earth.
-- The surface area of **Asthortera** is about **18.39 times larger** than Earth's.
-- The volume of **Asthortera** dwarfs Earth's, being roughly **78.87 times greater**.
-
-### ✨ Habitability
-- **Asthortera** is conceptualized as a **Super Earth** — a planet larger than Earth but still within the range of potentially habitable environments.
-- The planet features a varied landscape with extensive oceans, massive continents, and climates capable of sustaining complex ecosystems.
-
-### ✨ Orbital Characteristics (hypothetical)
-- Assumed to orbit a sun-like star within the habitable zone.
-- Gravity is stronger compared to Earth due to its greater mass and size, potentially affecting flora, fauna, and human physiology.
-
----
-
 ## 🌍 Visual Representation
 Asthortera appears as a massive, vibrant world with more diversified biomes, greater land-to-water ratio compared to Earth, and broader atmospheric layers.
 
