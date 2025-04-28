@@ -82,16 +82,20 @@ Asthortera appears as a massive, vibrant world with more diversified biomes, gre
 - **Life Expectancy:** ~105 years
 - **Summary:** A mature, stable society with high life expectancy and ongoing intellectual productivity, driven by merit, innovation, and spiritual balance.
 
+🔍 *Asthortera Population Pyramid:* ![Sentient Population Statistics](/images/asthortera-pyramid.webp)
+
+---
+
 ### 📊 Earth Development Profile
 - **Total Human Population:** ~8.2 billion
 - **HDI (Human Development Index):** ~0.739 (Global Average)
-- **Median Age:** ~30.4 years
+- **Median Age:** ~30.9 years
 - **Birth Rate:** Declining in many countries, with varying education standards
 - **Education Systems:** Uneven globally, with disparities based on region and economy
 - **Age Pyramid Shape:** Generally broad at base in developing countries, narrower in developed regions
 - **Dominant Age Groups:** Highly varied by region
-- **Youth Population (0–14):** ~25% globally
-- **Elderly Population (65+):** ~10% globally
+- **Youth Population (0–14):** ~24.3% globally
+- **Elderly Population (65+):** ~10.5% globally
 - **Urbanization Rate:** ~56%
 - **Population Composition:**
   - ~60% Asian
@@ -102,6 +106,8 @@ Asthortera appears as a massive, vibrant world with more diversified biomes, gre
   - ~1% Oceania and others
 - **Life Expectancy:** ~73 years (Global Average)
 - **Summary:** A diverse and evolving society with significant disparities in economic and educational opportunities.
+
+🔍 *Earth Population Pyramid:* ![Earth Population Statistics](/images/earth-pyramid.webp)
 
 ---
 
