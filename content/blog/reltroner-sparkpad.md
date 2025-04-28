@@ -69,13 +69,26 @@ Designed for creators, learners, rebels, and dreamers — especially from **Gen 
 ---
 
 ### 🔮 Roadmap & Build Status
-| Milestone | Tools | Status |
-|-----------|-------|--------|
-| UI Design | Figma / Tailwind Sketch | Pending |
-| Portfolio CRUD | Laravel + Vue or Next.js | In Progress |
-| AI Content Assistant | GPT-4 API | To Be Integrated |
-| Custom Subdomain | Vercel + DNS | Optional |
-| Auth System | Laravel Breeze / Clerk | Optional |
+
+- **UI Design**  
+  Tools: *Figma / Tailwind Sketch*  
+  Status: *Pending*
+
+- **Portfolio CRUD**  
+  Tools: *Laravel + Vue or Next.js*  
+  Status: *In Progress*
+
+- **AI Content Assistant**  
+  Tools: *GPT-4 API*  
+  Status: *To Be Integrated*
+
+- **Custom Subdomain**  
+  Tools: *Vercel + DNS*  
+  Status: *Optional*
+
+- **Auth System**  
+  Tools: *Laravel Breeze / Clerk*  
+  Status: *Optional*
 
 ---
 
@@ -117,12 +130,22 @@ Designed for creators, learners, rebels, and dreamers — especially from **Gen 
 - Domain Concierge Setup ($9)
 
 ### 📈 Scaling Path
-| Phase | Goal | Audience |
-|-------|------|----------|
-| 1 | Trust & traction | Free-tier learners |
-| 2 | Premium activation | Creators, freelancers |
-| 3 | Astralis launch | Mentors, thinkers |
-| 4 | Strategic partnerships | Schools, NGOs, Gen Z orgs |
+
+ - **Phase 1**  
+  Goal: *Trust & traction*  
+  Audience: *Free-tier learners*
+
+- **Phase 2**  
+  Goal: *Premium activation*  
+  Audience: *Creators, freelancers*
+
+- **Phase 3**  
+  Goal: *Astralis launch*  
+  Audience: *Mentors, thinkers*
+
+- **Phase 4**  
+  Goal: *Strategic partnerships*  
+  Audience: *Schools, NGOs, Gen Z orgs*
 
 ---
 
