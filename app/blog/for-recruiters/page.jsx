@@ -53,10 +53,10 @@ export default async function BlogPage() {
   if (!data) return notFound();
 
   return (
-    <div className="p-6 max-w-3xl mx-auto">
+    <div className="px-4 py-6 sm:px-6 sm:py-8 mx-auto max-w-3xl">
       {/* Title */}
       <Heading>{data.title}</Heading>
-      <ul>
+      <ul className="space-y-1">
           <li className="italic text-sm pb-2">
               {data.date} - {data.published ? 'Published' : 'Draft'}
           </li>
@@ -67,7 +67,7 @@ export default async function BlogPage() {
         <img
           src={data.image}
           alt={data.title}
-          className="w-full max-h-[400px] object-contain mx-auto mb-3"
+          className="w-full h-auto rounded-lg mb-6 shadow-md"
         />
       )}
 
@@ -80,7 +80,7 @@ export default async function BlogPage() {
 
       {/* Description */}
       {data.description && (
-        <p className="text-gray-600 mb-4 text-base">{data.description}</p>
+        <p className="text-gray-600 mb-4 text-sm">{data.description}</p>
       )}
 
       {/* Quote (if any) */}

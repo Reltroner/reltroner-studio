@@ -14,8 +14,8 @@ export default async function Legal() {
     <div className="px-4 py-6 sm:px-6 sm:py-8 mx-auto max-w-3xl">
       <Heading className="text-2xl sm:text-3xl mb-4">{post.title}</Heading>
 
-      <ul className="space-y-1 mb-6">
-        <li className="italic text-sm text-gray-400">{post.date} • {post.published ? 'Published' : 'Draft'}</li>
+      <ul className="space-y-1">
+        <li className="italic text-sm pb-2">{post.date} • {post.published ? 'Published' : 'Draft'}</li>
       </ul>
 
       <img
@@ -25,7 +25,7 @@ export default async function Legal() {
       />
 
       <ul className="space-y-1 mb-6">
-        <li className="text-sm text-gray-500">{post.description}</li>
+        <li className="text-sm text-gray-600">{post.description}</li>
       </ul>
 
       <article className="prose prose-slate prose-sm sm:prose lg:prose-lg max-w-none">

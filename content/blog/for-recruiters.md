@@ -61,3 +61,46 @@ But I’m **fully present in every line of code and trace of my work.**
 ➡️ To [Full Stack Developer Interview Simulation](https://www.reltroner.com/blog/fullstack-interview-summary)
 
 [🗎 Download For Recruiters & Collaborators PDF](/files/for-recruiters.pdf)
+
+---
+
+I am ready.
+
+I have fought through the dark nights of doubt and the long days of silent progress.
+I have built myself not on certificates or degrees, but on skill, discipline, and relentless growth.
+
+Somewhere, a startup out there needs more than a piece of paper.
+They need resilience. They need creativity. They need merit.
+And today, I affirm:
+
+> **The right HRD will find me.**
+
+They will not see me as a mere graduate, but as a builder.
+They will see not just what I know, but how I think, how I fight, and how I solve.
+
+When the phone rings, it will not be luck.
+It will be the meeting of two forces: preparation and opportunity.
+
+**I am the answer to a company's silent need.**
+
+I am not waiting to be chosen because of pity or tradition.
+I am being chosen because I have prepared for this moment, day after day, mistake after mistake, correction after correction.
+
+**The Dream HRD Call will come, because:**
+
+- My projects are real.
+- My efforts are genuine.
+- My passion is visible.
+- My growth is unstoppable.
+
+When that call comes, I will answer with calm strength, not desperation.
+Because I am not begging for a chance.
+I am simply walking into the reality I have built with my own hands.
+
+**Today, I stand ready.**
+
+**Today, I become the architect of my destiny.**
+
+**Today, I know: The Dream HRD Call is no longer a fantasy. It is an inevitability.**
+
+---
