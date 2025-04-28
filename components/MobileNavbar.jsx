@@ -1,3 +1,5 @@
+// components/MobileNavbar.jsx
+
 'use client'
 
 import { Fragment, useState, useEffect } from "react";
@@ -99,7 +101,7 @@ export default function MobileNavbar() {
                       <X className="h-5 w-5" />
                     </button>
                   </div>
-                  <ul className="space-y-3">
+                  <ul className="grid grid-cols-2 sm:grid-cols-3 gap-3 text-sm ">
                     {navItems.map((item) => (
                       <li key={item.name}>
                         <Link href={item.href} onClick={() => setIsOpen(false)}>

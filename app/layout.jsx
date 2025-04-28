@@ -102,7 +102,9 @@ export default function Layout({ children }) {
         <MobileNavbar />
         <header>
           <CommandPalette />
+          <div className="hidden md:block">
           <Navbar />
+          </div>
         </header>
         <main className="py-5 grow">{children}</main>
         <footer className="border-t pt-4 pb-6 text-center text-xs text-gray-500">
