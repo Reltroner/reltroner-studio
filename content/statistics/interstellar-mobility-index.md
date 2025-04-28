@@ -60,7 +60,7 @@ Average turnaround time for interstellar vessels
 
 ---
 
-#### 🥈 2. **RAIA — Reltronepolis Aeropolis**  
+#### 🥈 2. **RAIA — Reltronepolis Aeropolis International Airport**  
 **Planet:** Asthortera  
 **IMI Score:** 96.4
 

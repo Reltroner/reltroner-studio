@@ -24,11 +24,8 @@ export default function PrinciplesClient({ principles }) {
       <div className="text-center mb-6">
         <Heading>Principles</Heading>
         <p className="text-sm text-gray-700 font-bold">
-        The Principles page is the heart of every foundational idea and philosophical code that shapes the Reltroner Saga universe.
-This is where ideologies are not just recorded—but born, refined, and forged into legacy.
-From the abolition of feudalism, the birth of spiritual meritocracy, to the ratification of Multirealm Authority,
-every entry here stands as the ideological backbone of Rei Reltroner’s resistance—
-not as a character in fiction, but as a system builder of meaning itself.
+        The Principles page is the forge where the Reltroner Saga’s core ideologies are born, refined, and immortalized.
+Here, ideas like the abolition of feudalism and the rise of spiritual meritocracy form the backbone of Rei Reltroner’s legacy—not as a fictional character, but as a true architect of meaning.
         </p>
       </div>
       {/* Search Box */}

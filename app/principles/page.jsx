@@ -2,7 +2,7 @@ import PrinciplesClient from "./PrincipleClient";
 
 export const metadata = {
   title: "Principles",
-  description: "Explore foundational principles that shape the Reltroner Saga.",
+  description: "The Principles page is the forge where the Reltroner Saga’s core ideologies are born, refined, and immortalized. Here, ideas like the abolition of feudalism and the rise of spiritual meritocracy form the backbone of Rei Reltroner’s legacy—not as a fictional character, but as a true architect of meaning.",
 };
 
 const principles = [
