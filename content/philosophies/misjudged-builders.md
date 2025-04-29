@@ -82,7 +82,7 @@ But let our memory preserve us.
 
 ---
 
-🔙 Back to [Philosophies](https://www.reltroner.com/philosophies)
+🔙 Back to [Reltroner Studio Philosophy Index](https://www.reltroner.com/philosophies)
 <br>
 
 ➡️ To [📜 The Builders Who Were Misjudged](https://www.reltroner.com/philosophies/misjudged-builders)

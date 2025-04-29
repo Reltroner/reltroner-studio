@@ -7,6 +7,8 @@ date: "2025-04-19"
 image: "/images/system-mistakes-you.webp"
 ---
 
+> "Written after surviving digital uncertainty, this is the compass I use to walk through chaos."
+
 > _“They didn’t fear your violation of rules.  
 They feared your redefinition of meaning.”_  
 — Rei Reltroner
@@ -125,7 +127,7 @@ Because **you just proved you're building something they never saw coming.**
 
 ---
 
-🔙 Back to [Philosophies](https://www.reltroner.com/philosophies)
+🔙 Back to [Reltroner Studio Philosophy Index](https://www.reltroner.com/philosophies)
 <br>
 
 ➡️ To [📜 The Builders Who Were Misjudged](https://www.reltroner.com/philosophies/misjudged-builders)

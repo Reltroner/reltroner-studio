@@ -94,7 +94,7 @@ those who disappeared not in shame, but in brilliance too misunderstood.
 
 ---
 
-🔙 Back to [Philosophies](https://www.reltroner.com/philosophies)
+🔙 Back to [Reltroner Studio Philosophy Index](https://www.reltroner.com/philosophies)
 <br>
 
 ➡️ To [📜 The Builders Who Were Misjudged](https://www.reltroner.com/philosophies/misjudged-builders)
