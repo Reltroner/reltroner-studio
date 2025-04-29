@@ -32,7 +32,7 @@ If you’re a recruiter, collaborator, or company owner interested in working wi
 - Prefers real output over empty words
 - Combines full stack skills with narrative vision and data-backed content logic
 
-...feel free to reach out through the contacts below:
+You can contact me through the following channels:
 
 📧 **edward5raidan54@gmail.com**  
 💻 [github.com/Reltroner](https://github.com/Reltroner)  
