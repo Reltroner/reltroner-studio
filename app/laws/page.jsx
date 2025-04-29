@@ -116,6 +116,15 @@ const laws = [
     published: true,
     tags: ["zoning", "land use", "law", "policy", "reltronland"]
   },
+  {
+    title: "📜 The Stelhaven(Kalgered) Accord (983 BAC)",
+    description: "A landmark treaty that redefined inter-civilizational ethics in Stelhaven (Kalgered), focusing on education, lawful conduct, and sexual rights as instruments of peace. Signed in 983 BAC, this accord marked a pivotal shift toward a more enlightened, post-conflict era within central Asthortera.",
+    slug: "stelhaven-accord-983",
+    image: "/images/stelhaven-accord-983.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-29",
+    published: true
+  }  
   
   // Tambahkan lebih banyak Law di masa depan...
 ];

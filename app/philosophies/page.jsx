@@ -64,6 +64,14 @@ const philosophies = [
     date: "2025-04-25"
   },
   {
+    title: "📜 Reltroner Declaration of Existence",
+    description: "A manifest of existence from the creator of Reltronland, declaring the right to live, to create, and to resist erasure in a flawed world — for all who build meaning where none was given.",
+    slug: "reltroner-declaration-existence",
+    image: "/images/reltroner-declaration-existence.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-29"
+  },
+  {
     title: "🧩 The Wall of Silenced Builders",
     description: "A sacred wall honoring the forgotten creators—those whose voices were silenced not because they failed, but because they were too real, too raw, too visionary to be understood by rigid systems. This wall remembers them all.",
     slug: "wall-of-silenced-builders",

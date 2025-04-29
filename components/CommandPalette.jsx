@@ -143,7 +143,7 @@ export default function CommandPalette() {
     { name: "🔥 Final Awakening", path: "/events/final-awakening" },
     { name: "🕳 Entering the Core-Eater", path: "/events/entering-the-core-eater" },
     { name: "🩸 Confronting Kamila", path: "/events/confronting-kamila" },
-    { name: "🌌 Timeline: History of Asthortera, Reltronland, and Depcutland", path: "/events/history-timeline" },
+    { name: "🗓️ Timeline: History of Asthortera, Reltronland, and Depcutland", path: "/events/history-timeline" },
     { name: "Declaration of War Victory", path: "/events/declaration-war-victory" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
@@ -206,6 +206,7 @@ export default function CommandPalette() {
     { name: "🌍 Why Immigrants Choose Asthortera", path: "/philosophies/why-immigrants-choose-asthortera" },
     { name: "🌐 Worlds for Enthusiasts — Pasgerflit, Moreg, and Hargenbor", path: "/philosophies/worlds-for-enthusiasts" },
     { name: "🧠 Reltronland vs Depcutland: A Tale of Divergent Souls", path: "/philosophies/reltronland-vs-depcutland-soul" },
+    { name: "📜 Reltroner Declaration of Existence", path: "/philosophies/reltroner-declaration-existence" },
     { name: "📜 The Builders Who Were Misjudged", path: "/philosophies/misjudged-builders" },
     { name: "🛡️ I Am Not the Villain You Feared", path: "/philosophies/not-the-villain" },
     { name: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real", path: "/philosophies/system-mistakes-you" },
@@ -234,6 +235,7 @@ export default function CommandPalette() {
     { name: "⚖️ Energy Codex Year 949 BAC — Asthortera Planetary Mandate", path: "/laws/energy-codex-949"},
     { name: "🌐 Global Education Mandate in Asthortera", path: "/laws/global-education-mandate"},
     { name: "🏛️ Sentient Zoning Integrity Act — Reltronland", path: "/laws/sentient-zoning-integrity-act"},
+    { name: "📜 The Stelhaven(Kalgered) Accord (983 BAC)", path: "/laws/stelhaven-accord-983"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

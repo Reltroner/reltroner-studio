@@ -1,45 +1,63 @@
 # 🌌 Reltroner Studio
 
-Welcome to the official repository of **Reltroner Studio** — a personal creative branding project built with **Next.js** and powered by the imagination behind the universe of **Asthortera**.
+Welcome to the official repository of **Reltroner Studio** — a creative and technical worldbuilding project built with **Next.js 15 App Router**, powered by **React 19**, and styled using **Tailwind CSS**.
 
-This project serves as a digital home for articles, lore, and self-reflections about world-building, storytelling, and fictional civilizations such as **Reltronland**, **Pasgerflit**, and more.
+This studio serves as a digital home and knowledge base for **Asthortera**, an original fictional universe. It features narrative archives, structured philosophy, and data-driven lore for fictional civilizations like **Reltronland**, **Pasgerflit**, and more.
+
+---
 
 ## 🚀 Tech Stack
 
-- Framework: [Next.js](https://nextjs.org/)
-- Styling: Tailwind CSS
-- Hosting: https://reltroner-studio.vercel.app/
-- Format: Static Blog-style layout (no Auth, no CRUD)
+- **Framework:** Next.js 15 (App Router)  
+- **Language:** React 19  
+- **Styling:** Tailwind CSS  
+- **Deployment:** Vercel  
+- **SEO + Metadata:** `head.jsx` with schema.org JSON-LD  
+- **Markdown Rendering:** `gray-matter`, `remark`, `marked`  
+- **Content Licensing:** IPFS-hosted PDF  
+- **Hosting:** [https://reltroner-studio.vercel.app](https://reltroner-studio.vercel.app)
 
-## 📁 Folder Structure
+---
 
-```bash
-.
-├── public/             # Static assets
-├── app/                # Next.js app directory
-│   ├── about/          # About page with studio story
-│   ├── blog/           # Blog page listing articles
-│   ├── contact/        # Placeholder contact page
-│   └── layout.jsx      # Global layout with header & footer
-├── components/         # Reusable UI components (e.g., Navbar, Heading)
-├── styles/             # Global CSS
-├── .gitignore
-└── README.md
-```
-📚 About the Project
-Reltroner Studio was founded by Raidan, the creator of Asthortera, as a hub for creative expression and fictional storytelling.
-It focuses on the conflict between comfort and consciousness through a narrative lens.
+## 🗂️ Content Architecture
 
-"We build realities not to escape the world, but to understand it."
+The `content/` directory is organized into more than 15 subdomains, including:
 
-🛡️ Legal & License
-All content in this repository is © 2025 by Raidan.
-Unauthorized reproduction or plagiarism of the world Reltroner, Reltronland, or any related content is strictly prohibited.
+- `characters/`, `cultures/`, `technologies/`, `philosophies/`
+- `laws/`, `events/`, `series/`, `organizations/`, `places/`
+- `principles/`, `statistics/`, and more...
 
-If you'd like to collaborate or credit this work, please contact the creator first.
+All entries support metadata and structured frontmatter for SSR-based rendering.
 
-[Reltroner Studio License](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
+---
+
+## ✨ Features
+
+- ✅ **Hybrid rendering** (SSG + SSR) via `head.jsx` and dynamic `[slug]`
+- ✅ **Fully structured SEO**: OpenGraph, Twitter Card, and JSON-LD (Article, CreativeWork, Organization)
+- ✅ **Custom global layout** using `layout.jsx` and reusable UI components
+- ✅ **Command Palette & mobile-friendly navigation**
+- ✅ **Legal license hosted via IPFS**: [License PDF](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
+
+---
+
+## 📚 About the Project
+
+Reltroner Studio was founded by **Rei Reltroner**, the creator of Asthortera, as a space for creative sovereignty. It focuses on deep fictional development, digital narrative design, and the philosophical battle between **comfort vs. consciousness**.
+
+> "We build realities not to escape the world, but to understand it."
+
+---
+
+## 🛡️ License
+
+All content in this repository is **© 2025 by Rei Reltroner**.  
+Unauthorized reproduction or plagiarism of **Reltronland**, **Asthortera**, or any affiliated fictional entities is strictly prohibited.
+
+📝 License: [Reltroner Studio Legal Declaration (IPFS)](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
 
 ![License](https://img.shields.io/badge/license-Custom-red)
-
 ![Status](https://img.shields.io/badge/status-Active-blue)
+
+---
+
