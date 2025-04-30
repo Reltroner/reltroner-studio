@@ -2,7 +2,7 @@ import ItemsClient from "./ItemsClient";
 
 export const metadata = {
   title: "Items",
-  description: "A living archive of world-shaping phenomena in Asthortera — from revolutions in spiritual philosophy to technological uprisings, and from interdimensional conflicts to peaceful cultural summits. Every Item listed here plays a key role in forging the soul and future of the Reltroner Saga."
+  description: "A curated catalog of Asthortera artifacts and relics—explore the objects, from Abyss Ritual Items to future worldbuilding essentials, that give life to the Reltroner Studio universe."
 };
 
 const items = [
