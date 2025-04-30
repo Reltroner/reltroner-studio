@@ -100,6 +100,7 @@ export default function CommandPalette() {
     { name: "Declaration of Asthortera's Supremacy", path: "/blog/declaration-of-asthortera-supremacy" },
     { name: "🕳️ Official Recognition: Nytherion Abyss — The Supreme Existential Antagonist", path: "/blog/supreme-existential-antagonist" },
     { name: "🤝 What if Chiss and Reltronland Formed a Diplomatic Pact?", path: "/blog/chiss-reltronland" },
+    { name: "🌱 First Seeds of Reltroner", path: "/blog/first-seeds" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

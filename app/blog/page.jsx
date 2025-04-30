@@ -339,6 +339,15 @@ const posts = [
     author: "Reltroner Studio",
     date: "2025-04-27",
     published: true
+  },
+  {
+    title: "🌱 First Seeds of Reltroner",
+    description: "A reflective tribute to the earliest videos and efforts that sparked the idea of Reltronland and the journey toward Reltroner Studio.",
+    slug: "first-seeds",
+    image: "/images/first-seeds-banner.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-30",
+    published: true
   }
   
      
