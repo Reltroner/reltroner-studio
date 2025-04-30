@@ -88,5 +88,6 @@ A smooth glowing shard that feeds off emotional surrender. At the climax of the 
 
 > _"Every item in this ritual does not destroy the body. It destroys the reason to fight."_
 
-🔙 Return to [Nytherion Abyss Overview](https://www.reltroner.com/philosophies/nytherion-abyss)
+🔙 Back to [Reltroner Studio Items Index](https://www.reltroner.com/items)
 📚 Explore more: [Abyssal Corrosion](https://www.reltroner.com/myths/existential-corrosion)
+[Nytherion Abyss Overview](https://www.reltroner.com/philosophies/nytherion-abyss)
