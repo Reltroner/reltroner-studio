@@ -11,7 +11,7 @@ date: "2025-04-11"
 ---
 
 ## 🌐 Overview
-The **Reltronland Hyperloop Transit Network** is one of the most ambitious and advanced transportation infrastructures in all of Asthortera. Spanning over **3.3 million kilometers** of high-speed vacuum tunnels, it connects every major city, province, and frontier across the **25 million km²** territory of Reltronland.
+The **Reltronland Hyperloop Transit Network** is one of the most ambitious and advanced transportation infrastructures in all of Asthortera. Spanning over **14.7 million kilometers** of high-speed vacuum tunnels, it connects every major city, province, and frontier across the **104 million km²** territory of Reltronland.
 
 With a peak speed of **4,220 km/h**, this system enables seamless travel across the superpower nation in a matter of minutes — not hours.
 
@@ -20,13 +20,13 @@ With a peak speed of **4,220 km/h**, this system enables seamless travel across 
 ---
 
 ## ⚙️ Key Technical Details
-- **Network Length:** 3,300,000 km
+- **Network Length:** 14,734,638 km
 - **Coverage:** 100% of national territory
 - **Maximum Speed:** 4,220 km/h
 - **Average Commute Time Between Cities:** 7–12 minutes
 - **Power Source:** Quantum-Stabilized Fusion Grid (QSFG)
 - **Control System:** AI-Orchestrated Mobility Cloud (AOMC)
-- **Passenger Load Capacity:** 24 billion/day
+- **Passenger Load Capacity:** 108 billion/day
 
 ---
 

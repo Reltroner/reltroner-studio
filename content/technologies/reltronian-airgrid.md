@@ -22,7 +22,7 @@ The **Reltronian AirGrid** is Reltronland’s fully autonomous, AI-regulated aer
 
 ### 1. **Aerial Logistics Highway**
 - Autonomous cargo drones operate within fixed altitudes.
-- Supports **1.2 billion tons of freight per year**.
+- Supports **19.6 billion tons of freight per year**.
 - Fully integrated with Hyperloop stations for vertical delivery.
 
 ### 2. **Atmospheric Traffic Management**
