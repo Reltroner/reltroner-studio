@@ -13,6 +13,7 @@ export async function generateMetadata({ params }) {
     "description": data.description,
     "image": data.image,
     "datePublished": data.date || "2025-01-01",
+    "dateModified": data.modified || data.date || "2025-01-01",
     "author": {
       "@type": "Person",
       "name": data.author || "Rei Reltroner",

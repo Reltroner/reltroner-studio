@@ -20,17 +20,19 @@ export default function HomeClient({ posts }) {
   return (
     <div className="p-5 bg-slate-100">
 
-      {/* Heading */}
+      {/* Hero Heading for SEO */}
       <div className="text-center mb-6">
-        <Heading>Home</Heading>
-        <p className="text-sm text-gray-700 font-bold">
-          Welcome to the home page about world-building!
+        <h1 className="text-3xl font-bold text-gray-900 mb-2">
+          Reltroner Studio
+        </h1>
+        <p className="text-gray-700 text-lg font-semibold max-w-2xl mx-auto">
+          A digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera.
         </p>
         <p className="text-center text-sm text-gray-600 mt-2">
-  💡      Press <kbd className="px-1 py-0.5 border rounded text-sm">Ctrl</kbd> + <kbd className="px-1 py-0.5 border rounded text-sm">K</kbd> or <kbd className="px-1 py-0.5 border rounded text-sm">⌘</kbd> + <kbd className="px-1 py-0.5 border rounded text-sm">K</kbd> to quickly navigate pages.
+          💡 Press <kbd className="px-1 py-0.5 border rounded text-sm">Ctrl</kbd> + <kbd className="px-1 py-0.5 border rounded text-sm">K</kbd> or <kbd className="px-1 py-0.5 border rounded text-sm">⌘</kbd> + <kbd className="px-1 py-0.5 border rounded text-sm">K</kbd> to quickly navigate pages.
         </p>
-
       </div>
+
       {/* Search Box */}
       <div className="flex items-center gap-x-2 mb-6">
         <label htmlFor="search" className="font-semibold text-gray-700">

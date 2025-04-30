@@ -1,8 +1,10 @@
+// app/page.jsx
 import HomeClient from "./HomeClient";
 
 export const metadata = {
-  title: "Home",
-  description: "Welcome to the home page about world-building!"
+  title: "Reltroner Studio",
+  description: "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
+  keywords: "Reltroner Studio, Asthortera, web development agency, worldbuilding, Rei Reltroner, creative universe, meritocracy, red pill world, futuristic storytelling",
 };
 
 const posts = [
@@ -75,18 +77,6 @@ const posts = [
     description: "Creating impactful historical and future events for your world.",
     slug: "events",
     image: "/images/events.webp"
-  },
-  {
-    title: "Reltroner Sparkpad",
-    description: "A futuristic personal branding toolkit designed for Gen Z & Alpha to build powerful digital identities through portfolio builders, AI content assistants, and growth trackers.",
-    slug: "reltroner-sparkpad",
-    image: "/images/reltroner-sparkpad.webp"
-  },
-  {
-    title: "Gen z & Alpha Market Potential",
-    description: "Strategic insight and business directions for capturing the minds and markets of Gen Z and Gen Alpha, focused on clarity, identity, and digital sanctuary.",
-    slug: "gen-z-alpha-market-potential",
-    image: "/images/gen-z-alpha-market-potential.webp"
   },
   {
     title: "Legacy of Reltroner",

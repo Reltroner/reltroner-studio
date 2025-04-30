@@ -296,6 +296,24 @@ const posts = [
     published: true
   },
   {
+    title: "Reltroner Sparkpad",
+    description: "A futuristic personal branding toolkit designed for Gen Z & Alpha to build powerful digital identities through portfolio builders, AI content assistants, and growth trackers.",
+    slug: "reltroner-sparkpad",
+    date: "2025-04-21",
+    author: "Rei Reltroner",
+    image: "/images/reltroner-sparkpad.webp",
+    published: true
+  },
+  {
+    title: "Gen z & Alpha Market Potential",
+    description: "Strategic insight and business directions for capturing the minds and markets of Gen Z and Gen Alpha, focused on clarity, identity, and digital sanctuary.",
+    slug: "gen-z-alpha-market-potential",
+    date: "2025-04-21",
+    author: "Rei Reltroner",
+    image: "/images/gen-z-alpha-market-potential.webp",
+    published: true
+  },
+  {
     title: "Declaration of Asthortera's Supremacy",
     description: "A formal proclamation affirming Asthortera’s rise as the sovereign civilization of sentient mastery, clarity, and cosmic stewardship across the galaxies.",
     slug: "declaration-of-asthortera-supremacy",

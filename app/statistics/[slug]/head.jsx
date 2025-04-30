@@ -31,7 +31,8 @@ export async function generateMetadata({ params }) {
       "contentUrl": `https://reltroner.com/statistics/${slug}`
     },
     "image": data.image,
-    "datePublished": data.date || "2025-01-01"
+    "datePublished": data.date || "2025-01-01",
+    "dateModified": data.modified || data.date || "2025-01-01",
   };
 
   return {
