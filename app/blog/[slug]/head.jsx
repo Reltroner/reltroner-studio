@@ -9,6 +9,7 @@ export default async function Head({ params }) {
   const description = post?.data?.description || "Exploring worldbuilding, philosophy, and software craftsmanship.";
   const image = post?.data?.image || "/images/default-og.webp";
   const datePublished = post?.data?.date || "2025-01-01";
+  const dateModified = post?.data?.modified || datePublished;
   const authorName = post?.data?.author || "Rei Reltroner";
   const url = `https://www.reltroner.com/blog/${slug}`;
 
@@ -27,7 +28,7 @@ export default async function Head({ params }) {
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={`https://www.reltroner.com${image}`} />
 
-      {/* Structured Data: Article */}
+      {/* Structured Data: Article JSON-LD */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -39,17 +40,19 @@ export default async function Head({ params }) {
             "image": `https://www.reltroner.com${image}`,
             "author": {
               "@type": "Person",
-              "name": authorName
+              "name": authorName,
+              "url": "https://www.reltroner.com/about"
             },
             "publisher": {
               "@type": "Organization",
               "name": "Reltroner Studio",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://reltroner.com/images/logo.webp"
+                "url": "https://www.reltroner.com/images/logo.webp"
               }
             },
             "datePublished": datePublished,
+            "dateModified": dateModified,
             "mainEntityOfPage": {
               "@type": "WebPage",
               "@id": url
