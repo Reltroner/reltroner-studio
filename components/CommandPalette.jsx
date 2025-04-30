@@ -44,6 +44,7 @@ export default function CommandPalette() {
     { name: "Factions", path: "/factions" },
     { name: "Philosophies", path: "/philosophies" },
     { name: "Technologies", path: "/technologies" },
+    { name: "Items", path: "/items" },
     { name: "Laws", path: "/laws" },
     { name: "Contact", path: "/contact" },
     { name: "For Recruiters & Collaborators Portfolio", path: "/blog/for-recruiters" },
