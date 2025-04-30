@@ -52,13 +52,25 @@ Each planet shall implement a **Sentient Education Framework** aligned with Astr
 
 ### 🪐 Signatory Planets and Systems
 
-| Planet/System     | Role            | Specialization                         |
-|------------------|-----------------|----------------------------------------|
-| **Theartenra**    | Primary Client  | Asteroid Resource Extraction           |
-| **Valtrise**      | Scientific Ally | Bio-quantum & Neural Sentient Studies |
-| **Nythsara**      | Cultural Node   | Sentient Music, Philosophy & Diplomacy|
-| **Kraveth IX**    | Military Partner| Strategic Shielding & AI Pilot Hubs   |
-| **Solivara**      | Energy Partner  | Void-Sourced Renewable Arrays          |
+#### 🪐 **Theartenra**  
+**Role:** Primary Client  
+**Specialization:** Asteroid Resource Extraction  
+
+#### 🔬 **Valtrise**  
+**Role:** Scientific Ally  
+**Specialization:** Bio-quantum & Neural Sentient Studies  
+
+#### 🎶 **Nythsara**  
+**Role:** Cultural Node  
+**Specialization:** Sentient Music, Philosophy & Diplomacy  
+
+#### 🛡 **Kraveth IX**  
+**Role:** Military Partner  
+**Specialization:** Strategic Shielding & AI Pilot Hubs  
+
+#### ⚡ **Solivara**  
+**Role:** Energy Partner  
+**Specialization:** Void-Sourced Renewable Arrays  
 
 ---
 
