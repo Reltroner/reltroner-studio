@@ -2,18 +2,18 @@ import ItemsClient from "./ItemsClient";
 
 export const metadata = {
   title: "Items",
-  description: "Explore foundational items and interplanetary regulations that shape justice, labor, and order across Asthortera."
+  description: "A curated catalog of Asthortera artifacts and relics—explore the objects, from Abyss Ritual Items to future worldbuilding essentials, that give life to the Reltroner Studio universe."
 };
 
 const items = [
   {
-    title: "Asthortera Labor Rights and Employment Organization (ALREO)",
-    description: "A comprehensive legal framework protecting labor rights, regulating fair employment, and enforcing ethical workforce distribution across Asthortera.",
-    slug: "alreo",
-    image: "/images/alreo.webp",
-    author: "Reltroner Studio",
-    published: true,
-    date: "2025-04-11",
+    title: "🩸 Abyss Ritual Items",
+    description: "A collection of items used in the Ritual of Nytherion Abyss. Each object is designed to comfort the soul while quietly consuming it.",
+    slug: "abyss-ritual-items",
+    date: "2025-04-30",
+    author: "Rei Reltroner",
+    image: "/images/abyss-ritual-items.webp",
+    tags: ["nytherion abyss", "ritual", "items", "worldbuilding", "abyss"]
   },
   
   

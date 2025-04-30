@@ -24,7 +24,7 @@ export default function ItemsClient({ items }) {
       <div className="text-center mb-6">
         <Heading>Items</Heading>
         <p className="text-sm text-gray-700 font-bold">
-        Explkjdfkjdsfjdbfdbsjkfdbjofbdjofbdfjoadbsjoabsnbnadskfnasklfsasfasfosbfiobas
+        A curated catalog of Asthortera artifacts and relics—explore the objects, from Abyss Ritual Items to future worldbuilding essentials, that give life to the Reltroner Studio universe.
         </p>
       </div>
       {/* Search Box */}

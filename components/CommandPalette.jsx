@@ -254,6 +254,8 @@ export default function CommandPalette() {
     { name: "📘 YouTubers Have Channels, I Have a Civilization", path: "/principles/youtubers-have-civilization" },
     { name: "Multirealm Authority", path: "/principles/multirealm-authority" },
     { name: "🌍 Asthortera Type I.9 Doctrine", path: "/principles/asthortera-type-i9-doctrine" },
+    //Items
+    { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
 
   ];
 

@@ -19,6 +19,7 @@ export default function Navbar() {
                     <li><Link href="/philosophies" className="hover:underline">🧠 Philosophies</Link></li>
                     <li><Link href="/laws" className="hover:underline">⚖️ Laws</Link></li>
                     <li><Link href="/technologies" className="hover:underline">🧬 Technologies</Link></li>
+                    <li><Link href="/items" className="hover:underline">🗡️ Items</Link></li>
                     <li><Link href="/factions" className="hover:underline">🛡️ Factions</Link></li>
                     <li><Link href="/myths" className="hover:underline">🕯️ Myths</Link></li>
 
@@ -31,7 +32,6 @@ export default function Navbar() {
                     {/* Professional & Footer */}
                     <li><Link href="/blog/for-recruiters" className="hover:underline">🧳 Portfolio</Link></li>
                     <li><Link href="/contact" className="hover:underline">📬 Contact</Link></li>
-                    <li><Link href="/blog/legacy" className="hover:underline">🏛️ Legacy</Link></li>
                     <li><Link href="/blog/disclaimer" className="hover:underline">⚠️ Disclaimer</Link></li>
                 </ul>
             </nav>

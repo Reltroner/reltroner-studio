@@ -19,6 +19,7 @@ const navItems = [
   { name: "🧠 Philosophies", href: "/philosophies" },
   { name: "⚖️ Laws", href: "/laws" },
   { name: "🧬 Technologies", href: "/technologies" },
+  { name: "🗡️ Items", href: "/items" },
 
   // Optional but impactful
   { name: "🛡️ Factions", href: "/factions" },
@@ -37,7 +38,6 @@ const navItems = [
 
   // Footer-type
   { name: "📬 Contact", href: "/contact" },
-  { name: "🏛️ Legacy", href: "/blog/legacy" },
   { name: "⚠️ Disclaimer", href: "/blog/disclaimer" },
 ];
 
