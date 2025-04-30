@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useMemo } from "react";
-import Heading from "@/components/Heading";
 import Link from "next/link";
 
 export default function HomeClient({ posts }) {

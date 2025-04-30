@@ -52,7 +52,7 @@ export default function CommandPalette() {
     { name: "Disclaimer", path: "/blog/disclaimer" },
     { name: "2v3 Reltroner Joker", path: "/blog/2v3-reltroner-joker" },
     { name: "12 Month Roadmap", path: "/blog/12-month-roadmap" },
-    { name: "A Lifelong Build", path: "/blog/a-lifelong-build" },
+    { name: "The Oath of Reltroner Studio: A Lifelong Build", path: "/blog/a-lifelong-build" },
     { name: "Asthortera Character Pocketbook", path: "/blog/asthortera-character-pocketbook" },
     { name: "Astralis Evaluation Framework", path: "/blog/astralis-evaluation-framework" },
     { name: "Astralis Leadership Origin", path: "/blog/astralis-leadership-origin" },
