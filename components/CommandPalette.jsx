@@ -238,6 +238,7 @@ export default function CommandPalette() {
     { name: "🌐 Global Education Mandate in Asthortera", path: "/laws/global-education-mandate"},
     { name: "🏛️ Sentient Zoning Integrity Act — Reltronland", path: "/laws/sentient-zoning-integrity-act"},
     { name: "📜 The Stelhaven(Kalgered) Accord (983 BAC)", path: "/laws/stelhaven-accord-983"},
+    { name: "📜 Galactic Alignment Treaty", path: "/laws/galactic-alignment-treaty"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

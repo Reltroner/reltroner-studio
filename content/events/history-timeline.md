@@ -161,6 +161,14 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 **844 BAC** — *Formation of Global Union in Stelhaven, Kalgered*
 - Asthortera declares recognition of all sovereign states.
 
+**825 BAC** — 🌍 Interplanetary Education Regulation
+
+---
+
+**97 BAC — Formation of Asthortera Space Command (ASC)**
+- A global cooperative organization tasked with orbit-based exploration and lunar research.
+- Reltronland joins as a core member but expresses early discontent with ASC's cautious bureaucratic approach.
+
 ![history-timeline-block](/images/history-timeline-2.webp)
 ---
 
@@ -295,6 +303,51 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 
 > "Let not power distort purpose. Let all energy serve sentience."
 > — Energy Codex, Year 949 BAC
+
+---
+
+## 🎐 Modern Galactic Space Age Timeline
+
+### ✨ Foundation and Separation of Reltronland Space Command (RSC)
+
+**97 BAC — Formation of Asthortera Space Command (ASC)**
+- A global cooperative organization tasked with orbit-based exploration and lunar research.
+- Reltronland joins as a core member but expresses early discontent with ASC's cautious bureaucratic approach.
+
+**53 AC — Founding of Reltronland Space Command (RSC)**
+- Reltronland establishes RSC as its sovereign voidfront and interstellar arm, separate in doctrine but still nominally under ASC.
+- RSC's foundation is rooted in Astralis Pinnacle: clarity, sentient evolution, and relentless strategic realism.
+
+**57 AC — The Voidgate Conflict**
+- *🚨 Start of the Collapse of Unified Orbit Governance*
+- Tensions erupt at Cryven Hyperspace Gate as ASC forces attempt to block a classified RSC exploratory fleet.
+- No shots fired, but this becomes a symbolic breaking point between the two commands.
+- Tensions erupt at Cryven Hyperspace Gate as ASC forces attempt to block a classified RSC exploratory fleet.
+- No shots fired, but this becomes a symbolic breaking point between the two commands.
+
+**61 AC — Declaration of Astralis Sovereignty**
+- Reltronland passes the Astralis Sovereignty Act, declaring all RSC operations beyond planetary orbit free from ASC oversight.
+- Initiates diplomatic fallout and the breakdown of joint operations.
+
+**66 AC — The Doctrinal Rift**
+- *🚨 End of the Collapse of Unified Orbit Governance*
+- Philosophical conflict formalized: ASC rejects integration of AI-sentient command logic and Red Pill protocols.
+- RSC is removed from active ASC participation, finalizing the ideological split.
+- Philosophical conflict formalized: ASC rejects integration of AI-sentient command logic and Red Pill protocols.
+- RSC is removed from active ASC participation, finalizing the ideological split.
+
+**71 AC — Treaty of Cyrelyn**
+- A formal peace accord is signed.
+- ASC recognizes RSC as an independent interstellar institution.
+- RSC agrees to non-intervention within ASC-controlled orbital and planetary domains.
+
+---
+
+**109 AC** — *📜 Galactic Alignment Treaty*
+
+---
+
+_This moment marks Reltronland as the **first nation on Asthortera** to achieve legitimate, sovereign interstellar expansion. RSC continues to serve as the embodiment of Astralis clarity beyond the void._
 
 ---
 

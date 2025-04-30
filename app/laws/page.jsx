@@ -118,13 +118,22 @@ const laws = [
   },
   {
     title: "📜 The Stelhaven(Kalgered) Accord (983 BAC)",
-    description: "A landmark treaty that redefined inter-civilizational ethics in Stelhaven (Kalgered), focusing on education, lawful conduct, and sexual rights as instruments of peace. Signed in 983 BAC, this accord marked a pivotal shift toward a more enlightened, post-conflict era within central Asthortera.",
+    description: "The foundational legal framework of globalized civilization in Asthortera—governing international military cooperation, trade, diplomacy, and legal harmonization.",
     slug: "stelhaven-accord-983",
     image: "/images/stelhaven-accord-983.webp",
     author: "Rei Reltroner",
     date: "2025-04-29",
     published: true
-  }  
+  },
+  {
+    title: "📜 Galactic Alignment Treaty ",
+    description: "An interstellar charter formalized by Reltronland and client planets to ensure sentient cooperation, void security, and ethical expansion beyond Asthortera. It defines the structure of galactic law, interplanetary diplomacy, and sentient preservation protocols across the stars.",
+    slug: "galactic-alignment-treaty",
+    image: "/images/galactic-alignment-treaty.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-30",
+    published: true
+  }
   
   // Tambahkan lebih banyak Law di masa depan...
 ];
