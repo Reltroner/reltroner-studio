@@ -31,14 +31,6 @@ const posts = [
       date: "2025-03-22"
   },
   {
-      title: "Reltroner Studio Manifesto: Building Systems Beyond Survival",
-      description: "Explore the philosophy, mission, and future-facing projects of Reltroner Studio.",
-      slug: "reltroner",
-      image: "/images/reltroner-studio-banner.webp",
-      author: "Raidan",
-      date: "2025-03-22"
-  },
-  {
       title: "For Recruiters & Collaborators",
       description: "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
       slug: "for-recruiters",
