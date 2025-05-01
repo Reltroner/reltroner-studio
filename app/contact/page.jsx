@@ -8,7 +8,7 @@ export default function Contact() {
     <div className="max-w-xl mx-auto py-12 px-4">
       <Heading>Contact Us</Heading>
       <form
-        action="https://formspree.io/f/xldjogzo"
+        action="https://formspree.io/f/mvgaznwd"
         method="POST"
         className="mt-6 space-y-6 bg-white shadow-md rounded-xl p-6"
       >

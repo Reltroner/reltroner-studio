@@ -34,7 +34,7 @@ If you’re a recruiter, collaborator, or company owner interested in working wi
 
 You can contact me through the following channels:
 
-📧 **edward5raidan54@gmail.com**  
+📧 **reltroner@gmail.com**  
 💻 [github.com/Reltroner](https://github.com/Reltroner)  
 🌐 [reltroner.com](https://www.reltroner.com/)  
 
