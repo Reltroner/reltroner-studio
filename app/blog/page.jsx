@@ -348,6 +348,15 @@ const posts = [
     author: "Rei Reltroner",
     date: "2025-04-30",
     published: true
+  },
+  {
+    title: "🚫 Scam Jobs Resistance",
+    description: "A proposal for a reality-based framework to protect job seekers from fake listings, manipulative hiring tactics, and exploitative labor systems.",
+    slug: "scam-jobs-resistance",
+    image: "/images/scam-jobs-resistance.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-30",
+    published: true
   }
   
      

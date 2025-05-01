@@ -101,6 +101,7 @@ export default function CommandPalette() {
     { name: "🕳️ Official Recognition: Nytherion Abyss — The Supreme Existential Antagonist", path: "/blog/supreme-existential-antagonist" },
     { name: "🤝 What if Chiss and Reltronland Formed a Diplomatic Pact?", path: "/blog/chiss-reltronland" },
     { name: "🌱 First Seeds of Reltroner", path: "/blog/first-seeds" },
+    { name: "🚫 Scam Jobs Resistance", path: "/blog/scam-jobs-resistance" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
