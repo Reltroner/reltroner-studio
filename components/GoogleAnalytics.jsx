@@ -1,3 +1,4 @@
+// components/GoogleAnalytics.jsx
 'use client';
 
 import Script from 'next/script';

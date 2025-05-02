@@ -14,6 +14,15 @@ This website, including its terms, stories, systems, and world concepts — such
 
 ---
 
+## ⚡ TL;DR Legal Summary:
+- Reltroner is 100% original by Raidan Malik Sandra.
+- Terms like Astralis, Nytherion, Red/Blue Pill used in independent context.
+- AI visuals are placeholders, not likenesses.
+- Not affiliated with any similarly named brand.
+- All IP protected under ethical use and narrative rights.
+
+---
+
 ## 🚨 Use of “Red Pill” and “Blue Pill”
 
 We acknowledge that the terms *“Red Pill”* and *“Blue Pill”* were popularized by the film *The Matrix (1999)*, owned by Warner Bros. However:
@@ -41,7 +50,7 @@ All core systems — including:
 The Reltroner Studio identity, logo, lore, and world structures are protected under creator rights. Any attempt to copy, misuse, or commercially exploit these materials **without credit or permission is strictly prohibited.**
 
 For inquiries or collaboration, contact:
-📧 **edward5raidan54@gmail.com**
+📧 **reltroner@gmail.com**
 
 ---
 
@@ -165,6 +174,75 @@ We are committed to resolving any concerns promptly and respectfully.
 
 ---
 
+## 🎨 Visual Character Representation Policy
+
+At **Reltroner Studio**, character visuals are **tools of immersion**, not the core product.  
+This document clarifies our ethical stance, methodology, and intent behind all visual character representations on **reltroner.com**.
+
+---
+
+## 🧠 What We Sell: Ideas, Not Faces
+
+Our characters are **not designed to promote beauty standards, race, or aesthetic trends.**  
+They exist to express:
+
+- Philosophies  
+- Behavioral archetypes  
+- Emotional depth  
+- Psychological and spiritual arcs
+
+We monetize **narratives, not physical appearances.**
+
+---
+
+## 🤖 Why We Use AI-Generated Art
+
+Due to the solo nature of this studio, limited resources, and the absence of an in-house illustrator,  
+we use **AI-generated visuals** to:
+
+- Represent character posture, fashion, and mood  
+- Help audiences visualize our fictional societies  
+- Provide symbolic avatars for immersive lore
+
+**These are not final designs**. They are **visual placeholders** to support narrative imagination.
+
+---
+
+## 🔐 Ethics and Originality
+
+- All characters, lore, timelines, and ideologies are **100% original** and **not adapted** from existing franchises.  
+- No character is designed to resemble any public figure or copyrighted IP.  
+- We do not commission AI generations with the intent of replication or impersonation.
+
+---
+
+## 🧾 Artistic Inspiration ≠ Plagiarism
+
+Visual similarities to anime/manga styles or existing media are purely **incidental** and fall under the realm of:
+
+- Genre conventions  
+- Technical limitations of AI generators  
+- Unintentional aesthetic overlap
+
+We respect all artists, and encourage future collaborations with real illustrators as Reltroner Studio grows.
+
+---
+
+## 🏛️ The Future
+
+As the studio expands, we aim to:
+
+- Replace temporary AI visuals with hand-drawn or illustrated originals  
+- Credit collaborating artists transparently  
+- Offer character licensing ethically and respectfully
+
+---
+
+> _"Let no face define a legacy. Let no artwork replace a story."_  
+> **Reltroner Studio** stands for **merit, narrative, and ethical creation.**
+
+---
+
 ## 🖋️ Contact and Transparency
 
 If you represent an entity that wishes to inquire about naming distinctions or explore collaboration, feel free to reach out via the official portal at:
@@ -174,6 +252,27 @@ Thank you for supporting a studio that values creativity, authenticity, and resp
 
 Let clarity protect the dream.  
 Let Astralis light the unknown.
+
+**– Rei Reltroner**  
+Founder of Reltroner Studio
+
+---
+
+## 📚 Credits & Inspirations
+
+While Reltroner Studio is fully original, we acknowledge incidental or symbolic inspiration from external cultural media. These are not affiliations, but creative coincidences or personal interpretations:
+
+* **Joker (Persona 5)**: After being compared to the character by ChatGPT in the context of *Super Smash Bros. Ultimate*, a symbolic parallel was written. The resemblance was discovered *after*, not before, the creation of the Reltroner persona.
+
+* **Sergio Marquina (The Professor) – Money Heist**: Rei Reltroner finds shared characteristics in calculated leadership, long-term vision, and sovereign intellectual resistance.
+
+* **Grand Admiral Thrawn – Star Wars**: Referenced as part of an AI-assisted simulation exploring strategic theory in *Reltronland Space Command vs. Chiss Ascendancy*. The scenario titled *"What if Chiss and Reltroner Formed a Diplomatic Pact?"* was used for narrative and strategic exploration.
+
+* **Red Pill / Blue Pill**: Originally coined in *The Matrix (1999)*, reinterpreted within the Astralis–Nytherion duality to reflect philosophical struggle between clarity and illusion.
+
+* **The World of Drawcia – Kirby Canvas Curse**: Visual and audio atmosphere in *Nytherion Abyss* sections was inspired by the chilling tone and surreal aesthetic of this Nintendo title.
+
+These influences are acknowledged with respect and used non-commercially for thematic expression only.
 
 ---
 
