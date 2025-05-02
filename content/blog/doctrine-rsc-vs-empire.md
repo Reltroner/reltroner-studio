@@ -9,7 +9,7 @@ published: true
 tags: ["comparison", "doctrine", "galactic empire", "reltronland", "rsc"]
 ---
 
-# Comparative Doctrine: Galactic Empire vs Reltronland Space Command
+## Comparative Doctrine: Galactic Empire vs Reltronland Space Command
 
 > *"One seeks control. The other seeks clarity."*
 > — Strategic Ethics Archives, RSC
