@@ -26,8 +26,8 @@ date: "2025-04-10"
 - **SDI (Sentient Development Index):** 0.983
 - **Population:** 214 billion sentient beings
 - **Land Area:** 52 million km²
-  - 81% of people of planetary descent **Depeisit**
-  - 10% of people of planetary descent **Cistheta**
+  - 81% of human of planetary descent **Depeisit**
+  - 10% of human of planetary descent **Cistheta**
   - 4% of Asthortera's original species (*Human-Wizard-Witch*)
   - 3% Cosmeilia Cosmic Races (and mixed bloodlines)
   - 2% more (*mixed species, humanoids, alien hybrids*)

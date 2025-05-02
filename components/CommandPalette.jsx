@@ -103,6 +103,8 @@ export default function CommandPalette() {
     { name: "🌱 First Seeds of Reltroner", path: "/blog/first-seeds" },
     { name: "🚫 Scam Jobs Resistance", path: "/blog/scam-jobs-resistance" },
     { name: "Comparative Doctrine: Galactic Empire vs Reltronland Space Command", path: "/blog/doctrine-rsc-vs-empire" },
+    { name: "The Void Hero: Why RSC Is the Most Feared Protagonist in the Galaxy", path: "/blog/the-void-hero-rsc" },
+    { name: "Nytherion's View: Why the Abyss Fears RSC", path: "/blog/nytherion-fears-rsc" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

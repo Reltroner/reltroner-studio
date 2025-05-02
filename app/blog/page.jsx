@@ -367,6 +367,26 @@ const posts = [
     date: "2025-05-02",
     published: true,
     tags: ["comparison", "doctrine", "galactic empire", "reltronland", "rsc"]
+  },
+  {
+    title: "The Void Hero: Why RSC Is the Most Feared Protagonist in the Galaxy",
+    description: "An essay exploring the unique, chilling presence of Reltronland Space Command as a protagonist whose aura evokes cosmic dread, structure, and inevitable clarity.",
+    slug: "the-void-hero-rsc",
+    image: "/images/the-void-hero-rsc.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-02",
+    published: true,
+    tags: ["essay", "rsc", "protagonist", "astrophobia", "reltroner"]
+  },
+  {
+    title: "Nytherion's View: Why the Abyss Fears RSC",
+    description: "An introspective perspective from the abyssal dimension, analyzing why the emergence of Reltronland Space Command represents the greatest existential threat to Nytherion’s manipulative domain.",
+    slug: "nytherion-fears-rsc",
+    image: "/images/nytherion-fears-rsc.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-02",
+    published: true,
+    tags: ["nytherion abyss", "rsc", "fear", "void", "philosophy"]
   }
   
      

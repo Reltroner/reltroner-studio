@@ -20,7 +20,7 @@ Depeisit is a once-glorious planet, now spiritually stagnant—an empire of comf
 - **Total Sentient Population:** ~25 trillion  
 - **Population Composition:**  
   - 92% Human (White/Caucasian origin)  
-  - 5% East Asian Mongoloid  
+  - 5% Human (East Asian Mongoloid)  
   - 3% Technocratic descendants from lost colonies  
 
 ---
