@@ -14,6 +14,14 @@ date: "2025-04-24"
 
 ---
 
+## 🎙️ RAIA Official Voice/Branding
+
+> **“Where Space Begins With Sentience.”**
+
+This phrase captures RAIA’s identity as more than a spaceport — it is a ceremonial departure point for minds, missions, and civilizations aligned with Astralis clarity.
+
+---
+
 ### 📍 Location & Function
 RAIA is located **at the northeastern edge of the border between Reltronepolis Province and Leastroper Province**, seamlessly linked by the **Airport Rail Link (ARL)** from Reltronepolis Central Station.
 
@@ -28,8 +36,8 @@ RAIA is the **primary planetary and interstellar mobility hub** for Reltronland,
 1. **T1–T900** — Asthorteran continent-to-continent flights
 2. **T901–T1800** — Interplanetary transit (Depeisit, Cistheta, Cosmeilia)
 3. **T1801–T2700** — Full interstellar routes and heavy orbital operations
-4. **T-R Core** — Diplomatic, royal, and spiritual class protocols
-5. **T2701–T2844** — Private elite aerospace & technocratic deployments
+4. **T2701–T2844** — Private elite aerospace & technocratic deployments
+5. **T-R Core** — Diplomatic, royal, and spiritual class protocols
 
 ---
 
@@ -251,6 +259,20 @@ RAIA was established as the primary node for intercontinental, orbital, and inte
 
 * **Runway Capacity:**
   5,537,184 operations/day
+
+---
+
+## ✨ Passenger Experience Journey
+
+**Gate T2332 → Emotional Pod → Time Corridor → Interstellar Boarding**
+
+Passengers departing from interstellar terminals (T1801–T2700) begin their journey through the **Zero-Wait Scan Gate**. At Gate **T2332**, travelers are welcomed into **Emotion-Aware Boarding Pods** — serene ambient capsules that harmonize neural frequency and reduce long-haul anxiety.
+
+Once emotionally stabilized, passengers walk through the **Spatial-Time Compression Corridor**, where the physical sensation of time passing is accelerated — shortening the walk without sacrificing comfort.
+
+The corridor ends in a fully automated **Ship Boarding Dock**, where the Reltronic Mobility Overseer (RMO) guides passengers to their designated cabin in real-time.
+
+> *“No rush, no friction — only alignment.”*
 
 ---
 

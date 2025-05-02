@@ -35,6 +35,14 @@ This document provides a detailed comparison between the fictional Super Earth p
 
 ---
 
+## 🌊 Water Surface Dominance
+
+- **Asthortera:** ~52% Water / ~48% Land
+
+- **Earth:** ~71% Water / ~29% Land (almost entirely ocean-based)
+
+---
+
 ## 🌍 Visual Representation
 Asthortera appears as a massive, vibrant world with more diversified biomes, greater land-to-water ratio compared to Earth, and broader atmospheric layers.
 
