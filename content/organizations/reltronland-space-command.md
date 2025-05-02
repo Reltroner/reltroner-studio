@@ -149,3 +149,98 @@ RSC does not seek conquest — it safeguards evolution. Every movement, every ba
 **Drafted by Reltroner Studio — Astralis Pinnacle Era, 2025-04-27.**
 
 **© Reltroner Studio 2025 — Tactical Codex Archives**
+
+---
+
+## 🔒 \[RESTRICTED ACCESS: ∆-7 ASTRALIS CLEARANCE REQUIRED]
+
+### SUBJECT: **Strategic Asset Overview — Reltronland Space Command (RSC)**
+
+**Division:** Astralis Voidfront Command Nexus
+**Prepared For:** High Sentient Council, Reltronland
+**Security Code:** CXN-17R-TRN-V-0001
+
+---
+
+### 🛡 PRIMARY ASSET CLASSIFICATIONS
+
+#### \[ASSET CODE: Q-SC17] — *Quantum Supercruisers*
+
+* **Operational Role:** Deep void recon and hyperspace scouting
+* **Length:** \~1.7 km
+* **Crew Manifest:** 9,000 (rotational protocols)
+* **FTL Protocol:** Quantum Tunnel Skip Drive — Class X-7
+* **Mass Index:** 750,000 metric tons
+* **Armament Configuration:**
+
+  * 3x Tachyon Beam Batteries (variable pulse)
+  * 2x Void Burst Lance Arrays
+* **Clarity Integration:** Linked to Sentient Command Nexus (live-sync cognitive ops)
+
+---
+
+#### \[ASSET CODE: TP-C48] — *Tron-Prime Capital Ships*
+
+* **Operational Role:** Carrier-Command Hybrid & Tactical Enforcement
+* **Length:** \~4.8 km
+* **Interceptor Capacity:** \~400 Elite Wings (max deployment)
+* **FTL Protocol:** Astralis Hyper-Inertial Drive — Class Y
+* **Mass Index:** 1,600,000 metric tons
+* **Primary Systems:**
+
+  * 4x Stellar Railgun Emplacements
+  * Gravitoric Missile Launchers
+  * AI OS: TRONCORE Tactical Logic Grid
+* **Sustainment Cycle:** 6-month autonomy, no external resupply
+
+---
+
+#### \[ASSET CODE: EI-WG01] — *Elite Interceptor Wings*
+
+* **Unit Size:** 23m L × 18m W × 5.5m H
+* **Mass:** 46 metric tons
+* **Flight System:** Non-Newtonian Drift Vector Control
+* **FTL Capability:** Micro-hyperspace burst drive
+* **Pilot Profile:** Astralis Trial–certified Sentient Cadet + Symbiotic AI
+* **Tactical Loadout:**
+
+  * Void Pulse Lasers
+  * Mirage Splitter Countermeasures
+
+---
+
+#### \[ASSET CODE: AC-STX] — *Astralis Colossus Stations*
+
+* **Designation:** Voidfortress Tier Omega
+* **Dimensions:** 23 km (vertical) × 12 km (diameter)
+* **Mass Index:** 14,000,000 metric tons
+* **Capabilities:**
+
+  * Planetary Defense Uplink
+  * Interdimensional Tribunal Facility
+  * Astralis Mirror Network Anchor
+* **FTL Function:** Slow gravitational hyperspace relocation mode (Class ZR)
+
+---
+
+#### \[ASSET CODE: VF-SP50] — *Voidfront Surveillance Probes*
+
+* **Diameter:** 17 meters
+* **Mass:** 90 metric tons
+* **Functionality:**
+
+  * Emotion Pattern Heatmap Scan
+  * Multispectrum Voidlight Recon
+* **Defense Protocol:** Quantum self-erasure on hostile contact
+* **FTL Capability:** Entangled Burst-Leap Pings (passive mode)
+
+---
+
+### 🔐 ASTRALIS PRIORITY NOTE
+
+> "In the presence of RSC, war becomes obsolete. Strategy becomes structure."
+
+**This document must be incinerated via command phrase:** `OBLIVION DELTA ZERO`
+
+*— Issued under Reltronland Strategic Codex ∆-7 Protocol*
+**\[END OF FILE]**
