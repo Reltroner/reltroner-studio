@@ -8,7 +8,7 @@ export const metadata = {
 const techs = [
   {
     title: "Reltronland Hyperloop",
-    description: "A 3.3 million km ultra-speed transit network capable of 4,220 km/h, connecting every corner of Reltronland's 25 million km² territory with zero-delay travel.",
+    description: "A 14.7 million km ultra-speed transit network capable of 4,220 km/h, connecting every corner of Reltronland's 104 million km² territory with zero-delay travel.",
     slug: "reltronland-hyperloop",
     image: "/images/reltronland-hyperloop.webp",
     author: "Reltroner Studio",
