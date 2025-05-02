@@ -34,7 +34,7 @@ Situated in **Aviashenwelt**, northwest of Pasgerflit's capital, PAIA is the lar
   4.05 billion passengers per day
 
 - **Total Flights:**  
-  3,240,000+ takeoffs & landings
+  3,240,000+ takeoffs & landings per day
 
 - **Interstellar Routes:**  
   9 Astralis Gateways, 4 Stargate Rings

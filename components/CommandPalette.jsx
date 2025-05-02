@@ -102,6 +102,7 @@ export default function CommandPalette() {
     { name: "🤝 What if Chiss and Reltronland Formed a Diplomatic Pact?", path: "/blog/chiss-reltronland" },
     { name: "🌱 First Seeds of Reltroner", path: "/blog/first-seeds" },
     { name: "🚫 Scam Jobs Resistance", path: "/blog/scam-jobs-resistance" },
+    { name: "Comparative Doctrine: Galactic Empire vs Reltronland Space Command", path: "/blog/doctrine-rsc-vs-empire" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

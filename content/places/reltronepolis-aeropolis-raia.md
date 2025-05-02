@@ -80,7 +80,7 @@ RAIA is not just an airport — it is the physical extension of **Reltronland’
   2.7 billion passengers per day
 
 - **Total Flights:**  
-  2,160,672 takeoffs & landings
+  2,160,672 takeoffs & landings per day
 
 - **Interstellar Ship Rotation:**  
   88,000+ per hemisphere terminal

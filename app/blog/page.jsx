@@ -357,6 +357,16 @@ const posts = [
     author: "Rei Reltroner",
     date: "2025-04-30",
     published: true
+  },
+  {
+    title: "Comparative Doctrine: Galactic Empire vs Reltronland Space Command",
+    description: "A philosophical and strategic breakdown comparing the core doctrines, motivations, and galactic impact of Star Wars’ Galactic Empire and Asthortera’s Reltronland Space Command.",
+    slug: "doctrine-rsc-vs-empire",
+    image: "/images/doctrine-rsc-vs-empire.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-02",
+    published: true,
+    tags: ["comparison", "doctrine", "galactic empire", "reltronland", "rsc"]
   }
   
      
