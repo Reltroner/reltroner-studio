@@ -9,34 +9,35 @@ import Heading from "@/components/Heading";
 import Script from "next/script";
 
 export const metadata = {
+  title: "For Recruiters & Collaborators – Reltroner Studio",
+  description:
+    "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
+  openGraph: {
     title: "For Recruiters & Collaborators – Reltroner Studio",
-    description: "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
-    openGraph: {
-      title: "For Recruiters & Collaborators – Reltroner Studio",
-      description:
-        "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
-      url: "https://www.reltroner.com/blog/for-recruiters",
-      siteName: "Reltroner Studio",
-      images: [
-        {
-          url: "https://www.reltroner.com/images/for-recruiters-banner.webp",
-          width: 1200,
-          height: 630,
-          alt: "Reltroner Studio OG Image",
-        },
-      ],
-      locale: "en_US",
-      type: "website",
-    },
-    twitter: {
-      card: "summary_large_image",
-      title: "For Recruiters & Collaborators – Reltroner Studio",
-      description:
-        "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
-      images: ["https://www.reltroner.com/images/for-recruiters-banner.webp"],
-      creator: "@reltroner", // opsional, kalau ada
-    },
-  };
+    description:
+      "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
+    url: "https://www.reltroner.com/blog/for-recruiters",
+    siteName: "Reltroner Studio",
+    images: [
+      {
+        url: "https://www.reltroner.com/images/for-recruiters-banner.webp",
+        width: 1200,
+        height: 630,
+        alt: "Reltroner Studio OG Image",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "For Recruiters & Collaborators – Reltroner Studio",
+    description:
+      "Professional profile and collaboration space for meritocratic partners and visionary recruiters.",
+    images: ["https://www.reltroner.com/images/for-recruiters-banner.webp"],
+    creator: "@reltroner",
+  },
+};
 
 async function getBlog() {
   const filePath = path.join(process.cwd(), "content/blog", `for-recruiters.md`);
@@ -72,8 +73,8 @@ export default async function BlogPage() {
         "url": "https://www.reltroner.com/images/logo.webp"
       }
     },
-    "datePublished": data.date || "2025-04-18",
-    "dateModified": data.modified || data.date || "2025-04-18",
+    "datePublished": `${data.date}T00:00:00+07:00`,
+    "dateModified": `${(data.modified || data.date)}T00:00:00+07:00`,
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://www.reltroner.com/blog/for-recruiters"
