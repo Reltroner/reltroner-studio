@@ -22,44 +22,70 @@ This framework is designed to assess developers beyond technical ability — by 
 
 The developer is assessed across **3 Core Astralis Pillars**, each with 4 indicators:
 
-| Pillar | Description |
-|--------|-------------|
-| 🔺 **Red Pill Clarity** | Self-awareness, realism, and mental independence from illusions |
-| 🔥 **Relentless Execution** | Discipline, resilience, and consistent delivery despite adversity |
-| 🌌 **Legacy Orientation** | Vision, creativity, and meaningful contribution beyond oneself |
+### 🔺 Red Pill Clarity
+- Self-awareness  
+- Realism  
+- Mental independence from illusions
+
+### 🔥 Relentless Execution
+- Discipline  
+- Resilience  
+- Consistent delivery despite adversity
+
+### 🌌 Legacy Orientation
+- Vision  
+- Creativity  
+- Meaningful contribution beyond oneself
 
 ---
 
 ## 1️⃣ 🔺 Red Pill Clarity
 
-| Indicator | Description |
-|-----------|-------------|
-| Self-Awareness | Honestly aware of one’s strengths and limitations |
-| Error Ownership | Takes full responsibility for mistakes and bugs |
-| Anti-Delusion | Free from tutorial-dependency and comfort zone illusions |
-| Blueprint Thinking | Has a clear, realistic learning and career strategy |
+
+### ✅ Self-Awareness
+- Honestly aware of one’s strengths and limitations
+
+### ⚠️ Error Ownership
+- Takes full responsibility for mistakes and bugs
+
+### 🧠 Anti-Delusion
+- Free from tutorial-dependency and comfort zone illusions
+
+### 🏗️ Blueprint Thinking
+- Has a clear, realistic learning and career strategy
+
 
 ---
 
 ## 2️⃣ 🔥 Relentless Execution
 
-| Indicator | Description |
-|-----------|-------------|
-| Daily Practice | Codes regularly without being forced by deadlines |
-| Error Documentation | Builds a personal error log or troubleshooting system |
-| Real Project Completion | Builds real, functional apps (not just following tutorials) |
-| Resilience | Keeps going through bugs, rejections, and mental burnout |
+### 💻 Daily Practice
+- Codes regularly without being forced by deadlines
+
+### 📒 Error Documentation
+- Builds a personal error log or troubleshooting system
+
+### 🚀 Real Project Completion
+- Builds real, functional apps (not just following tutorials)
+
+### 🛡️ Resilience
+- Keeps going through bugs, rejections, and mental burnout
 
 ---
 
 ## 3️⃣ 🌌 Legacy Orientation
 
-| Indicator | Description |
-|-----------|-------------|
-| Vision Clarity | Has a strong sense of long-term purpose (5–10 years) |
-| Unique Creations | Builds original systems, tools, frameworks, or worldbuilding |
-| Community Impact | Shares value or helps others grow technically |
-| Anti-Stagnation | Actively pushes past “safe zones” and comfort patterns |
+### 🌠 Vision Clarity
+- Has a strong sense of long-term purpose (5–10 years)
+
+### 🛠️ Unique Creations
+- Builds original systems, tools, frameworks, or worldbuilding
+
+### 🌍 Community Impact
+- Shares value or helps others grow technically
+
+### 🚫 Anti-Stagnation
+- Actively pushes past “safe zones” and comfort patterns
 
 ---
 
@@ -67,13 +93,12 @@ The developer is assessed across **3 Core Astralis Pillars**, each with 4 indica
 
 Each indicator is rated on a scale of `0 – 4`:
 
-| Score | Meaning |
-|-------|---------|
-| 0 | No trace of this value present |
-| 1 | Highly dependent or unaware |
-| 2 | Currently developing the value |
-| 3 | Shows mature alignment with the value |
-| 4 | This value is a personal strength or identity core |
+### Score Meaning:
+- **0** – No trace of this value present  
+- **1** – Highly dependent or unaware  
+- **2** – Currently developing the value  
+- **3** – Shows mature alignment with the value  
+- **4** – This value is a personal strength or identity core 
 
 > **Maximum Score: 48 points**  
 > *(16 indicators × 3 pillars × 4 max score)*
@@ -82,13 +107,33 @@ Each indicator is rated on a scale of `0 – 4`:
 
 ## 🧠 Astralis Developer Ranking
 
-| Score Range | Astralis Rank |
-|-------------|----------------|
-| 0 – 12 | ⚫ Abyss Bound (No awareness) |
-| 13 – 24 | 🔘 Red Pill Initiator (Breaking illusions) |
-| 25 – 36 | 🔴 Astralis Climber (Consistently ascending) |
-| 37 – 44 | 🔺 Legacy Architect (Building real long-term value) |
-| 45 – 48 | 🌌 System Shaper (Top 0.1%, transforms environments) |
+### ⚫ Abyss Bound
+- **Score Range:** 0 – 12  
+- **Meaning:** No awareness
+
+---
+
+### 🔘 Red Pill Initiator
+- **Score Range:** 13 – 24  
+- **Meaning:** Breaking illusions
+
+---
+
+### 🔴 Astralis Climber
+- **Score Range:** 25 – 36  
+- **Meaning:** Consistently ascending
+
+---
+
+### 🔺 Legacy Architect
+- **Score Range:** 37 – 44  
+- **Meaning:** Building real long-term value
+
+---
+
+### 🌌 System Shaper
+- **Score Range:** 45 – 48  
+- **Meaning:** Top 0.1%, transforms environments
 
 ---
 

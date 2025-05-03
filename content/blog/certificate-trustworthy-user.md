@@ -4,6 +4,7 @@ description: "A symbolic certificate honoring the ethical, conscious, and spirit
 slug: "certificate-trustworthy-user"
 date: "2025-04-19"
 image: "/images/certificate-trustworthy-user.webp"
+published: true
 ---
 
 # 📜 **Personal Certificate of Trustworthy AI User**

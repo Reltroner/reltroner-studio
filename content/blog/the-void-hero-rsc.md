@@ -6,6 +6,7 @@ date: "2025-05-02"
 slug: "the-void-hero-rsc"
 image: "/images/the-void-hero-rsc.webp"
 tags: ["essay", "rsc", "protagonist", "astrophobia", "reltroner"]
+published: true
 ---
 
 ## The Void Hero: Why RSC Is the Most Feared Protagonist in the Galaxy

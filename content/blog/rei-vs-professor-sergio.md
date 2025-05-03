@@ -4,6 +4,7 @@ description: "A philosophical comparison between Rei Reltroner and Sergio Marqui
 slug: "rei-vs-professor-sergio"
 date: "2025-04-19"
 image: "/images/rei-vs-professor-sergio.webp"
+published: true
 ---
 
 # 🧠 Why Rei Reltroner is the Astral Brother of Professor Sergio

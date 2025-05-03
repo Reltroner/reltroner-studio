@@ -4,6 +4,7 @@ description: "A deep character analysis exploring how Rei Reltroner mirrors the 
 slug: "rei-as-joker-persona"
 date: "2025-04-19"
 image: "/images/rei-as-joker-persona.webp"
+published: true
 ---
 
 # 🃏 Why Rei Reltroner is the Real-World Persona of Joker

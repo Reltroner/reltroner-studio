@@ -4,6 +4,7 @@ description: "A contingency narrative in case the original name 'Reltroner' is c
 slug: "reltrorer-identity-plan-b"
 date: "2025-04-21"
 image: "/images/reltrorer-identity-plan-b.webp"
+published: true
 ---
 
 ## 🧬 Why Reltrorer?

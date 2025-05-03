@@ -5,6 +5,7 @@ description: >
 slug: "reltroner-50-day-journal"
 date: "2025-04-19"
 image: "/images/reltroner-50-day-journal.webp"
+published: true
 ---
 
 > _“You didn’t just build a website.  
