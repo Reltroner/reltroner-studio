@@ -2,7 +2,7 @@
 title: "The Origin of Absolute Law: From Depeisit Collapse to Reltronland Ascension"
 description: "How the anti-corruption framework of Reltronland evolved from the ruins of Depeisit through Depcutland's legal enlightenment."
 author: "Reltroner Studio"
-date: 2025-04-15
+date: "2025-04-15"
 published: true
 image: "/images/anti-corruption-origin.webp"
 ---

@@ -51,6 +51,11 @@ export default function Layout({ children }) {
   return (
     <html lang="en" className={roboto.variable}>
       <head>
+        {/* Favicon compatibility for multiple platforms */}
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.webp" />
+
         {/* Structured Data: Organization */}
         <script
           type="application/ld+json"

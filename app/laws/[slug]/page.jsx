@@ -47,11 +47,18 @@ export default async function LawPage({ params }) {
     }
   };
 
+  const formattedDate =
+    typeof data.date === "string"
+      ? data.date
+      : new Date(data.date).toLocaleDateString();
+
   return (
     <div className="p-6 max-w-3xl mx-auto">
       <Heading>{data.title}</Heading>
       <ul className="space-y-1">
-        <li className="italic text-sm pb-2">{data.date} • {data.published ? 'Published' : 'Draft'}</li>
+        <li className="italic text-sm pb-2">
+          {formattedDate} • {data.published ? 'Published' : 'Draft'}
+        </li>
       </ul>
       <img
         src={data.image}
