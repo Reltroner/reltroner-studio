@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { remark } from "remark";
 import html from "remark-html";
 import Heading from "@/components/Heading";
+import Script from "next/script";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
@@ -31,7 +32,34 @@ export default async function BlogPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getBlog(slug);
   if (!data) return notFound();
-  
+
+  const schemaData = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": data.title,
+    "description": data.description,
+    "image": `https://www.reltroner.com${data.image || "/images/default-og.webp"}`,
+    "author": {
+      "@type": "Person",
+      "name": data.author || "Rei Reltroner",
+      "url": "https://www.reltroner.com/about"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Reltroner Studio",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.reltroner.com/images/logo.webp"
+      }
+    },
+    "datePublished": data.date || "2025-01-01",
+    "dateModified": data.modified || data.date || "2025-01-01",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.reltroner.com/blog/${slug}`
+    }
+  };
+
   return (
     <div className="p-6 max-w-3xl mx-auto">
       <Heading>{data.title}</Heading>
@@ -53,6 +81,13 @@ export default async function BlogPage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+      
+      {/* 🚀 Schema.org for Rich Result */}
+      <Script
+        id="article-structured-data"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
       />
     </div>
   );
