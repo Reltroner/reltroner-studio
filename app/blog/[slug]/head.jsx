@@ -8,8 +8,10 @@ export default async function Head({ params }) {
   const title = post?.data?.title || "Reltroner Studio";
   const description = post?.data?.description || "Exploring worldbuilding, philosophy, and software craftsmanship.";
   const image = post?.data?.image || "/images/default-og.webp";
-  const datePublished = post?.data?.date || "2025-01-01";
-  const dateModified = post?.data?.modified || datePublished;
+  const rawDatePublished = post?.data?.date || "2025-01-01";
+  const rawDateModified = post?.data?.modified || rawDatePublished;
+  const datePublished = `${rawDatePublished}T00:00:00+07:00`;
+  const dateModified = `${rawDateModified}T00:00:00+07:00`;
   const authorName = post?.data?.author || "Rei Reltroner";
   const url = `https://www.reltroner.com/blog/${slug}`;
 

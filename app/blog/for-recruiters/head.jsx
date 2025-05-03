@@ -7,8 +7,8 @@ export default async function Head() {
   const title = post?.data?.title || "Reltroner Studio";
   const description = post?.data?.description || "Explore the creative side of code and storytelling.";
   const image = post?.data?.image || "/images/default-og.webp";
-  const datePublished = post?.data?.date || "2025-01-01";
-  const authorName = post?.data?.author || "Rei Reltroner";
+  const datePublished = `${rawDatePublished}T00:00:00+07:00`;
+  const dateModified = `${rawDateModified}T00:00:00+07:00`;
   const url = "https://www.reltroner.com/blog/for-recruiters";
 
   return (
