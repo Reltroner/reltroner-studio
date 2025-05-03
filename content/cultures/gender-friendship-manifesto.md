@@ -2,7 +2,7 @@
 title: "Gender Friendship Manifesto of Asthortera"
 description: "A cultural doctrine that redefines friendship across genders without stigma, cringe, or romantic overtones."
 author: "Reltroner Studio"
-date: 2025-04-16
+date: "2025-04-16"
 published: true
 image: "/images/gender-friendship-manifesto.webp"
 ---

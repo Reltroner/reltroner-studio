@@ -2,10 +2,9 @@
 title: "Core Constitution of Reltronland"
 description: "The foundational doctrines that govern the Reltronland civilization—spiritually, ethically, structurally."
 author: "Reltroner Studio"
-date: 2025-04-15
+date: "2025-04-15"
 published: true
 image: "/images/reltronland-core-constitution.webp"
-published: true
 ---
 
 # 🏛️ Core Constitution of Reltronland

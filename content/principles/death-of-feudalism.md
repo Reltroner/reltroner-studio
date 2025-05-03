@@ -1,11 +1,12 @@
 ---
-title: "The Death of Feudalism: Astralis Principle 07"
-description: "Reltronland’s ideological extermination of hierarchy-based dominance and inherited power."
+title: "Core Constitution of Reltronland"
+description: "The foundational doctrines that govern the Reltronland civilization—spiritually, ethically, structurally."
 author: "Reltroner Studio"
-date: 2025-04-15
+date: "2025-04-15"
 published: true
-image: "/images/death-of-feudalism.webp"
+image: "/images/reltronland-core-constitution.webp"
 ---
+
 
 # ☠️ The Death of Feudalism: Astralis Principle 07
 

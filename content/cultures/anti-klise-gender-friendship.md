@@ -2,7 +2,7 @@
 title: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto"
 description: "A deconstruction of outdated tropes by Asthortera’s mature philosophy of sentient connection."
 author: "Reltroner Studio"
-date: 2025-04-16
+date: "2025-04-16"
 published: true
 image: "/images/anti-klise-gender-friendship.webp"
 ---
