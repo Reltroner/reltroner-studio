@@ -39,8 +39,8 @@ export default async function CulturePage({ params }) {
         "url": "https://www.reltroner.com/images/logo.webp"
       }
     },
-    "datePublished": data.date || "2025-01-01",
-    "dateModified": data.modified || data.date || "2025-01-01",
+    "datePublished": `${data.date}T00:00:00+07:00`,
+    "dateModified": `${(data.modified || data.date)}T00:00:00+07:00`,
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": `https://www.reltroner.com/cultures/${slug}`

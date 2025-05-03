@@ -43,7 +43,8 @@ export default async function StatisticPage({ params }) {
         "@type": "ImageObject",
         "url": "https://www.reltroner.com/images/logo.webp"
       }
-    }
+    },
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/"
   };
 
   return (
