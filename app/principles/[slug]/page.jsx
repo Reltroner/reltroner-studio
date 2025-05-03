@@ -1,3 +1,5 @@
+// app/principles/[slug]/page.jsx
+
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
 import { getPrinciple } from "@/lib/getPrinciple";
@@ -16,6 +18,9 @@ export default async function PrinciplePage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getPrinciple(slug);
   if (!data) return notFound();
+
+  const datePublished = `${data.date}T00:00:00+07:00`;
+  const dateModified = `${(data.modified || data.date)}T00:00:00+07:00`;
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
@@ -38,6 +43,39 @@ export default async function PrinciplePage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      {/* Structured Data: Article */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": data.title,
+            "description": data.description,
+            "image": data.image,
+            "datePublished": datePublished,
+            "dateModified": dateModified,
+            "author": {
+              "@type": "Person",
+              "name": data.author || "Rei Reltroner",
+              "url": "https://reltroner.com/about"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Reltroner Studio",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://reltroner.com/images/logo.webp"
+              }
+            },
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": `https://reltroner.com/principles/${slug}`
+            }
+          })
+        }}
       />
     </div>
   );

@@ -65,6 +65,32 @@ export default function About() {
         This studio is independently built with Next.js and hosted on Vercel.
         All contents are © 2025 Raidan. All rights reserved.
       </p>
+
+      {/* Structured Data: Person */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Rei Reltroner",
+            "alternateName": "Raidan",
+            "url": "https://reltroner.com/about",
+            "sameAs": [
+              "https://github.com/reltroner",
+              "https://twitter.com/reltroner",
+              "https://www.youtube.com/@reltroner"
+            ],
+            "worksFor": {
+              "@type": "Organization",
+              "name": "Reltroner Studio",
+              "url": "https://reltroner.com"
+            },
+            "jobTitle": "Founder & Worldbuilder",
+            "description": "Visionary mind behind Asthortera, builder of Reltroner Studio, and storyteller of Red Pill worlds."
+          })
+        }}
+      />
     </div>
   );
 }

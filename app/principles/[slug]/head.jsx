@@ -1,3 +1,5 @@
+// app/principles/[slug]/head.jsx
+
 import { getPrinciple } from "@/lib/getPrinciple";
 import { notFound } from "next/navigation";
 
@@ -6,14 +8,17 @@ export async function generateMetadata({ params }) {
   const { data } = await getPrinciple(slug);
   if (!data) return notFound();
 
+  const datePublished = `${data.date}T00:00:00+07:00`;
+  const dateModified = `${(data.modified || data.date)}T00:00:00+07:00`;
+
   const schema = {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": data.title,
     "description": data.description,
     "image": data.image,
-    "datePublished": data.date || "2025-01-01",
-    "dateModified": data.modified || data.date || "2025-01-01",
+    "datePublished": datePublished,
+    "dateModified": dateModified,
     "author": {
       "@type": "Person",
       "name": data.author || "Rei Reltroner",
@@ -24,7 +29,7 @@ export async function generateMetadata({ params }) {
       "name": "Reltroner Studio",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://reltroner.com/images/logo.png"
+        "url": "https://reltroner.com/images/logo.webp"
       }
     },
     "mainEntityOfPage": {

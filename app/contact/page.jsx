@@ -1,3 +1,5 @@
+// app/contact/page.jsx
+
 "use client";
 import { useRef, useState } from "react";
 import ReCAPTCHA from "react-google-recaptcha";
@@ -11,19 +13,21 @@ export default function Contact() {
     if (value) setVerified(true);
   };
 
-  // Ambil endpoint dari .env
   const formEndpoint = process.env.NEXT_PUBLIC_FORMSPREE_ENDPOINT;
 
   return (
     <div className="max-w-xl mx-auto py-12 px-4">
-      <Heading>Contact Us</Heading>
+      <Heading>Contact Reltroner Studio</Heading>
+      <p className="mt-2 text-gray-600 text-sm">
+        If you're a recruiter, collaborator, or fellow visionary, feel free to reach out using the form below. We'll respond as soon as possible.
+      </p>
       <form
         action={formEndpoint}
         method="POST"
-        className="mt-6 space-y-6 bg-white shadow-md rounded-xl p-6"
+        className="mt-6 space-y-6 bg-white shadow-md rounded-xl p-6 dark:bg-gray-800"
       >
         <div>
-          <label htmlFor="name" className="block text-sm font-medium text-gray-700">
+          <label htmlFor="name" className="block text-sm font-medium text-gray-700 dark:text-gray-200">
             Name
           </label>
           <input
@@ -31,12 +35,12 @@ export default function Contact() {
             id="name"
             name="name"
             required
-            className="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md"
+            className="mt-1 block w-full px-4 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-black dark:text-white"
           />
         </div>
 
         <div>
-          <label htmlFor="email" className="block text-sm font-medium text-gray-700">
+          <label htmlFor="email" className="block text-sm font-medium text-gray-700 dark:text-gray-200">
             Email
           </label>
           <input
@@ -44,12 +48,12 @@ export default function Contact() {
             id="email"
             name="email"
             required
-            className="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md"
+            className="mt-1 block w-full px-4 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-black dark:text-white"
           />
         </div>
 
         <div>
-          <label htmlFor="message" className="block text-sm font-medium text-gray-700">
+          <label htmlFor="message" className="block text-sm font-medium text-gray-700 dark:text-gray-200">
             Message
           </label>
           <textarea
@@ -57,7 +61,7 @@ export default function Contact() {
             name="message"
             rows="4"
             required
-            className="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md"
+            className="mt-1 block w-full px-4 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-black dark:text-white"
           ></textarea>
         </div>
 
