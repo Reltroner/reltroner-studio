@@ -7,32 +7,37 @@ export async function generateMetadata({ params }) {
 
   if (!data) return notFound();
 
+  const fullUrl = `https://www.reltroner.com/statistics/${slug}`;
+  const fullImage = `https://www.reltroner.com${data.image}`;
+  const dateISO = `${data.date}T00:00:00+07:00`;
+  const modifiedISO = `${(data.modified || data.date)}T00:00:00+07:00`;
+
   const schema = {
     "@context": "https://schema.org",
     "@type": "Dataset",
     "name": data.title,
     "description": data.description,
-    "url": `https://reltroner.com/statistics/${slug}`,
+    "url": fullUrl,
     "creator": {
       "@type": "Organization",
       "name": "Reltroner Studio",
-      "url": "https://reltroner.com"
+      "url": "https://www.reltroner.com"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Reltroner Studio",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://reltroner.com/images/logo.png"
+        "url": "https://www.reltroner.com/images/logo.webp"
       }
     },
     "distribution": {
       "@type": "DataDownload",
-      "contentUrl": `https://reltroner.com/statistics/${slug}`
+      "contentUrl": fullUrl
     },
-    "image": data.image,
-    "datePublished": data.date || "2025-01-01",
-    "dateModified": data.modified || data.date || "2025-01-01",
+    "image": fullImage,
+    "datePublished": dateISO,
+    "dateModified": modifiedISO,
   };
 
   return {
@@ -43,11 +48,11 @@ export async function generateMetadata({ params }) {
       type: "article",
       title: data.title,
       description: data.description,
-      url: `https://reltroner.com/statistics/${slug}`,
+      url: fullUrl,
       siteName: "Reltroner Studio",
       images: [
         {
-          url: data.image,
+          url: fullImage,
           width: 1200,
           height: 630,
           alt: data.title,
@@ -59,9 +64,9 @@ export async function generateMetadata({ params }) {
       title: data.title,
       description: data.description,
       creator: "@reltroner",
-      images: [data.image],
+      images: [fullImage],
     },
-    metadataBase: new URL("https://reltroner.com"),
+    metadataBase: new URL("https://www.reltroner.com"),
     other: {
       "application/ld+json": JSON.stringify(schema),
     },

@@ -1,4 +1,3 @@
-// app/blog/for-recruiters/head.jsx
 import { getBlogPost } from "@/lib/getBlogPost";
 
 export default async function Head() {
@@ -6,9 +5,9 @@ export default async function Head() {
 
   const title = post?.data?.title || "Reltroner Studio";
   const description = post?.data?.description || "Explore the creative side of code and storytelling.";
-  const image = post?.data?.image || "/images/default-og.webp";
-  const datePublished = `${rawDatePublished}T00:00:00+07:00`;
-  const dateModified = `${rawDateModified}T00:00:00+07:00`;
+  const image = `https://www.reltroner.com${post?.data?.image || "/images/default-og.webp"}`;
+  const datePublished = `${post?.data?.date || "2025-01-01"}T00:00:00+07:00`;
+  const authorName = post?.data?.author || "Rei Reltroner";
   const url = "https://www.reltroner.com/blog/for-recruiters";
 
   return (
@@ -22,7 +21,7 @@ export default async function Head() {
       {/* OpenGraph */}
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={`https://www.reltroner.com${image}`} />
+      <meta property="og:image" content={image} />
       <meta property="og:url" content={url} />
       <meta property="og:type" content="article" />
       <meta property="og:site_name" content="Reltroner Studio" />
@@ -31,28 +30,9 @@ export default async function Head() {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
-      <meta name="twitter:image" content={`https://www.reltroner.com${image}`} />
+      <meta name="twitter:image" content={image} />
 
-      {/* Structured Data: Organization */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Organization",
-            "name": "Reltroner Studio",
-            "url": "https://reltroner.com",
-            "logo": "https://reltroner.com/images/logo.webp",
-            "sameAs": [
-              "https://www.youtube.com/@reltroner",
-              "https://github.com/reltroner",
-              "https://twitter.com/reltroner"
-            ]
-          })
-        }}
-      />
-
-      {/* Structured Data: Article */}
+      {/* Structured Data: Combined Article + Publisher */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -61,18 +41,24 @@ export default async function Head() {
             "@type": "Article",
             "headline": title,
             "description": description,
-            "image": `https://www.reltroner.com${image}`,
+            "image": image,
             "author": {
               "@type": "Person",
-              "name": authorName
+              "name": authorName,
+              "url": "https://www.reltroner.com/about"
             },
             "publisher": {
               "@type": "Organization",
               "name": "Reltroner Studio",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://reltroner.com/images/logo.webp"
-              }
+                "url": "https://www.reltroner.com/images/logo.webp"
+              },
+              "sameAs": [
+                "https://www.youtube.com/@reltroner",
+                "https://github.com/reltroner",
+                "https://twitter.com/reltroner"
+              ]
             },
             "datePublished": datePublished,
             "mainEntityOfPage": {
