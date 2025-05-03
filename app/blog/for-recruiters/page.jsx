@@ -6,6 +6,7 @@ import { remark } from "remark";
 import html from "remark-html";
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
+import Script from "next/script";
 
 export const metadata = {
     title: "For Recruiters & Collaborators – Reltroner Studio",
@@ -52,17 +53,42 @@ export default async function BlogPage() {
   const { data, contentHtml } = await getBlog();
   if (!data) return notFound();
 
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": data.title,
+    "description": data.description,
+    "image": `https://www.reltroner.com${data.image || "/images/for-recruiters-banner.webp"}`,
+    "author": {
+      "@type": "Person",
+      "name": data.author || "Rei Reltroner",
+      "url": "https://www.reltroner.com/about"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Reltroner Studio",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.reltroner.com/images/logo.webp"
+      }
+    },
+    "datePublished": data.date || "2025-04-18",
+    "dateModified": data.modified || data.date || "2025-04-18",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.reltroner.com/blog/for-recruiters"
+    }
+  };
+
   return (
     <div className="px-4 py-6 sm:px-6 sm:py-8 mx-auto max-w-3xl">
-      {/* Title */}
       <Heading>{data.title}</Heading>
       <ul className="space-y-1">
-          <li className="italic text-sm pb-2">
-              {data.date} - {data.published ? 'Published' : 'Draft'}
-          </li>
+        <li className="italic text-sm pb-2">
+          {data.date} - {data.published ? "Published" : "Draft"}
+        </li>
       </ul>
 
-      {/* Image */}
       {data.image && (
         <img
           src={data.image}
@@ -71,29 +97,32 @@ export default async function BlogPage() {
         />
       )}
 
-      {/* Role / Badge */}
       {data.role && (
         <p className="text-gray-700 text-lg font-semibold italic mb-2">
           {data.role}
         </p>
       )}
 
-      {/* Description */}
       {data.description && (
         <p className="text-gray-600 mb-4 text-sm">{data.description}</p>
       )}
 
-      {/* Quote (if any) */}
       {data.quote && (
         <blockquote className="border-l-4 border-blue-600 pl-4 italic text-gray-800 mb-6">
           “{data.quote}”
         </blockquote>
       )}
 
-      {/* Content */}
       <div
         className="prose prose-neutral md:prose-lg dark:prose-invert"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      {/* ✅ Structured Data for Rich Result */}
+      <Script
+        id="structured-data-recruiters"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
     </div>
   );
