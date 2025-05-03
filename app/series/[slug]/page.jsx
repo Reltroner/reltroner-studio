@@ -1,5 +1,8 @@
+// app/series/[slug]/page.jsx
+
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
+import Script from "next/script";
 import { getSerie } from "@/lib/getSerie";
 
 export async function generateMetadata({ params }) {
@@ -16,6 +19,33 @@ export default async function SeriePage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getSerie(slug);
   if (!data) return notFound();
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "CreativeWorkSeries",
+    "name": data.title,
+    "description": data.description,
+    "image": `https://www.reltroner.com${data.image || "/images/default-series.webp"}`,
+    "url": `https://www.reltroner.com/series/${slug}`,
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.reltroner.com/series/${slug}`
+    },
+    "datePublished": data.date || "2025-01-01",
+    "dateModified": data.modified || data.date || "2025-01-01",
+    "author": {
+      "@type": "Person",
+      "name": data.author || "Rei Reltroner"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Reltroner Studio",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.reltroner.com/images/logo.webp"
+      }
+    }
+  };
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
@@ -38,6 +68,12 @@ export default async function SeriePage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      <Script
+        id="structured-data-series"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
     </div>
   );

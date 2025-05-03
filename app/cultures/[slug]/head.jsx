@@ -12,9 +12,37 @@ export async function generateMetadata({ params }) {
   const image = data.image || "/images/default-culture.webp";
   const url = `https://www.reltroner.com/cultures/${slug}`;
 
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": title,
+    "description": description,
+    "image": `https://www.reltroner.com${image}`,
+    "author": {
+      "@type": "Person",
+      "name": data.author || "Rei Reltroner",
+      "url": "https://www.reltroner.com/about"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Reltroner Studio",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.reltroner.com/images/logo.webp"
+      }
+    },
+    "datePublished": data.date || "2025-01-01",
+    "dateModified": data.modified || data.date || "2025-01-01",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": url
+    }
+  };
+
   return {
     title,
     description,
+    keywords: `${title}, culture, Reltronland, Asthortera, worldbuilding, creative societies`,
     openGraph: {
       title,
       description,
@@ -29,9 +57,12 @@ export async function generateMetadata({ params }) {
       description,
       images: [`https://www.reltroner.com${image}`],
     },
+    metadataBase: new URL("https://www.reltroner.com"),
+    other: {
+      "application/ld+json": JSON.stringify(schema),
+    },
     alternates: { canonical: url },
   };
 }
 
-// head.jsx default export is a no-op because metadata is handled above
 export default function Head() { return null; }

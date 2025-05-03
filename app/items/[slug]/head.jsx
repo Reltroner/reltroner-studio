@@ -12,6 +12,23 @@ export async function generateMetadata({ params }) {
   const image = data.image || "/images/default-item.webp";
   const url = `https://www.reltroner.com/items/${slug}`;
 
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": title,
+    "description": description,
+    "image": `https://www.reltroner.com${image}`,
+    "url": url,
+    "brand": {
+      "@type": "Organization",
+      "name": "Reltroner Studio"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": url
+    }
+  };
+
   return {
     title,
     description,
@@ -33,6 +50,10 @@ export async function generateMetadata({ params }) {
     },
     alternates: {
       canonical: url
+    },
+    metadataBase: new URL("https://www.reltroner.com"),
+    other: {
+      "application/ld+json": JSON.stringify(structuredData),
     },
   };
 }

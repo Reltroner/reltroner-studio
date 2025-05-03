@@ -1,5 +1,8 @@
+// app/items/[slug]/page.jsx
+
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
+import Script from "next/script";
 import { getItem } from "@/lib/getItem";
 
 export async function generateMetadata({ params }) {
@@ -16,6 +19,23 @@ export default async function ItemPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getItem(slug);
   if (!data) return notFound();
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": data.title,
+    "description": data.description,
+    "image": `https://www.reltroner.com${data.image || "/images/default-item.webp"}`,
+    "url": `https://www.reltroner.com/items/${slug}`,
+    "brand": {
+      "@type": "Organization",
+      "name": "Reltroner Studio"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.reltroner.com/items/${slug}`
+    }
+  };
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
@@ -38,6 +58,12 @@ export default async function ItemPage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      <Script
+        id="structured-data-item"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
     </div>
   );

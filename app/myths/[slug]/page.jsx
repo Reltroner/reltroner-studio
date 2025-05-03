@@ -1,5 +1,8 @@
+// app/myths/[slug]/page.jsx
+
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
+import Script from "next/script";
 import { getMyth } from "@/lib/getMyth";
 
 export async function generateMetadata({ params }) {
@@ -16,6 +19,34 @@ export default async function MythPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getMyth(slug);
   if (!data) return notFound();
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Myth",
+    "name": data.title,
+    "description": data.description,
+    "url": `https://www.reltroner.com/myths/${slug}`,
+    "image": `https://www.reltroner.com${data.image || "/images/default-myth.webp"}`,
+    "datePublished": data.date || "2025-01-01",
+    "dateModified": data.modified || data.date || "2025-01-01",
+    "author": {
+      "@type": "Person",
+      "name": data.author || "Rei Reltroner",
+      "url": "https://www.reltroner.com/about"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Reltroner Studio",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.reltroner.com/images/logo.webp"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.reltroner.com/myths/${slug}`
+    }
+  };
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
@@ -38,6 +69,12 @@ export default async function MythPage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      <Script
+        id="structured-data-myth"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
     </div>
   );

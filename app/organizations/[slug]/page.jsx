@@ -1,5 +1,8 @@
+// app/organizations/[slug]/page.jsx
+
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
+import Script from "next/script";
 import { getOrganization } from "@/lib/getOrganization";
 
 export async function generateMetadata({ params }) {
@@ -16,7 +19,34 @@ export default async function OrganizationPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getOrganization(slug);
   if (!data) return notFound();
-  
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": data.title,
+    "description": data.description,
+    "url": `https://www.reltroner.com/organizations/${slug}`,
+    "image": `https://www.reltroner.com${data.image || "/images/default-organization.webp"}`,
+    "founder": {
+      "@type": "Person",
+      "name": data.author || "Rei Reltroner"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.reltroner.com/organizations/${slug}`
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Reltroner Studio",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.reltroner.com/images/logo.webp"
+      }
+    },
+    "datePublished": data.date || "2025-01-01",
+    "dateModified": data.modified || data.date || "2025-01-01"
+  };
+
   return (
     <div className="p-6 max-w-3xl mx-auto">
       <Heading>{data.title}</Heading>
@@ -38,6 +68,12 @@ export default async function OrganizationPage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      <Script
+        id="structured-data-organization"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
     </div>
   );

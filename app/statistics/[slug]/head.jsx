@@ -1,3 +1,5 @@
+// app/statistics/[slug]/head.jsx
+
 import { getStatistic } from "@/lib/getStatistic";
 import { notFound } from "next/navigation";
 

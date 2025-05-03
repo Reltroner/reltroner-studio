@@ -1,10 +1,11 @@
-//app\characters\[slug]\page.jsx
+//app/characters/[slug]/page.jsx
+
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
 import { getCharacter } from "@/lib/getCharacter";
+import Script from "next/script";
 
 export async function generateMetadata({ params }) {
-  // await params before you destructure, because params is a proxy
   const { slug } = await params;
   const { data } = await getCharacter(slug);
   if (!data) return notFound();
@@ -15,6 +16,32 @@ export default async function CharacterPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getCharacter(slug);
   if (!data) return notFound();
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": data.title,
+    "description": data.description,
+    "image": `https://www.reltroner.com${data.image}`,
+    "url": `https://www.reltroner.com/characters/${slug}`,
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.reltroner.com/characters/${slug}`
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Reltroner Studio",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.reltroner.com/images/logo.webp"
+      }
+    },
+    "author": {
+      "@type": "Person",
+      "name": data.author || "Rei Reltroner",
+      "url": "https://www.reltroner.com/about"
+    }
+  };
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
@@ -39,6 +66,12 @@ export default async function CharacterPage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      <Script
+        id="structured-data-character"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
     </div>
   );

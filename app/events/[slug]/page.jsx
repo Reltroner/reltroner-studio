@@ -1,6 +1,9 @@
+// app/events/[slug]/page.jsx
+
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
 import { getEvent } from "@/lib/getEvent";
+import Script from "next/script";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
@@ -16,6 +19,32 @@ export default async function EventPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getEvent(slug);
   if (!data) return notFound();
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": data.title,
+    "description": data.description,
+    "startDate": data.startDate || data.date || "2025-01-01",
+    "endDate": data.endDate || undefined,
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+    "image": `https://www.reltroner.com${data.image}`,
+    "url": `https://www.reltroner.com/events/${slug}`,
+    "location": {
+      "@type": "Place",
+      "name": data.location || "Reltronland Virtual Archives",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Asthortera"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Reltroner Studio",
+      "url": "https://www.reltroner.com"
+    }
+  };
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
@@ -38,6 +67,12 @@ export default async function EventPage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      <Script
+        id="structured-data-event"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
     </div>
   );

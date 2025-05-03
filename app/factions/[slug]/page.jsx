@@ -1,6 +1,9 @@
+// app/factions/[slug]/page.jsx
+
 import { notFound } from "next/navigation";
 import Heading from "@/components/Heading";
 import { getFaction } from "@/lib/getFaction";
+import Script from "next/script";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params;
@@ -16,6 +19,25 @@ export default async function FactionPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getFaction(slug);
   if (!data) return notFound();
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": data.title,
+    "description": data.description,
+    "url": `https://www.reltroner.com/factions/${slug}`,
+    "logo": `https://www.reltroner.com${data.image || "/images/default-faction.webp"}`,
+    "founder": {
+      "@type": "Person",
+      "name": data.founder || "Unknown",
+      "url": "https://www.reltroner.com/about"
+    },
+    "foundingDate": data.date || "2025-01-01",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `https://www.reltroner.com/factions/${slug}`
+    }
+  };
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
@@ -38,6 +60,12 @@ export default async function FactionPage({ params }) {
       <div
         className="prose prose-lg text-justify text-slate-800"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      <Script
+        id="structured-data-faction"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
     </div>
   );
