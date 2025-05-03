@@ -26,19 +26,40 @@ export default async function EventPage({ params }) {
     "name": data.title,
     "description": data.description,
     "startDate": data.startDate || data.date || "2025-01-01",
-    "endDate": data.endDate || undefined,
+    "endDate": data.endDate || data.date || "2025-01-02", // fallback
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
     "image": `https://www.reltroner.com${data.image}`,
     "url": `https://www.reltroner.com/events/${slug}`,
+
+    // ✅ Location must follow full Place > PostalAddress > Country structure
     "location": {
       "@type": "Place",
       "name": data.location || "Reltronland Virtual Archives",
       "address": {
         "@type": "PostalAddress",
-        "addressCountry": "Asthortera"
+        "addressCountry": {
+          "@type": "Country",
+          "name": "Asthortera"
+        }
       }
     },
+
+    // ✅ Optional: Performer (fictional/virtual OK)
+    "performer": {
+      "@type": "PerformingGroup",
+      "name": "Reltroner Studio Speakers"
+    },
+
+    // ✅ Optional: Offers (free)
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": `https://www.reltroner.com/events/${slug}`
+    },
+
     "organizer": {
       "@type": "Organization",
       "name": "Reltroner Studio",
@@ -50,7 +71,9 @@ export default async function EventPage({ params }) {
     <div className="p-6 max-w-3xl mx-auto">
       <Heading>{data.title}</Heading>
       <ul className="space-y-1">
-        <li className="italic text-sm pb-2">{data.date} • {data.published ? 'Published' : 'Draft'}</li>
+        <li className="italic text-sm pb-2">
+          {data.date} • {data.published ? 'Published' : 'Draft'}
+        </li>
       </ul>
       <img
         src={data.image}
