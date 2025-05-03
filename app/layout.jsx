@@ -1,4 +1,5 @@
 // app/layout.jsx
+
 import './global.css';
 import Navbar from "@/components/Navbar";
 import { roboto } from "./fonts";
@@ -11,13 +12,15 @@ export const metadata = {
     default: "Reltroner Studio",
     template: "%s | Reltroner Studio",
   },
-  description: "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
+  description:
+    "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
   openGraph: {
     siteName: "Reltroner Studio",
     type: "website",
     locale: "en_US",
     title: "Reltroner Studio",
-    description: "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
+    description:
+      "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
     url: "https://reltroner.com",
     images: [
       {
@@ -31,7 +34,8 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Reltroner Studio",
-    description: "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
+    description:
+      "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
     creator: "@reltroner",
     images: ["https://reltroner.com/images/og-banner.webp"],
   },
@@ -56,7 +60,10 @@ export default function Layout({ children }) {
               "@type": "Organization",
               "name": "Reltroner Studio",
               "url": "https://reltroner.com",
-              "logo": "https://reltroner.com/images/logo.webp",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://reltroner.com/images/logo.webp"
+              },
               "sameAs": [
                 "https://www.youtube.com/@reltroner",
                 "https://github.com/reltroner",
@@ -97,7 +104,7 @@ export default function Layout({ children }) {
                 "name": "Rei Reltroner",
                 "url": "https://reltroner.com/about"
               },
-              "dateCreated": "2025-04-06",
+              "dateCreated": "2025-04-06T00:00:00+07:00",
               "description": "A deeply immersive digital world known as Asthortera — home of Reltronland, Depcutland, and the core narratives of The Abyss of Comfort and The Freezone Code. All contents, characters, visuals, and designs are original creations of Rei Reltroner.",
               "publisher": {
                 "@type": "Organization",
