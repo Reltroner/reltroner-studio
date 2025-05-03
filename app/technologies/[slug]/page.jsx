@@ -33,6 +33,9 @@ async function getTech(slug) {
 export default async function TechPage({ params }) {
   const { slug } = await params;
   const { data, contentHtml } = await getTech(slug);
+  const formattedDate = new Date(data.date || "2025-01-01").toISOString();
+  const formattedModified = new Date(data.modified || data.date || "2025-01-01").toISOString();
+
   if (!data) return notFound();
 
   const structuredData = {
@@ -46,11 +49,12 @@ export default async function TechPage({ params }) {
       "@type": "WebPage",
       "@id": `https://www.reltroner.com/technologies/${slug}`
     },
-    "datePublished": data.date || "2025-01-01",
-    "dateModified": data.modified || data.date || "2025-01-01",
+    "datePublished": formattedDate,
+    "dateModified": formattedModified,
     "author": {
       "@type": "Person",
-      "name": data.author || "Rei Reltroner"
+      "name": data.author || "Rei Reltroner",
+      "url": "https://www.reltroner.com/about"
     },
     "publisher": {
       "@type": "Organization",
@@ -60,7 +64,7 @@ export default async function TechPage({ params }) {
         "url": "https://www.reltroner.com/images/logo.webp"
       }
     }
-  };
+  };  
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
