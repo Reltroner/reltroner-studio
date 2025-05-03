@@ -3,6 +3,8 @@ title: "🌀 The Spiral Maw"
 slug: "the-spiral-maw"
 description: "The Stair That Hungers and Thinks. A place where descent is not a path—but submission."
 image: "/images/the-spiral-maw.webp"
+date: "2025-04-20"
+published: true
 ---
 
 > _“The Spiral is not a design. It’s a hunger pretending to be direction.”_  

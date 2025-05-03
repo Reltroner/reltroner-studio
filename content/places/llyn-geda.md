@@ -6,8 +6,10 @@ image: "/images/llyn-geda.webp"
 description: "Known as the Lake of Silent Witness, Llyn Geda holds emotional echoes and unspoken memories. Its glassy surface reflects more than just one’s appearance — it mirrors the soul."
 phenomenon: ["Stillness Veil", "Memory Pulse", "Vanishing Echo"]
 quote: "Still water holds the loudest grief."
+date: "2025-04-04"
+published: true
 ---
----
+
 ## Llyn Geda
 
 ## General Information

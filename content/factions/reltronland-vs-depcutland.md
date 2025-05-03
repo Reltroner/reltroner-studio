@@ -4,6 +4,7 @@ description: "A philosophical comparison between Reltronland and Depcutland—tw
 image: "/images/reltronland-vs-depcutland.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
+published: true
 ---
 
 # 🏛️ Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization

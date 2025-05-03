@@ -4,6 +4,7 @@ description: "An elegant and reflective Tier 1 civilization in Asthortera, Depcu
 image: "/images/depcutland.webp"
 author: "Rei Reltroner"
 date: "2025-04-10"
+published: true
 ---
 
 ![depcutland1](/images/depcutland1.webp)

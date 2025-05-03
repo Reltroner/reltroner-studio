@@ -5,6 +5,7 @@ slug: "paia-aeropolis-hub"
 layout: infrastructure
 image: "/images/paia-aeropolis-hub.webp"
 date: "2025-04-24"
+published: true
 ---
 
 ## ✈️ PAIA — Pasgerflit Aeropolis International Airport Hub

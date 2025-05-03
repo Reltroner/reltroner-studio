@@ -3,6 +3,7 @@ title: "🌀 Abyssal Possession (Spiral Inhabitation)"
 date: "2025-04-20"
 description: "A wiki guide to understanding Nytherion Abyss's psychological and spiritual possession mechanism."
 image: "/images/abyssal-possession.webp"
+published: true
 ---
 
 ## 🔍 What Is Abyssal Possession?

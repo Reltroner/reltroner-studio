@@ -5,6 +5,7 @@ slug: "energy-codex-949"
 layout: law
 image: "/images/energy-codex-949.webp"
 date: "2025-04-23"
+published: true
 ---
 
 ## ⚖️ Energy Codex Year 949 BAC — Asthortera Planetary Mandate

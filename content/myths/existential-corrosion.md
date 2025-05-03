@@ -4,6 +4,7 @@ slug: "existential-corrosion"
 description: "Abyssal effect that erases individuals not through death, but through narrative and memory disintegration. One of the most terrifying weapons of the Nytherion Abyss."
 date: "2025-04-22"
 image: "/images/existential-corrosion.webp"
+published: true
 tags: ["nytherion abyss", "memory", "existence", "psychological horror", "abyssal effects"]
 ---
 

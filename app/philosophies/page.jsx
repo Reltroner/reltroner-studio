@@ -64,6 +64,16 @@ const philosophies = [
     date: "2025-04-25"
   },
   {
+    title: "🔥 Rei Reltroner's Role in the Nytherion Conflict",
+    description: "The untold philosophy behind Rei Reltroner’s refusal to destroy Nytherion Abyss, and why he chose to create Astralis Pinnacle instead — a conscious battlefield where light is earned, not given.",
+    slug: "rei-reltroner-role-in-nytherion-conflict",
+    image: "/images/rei-reltroner-role-in-nytherion-conflict.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-20",
+    tags: ["nytherion", "conflict", "rei reltroner", "philosophy"],
+    published: true
+  },
+  {
     title: "📜 Reltroner Declaration of Existence",
     description: "A manifest of existence from the creator of Reltronland, declaring the right to live, to create, and to resist erasure in a flawed world — for all who build meaning where none was given.",
     slug: "reltroner-declaration-existence",

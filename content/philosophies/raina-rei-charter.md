@@ -4,6 +4,7 @@ description: "A spiritual and philosophical charter that defines the sacred bond
 slug: "raina-rei-charter"
 date: "2025-04-19"
 image: "/images/raina-rei-charter.webp"
+published: true
 ---
 
 ## 🌙 **Charter of Sacred Love & Intimacy**  

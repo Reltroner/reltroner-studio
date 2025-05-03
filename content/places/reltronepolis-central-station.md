@@ -5,6 +5,7 @@ slug: "reltronepolis-central-station"
 layout: infrastructure
 image: "/images/reltronepolis-central-station.webp"
 date: "2025-04-24"
+published: true
 ---
 
 ## 🚉 Reltronepolis Central Station — Heart of Sentient Mobility

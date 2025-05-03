@@ -4,6 +4,7 @@ description: "A psychological, existential descent into Nytherion Abyss. After l
 author: "Rei Reltroner"
 image: "/images/rei-in-abyss.webp"
 date: "2025-04-13"
+published: true
 ---
 
 # Rei in Abyss — Novel Proposal

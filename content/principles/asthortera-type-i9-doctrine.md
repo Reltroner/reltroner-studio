@@ -5,6 +5,7 @@ slug: "asthortera-type-i9-doctrine"
 layout: philosophy
 image: "/images/asthortera-type-i9-doctrine.webp"
 date: "2025-04-23"
+published: true
 ---
 
 ## 🌍 Asthortera Type I.9 Doctrine

@@ -13,7 +13,8 @@ const items = [
     date: "2025-04-30",
     author: "Rei Reltroner",
     image: "/images/abyss-ritual-items.webp",
-    tags: ["nytherion abyss", "ritual", "items", "worldbuilding", "abyss"]
+    tags: ["nytherion abyss", "ritual", "items", "worldbuilding", "abyss"],
+    published: true
   },
   
   

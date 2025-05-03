@@ -3,7 +3,7 @@ title: "Reltroner Sparkpad"
 description: "A futuristic personal branding toolkit designed for Gen Z & Alpha to build powerful digital identities through portfolio builders, AI content assistants, and growth trackers."
 author: "Rei Reltroner"
 date: "2025-04-09"
-published: true
+
 image: "/images/reltroner-sparkpad.webp"
 ---
 

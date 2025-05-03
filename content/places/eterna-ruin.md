@@ -4,6 +4,7 @@ description: "The next chapter as the protagonists arrive at the true location o
 author: "Rei Reltroner"
 image: "/images/eterna-ruin.webp"
 date: "2025-04-04"
+published: true
 ---
 
 # Eterna Ruin

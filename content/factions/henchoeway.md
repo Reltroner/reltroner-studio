@@ -4,6 +4,7 @@ description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads ill
 image: "/images/henchoeway.webp"
 author: "Rei Reltroner"
 date: "2025-04-07"
+published: true
 ---
 
 ## 🕳️ Faction Profile: Henchoeway

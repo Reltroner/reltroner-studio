@@ -4,6 +4,7 @@ description: "An in-depth ideological overview of the four major forces shaping 
 image: "/images/fractal-civilizations.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
+published: true
 ---
 
 # 🌌 Fractal Civilizations of Asthortera: Strategic Identity Map

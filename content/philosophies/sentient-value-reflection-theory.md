@@ -5,6 +5,7 @@ slug: "sentient-value-reflection-theory"
 date: "2025-04-26"
 author: "Rei Reltroner"
 image: "/images/sentient-value-reflection-theory.webp"
+published: true
 ---
 
 # 🌌 Manifesto of Sentient Value Reflection Theory

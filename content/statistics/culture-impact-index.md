@@ -4,6 +4,7 @@ description: "A deep dive into how culture shapes civilizational power in Reltro
 slug: "culture-impact-index"
 date: "2025-04-21"
 image: "/images/culture-impact-index.webp"
+published: true
 ---
 
 ## 🎭 **Culture Impact Index**  

@@ -5,6 +5,7 @@ slug: "reltronland-waste-management"
 layout: environment
 date: "2025-04-23"
 image: "/images/reltronland-waste-management.webp"
+published: true
 ---
 
 ## 🌍♻️ **Advanced Waste Management System in Reltronland**

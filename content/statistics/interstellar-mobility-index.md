@@ -5,6 +5,7 @@ slug: "interstellar-mobility-index"
 layout: analysis
 image: "/images/interstellar-mobility-index.webp"
 date: "2025-04-24"
+published: true
 ---
 
 ## 🚀 Interstellar Mobility Index (IMI) — Asthortera

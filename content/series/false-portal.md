@@ -4,6 +4,7 @@ description: "The official transition chapter after the Battle of Reltronepolis,
 author: "Rei Reltroner"
 image: "/images/false-portal.webp"
 date: "2025-04-04"
+published: true
 ---
 
 # Chapter: False Portal in the Sky

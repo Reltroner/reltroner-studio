@@ -6,6 +6,7 @@ description: "An artistic depiction of the deepest and most cursed core within t
 author: "Rei Reltroner"
 date: "2025-04-05"
 image: "/images/abyss-heart.webp"
+published: true
 ---
 
 ## 🕳️ Heart of the Abyss

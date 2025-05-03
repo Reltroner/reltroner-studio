@@ -4,6 +4,7 @@ slug: "reltronland-taxation-charter"
 layout: law
 date: "2025-04-22"
 image: "/images/reltronland-taxation-charter.webp"
+published: true
 ---
 
 ## 📜 Reltronland Civilized Taxation Charter  

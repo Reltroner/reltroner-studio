@@ -5,6 +5,7 @@ slug: "aurora-synchronization-tech"
 layout: energy
 image: "/images/aurora-synchronization-tech.webp"
 date: "2025-04-23"
+published: true
 ---
 
 ## 🌌 Aurora Synchronization Technologies Across Asthortera

@@ -5,6 +5,7 @@ author: "Reltroner Studio"
 date: 2025-04-15
 published: true
 image: "/images/reltronland-core-constitution.webp"
+published: true
 ---
 
 # 🏛️ Core Constitution of Reltronland

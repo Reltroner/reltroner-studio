@@ -4,6 +4,7 @@ description: "A proud nation built on memory, stone, and timeless discipline. Ce
 image: "/images/cenrestier-country-profile.webp"
 author: "Rei Reltroner"
 date: "2025-04-17"
+published: true
 ---
 
 # 🌟 **Cenrestier Country Profile — "Land of Fortresses"**

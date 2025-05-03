@@ -4,8 +4,10 @@ role: "Senior Scout Mentor of Oakcottage"
 description: "A grounded and principled leader from Whispergrove Forest, Franklin is the only person who feels the void left by Georger’s disappearance, despite not remembering him. His quiet resilience and deep connection with nature make him a guardian of forgotten truths."
 image: "/images/franklin-scouter.webp"
 quote: "There’s a name stuck in my heart, though I’ve never heard it before."
+date: "2025-04-22"
+published: true
 ---
----
+
 # Franklin Scouter
 
 ## Basic Information

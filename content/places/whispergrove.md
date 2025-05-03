@@ -7,8 +7,10 @@ description: "An eternally autumn forest where emotions resonate with nature. Wh
 protectedStatus: "Level-4 Cultural and Ecological Heritage Site"
 myth: "The forest whispers the names the world has forgotten."
 quote: "The forest sings what the world is too loud to hear."
+date: "2025-04-04"
+published: true
 ---
----
+
 ## Whispergrove Forest
 
 ## General Information

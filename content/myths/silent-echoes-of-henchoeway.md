@@ -4,6 +4,7 @@ slug: "silent-echoes-of-henchoeway"
 description: "Subtle artifacts and rumors scattered across Asthortera, spreading Henchoeway’s presence like a virus of consciousness."
 date: "2025-04-22"
 image: "/images/silent-echoes-of-henchoeway.webp"
+published: true
 tags: ["henchoeway", "nytherion abyss", "abyssal lore", "psychological horror", "cultural spread"]
 ---
 

@@ -4,6 +4,7 @@ slug: "abyss-as-deception"
 description: "Exploring the nature of Nytherion Abyss as not just a place, but as the grand illusion—comfort weaponized, truth disfigured, and reality manipulated."
 date: "2025-04-23"
 tags: ["nytherion abyss", "deception", "comfort illusion", "astralis", "spiritual war"]
+published: true
 ---
 
 > _“The most dangerous lie is the one that feels safe.”_  

@@ -4,6 +4,7 @@ description: "A legislative cornerstone ensuring that land usage in Reltronland 
 slug: "sentient-zoning-integrity-act"
 image: "/images/sentient-zoning-integrity-act.webp"
 date: "2025-04-26"
+published: true
 ---
 
 ## 🏛️ Sentient Zoning Integrity Act — Reltronland

@@ -5,6 +5,7 @@ slug: "neiput-border-trade-gateway"
 layout: geopolitics
 image: "/images/depcutland-reltronland-border.webp"
 date: "2025-04-23"
+published: true
 ---
 
 ## 🚧 Neiput Border: Gateway Between Reltronland and Depcutland

@@ -5,6 +5,7 @@ description: "A curious soul who sought comfort in beauty and simplicity, until 
 date: "2025-04-22"
 image: "/images/andy-elian.webp"
 tags: ["character", "nytherion abyss", "victim", "the abyss of comfort"]
+published: true
 ---
 
 > _“I don’t need to be remembered forever.  

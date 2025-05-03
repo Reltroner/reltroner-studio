@@ -5,6 +5,7 @@ description: >
 slug: "wall-of-silenced-builders"
 date: "2025-04-19"
 image: "/images/wall-of-silenced-builders.webp"
+published: true
 ---
 
 > _"They didn’t vanish because they failed.  

@@ -15,7 +15,9 @@ const places = [
     description: "An eternally autumn forest where emotions resonate with nature. Whispergrove is a Nytherion-sensitive zone known for its memory echoes, spiritual presence, and mystical silence.",
     protectedStatus: "Level-4 Cultural and Ecological Heritage Site",
     myth: "The forest whispers the names the world has forgotten.",
-    quote: "The forest sings what the world is too loud to hear."
+    quote: "The forest sings what the world is too loud to hear.",
+    date: "2025-04-04",
+    published: true
   },
   {
     title: "Llyn Geda",
@@ -25,7 +27,9 @@ const places = [
     image: "/images/llyn-geda.webp",
     description: "Known as the Lake of Silent Witness, Llyn Geda holds emotional echoes and unspoken memories. Its glassy surface reflects more than just one’s appearance — it mirrors the soul.",
     phenomenon: ["Stillness Veil", "Memory Pulse", "Vanishing Echo"],
-    quote: "Still water holds the loudest grief."
+    quote: "Still water holds the loudest grief.",
+    date: "2025-04-04",
+    published: true
   },
   {
     title: "Oakcottage Headquarters",
@@ -36,7 +40,9 @@ const places = [
     description: "A legendary scouting institution rooted in the heart of Whispergrove Forest. Oakcottage trains leaders of character and resilience, blending nature, survival, and spiritual development into a sacred rite of passage.",
     established: "Year 712 (Stelpad Calendar)",
     affiliation: "Ministry of Education & Character Formation, Stelpadland",
-    quote: "We remember even what the world forgets."
+    quote: "We remember even what the world forgets.",
+    date: "2025-04-04",
+    published: true
   },
   {
     title: "Eterna Ruin",
@@ -44,7 +50,8 @@ const places = [
     author: "Rei Reltroner",
     slug: "eterna-ruin",
     image: "/images/eterna-ruin.webp",
-    date: "2025-04-04"
+    date: "2025-04-04",
+    published: true
   },
   {
     title: "Province Profile: Leastroper – A Land Beyond Conflict",

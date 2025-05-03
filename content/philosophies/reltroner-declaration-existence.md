@@ -4,6 +4,7 @@ description: "A manifest of existence from the creator of Reltronland, declaring
 image: "/images/reltroner-declaration-existence.webp"
 author: "Rei Reltroner"
 date: "2025-04-29"
+published: true
 ---
 
 # 📜 Reltroner Declaration of Existence

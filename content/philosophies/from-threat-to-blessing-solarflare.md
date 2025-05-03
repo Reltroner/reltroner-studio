@@ -4,6 +4,7 @@ slug: "from-threat-to-blessing-solarflare"
 layout: philosophy
 image: "/images/solar-flare-transformation-banner.webp"
 date: "2025-04-24"
+published: true
 ---
 
 ## 🌞 From Threat to Blessing: Solar Flare Reimagined in Asthortera

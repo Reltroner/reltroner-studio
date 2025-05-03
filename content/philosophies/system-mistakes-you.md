@@ -5,6 +5,7 @@ description: >
 slug: "system-mistakes-you"
 date: "2025-04-19"
 image: "/images/system-mistakes-you.webp"
+published: true
 ---
 
 > "Written after surviving digital uncertainty, this is the compass I use to walk through chaos."

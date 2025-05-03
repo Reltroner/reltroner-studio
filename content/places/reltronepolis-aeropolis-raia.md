@@ -5,6 +5,7 @@ slug: "reltronepolis-aeropolis-raia"
 layout: infrastructure
 image: "/images/reltronepolis-aeropolis-raia.webp"
 date: "2025-04-24"
+published: true
 ---
 
 ## ✈️ RAIA — Reltronepolis Aeropolis International Airport

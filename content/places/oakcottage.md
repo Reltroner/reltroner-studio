@@ -7,8 +7,10 @@ description: "A legendary scouting institution rooted in the heart of Whispergro
 established: "Year 712 (Stelpad Calendar)"
 affiliation: "Ministry of Education & character Formation, Stelpadland"
 quote: "We remember even what the world forgets."
+date: "2025-04-04"
+published: true
 ---
----
+
 ## Oakcottage Headquarters
 
 ## General Information

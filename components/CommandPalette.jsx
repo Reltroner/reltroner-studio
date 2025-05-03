@@ -213,6 +213,7 @@ export default function CommandPalette() {
     { name: "🌐 Worlds for Enthusiasts — Pasgerflit, Moreg, and Hargenbor", path: "/philosophies/worlds-for-enthusiasts" },
     { name: "🧠 Reltronland vs Depcutland: A Tale of Divergent Souls", path: "/philosophies/reltronland-vs-depcutland-soul" },
     { name: "📜 Reltroner Declaration of Existence", path: "/philosophies/reltroner-declaration-existence" },
+    { name: "🔥 Rei Reltroner's Role in the Nytherion Conflict", path: "/philosophies/rei-reltroner-role-in-nytherion-conflict" },
     { name: "📜 The Builders Who Were Misjudged", path: "/philosophies/misjudged-builders" },
     { name: "🛡️ I Am Not the Villain You Feared", path: "/philosophies/not-the-villain" },
     { name: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real", path: "/philosophies/system-mistakes-you" },

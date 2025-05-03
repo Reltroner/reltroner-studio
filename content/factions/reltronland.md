@@ -4,6 +4,7 @@ description: "The ideological embodiment of Astralis Pinnacle — a disciplined 
 image: "/images/reltronland-cover.webp"
 author: "Rei Reltroner"
 date: "2025-04-10"
+published: true
 ---
 
 ![reltronland1](/images/reltronland1.webp)

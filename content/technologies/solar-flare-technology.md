@@ -5,6 +5,7 @@ slug: "solar-flare-technology"
 layout: energy
 image: "/images/solar-flare-technology.webp"
 date: "2025-04-24"
+published: true
 ---
 
 ## ☀️ Solar Flare Technology in Asthortera

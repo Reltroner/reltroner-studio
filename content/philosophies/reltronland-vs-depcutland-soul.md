@@ -5,6 +5,7 @@ slug: "reltronland-vs-depcutland-soul"
 image: "/images/reltronland-vs-depcutland-soul.webp"
 author: "Rei Reltroner"
 date: "2025-04-25"
+published: true
 ---
 
 # 🧠 Reltronland vs Depcutland: A Tale of Divergent Souls

@@ -12,7 +12,8 @@ const factions = [
     slug: "reltronland",
     image: "/images/reltronland-cover.webp",
     author: "Rei Reltroner",
-    date: "2025-04-10"
+    date: "2025-04-10",
+    published: true
   },
   {
     title: "Depcutland",
@@ -20,7 +21,8 @@ const factions = [
     slug: "depcutland",
     image: "/images/depcutland.webp",
     author: "Rei Reltroner",
-    date: "2025-04-10"
+    date: "2025-04-10",
+    published: true
   },
   {
     title: "Reltronball & Depcutball: Bureaucracy Bros",
@@ -37,7 +39,8 @@ const factions = [
     slug: "fractal-civilizations",
     image: "/images/fractal-civilizations.webp",
     author: "Rei Reltroner",
-    date: "2025-04-13"
+    date: "2025-04-13",
+    published: true
   },
   {
     title: "Reltronland & Depcutland: The Pillars Who Embrace the International Family",
@@ -45,7 +48,8 @@ const factions = [
     slug: "international-family",
     image: "/images/international-family.webp",
     author: "Rei Reltroner",
-    date: "2025-04-13"
+    date: "2025-04-13",
+    published: true
   },
   {
     title: "Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization",
@@ -53,7 +57,8 @@ const factions = [
     slug: "reltronland-vs-depcutland",
     image: "/images/reltronland-vs-depcutland.webp",
     author: "Rei Reltroner",
-    date: "2025-04-13"
+    date: "2025-04-13",
+    published: true
   },
   {
     title: "Cenrestier Country Profile — Land of Fortresses",
@@ -61,7 +66,8 @@ const factions = [
     slug: "cenrestier-country-profile",
     image: "/images/cenrestier-country-profile.webp",
     author: "Rei Reltroner",
-    date: "2025-04-17"
+    date: "2025-04-17",
+    published: true
   },
   {
     title: "Kalgered Country Profile — The Neutral Heart of Asthortera",
@@ -69,7 +75,9 @@ const factions = [
     slug: "kalgered-country-profile",
     date: "2025-04-18",
     image: "/images/kalgered-country-profile.webp",
-    tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelhaven"]
+    tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelhaven"],
+    author: "Rei Reltroner",
+    published: true
   },  
   {
     title: "Henchoeway",
@@ -77,7 +85,8 @@ const factions = [
     slug: "henchoeway", 
     image: "/images/henchoeway.webp", 
     author: "Rei Reltroner",
-    date: "2025-04-07"
+    date: "2025-04-07",
+    published: true
   }
 
   // {

@@ -4,6 +4,7 @@ slug: "the-feeding-stair"
 date: "2025-04-20"
 description: "An abyssal architecture analysis of the Feeding Stair inside Nytherion."
 image: "/images/the-feeding-stair.webp"
+published: true
 ---
 
 ## 🔍 What Is the Feeding Stair?

@@ -5,6 +5,7 @@ description: "A rational anchor in a world unraveling. The only person who remem
 date: "2025-04-22"
 image: "/images/bruce-kalen.webp"
 tags: ["character", "nytherion abyss", "anchor", "the abyss of comfort"]
+published: true
 ---
 
 > _“The world may forget him.  

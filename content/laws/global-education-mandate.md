@@ -5,6 +5,7 @@ description: "A planetary law mandating all nations in Asthortera to implement c
 date: "2025-04-23"
 image: "/images/global-education-mandate.webp"
 tags: ["education", "cybergogy", "international law", "policy", "kalgered"]
+published: true
 ---
 
 > _“To learn is to move. To move is to awaken.”_  

@@ -4,6 +4,7 @@ description: "A spiritual saga where illusion shatters, comfort crumbles, and aw
 author: "Rei Reltroner"
 image: "/images/the-abyss-of-comfort.webp"
 date: "2025-04-04"
+published: true
 ---
 
 # The Abyss of Comfort

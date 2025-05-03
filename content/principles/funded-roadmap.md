@@ -4,6 +4,7 @@ description: "A masterlist of systems, upgrades, and innovations awaiting realiz
 slug: "funded-roadmap"
 image: "/images/funded-roadmap.webp"
 date: "2025-04-26"
+published: true
 ---
 
 ## 💸 Funded Roadmap — If This Project Gets Backed

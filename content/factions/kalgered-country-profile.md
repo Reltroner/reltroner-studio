@@ -4,6 +4,7 @@ description: "A high-altitude sovereign state known for its timeless fortresses,
 date: "2025-04-18"
 image: "/images/kalgered-country-profile.webp"
 tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelhaven"]
+published: true
 ---
 
 # 🏔️ **Kalgered Country Profile — The Neutral Heart of Asthortera**

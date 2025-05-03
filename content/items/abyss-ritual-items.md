@@ -6,6 +6,7 @@ date: "2025-04-30"
 author: "Rei Reltroner"
 image: "/images/abyss-ritual-items.webp"
 tags: ["nytherion abyss", "ritual", "items", "worldbuilding", "abyss"]
+published: true
 ---
 
 > _"To embrace the abyss is to surrender in silk. It never hurts—until you forget who you were."_

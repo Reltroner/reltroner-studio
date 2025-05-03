@@ -4,6 +4,7 @@ description: "A philosophical descent into the heart of darkness, where the soul
 image: "/images/nytherion-abyss-cover.webp"
 author: "Rei Reltroner"
 date: "2025-04-10"
+published: true
 ---
 
 # Nytherion Abyss

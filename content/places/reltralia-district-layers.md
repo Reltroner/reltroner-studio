@@ -4,6 +4,7 @@ description: "An official breakdown of the core, fallback, and metaphysical iden
 slug: "reltralia-district-layers"
 date: "2025-04-21"
 image: "/images/reltralia-district-layers.webp"
+published: true
 ---
 
 # 🏙️ The District Layers of Reltralia

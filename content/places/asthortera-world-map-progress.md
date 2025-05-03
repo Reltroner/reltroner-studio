@@ -5,6 +5,7 @@ slug: "asthortera-world-map-progress"
 layout: worldbuilding
 image: "/images/asthortera-world-map-progress.webp"
 date: "2025-04-23"
+published: true
 ---
 
 ## 🗺️ Asthortera World Map — Development Progress Overview

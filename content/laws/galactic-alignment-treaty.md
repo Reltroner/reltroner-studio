@@ -5,6 +5,7 @@ slug: "galactic-alignment-treaty"
 image: "/images/galactic-alignment-treaty.webp"
 author: "Rei Reltroner"
 date: "2025-04-30"
+published: true
 ---
 
 # 📜 Galactic Alignment Treaty  

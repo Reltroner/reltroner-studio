@@ -302,7 +302,7 @@ const posts = [
     date: "2025-04-21",
     author: "Rei Reltroner",
     image: "/images/reltroner-sparkpad.webp",
-    published: true
+    //published: true
   },
   {
     title: "Gen z & Alpha Market Potential",

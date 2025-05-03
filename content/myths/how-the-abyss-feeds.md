@@ -4,6 +4,7 @@ slug: "how-the-abyss-feeds"
 description: "An official myth entry explaining the feeding nature of Nytherion Abyss, its connection to Blue Pill energy, and why it cannot be destroyed—only starved."
 date: "2025-04-22"
 image: "/images/how-the-abyss-feeds.webp"
+published: true
 tags: ["nytherion abyss", "abyssal lore", "blue pill", "existential horror", "reltroner studio"]
 ---
 
