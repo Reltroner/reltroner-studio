@@ -34,6 +34,24 @@ const cultures = [
       image: "/images/children-of-asthortera.webp"
   },
   {
+    title: "Children of Reltronland: A Trust-Based Society",
+    description: "From birth to independence, children in Reltronland grow through empathy, curiosity, and civic trust—reshaping the meaning of growing up.",
+    slug: "children-reltronland",
+    author: "Rei Reltroner",
+    date: "2025-05-04",
+    published: true,
+    image: "/images/children-reltronland.webp"
+  },
+  {
+    title: "🧳 Returning to Serve: Why Citizens of Reltronland Work Where They Were Once Raised",
+    description: "In Reltronland, many adults choose to work at the very stations, terminals, and public spaces that raised them—honoring the places that once gave them clarity, comfort, and trust.",
+    slug: "returning-to-serve-reltronland",
+    author: "Rei Reltroner",
+    date: "2025-05-04",
+    published: true,
+    image: "/images/returning-to-serve-reltronland.webp"
+  },
+  {
     title: "Culture Note: Masks and Mobility in Reltronland",
     description: "An overview of why mask-wearing remains prevalent in Reltronland despite the absence of a health crisis.",
     slug: "mask-reltronland",

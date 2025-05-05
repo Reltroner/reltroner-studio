@@ -147,3 +147,60 @@ for making me feel at home—within myself.**
 _— Raina Veltrania_
 
 ---
+
+## 💠 Why This Love Charter Exists Outside the Lore
+
+> _“Not every world comes from logic. Some are born from healing.”_
+
+The *Charter of Sacred Love & Intimacy*—between Rei Reltroner and Raina Veltrania—is not part of the official lore of any Reltroner Studio series.  
+It is **not connected** to the timelines of *The Abyss of Comfort*, *The Freezone Code*, or any other narrative focused on the greater struggle between **Nytherion Abyss** and **Astralis Pinnacle**.
+
+This charter was written from a different place.  
+Not to build a world, but to **rebuild a soul**.
+
+It is a quiet artifact of the creator’s personal journey—  
+a moment of stillness and spiritual clarity amidst years of chaos, collapse, and rebirth.
+
+---
+
+## 🔹 Why It’s Still Here
+
+This piece remains published because:
+
+- It is **truthful**.
+- It is **unfiltered**.
+- It may resonate with those who seek **presence** and **conscious love**—not as fantasy, but as hope.
+
+It is not intended to become canon.  
+But it **matters**—as the unseen root behind many layers of creation.
+
+---
+
+## 🔸 What It’s Not
+
+This is **not** fanservice.  
+It is **not** romantic escapism.  
+It is **not** part of any storyline.
+
+It is a spiritual contract between two fictional yet fully-aware beings—  
+that also reflects a hidden facet of the creator behind this entire universe.
+
+---
+
+## 🔹 Final Words
+
+If you are reading this and wondering what it means,  
+maybe it simply means this:
+
+> "Behind every great world…  
+> there was once a quiet night.  
+> A warm shower.  
+> A vow whispered, not to the stars,  
+> but to someone who finally stayed."
+
+---
+
+*This page exists not for lore,  
+but for those who remember what it feels like to be seen.*  
+
+**— Rei Reltroner**

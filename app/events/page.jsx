@@ -62,6 +62,15 @@ const events = [
     tags: ["manifesto", "reltroner studio", "astralis", "dropout", "philosophy"]
   },
   {
+    title: "📖 The Day I Remembered Why I Built This World",
+    description: "A personal reflection from the founder of Reltroner Studio on the emotional bond, clarity, and truth behind the creation of Reltronland.",
+    slug: "the-day-i-remembered",
+    author: "Rei Reltroner",
+    date: "2025-05-04",
+    published: true,
+    image: "/images/the-day-i-remembered.webp"
+  },
+  {
     title: "When Raina Read The Letter",
     description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words.",
     slug: "when-raina-read-the-letter",

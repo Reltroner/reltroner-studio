@@ -104,6 +104,7 @@ export default function CommandPalette() {
     { name: "Comparative Doctrine: Galactic Empire vs Reltronland Space Command", path: "/blog/doctrine-rsc-vs-empire" },
     { name: "The Void Hero: Why RSC Is the Most Feared Protagonist in the Galaxy", path: "/blog/the-void-hero-rsc" },
     { name: "Nytherion's View: Why the Abyss Fears RSC", path: "/blog/nytherion-fears-rsc" },
+    { name: "📦 Why Reltroner.com is Not Just a Sandbox", path: "/blog/why-reltroner-not-sandbox" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -125,6 +126,8 @@ export default function CommandPalette() {
     { name: "🛡 Bruce Kalen", path: "/characters/bruce-kalen", tag: "Characters" },
     // Cultures
     { name: "Children of Asthortera", path: "/cultures/children-of-asthortera" },
+    { name: "Children of Reltronland: A Trust-Based Society", path: "/cultures/children-reltronland" },
+    { name: "🧳 Returning to Serve: Why Citizens of Reltronland Work Where They Were Once Raised", path: "/cultures/returning-to-serve-reltronland" },
     { name: "Cuteness Manifesto", path: "/cultures/cuteness-manifesto" },
     { name: "Mask Reltronland", path: "/cultures/mask-reltronland" },
     { name: "Rest Culture", path: "/cultures/rest-culture" },
@@ -150,6 +153,7 @@ export default function CommandPalette() {
     { name: "🩸 Confronting Kamila", path: "/events/confronting-kamila" },
     { name: "🗓️ Timeline: History of Asthortera, Reltronland, and Depcutland", path: "/events/history-timeline" },
     { name: "Declaration of War Victory", path: "/events/declaration-war-victory" },
+    { name: "📖 The Day I Remembered Why I Built This World", path: "/events/the-day-i-remembered" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
@@ -181,6 +185,8 @@ export default function CommandPalette() {
     { name: "🚉 Reltronepolis Central Station — Heart of Sentient Mobility", path: "/places/reltronepolis-central-station" },
     { name: "✈️ RAIA — Reltronepolis Aeropolis International Airport", path: "/places/reltronepolis-aeropolis-raia" },
     { name: "✈️ PAIA — Pasgerflit Aeropolis International Airport Hub", path: "/places/paia-aeropolis-hub" },
+    { name: "🌕 Asthortera's 12 Orbiting Moons and Calendar System", path: "/places/asthortera-12-orbiting-moons" },
+    { name: "🪐 Aurioneira Stellar System Overview & Lore Concepts", path: "/places/aurioneira-system" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
@@ -261,6 +267,8 @@ export default function CommandPalette() {
     { name: "📘 YouTubers Have Channels, I Have a Civilization", path: "/principles/youtubers-have-civilization" },
     { name: "Multirealm Authority", path: "/principles/multirealm-authority" },
     { name: "🌍 Asthortera Type I.9 Doctrine", path: "/principles/asthortera-type-i9-doctrine" },
+    { name: "📜 The Civilizational Maturity Doctrine of Reltroner Studio", path: "/principles/civilizational-maturity-reltroner" },
+    { name: "🌌 The Emotion No One Talks About: Being Raised by Space, Not People", path: "/principles/raised-by-space" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
 

@@ -67,6 +67,24 @@ const principles = [
     published: true,
     tags: ["Asthortera", "Type I.9", "Doctrine"],
     image: "/images/asthortera-type-i9-doctrine.webp"
+  },
+  {
+    title: "📜 The Civilizational Maturity Doctrine of Reltroner Studio",
+    description: "An institutional doctrine outlining the philosophical, educational, and societal pillars that define Reltroner Studio as the most emotionally mature civilization in fictional history.",
+    slug: "civilizational-maturity-reltroner",
+    author: "Rei Reltroner",
+    date: "2025-05-04",
+    published: true,
+    image: "/images/civilizational-maturity-reltroner.webp"
+  },
+  {
+    title: "🌌 The Emotion No One Talks About: Being Raised by Space, Not People",
+    description: "A quiet, often overlooked truth — that for some of us, home wasn’t a person, but a place. This is the emotional reality of being raised by public space, not family.",
+    slug: "raised-by-space",
+    author: "Rei Reltroner",
+    date: "2025-05-04",
+    published: true,
+    image: "/images/raised-by-space.webp"
   }
   
   // Tambahkan lebih banyak principle di masa depan...

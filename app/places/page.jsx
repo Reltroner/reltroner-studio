@@ -137,6 +137,24 @@ const places = [
     date: "2025-04-24",
     published: true,
     tags: ["pasgerflit", "transportation", "urbanism", "architecture"]
+  },
+  {
+    title: "🌕 Asthortera's 12 Orbiting Moons and Calendar System",
+    description: "A full breakdown of Asthortera’s 12 orbiting moons, their influence on its calendar system, and the symbolic meaning each brings to the planet’s spiritual, cultural, and astronomical life.",
+    slug: "asthortera-12-orbiting-moons",
+    date: "2025-05-05",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/asthortera-12-orbiting-moons.webp"
+  },
+  {
+    title: "🪐 Aurioneira Stellar System Overview & Lore Concepts",
+    description: "An expansive overview of the eight worlds orbiting the star Aurioneira—each with unique properties, lore potential, and strategic purpose in the greater sentient narrative of the Asthorteran universe.",
+    slug: "aurioneira-system",
+    date: "2025-05-05",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/aurioneira-system.webp"
   }
 ];
 
