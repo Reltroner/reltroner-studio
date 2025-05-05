@@ -154,6 +154,7 @@ export default function CommandPalette() {
     { name: "🗓️ Timeline: History of Asthortera, Reltronland, and Depcutland", path: "/events/history-timeline" },
     { name: "Declaration of War Victory", path: "/events/declaration-war-victory" },
     { name: "📖 The Day I Remembered Why I Built This World", path: "/events/the-day-i-remembered" },
+    { name: "🌌 Why Asthortera's Sky Is Often Moonless: A Reflection on Space, Time, and Trust", path: "/events/asthortera-moonless-sky" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },

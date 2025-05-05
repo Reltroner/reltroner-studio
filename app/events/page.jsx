@@ -71,6 +71,15 @@ const events = [
     image: "/images/the-day-i-remembered.webp"
   },
   {
+    title: "🌌 Why Asthortera's Sky Is Often Moonless: A Reflection on Space, Time, and Trust",
+    description: "In a world with 12 moons, why are so many skies moonless? This page explores the intentional absence of celestial bodies as a symbolic and scientific reality within the lore of Asthortera.",
+    slug: "asthortera-moonless-sky",
+    date: "2025-05-05",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/asthortera-moonless-sky.webp"
+  },
+  {
     title: "When Raina Read The Letter",
     description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words.",
     slug: "when-raina-read-the-letter",
