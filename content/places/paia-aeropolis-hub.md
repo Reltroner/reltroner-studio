@@ -109,5 +109,55 @@ Driven by:
 
 > _“PAIA is the airborn memory of every dream we launched from Pasgerflit.”_
 
+## 🚀 Civilian Ship Landing Specifications – PAIA
 
+## ✈️ Runway Compatibility Chart
 
+This document outlines the standard dimensional compatibility and landing status of civilian interstellar ships within the PAIA (Pasgerflit Aeropolis International Airport) spaceport. All specifications below are calculated based on the standard PAIA runway dimensions:
+
+* **Runway Size:** 125 meters (width) × 13,200 meters (length)
+
+---
+
+## 📋 Ship Profiles and Landing Clearance
+
+### 1. **Civilian Starliner**
+
+![civilian-starliner](/images/civilian-starliner.webp)
+
+* **Length:** 140 meters
+* **Width:** 60 meters
+* **Landing Status:** ✅ **Clear and Unrestricted**
+* **Description:** A sleek, high-speed passenger transport designed for interplanetary tourism and daily executive shuttle services across Asthortera. Optimized for low-gravity approach, minimal turbulence footprint, and horizontal descent protocols.
+
+---
+
+### 2. **Interstellar Freighter**
+
+![interstellar-freighter](/images/interstellar-freighter.webp)
+
+* **Length:** 200 meters
+* **Width:** 90 meters
+* **Landing Status:** ✅ **Approved with Margins**
+* **Description:** A heavy-haul cargo vessel equipped for deep-space logistics and colony provisioning. Its adaptive landing struts and modular hold segments allow precise touchdown on PAIA's extended high-tolerance aprons.
+
+---
+
+### 3. **Diplomatic Ark Shuttle**
+
+![diplomatic-ark-shuttle](/images/diplomatic-ark-shuttle.webp)
+
+* **Length:** 300 meters
+* **Width:** 110 meters
+* **Landing Status:** ✅ **Cleared — Full Manual Margin Protocols Applied**
+* **Description:** A high-profile transport shuttle reserved for planetary alliances, inter-civilization diplomacy, and ceremonial missions. Equipped with deep stabilizer arrays and reinforced radiant shielding. Maneuvered under dual-AI and pilot override protocols.
+
+---
+
+## 📐 Clearance Safety Notes
+
+* All above ships operate **well within PAIA runway dimensions**, including lateral buffer zones.
+* Emergency lateral deployables are in place for ships with wingspans nearing the 125-meter threshold.
+* Longitudinal length (13,200m) is suitable for even high-inertia launch or low-thrust landing maneuvers.
+
+---
