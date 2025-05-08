@@ -4,6 +4,7 @@ description: "Dive into the solemn grandeur of Depcutland's classical music cult
 image: "/images/depcutland-music.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
+published: true
 ---
 
 # 🎻 Music Culture of Depcutland

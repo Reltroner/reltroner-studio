@@ -2,6 +2,9 @@
 title: "Aurora Faith of Aurastelia"
 slug: "aurora-faith"
 description: "The spiritual foundation of Aurastelia led by Queen Valethra — a radiant path of inner peace, balance, and silent enlightenment."
+author: "Reltroner Studio"
+date: "2025-04-14"
+published: true
 image: "/images/aurora-faith.webp"
 ---
 

@@ -115,7 +115,7 @@ export default async function BlogPage() {
       )}
 
       <div
-        className="prose prose-neutral md:prose-lg dark:prose-invert"
+        className="prose prose-slate prose-sm sm:prose lg:prose-lg max-w-none"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
 

@@ -13,7 +13,18 @@ const philosophies = [
     slug: "nytherion-abyss",
     image: "/images/nytherion-abyss-cover.webp",
     author: "Rei Reltroner",
-    date: "2025-04-10"
+    date: "2025-04-10",
+    published: true
+  },
+  {
+    title: "Astralis Pinnacle",
+    description: "The foundational ideological framework of Reltronland, rooted in Astralis Pinnacle — a philosophy of relentless sentient clarity, growth, and strategic realism.",
+    slug: "astralis-pinnacle",
+    image: "/images/astralis-pinnacle.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-06",
+    published: true,
+    tags: ["astralis", "philosophy", "reltronland", "doctrine", "redpill"]
   },
   {
     title: "♾️ Immortality Protocol – Astralis-Bound Entities",
@@ -21,7 +32,8 @@ const philosophies = [
     slug: "immortality-protocol",
     image: "/images/immortality-protocol.webp",
     author: "Rei Reltroner",
-    date: "2025-04-07"
+    date: "2025-04-07",
+    published: true
   },
   {
     title: "📜 There is No Right or Wrong in Worldbuilding",
@@ -29,7 +41,8 @@ const philosophies = [
     slug: "no-right-no-wrong",
     image: "/images/no-right-no-wrong-banner.webp",
     author: "Rei Reltroner",
-    date: "2025-04-20"
+    date: "2025-04-20",
+    published: true
   },
   {
     title: "Sentient Value Reflection Theory (SVRT)",
@@ -37,15 +50,26 @@ const philosophies = [
     slug: "sentient-value-reflection-theory",
     date: "2025-04-26",
     author: "Rei Reltroner",
-    image: "/images/sentient-value-reflection-theory.webp"
-  },  
+    image: "/images/sentient-value-reflection-theory.webp",
+    published: true
+  },
+  {
+    title: "Humanity Beyond Earth: Theory of Trillions",
+    description: "A speculative yet scientifically grounded doctrine exploring the possibility of trillions of human and humanoid civilizations across the observable universe — reflecting the cosmological foundation of the Asthortera Universe.",
+    slug: "beyond-earth",
+    image: "/images/beyond-earth.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-06",
+    published: true
+  },
   {
     title: "🌍 Why Immigrants Choose Asthortera",
     description: "Despite not leading in Kardashev scale, Asthortera offers the galaxy’s most balanced civilization—where SDI, spirit, and sentient dignity converge.",
     slug: "why-immigrants-choose-asthortera",
     image: "/images/why-immigrants-choose-asthortera.webp",
     author: "Rei Reltroner",
-    date: "2025-04-23"
+    date: "2025-04-23",
+    published: true
   },
   {
     title: "🌐 Worlds for Enthusiasts — Pasgerflit, Moreg, and Hargenbor",
@@ -53,7 +77,8 @@ const philosophies = [
     slug: "worlds-for-enthusiasts",
     image: "/images/worlds-for-enthusiasts.webp",
     author: "Rei Reltroner",
-    date: "2025-04-24"
+    date: "2025-04-24",
+    published: true
   },
   {
     title: "🧠 Reltronland vs Depcutland: A Tale of Divergent Souls",
@@ -61,7 +86,17 @@ const philosophies = [
     slug: "reltronland-vs-depcutland-soul",
     image: "/images/reltronland-vs-depcutland-soul.webp",
     author: "Rei Reltroner",
-    date: "2025-04-25"
+    date: "2025-04-25",
+    published: true
+  },
+  {
+    title: "Faith Spectrum of Asthortera",
+    description: "A metaphysical map of belief systems across the Reltroner Studio Universe — from brutal clarity to peaceful resonance, from scientific neutrality to institutional tradition.",
+    slug: "faith-asthortera",
+    image: "/images/faith-asthortera.webp",
+    author: "Reltroner Studio",
+    date: "2025-05-08",
+    published: true
   },
   {
     title: "🔥 Rei Reltroner's Role in the Nytherion Conflict",
@@ -74,12 +109,22 @@ const philosophies = [
     published: true
   },
   {
+    title: "🧠 Worldbuilding as Civilizational Blueprint",
+    description: "A manifesto declaring that worldbuilding is not merely fantasy, but a new methodology for designing alternative civilizations and measuring sentient growth.",
+    slug: "worldbuilding-as-civilizational-blueprint",
+    image: "/images/worldbuilding-as-civilizational-blueprint.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-07",
+    published: true
+  },
+  {
     title: "📜 Reltroner Declaration of Existence",
     description: "A manifest of existence from the creator of Reltronland, declaring the right to live, to create, and to resist erasure in a flawed world — for all who build meaning where none was given.",
     slug: "reltroner-declaration-existence",
     image: "/images/reltroner-declaration-existence.webp",
     author: "Rei Reltroner",
-    date: "2025-04-29"
+    date: "2025-04-29",
+    published: true
   },
   {
     title: "🧩 The Wall of Silenced Builders",
@@ -87,7 +132,8 @@ const philosophies = [
     slug: "wall-of-silenced-builders",
     image: "/images/wall-of-silenced-builders.webp",
     author: "Rei Reltroner",
-    date: "2025-04-19"
+    date: "2025-04-19",
+    published: true
   },
   {
     title: "🛡️ I Am Not the Villain You Feared",
@@ -95,7 +141,8 @@ const philosophies = [
     slug: "not-the-villain",
     image: "/images/not-the-villain.webp",
     author: "Rei Reltroner",
-    date: "2025-04-19"
+    date: "2025-04-19",
+    published: true
   },
   {
     title: "📜 The Builders Who Were Misjudged",
@@ -103,7 +150,8 @@ const philosophies = [
     slug: "misjudged-builders",
     image: "/images/misjudged-builders.webp",
     author: "Rei Reltroner",
-    date: "2025-04-19"
+    date: "2025-04-19",
+    published: true
   },
   {
     title: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real",
@@ -111,7 +159,8 @@ const philosophies = [
     slug: "system-mistakes-you",
     image: "/images/system-mistakes-you.webp",
     author: "Rei Reltroner",
-    date: "2025-04-19"
+    date: "2025-04-19",
+    published: true
   },
   {
     title: "🌙 Charter of Sacred Love & Intimacy",
@@ -119,7 +168,8 @@ const philosophies = [
     slug: "raina-rei-charter",
     date: "2025-04-19",
     author: "Rei Reltroner",
-    image: "/images/raina-rei-charter.webp"
+    image: "/images/raina-rei-charter.webp",
+    published: true
   },
  
 ];

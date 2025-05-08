@@ -6,6 +6,7 @@ date: "2025-04-07"
 published: true
 image: "/images/depeisit_identity.webp"
 ---
+
 # Planet Depeisit
 
 > *“Stability is peace. Tradition is truth.”*

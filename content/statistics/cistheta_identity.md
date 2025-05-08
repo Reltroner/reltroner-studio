@@ -6,6 +6,7 @@ date: "2025-04-07"
 published: true,
 image: "/images/cistheta_identity.webp"
 ---
+
 # Planet Cistheta
 
 > *“Precision is culture. Speed is survival.”*

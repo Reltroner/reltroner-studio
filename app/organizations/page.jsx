@@ -12,7 +12,8 @@ const organizations = [
     slug: "reltroner-holding",
     image: "/images/reltroner-holding.webp",
     author: "Rei Reltroner",
-    date: "2025-04-04"
+    date: "2025-04-04",
+    published: true
   },
   {
     title: "Henchoeway",
@@ -20,7 +21,8 @@ const organizations = [
     slug: "henchoeway", 
     image: "/images/henchoeway.webp", 
     author: "Rei Reltroner",
-    date: "2025-04-07"
+    date: "2025-04-07",
+    published: true
   },
   {
     title: "🛡️ Reltronland Space Command (RSC)",
@@ -28,7 +30,17 @@ const organizations = [
     slug: "reltronland-space-command",
     image: "/images/reltronland-space-command.webp",
     author: "Rei Reltroner",
-    date: "2025-04-27"
+    date: "2025-04-27",
+    published: true
+  },
+  {
+    title: "🛰️ Asthortera Space Command (ASC)",
+    description: "A comprehensive and strategic breakdown of the ASC: its foundation, philosophy, command structure, operations, and geopolitical contrast with RSC.",
+    slug: "asthortera-space-command",
+    image: "/images/asthortera-space-command.webp",
+    author: "Reltroner Studio",
+    date: "2025-05-07",
+    published: true
   }
   
 ];

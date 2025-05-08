@@ -4,6 +4,7 @@ description: "A comprehensive guide to the visual philosophy, national dress cod
 image: "/images/fashion-culture.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
+published: true
 ---
 
 # 👔 Fashion Culture Manual of Asthortera

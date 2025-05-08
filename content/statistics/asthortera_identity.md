@@ -6,6 +6,7 @@ date: "2025-04-07"
 published: true
 image: "/images/asthortera_identity.webp"
 ---
+
 # Planet Asthortera
 
 > *“A world not of escape—but evolution.”*

@@ -67,7 +67,7 @@ export default async function MythPage({ params }) {
         </blockquote>
       )}
       <div
-        className="prose prose-lg text-justify text-slate-800"
+        className="prose prose-slate prose-sm sm:prose lg:prose-lg max-w-none"
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
 

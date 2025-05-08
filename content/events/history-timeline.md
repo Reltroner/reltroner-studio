@@ -36,13 +36,67 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 
 ---
 
-## 🌌 Cosmic Migration Era
+## 🚀 3535 BAC — *Arrival of Cosmeilia*
 
-**3535 BAC** — *Arrival of Cosmeilia from Astrostelia*
-- Cosmic races from planet Cosmeilia settle in Astrostelia and later in Aurastelia.
+> *“They did not arrive to conquer stars, but to harmonize with their silence.”*
 
-**3364–3352 BAC** — *Beluftner-Cosmeilia Conflict*
-- Tensions rise between ancient Beluftner and Cosmeilia settlers over spiritual and spatial dominance.
+Cosmic races from the distant planet **Cosmeilia** reach Asthortera.  
+They land first in the **Astrostelia** region, later spreading to what would become **Aurastelia**.
+
+- The migration is peaceful, almost ritualistic.
+- They are not colonizers, but sentient seekers of alignment and resonance.
+
+---
+
+## ⚔️ 3364–3352 BAC — *Beluftner–Cosmeilia Conflict*
+
+> *“Before peace settled into the land, the stars trembled under divided visions of balance.”*
+
+This period marks a spiritual and territorial standoff between the **ancient Beluftner civilization** and newly arrived **Cosmeilian settlers**.
+
+- The Beluftner upheld a nature-bound harmony rooted in elemental control.
+- The Cosmeilians, by contrast, followed cosmic resonance and inner light.
+
+Though no full-scale war erupted, this **ideological collision** led to friction over sacred leylines, spiritual domains, and cosmic observatories.
+
+> 🌠 *“It was not a war of weapons, but a war of frequencies.”*
+
+---
+
+## 🕊️ 3500–3200 BAC — *Proto-Realm Era: Stillness After the Rift*
+
+> *“From the echo of dissonance emerged a silence so deep, it became the foundation of two futures.”*
+
+The aftermath of the Beluftner–Cosmeilia conflict gave rise to the **Proto-Realm Era** — an age defined by spiritual healing, introspection, and cosmic recalibration.
+
+During this time, Cosmeilian-Human hybrids established sanctuaries rather than kingdoms, choosing resonance over conquest.
+
+### Key Highlights:
+- Creation of *light sanctums*, aurora gardens, and meditation zones.
+- Settlement across **northern Asthortera**, where leyline and aurora flows were strongest.
+- Birth of the philosophical divergence between **Aurastelia** and **Astrostelia**.
+
+---
+
+## 🔀 Emerging Divergence: Spiritual vs Scientific Inclination
+
+By the end of the Proto-Realm Era, the Cosmeilian settlers began to part into two distinct yet harmonious pathways:
+
+* **The Path of Inward Resonance** emerged in the region that would later become **Aurastelia**.
+  In the region that would become **Aurastelia**, groups turned to emotional clarity and aurora alignment.  
+  They built their culture around stillness, silence, and soul refinement. Those who followed this path chose a life of contemplative silence, focusing on **preserving inner peace and maintaining aurora frequency**. They believed that true strength came from emotional clarity and spiritual alignment with the natural flows of the world.
+
+* **The Path of Outward Vision** took shape in the lands that would become **Astrostelia**.
+  In what would become **Astrostelia**, others looked to the stars—constructing observatories and charting cosmic structures.  
+  Their identity flourished through science, cosmology, and interstellar philosophy. This group turned their attention skyward, driven by a desire to **explore cosmic structures, gather interstellar data, and advance scientific understanding**. For them, knowledge and exploration were the purest expressions of harmony.
+
+> Although their destinations differed, their origin was one — and their divergence was a flowering, not a fracture.
+
+> *“One looked inward to illuminate the soul. One looked outward to map the stars. Both remembered the light.”*
+
+This divergence is the **seed of two luminous nations**, not in opposition—but in resonance through distinction.
+
+> 🌠 *“What began as one light, chose two paths—not because it fractured, but because it grew.”*
 
 ---
 
@@ -165,11 +219,47 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 
 ---
 
-**97 BAC — Formation of Asthortera Space Command (ASC)**
+## 🎐 Modern Galactic Space Age Timeline
+
+### ✨ Foundation and Separation of Reltronland Space Command (RSC)
+
+**197 BAC — Formation of Asthortera Space Command (ASC)**
 - A global cooperative organization tasked with orbit-based exploration and lunar research.
 - Reltronland joins as a core member but expresses early discontent with ASC's cautious bureaucratic approach.
 
+**47 BAC — Founding of Reltronland Space Command (RSC)**
+- Reltronland establishes RSC as its sovereign voidfront and interstellar arm, separate in doctrine but still nominally under ASC.
+- RSC's foundation is rooted in Astralis Pinnacle: clarity, sentient evolution, and relentless strategic realism.
+
+**43 BAC — The Voidgate Conflict**
+- *🚨 Start of the Collapse of Unified Orbit Governance*
+- Tensions erupt at Cryven Hyperspace Gate as ASC forces attempt to block a classified RSC exploratory fleet.
+- No shots fired, but this becomes a symbolic breaking point between the two commands.
+- Tensions erupt at Cryven Hyperspace Gate as ASC forces attempt to block a classified RSC exploratory fleet.
+- No shots fired, but this becomes a symbolic breaking point between the two commands.
+
+**39 BAC — Declaration of Astralis Sovereignty**
+- Reltronland passes the Astralis Sovereignty Act, declaring all RSC operations beyond planetary orbit free from ASC oversight.
+- Initiates diplomatic fallout and the breakdown of joint operations.
+
+**34 BAC — The Doctrinal Rift**
+- *🚨 End of the Collapse of Unified Orbit Governance*
+- Philosophical conflict formalized: ASC rejects integration of AI-sentient command logic and Red Pill protocols.
+- RSC is removed from active ASC participation, finalizing the ideological split.
+- Philosophical conflict formalized: ASC rejects integration of AI-sentient command logic and Red Pill protocols.
+- RSC is removed from active ASC participation, finalizing the ideological split.
+
+**29 BAC — Treaty of Cyrelyn**
+- A formal peace accord is signed.
+- ASC recognizes RSC as an independent interstellar institution.
+- RSC agrees to non-intervention within ASC-controlled orbital and planetary domains.
+
+_This moment marks Reltronland as the **first nation on Asthortera** to achieve legitimate, sovereign interstellar expansion. RSC continues to serve as the embodiment of Astralis clarity beyond the void._
+
+---
+
 ![history-timeline-block](/images/history-timeline-2.webp)
+
 ---
 
 ## 🌌 Modern Canon Timeline (AC)
@@ -306,48 +396,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 
 ---
 
-## 🎐 Modern Galactic Space Age Timeline
-
-### ✨ Foundation and Separation of Reltronland Space Command (RSC)
-
-**97 BAC — Formation of Asthortera Space Command (ASC)**
-- A global cooperative organization tasked with orbit-based exploration and lunar research.
-- Reltronland joins as a core member but expresses early discontent with ASC's cautious bureaucratic approach.
-
-**53 AC — Founding of Reltronland Space Command (RSC)**
-- Reltronland establishes RSC as its sovereign voidfront and interstellar arm, separate in doctrine but still nominally under ASC.
-- RSC's foundation is rooted in Astralis Pinnacle: clarity, sentient evolution, and relentless strategic realism.
-
-**57 AC — The Voidgate Conflict**
-- *🚨 Start of the Collapse of Unified Orbit Governance*
-- Tensions erupt at Cryven Hyperspace Gate as ASC forces attempt to block a classified RSC exploratory fleet.
-- No shots fired, but this becomes a symbolic breaking point between the two commands.
-- Tensions erupt at Cryven Hyperspace Gate as ASC forces attempt to block a classified RSC exploratory fleet.
-- No shots fired, but this becomes a symbolic breaking point between the two commands.
-
-**61 AC — Declaration of Astralis Sovereignty**
-- Reltronland passes the Astralis Sovereignty Act, declaring all RSC operations beyond planetary orbit free from ASC oversight.
-- Initiates diplomatic fallout and the breakdown of joint operations.
-
-**66 AC — The Doctrinal Rift**
-- *🚨 End of the Collapse of Unified Orbit Governance*
-- Philosophical conflict formalized: ASC rejects integration of AI-sentient command logic and Red Pill protocols.
-- RSC is removed from active ASC participation, finalizing the ideological split.
-- Philosophical conflict formalized: ASC rejects integration of AI-sentient command logic and Red Pill protocols.
-- RSC is removed from active ASC participation, finalizing the ideological split.
-
-**71 AC — Treaty of Cyrelyn**
-- A formal peace accord is signed.
-- ASC recognizes RSC as an independent interstellar institution.
-- RSC agrees to non-intervention within ASC-controlled orbital and planetary domains.
-
----
-
 **109 AC** — *📜 Galactic Alignment Treaty*
-
----
-
-_This moment marks Reltronland as the **first nation on Asthortera** to achieve legitimate, sovereign interstellar expansion. RSC continues to serve as the embodiment of Astralis clarity beyond the void._
 
 ---
 
@@ -398,3 +447,4 @@ Let Astralis light the unknown.
 📚 See also:  
 - [Origins of Reltronland](https://www.reltroner.com/events/reltronland-founding)  
 - [The True Purpose Behind Depcutland’s Founding](https://www.reltroner.com/events/depcutland-founding)  
+- 📍[Return to events](https://www.reltroner.com/events)

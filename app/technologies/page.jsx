@@ -77,6 +77,15 @@ const techs = [
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-24"
+  },
+  {
+    title: "✈️ Tronexus V-Class Starcraft",
+    description: "Technical and operational overview of the Tronexus V-Class Starcraft, designed for both military and civilian configurations.",
+    slug: "tronexus-v-class",
+    image: "/images/tronexus-v-class.webp",
+    author: "Reltroner Studio Engineering Division",
+    published: true,
+    date: "2025-05-09"
   }
 ];
 

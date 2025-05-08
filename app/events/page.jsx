@@ -80,6 +80,15 @@ const events = [
     image: "/images/asthortera-moonless-sky.webp"
   },
   {
+    title: "Origins of Aurastelia and Astrostelia",
+    description: "The early divergence of two celestial nations—Aurastelia and Astrostelia—whose roots trace back to cosmic migrations and the eternal tension between spiritual resonance and scientific pursuit.",
+    slug: "aurastelia-astrostelia",
+    date: "2025-05-08",
+    author: "Reltroner Studio Archives",
+    published: true,
+    image: "/images/aurastelia-astrostelia.webp"
+  },
+  {
     title: "When Raina Read The Letter",
     description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words.",
     slug: "when-raina-read-the-letter",
@@ -145,6 +154,15 @@ const events = [
     published: true,
     tags: ["kamila alena", "nytherion abyss", "the abyss of comfort", "scene", "delwyn harper"]
   },
+  {
+    title: "🎖️ The Crimson Hour of Vanyathra",
+    description: "A ground combat mission between RSC forces and Abyssborn entities in the outer ruins of collapsed Vanyathra. Year 138 AC.",
+    slug: "vanyathra-ground-war",
+    author: "Rei Reltroner",
+    date: "2025-05-07",
+    published: true,
+    image: "/images/vanyathra-ground-war.webp"
+  }
   
   // Tambahkan lebih banyak event di masa depan...
 ];

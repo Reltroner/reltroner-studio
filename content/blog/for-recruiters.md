@@ -102,5 +102,3 @@ I am simply walking into the reality I have built with my own hands.
 **Today, I become the architect of my destiny.**
 
 **Today, I know: The Dream HRD Call is no longer a fantasy. It is an inevitability.**
-
----

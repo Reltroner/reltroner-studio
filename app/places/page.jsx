@@ -155,6 +155,24 @@ const places = [
     author: "Rei Reltroner",
     published: true,
     image: "/images/aurioneira-system.webp"
+  },
+  {
+    title: "The Galaxy — Reltroner Studio’s Cosmic Setting",
+    description: "An astronomical overview of the vast and sentient-rich galactic setting where Asthortera, Depeisit, Cosmeilia, Cistheta, and other civilizations evolve, compete, and align under the light—or shadow—of cosmic ideologies.",
+    slug: "the-galaxy",
+    author: "Rei Reltroner",
+    date: "2025-05-07",
+    published: true,
+    image: "/images/the-galaxy.webp"
+  },
+  {
+    title: "🕳️ Vanyathra — The Collapsed Realm Beyond the Outer Veil",
+    description: "A failed nation consumed by abyssal collapse, located in a smaller planet near the Outer Veil of the galaxy, far beyond the Astralis Core.",
+    slug: "vanyathra-abyssborn-nation",
+    date: "2025-05-06",
+    author: "Rei Reltroner",
+    image: "/images/vanyathra-abyssborn-nation.webp",
+    published: true
   }
 ];
 

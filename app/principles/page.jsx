@@ -85,6 +85,15 @@ const principles = [
     date: "2025-05-04",
     published: true,
     image: "/images/raised-by-space.webp"
+  },
+  {
+    title: "🗣️ Language Paradox in Reltroner Studio",
+    description: "Explaining the narrative reason behind the use of English in a universe where Earth never existed.",
+    slug: "language-paradox-reltroner",
+    author: "Rei Reltroner",
+    date: "2025-05-06",
+    published: true,
+    image: "/images/language-paradox-reltroner.webp"
   }
   
   // Tambahkan lebih banyak principle di masa depan...

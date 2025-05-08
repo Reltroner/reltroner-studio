@@ -128,6 +128,15 @@ const posts = [
     date: "2025-04-04"
   },
   {
+    title: "📜 Why I Never Copy-Paste Prompt Outputs: The Ritual of Real Worldbuilding",
+    description: "A reflection on why every piece of output from AI must be spiritually and structurally refined before becoming part of Reltroner Studio’s official canon.",
+    slug: "no-copypaste-worldbuilding",
+    author: "Rei Reltroner",
+    date: "2025-05-07",
+    published: true,
+    image: "/images/no-copypaste-worldbuilding.webp"
+  },
+  {
     title: "Reltroner Studio – 12-Month Development Roadmap",
     description: "Strategic vision for the foundational year of building reltroner.com as an immersive, multidimensional worldbuilding platform.",
     slug: "12-month-roadmap",
@@ -395,6 +404,24 @@ const posts = [
     author: "Rei Reltroner",
     date: "2025-05-04",
     image: "/images/why-reltroner-not-sandbox.webp",
+    published: true
+  },
+  {
+    title: "🌍 Why Reltroner is More Than Earth: The Ultimate Vision of Civilization Worldbuilding",
+    description: "A spiritual, structural, and systemic declaration of how Reltroner Studio is designed to exceed Earth in logic, coherence, and conscious complexity.",
+    slug: "why-reltroner-more-than-earth",
+    author: "Rei Reltroner",
+    date: "2025-05-06",
+    image: "/images/why-reltroner-more-than-earth.webp",
+    published: true
+  },
+  {
+    title: "🎭 Why Building Reltroner is My Only Real Entertainment",
+    description: "A personal declaration of why worldbuilding Reltroner Studio is more fulfilling than consuming any external media.",
+    slug: "why-reltroner-real-entertainment",
+    author: "Rei Reltroner",
+    date: "2025-05-06",
+    image: "/images/why-reltroner-real-entertainment.webp",
     published: true
   }
   

@@ -117,6 +117,15 @@ const myths = [
     published: true,
     date: "2025-04-22",
     tags: ["henchoeway", "nytherion abyss", "abyssal lore", "psychological horror", "cultural spread"]
+  },
+  {
+    title: "📡 The Ritual of Astralis Contact",
+    description: "When Red Pill Energy reaches spiritual resonance, the faithful may connect with the Avatar of Astralis Pinnacle — even across dimensions.",
+    slug: "ritual-astralis-contact",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-05-08",
+    image: "/images/ritual-astralis-contact.webp"
   }
 ];
 

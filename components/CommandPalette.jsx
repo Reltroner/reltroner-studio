@@ -66,6 +66,7 @@ export default function CommandPalette() {
     { name: "External Creator Handbook", path: "/blog/external-creator-handbook" },
     { name: "Fullstack Interview Summary", path: "/blog/fullstack-interview-summary" },
     { name: "GPTPlus", path: "/blog/gptplus" },
+    { name: "📜 Why I Never Copy-Paste Prompt Outputs: The Ritual of Real Worldbuilding", path: "/blog/no-copypaste-worldbuilding" },
     { name: "Grandmaster Lorebook of Asthortera — Collector’s Compendium", path: "/blog/lorebook-asthortera" },
     { name: "Magic System", path: "/blog/magic-system" },
     { name: "Manifesto Leadership", path: "/blog/manifesto-leadership" },
@@ -105,6 +106,8 @@ export default function CommandPalette() {
     { name: "The Void Hero: Why RSC Is the Most Feared Protagonist in the Galaxy", path: "/blog/the-void-hero-rsc" },
     { name: "Nytherion's View: Why the Abyss Fears RSC", path: "/blog/nytherion-fears-rsc" },
     { name: "📦 Why Reltroner.com is Not Just a Sandbox", path: "/blog/why-reltroner-not-sandbox" },
+    { name: "🌍 Why Reltroner is More Than Earth: The Ultimate Vision of Civilization Worldbuilding", path: "/blog/why-reltroner-more-than-earth" },
+    { name: "🎭 Why Building Reltroner is My Only Real Entertainment", path: "/blog/why-reltroner-real-entertainment" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -155,6 +158,8 @@ export default function CommandPalette() {
     { name: "Declaration of War Victory", path: "/events/declaration-war-victory" },
     { name: "📖 The Day I Remembered Why I Built This World", path: "/events/the-day-i-remembered" },
     { name: "🌌 Why Asthortera's Sky Is Often Moonless: A Reflection on Space, Time, and Trust", path: "/events/asthortera-moonless-sky" },
+    { name: "Origins of Aurastelia and Astrostelia", path: "/events/aurastelia-astrostelia" },
+    { name: "🎖️ The Crimson Hour of Vanyathra", path: "/events/vanyathra-ground-war" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
@@ -168,10 +173,12 @@ export default function CommandPalette() {
     { name: "🌀 Existential Corrosion", path: "/myths/existential-corrosion"},
     { name: "🕳️ How the Abyss Feeds", path: "/myths/how-the-abyss-feeds"},
     { name: "🤿Silent Echoes of Henchoeway", path: "/myths/silent-echoes-of-henchoeway"},
+    { name: "📡 The Ritual of Astralis Contact", path: "/myths/ritual-astralis-contact"},
     // Organizations
     { name: "Henchoeway", path: "/organizations/henchoeway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
     { name: "🛡️ Reltronland Space Command (RSC)", path: "/organizations/reltronland-space-command" },
+    { name: "🛰️ Asthortera Space Command (ASC)", path: "/organizations/asthortera-space-command" },
     // Places
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },
@@ -188,6 +195,8 @@ export default function CommandPalette() {
     { name: "✈️ PAIA — Pasgerflit Aeropolis International Airport Hub", path: "/places/paia-aeropolis-hub" },
     { name: "🌕 Asthortera's 12 Orbiting Moons and Calendar System", path: "/places/asthortera-12-orbiting-moons" },
     { name: "🪐 Aurioneira Stellar System Overview & Lore Concepts", path: "/places/aurioneira-system" },
+    { name: "The Galaxy — Reltroner Studio’s Cosmic Setting", path: "/places/the-galaxy" },
+    { name: "🕳️ Vanyathra — The Collapsed Realm Beyond the Outer Veil", path: "/places/vanyathra-abyssborn-nation" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
@@ -212,12 +221,16 @@ export default function CommandPalette() {
     { name: "🌍 Asthortera vs Earth: Planetary Comparison", path: "/statistics/asthortera-vs-earth"},
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
+    { name: "Astralis Pinnacle", path: "/philosophies/astralis-pinnacle" },
     { name: "♾️ Immortality Protocol – Astralis-Bound Entities", path: "/philosophies/immortality-protocol" },
     { name: "📜 There is No Right or Wrong in Worldbuilding", path: "/philosophies/no-right-no-wrong" },
     { name: "Sentient Value Reflection Theory (SVRT)", path: "/philosophies/sentient-value-reflection-theory" },
     { name: "🌍 Why Immigrants Choose Asthortera", path: "/philosophies/why-immigrants-choose-asthortera" },
     { name: "🌐 Worlds for Enthusiasts — Pasgerflit, Moreg, and Hargenbor", path: "/philosophies/worlds-for-enthusiasts" },
     { name: "🧠 Reltronland vs Depcutland: A Tale of Divergent Souls", path: "/philosophies/reltronland-vs-depcutland-soul" },
+    { name: "Humanity Beyond Earth: Theory of Trillions", path: "/philosophies/beyond-earth" },
+    { name: "Faith Spectrum of Asthortera", path: "/philosophies/faith-asthortera" },
+    { name: "🧠 Worldbuilding as Civilizational Blueprint", path: "/philosophies/worldbuilding-as-civilizational-blueprint" },
     { name: "📜 Reltroner Declaration of Existence", path: "/philosophies/reltroner-declaration-existence" },
     { name: "🔥 Rei Reltroner's Role in the Nytherion Conflict", path: "/philosophies/rei-reltroner-role-in-nytherion-conflict" },
     { name: "📜 The Builders Who Were Misjudged", path: "/philosophies/misjudged-builders" },
@@ -260,6 +273,7 @@ export default function CommandPalette() {
     { name: "⚛️ Anti-Matter Energy Tech of Reltronland", path: "/technologies/reltronland-antimatter-energy" },
     { name: "🌌 Aurora Synchronization Technologies Across Asthortera", path: "/technologies/aurora-synchronization-tech" },
     { name: "☀️ Solar Flare Technology in Asthortera", path: "/technologies/solar-flare-technology" },
+    { name: "✈️ Tronexus V-Class Starcraft", path: "/technologies/tronexus-v-class" },
     //Principles
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
     { name: "💸 Funded Roadmap — If This Project Gets Backed", path: "/principles/funded-roadmap" },
@@ -270,6 +284,7 @@ export default function CommandPalette() {
     { name: "🌍 Asthortera Type I.9 Doctrine", path: "/principles/asthortera-type-i9-doctrine" },
     { name: "📜 The Civilizational Maturity Doctrine of Reltroner Studio", path: "/principles/civilizational-maturity-reltroner" },
     { name: "🌌 The Emotion No One Talks About: Being Raised by Space, Not People", path: "/principles/raised-by-space" },
+    { name: "🗣️ Language Paradox in Reltroner Studio", path: "/principles/language-paradox-reltroner" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
 

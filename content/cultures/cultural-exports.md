@@ -3,6 +3,7 @@ title: "Major Cultural Exports — Reltronland vs Depcutland"
 description: "An in-depth look at the top cultural exports from Reltronland and Depcutland, showcasing how fashion, literature, music, and architecture shape their global influence across Asthortera."
 image: "/images/cultural-exports.webp"
 author: "Rei Reltroner"
+published: true
 date: "2025-04-13"
 ---
 

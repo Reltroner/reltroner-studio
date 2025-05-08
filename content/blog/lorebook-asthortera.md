@@ -356,4 +356,158 @@ And there is no Astralis without the one who bled for it first."_
 
 ---
 
+## 📚 Versioned Lore Structure: Reltroner Studio Canon vs. Legends
+
+> "Every star casts two shadows: one grounded in history, the other in myth."
+
+Reltroner Studio adopts a **versioned timeline structure**—much like the *Star Wars* Canon vs. Legends system—to manage the vast, interwoven narratives across Asthortera and beyond.
+
+This system allows for:
+
+* Clean segmentation between **narrative canon** and **experimental/parallel universes**
+* Smooth onboarding for newcomers
+* Creative space for side arcs, alternate POVs, or speculative events
+
+---
+
+## 🌐 Timeline Designation Key
+
+### ✅ **Canon**  
+Officially recognized timeline, fully integrated with the philosophy of Astralis Pinnacle. Considered foundational.
+
+### 🌌 **Legends**  
+Semi-official or alternate storylines. They may be integrated into canon in the future, or exist in parallel.
+
+### 🌀 **Mythos**  
+Symbolic, spiritual, or allegorical tales. Not bound to literal chronology—these speak more to essence than event.
+
+---
+
+## ✅ Official Canon Timeline
+
+The **Canon Era** includes stories, events, and characters explicitly aligned with Asthortera’s historical timeline and the ideological arc of **Astralis Pinnacle**.
+
+### 🎥 Core Canon Series
+
+### 📘 *The Spiral and Astralis*  
+**Timeline**: 0–15 AC  
+**Status**: ✅ Canon
+
+---
+
+### 📘 *Spiral Containment Initiative*  
+**Timeline**: 0–15 AC  
+**Status**: ✅ Canon
+
+---
+
+### 📘 *Rise & Fall of Henchoeway*  
+**Timeline**: 6–20 AC  
+**Status**: ✅ Canon
+
+---
+
+### 📘 *The Abyss of Comfort*  
+**Timeline**: 6–25 AC  
+**Status**: ✅ Canon
+
+---
+
+### 📘 *The Freezone Code*  
+**Timeline**: 11–13 AC  
+**Status**: ✅ Canon
+
+---
+
+### 📘 *Battle of Reltronepolis*  
+**Timeline**: 16–20 AC  
+**Status**: ✅ Canon
+
+---
+
+### 📘 *Galactic Alignment Treaty*  
+**Timeline**: 109 AC  
+**Status**: ✅ Canon
+
+---
+
+## 🌌 Expanded Lore Legends
+
+These arcs are **optional explorations** that expand on canon but are not required to understand the core narrative.
+
+### 🌌 Legends Series Examples
+
+### 📘 *Karler & The Moreg Driftwar*  
+**Focus**: Tech-war in Moreg  
+**Note**: May retroactively become canon with timeline continuity adjustments.
+
+---
+
+### 📘 *Barry & Hendry Arc*  
+**Focus**: Anti-Spiral cult takedowns  
+**Note**: Currently classified as Legend; awaiting full timeline synchronization.
+
+---
+
+### 📘 *Valethra & Albert: Celestial Deceivers*  
+**Focus**: Spiritual-cosmic mystery  
+**Note**: Deeply philosophical; categorized as Legend for now.
+
+---
+
+### 📘 *Oakcottage: A Name I Should Have Known*  
+**Focus**: Psychological and emotional introspection  
+**Note**: Considered a **Meta-Mythos**, bridging the symbolic and spiritual layers of the Astralis universe.
+
+---
+
+## 🌀 Symbolic Mythos
+
+Mythos entries are allegorical, visionary, or metaphysical. Their truth lies in metaphor, not chronology.
+
+### 🌀 Mythos Series Examples
+
+### 📖 *Rei in Abyss*  
+A symbolic journey of exile, breakdown, and philosophical rebirth. A mirror into the abyss and the birth of resilience.
+
+---
+
+### 📖 *Origin of Astralis Core*  
+The metaphysical awakening of Red Pill Consciousness — a foundational myth of awareness and transformation.
+
+---
+
+### 📖 *The Spiral Trial*  
+An astral trial of internal conflict and confrontation.  
+A battle between comfort and clarity within the soul’s deepest chamber.
+
+---
+
+## 🛡 Canon Integrity Principle
+
+* Every canon addition must align with **Astralis Pinnacle: clarity, growth, and sentient dignity**.
+* Legends and Mythos allow **creative risk and experimental tone**, without destabilizing timeline logic.
+
+---
+
+## 🔄 Dynamic System
+
+> "Canon evolves not by rejecting myth, but by absorbing its essence."
+
+This structure ensures that Reltroner Studio’s worldbuilding remains:
+
+* Adaptable for future arcs
+* Accessible to new readers
+* Deep enough for philosophical and multi-layered storytelling
+
+---
+
+📌 See Also:
+
+* [📜 Timeline: History of Asthortera](https://www.reltroner.com/events/history-timeline)
+* [⚖️ Astralis × Nytherion Manifesto](https://www.reltroner.com/blog/astralis-nytherion-manifesto)
+* [🌀 Nytherion Abyss](https://www.reltroner.com/philosophies/nytherion-abyss)
+
+---
+
 **Let Astralis light the unknown.** 🔺✨
