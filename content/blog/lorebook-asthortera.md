@@ -23,7 +23,7 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 - **Capital:** Reltralia
 - **Philosophy:** Red Pill Realism, Self-discipline, Sentient Development
 - **Key Symbols:** Skyscrapers, white-collar uniforms, national Castella cake
-- **Population:** 272 billion
+- **Population:** 855 billion
 - **SDI (Sentient Development Index):** 0.984/1
 - **Notable Figure:** Rei Reltroner
 
@@ -41,12 +41,12 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 - **Contribution:** Root of magic, spiritual ancient wisdom
 
 ### 🌠 Astrostelia — "Celestial Empire of Knowledge"
-- **Population:** 54 billion
+- **Population:** 170 billion
 - **Dominant Race:** Cosmeilia Cosmic Races
 - **Specialty:** Star navigation, cosmic oracle, advanced telescience
 
 ### 🌌 Aurastelia — "The Aurora Kingdom"
-- **Population:** 33 billion
+- **Population:** 104 billion
 - **Philosophy:** Cosmic spirituality, light-mind harmony
 - **Known For:** Priesthood of Light, Aurora Guardians
 
