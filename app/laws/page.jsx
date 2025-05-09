@@ -126,6 +126,15 @@ const laws = [
     published: true
   },
   {
+    title: "🛑 Reltronland Forbidden Substances & Narcotics Regulation Act",
+    description: "A zero-tolerance legal mandate from Reltronland enforcing strict prohibitions on narcotics, with death penalties for irredeemable offenders to preserve civilization and prevent irreversible harm.",
+    slug: "reltronland-narcotics-regulation",
+    image: "/images/reltronland-narcotics-regulation.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-09",
+    published: true
+  },
+  {
     title: "📜 The Stelhaven(Kalgered) Accord (983 BAC)",
     description: "The foundational legal framework of globalized civilization in Asthortera—governing international military cooperation, trade, diplomacy, and legal harmonization.",
     slug: "stelhaven-accord-983",

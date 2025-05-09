@@ -265,6 +265,7 @@ export default function CommandPalette() {
     { name: "📜 The Stelhaven(Kalgered) Accord (983 BAC)", path: "/laws/stelhaven-accord-983"},
     { name: "📜 Galactic Alignment Treaty", path: "/laws/galactic-alignment-treaty"},
     { name: "📜 SDI Code Violation - Article 1.7.2", path: "/laws/sdi-code-1.7.2"},
+    { name: "🛑 Reltronland Forbidden Substances & Narcotics Regulation Act", path: "/laws/reltronland-narcotics-regulation"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
