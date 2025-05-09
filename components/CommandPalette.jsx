@@ -185,6 +185,7 @@ export default function CommandPalette() {
     { name: "🌐 AFRI — Astralis Financial Resilience Institution", path: "/organizations/afri" },
     { name: "🏗️ RIDA — Reltronian Interplanetary Development Agency", path: "/organizations/rida" },
     { name: "🏦 SAVA — Sentient Asset Vault Authority", path: "/organizations/sava" },
+    { name: "📊 CERA — Consciousness Economic Risk Authority", path: "/organizations/cera" },
     // Places
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },

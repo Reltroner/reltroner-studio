@@ -86,6 +86,15 @@ const organizations = [
     author: "Rei Reltroner",
     published: true,
     image: "/images/sava.webp"
+  },
+  {
+    title: "📊 CERA — Consciousness Economic Risk Authority",
+    description: "SAVA is Reltronland’s trust-based clearinghouse and value sanctuary, safeguarding merit-backed tokens and philosophical wealth through quantum-AI infrastructure and non-political financial sovereignty.",
+    slug: "cera",
+    date: "2025-05-10",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/cera.webp"
   }
   
 ];
