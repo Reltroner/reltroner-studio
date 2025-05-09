@@ -58,7 +58,7 @@ The **Reltronland Astralis Central Bank (RACB)** is the apex monetary authority 
 ## ⚙️ Institutional Structure
 
 ### 🟩 **Governor of RACB**  
-*Reltroner Astralis Central Bank*  
+*Reltronland Astralis Central Bank*  
 - Appointed through AI-vetted **Sentient Merit Score** and successful passage of the **Astralis Test**.  
 - Not elected by majority — chosen by alignment with civilization clarity.
 

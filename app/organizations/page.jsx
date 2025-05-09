@@ -59,6 +59,15 @@ const organizations = [
     date: "2025-05-10",
     published: true,
     image: "/images/racb.webp"
+  },
+  {
+    title: "🌐 AFRI — Astralis Financial Resilience Institution",
+    description: "An interplanetary financial institution founded by Reltronland to stabilize economies through clarity, sentient realignment, and structural awakening—beyond the limitations of traditional austerity models.",
+    slug: "afri",
+    date: "2025-05-10",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/afri.webp"
   }
   
 ];
