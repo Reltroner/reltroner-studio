@@ -151,7 +151,7 @@ No combat control granted.
 
 > "To be sovereign among stars, one must be sovereign in resource."
 
-The **Reltronland Space Command (RSC)** operates as a fully autonomous interstellar institution — functionally independent from the Reltronland central state budget (APBN). While it aligns with national values and doctrines, RSC is structurally distinct in both its **economic model** and **resource acquisition protocols**.
+The **Reltronland Space Command (RSC)** operates as a fully autonomous interstellar institution — functionally independent from the Reltronland central state budget. While it aligns with national values and doctrines, RSC is structurally distinct in both its **economic model** and **resource acquisition protocols**.
 
 ---
 
@@ -327,16 +327,15 @@ This formation emphasizes **layered defense, coverage redundancy, and symbiotic 
 ## 🔲 Diagram — Tactical Grid Overview
 
 
+     [VF]  [VF]  [VF]  [VF]  [VF]
 
-
- [VF]   [VF]   [VF]   [VF]   [VF]
      |     |     |     |     |
 
+    [EI]—[QS]—[TP]—[AC]—[TP]—[QS]—[EI]
 
-\[EI]—\[QS]—\[TP]—\[AC]—\[TP]—\[QS]—\[EI]
-\|     |     |     |     |
-\[VF]   \[VF]   \[VF]   \[VF]   \[VF]
+     |     |     |     |     |
 
+     [VF]  [VF]  [VF]  [VF]  [VF]
 
 
 ### 💡 Legend:

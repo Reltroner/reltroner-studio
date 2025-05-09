@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postbuild": "next-sitemap"
+    "postbuild": "next-sitemap",
+    "check-slugs": "node tools/check-slugs.mjs",
+    "check-all-slugs": "node tools/check-all-slugs.mjs"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.1",
