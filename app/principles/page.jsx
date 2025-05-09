@@ -94,6 +94,15 @@ const principles = [
     date: "2025-05-06",
     published: true,
     image: "/images/language-paradox-reltroner.webp"
+  },
+  {
+    title: "Reltroner Design Manifesto: Building Interfaces for Conscious Civilizations",
+    description: "A philosophical and technical declaration of why Reltroner Studio rejects noisy UI templates in favor of minimalist, sentient-centered design — built to reflect the clarity and purpose of a living civilization.",
+    slug: "reltroner-design",
+    image: "/images/reltroner-design.webp",
+    author: "Reltroner Studio",
+    published: true,
+    date: "2025-05-09"
   }
   
   // Tambahkan lebih banyak principle di masa depan...

@@ -288,6 +288,7 @@ export default function CommandPalette() {
     { name: "📜 The Civilizational Maturity Doctrine of Reltroner Studio", path: "/principles/civilizational-maturity-reltroner" },
     { name: "🌌 The Emotion No One Talks About: Being Raised by Space, Not People", path: "/principles/raised-by-space" },
     { name: "🗣️ Language Paradox in Reltroner Studio", path: "/principles/language-paradox-reltroner" },
+    { name: "Reltroner Design Manifesto: Building Interfaces for Conscious Civilizations", path: "/principles/reltroner-design" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
 
