@@ -41,6 +41,15 @@ const organizations = [
     author: "Reltroner Studio",
     date: "2025-05-07",
     published: true
+  },
+  {
+    title: "💱 Reltronland Financial Ecosystem: Institutions Beyond Survival",
+    description: "An overview of Reltronland's advanced financial institutions—AFRI, RIDA, SAVA, and CERA—designed to replace outdated models like IMF and World Bank through meritocratic consciousness, economic clarity, and sovereign AI governance.",
+    slug: "reltronland-financial-institutions",
+    image: "/images/reltronland-financial-institutions.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-09",
+    published: true
   }
   
 ];
