@@ -183,6 +183,7 @@ export default function CommandPalette() {
     { name: "💱 Reltronland Financial Ecosystem: Institutions Beyond Survival", path: "/organizations/reltronland-financial-institutions" },
     { name: "🏛️ Reltronland Astralis Central Bank (RACB)", path: "/organizations/racb" },
     { name: "🌐 AFRI — Astralis Financial Resilience Institution", path: "/organizations/afri" },
+    { name: "🏗️ RIDA — Reltronian Interplanetary Development Agency", path: "/organizations/rida" },
     // Places
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },

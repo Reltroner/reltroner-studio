@@ -68,6 +68,15 @@ const organizations = [
     author: "Rei Reltroner",
     published: true,
     image: "/images/afri.webp"
+  },
+  {
+    title: "🏗️ RIDA — Reltronian Interplanetary Development Agency",
+    description: "A meritocratic development agency established by Reltronland to fund infrastructure, education, and conscious urban growth across post-conflict civilizations—focused on elevating sentient purpose rather than economic dominance.",
+    slug: "rida",
+    date: "2025-05-10",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/rida.webp"
   }
   
 ];
