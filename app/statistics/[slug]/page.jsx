@@ -61,7 +61,7 @@ export default async function StatisticPage({ params }) {
         className="w-full h-auto rounded-lg mb-6 shadow-md"
       />
       <p className="text-gray-700 text-lg font-semibold italic mb-2">{data.role}</p>
-      <p className="text-gray-600 mb-4">{data.description}</p>
+      <p className="text-gray-600 mb-4 text-sm">{data.description}</p>
       {data.quote && (
         <blockquote className="border-l-4 border-blue-600 pl-4 italic text-gray-800 mb-4">
           “{data.quote}”
