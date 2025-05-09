@@ -569,3 +569,11 @@ RSC does not seek conquest — it safeguards evolution. Every movement, every ba
 
 *— Issued under Reltronland Strategic Codex ∆-7 Protocol*
 **\[END OF FILE]**
+
+---
+
+🔙 Back to [Reltroner Studio Organizations Index](https://www.reltroner.com/organizations)
+<br>
+
+➡️ To [Reltronland](https://www.reltroner.com/factions/reltronland)
+<br>

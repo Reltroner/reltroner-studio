@@ -117,6 +117,15 @@ const laws = [
     tags: ["zoning", "land use", "law", "policy", "reltronland"]
   },
   {
+    title: "📜 SDI Code Violation - Article 1.7.2",
+    description: "Legal decree from Reltronland declaring the unauthorized creation of children without developmental capacity as a societal crime. Article 1.7.2 outlines strict criteria, sanctions, and the Eternal Sterilization Protocol for violators under the Astralis Pinnacle's SDI framework.",
+    slug: "sdi-code-1.7.2",
+    image: "/images/sdi-code-1.7.2.webp",
+    author: "Rei Reltroner",
+    date: "2025-04-26",
+    published: true
+  },
+  {
     title: "📜 The Stelhaven(Kalgered) Accord (983 BAC)",
     description: "The foundational legal framework of globalized civilization in Asthortera—governing international military cooperation, trade, diplomacy, and legal harmonization.",
     slug: "stelhaven-accord-983",

@@ -264,6 +264,7 @@ export default function CommandPalette() {
     { name: "🏛️ Sentient Zoning Integrity Act — Reltronland", path: "/laws/sentient-zoning-integrity-act"},
     { name: "📜 The Stelhaven(Kalgered) Accord (983 BAC)", path: "/laws/stelhaven-accord-983"},
     { name: "📜 Galactic Alignment Treaty", path: "/laws/galactic-alignment-treaty"},
+    { name: "📜 SDI Code Violation - Article 1.7.2", path: "/laws/sdi-code-1.7.2"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

@@ -76,5 +76,3 @@ I will **build it**.
 > “You don't need a recruiter to validate your worth.  
 > If the system collapses, become the system.”
 
----
-
