@@ -181,6 +181,7 @@ export default function CommandPalette() {
     { name: "🛡️ Reltronland Space Command (RSC)", path: "/organizations/reltronland-space-command" },
     { name: "🛰️ Asthortera Space Command (ASC)", path: "/organizations/asthortera-space-command" },
     { name: "💱 Reltronland Financial Ecosystem: Institutions Beyond Survival", path: "/organizations/reltronland-financial-institutions" },
+    { name: "🏛️ Reltronland Astralis Central Bank (RACB)", path: "/organizations/racb" },
     // Places
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },

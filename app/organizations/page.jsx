@@ -50,6 +50,15 @@ const organizations = [
     author: "Rei Reltroner",
     date: "2025-05-09",
     published: true
+  },
+  {
+    title: "🏛️ Reltronland Astralis Central Bank (RACB)",
+    description: "An overview of the Reltronland Astralis Central Bank (RACB), the sovereign monetary institution engineered to uphold clarity-based economics, issue merit-backed digital currency, and regulate sentient liquidity across civilization.",
+    slug: "racb",
+    author: "Rei Reltroner",
+    date: "2025-05-10",
+    published: true,
+    image: "/images/racb.webp"
   }
   
 ];
