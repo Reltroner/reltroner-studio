@@ -77,6 +77,15 @@ const organizations = [
     author: "Rei Reltroner",
     published: true,
     image: "/images/rida.webp"
+  },
+  {
+    title: "🏦 SAVA — Sentient Asset Vault Authority",
+    description: "SAVA is Reltronland’s trust-based clearinghouse and value sanctuary, safeguarding merit-backed tokens and philosophical wealth through quantum-AI infrastructure and non-political financial sovereignty.",
+    slug: "sava",
+    date: "2025-05-10",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/sava.webp"
   }
   
 ];
