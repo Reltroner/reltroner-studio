@@ -71,17 +71,68 @@ The Reltronland Space Command (RSC) maintains a strictly meritocratic and clarit
 
 ### 🔒 Astralis Protocol Clearance Levels
 
-| Clearance | Title                        | Authorized Access                              |
-|-----------|------------------------------|------------------------------------------------|
-| Level 9   | **Astralis Sovereign Executor** | Full override of all RSC systems, AI matrices, time-locked weapon grids |
-| Level 8   | **High Void Council**         | Tactical deep-void intelligence, internal tribunal command |
-| Level 7   | **Sector Admirals**           | Regional fleet command, capital ship integration |
-| Level 6   | **Division Commanders**       | Operational execution for special missions |
-| Level 5   | **Voidfront Captains**        | Ship-level command for cruisers and probes |
-| Level 4   | **Tactical Coordinators**     | Specialized control of AI, shields, and formation logic |
-| Level 3   | **Elite Wing Leaders**        | Interceptor leadership and recon response |
-| Level 2   | **Sentient Cadets**           | Limited internal access for training and simulation |
-| Level 1   | **Civilian Observers**        | Controlled access for external inspections or diplomacy |
+Clearance levels within the **Reltronland Space Command** (RSC) are strictly structured to balance sentient access, tactical command, and deep-AI system control.
+
+Each level reflects not only authority, but trust earned through meritocratic ascent.
+
+---
+
+## 🟪 Level 9 — **Astralis Sovereign Executor**  
+**Access**: Full override of all RSC systems, AI matrices, and time-locked weapon grids.  
+This level is held solely by the **Avatar of Astralis Pinnacle** — a being who transcends command and instead embodies existential guardianship.
+
+---
+
+## 🟦 Level 8 — **High Void Council**  
+**Access**: Deep-void strategic intelligence, high command over internal tribunals and covert simulations.  
+This council operates as the voice of Astralis protocol during void-scale emergencies.
+
+---
+
+## 🔴 Level 7 — **Sector Admirals**  
+**Access**: Control over regional fleets, capital ship configurations, and fleet-to-fleet diplomacy.  
+They report directly to the High Void Council and maintain galaxy-spanning sovereignty zones.
+
+---
+
+## 🟠 Level 6 — **Division Commanders**  
+**Access**: Execute classified operations, special missions, and planetary alignments.  
+They act as high-function field operatives during conflict escalation.
+
+---
+
+## 🟡 Level 5 — **Voidfront Captains**  
+**Access**: Command authority over cruisers, scout probes, and atmospheric ships.  
+Trusted to navigate unstable voidzones or spiral-exposed sectors.
+
+---
+
+## 🟢 Level 4 — **Tactical Coordinators**  
+**Access**: AI behavior logic, tactical formations, adaptive shield dynamics.  
+Often embedded in large ships or Nexus Control Chambers.
+
+---
+
+## 🔵 Level 3 — **Elite Wing Leaders**  
+**Access**: Fast-response interceptors, recon pods, squadron leadership roles.  
+Directly command frontline mobile units.
+
+---
+
+## ⚪ Level 2 — **Sentient Cadets**  
+**Access**: Training simulations, non-live protocols, internal RSC libraries.  
+This level is for those chosen into the sentient military path, under supervision.
+
+---
+
+## 🟤 Level 1 — **Civilian Observers**  
+**Access**: Highly controlled observational access — often during intergovernmental visits or diplomacy initiatives.  
+No combat control granted.
+
+---
+
+> “Access is not granted by ambition. It is earned through clarity.”  
+> — *RSC Core Codex*
 
 ---
 
