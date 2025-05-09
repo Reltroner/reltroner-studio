@@ -24,7 +24,6 @@ However, it enforces **extremely strict boundaries** on its distribution and usa
 
 - Tobacco products are **available only** in certified Tier-1 supermarkets.
 - Each package contains **16 sticks**, priced at **$REL80** per pack.  
-  _(≈ $USD88 equivalent conversion)_
 - Buyers must show **digital biological ID** proving:
   - Minimum age of 28,
   - No medical dependencies,
