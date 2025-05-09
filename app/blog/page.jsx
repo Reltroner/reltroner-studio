@@ -423,9 +423,17 @@ const posts = [
     date: "2025-05-06",
     image: "/images/why-reltroner-real-entertainment.webp",
     published: true
+  },
+  {
+    title: "📄 Career Reality Statement",
+    description: "A public declaration of my professional situation and mindset during the global talent oversupply era.",
+    slug: "career-reality-statement",
+    author: "Rei Reltroner",
+    date: "2025-05-09",
+    published: true,
+    image: "/images/career-reality-statement.webp"
   }
   
-     
 ];
 
 export default function Blog() {

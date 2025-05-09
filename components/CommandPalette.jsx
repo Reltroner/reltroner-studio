@@ -108,6 +108,7 @@ export default function CommandPalette() {
     { name: "📦 Why Reltroner.com is Not Just a Sandbox", path: "/blog/why-reltroner-not-sandbox" },
     { name: "🌍 Why Reltroner is More Than Earth: The Ultimate Vision of Civilization Worldbuilding", path: "/blog/why-reltroner-more-than-earth" },
     { name: "🎭 Why Building Reltroner is My Only Real Entertainment", path: "/blog/why-reltroner-real-entertainment" },
+    { name: "📄 Career Reality Statement", path: "/blog/career-reality-statement" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
