@@ -186,6 +186,7 @@ export default function CommandPalette() {
     { name: "🏗️ RIDA — Reltronian Interplanetary Development Agency", path: "/organizations/rida" },
     { name: "🏦 SAVA — Sentient Asset Vault Authority", path: "/organizations/sava" },
     { name: "📊 CERA — Consciousness Economic Risk Authority", path: "/organizations/cera" },
+    { name: "📈 RXS 500 Index: Reltronland Exchange of Sentience", path: "/organizations/rxs-500" },
     // Places
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },

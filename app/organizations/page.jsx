@@ -95,6 +95,15 @@ const organizations = [
     author: "Rei Reltroner",
     published: true,
     image: "/images/cera.webp"
+  },
+  {
+    title: "📈 RXS 500 Index: Reltronland Exchange of Sentience",
+    description: "An SDI-weighted stock index that reflects not only financial strength, but sentient impact and clarity-driven innovation.",
+    slug: "rxs-500",
+    image: "/images/rxs-500.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-10",
+    published: true
   }
   
 ];
