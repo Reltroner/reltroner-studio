@@ -155,7 +155,7 @@ Welcome to the Forge.
 ## 🌐 Contact
 📮 Email: [edward5raidan54@gmail.com](mailto:edward5raidan54@gmail.com)  
 🧠 GitHub: [https://github.com/Reltroner](https://github.com/Reltroner/reltroner-studio.git) *(sample placeholder)*  
-🌌 Headquarters: Reltroner Tower, Astralis Avenue Street, Astralis Pinnacle District (RGD), Central Reltronepolis Municipality, Reltronepolis, Reltronland.
+🌌 Headquarters: Reltroner Tower, Astralis Avenue Street, Astralis Pinnacle District, Central Reltronepolis Municipality, Reltronepolis, Reltronland.
 
 ---
 

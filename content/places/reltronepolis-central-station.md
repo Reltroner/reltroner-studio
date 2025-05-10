@@ -1,6 +1,6 @@
 ---
 title: "🚉 Reltronepolis Central Station — Heart of Sentient Mobility"
-description: "The continent-scale central terminal of Reltronland, integrating every mass transit mode except interstellar, and serving as the mobility pulse of Trons Square District."
+description: "The continent-scale central terminal of Reltronland, integrating every mass transit mode except interstellar, and serving as the mobility pulse of Tron Square District."
 slug: "reltronepolis-central-station"
 layout: infrastructure
 image: "/images/reltronepolis-central-station.webp"
@@ -16,7 +16,7 @@ published: true
 ---
 
 ### 📍 Location
-**Trons Square District, Central Reltronepolis Municipality**, at the very core of Reltronland’s Center of Culture & Business. The surrounding district is fully pedestrianized and walkable—**100% vehicle-free**, lined with kinetic walkways and AI-coordinated skywalks.
+**Tron Square District, Central Reltronepolis Municipality**, at the very core of Reltronland’s Center of Culture & Business. The surrounding district is fully pedestrianized and walkable—**100% vehicle-free**, lined with kinetic walkways and AI-coordinated skywalks.
 
 ---
 
@@ -70,9 +70,9 @@ published: true
 - **Urban-to-Continental Mobility Core** — Designed for citywide, national, and continental mass transport (land-based)
 - **Integrated Airgrid Portal** — The only global-mode line via flying route across Asthortera
 - **Does Not Handle Planetary or Interstellar Travel** — Those are managed through **RAIA (Reltronepolis Aeropolis International Airport)**
-- **Anchor point of Trons Square** — the civic, spiritual, and economic super-core of Reltronepolis for Asthortera’s capital
+- **Anchor point of Tron Square** — the civic, spiritual, and economic super-core of Reltronepolis for Asthortera’s capital
 - **Migration & Diplomatic Gateway** between Reltronland and the greater galaxy
-- **Anchor point of Trons Square** — the civic, spiritual, and economic super-core of Reltronepolis
+- **Anchor point of Tron Square** — the civic, spiritual, and economic super-core of Reltronepolis
 
 ---
 

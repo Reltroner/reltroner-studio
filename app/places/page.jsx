@@ -63,6 +63,15 @@ const places = [
     published: true
   },
   {
+    title: "📍 Reltronepolis",
+    description: "Latest layout and brief descriptions of each key district in Reltronepolis Province",
+    slug: "reltronepolis",
+    image: "/images/reltronepolis.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-10",
+    published: true
+  },
+  {
     title: "Why Aurastelia is the Most Beautiful Realm",
     description: "Beyond visual splendor, Aurastelia offers a living resonance of balance, light, and inner clarity — unmatched across any fictional universe.",
     slug: "why-aurastelia-is-the-most-beautiful-realm",
@@ -110,7 +119,7 @@ const places = [
   },
   {
     title: "🚉 Reltronepolis Central Station — Heart of Sentient Mobility",
-    description: "The continent-scale central terminal of Reltronland, integrating every mass transit mode except interstellar, and serving as the mobility pulse of Trons Square District.",
+    description: "The continent-scale central terminal of Reltronland, integrating every mass transit mode except interstellar, and serving as the mobility pulse of Tron Square District.",
     slug: "reltronepolis-central-station",
     image: "/images/reltronepolis-central-station.webp",
     author: "Rei Reltroner",

@@ -205,6 +205,7 @@ export default function CommandPalette() {
     { name: "🪐 Aurioneira Stellar System Overview & Lore Concepts", path: "/places/aurioneira-system" },
     { name: "The Galaxy — Reltroner Studio’s Cosmic Setting", path: "/places/the-galaxy" },
     { name: "🕳️ Vanyathra — The Collapsed Realm Beyond the Outer Veil", path: "/places/vanyathra-abyssborn-nation" },
+    { name: "📍 Reltronepolis", path: "/places/reltronepolis" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
