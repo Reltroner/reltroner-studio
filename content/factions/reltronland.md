@@ -12,7 +12,7 @@ published: true
 ![reltronland3](/images/reltronland3.webp)
 ![reltronland4](/images/reltronepolis123.webp)
 
-## 🛡️ Faction Profile: Reltronland
+# 🛡️ Faction Profile: Reltronland
 
 ---
 
