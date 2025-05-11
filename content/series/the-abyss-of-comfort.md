@@ -7,6 +7,8 @@ date: "2025-04-04"
 published: true
 ---
 
+---
+
 # The Abyss of Comfort
 
 > *"Let Astralis light the unknown."*
@@ -64,6 +66,136 @@ This series defines Reltroner Studio’s core pillars:
 Explore the abyss.  
 Awaken the pinnacle.  
 Let Astralis light the unknown.
+
+---
+
+## 🌌 The Abyss of Comfort – Arc Map by Location
+
+This mobile-friendly arc map presents the core storyline of *The Abyss of Comfort*, structured around the key locations where major emotional and philosophical events take place. Each arc deepens the confrontation with Nytherion Abyss, guided by memory, trauma, and the refusal to surrender.
+
+---
+
+## 🧩 1. Amberglow Arc
+
+**Location:** Amberglow Forest, Penderglow, Pencilfania
+**Years:** 6–8 AC
+**Theme:** Erasure of existence and the first unraveling
+
+* Andy Elian vanishes due to Existential Corrosion.
+* Bruce Kalen becomes the sole emotional witness to a person the world no longer remembers.
+* Spiral symbols begin to manifest as visual glitches and reversed melodies.
+
+**Key Episodes:**
+
+* *The First Unraveling*
+* *The Vanishing Path*
+* *Smear in the Journal*
+
+> “The forest isn’t dark. But why does every memory fade?”
+
+---
+
+## 🕯️ 2. Leferlint Arc
+
+**Location:** Student city of Leferlint, Pencilfania
+**Years:** 7–10 AC
+**Theme:** Symbolism vs justice and the birth of resistance
+
+* Delwyn Hunson grows up surrounded by artistic expression but seeks hard truth instead.
+* He questions the city’s reliance on symbolism, choosing rational justice over poetic protest.
+* Begins forming an alliance with Barry and Isaac.
+
+**Key Episodes:**
+
+* *The Caged Bird Mural*
+* *Art Didn’t Save My Father*
+* *The Spiral Beneath the Paint*
+
+> “They draw dreams. I chase reality.”
+
+---
+
+## 🌊 3. Baythorne Arc
+
+**Location:** Baythorne, coast of Hargenbor Bay
+**Years:** 10–13 AC
+**Theme:** Ritual discovery, false comfort, and Henchoeway’s rise
+
+* Isaac detects spiral signals beneath the sea.
+* Discovery of abyssal ritual items: Veil of Stillness, Blue Pill Crystal, Hollow Echo Candles.
+* Kamila’s voice echoes for the first time in the minds of the team.
+
+**Key Episodes:**
+
+* *Ritual of the Abyss*
+* *The Diver’s Circle*
+* *Baythorne Mist*
+
+> “This city isn't a port. It’s an invitation.”
+
+---
+
+## 🕳️ 4. Heart of the Abyss Arc
+
+**Location:** Core-Eater & Spiral Maw, Nytherion Dimension
+**Years:** 13–15 AC
+**Theme:** Inner confrontation and existential collapse
+
+* The team falls into recursive illusions and personal trauma loops.
+* Kamila offers false peace: "You can rest now."
+* Delwyn’s scream breaks the cycle: “Then I’d rather die awake!”
+
+**Key Episodes:**
+
+* *Confronting Kamila*
+* *The Core That Breathes Back*
+* *Then I’d Rather Die Awake!*
+
+> “This isn’t a staircase. It’s a mouth pretending to be mercy.”
+
+---
+
+## 🌊 5. Tremora Trench Arc
+
+**Location:** Tremora Trench, offshore Hargenbor
+**Years:** 15–20 AC
+**Theme:** Memory warfare and abyssal sabotage
+
+* Barry and Isaac infiltrate the Henchoeway stronghold.
+* Discovery of Memory Pools and Blue Mist Broadcast systems.
+* Massive confrontation between Red Pill resistance and Henchoeway Divers.
+
+**Key Episodes:**
+
+* *Diving into Stillness*
+* *The Song of Silent Archives*
+* *Let Memory Burn the Abyss*
+
+> “If you forget everything… what’s left to fight for?”
+
+---
+
+## 🔺 6. Astralis Legacy Arc
+
+**Location:** Spiral Gate ruins & post-abyssal territories
+**Years:** 21–25 AC
+**Theme:** Spiritual inheritance and post-trauma rebuilding
+
+* The Red Sigil of Astralis is discovered still burning deep within the collapsed abyss.
+* Delwyn recognizes it as Rei Reltroner’s gift across time.
+* The Spiral no longer grows — it has been starved, not slain.
+
+**Key Episodes:**
+
+* *The Sigil that Remembers*
+* *We Didn’t Defeat It — We Starved It*
+* *Legacy of Resistance Returns*
+
+> “The abyss remembers who walked through… and who walked out.”
+
+---
+
+Let Astralis light the unknown. Let memory rewrite the forgotten.
 
 ---
 
