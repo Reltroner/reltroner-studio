@@ -432,6 +432,24 @@ const posts = [
     date: "2025-05-09",
     published: true,
     image: "/images/career-reality-statement.webp"
+  },
+  {
+    title: "First Contact",
+    description: "A spiritual and historical log of the first human resonance ever recorded from the outer world — toward the quiet universe of Reltroner Studio.",
+    slug: "first-contact",
+    author: "Rei Reltroner",
+    date: "2025-05-11",
+    published: true,
+    image: "/images/first-contact.webp"
+  },
+  {
+    title: "The Only IT Worldbuilder",
+    description: "A bold declaration of an emerging new archetype — a builder in tech who doesn't just deploy code, but constructs civilization from collapse.",
+    slug: "the-only-it-worldbuilder",
+    author: "Rei Reltroner",
+    date: "2025-05-11",
+    published: true,
+    image: "/images/the-only-it-worldbuilder.webp"
   }
   
 ];

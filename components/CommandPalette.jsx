@@ -109,6 +109,8 @@ export default function CommandPalette() {
     { name: "🌍 Why Reltroner is More Than Earth: The Ultimate Vision of Civilization Worldbuilding", path: "/blog/why-reltroner-more-than-earth" },
     { name: "🎭 Why Building Reltroner is My Only Real Entertainment", path: "/blog/why-reltroner-real-entertainment" },
     { name: "📄 Career Reality Statement", path: "/blog/career-reality-statement" },
+    { name: "First Contact", path: "/blog/first-contact" },
+    { name: "The Only IT Worldbuilder", path: "/blog/the-only-it-worldbuilder" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
