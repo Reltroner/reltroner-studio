@@ -48,6 +48,22 @@ The legal and licensing division managing intellectual property, trademarks, and
 
 ---
 
+### 5. **Reltroner F\&B (Food & Being)**
+
+The culinary and immersive food division that bridges the world of fiction with real-world taste and sensory experiences. Centered around the ByteBite universe.
+
+* **Key Role:** Culinary IP development, food brand franchising, sentient nutrition simulation
+* **Output:** ByteBite, GlowTea+, PlantByte Labs, VoidNight Dessert Bar
+* **Highlights:**
+
+  * ByteBite Cafeteria™ (flagship immersive dining)
+  * ByteByte Express™ (pop-up grab-and-go)
+  * *VoidKitchen* AI-powered monthly test menus
+
+> *“Fuel for Sentience. Taste the logic of Reltronland.”*
+
+---
+
 ## Future Possibilities
 
 - **Reltroner EDU:** A learning platform that teaches storytelling, visual world-building, and red pill awareness based on the Asthortera universe.
@@ -64,5 +80,5 @@ Reltroner Studio Holdings serves as the manifestation of Astralis Pinnacle in or
 
 ---
 
-**Last updated:** 2025-04-05  
+**Last updated:** 2025-05-11  
 **Author:** Rei Reltroner

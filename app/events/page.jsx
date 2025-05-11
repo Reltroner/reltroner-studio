@@ -89,6 +89,15 @@ const events = [
     image: "/images/aurastelia-astrostelia.webp"
   },
   {
+    title: "Root of Reltroner",
+    description: "The existential and emotional origin of Reltroner — a nation born not from triumph, but from collapse, solitude, and obsessive observation.",
+    slug: "root-of-reltroner",
+    author: "Rei Reltroner",
+    date: "2025-05-11",
+    published: true,
+    image: "/images/root-of-reltroner.webp"
+  },
+  {
     title: "When Raina Read The Letter",
     description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words.",
     slug: "when-raina-read-the-letter",

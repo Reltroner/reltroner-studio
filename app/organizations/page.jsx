@@ -104,6 +104,15 @@ const organizations = [
     author: "Rei Reltroner",
     date: "2025-05-10",
     published: true
+  },
+  {
+    title: "🍔 ByteBite — Reltronland's Largest Fast Food Network",
+    description: "An overview of ByteBite, the massive AI-powered fast food empire born from the heart of Reltronland.",
+    slug: "bytebite",
+    date: "2025-05-11",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/bytebite-poster.webp"
   }
   
 ];

@@ -161,6 +161,7 @@ export default function CommandPalette() {
     { name: "🌌 Why Asthortera's Sky Is Often Moonless: A Reflection on Space, Time, and Trust", path: "/events/asthortera-moonless-sky" },
     { name: "Origins of Aurastelia and Astrostelia", path: "/events/aurastelia-astrostelia" },
     { name: "🎖️ The Crimson Hour of Vanyathra", path: "/events/vanyathra-ground-war" },
+    { name: "Root of Reltroner", path: "/events/root-of-reltroner" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
@@ -187,6 +188,7 @@ export default function CommandPalette() {
     { name: "🏦 SAVA — Sentient Asset Vault Authority", path: "/organizations/sava" },
     { name: "📊 CERA — Consciousness Economic Risk Authority", path: "/organizations/cera" },
     { name: "📈 RXS 500 Index: Reltronland Exchange of Sentience", path: "/organizations/rxs-500" },
+    { name: "🍔 ByteBite — Reltronland's Largest Fast Food Network", path: "/organizations/bytebite" },
     // Places
     { name: "Eterna Ruin", path: "/places/eterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },

@@ -7,6 +7,8 @@ published: true
 image: "/images/the-galaxy.webp"
 ---
 
+---
+
 # 🌌 The Galaxy — Reltroner Studio’s Cosmic Setting
 
 > *“A galaxy is not defined by stars alone, but by the sentient truths it dares to hold.”*
