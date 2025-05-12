@@ -69,11 +69,41 @@ Before becoming a nation, the region now known as Stelpadland was an untamed woo
 * **Motto:** *"Strength in Simplicity, Wisdom in the Wild."*
 * **Currency:** \$ST — Stelpadland Timbermark, crafted from magically-treated wood.
 
-### Cultural Landscape
+---
 
-* **Evercotage** — Capital and home of the **Grand Scout Council**.
-* **Timbersteput** — Craftsmanship city of premium furniture and carved tools.
-* **Frosteberg** — Sacred grove for seasonal rituals and climate balancing.
+## 🎎 Cultural Identity and Traditions
+
+Stelpadland’s national identity is a synthesis of deep ecological wisdom, generational scouting traditions, and the eternal symbolism of autumn. Culture is built not around conquest or industry—but around patience, mentorship, and sacred routines.
+
+### 🌕 Maplemoon Night Festival
+
+Held annually at the peak of the autumnal cycle, the Maplemoon Night is a spiritual and social celebration marked by:
+
+* **Lantern Walks** through forest trails with hand-carved wooden lanterns.
+* **Chants of the Old Grove**, sung by children and elders together in Dendrilis harmony.
+* **Woodcraft Competitions**, showcasing symbolic carvings of the year's lessons and hopes.
+
+### ⛺ Grand Scout Jamboree (Every 3 Years)
+
+A legendary pan-national gathering of youth scouts and elder mentors, involving:
+
+* **Survival Challenges** in the wild terrains of Stelpadland.
+* **The Ritual of Knots**—a spiritual ceremony binding memory, gratitude, and responsibility.
+* **Mystic Trail Quests** blending mapcraft, natural magic, and decision-making.
+
+### 🪵 Artisan Life and Forest Etiquette
+
+* Most structures are crafted from **non-harvested fallen trees**.
+* Citizens learn **tree listening** and **stone whispering** from childhood.
+* All youth must complete a **Year of Living Without Iron**—a rite of passage using only wooden and natural tools.
+
+### 🍂 Philosophical Beliefs
+
+* **“Every leaf is a vow.”** This idiom reminds citizens that growth must come with humility.
+* Scouts believe that **autumn is the highest form of life**—not death, but beauty before renewal.
+* Written laws are minimal; most civic rules are passed through **memory chants** and **seasonal oaths**.
+
+> “We do not rush, for even the falling leaf knows when to land.” — Forest Saying
 
 ---
 
@@ -84,13 +114,33 @@ Stelpadland is governed by the **Council of Scouts**, led by the **High Scoutmas
 * Decisions are made through consensus in open air assemblies.
 * Policies favor sustainability, environmental reverence, and decentralized community living.
 
-### Population Composition
+---
 
-* 62% — Depeisit-origin humans
-* 20% — Cistheta-origin humans
-* 8% — Native Asthorterans
-* 5% — Cosmeilia mixed bloodlines
-* 5% — Dendrilis and other nature-bound sentients
+## 📊 Key National Data
+
+* **Population:** 91 billion sentient beings
+
+  * 62% — Humans descended from Depeisit
+  * 20% — Humans of Cistheta lineage
+  * 6% — Native Asthorterans (Human-Wizard-Witch)
+  * 5% — Cosmeilia Cosmic Races and mixed bloodlines
+  * 5% — Dendrilis and other forest-linked species
+
+* **Land Area:** 200 million km²
+
+* **Capital:** **Evercotage** — Scouting capital and seat of the Grand Scout Council, built among ancient maple trees using timber centuries old.
+
+* **Craftsmanship City:** **Timbersteput** — hub of fine woodworking and magical woodcrafts.
+
+* **Ritual City:** **Frosteberg** — sacred zone for maintaining climate balance and performing seasonal rites.
+
+* **Currency:** **\$ST (Stelpadland Timbermark)** — thin, enchanted wooden coins engraved with protective runes.
+
+* **Government System:** *Council of Scouts* — led by a **High Scoutmaster**, joined by forest elders, scout leaders, and Dendrilis delegates.
+
+* **SDI:** 0.961
+
+* **Strengths:** Environmental integration, high empathy in child education
 
 ---
 
