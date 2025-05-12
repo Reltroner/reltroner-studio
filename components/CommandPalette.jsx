@@ -260,6 +260,7 @@ export default function CommandPalette() {
     { name: "Reltronball & Depcutball: Bureaucracy Bros", path: "/factions/bureaucracy-bros" },
     { name: "Cenrestier Country Profile — Land of Fortresses", path: "/factions/cenrestier-country-profile" },
     { name: "Kalgered Country Profile — The Neutral Heart of Asthortera", path: "/factions/kalgered-country-profile" },
+    { name: "Stelpadland Country Profile — Cradle of Global Scouting and Eternal Autumn", path: "/factions/stelpadland" },
 
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },

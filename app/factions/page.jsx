@@ -78,7 +78,17 @@ const factions = [
     tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelhaven"],
     author: "Rei Reltroner",
     published: true
-  },  
+  },
+  {
+    title: "Stelpadland — Cradle of Global Scouting and Eternal Autumn",
+    description: "The founding, legacy, and unique cultural identity of Stelpadland—an Asthorteran nation born from ancient roots, where scouting wisdom and harmony with nature endure forever.",
+    slug: "stelpadland",
+    author: "Rei Reltroner",
+    date: "2025-05-13",
+    tags: ["Stelpadland", "Asthortera", "Worldbuilding", "Scouting", "Reltroner Studio"],
+    published: true,
+    image: "/images/stelpadland.webp"
+  },
   {
     title: "Henchoeway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",

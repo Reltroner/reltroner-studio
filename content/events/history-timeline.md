@@ -100,6 +100,18 @@ This divergence is the **seed of two luminous nations**, not in opposition—but
 
 ---
 
+## 🍁 Stelpadland Founding Origins
+
+In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human born before the arrival of Depeisit and Cistheta settlers—departed from his hometown **Stelhaven** to explore the uncharted eastern forests. His goal was not conquest, but cultivation of inner strength through survival, peace, and wisdom in the wilderness.
+
+### 📈 Growth into National Identity
+
+* Between 2750–2100 BAC, wooden cities emerged—camouflaged into nature, never disrupting canopy flows.
+* Culture of ritual, scouting, wooden arts, and mysticism solidified.
+* No recorded wars. Defensive magic and geographic isolation kept Stelpadland free from invasion.
+
+---
+
 ## 🌌 Intergalactic Contact Era
 
 **1673 BAC** — *Depeisit-Cistheta Pact*
@@ -186,6 +198,8 @@ This divergence is the **seed of two luminous nations**, not in opposition—but
 **1008 BAC** — *Interplanetary Transit Accord*
 
 **983 BAC** — *📜 The Stelhaven(Kalgered) Accord*
+
+**974 BAC** — *Reltronland began sending candidates to train under the “Stetson Codes.”*
 
 **967 BAC** — *Clarity Transport Manifesto*
 
