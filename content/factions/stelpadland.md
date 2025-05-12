@@ -302,3 +302,76 @@ Though he passed centuries ago, Scot Stetson is revered not as a king, but as a 
 ---
 
 Let Astralis light the trails of the past—and guide the scouts of tomorrow.
+
+---
+
+# 🍁 Stelpadland — Inspired by Canada, Built for Asthortera
+
+> “Not a copy, not a claim — but a soul translation.”
+
+---
+
+## 🌲 Why Canada?
+
+From my earliest memories, I’ve been mesmerized by the landscapes of Canada:
+
+* Towering forests in calm silence
+* Lakes that hold reflections deeper than sky
+* Autumns that burn gently, not loudly
+
+It wasn’t about politics or economics. It was something quieter.
+**A serenity. A discipline. A dignity in stillness.**
+
+---
+
+## 🔥 From Admiration to Manifestation
+
+I didn’t want to be Canadian.
+I wanted to **honor what I felt** through the only language I truly own: **worldbuilding.**
+
+So I created **Stelpadland**, a sovereign nation in Asthortera:
+
+* Founded in eternal autumn
+* Governed by scouts, not politicians
+* Built from fallen timber, not conquest
+* Protected not by weapons, but by memory
+
+It is my **personal echo** of what I saw in Canada — translated through my worldview.
+
+---
+
+## 💡 Is It a Copy?
+
+No.
+
+* Stelpadland is not Canada.
+* It uses a maple leaf — but not Canada’s leaf.
+* It respects silence — but speaks with its own forest chants.
+
+It is like music:
+
+> *If Canada is the original melody, Stelpadland is my reinterpretation in another key.*
+
+---
+
+## 🛡️ Creative Integrity & Respect
+
+I believe in ethical worldbuilding.
+So I declare openly:
+
+* The maple leaf I use is **not a national emblem of Canada**, but a **universal natural symbol**.
+* This is not a claim, parody, or replica.
+* This is **a tribute — expressed through fiction, philosophy, and design.**
+
+---
+
+## 🌍 When Fiction Preserves Real Beauty
+
+> Some people take from what they admire.
+> I build to honor it — so it can live in a new world, untouched by politics or commerce.
+
+That’s what Stelpadland is:
+A *living poem* inspired by a nation I’ve never been to,
+but whose soul helped me build my own.
+
+Let Astralis light the maple trails.
