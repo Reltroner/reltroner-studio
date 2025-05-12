@@ -144,6 +144,72 @@ Stelpadland is governed by the **Council of Scouts**, led by the **High Scoutmas
 
 ---
 
+## 🏫 Oakcottage and Whispergrove Region
+
+### 🌳 Oakcottage Headquarters
+
+* **Founded:** Year 1812 BAC
+* **Location:** Whispergrove Forest, East Scotpaders, Stelpadland
+* **Affiliation:** Ministry of Education & Character Formation
+
+Oakcottage is Stelpadland’s most iconic scouting institution, blending leadership, survival, and spiritual training into sacred rites of passage. Structured around mentorship, Oakcottage consists of four major divisions:
+
+* *Forest Scouts* (wilderness survival)
+* *Mind Scouts* (resilience and philosophy)
+* *Techwood Scouts* (adaptation and innovation)
+* *Echo Scouts* (memory preservation and abyssal resistance)
+
+Ranks evolve from Initiate to Spiritleaf, with the latter considered a national honor. Oakcottage graduates have become reformers, peacemakers, and even resistors of Henchoeway's ideological influence.
+
+> “We remember even what the world forgets.”
+
+### 🍂 Whispergrove Forest
+
+* **Type:** Sacred Autumnal Forest & Nytherion-sensitive Zone
+* **Status:** Level-4 Cultural and Ecological Heritage Site
+
+Whispergrove Forest surrounds Oakcottage and is deeply intertwined with Stelpadland's emotional and metaphysical memory. Known for memory echoes, ethereal whispers, and spiritual phenomena, it holds legends of Georger Woodman's disappearance and Franklin Scouter’s emotional inquiries.
+
+Key landmarks:
+
+* *The Spiral Tree* – spiritual resonance site
+* *Mirror Creek* – anomaly of visual reflection
+* *The Erased Trail* – feared but sacred mystery path
+
+> “The forest sings what the world is too loud to hear.”
+
+### 🌊 Llyn Geda – The Lake of Silent Witness
+
+Located at the edge of Whispergrove, this lake reflects not just image but soul. Used for annual scout meditations, it responds to grief, memory, and unresolved echoes. It is the last recorded location of Georger Woodman.
+
+Phenomena:
+
+* *Stillness Veil* – emotional vision state
+* *Memory Pulse* – physical ripple echo
+* *Vanishing Echo* – voices from the deep
+
+> “Still water holds the loudest grief.”
+
+These three sacred sites form the emotional and philosophical heart of Stelpadland, making it not only a nation of scouts—but also of remembrance.
+
+---
+
+## 🧍‍♂️ Notable Figures of Stelpadland
+
+### 🌲 Franklin Scouter — Senior Scout Mentor
+
+A grounded and principled leader of Oakcottage, Franklin is known for his spiritual steadiness and his deep connection to Whispergrove. Although the world has forgotten Georger Woodman due to Nytherion Abyss, Franklin continues to feel a hollow void he cannot explain. He leads quiet investigations into memory anomalies and is considered by some to be a "Red Pill Channeler"—able to feel erased resonance.
+
+> “There’s a name stuck in my heart, though I’ve never heard it before.”
+
+### 🔥 Georger Woodman — The Forgotten Flame
+
+Once the most beloved Scout influencer in Asthortera, Georger blended Oakcottage philosophy with visual creativity. His controversial fall and eventual disappearance into the Whispergrove triggered a full erasure by Nytherion Abyss. Only a faint “GW” remains inscribed in a Scout manual.
+
+> “Maybe I just wanted to be remembered for something that mattered.”
+
+---
+
 ## 🔗 Strategic Relations with Reltronland and Depcutland
 
 ### 🤝 With Reltronland
