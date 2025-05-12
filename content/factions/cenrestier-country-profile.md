@@ -50,7 +50,7 @@ Although Cenrestier is not expansionist, it maintains a highly trained **Defensi
 ### 🧭 **Geopolitical Relations**
 
 - **Allied with:** **Aurastelia**, **Reltronland**, and **Pencilfania** through the **Continental Memory Accord**
-- **Neutral with:** **Welshoria**, **Thunderida**, and **Chosdia**
+- **Neutral with:** **Welshenia**, **Temprofser**, and **Neoreides**
 - **Historic Rivalry:** **Kalgered** (due to architectural disputes and fortress sovereignty conflicts in the southern border)
 
 ---
