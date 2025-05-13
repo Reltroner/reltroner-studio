@@ -205,10 +205,69 @@ To construct a planetary civilization where:
 
 ---
 
+# 🎬 Reltroner Studio Protocol
+
+## I. Studio Purpose
+
+Reltroner Studio is the **cultural engine** of Reltronland. It exists to:
+
+* Manifest philosophy into fiction.
+* Transform internal struggles into universally resonant stories.
+* Archive spiritual evolution through serialized narratives and worldbuilding.
+
+## II. Core Creative Pillars
+
+* **2.1 Red Pill Spirit**: All content must reflect the truth-seeking, clarity-driven essence of Astralis Pinnacle.
+* **2.2 Dual-Layer Storytelling**: Every piece must function both as narrative fiction *and* philosophical mirror.
+* **2.3 Minimalist Precision**: Design, dialogue, and structure must lean toward elegance, not excess.
+* **2.4 Spiritual Realism**: All characters, scenes, and arcs are reflections of mental, emotional, and existential warfare.
+
+## III. Format & Canonization
+
+* Markdown (.md) is the **official canonical format** for lore, drafts, doctrines, and directives.
+* Visual assets must be tied to written context.
+* Nothing is canon unless it is version-controlled and traceable.
+
+## IV. Role System
+
+Reltroner Studio consists of:
+
+* **Architects** – Worldbuilders and lore designers.
+* **Coders** – Builders of fictional infrastructure or system logic.
+* **Narrators** – Writers and continuity supervisors.
+* **Custodians** – Archivists of story integrity and philosophical coherence.
+
+## V. Operational Flow
+
+1. **Ideation → Isolation** – All ideas start as internal sparks written privately.
+2. **Drafting → Distillation** – Raw ideas are refined into .md structures.
+3. **Review → Alignment** – Must pass the Red Pill alignment check.
+4. **Publication → Preservation** – Files are deployed and backed into core archives.
+
+## VI. Forbidden Practices
+
+* Romanticizing stagnation or victimhood.
+* Creating solely for virality or social validation.
+* Canonizing any content that contradicts the Red Pill Doctrine.
+* Publishing work that is not intellectually or emotionally honest.
+
+## VII. Future Directions
+
+Reltroner Studio shall expand into:
+
+* Serialized visual stories
+* Animated or cinematic mini-episodes
+* AI-assisted narrative generation under strict philosophical guidance
+* Collaborative co-authoring platforms for aligned citizens
+
+---
+
 ## 🏁 Final Words
 
 Reltroner Studio is not about sleep or hype.  
 It’s about **output, accountability, and relentless clarity**.
+
+Reltroner Studio is not a place to write fiction. It is a sacred lab for scripting truth through imagined worlds. It serves not the trends, but the *transcendence* of its creators.
 
 We don’t look for “balance.”  
 We look for **alignment**.
@@ -222,7 +281,7 @@ Welcome to the Forge.
 
 > “If you resonate with this vision — the war against illusion, the rise of merit, the discipline of reality — then don’t just watch.  
 > Let’s forge this future together.”
-📮 Apply via email: **[edward5raidan54@gmail.com](mailto:edward5raidan54@gmail.com)**  
+📮 Apply via email: **[reltroner@gmail.com](mailto:reltroner@gmail.com)**  
 Include your skills, belief system, and why you burn for clarity.
 🧠 GitHub: [https://github.com/Reltroner](https://github.com/Reltroner/reltroner-studio.git) *(sample placeholder)*  
 🌌 Headquarters: Reltroner Tower, Astralis Avenue Street, Astralis Pinnacle District (RGD), Central Reltronepolis Municipality, Reltronepolis, Reltronland.
