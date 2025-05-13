@@ -110,6 +110,16 @@ const cultures = [
     published: true
   },
   {
+    title: "Culinary Rituals of Stelpadland",
+    description: "A deep look into the food culture of Stelpadland—where meals are seasonal ceremonies, salmon is smoked in silence, and even tea holds the memory of forests.",
+    slug: "stelpadland-culinary",
+    author: "Rei Reltroner",
+    date: "2025-05-14",
+    tags: ["Stelpadland", "Culinary Lore", "Worldbuilding", "Nature Rituals", "Cultural Food"],
+    image: "/images/stelpadland-culinary.webp",
+    published: true
+  },
+  {
     title: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto",
     description: "A deconstruction of outdated tropes by Asthortera’s mature philosophy of sentient connection.",
     slug: "anti-klise-gender-friendship",

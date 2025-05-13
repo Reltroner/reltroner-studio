@@ -142,6 +142,7 @@ export default function CommandPalette() {
     { name: "Music Culture of Depcutland", path: "/cultures/depcutland-music" },
     { name: "Music Culture of Reltronland", path: "/cultures/reltronland-music" },
     { name: "The Timber Soul of Stelpadland", path: "/cultures/timber-soul-stelpadland" },
+    { name: "Culinary Rituals of Stelpadland", path: "/cultures/stelpadland-culinary" },
     { name: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto", path: "/cultures/anti-klise-gender-friendship" },
     { name: "Aurora Faith of Aurastelia", path: "/cultures/aurora-faith" },
     { name: "Gender Friendship Manifesto of Asthortera", path: "/cultures/gender-friendship-manifesto" },
