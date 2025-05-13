@@ -34,9 +34,9 @@ If you’re a recruiter, collaborator, or company owner interested in working wi
 
 You can contact me through the following channels:
 
-📧 **reltroner@gmail.com**  
-💻 [github.com/Reltroner](https://github.com/Reltroner)  
-🌐 [reltroner.com](https://www.reltroner.com/)  
+📧 **[reltroner@gmail.com](mailto:reltroner@gmail.com)**  
+💻 **[github.com/Reltroner](https://github.com/Reltroner)**  
+🌐 **[reltroner.com](https://www.reltroner.com/)**  
 
 ---
 

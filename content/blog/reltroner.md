@@ -284,7 +284,7 @@ Welcome to the Forge.
 📮 Apply via email: **[reltroner@gmail.com](mailto:reltroner@gmail.com)**  
 Include your skills, belief system, and why you burn for clarity.
 🧠 GitHub: [https://github.com/Reltroner](https://github.com/Reltroner/reltroner-studio.git) *(sample placeholder)*  
-🌌 Headquarters: Reltroner Tower, Astralis Avenue Street, Astralis Pinnacle District (RGD), Central Reltronepolis Municipality, Reltronepolis, Reltronland.
+🌌 Headquarters: Reltroner Tower, Astralis Avenue Street, Astralis Pinnacle District, Central Reltronepolis Municipality, Reltronepolis, Reltronland.
 
 ---
 
