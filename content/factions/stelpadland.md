@@ -122,7 +122,7 @@ Stelpadland is governed by the **Council of Scouts**, led by the **High Scoutmas
 
   * 62% — Humans descended from Depeisit
   * 20% — Humans of Cistheta lineage
-  * 6% — Native Asthorterans (Human-Wizard-Witch)
+  * 8% — Native Asthorterans (Human-Wizard-Witch)
   * 5% — Cosmeilia Cosmic Races and mixed bloodlines
   * 5% — Dendrilis and other forest-linked species
 

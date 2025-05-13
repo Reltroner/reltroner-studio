@@ -100,6 +100,16 @@ const cultures = [
     image: "/images/aurora-faith.webp"
   },
   {
+    title: "The Timber Soul of Stelpadland",
+    description: "A cultural deep dive into Stelpadland’s sacred woodcraft — where every tree is memory, every furniture is legacy, and every act of reboisation is a vow of harmony.",
+    slug: "timber-soul-stelpadland",
+    author: "Rei Reltroner",
+    date: "2025-05-14",
+    tags: ["Stelpadland", "Timber Culture", "Worldbuilding", "Nature Integration", "Cultural Lore"],
+    image: "/images/timber-soul-stelpadland.webp",
+    published: true
+  },
+  {
     title: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto",
     description: "A deconstruction of outdated tropes by Asthortera’s mature philosophy of sentient connection.",
     slug: "anti-klise-gender-friendship",
