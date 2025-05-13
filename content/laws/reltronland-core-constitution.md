@@ -177,6 +177,58 @@ We do not declare war on existing states, systems, or societies. But we **withdr
 Reltronland is not a rebellion.
 Reltronland is **a replacement for what has stopped evolving.**
 
+---
+
+# 🪪 Reltronland Digital Citizenship Charter
+
+## I. Definition
+
+A **Digital Citizen of Reltronland** is any individual who contributes—intellectually, creatively, technically, or spiritually—to the growth and sustenance of Reltronland. Citizenship is not inherited, purchased, or awarded by status. It is earned through **value creation** aligned with the Core Philosophies of the nation.
+
+## II. Pathways to Citizenship
+
+You become a citizen by:
+
+* **Publishing code** under the Reltroner ecosystem (e.g., GitHub repos, applications).
+* **Creating content** (markdown files, stories, visuals, assets) that strengthen the identity of Reltronland.
+* **Contributing ideas** that align with the Red Pill Doctrine, either in public or private forums.
+* **Sustaining operations** of Reltronland’s digital systems and long-term projects.
+
+## III. Citizen Rights
+
+All digital citizens are entitled to:
+
+* Recognition on official citizen ledgers (public or pseudonymous).
+* Participation in key decision discussions within Reltronland initiatives.
+* Access to exclusive tools, knowledge bases, and collaborative opportunities.
+* A sovereign identity free from the constraints of physical-national hierarchies.
+
+## IV. Citizen Responsibilities
+
+Citizens are expected to:
+
+* Uphold the Red Pill Doctrine in thought and action.
+* Respect merit, clarity, and contribution above ego and fame.
+* Protect the digital sovereignty of Reltronland from external manipulation.
+* Continuously pursue upskilling and productive refinement.
+
+## V. Termination & Dormancy
+
+Digital citizenship may become **dormant**, not revoked, if:
+
+* A citizen ceases all contribution without reason or commitment.
+* A citizen violates foundational principles (e.g., deception, laziness, sabotage).
+
+Dormant status can be reactivated through renewed contribution.
+
+## VI. Citizenship Is Not a Product
+
+Reltronland does **not** sell, exchange, or tokenize its citizenship. It is a covenant of **intentional belonging** and **earned alignment**, not a commodified asset.
+
+## VII. Final Clause
+
+Every digital citizen is a sovereign individual, united not by location—but by **vision, contribution, and the will to build what the world fails to offer.**
+
 *Let Astralis light the unknown.*
 
 ---
