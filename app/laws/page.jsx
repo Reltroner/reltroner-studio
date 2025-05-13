@@ -135,6 +135,16 @@ const laws = [
     published: true
   },
   {
+    title: "Stelpadland — Governance and Creed",
+    description: "An exploration into the spiritual eco-meritocracy of Stelpadland — where leadership grows from the soil, not from ambition.",
+    slug: "stelpadland-governance",
+    author: "Rei Reltroner",
+    date: "2025-05-14",
+    tags: ["Stelpadland", "Governance", "Worldbuilding", "Spiritual Leadership", "Eco-Meritocracy"],
+    image: "/images/stelpadland-governance.webp",
+    published: true
+  },
+  {
     title: "📜 The Stelhaven(Kalgered) Accord (983 BAC)",
     description: "The foundational legal framework of globalized civilization in Asthortera—governing international military cooperation, trade, diplomacy, and legal harmonization.",
     slug: "stelhaven-accord-983",

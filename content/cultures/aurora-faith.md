@@ -8,6 +8,8 @@ published: true
 image: "/images/aurora-faith.webp"
 ---
 
+---
+
 # 🌌 Aurora Faith of Aurastelia
 
 **Aurora Sancta** is the official spiritual philosophy and cultural backbone of the nation of **Aurastelia**, guided by the luminous stewardship of **Queen Valethra Seraphine Lunara**.  

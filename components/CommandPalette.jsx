@@ -281,6 +281,7 @@ export default function CommandPalette() {
     { name: "📜 Galactic Alignment Treaty", path: "/laws/galactic-alignment-treaty"},
     { name: "📜 SDI Code Violation - Article 1.7.2", path: "/laws/sdi-code-1.7.2"},
     { name: "🛑 Reltronland Forbidden Substances & Narcotics Regulation Act", path: "/laws/reltronland-narcotics-regulation"},
+    { name: "Stelpadland — Governance and Creed", path: "/laws/stelpadland-governance"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
