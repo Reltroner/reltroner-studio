@@ -165,12 +165,27 @@ And in each deployment, I embed philosophies that fiction could never enforce �
 
 ## V. What Makes Me Different
 
-| Trait        | Traditional Worldbuilder | Reltroner                  |
-| ------------ | ------------------------ | -------------------------- |
-| Core Output  | Maps, races, lore        | Systems, apps, economies   |
-| Endgame      | Storytelling             | Real-world execution       |
-| Value System | Wonder, escape           | Clarity, structure, growth |
-| Medium       | Art, fantasy             | IT, markdown, full-stack   |
+#### 🧩 Trait: Core Output
+- **Traditional Worldbuilder:** Maps, races, lore  
+- **Reltroner:** Systems, apps, economies
+
+---
+
+#### 🎯 Trait: Endgame
+- **Traditional Worldbuilder:** Storytelling  
+- **Reltroner:** Real-world execution
+
+---
+
+#### 💡 Trait: Value System
+- **Traditional Worldbuilder:** Wonder, escape  
+- **Reltroner:** Clarity, structure, growth
+
+---
+
+#### 🛠️ Trait: Medium
+- **Traditional Worldbuilder:** Art, fantasy  
+- **Reltroner:** IT, markdown, full-stack
 
 ## VI. My Vision
 
