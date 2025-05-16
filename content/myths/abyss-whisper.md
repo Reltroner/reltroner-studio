@@ -7,9 +7,9 @@ published: true
 date: "2025-04-11"
 ---
 
-# 🕯️ The Abyss Whisper
-
 ---
+
+# 🕯️ The Abyss Whisper
 
 ## 🌌 Overview
 The **Abyss Whisper** is a mythos from ancient Asthortera, passed down through fragmented echoes found in ruins, memory scrolls, and subconscious inscriptions. It is said to be the first audible distortion that birthed the Nytherion Abyss — **a whisper so subtle and ancient, no civilization could trace its source.**

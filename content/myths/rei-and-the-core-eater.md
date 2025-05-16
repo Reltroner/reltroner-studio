@@ -7,6 +7,8 @@ image: "/images/rei-and-the-core-eater.webp"
 published: true
 ---
 
+---
+
 # The Moment Rei Realized the Stair Was Not a Stair
 
 It was supposed to be just another spiral — one of many that defined the lower structure of the Abyss Core. Rei had descended dozens of these paths before: rusted, silent, geometrically perfect.

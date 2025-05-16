@@ -7,6 +7,10 @@ date: "2025-04-20"
 published: true
 ---
 
+---
+
+# 🌀 The Spiral Maw
+
 > _“The Spiral is not a design. It’s a hunger pretending to be direction.”_  
 > — Rei Reltroner
 

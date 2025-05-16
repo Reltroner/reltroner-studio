@@ -7,9 +7,9 @@ published: true
 date: "2025-04-11"
 ---
 
-# ✴️ The 5 Awakening Signals
-
 ---
+
+# ✴️ The 5 Awakening Signals
 
 ## 🌌 Overview
 The **5 Awakening Signals** are a set of legendary pulses — both metaphorical and metaphysical — that are believed to occur **before massive paradigm shifts** in Asthortera’s timeline. Each signal emerges not from the stars, but from within sentient beings across the planet, resonating through civilizations as a **warning, challenge, or opportunity.**

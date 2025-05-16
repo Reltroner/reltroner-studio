@@ -9,7 +9,9 @@ image: "/images/abyss-heart.webp"
 published: true
 ---
 
-## 🕳️ Heart of the Abyss
+---
+
+# 🕳️ Heart of the Abyss
 
 > *“This is where time doesn’t flow, memory loops endlessly, and pain is the only light that remains.”*
 

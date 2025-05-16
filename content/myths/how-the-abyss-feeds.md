@@ -8,6 +8,10 @@ published: true
 tags: ["nytherion abyss", "abyssal lore", "blue pill", "existential horror", "reltroner studio"]
 ---
 
+---
+
+# 🕳️ How the Abyss Feeds
+
 > _"The Abyss does not kill. It consumes. And what it consumes is your will to resist."_
 
 ---

@@ -6,7 +6,9 @@ image: "/images/abyssal-possession.webp"
 published: true
 ---
 
-## 🔍 What Is Abyssal Possession?
+---
+
+# 🔍 What Is Abyssal Possession?
 
 **Abyssal Possession**, also called **Spiral Inhabitation**, is a condition where an individual loses agency over their thoughts, emotions, and sense of self—becoming a vessel for the **Nytherion Abyss** to manipulate and feed on.
 

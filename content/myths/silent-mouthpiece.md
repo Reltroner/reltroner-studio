@@ -7,9 +7,9 @@ published: true
 date: "2025-04-11"
 ---
 
-# 🕯️ The Silent Mouthpiece
-
 ---
+
+# 🕯️ The Silent Mouthpiece
 
 ## 🧱 Overview
 The **Silent Mouthpiece** is a relic of ancient entropy, unearthed from beneath the **Eterna Ruin** near the eastern coast of Hargenbor. Though physically inert, it emits **no sound, no vibration, and no detectable radiation** — yet induces inexplicable psychological effects to those who come near. It is one of the earliest known artifacts linked to **Nytherion Abyss** influence.

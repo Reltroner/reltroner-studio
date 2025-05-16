@@ -7,6 +7,10 @@ image: "/images/the-feeding-stair.webp"
 published: true
 ---
 
+---
+
+# 🩸 The Feeding Stair
+
 ## 🔍 What Is the Feeding Stair?
 
 **The Feeding Stair** is a deceptive spiral-like structure located deep within the **Nytherion Abyss Core**. Though it appears to be a staircase, it is actually a semi-sentient construct that mimics physical descent, luring wanderers into an irreversible fall — **not downward, but inward**.

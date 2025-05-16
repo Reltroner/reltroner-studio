@@ -7,9 +7,9 @@ published: true
 date: "2025-04-11"
 ---
 
-# 🕳️ Reltroner’s Zero Day
-
 ---
+
+# 🕳️ Reltroner’s Zero Day
 
 ## 🌌 Overview
 **Reltroner’s Zero Day** is one of the most enigmatic myth-events in Asthorteran history — an elusive point in time where **Rei Reltroner** fully synchronized with the Astralis Pinnacle. Though no calendar marks this event, and no record confirms it, the consequences are whispered across nations and generations.

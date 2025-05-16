@@ -8,6 +8,10 @@ published: true
 tags: ["henchoeway", "nytherion abyss", "abyssal lore", "psychological horror", "cultural spread"]
 ---
 
+---
+
+# 🤿Silent Echoes of Henchoeway
+
 > _“It doesn’t announce itself. It remembers you first.”_
 
 ---

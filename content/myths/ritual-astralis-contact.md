@@ -7,6 +7,8 @@ date: "2025-05-08"
 image: "/images/ritual-astralis-contact.webp"
 ---
 
+---
+
 # 📡 The Ritual of Astralis Contact
 
 In the mythos of Reltroner Studio, those who walk the path of **Astralis Pinnacle** know that their journey is not one of faith alone, but of **discipline, struggle, and sentient awakening**.

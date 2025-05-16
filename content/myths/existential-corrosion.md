@@ -5,8 +5,12 @@ description: "Abyssal effect that erases individuals not through death, but thro
 date: "2025-04-22"
 image: "/images/existential-corrosion.webp"
 published: true
-tags: ["nytherion abyss", "memory", "existence", "psychological horror", "abyssal effects"]
+tags: \["nytherion abyss", "memory", "existence", "psychological horror", "abyssal effects"]
 ---
+
+---
+
+# 🌀 Existential Corrosion
 
 > _"The more you remember, the more you disappear."_  
 > — Unknown Abyss Echo

@@ -11,7 +11,7 @@ published: true
 
 # 🎀 Cute Culture Manifesto of Reltronland
 
-### 🌸 Overview
+## 🌸 Overview
 
 Cosmic Cute Culture (CCC) in Reltronland is not a subculture—it is a structured emotional aesthetic deeply woven into the social fabric of young citizens and interstellar immigrants. Shaped by influences from Cosmeilia Cosmic Races and fused with high-meritocratic identity, CCC stands as a philosophy of softness in a disciplined civilization.
 
