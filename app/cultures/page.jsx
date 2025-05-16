@@ -120,6 +120,15 @@ const cultures = [
     published: true
   },
   {
+    title: "🎀 Cute Culture Manifesto of Reltronland",
+    description: "An official guide to the rise, values, and fashion identity of Cosmic Cute Culture in Reltronland, shaped by meritocracy, interplanetary youth, and the legacy of Cosmeilia.",
+    slug: "cute-culture-reltronland",
+    image: "/images/cute-culture-reltronland.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-16",
+    published: true
+  },
+  {
     title: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto",
     description: "A deconstruction of outdated tropes by Asthortera’s mature philosophy of sentient connection.",
     slug: "anti-klise-gender-friendship",
