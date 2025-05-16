@@ -295,7 +295,7 @@ Meet the sentient spheres of Asthortera — each a philosophical embodiment disg
 
 ### 🤿 **Henchoewayball**
 
-* **Nation:** Henchoeway
+* **Faction:** Henchoeway
 * **Color:** Abyssal Dark Blue
 * **Symbol:** Gas mask face
 * **Expression:** Deadpan
