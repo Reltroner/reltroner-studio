@@ -23,7 +23,7 @@ Cosmic Cute Culture (CCC) in Reltronland is not a subculture—it is a structure
 
 Cute Culture in Reltronland has roots in Cosmeilia, a planet where aesthetics of kindness, color harmony, and emotional resonance are core social values. Immigrants from Cosmeilia introduced:
 
-* **Pixl Species**: Sentient, fairy-like beings who design visual communication and social-emotion devices.
+* **Piksyl Species**: Sentient, fairy-like beings who design visual communication and social-emotion devices.
 * **Cultural Merchants**: Cosmeilian youth who launched accessories, accessories, and school programs in Reltronepolis.
 
 ### 1.2 From Margin to Mainstream
@@ -42,7 +42,7 @@ CCC began as accessories in school districts, later accepted as part of professi
 ### 2.1 Standard Visual Kit (Youth)
 
 * Cat ear headband (lavender, pastel, or black)
-* Oversized pastel hoodie with Pixl crest
+* Oversized office suit with Piksyl crest
 * Round glasses (optional)
 * Cloud-shaped satchel bag
 * Skirt or non-slimfit pants (navy or soft gray)
@@ -53,7 +53,7 @@ CCC began as accessories in school districts, later accepted as part of professi
 * White collared shirt (long sleeve, formal cut)
 * Necktie or ribbon (burgundy or violet)
 * Black formal pants or skirt
-* Minimalist cute pin (Pixl certification)
+* Minimalist cute pin (Piksyl certification)
 * Subtle cat-ear accessory (thin headband)
 
 ---
@@ -70,12 +70,12 @@ CCC began as accessories in school districts, later accepted as part of professi
 
 * Startups and creative industries embrace CCC
 * Employers may issue "Cosmic Cute Certification" for dress harmony
-* CCC offices often include pastel interiors, Pixl art, and soft music
+* CCC offices often include pastel interiors, Piksyl art, and soft music
 
 ### 3.3 Public Sector
 
 * Government does not enforce CCC, but recognizes it as cultural identity
-* Select ministries include Pixl mascots for youth outreach
+* Select ministries include Piksyl mascots for youth outreach
 
 ---
 
@@ -106,7 +106,7 @@ CCC began as accessories in school districts, later accepted as part of professi
 
 ### 5.1 Iconography
 
-* Pixl creatures (inspired by glowing fairies)
+* Piksyl creatures (inspired by glowing fairies)
 * Symbols of stars, clouds, cat faces, and aurora
 * Pastel color spectrum (mint, lavender, peach, snow blue)
 
@@ -124,11 +124,11 @@ CCC began as accessories in school districts, later accepted as part of professi
 
 * CCC contributes 4.7% to Reltronland's creative economy
 * Fashion, pin merch, pastel tech accessories
-* Pixl & Cosmeilian-designed workshops and stores in urban hubs
+* Piksyl & Cosmeilian-designed workshops and stores in urban hubs
 
 ### 6.2 Cultural Diplomacy
 
-* Reltronland exports CCC fashion to Depcutland and Stelpadland
+* Reltronland exports CCC fashion to Depcutland, Stelpadland, Pencilfania, Pasgerflit and other Asthortera countries
 * Youth delegations include CCC expressions as part of cultural package
 
 ### 6.3 Interstellar Branding
