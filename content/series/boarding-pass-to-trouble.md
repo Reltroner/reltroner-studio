@@ -250,3 +250,109 @@ Even in jest, it reminds us that **SDI diplomacy is as much about rhythm as it i
 **Let Astralis light your departure gate.**
 
 ---
+
+# 🎭 Asthortera Countryball Character Sheets
+
+Meet the sentient spheres of Asthortera — each a philosophical embodiment disguised as a funny little ball. These aren't just parodies. They're reflections of ideology, clarity, and cosmic bureaucracy.
+
+---
+
+### 🏢 **Reltronball**
+
+* **Nation:** Reltronland
+* **Color:** Navy Blue
+* **Symbol:** Monumental skyscraper
+* **Expression:** Permanently judging
+* **Quote:** “No distractions. Agenda item 1 begins now.”
+* **Philosophy:** Red Pill Extreme, clarity above comfort
+* **Known For:** Bringing laptops to summits. And enforcing SDI like a crusader.
+
+---
+
+### ✈️ **Pasgerflitball**
+
+* **Nation:** Pasgerflit
+* **Color:** Sky Blue
+* **Symbol:** White airplane
+* **Expression:** Confused but sincere
+* **Quote:** “Sorry I’m late... gate turbulence… again.”
+* **Philosophy:** Sacred transit and alignment with motion
+* **Known For:** Arriving late, but always spiritually justified.
+
+---
+
+### 📖 **Depcutball**
+
+* **Nation:** Depcutland
+* **Color:** Cocoa Brown
+* **Symbol:** Book & quill
+* **Expression:** Intellectual disapproval
+* **Quote:** “Was that delay… annotated?”
+* **Philosophy:** Archival meritocracy & legal aesthetic
+* **Known For:** Never showing up without a teacup and a bibliography.
+
+---
+
+### 🤿 **Henchoewayball**
+
+* **Nation:** Henchoeway
+* **Color:** Abyssal Dark Blue
+* **Symbol:** Gas mask face
+* **Expression:** Deadpan
+* **Quote:** “You could’ve just… not come.”
+* **Philosophy:** Stagnation via comfort illusion
+* **Known For:** Whispering cultish remarks with philosophical dread.
+
+---
+
+### ⚖️ **Kalgeredball**
+
+* **Nation:** Kalgered
+* **Color:** Crimson Red
+* **Symbol:** Scales of justice
+* **Expression:** Silent precision
+* **Quote:**
+* **Philosophy:** Institutional neutrality and acoustic diplomacy
+* **Known For:** Saying nothing. But making everyone rethink everything.
+
+---
+
+### 🏰 **Cenrestierball**
+
+* **Nation:** Cenrestier
+* **Color:** Castle Gray
+* **Symbol:** Fortress gate
+* **Expression:** Traditionalist concern
+* **Quote:** “Landing without ritual log? Unthinkable.”
+* **Philosophy:** Memory, defense, and discipline
+* **Known For:** Never blinking. Keeps scrolls of everything.
+
+---
+
+### 🍁 **Stelpadball**
+
+* **Nation:** Stelpadland
+* **Color:** Autumn Maple Brown
+* **Symbol:** Golden maple leaf
+* **Expression:** Calm empathy
+* **Quote:** “Even falling leaves don’t always land on schedule.”
+* **Philosophy:** Nature-aligned scouting and seasonal wisdom
+* **Known For:** Ritual knots. Soulful lantern walks. Emotional support scout.
+
+---
+
+### ✏️ **PencilfaniaBall**
+
+* **Nation:** Pencilfania
+* **Color:** Forest Green
+* **Symbol:** Pencil
+* **Expression:** Ready to doodle you into a philosophy
+* **Quote:** “Draw your way to redemption.”
+* **Philosophy:** Child-led creativity and visual clarity
+* **Known For:** Turning paperwork into storytelling scrolls.
+
+---
+
+Want to summon one of them for a future summit?
+Make sure your SDI score is above 0.900 and your mind is clarity-certified. 😉
+
