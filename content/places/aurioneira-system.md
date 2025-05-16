@@ -12,7 +12,7 @@ image: "/images/aurioneira-system.webp"
 
 # 🪐 Aurioneira Stellar System Overview & Lore Concepts
 
-A star system pulsing with ancient energy and sentient ambition. Below is a breakdown of each celestial body, along with extended ideas for lore development, research focus, and narrative utility.
+A star system pulsing with ancient energy and sentient ambition located in the Helionea Sector. Below is a breakdown of each celestial body, along with extended ideas for lore development, research focus, and narrative utility.
 
 ---
 
@@ -69,7 +69,7 @@ A star system pulsing with ancient energy and sentient ambition. Below is a brea
 
 ![nirael](/images/nirael.webp)
 
-* **Type:** Rocky Planet
+* **Type:** Rocky Planet (no Moons)
 * **Diameter:** 10845 km
 * **Mass:** 0.47 × Earth
 * **Gravity:** 6.4 m/s²
@@ -91,7 +91,7 @@ A star system pulsing with ancient energy and sentient ambition. Below is a brea
 
 ![hyneira](/images/hyneira.webp)
 
-* **Type:** Oceanic Planet
+* **Type:** Oceanic Planet (1 Moons)
 * **Diameter:** 13900 km
 * **Mass:** 0.85 × Earth
 * **Gravity:** 9.1 m/s²
@@ -132,7 +132,7 @@ A star system pulsing with ancient energy and sentient ambition. Below is a brea
 
 ![planet-asthortera](/images/planet-asthortera.webp)
 
-* **Type:** Super Earth
+* **Type:** Super Earth (12 Moons)
 * **Diameter:** 54646 km
 * **Mass:** 14.3 × Earth
 * **Gravity:** 12.5 m/s²
@@ -177,7 +177,7 @@ A star system pulsing with ancient energy and sentient ambition. Below is a brea
 
 ![voltraxis](/images/voltraxis.webp)
 
-* **Type:** Molten Planet
+* **Type:** Molten Planet (5 Moons)
 * **Diameter:** 12200 km
 * **Mass:** 1.2 × Earth
 * **Gravity:** 10.2 m/s²
@@ -192,7 +192,7 @@ A star system pulsing with ancient energy and sentient ambition. Below is a brea
 
 ![phalteros](/images/phalteros.webp)
 
-* **Type:** Dark Rogue World
+* **Type:** Dark Rogue World (4 Moons)
 * **Diameter:** 15500 km
 * **Mass:** 2.5 × Earth
 * **Gravity:** 11.3 m/s²

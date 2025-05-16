@@ -83,7 +83,7 @@ The heart of the galaxy—rich in civilization, diplomacy, conflict, and innovat
 ### 🕳️ Abyssborn Edge Systems *(Beyond the Outer Veil)*
 
 #### 🕳️ **Vanyathra**
-- **Region:** Outer Rim South  
+- **Region:** Outer Veil South  
 - **Notable Trait:**  
   A planet consumed by illusion and stagnation.  
   Populated by sentients of Austronesian-Malay.  

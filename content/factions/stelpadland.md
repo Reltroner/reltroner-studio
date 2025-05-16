@@ -142,6 +142,8 @@ Stelpadland is governed by the **Council of Scouts**, led by the **High Scoutmas
 
 * **Strengths:** Environmental integration, high empathy in child education
 
+* **Official Language:** Stelpadien (scout language)
+
 ---
 
 ## 🏫 Oakcottage and Whispergrove Region

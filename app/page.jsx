@@ -55,6 +55,15 @@ const posts = [
     image: "/images/reltroner-cv-banner.webp"
   },
   {
+    title: "Asthortera Glossary",
+    description: "Official glossary of protected terms, rituals, and narrative systems in the Asthortera Universe by Reltroner Studio.",
+    slug: "asthortera-glossary",
+    date: "2025-05-16",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/asthortera-glossary.webp"
+  },
+  {
     title: "Cultures & Civilizations",
     description: "Building realistic cultures and societies for your world.",
     slug: "cultures-civilizations",

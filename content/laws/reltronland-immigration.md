@@ -435,8 +435,123 @@ embodies the spirit of discipline, honesty, and mental clarity required to thriv
 
 ---
 
+# 🛂 Reltronland Immigration System
+
+## I. Core Philosophy
+
+Reltronland welcomes talent — not tourists.
+It is a land of opportunity, not escape.
+
+> “You do not enter Reltronland to survive. You enter to evolve.”
+
+Immigration is treated as **civilizational resonance**, not political generosity.
+
+---
+
+## II. Tiered Entry Model
+
+### 🔹 Tier 1: **Clarity-Aligned Professionals**
+
+* Fast-track pathway
+* Criteria:
+
+  * SDI resonance ≥ 0.85
+  * Verified skill in priority sectors (tech, health, governance, research)
+  * Alignment with Astralis Capital Doctrine
+
+### 🔹 Tier 2: **Entrepreneurs & Creators**
+
+* Requires local ecosystem sponsorship
+* Criteria:
+
+  * Portfolio showing clarity-oriented impact
+  * Business or creation must enhance SDI or Red Pill metrics
+
+### 🔹 Tier 3: **General Labor Immigrants**
+
+* Limited access to core zones
+* Must complete **Sentient Uplift Program**
+* Integration reviewed quarterly
+
+---
+
+## III. Citizenship Pathways
+
+### 🛤️ **SDI Merit Accumulation**
+
+*Duration:* \~5 years
+*Notes:* Contribution must be real and traceable
+
+### 🚀 **Astralis Fast-Track**
+
+*Duration:* \~1–2 years
+*Notes:* Reserved for citizens with exceptional Red Pill acts
+
+### 🏛️ **National Recommendation**
+
+*Duration:* Varies
+*Notes:* Given by Reltronland institutions or clarity mentors
+
+---
+
+## IV. Screening & Filters
+
+All applicants pass through:
+
+* **Illusionist Bias Screening**
+* **SDI Readiness Evaluation**
+* **Language & Clarity Interview**
+* **Astralis Pill Test** (measures susceptibility to mass deception)
+
+---
+
+## V. Residency vs Citizenship
+
+### 🟠 **Resident**
+
+*Rights:* Work & housing
+*Limits:* Cannot vote, limited access to strategic institutions
+
+### 🔵 **Citizen**
+
+*Rights:* Full SDI access & contribution
+*Limits:* Must maintain clarity-based participation annually
+
+---
+
+## VI. Integration Protocols
+
+* All new arrivals must complete:
+
+  * **Orientation in Red Pill Doctrine**
+  * **Astralis Culture Literacy**
+  * **Sentient Civic Lab (simulation of clarity-based living)**
+
+---
+
+## VII. Deportation Policy
+
+* Zero deportation for error
+* Immediate deportation for proven:
+
+  * Illusionist sabotage
+  * Disruption of SDI ecosystems
+  * Propagation of Blue Pill dependency ideology
+
+---
+
 ## 📌 Final Remark
 > _"Reltronland doesn’t reward identity — it rewards alignment. Loyalty here is not emotion. It’s structure, clarity, and active resilience against decay."_
+
+---
+
+## Final Statement
+
+Reltronland is not a refuge.
+It is a resonance.
+Only those who walk in clarity may walk its streets.
+
+*Let Astralis grant access only to those who evolve.*
 
 ---
 

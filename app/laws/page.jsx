@@ -161,6 +161,46 @@ const laws = [
     author: "Rei Reltroner",
     date: "2025-04-30",
     published: true
+  },
+  {
+    title: "🪪 Reltronland Citizenship Ethics",
+    description: "A declaration of ethical responsibilities, spiritual expectations, and clarity-driven behavior required of all Reltronland citizens. Citizenship is not a label — it is a lived contribution.",
+    slug: "reltronland-citizenship-ethics",
+    image: "/images/reltronland-citizenship-ethics.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-13",
+    published: true,
+    tags: ["Reltronland", "Citizenship", "Ethical Framework", "Clarity Code", "Sentient Society"]
+  },
+  {
+    title: "⚙️ Reltronland Labor Ethics",
+    description: "A doctrinal guide to ethical work behavior, meritocratic contribution, and clarity-aligned productivity in the sovereign civilization of Reltronland.",
+    slug: "reltronland-labor-ethics",
+    author: "Rei Reltroner",
+    date: "2025-05-15",
+    tags: ["Reltronland", "Labor Doctrine", "Meritocracy", "Work Philosophy", "Red Pill Ethics"],
+    image: "/images/reltronland-labor-ethics.webp",
+    published: true
+  },
+  {
+    title: "🔇 Reltronland Public Silence Protocol",
+    description: "A civic doctrine governing the design, maintenance, and sacred respect of silence zones in Reltronland — spaces of mental calibration and collective emotional clarity.",
+    slug: "reltronland-public-silence-protocol",
+    author: "Rei Reltroner",
+    date: "2025-05-15",
+    tags: ["Reltronland", "Silence Zones", "Civic Clarity", "Spiritual Discipline", "Red Pill Ethics"],
+    image: "/images/reltronland-public-silence-protocol.webp",
+    published: true
+  },
+  {
+    title: "🔬 Sentient Upshift Lab",
+    description: "An intensive integration and clarity refinement facility for newly arrived citizens, SDI-negative regions, and those recovering from illusionist exposure.",
+    slug: "sentient-upshift-lab",
+    author: "Rei Reltroner",
+    date: "2025-05-16",
+    tags: ["Reltronland", "SDI Recovery", "Clarity Training", "Sentient Evolution", "Red Pill Uplift"],
+    image: "/images/sentient-upshift-lab.webp",
+    published: true
   }
   
   // Tambahkan lebih banyak Law di masa depan...

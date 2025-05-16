@@ -103,7 +103,67 @@ const principles = [
     author: "Reltroner Studio",
     published: true,
     date: "2025-05-09"
-  }
+  },
+  {
+    title: "💎 Astralis Capital Doctrine",
+    description: "The supreme philosophical code guiding all economic and fiscal behavior in Reltronland — replacing greed-driven capitalism with clarity-based capital stewardship.",
+    slug: "astralis-capital-doctrine",
+    author: "Rei Reltroner",
+    date: "2025-05-14",
+    tags: ["Astralis Doctrine", "Reltronland", "Capital Philosophy", "Clarity Economics", "Post-Capitalism"],
+    published: true,
+    image: "/images/astralis-capital-doctrine.webp"
+  },
+  {
+    title: "🏛️ Reltronland Civilization Framework",
+    description: "A structural blueprint of Reltronland as a Red Pill-based civilization — designed not as fictional entertainment, but as a viable ideological and digital alternative to feudal global systems.",
+    slug: "reltronland-civilization-framework",
+    author: "Rei Reltroner",
+    date: "2025-05-15",
+    tags: ["Reltronland", "Civilization Framework", "Red Pill Doctrine", "SDI", "Alternative Governance"],
+    published: true,
+    image: "/images/reltronland-civilization-framework.webp"
+  },
+  {
+    title: "📚 Reltronland Education Framework",
+    description: "A clarity-based, SDI-aligned educational doctrine that governs the entire learning ecosystem in Reltronland — from early childhood to advanced civic integration.",
+    slug: "reltronland-education-framework",
+    author: "Rei Reltroner",
+    date: "2025-05-15",
+    tags: ["Reltronland", "Education", "Clarity Learning", "SDI Uplift", "Red Pill Curriculum"],
+    published: true,
+    image: "/images/reltronland-education-framework.webp"
+  },
+  {
+    title: "💰 Reltronland Fiscal Grid",
+    description: "An autonomous, clarity-indexed fiscal allocation system that powers the Red Pill economy of Reltronland. Designed to replace bureaucratic, corruptible budget models.",
+    slug: "reltronland-fiscal-grid",
+    author: "Rei Reltroner",
+    date: "2025-05-15",
+    tags: ["Reltronland", "Fiscal Grid", "Red Pill Budgeting", "Autonomous Finance", "Astralis Economy"],
+    published: true,
+    image: "/images/reltronland-fiscal-grid.webp"
+  },
+  {
+    title: "📖 Reltronland Knowledge Architecture",
+    description: "A sovereign framework for storing, distributing, and safeguarding clarity-based knowledge across physical and digital institutions in Reltronland.",
+    slug: "reltronland-knowledge-architecture",
+    author: "Rei Reltroner",
+    date: "2025-05-16",
+    tags: ["Reltronland", "Knowledge Systems", "Library Doctrine", "Information Clarity", "Sentient Archives"],
+    image: "/images/reltronland-knowledge-architecture.webp",
+    published: true
+  },
+  {
+    title: "🧠 SDI Engineering Principles",
+    description: "A structural breakdown of the Sentient Development Index (SDI) — the central metric for societal clarity and maturity in Reltronland and greater Asthortera.",
+    slug: "sdi-engineering-principles",
+    author: "Rei Reltroner",
+    date: "2025-05-16",
+    tags: ["SDI", "Reltronland", "Civilization Index", "Societal Clarity", "Red Pill Metrics"],
+    image: "/images/sdi-engineering-principles.webp",
+    published: true
+  },
   
   // Tambahkan lebih banyak principle di masa depan...
 ];

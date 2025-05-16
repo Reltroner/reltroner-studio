@@ -450,6 +450,15 @@ const posts = [
     date: "2025-05-11",
     published: true,
     image: "/images/the-only-it-worldbuilder.webp"
+  },
+  {
+    title: "Irreplaceable Value Statement – Rei Reltroner",
+    description: "A strategic declaration of why Rei Reltroner cannot be replaced by conventional developers or AI. Forged through collapse, clarity, and sovereignty, this manifesto outlines the rare blend of system architecture, red pill philosophy, and battle-tested vision that defines Reltroner's irreplaceable value in the AI era.",
+    slug: "irreplaceable-value",
+    image: "/images/irreplaceable-value.webp",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-05-15"
   }
   
 ];

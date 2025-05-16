@@ -111,6 +111,8 @@ export default function CommandPalette() {
     { name: "📄 Career Reality Statement", path: "/blog/career-reality-statement" },
     { name: "First Contact", path: "/blog/first-contact" },
     { name: "The Only IT Worldbuilder", path: "/blog/the-only-it-worldbuilder" },
+    { name: "Irreplaceable Value Statement – Rei Reltroner", path: "/blog/irreplaceable-value" },
+    { name: "Asthortera Glossary", path: "/blog/asthortera-glossary" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -282,6 +284,10 @@ export default function CommandPalette() {
     { name: "📜 SDI Code Violation - Article 1.7.2", path: "/laws/sdi-code-1.7.2"},
     { name: "🛑 Reltronland Forbidden Substances & Narcotics Regulation Act", path: "/laws/reltronland-narcotics-regulation"},
     { name: "Stelpadland — Governance and Creed", path: "/laws/stelpadland-governance"},
+    { name: "🪪 Reltronland Citizenship Ethics", path: "/laws/reltronland-citizenship-ethics"},
+    { name: "⚙️ Reltronland Labor Ethics", path: "/laws/reltronland-labor-ethics"},
+    { name: "🔇 Reltronland Public Silence Protocol", path: "/laws/reltronland-public-silence-protocol"},
+    { name: "🔬 Sentient Upshift Lab", path: "/laws/sentient-upshift-lab"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
@@ -305,6 +311,12 @@ export default function CommandPalette() {
     { name: "🌌 The Emotion No One Talks About: Being Raised by Space, Not People", path: "/principles/raised-by-space" },
     { name: "🗣️ Language Paradox in Reltroner Studio", path: "/principles/language-paradox-reltroner" },
     { name: "Reltroner Design Manifesto: Building Interfaces for Conscious Civilizations", path: "/principles/reltroner-design" },
+    { name: "💎 Astralis Capital Doctrine", path: "/principles/astralis-capital-doctrine" },
+    { name: "🏛️ Reltronland Civilization Framework", path: "/principles/reltronland-civilization-framework" },
+    { name: "📚 Reltronland Education Framework", path: "/principles/reltronland-education-framework" },
+    { name: "💰 Reltronland Fiscal Grid", path: "/principles/reltronland-fiscal-grid" },
+    { name: "📖 Reltronland Knowledge Architecture", path: "/principles/reltronland-knowledge-architecture" },
+    { name: "🧠 SDI Engineering Principles", path: "/principles/sdi-engineering-principles" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
 
