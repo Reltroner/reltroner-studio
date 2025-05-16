@@ -32,6 +32,16 @@ const series = [
     published: true
   },
   {
+    title: "Boarding Pass to Trouble — When Pasgerflit Lands in the Wrong Gate",
+    description: "A comical Asthorteran summit where the Sky Nation disrupts bureaucracy with unintended turbulence.",
+    slug: "boarding-pass-to-trouble",
+    image: "/images/boarding-pass-to-trouble.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-16",
+    published: true,
+    tags: ["Pasgerflit", "Reltronland", "Depcutland", "Asthortera Comedy", "Countryball Episode"]
+  },
+  {
     title: "Asthortera Novel Series Roadmap",
     description: "Explore the complete timeline and narrative structure of the Asthortera universe. Each novel represents a unique POV arc that weaves into the grand tapestry of the Reltroner Saga.",
     slug: "series-roadmap",

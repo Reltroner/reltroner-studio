@@ -221,6 +221,7 @@ export default function CommandPalette() {
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
     { name: "Rei in Abyss", path: "/series/rei-in-abyss" },
     { name: "Reltronland ComicBall Wiki", path: "/series/comicball" },
+    { name: "Boarding Pass to Trouble — When Pasgerflit Lands in the Wrong Gate", path: "/series/boarding-pass-to-trouble" },
     { name: "Series Roadmap", path: "/series/series-roadmap" },
     
     // Statistics
