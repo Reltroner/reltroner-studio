@@ -262,7 +262,7 @@ Meet the sentient spheres of Asthortera — each a philosophical embodiment disg
 * **Nation:** Reltronland
 * **Color:** Navy Blue
 * **Symbol:** Monumental skyscraper
-* **Expression:** Permanently judging
+* **Expression:** Permanently criticize
 * **Quote:** “No distractions. Agenda item 1 begins now.”
 * **Philosophy:** Red Pill Extreme, clarity above comfort
 * **Known For:** Bringing laptops to summits. And enforcing SDI like a crusader.
@@ -355,4 +355,282 @@ Meet the sentient spheres of Asthortera — each a philosophical embodiment disg
 
 Want to summon one of them for a future summit?
 Make sure your SDI score is above 0.900 and your mind is clarity-certified. 😉
+
+---
+
+# ☕ Late Departure, Wrong Panel — *Reltronball Loses It Again*
+
+## 🎬 Episode Summary
+
+After the SDI Summit's legendary turbulence incident involving Pasgerflit, the delegates attempt to settle down during a 15-minute coffee break... until **a mysterious uninvited nationball** joins the panel, mistaking the summit for an art contest.
+
+Reltronball's clarity tolerance reaches zero.
+
+---
+
+## 🧠 Scene Dialogue: *“You’re Not on the List”*
+
+**\[Scene opens: indoor summit cafe. Delegates sipping tea/coffee. Calm atmosphere.]**
+
+---
+
+### ☕ Reltronball:
+
+📋 *"This coffee break is strictly listed. SDI-aligned only. No fluff zones allowed."*
+
+---
+
+### ✏️ PencilfaniaBall:
+
+🖍️ *“But I thought this was the Free Sketch Panel?”*
+
+---
+
+### 🧪 Taramistryball:
+
+🧪 *“We’re discussing quantum labor equity. There are no crayons involved.”*
+
+---
+
+### 📖 Depcutball:
+
+📚 *“I brought annotated scripts of everyone’s coffee consumption. Would anyone like the transcript?”*
+
+---
+
+### ✈️ Pasgerflitball:
+
+☁️ *“Wait—was this not the emotional clarity meditation room?”*
+
+---
+
+### ⚖️ Kalgeredball:
+
+🔇 *\[Silently moves the teacup 3cm clockwise — instantly resets the group’s awareness.]*
+
+---
+
+### 🏢 Reltronball:
+
+💢 *“Enough! One more unaligned entry and I’ll disqualify everyone’s SDI contribution for the day!”*
+
+---
+
+### 🤿 Henchoewayball:
+
+🕳️ *“It’s okay. Let the noise win. Silence was an illusion anyway.”*
+
+---
+
+### 🏰 Cenrestierball:
+
+🧱 *“Was a Ritual Entry Scroll submitted for this room?”*
+
+---
+
+## ✨ Moral of the Episode
+
+> *Clarity without alignment causes chaos. But over-enforcement without empathy... causes paperwork.*
+
+Reltronball may be right, but sometimes the real danger isn’t confusion — it’s forgetting to laugh at it.
+
+---
+
+# ✏️ Emergency Landing at Pencilfania — *Pasgerflit Meets the Doodle Tribunal*
+
+## 🎬 Episode Summary
+
+After the coffee break chaos, Pasgerflit accidentally follows a paper trail through the wrong corridor and lands directly inside **Pencilfania’s National Sketch Council** — an ongoing court session where drawing replaces debate.
+
+The problem? Pasgerflit has never used a pencil in their life.
+
+---
+
+## 🎨 Scene Dialogue: *"You Failed to Sign in Ink — Or Imagination"*
+
+**\[Scene opens: a wooden amphitheater filled with easels, crayons, and flying erasers. PencilfaniaBall stands at the center.]**
+
+---
+
+### ✏️ PencilfaniaBall:
+
+🖍️ *“State your medium or be drawn into contempt.”*
+
+---
+
+### ✈️ Pasgerflitball:
+
+🌀 *“Uhh... flight path maps? I can fold paper really well?”*
+
+---
+
+### 🏢 Reltronball (via screen):
+
+📡 *“Abort all creative nonsense. Return to protocol.”*
+
+---
+
+### 📖 Depcutball (appearing from gallery balcony):
+
+📚 *“Pasgerflit, your creative license expired 2 cycles ago. Please refer to Form Sketch-29B.”*
+
+---
+
+### 🍁 Stelpadball:
+
+🍂 *“Let them draw their own way out. Every crisis begins with a scribble.”*
+
+---
+
+### 🤿 Henchoewayball (materializes as a shadow in the ink pot):
+
+🕳️ *“Doodles decay faster in comfort. Just surrender the sketchbook.”*
+
+---
+
+## ✨ Moral of the Episode
+
+> *Expression is freedom — but without intention, it becomes distraction.*
+
+Pasgerflit learns that creativity isn’t just freedom — it’s also responsibility. And sometimes, **you have to land in the wrong place to redraw your path.**
+
+---
+
+# ⚖️ Neutral Ground Doesn’t Mean No Ground — *Kalgered Draws a Line*
+
+## 🎬 Episode Summary
+
+The SDI summit spirals into doodles, emotional reroutes, and unresolved debates. But when someone tries to repurpose Kalgered’s neutral chamber for a "multi-species yoga rehearsal," Kalgered does the unthinkable:
+
+**It speaks.**
+
+And when Kalgered speaks — Asthortera listens.
+
+---
+
+## 🧠 Scene Dialogue: *“This Room Was Built from Silence”*
+
+**\[Scene opens: Stelhaven Summit Hall. The walls echo with overlapping chatter, squeaky markers, and distant elevator chimes.]**
+
+---
+
+### ✈️ Pasgerflitball:
+
+🌀 *“I just need one glide path and a place to realign my emotional compass…”*
+
+---
+
+### ✏️ PencilfaniaBall:
+
+🖍️ *“Let’s express our confusion via interpretive group sketching!”*
+
+---
+
+### 🤿 Henchoewayball:
+
+🕳️ *“Silence is overrated. Let it be devoured by blue.”*
+
+---
+
+### 🏢 Reltronball:
+
+💢 *“This has become an SDI disgrace. I demand an audit on everyone’s vocal patterns!”*
+
+---
+
+### ⚖️ Kalgeredball (finally rises):
+
+🔇 *“Enough.”*
+
+> *“This hall was forged from still stone and harmonic law. You may not redraw its purpose. You may only realign yourselves.”*
+
+---
+
+### 📖 Depcutball:
+
+📚 *“Ah, the Doctrine of Measured Silence. Rarely invoked. Beautiful cadence.”*
+
+---
+
+### 🍁 Stelpadball:
+
+🍂 *“When Kalgered speaks, even the trees bow.”*
+
+---
+
+## ✨ Moral of the Episode
+
+> *True neutrality is not absence — it is anchored presence.*
+
+Kalgered reminds everyone that peace isn’t passive — it’s a discipline. And sometimes, the quietest voice holds the most gravity.
+
+---
+
+# 🕳️ Henchoeway Broadcasts a Comfort Emergency — *Blue Mist in the Air*
+
+## 🎬 Episode Summary
+
+Just as the summit regains focus under Kalgered’s silence doctrine, the shadows deepen. **Henchoeway triggers Protocol Fog-7**: a mass-scale emotional broadcast known as **The Blue Mist**, spreading comfort slogans, nostalgic distractions, and a dangerous urge to nap.
+
+Suddenly, everyone feels… calm. Too calm.
+
+---
+
+## 📺 Scene Dialogue: *“You Deserve to Stop Trying”*
+
+**\[Scene opens: summit hall lights dim. Screens flicker. A faint blue mist seeps from the ceiling vents. A hologram of Henchoewayball expands in the center.]**
+
+---
+
+### 🤿 Henchoewayball:
+
+🕳️ *“You’ve struggled enough. Let it go. Be still. Be soft. Be nothing.”*
+
+---
+
+### ✈️ Pasgerflitball:
+
+😴 *“This music… it’s like turbulence never existed…”*
+
+---
+
+### 📖 Depcutball:
+
+📚 *“I… forgot my annotations. What were we doing again?”*
+
+---
+
+### 🏢 Reltronball:
+
+🧠 *“No. NO. Everyone, initiate SDI clarity loop now. Hold your doctrine!”*
+
+---
+
+### 🍁 Stelpadball:
+
+🍂 *“Even the forest dreams under fog. But not forever…”*
+
+---
+
+### ✏️ PencilfaniaBall:
+
+🖍️ *“My sketches are melting into circles…”*
+
+---
+
+### ⚖️ Kalgeredball:
+
+🔇 *\[Raises one finger. Releases a harmonic resonance tone. The mist trembles.]*
+
+---
+
+## ✨ Moral of the Episode
+
+> *Comfort is not always care. Stillness is not always peace.*
+
+Henchoeway’s tactics are seductive — but temporary. The summit must choose: ease… or endurance.
+
+---
+
+## 📎 Next Episode Teaser: *“Reltronball Initiates SDI Lockdown”*
 
