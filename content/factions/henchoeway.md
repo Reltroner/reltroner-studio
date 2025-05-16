@@ -7,7 +7,9 @@ date: "2025-04-07"
 published: true
 ---
 
-## 🕳️ Faction Profile: Henchoeway
+---
+
+# 🕳️ Faction Profile: Henchoeway
 ### Asthortera's Eternal Antagonist — The Cult of Illusory Comfort
 
 ---

@@ -90,6 +90,15 @@ const factions = [
     image: "/images/stelpadland.webp"
   },
   {
+    title: "Pasgerflit — The Sky Nation of Asthortera",
+    description: "Aviation-powered civilization in Asthortera, where consciousness takes flight. Pasgerflit is a nation built on mobility, clarity, and the belief that every journey is a sacred alignment with purpose.",
+    slug: "pasgerflit",
+    image: "/images/pasgerflit.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-16",
+    published: true
+  },
+  {
     title: "Henchoeway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoeway", 

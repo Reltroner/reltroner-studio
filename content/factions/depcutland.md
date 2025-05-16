@@ -11,7 +11,7 @@ published: true
 ![depcutland2](/images/depcutland2.webp)
 ![depcutland-3](/images/depcutland-3.webp)
 
-## 🛡️ Faction Profile: Depcutland
+# 🛡️ Faction Profile: Depcutland
 ### Asthortera Tier 1 Civilization — Cultural Guardian of the Planet
 
 ---

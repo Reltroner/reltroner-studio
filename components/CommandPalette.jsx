@@ -73,7 +73,7 @@ export default function CommandPalette() {
     { name: "Piday", path: "/blog/piday" },
     { name: "Pinews", path: "/blog/pinews" },
     { name: "Politics", path: "/blog/politics" },
-    { name: "Redpill Abyssborn", path: "/blog/redpill-abyssborn" },
+    { name: "Red Pill Entity — Abyssborn Survivor", path: "/blog/redpill-abyssborn" },
     { name: "Rei Reltroner Identity", path: "/blog/rei-reltroner-identity" },
     { name: "What if Rei Reltroner Joins Super Smash Bros. Ultimate?", path: "/blog/rei-super-smash" },
     { name: "Rei & Joker: Reflections of Rebellion", path: "/blog/rei-joker-friend" },
@@ -214,7 +214,8 @@ export default function CommandPalette() {
     { name: "🪐 Aurioneira Stellar System Overview & Lore Concepts", path: "/places/aurioneira-system" },
     { name: "The Galaxy — Reltroner Studio’s Cosmic Setting", path: "/places/the-galaxy" },
     { name: "🕳️ Vanyathra — The Collapsed Realm Beyond the Outer Veil", path: "/places/vanyathra-abyssborn-nation" },
-    { name: "📍 Reltronepolis", path: "/places/reltronepolis" },
+    { name: "Reltronepolis", path: "/places/reltronepolis" },
+    { name: "Aviashenwelt — Capital of Pasgerflit", path: "/places/aviashenwelt" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
@@ -266,6 +267,7 @@ export default function CommandPalette() {
     { name: "Cenrestier Country Profile — Land of Fortresses", path: "/factions/cenrestier-country-profile" },
     { name: "Kalgered Country Profile — The Neutral Heart of Asthortera", path: "/factions/kalgered-country-profile" },
     { name: "Stelpadland Country Profile — Cradle of Global Scouting and Eternal Autumn", path: "/factions/stelpadland" },
+    { name: "Pasgerflit — The Sky Nation of Asthortera", path: "/factions/pasgerflit" },
 
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },
@@ -289,6 +291,7 @@ export default function CommandPalette() {
     { name: "⚙️ Reltronland Labor Ethics", path: "/laws/reltronland-labor-ethics"},
     { name: "🔇 Reltronland Public Silence Protocol", path: "/laws/reltronland-public-silence-protocol"},
     { name: "🔬 Sentient Upshift Lab", path: "/laws/sentient-upshift-lab"},
+    { name: "✈️ The Aviashenwelt Accord — SDI-Based Visa-Free Framework", path: "/laws/aviashenwelt-accord"},
     
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

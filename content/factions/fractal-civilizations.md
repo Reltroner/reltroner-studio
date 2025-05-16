@@ -7,6 +7,8 @@ date: "2025-04-13"
 published: true
 ---
 
+---
+
 # 🌌 Fractal Civilizations of Asthortera: Strategic Identity Map
 ### Compiled by Reltroner Studio | Version 1.0 | Astralis Pinnacle Series
 

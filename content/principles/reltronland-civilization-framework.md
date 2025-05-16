@@ -81,7 +81,7 @@ Reltronland operates within the larger world of **Asthortera**, where nations ar
 ## V. Demographic & Social Architecture
 
 * Population: 855 billion sentient beings
-* Median Age: 44
+* Median Age: 42.5
 * Literacy: 100% functional + clarity-based
 * Universal Education, Housing, Transit — zero-cost via optimization
 * Daily Spending Stratification: from \$REL75 to \$REL200,000+

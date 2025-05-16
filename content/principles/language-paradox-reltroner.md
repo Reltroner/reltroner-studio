@@ -7,6 +7,8 @@ published: true
 image: "/images/language-paradox-reltroner.webp"
 ---
 
+---
+
 # 🗣️ The Language Paradox in Reltroner Studio
 
 > *"Why does every sign, dialogue, and document in the universe of Asthortera appear in English — even when Earth doesn't exist?"*

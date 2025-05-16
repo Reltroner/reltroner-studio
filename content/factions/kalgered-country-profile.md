@@ -7,6 +7,8 @@ tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelha
 published: true
 ---
 
+---
+
 # 🏔️ **Kalgered Country Profile — The Neutral Heart of Asthortera**
 
 Hidden among the alpine echoes and marble-colored peaks of the northern continent, **Kalgered** stands as a paradox in planetary history: a nation powerful enough to shape diplomacy across Asthortera, yet restrained enough to never raise its voice.

@@ -1,5 +1,5 @@
 ---
-title: "📍 Reltronepolis"
+title: "Reltronepolis"
 description: "Latest layout and brief descriptions of each key district in Reltronepolis Province"
 slug: "reltronepolis"
 date: "2025-05-10"

@@ -7,7 +7,9 @@ date: "2025-04-17"
 published: true
 ---
 
-# 🌟 **Cenrestier Country Profile — "Land of Fortresses"**
+---
+
+# 🏰 **Cenrestier Country Profile — "Land of Fortresses"**
 
 **Cenrestier**, known as the **Land of Fortresses**, is a mountainous and architecturally rich country in the heart of Asthortera. The nation is famed for its preserved medieval castles, centuries-old fortified towns, and a disciplined, knowledge-driven society that blends ancient heritage with modern infrastructure.
 

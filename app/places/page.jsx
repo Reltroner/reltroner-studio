@@ -148,6 +148,15 @@ const places = [
     tags: ["pasgerflit", "transportation", "urbanism", "architecture"]
   },
   {
+    title: "Aviashenwelt — Capital of Pasgerflit",
+    description: "The diplomatic, civic, and interstellar transit heart of Pasgerflit. Aviashenwelt embodies the aviation soul of Asthortera, built around clarity, movement, and sky-bound consciousness.",
+    slug: "aviashenwelt",
+    image: "/images/aviashenwelt.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-16",
+    published: true
+  },
+  {
     title: "🌕 Asthortera's 12 Orbiting Moons and Calendar System",
     description: "A full breakdown of Asthortera’s 12 orbiting moons, their influence on its calendar system, and the symbolic meaning each brings to the planet’s spiritual, cultural, and astronomical life.",
     slug: "asthortera-12-orbiting-moons",

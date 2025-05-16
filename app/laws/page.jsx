@@ -201,6 +201,15 @@ const laws = [
     tags: ["Reltronland", "SDI Recovery", "Clarity Training", "Sentient Evolution", "Red Pill Uplift"],
     image: "/images/sentient-upshift-lab.webp",
     published: true
+  },
+  {
+    title: "✈️ The Aviashenwelt Accord — SDI-Based Visa-Free Framework",
+    description: "An interplanetary treaty signed in 979 BAC that allows individuals with SDI scores above 0.921 to travel freely across Asthortera’s highest-trust civilizations.",
+    slug: "aviashenwelt-accord",
+    date: "2025-05-16",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/aviashenwelt-accord.webp"
   }
   
   // Tambahkan lebih banyak Law di masa depan...

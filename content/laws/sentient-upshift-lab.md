@@ -27,7 +27,7 @@ The **Sentient Upshift Lab (SUL)** is a specialized civic sanctuary designed to:
 ## II. Who Enters the Lab?
 
 * Tier 3 immigrants in probation phase
-* Citizens with SDI score < 0.75
+* Citizens with SDI score < 0.8
 * Individuals flagged by Civic Resonance Alerts
 * Volunteers seeking clarity recalibration
 
@@ -65,7 +65,7 @@ The **Sentient Upshift Lab (SUL)** is a specialized civic sanctuary designed to:
 
 To exit the lab and rejoin full society:
 
-* Maintain SDI ≥ 0.82 for 90 days
+* Maintain SDI ≥ 0.85 for 90 days
 * Complete final **Resonance Simulation**
 * Pass **Civic Alignment Interview** with dual human–AI panel
 
