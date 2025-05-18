@@ -95,6 +95,8 @@ Fork the core Reltroner memory model and train your own clarity engine as your p
 
 ---
 
+![ai-pitch-deck](/images/ai-pitch-deck.webp)
+
 # Reltroner AI Fork Pitch Deck (Investor Preview)
 
 ## 🧠 Executive Summary
