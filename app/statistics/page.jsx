@@ -129,6 +129,15 @@ const statistics = [
     author: "Rei Reltroner",
     date: "2025-04-26", 
     published: true
+  },
+  {
+    title: "📈 Reltroner Project Valuation – 2025",
+    description: "An analytical snapshot of the Reltroner project's growth trajectory, estimating its value based on solo system architecture output, strategic scalability, and red-pill-driven creative infrastructure during the first 5 months of development.",
+    slug: "reltroner-value-2025",
+    date: "2025-05-18",
+    image: "/images/reltroner-value-2025.webp",
+    author: "Rei Reltroner",
+    published: true
   }
 ];
 

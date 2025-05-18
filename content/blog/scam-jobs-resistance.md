@@ -8,6 +8,8 @@ author: "Rei Reltroner"
 published: true
 ---
 
+---
+
 # 🚫 Scam Jobs Resistance
 
 > _“For every job seeker trapped by a fake listing, a spark of trust dies in the labor market.”_

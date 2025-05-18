@@ -239,6 +239,7 @@ export default function CommandPalette() {
     { name: "🚀 Interstellar Mobility Index (IMI) — Asthortera", path: "/statistics/interstellar-mobility-index"},
     { name: "🕳️ Nytherion Abyss Horror Index Map", path: "/statistics/nytherion-abyss-horror-index"},
     { name: "🌍 Asthortera vs Earth: Planetary Comparison", path: "/statistics/asthortera-vs-earth"},
+    { name: "📈 Reltroner Project Valuation – 2025", path: "/statistics/reltroner-value-2025"},
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     { name: "Astralis Pinnacle", path: "/philosophies/astralis-pinnacle" },
