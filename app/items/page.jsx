@@ -16,6 +16,15 @@ const items = [
     tags: ["nytherion abyss", "ritual", "items", "worldbuilding", "abyss"],
     published: true
   },
+  {
+    title: "Reltroner AI Fork – Memory-as-a-Service Product Sheet",
+    description: "A deployable AI assistant built with over 200+ `.md` structured memory layers from Reltroner Studio, designed for system architects, founders, and clarity-focused teams seeking high-impact, philosophy-infused intelligence solutions.",
+    slug: "reltroner-ai-fork",
+    date: "2025-05-18",
+    author: "Rei Reltroner",
+    image: "/images/reltroner-ai-fork.webp",
+    published: true
+  }
   
   
   // Tambahkan lebih banyak item di masa depan...

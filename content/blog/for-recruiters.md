@@ -9,7 +9,7 @@ image: "/images/for-recruiters-banner.webp"
 ## 🧭 For Recruiters & Collaborators
 
 Hello,  
-My name is Raidan (Rei Reltroner), a self-taught full stack developer, creative IP world-builder, and visionary founder of Reltroner Studio. This section is a gateway for recruiters and partners to explore the fusion of software engineering, narrative development, and futuristic world strategy.
+My name is Rei Reltroner, a self-taught full stack developer, creative IP world-builder, and visionary founder of Reltroner Studio. This section is a gateway for recruiters and partners to explore the fusion of software engineering, narrative development, and futuristic world strategy.
 
 I am the creator of **Reltroner Studio** — a self-branding and worldbuilding project built with **full dedication, wild imagination, and commitment to real work**.
 
@@ -25,6 +25,16 @@ I believe in:
 - **Openness**: I’m not anti-criticism. I’m anti-stagnation.
 - **Spiritual Narrative Systems**: I apply philosophical storytelling layers through Astralis vs Nytherion metaphors, embedded within structured code.
 - **Self-discipline Architecture**: I designed the site and content structure to reflect conscious worldbuilding—not just features, but meaning.
+
+I’m also a solo system architect, clarity strategist, and creator of Reltroner.com. I don’t just build apps — I build **cognitive ecosystems**. Over the past few months, I’ve architected a 200+ `.md` structured AI memory base, integrated with GPT, Laravel HRM, and a clarity-first worldbuilding engine.
+
+If you're looking for someone who can:
+
+* Translate chaos into structured execution
+* Merge philosophy with code
+* Build scalable frameworks from existential collapse
+
+...then I’m not just a candidate — I’m your future AI systems partner. Whether you need deep thinkers for early-stage prototypes or clarity-driven builders to anchor long-term vision, I’m open to collaboration, consultation, or embedded deployment roles.
 
 If you’re a recruiter, collaborator, or company owner interested in working with someone who:
 - Has deep dedication to their project

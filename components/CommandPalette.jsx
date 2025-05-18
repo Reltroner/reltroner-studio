@@ -113,6 +113,7 @@ export default function CommandPalette() {
     { name: "The Only IT Worldbuilder", path: "/blog/the-only-it-worldbuilder" },
     { name: "Irreplaceable Value Statement – Rei Reltroner", path: "/blog/irreplaceable-value" },
     { name: "Asthortera Glossary", path: "/blog/asthortera-glossary" },
+    { name: "From Loss to Systems — My Collapse Blueprint", path: "/blog/from-loss-to-systems" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -327,6 +328,7 @@ export default function CommandPalette() {
     { name: "No Excuse for Mediocrity – A Red Pill Cosmic Manifesto", path: "/principles/no-excuse-for-mediocrity" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
+    { name: "Reltroner AI Fork – Memory-as-a-Service Product Sheet", path: "/items/reltroner-ai-fork" },
 
   ];
 

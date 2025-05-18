@@ -459,6 +459,15 @@ const posts = [
     author: "Rei Reltroner",
     published: true,
     date: "2025-05-15"
+  },
+  {
+    title: "From Loss to Systems — My Collapse Blueprint",
+    description: "A reflective chronicle on how failure, pressure, and existential despair forged the birth of Reltroner Studio.",
+    slug: "from-loss-to-systems",
+    author: "Rei Reltroner",
+    published: true,
+    date: "2025-05-18",
+    image: "/images/from-loss-to-systems.webp"
   }
   
 ];
