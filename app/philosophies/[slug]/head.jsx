@@ -54,8 +54,10 @@ export async function generateMetadata({ params }) {
       card: "summary_large_image",
       title,
       description,
+      creator: "@reltroner",
       images: [`https://www.reltroner.com${image}`],
     },
+    metadataBase: new URL("https://reltroner.com"),
     alternates: { canonical: url },
     other: {
       "application/ld+json": JSON.stringify(schema),

@@ -164,6 +164,15 @@ const principles = [
     image: "/images/sdi-engineering-principles.webp",
     published: true
   },
+  {
+    title: "No Excuse for Mediocrity – A Red Pill Cosmic Manifesto",
+    description: "This manifesto declares that mediocrity is no longer justifiable in an age of infinite possibility. It is a Red Pill proclamation for those who dare to deviate, build new systems, and embody extreme clarity in the face of cosmic stagnation. Crafted by Reltroner Studio, it speaks to founders, visionaries, and self-taught architects who choose to ascend rather than conform.",
+    slug: "no-excuse-for-mediocrity",
+    image: "/images/no-excuse-for-mediocrity.webp",
+    author: "Reltroner Studio",
+    published: true,
+    date: "2025-05-18"
+  }
   
   // Tambahkan lebih banyak principle di masa depan...
 ];

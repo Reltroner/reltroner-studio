@@ -7,6 +7,7 @@ published: true
 image: "/images/reltronland-core-constitution.webp"
 ---
 
+---
 
 # ☠️ The Death of Feudalism: Astralis Principle 07
 
@@ -67,4 +68,4 @@ It is the **enemy of sentient evolution**.
 
 ---
 
-📖 Related Principle: [/principles/astralis-sovereignty](https://www.reltroner.com/principles/astralis-sovereignty)
+📖 Related Principle: [💎 Astralis Capital Doctrine](https://www.reltroner.com/principles/death-of-feudalism)

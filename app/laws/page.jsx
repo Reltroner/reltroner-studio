@@ -210,6 +210,15 @@ const laws = [
     author: "Rei Reltroner",
     published: true,
     image: "/images/aviashenwelt-accord.webp"
+  },
+  {
+    title: "🚫 Abolishment Decree: Feudalism & Inferiority Mentality",
+    description: "A core decree of Reltronland banning all forms of feudal hierarchy and inferiority-based self-conception as tools of the Nytherion Abyss, to preserve clarity, meritocracy, and sentient growth.",
+    slug: "abolish-feudalism-inferiority",
+    image: "/images/abolish-feudalism-inferiority.webp",
+    author: "Rei Reltroner",
+    date: "2025-05-18",
+    published: true
   }
   
   // Tambahkan lebih banyak Law di masa depan...
