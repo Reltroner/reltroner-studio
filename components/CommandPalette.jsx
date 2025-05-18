@@ -323,6 +323,7 @@ export default function CommandPalette() {
     { name: "💰 Reltronland Fiscal Grid", path: "/principles/reltronland-fiscal-grid" },
     { name: "📖 Reltronland Knowledge Architecture", path: "/principles/reltronland-knowledge-architecture" },
     { name: "🧠 SDI Engineering Principles", path: "/principles/sdi-engineering-principles" },
+    { name: "No Excuse for Mediocrity – A Red Pill Cosmic Manifesto", path: "/principles/no-excuse-for-mediocrity" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
 
