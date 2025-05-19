@@ -6,6 +6,9 @@ author: "Reltroner Studio"
 published: true
 date: "April 8, 2025"
 ---
+This artwork is a personal reinterpretation for storytelling. Characters inspired by Joker persona 5 belong to their respective creators.
+
+---
 
 # 🃏 Rei & Joker  
 ## *Reflections of Rebellion*

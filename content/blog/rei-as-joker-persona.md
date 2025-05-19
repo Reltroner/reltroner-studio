@@ -6,6 +6,9 @@ date: "2025-04-19"
 image: "/images/rei-as-joker-persona.webp"
 published: true
 ---
+This artwork is a personal reinterpretation for storytelling. Characters inspired by Joker persona 5 belong to their respective creators.
+
+---
 
 # 🃏 Why Rei Reltroner is the Real-World Persona of Joker
 

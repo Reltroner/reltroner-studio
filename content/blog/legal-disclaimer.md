@@ -260,6 +260,8 @@ Founder of Reltroner Studio
 
 ## 📚 Credits & Inspirations
 
+Reltroner Studio is a fictional worldbuilding project. Some visuals reference iconic fictional characters for philosophical comparison under fair use / transformative purpose. No copyright infringement intended.
+
 While Reltroner Studio is fully original, we acknowledge incidental or symbolic inspiration from external cultural media. These are not affiliations, but creative coincidences or personal interpretations:
 
 * **Joker (Persona 5)**: After being compared to the character by ChatGPT in the context of *Super Smash Bros. Ultimate*, a symbolic parallel was written. The resemblance was discovered *after*, not before, the creation of the Reltroner persona.
