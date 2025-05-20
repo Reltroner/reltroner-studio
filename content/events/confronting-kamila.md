@@ -5,6 +5,7 @@ description: "At the edge of the Heart of the Abyss, Delwyn Harper and his team 
 date: "2025-04-22"
 image: "/images/confronting-kamila.webp"
 tags: ["kamila alena", "nytherion abyss", "the abyss of comfort", "scene", "delwyn harper"]
+published: true
 ---
 
 > _“You’ve come here looking for truth.  

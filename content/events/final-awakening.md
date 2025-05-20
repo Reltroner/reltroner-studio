@@ -5,6 +5,7 @@ description: "The climactic moment in Rei in Abyss where Rei rejects all illusio
 date: "2025-04-22"
 image: "/images/final-awakening.webp"
 tags: ["rei reltroner", "rei in abyss", "nytherion abyss", "astralis pinnacle", "scene"]
+published: true
 ---
 
 > _“You are everything I feared. But I no longer need you to survive.”_  

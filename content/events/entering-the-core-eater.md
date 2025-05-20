@@ -5,6 +5,7 @@ description: "As the team descends into the deepest layer of Nytherion Abyss, th
 date: "2025-04-22"
 image: "/images/entering-the-core-eater.webp"
 tags: ["nytherion abyss", "the abyss of comfort", "core-eater", "delwyn harper", "scene"]
+published: true
 ---
 
 > _“Some places don’t want you to leave.  

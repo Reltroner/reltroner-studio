@@ -4,6 +4,7 @@ description: "In a quiet moment in Reltralia, Rei shows Raina the harsh realitie
 slug: "rei-shows-earth"
 date: "2025-04-18"
 image: "/images/rei-shows-earth.webp"
+published: true
 ---
 
 > _“From a world lost in noise and chaos,  

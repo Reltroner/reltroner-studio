@@ -5,6 +5,7 @@ description: "The earliest known recorded incident of Nytherion Abyss breaching 
 date: "2025-04-22"
 image: "/images/the-first-unraveling.webp"
 tags: ["nytherion abyss", "the abyss of comfort", "opening scene", "existential horror"]
+published: true
 ---
 
 > _“Before the cities rose and the skies of Asthortera burned with progress,  

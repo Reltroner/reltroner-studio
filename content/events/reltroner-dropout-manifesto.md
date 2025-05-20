@@ -5,6 +5,7 @@ description: "From failure to foundation. How dropping out became the first bric
 date: "2025-04-22"
 image: "/images/reltroner-dropout-manifesto.webp"
 tags: ["manifesto", "reltroner studio", "astralis", "dropout", "philosophy"]
+published: true
 ---
 
 # 🧠 Reltroner: The Boy Who Dropped Out to Build a Civilization

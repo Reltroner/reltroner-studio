@@ -3,6 +3,8 @@ title: "When Raina Read The Letter"
 slug: "when-raina-read-the-letter"
 description: "The moment Raina discovered Rei’s true origin beyond Asthortera—and understood the pain he never put into words."
 image: "/images/when-raina-read-the-letter.webp"
+date: "2025-04-18"
+published: true
 ---
 
 # 🌌 When Raina Read The Letter  
