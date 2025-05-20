@@ -6,6 +6,9 @@ date: "2025-04-19"
 image: "/images/rei-vs-professor-sergio.webp"
 published: true
 ---
+This artwork is a personal reinterpretation for storytelling. Characters inspired by Sergio Marquina (The Professor) – Money Heist belong to their respective creators.
+
+---
 
 # 🧠 Why Rei Reltroner is the Astral Brother of Professor Sergio
 

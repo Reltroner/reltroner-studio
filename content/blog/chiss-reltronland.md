@@ -6,6 +6,9 @@ author: "Reltroner Studio"
 date: "2025-04-27"
 published: trues
 ---
+This artwork is a personal reinterpretation for storytelling. Characters inspired by Grand Admiral Thrawn – Star Wars belong to their respective creators.
+
+---
 
 # 🤝 What if Chiss and Reltronland Formed a Diplomatic Pact?
 

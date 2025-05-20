@@ -171,8 +171,25 @@ const events = [
     date: "2025-05-07",
     published: true,
     image: "/images/vanyathra-ground-war.webp"
-  }
-  
+  },
+  {
+    title: "The Final Conversation: Kamila Alena x Rei Reltroner Before Exit",
+    description: "A secret memory buried in the Abyss—the last words exchanged between Kamila and Rei before Astralis Pinnacle was born.",
+    slug: "kamila-x-rei-before-exit",
+    date: "2025-05-19",
+    author: "Rei Reltroner",
+    image: "/images/kamila-x-rei-before-exit.webp",
+    published: true
+  },
+  {
+    title: "Reflections in Drawcia – A Post-Pinnacle Dialogue",
+    description: "A private conversation between Rei and Kamila after the birth of Astralis Pinnacle, revisiting Drawcia and the memory of fear.",
+    slug: "reflections-in-drawcia",
+    date: "2025-05-19",
+    author: "Reltroner Studio Archive",
+    image: "/images/reflections-in-drawcia.webp",
+    published: true
+  },
   // Tambahkan lebih banyak event di masa depan...
 ];
 

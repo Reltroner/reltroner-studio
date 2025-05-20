@@ -170,6 +170,9 @@ export default function CommandPalette() {
     { name: "Origins of Aurastelia and Astrostelia", path: "/events/aurastelia-astrostelia" },
     { name: "🎖️ The Crimson Hour of Vanyathra", path: "/events/vanyathra-ground-war" },
     { name: "Root of Reltroner", path: "/events/root-of-reltroner" },
+    { name: "The Final Conversation: Kamila Alena x Rei Reltroner Before Exit", path: "/events/kamila-x-rei-before-exit" },
+    { name: "Reflections in Drawcia – A Post-Pinnacle Dialogue", path: "/events/reflections-in-drawcia" },
+    { name: "Rei in Abyss: Spiral Memory", path: "/events/rei-in-abyss-spiral-memory" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
@@ -326,6 +329,8 @@ export default function CommandPalette() {
     { name: "📖 Reltronland Knowledge Architecture", path: "/principles/reltronland-knowledge-architecture" },
     { name: "🧠 SDI Engineering Principles", path: "/principles/sdi-engineering-principles" },
     { name: "No Excuse for Mediocrity – A Red Pill Cosmic Manifesto", path: "/principles/no-excuse-for-mediocrity" },
+    { name: "Life as a System Architect – Beyond Code", path: "/principles/life-as-a-system-architect" },
+    { name: "Reltroner is a System Architecture Firm Disguised as a Creative World-Building Studio", path: "/principles/reltroner-underlayer" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
     { name: "Reltroner AI Fork – Memory-as-a-Service Product Sheet", path: "/items/reltroner-ai-fork" },

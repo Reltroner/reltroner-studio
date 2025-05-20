@@ -315,8 +315,6 @@ But the **Abyss does**.
 
 ## 🩸 The Message Rei Writes
 
-![writing-on-the-spiral](/images/writing-on-the-spiral.webp)
-
 > _“I didn’t leave a mark to be remembered.  
 I left it so others could break free.”_  
 > — Rei Reltroner

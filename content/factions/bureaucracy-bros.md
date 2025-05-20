@@ -179,3 +179,75 @@ published: true
 > **Next Episode:** *“Reltronball Invited to a Depcutland Poetry Duel (With Footnotes)”* 📖⚔️
 
 ---
+
+---
+
+title: "Bureaucracy Bros — Episode 6: Poetry Duel with Footnotes"
+description: "The eternal debate between Reltronball and Depcutball continues, now on stage, in the form of formal poetic combat—complete with citations."
+author: "Rei Reltroner"
+date: "2025-05-20"
+published: true
+image: "/images/poetry-duel-footnotes.webp"
+-------------------------------------------
+
+# 📖 Bureaucracy Bros — Episode 6: *Poetry Duel with Footnotes*
+
+**Scene: The Grand Hall of Semantic Precision, Depcutland.**
+Velvet curtains rise. A full audience of philosophers, clerks, and legal scribes watches as two podiums glow under ancient chandeliers. One labeled *"Metaphorically Sound"*, the other *"Structurally Flawless."*
+
+---
+
+**🟫 Depcutball:**
+📜 *(adjusts cravat, clears throat)*
+
+> “In realms where syntax sings and scrolls align,
+> I brand thee dull with bureaucratic spine.
+> Thy clarity lacks the flourish of lore,
+> While I draft truth with poetic decor.”
+
+\**\[Footnote 1: 'Scrolls align' references the Lexicon Lament, Vol. II]*
+
+---
+
+**🟦 Reltronball:**
+📂 *(sips tea, steps forward with unwavering stare)*
+
+> “Your sonnet drips with fragrant deviation,
+> While my lines hold structural salvation.
+> A rhyme that bends compliance is a trap—
+> I write in forms that audit and outmap.”
+
+\**\[Footnote 2: 'Structural salvation' is a nod to the Public Clarity Act, Article 9]*
+
+---
+
+**🟫 Depcutball:**
+🪶 *(retorts)*
+
+> “Oh Reltron, child of graphs and grainy facts,
+> Has beauty no space in your syntax tracks?
+> Where is the pause, the sigh, the soul’s delight?
+> All I see is paperwork dressed in byte.”
+
+---
+
+**🟦 Reltronball:**
+🧠 *(calmly adjusts his clarity pin)*
+
+> “Pause breeds illusion. Sighs distort the code.
+> My verse aligns where truth and law erode.
+> Your footnotes flourish but delay the plan—
+> This summit needs deeds, not a lute in hand.”
+
+---
+
+\**\[Audience gasps. A scribe drops a quill. The drama intensifies.]*
+
+**Final Panel:**
+Both step back.
+Both bow.
+The judges declare: **“Tie — Both Won. In Citation We Trust.”**
+
+**\[Caption]:** *Only in Asthortera can poetry require peer review.*
+
+> **Next Episode:** *“Castella Catastrophe: When the Treaty Cake Went Missing”* 🍰🚨

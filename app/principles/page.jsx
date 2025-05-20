@@ -172,6 +172,24 @@ const principles = [
     author: "Reltroner Studio",
     published: true,
     date: "2025-05-18"
+  },
+  {
+    title: "Life as a System Architect – Beyond Code",
+    description: "A philosophical and technical reflection on how system architecture extends beyond code—into clarity-driven living, mental resilience, and existential design.",
+    slug: "life-as-a-system-architect",
+    author: "Rei Reltroner",
+    date: "2025-05-20",
+    published: true,
+    image: "/images/life-as-a-system-architect.webp"
+  },
+  {
+    title: "Reltroner is a System Architecture Firm Disguised as a Creative World-Building Studio",
+    description: "Unmasking the deeper system logic behind Reltroner Studio's imaginative surface.",
+    slug: "reltroner-underlayer",
+    author: "Rei Reltroner",
+    date: "2025-05-20",
+    published: true,
+    image: "/images/reltroner-underlayer.webp"
   }
   
   // Tambahkan lebih banyak principle di masa depan...

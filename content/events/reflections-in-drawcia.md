@@ -1,10 +1,13 @@
 ---
-
 title: "Reflections in Drawcia – A Post-Pinnacle Dialogue"
 description: "A private conversation between Rei and Kamila after the birth of Astralis Pinnacle, revisiting Drawcia and the memory of fear."
 date: "2025-05-19"
 author: "Reltroner Studio Archive"
-----------------------------------
+image: "/images/reflections-in-drawcia.webp"
+published: true
+---
+
+---
 
 > *“Not all fear is meant to be escaped. Some is meant to be remembered.”*
 > — Rei Reltroner

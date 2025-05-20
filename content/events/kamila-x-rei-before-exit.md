@@ -1,17 +1,20 @@
 ---
-
-title: "The Final Conversation: Kamila x Rei Before Exit"
+title: "The Final Conversation: Kamila Alena x Rei Reltroner Before Exit"
 description: "A secret memory buried in the Abyss—the last words exchanged between Kamila and Rei before Astralis Pinnacle was born."
 date: "2025-05-19"
 author: "Rei Reltroner"
------------------------
+image: "/images/kamila-x-rei-before-exit.webp"
+published: true
+---
+
+---
 
 > *"Before a star is born, a shadow must release it."*
 > — Memory Fragment, Abyss Layer 39
 
 ---
 
-## The Final Conversation: Kamila x Rei Before Exit
+## The Final Conversation: Kamila Alena x Rei Reltroner Before Exit
 
 **Scene Setting:**
 Deep within the core of Nytherion Abyss — a quiet, suspended void filled with fragmented memories, whispering echoes, and gravity-defying shards of illusion. The space is still. Kamila stands barefoot on a floating obsidian mirror. Rei kneels before her, not in submission, but in calm acknowledgment.
@@ -66,14 +69,6 @@ Deep within the core of Nytherion Abyss — a quiet, suspended void filled with 
 > And the one scar Kamila never showed again.
 
 ---
-
----
-
-title: "The Abyss’ Favorite – A Record of Rei’s Time Inside"
-description: "Spiritual record of Rei Reltroner’s unique position within Nytherion Abyss, before the birth of Astralis Pinnacle."
-date: "2025-05-19"
-author: "Reltroner Studio Archive"
-----------------------------------
 
 # 📜 The Abyss’ Favorite – A Record of Rei’s Time Inside
 
