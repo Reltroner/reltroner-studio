@@ -5,7 +5,8 @@ author: "Rei Reltroner"
 date: "2025-05-04"
 published: true
 image: "/images/the-day-i-remembered.webp"
-published: true
+---
+
 ---
 
 # 📖 The Day I Remembered Why I Built This World  

@@ -172,7 +172,6 @@ export default function CommandPalette() {
     { name: "Root of Reltroner", path: "/events/root-of-reltroner" },
     { name: "The Final Conversation: Kamila Alena x Rei Reltroner Before Exit", path: "/events/kamila-x-rei-before-exit" },
     { name: "Reflections in Drawcia – A Post-Pinnacle Dialogue", path: "/events/reflections-in-drawcia" },
-    { name: "Rei in Abyss: Spiral Memory", path: "/events/rei-in-abyss-spiral-memory" },
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
     { name: "The Abyss Whisper", path: "/myths/abyss-whisper" },
