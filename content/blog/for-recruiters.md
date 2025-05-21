@@ -52,10 +52,10 @@ You can contact me through the following channels:
 
 ## 🧱 Bonus for Tech-Focused Recruiters
 
-I also maintain a dedicated public repository to **document real-world coding errors**, insights, and practical fixes I encounter during development. This is not copied tutorial content — it's based on actual debugging experience with tools like **Express.js**, **EJS**, **MongoDB**, and **Bootstrap**.
+I also maintain a dedicated public repository to **document real-world coding errors**, insights, and practical fixes I encounter during development. This is not copied tutorial content — it's based on actual debugging experience with tools like **Laravel**, **Express.js**, **EJS**, **MongoDB**, **Tailwind**, **Blade**, **Bootstrap**, **Flatpickr**, and more.
 
-📂 **Error Documentation GitHub Repo**  
-🔗 [https://github.com/Reltroner/error-documentation](https://github.com/Reltroner/error-documentation)
+📂 **Bug Documentation GitHub Repo**  
+🔗 [https://github.com/Reltroner/bug-documentation](https://github.com/Reltroner/error-documentation)
 
 > Because I don't just build features — I understand what breaks them, why they break, and how to fix them for good.
 

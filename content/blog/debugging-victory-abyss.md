@@ -100,7 +100,7 @@ This wasn’t just a fix. It was a **rite of passage.**
 ---
 
 ## 📂 Error Documentation GitHub Repo  
-🔗 [https://github.com/Reltroner/error-documentation](https://github.com/Reltroner/error-documentation/blob/main/Fixing%20%60params.slug%60%20Error%20in%20Next.js%2014%2B%20App%20Router/README.md)
+🔗 [https://github.com/Reltroner/bug-documentation](https://github.com/Reltroner/error-documentation/blob/main/Fixing%20%60params.slug%60%20Error%20in%20Next.js%2014%2B%20App%20Router/README.md)
 
 > Because I don't just build features — I understand what breaks them,  
 > why they break, and how to fix them for good.
