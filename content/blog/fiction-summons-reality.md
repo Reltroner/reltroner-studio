@@ -27,7 +27,7 @@ This document explores a series of high-strangeness events recorded by the Astra
 Traditionally, fiction imitates life (mimesis). However, under Astralis Lens Protocol, we observe a **reverse-mimesis effect**: where fictional narratives create memetic resonance strong enough to alter the field of probability and manifest elements into reality.
 
 > *"When enough sentient minds believe in an impossibility—it becomes a statistical pressure point in the quantum potential stream."*
-> — Dr. Westley Watson, Dept. of Fictional Mechanics
+> — Dr. Westley Watson, Depcutland. of Fictional Mechanics
 
 ---
 
