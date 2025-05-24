@@ -468,6 +468,15 @@ const posts = [
     published: true,
     date: "2025-05-18",
     image: "/images/from-loss-to-systems.webp"
+  },
+  {
+    title: "When Fiction Summons Reality: Case Studies from the Astralis Archives",
+    description: "An investigative exploration into how powerful fictional narratives—from snakes on planes to predictive pandemics—have echoed into real-world events, as archived by the Astralis Pinnacle research division.",
+    slug: "fiction-summons-reality",
+    author: "Rei Reltroner",
+    date: "2025-05-24",
+    published: true,
+    image: "/images/fiction-summons-reality.webp"
   }
   
 ];

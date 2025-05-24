@@ -114,6 +114,7 @@ export default function CommandPalette() {
     { name: "Irreplaceable Value Statement – Rei Reltroner", path: "/blog/irreplaceable-value" },
     { name: "Asthortera Glossary", path: "/blog/asthortera-glossary" },
     { name: "From Loss to Systems — My Collapse Blueprint", path: "/blog/from-loss-to-systems" },
+    { name: "When Fiction Summons Reality: Case Studies from the Astralis Archives", path: "/blog/fiction-summons-reality" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
