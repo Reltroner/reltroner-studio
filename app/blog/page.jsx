@@ -477,6 +477,15 @@ const posts = [
     date: "2025-05-24",
     published: true,
     image: "/images/fiction-summons-reality.webp"
+  },
+  {
+    title: "Why Reltroner Rejects Final Destination: A Manifesto of Hope, Clarity, and Determination",
+    description: "A philosophical and narrative contrast between the fatalistic horror of Final Destination and the empowering ethos of Reltroner Studio — where death is not the end, but a frontier to transcend through hope, clarity, and perpetual struggle.",
+    slug: "rejects-final-destination",
+    image: "/images/rejects-final-destination.webp",
+    author: "Reltroner Studio",
+    published: true,
+    date: "2025-05-25"
   }
   
 ];
