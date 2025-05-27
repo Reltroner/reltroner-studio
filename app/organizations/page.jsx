@@ -97,7 +97,7 @@ const organizations = [
     image: "/images/cera.webp"
   },
   {
-    title: "📈 RXS 500 Index: Reltronland Exchange of Sentience",
+    title: "📈 RXS 500 Index: Reltronland Exchange of Sovereign",
     description: "An SDI-weighted stock index that reflects not only financial strength, but sentient impact and clarity-driven innovation.",
     slug: "rxs-500",
     image: "/images/rxs-500.webp",
