@@ -61,6 +61,42 @@ I also maintain a dedicated public repository to **document real-world coding er
 
 ---
 
+## 🛠️ Project Highlight: Reltroner HRM System
+
+**Project:** Reltroner HRM (Human Resource Management)  
+**Tech Stack:** Laravel 12, Blade, Eloquent ORM, MySQL/MariaDB, Tailwind CSS, Railway Cloud, Chart.js, Bootstrap  
+**Role:** System Architect, Lead Developer, DevOps  
+**Year:** May 2024
+
+### **Project Overview**
+Reltroner HRM is a full-featured Human Resource Management system architected, built, and deployed as a solo developer project in under 15 days. This system was engineered not just as an academic exercise, but as a real-world SaaS-grade product that delivers:
+
+- **Employee, Department, Role & Payroll Management**
+- **Attendance (Presence) with Geo-location (latitude/longitude, Google Maps integration)**
+- **Secure Authentication & Authorization (Laravel Breeze)**
+- **Responsive Admin Dashboard with Real-Time Charts & Statistics**
+- **Soft Deletes, Relational Data, Database Migration & Seeding**
+- **End-to-End CRUD with Validation and UX-focused Error Handling**
+- **Continuous Integration & Cloud Deployment with Railway (incl. custom pre-deploy commands for auto migrate/seed)**
+- **Bug documentation, automated testing, and error recovery as a core part of workflow**
+
+### **Achievements & Impact**
+- Delivered a complex HR system solo, at the pace and quality of a 2–3 person dev team in a fast-paced SaaS startup.
+- Overcame production deployment challenges (Railway, Nixpacks, CLI force flags) with hands-on debugging and live cloud fixes.
+- Designed the database and app structure for scale, maintainability, and clarity—ready for real teams, not just demos.
+- Implemented self-documented code and technical notes for future collaborators or recruiters to audit transparently.
+- Demonstrated not just feature-building, but also real-world problem-solving and DevOps resilience.
+
+### **Live Demo & Source**
+- 🌐 [hrm.reltroner.com](https://hrm.reltroner.com)
+- 💻 [github.com/Reltroner/reltroner-hr-app.git](https://github.com/Reltroner/reltroner-hr-app.git) *(private or public as permitted)*
+
+---
+
+> “Reltroner HRM is proof that I can ship MVP-quality, enterprise-ready platforms—solo, under pressure, and with best practice DevOps pipelines. I do not just build to learn. I build to launch and to lead.”
+
+---
+
 I may not appear on camera,  
 But I’m **fully present in every line of code and trace of my work.**
 
