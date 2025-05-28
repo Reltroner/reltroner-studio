@@ -54,7 +54,7 @@ Reltroner Studio was founded by **Rei Reltroner**, the creator of Asthortera, as
 All content in this repository is **© 2025 by Rei Reltroner**.  
 Unauthorized reproduction or plagiarism of **Reltronland**, **Asthortera**, or any affiliated fictional entities is strictly prohibited.
 
-📝 License: [Reltroner Studio Legal Declaration (IPFS)](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf)
+📝 License: [Reltroner Studio Legal Declaration (IPFS)](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf), [Reltroner Studio Legal Declaration (ArDrive)](https://app.ardrive.io/#/file/021c69cf-e79c-4f7b-8106-4094a98e04bb/view)
 
 ![License](https://img.shields.io/badge/license-Custom-red)
 ![Status](https://img.shields.io/badge/status-Active-blue)
