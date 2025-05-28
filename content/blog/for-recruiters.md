@@ -89,7 +89,7 @@ Reltroner HRM is a full-featured Human Resource Management system architected, b
 
 ### **Live Demo & Source**
 - 🌐 [hrm.reltroner.com](https://hrm.reltroner.com)
-- 💻 [github.com/Reltroner/reltroner-hr-app.git](https://github.com/Reltroner/reltroner-hr-app.git) *(private or public as permitted)*
+- 💻 [github.com/Reltroner/reltroner-hr-app.git](https://github.com/Reltroner/reltroner-hr-app.git)
 
 ---
 
