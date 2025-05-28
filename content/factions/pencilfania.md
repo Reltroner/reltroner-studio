@@ -8,6 +8,9 @@ image: "/images/pencilfania.webp"
 published: true
 ---
 
+![pencilfania1](/images/pencilfania1.webp)
+![pencilfania2](/images/pencilfania2.webp)
+
 ---
 
 # ✏️ **Pencilfania — The Artistic Heart of Asthortera**

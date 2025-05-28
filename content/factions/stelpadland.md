@@ -8,6 +8,9 @@ image: "/images/stelpadland.webp"
 published: true
 ---
 
+![stelpadland1](/images/stelpadland1.webp)
+![stelpadland2](/images/stelpadland2.webp)
+
 ---
 
 # 🍁 Stelpadland — Cradle of Global Scouting and Eternal Autumn

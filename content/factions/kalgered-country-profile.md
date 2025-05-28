@@ -7,6 +7,9 @@ tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelha
 published: true
 ---
 
+![kalgered1](/images/kalgered1.webp)
+![kalgered2](/images/kalgered2.webp)
+
 ---
 
 # 🏔️ **Kalgered Country Profile — The Neutral Heart of Asthortera**

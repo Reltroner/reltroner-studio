@@ -7,6 +7,10 @@ date: "2025-04-17"
 published: true
 ---
 
+![cenrestier1](/images/cenrestier1.webp)
+![cenrestier2](/images/cenrestier2.webp)
+![cenrestier3](/images/cenrestier3.webp)
+
 ---
 
 # 🏰 **Cenrestier Country Profile — "Land of Fortresses"**
