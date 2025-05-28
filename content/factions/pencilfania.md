@@ -79,7 +79,7 @@ published: true
 - **Taramistry**: Imports experimental pigments and bio-reactive paints.
 - **Reltronland**: Competitive exchange of digital design tools; artistic rivalry.
 - **Depcutland**: Purchases mechanical murals for their bureaucratic centers.
-- **Stelpadland**: Relations strained due to ethical opposition to propaganda commissions.
+- **Stelpadland**: Pencilfania adopts the Stelpadland's scout leadership code in its children's mentoring program.
 
 ---
 
@@ -99,7 +99,7 @@ published: true
 - **🤝 Taramistry**: Scientific-artistic synergy. Cooperative pigment and tech development.
 - **⚡ Reltronland**: Productive rivalry. Competing on artpunk innovation.
 - **🎭 Depcutland**: Warm and professional — an ongoing aesthetic collaboration.
-- **❄️ Stelpadland**: Cold relations due to ideological conflict over weaponized art.
+- **🍁 Stelpadland**: Stelpadland borrows Pencilfania's interactive canvas technology for visual education of scout students.
 
 ---
 
