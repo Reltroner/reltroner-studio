@@ -13,7 +13,9 @@ published: true
 image: "/images/wayne-astoner.webp"
 ---
 
-### Profile
+---
+
+# Profile
 Wayne Astoner, is a fresh immigrant from Astrostelia who has just entered the corporate world in Reltronland. With Cosmeilia-Human heritage, Wayne brings a unique perspective to life and workplace culture. He is brave, intelligent, and free-spirited, firmly believing in equality and meritocracy.
 
 He is determined to prove his worth and gain respect as an immigrant in the advanced nation of Reltronland. He often clashes with traditional work norms through his creative, reformist ideas. Wayne faces constant pressure due to his newcomer status but is relentless in demonstrating his value in the elite professional environment.

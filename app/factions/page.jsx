@@ -99,6 +99,16 @@ const factions = [
     published: true
   },
   {
+    title: "Pencilfania — The Artistic Heart of Asthortera",
+    description: "Explore the nation where every law is painted, every debate is drawn, and creativity is the foundation of society. Pencilfania blends artpunk technology with democratic expression to shape a civilization driven by imagination.",
+    slug: "pencilfania",
+    author: "Rei Reltroner",
+    date: "2025-05-28",
+    tags: ["Pencilfania", "Asthortera Lore", "Creative Worldbuilding", "Artpunk Society", "Fantasy Nations", "Reltroner Studio", "SDI Universe", "Visual Philosophy"],
+    image: "/images/pencilfania.webp",
+    published: true
+  },
+  {
     title: "Henchoeway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoeway", 

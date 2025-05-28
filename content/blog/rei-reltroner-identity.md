@@ -7,6 +7,8 @@ published: true
 image: "/images/rei-idcard.webp"
 ---
 
+---
+
 # 🪪 Public Identity Declaration of Rei Reltroner  
 **Name, Birthdate, and Beyond the Fiction**
 
