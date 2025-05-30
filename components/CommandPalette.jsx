@@ -116,6 +116,7 @@ export default function CommandPalette() {
     { name: "From Loss to Systems — My Collapse Blueprint", path: "/blog/from-loss-to-systems" },
     { name: "When Fiction Summons Reality: Case Studies from the Astralis Archives", path: "/blog/fiction-summons-reality" },
     { name: "Why Reltroner Rejects Final Destination: A Manifesto of Hope, Clarity, and Determination", path: "/blog/rejects-final-destination" },
+    { name: "Reflection: From Years of Debugging Pain to Compounding Mastery", path: "/blog/debugging-compounding" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

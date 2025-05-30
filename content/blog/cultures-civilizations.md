@@ -7,6 +7,8 @@ published: true
 image: "/images/culciv.webp"
 ---
 
+---
+
 # Cultures & Civilizations
 
 World-building isn't just about geography and magic systems — it's about people. The cultures and civilizations that inhabit your world breathe life into it, shaping history, politics, language, fashion, and daily life. This guide helps you construct believable societies that feel rich, layered, and alive.

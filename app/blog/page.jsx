@@ -486,6 +486,15 @@ const posts = [
     author: "Reltroner Studio",
     published: true,
     date: "2025-05-25"
+  },
+  {
+    title: "Reflection: From Years of Debugging Pain to Compounding Mastery",
+    description: "A personal journey from helpless debugging loops to exponential mastery — proof that persistence and compounding growth turn pain into power.",
+    slug: "debugging-compounding",
+    image: "/images/debugging-compounding.webp",
+    author: "Reltroner Studio",
+    date: "2025-05-30",
+    published: true
   }
   
 ];
