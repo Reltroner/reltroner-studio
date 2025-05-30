@@ -8,7 +8,9 @@ date: "2025-04-27"
 published: true
 ---
 
-## Asthortera vs Earth: Planetary Comparison
+---
+
+# Asthortera vs Earth: Planetary Comparison
 
 ## 🌍 Overview
 This document provides a detailed comparison between the fictional Super Earth planet **Asthortera** and **Earth**, highlighting their fundamental physical characteristics including diameter, surface area, and volume.
