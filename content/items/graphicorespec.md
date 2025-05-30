@@ -188,3 +188,87 @@ GraphiCore Pencil allows on-demand structural deployment using encoded sketches,
 
 > *“You don’t draw solutions. You solve through drawing.”*  
 > — Pencilfania Engineering Concord
+
+---
+
+![graphicoresovereigntymanifesto](/images/graphicoresovereigntymanifesto.webp)
+
+# ✏️ GraphiCore Sovereignty Manifesto  
+### The Constitutional Core of Pencilfania’s Independence
+
+> *“To draw is to define. To define is to decide. To decide is to govern.”*
+
+This document establishes the **GraphiCore Pencil** not merely as a tool, but as the **sacred symbol and mechanism of Pencilfania’s sovereign power**, embodying the nation’s will, ethics, and technological independence.
+
+---
+
+## 🛡️ Article I — National Identity through Line
+
+The GraphiCore Pencil is the extension of the citizen’s intent, linking **artistic expression to architectural governance**.
+
+- A pencil drawn with purpose equals a vote of consciousness.  
+- Every citizen, by drawing, participates in the structuring of the nation.
+
+> “We do not need guns—we have gridlines.”
+
+---
+
+## ✨ Article II — Kemandirian through Energy and Craft
+
+GraphiCore empowers Pencilfania to:
+
+- Build emergency infrastructure (ramps, bridges, shelters) on-demand.
+- Visualize diplomatic strategies without reliance on external powers.
+- Document truths through immutable sketched memory scrolls.
+
+All without the use of industrial military or foreign reliance.
+
+> “Our defenses are drafted. Our victories are drawn.”
+
+---
+
+## 📜 Article III — Ethical Governance by Sketch
+
+Every stroke of GraphiCore:
+
+- Must obey physical reality (no fictional constructs).  
+- Must draw only what can be ethically sustained.  
+- Will be logged in the **National Energy Ledger**.  
+- Will be reviewable by the **Council of Constructive Ethics**.
+
+Abuse of the GraphiCore is a **violation of artistic sovereignty**.
+
+> “A rushed line causes collapse. A responsible line builds legacies.”
+
+---
+
+## 🏛️ Article IV — Diplomatic Visualization Doctrine
+
+GraphiCore allows:
+- Treaty visualization and projection.
+- Topographical solutions during negotiations.
+- Conflict de-escalation through shared spatial planning.
+
+All diplomatic missions carry a GraphiCore Envoy.
+
+> “Draw the peace before it is broken.”
+
+---
+
+## 🌐 Article V — Symbol of Sovereignty
+
+- The GraphiCore Pencil is officially designated as the **National Instrument of Sovereignty**.
+- Its use, form, and legacy are protected under the **Pencilfania Civil Codex § 11.3**.
+- The design is sacred. The energy is shared. The pencil is eternal.
+
+---
+
+## 📖 Final Statement
+
+Let it be known to all sentient nations:  
+**Pencilfania does not wield weapons—it wields vision.**  
+**Its walls are sketched. Its bridges are empathy.**  
+**And its sovereignty begins with one silent, glowing line.**
+
+**Signed under the Sunset of Paintreist,**  
+The Assembly of Artistic Sovereignty, 2025-05-30
