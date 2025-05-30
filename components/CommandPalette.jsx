@@ -337,6 +337,7 @@ export default function CommandPalette() {
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
     { name: "Reltroner AI Fork – Memory-as-a-Service Product Sheet", path: "/items/reltroner-ai-fork" },
+    { name: "✏️ GraphiCore — The Sentient Pencil of Pencilfania", path: "/items/graphicorespec" },
 
   ];
 

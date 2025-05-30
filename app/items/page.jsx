@@ -24,6 +24,15 @@ const items = [
     author: "Rei Reltroner",
     image: "/images/reltroner-ai-fork.webp",
     published: true
+  },
+  {
+    title: "✏️ GraphiCore — The Sentient Pencil of Pencilfania",
+    description: "A magi-technological writing instrument that obeys physics, converts emotion into structure, and redefines creation through causality-bound sketching in the artistic nation of Pencilfania.",
+    slug: "graphicorespec",
+    image: "/images/graphicorespec.webp",
+    author: "Reltroner Studio",
+    date: "2025-05-30",
+    published: true
   }
   
   
