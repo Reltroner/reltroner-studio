@@ -1,29 +1,29 @@
 ---
-title: "Henchoeway"
-description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench."
-image: "/images/henchoeway.webp"
+title: "Henchoway"
+description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench."
+image: "/images/henchoway.webp"
 author: "Rei Reltroner"
 date: "2025-04-07"
 published: true
 ---
 
-# Henchoeway
+# Henchoway
 
 > *“To dive is to forget. To forget is to belong.”*
 
-Henchoeway is a deep-sea cult organization rooted in the darkest depths of **Nytherion Abyss**, disguised as a movement for comfort, stillness, and stability. Founded by *Vitor Baythorne* (alias Van Den Scuba), the group is now led by **Kamila Alena**, spreading its influence across Asthortera through illusions of peace.
+Henchoway is a deep-sea cult organization rooted in the darkest depths of **Nytherion Abyss**, disguised as a movement for comfort, stillness, and stability. Founded by *Vitor Baythorne* (alias Van Den Scuba), the group is now led by **Kamila Alena**, spreading its influence across Asthortera through illusions of peace.
 
 ---
 
 ## 🌊 Origins & Name
-- The name “Henchoeway” was inspired by a Rei's childhood memory of a black-suited scuba diver at a waterpark, whom the founder called “Henchoewayway.”
+- The name “Henchoway” was inspired by a Rei's childhood memory of a black-suited scuba diver at a waterpark, whom the founder called “Henchowayway.”
 - The second sighting occurred at Sea World, reinforcing the emotional imprint.
-- From “Henchoewayway Scuba Institute,” it evolved into **Henchoeway**, a formalized and eerie name tied forever to abyssal manipulation.
+- From “Henchowayway Scuba Institute,” it evolved into **Henchoway**, a formalized and eerie name tied forever to abyssal manipulation.
 
 ---
 
 ## 🧠 Ideology
-Henchoeway teaches that **comfort is the ultimate salvation**—and that struggle, awakening, or resistance are harmful distractions.
+Henchoway teaches that **comfort is the ultimate salvation**—and that struggle, awakening, or resistance are harmful distractions.
 
 They operate by infiltrating public consciousness, offering stability, routine, and artificial peace. But underneath, they channel the spiritual energy of **Nytherion Abyss (Blue Pill Extreme)**.
 
@@ -66,7 +66,7 @@ They operate by infiltrating public consciousness, offering stability, routine, 
 ---
 
 ## 📍 Headquarters Location
-Henchoeway’s **main base is submerged deep within Tremora Trench**, an oceanic pit near **Hargenbor Bay**. The facility is hidden beneath extreme oceanic pressure, only accessible through ritualized diving protocols known only to high-level initiates.
+Henchoway’s **main base is submerged deep within Tremora Trench**, an oceanic pit near **Hargenbor Bay**. The facility is hidden beneath extreme oceanic pressure, only accessible through ritualized diving protocols known only to high-level initiates.
 
 Inside, silence reigns. The walls pulse faintly with Nytherion energy. Memory distortion begins the moment you enter.
 
@@ -75,7 +75,7 @@ Inside, silence reigns. The walls pulse faintly with Nytherion energy. Memory di
 ## 🕳️ Symbolism
 - **Nytherion Sphere**: Purple–blue–black circle, symbol of eternal stillness
 - **Astralis Triangle**: Glowing red triangle, symbol of forbidden rebellion
-- Henchoeway rejects the Astralis path and enforces the doctrine of still waters.
+- Henchoway rejects the Astralis path and enforces the doctrine of still waters.
 
 ---
 
@@ -92,18 +92,18 @@ Inside, silence reigns. The walls pulse faintly with Nytherion energy. Memory di
 
 ---
 
-# Origins of Henchoeway
+# Origins of Henchoway
 
 > *“To dive is to forget. But in forgetting, we remember the Abyss.”*
 
-Henchoeway is not merely a cult—it is an ancient extension of the **Nytherion Abyss**, woven into the physical history of Asthortera and the cosmic migration of Depeisit.
+Henchoway is not merely a cult—it is an ancient extension of the **Nytherion Abyss**, woven into the physical history of Asthortera and the cosmic migration of Depeisit.
 
 ---
 
 ## 🛸 Colonial Origins
 
 - **Founded:** Around **1120 BAC**, during the **first wave of mass migration** from planet **Depeisit** to Asthortera.
-- **Original Name:** *Henchoewayway Scuba Division*, established to explore the deep waters of **Hargenbor Bay**.
+- **Original Name:** *Henchowayway Scuba Division*, established to explore the deep waters of **Hargenbor Bay**.
 - **Purpose:** To establish strategic underwater colonies and monitor mysterious spiritual anomalies detected beneath the Central Ocean.
 
 But in the depths, they found more than minerals—they found **Nytherion energy** sealed beneath **Etherna Ruin**. Contact with this ancient force changed everything.
@@ -118,31 +118,31 @@ But in the depths, they found more than minerals—they found **Nytherion energy
 
 > *“Struggle is chaos. Comfort is eternal.”*
 
-The organization dropped its original name and became simply: **Henchoeway**.
+The organization dropped its original name and became simply: **Henchoway**.
 
 ---
 
 ## 🧸 The Childhood Resonance
 
 > When I was a child, I saw a diver at a waterpark in a black suit and called him **‘Hencowewe’**.
-> Later, at Sea World, I saw another and cried out, **“That’s Henchoewayway!!”**
+> Later, at Sea World, I saw another and cried out, **“That’s Henchowayway!!”**
 
 This innocent experience became the **spiritual echo** of something much older—an ancestral resonance from a forgotten past.
 
-In truth, **Henchoeway existed long before my memory. But my soul remembered.**
+In truth, **Henchoway existed long before my memory. But my soul remembered.**
 
 ---
 
 ## 🧬 Enduring Through Time
 
-- Though Depeisit collapsed into crisis, and though Depcutland and Reltronland fought for their futures… Henchoeway **persisted.**
+- Though Depeisit collapsed into crisis, and though Depcutland and Reltronland fought for their futures… Henchoway **persisted.**
 - It **outlived empires**, adapted through disguise, and silently manipulated minds under the banner of *comfort*.
 - Its **true base** lies hidden in the **Tremora Trench**, near Hargenbor Bay—silent, eternal, watching.
 
 ---
 
 ## 🌀 Philosophy
-- Henchoeway rejects resistance and glorifies stagnation.
+- Henchoway rejects resistance and glorifies stagnation.
 - It believes the greatest threat to peace is **awareness**.
 - Nytherion is not evil—it is comfort. And comfort… is the most dangerous illusion.
 
@@ -151,7 +151,7 @@ In truth, **Henchoeway existed long before my memory. But my soul remembered.**
 ---
 
 ## 🧩 Legacy
-Henchoeway is the **spiritual continuation of Depeisit’s colonial past**, twisted by Nytherion energy and preserved by the still waters of Asthortera’s deepest trench.
+Henchoway is the **spiritual continuation of Depeisit’s colonial past**, twisted by Nytherion energy and preserved by the still waters of Asthortera’s deepest trench.
 
 It is not just an organization.
 It is a memory.
@@ -162,7 +162,7 @@ A warning.
 
 ### 👁️ Final Warning
 > If you see a diver in black near the shoreline of Hargenbor Bay…
-> You have already been seen by Henchoeway.
+> You have already been seen by Henchoway.
 
 ---
 

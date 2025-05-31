@@ -127,7 +127,7 @@ This moment lays the philosophical DNA for all resistance in later centuries.
 ### 🔥 **🌌 Phase II: Breakdown of Utopias (Year 6–25)**  
 > Entry point for new protagonists to discover the truth **buried in the Spiral.**
 
-- *Rise & Fall of Henchoeway*  
+- *Rise & Fall of Henchoway*  
 - *The Abyss of Comfort*  
 - *Delwyn’s Bounty Hunter Team*  
 - *Barry & Hendry Arc*  
@@ -215,14 +215,14 @@ And there is no Astralis without the one who bled for it first."_
 
 ---
 
-**4. Title:** *Rise & Fall of Henchoeway*  
+**4. Title:** *Rise & Fall of Henchoway*  
 **Timeline:** Year 6–20  
 **Main POV:** Delwyn, Rei, Barry  
-**Summary:** The internal collapse of the once-idealistic Henchoeway group. Delwyn’s infiltration exposes Kamila’s descent into extremist philosophy. Rei and Barry are caught in the moral chaos.
+**Summary:** The internal collapse of the once-idealistic Henchoway group. Delwyn’s infiltration exposes Kamila’s descent into extremist philosophy. Rei and Barry are caught in the moral chaos.
 **Key Scenes:**  
-- Delwyn's confrontation with Kamila inside Henchoeway Temple  
-- Barry leaking classified Henchoeway operations  
-- Final split of Henchoeway into two radical factions
+- Delwyn's confrontation with Kamila inside Henchoway Temple  
+- Barry leaking classified Henchoway operations  
+- Final split of Henchoway into two radical factions
 
 ---
 
@@ -240,7 +240,7 @@ And there is no Astralis without the one who bled for it first."_
 **6. Title:** *Delwyn’s Bounty Hunter Team*  
 **Timeline:** Year 6–25  
 **Main POV:** Delwyn, Hendry, Barry  
-**Summary:** Episodic missions across Asthortera to hunt key figures tied to Henchoeway and Spiral syndicates. A mix of action, dialogue-heavy planning, and bonding.
+**Summary:** Episodic missions across Asthortera to hunt key figures tied to Henchoway and Spiral syndicates. A mix of action, dialogue-heavy planning, and bonding.
 **Key Scenes:**  
 - Hendry’s betrayal and redemption  
 - The assault on a blackmarket AI hub  
@@ -401,7 +401,7 @@ The **Canon Era** includes stories, events, and characters explicitly aligned wi
 
 ---
 
-### 📘 *Rise & Fall of Henchoeway*  
+### 📘 *Rise & Fall of Henchoway*  
 **Timeline**: 6–20 AC  
 **Status**: ✅ Canon
 

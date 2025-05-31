@@ -1,6 +1,6 @@
 ---
 title: "Fractal Civilizations of Asthortera: Strategic Identity Map"
-description: "An in-depth ideological overview of the four major forces shaping Asthortera: Reltronland, Depcutland, Henchoeway, and Depeisit—each reflecting a distinct philosophy of civilization, consciousness, and collapse."
+description: "An in-depth ideological overview of the four major forces shaping Asthortera: Reltronland, Depcutland, Henchoway, and Depeisit—each reflecting a distinct philosophy of civilization, consciousness, and collapse."
 image: "/images/fractal-civilizations.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
@@ -59,16 +59,16 @@ High Formalism · Ethical Heritage · Silence over Spectacle · Thought before E
 
 ---
 
-## 🟥 Henchoeway — *The Eternal Antagonist*
+## 🟥 Henchoway — *The Eternal Antagonist*
 - **Alignment:** Antagonist / Manifested Nytherion Abyss
 - **Ideology:** Manipulation, stagnation, illusory freedom
 - **Cultural Power:** Covert propaganda, sensory overload, parasitic comfort
 - **Philosophical Role:** The abyss that never dies because it disguises itself as “rest”
 - **Symbolic Essence:** The invisible prison of inaction and self-deception
 
-### 🤿 Henchoeway Deep Lore
+### 🤿 Henchoway Deep Lore
 **“To dive is to forget. To forget is to belong.”**  
-Henchoeway is a deep-sea cult organization rooted in the darkest depths of Nytherion Abyss, disguised as a movement for comfort, stillness, and stability. Founded by **Vitor Baythorne** (alias *Van Den Scuba*), the group is now led by **Kamila Alena**, spreading its influence across Asthortera through illusions of peace and false liberation.
+Henchoway is a deep-sea cult organization rooted in the darkest depths of Nytherion Abyss, disguised as a movement for comfort, stillness, and stability. Founded by **Vitor Baythorne** (alias *Van Den Scuba*), the group is now led by **Kamila Alena**, spreading its influence across Asthortera through illusions of peace and false liberation.
 
 ### 🧠 Keywords
 Blue Pill Extreme · Comfort Trap · Mental Rot · Eternal Void in Disguise
@@ -105,7 +105,7 @@ Overcentralization · Exploitive Legacy · Lost Potential · Technological Ruins
 
 ---
 
-#### 🟥 **Henchoeway**
+#### 🟥 **Henchoway**
 - **Role:** Abysmal Antagonist  
 - **Core Trait:** Illusory Control  
 - **Threat Level:** Very High  
@@ -127,7 +127,7 @@ Overcentralization · Exploitive Legacy · Lost Potential · Technological Ruins
 In every decision, a citizen must choose:
 - Rise to Astralis Pinnacle like Reltronland  
 - Refine the past like Depcutland  
-- Fall into the abyss with Henchoeway  
+- Fall into the abyss with Henchoway  
 - Or become a shadow of promise like Depeisit
 
 **Let this map remind you: The world outside reflects the world within.**

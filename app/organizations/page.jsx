@@ -16,10 +16,10 @@ const organizations = [
     published: true
   },
   {
-    title: "Henchoeway",
-    description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
-    slug: "henchoeway", 
-    image: "/images/henchoeway.webp", 
+    title: "Henchoway",
+    description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
+    slug: "henchoway", 
+    image: "/images/henchoway.webp", 
     author: "Rei Reltroner",
     date: "2025-04-07",
     published: true

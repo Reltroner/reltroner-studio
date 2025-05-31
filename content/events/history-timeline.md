@@ -284,7 +284,7 @@ _This moment marks Reltronland as the **first nation on Asthortera** to achieve 
 
 **0–25 AC**
 - Multiple arcs including *Spiral and Astralis*, *The Abyss of Comfort*, and *Battle of Reltronepolis*.
-- Rise and fall of Henchoeway.
+- Rise and fall of Henchoway.
 
 ## 📚 Roadmap Series Asthortera - Reltroner Studio
 
@@ -321,14 +321,14 @@ _This moment marks Reltronland as the **first nation on Asthortera** to achieve 
 
 ---
 
-**4. Title:** *Rise & Fall of Henchoeway*  
+**4. Title:** *Rise & Fall of Henchoway*  
 **Timeline:** Year 6–20 AC  
 **Main POV:** Delwyn, Rei, Barry  
-**Summary:** The internal collapse of the once-idealistic Henchoeway group. Delwyn’s infiltration exposes Kamila’s descent into extremist philosophy. Rei and Barry are caught in the moral chaos.
+**Summary:** The internal collapse of the once-idealistic Henchoway group. Delwyn’s infiltration exposes Kamila’s descent into extremist philosophy. Rei and Barry are caught in the moral chaos.
 **Key Scenes:**  
-- Delwyn's confrontation with Kamila inside Henchoeway Temple  
-- Barry leaking classified Henchoeway operations  
-- Final split of Henchoeway into two radical factions
+- Delwyn's confrontation with Kamila inside Henchoway Temple  
+- Barry leaking classified Henchoway operations  
+- Final split of Henchoway into two radical factions
 
 ---
 
@@ -346,7 +346,7 @@ _This moment marks Reltronland as the **first nation on Asthortera** to achieve 
 **6. Title:** *Delwyn’s Bounty Hunter Team*  
 **Timeline:** Year 6–25 AC  
 **Main POV:** Delwyn, Isaac, Barry  
-**Summary:** Episodic missions across Asthortera to hunt key figures tied to Henchoeway and Spiral syndicates. A mix of action, dialogue-heavy planning, and bonding.
+**Summary:** Episodic missions across Asthortera to hunt key figures tied to Henchoway and Spiral syndicates. A mix of action, dialogue-heavy planning, and bonding.
 **Key Scenes:**  
 - Hendry’s betrayal and redemption  
 - The assault on a blackmarket AI hub  

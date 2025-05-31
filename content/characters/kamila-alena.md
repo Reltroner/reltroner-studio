@@ -1,6 +1,6 @@
 ---
 title: "Kamila Alena"
-role: "Leader of Henchoeway & Nytherion Abyss Architect"
+role: "Leader of Henchoway & Nytherion Abyss Architect"
 description: "The orchestrator of Nytherion’s birth, Kamila is the mind behind the world's deepest illusions."
 author: "Reltroner Studio"
 date: "March 29, 2025"
@@ -9,16 +9,16 @@ image: "/images/kamila-alena.webp"
 quote: "Peace built on truth is fragile. Peace built on comfort is eternal."
 ---
 
-Kamila Alena is a name whispered in political chambers, echoed in broken dreams, and feared in the hearts of those who dared to question comfort. She is the enigmatic leader of **Henchoeway**, a covert organization that masterminded the spread of **Nytherion Abyss** — a dimension born from the collective desire to escape pain, loss, and reality.
+Kamila Alena is a name whispered in political chambers, echoed in broken dreams, and feared in the hearts of those who dared to question comfort. She is the enigmatic leader of **Henchoway**, a covert organization that masterminded the spread of **Nytherion Abyss** — a dimension born from the collective desire to escape pain, loss, and reality.
 
 Born in **Hargenbor**, Kamila was once a brilliant student of metaphysical science, but her life changed after surviving the *Eterna Collapse*, a cataclysmic energy failure that claimed the lives of thousands, including her closest family. That trauma reshaped her ideology: she came to see pain as humanity’s greatest enemy — and illusion as its only salvation.
 
-She vanished for years, only to re-emerge with **Henchoeway**, a group cloaked in humanitarian goals but working silently to anchor **Nytherion Abyss** into the minds of global populations.
+She vanished for years, only to re-emerge with **Henchoway**, a group cloaked in humanitarian goals but working silently to anchor **Nytherion Abyss** into the minds of global populations.
 
 ---
 
 ## The Architect of Illusion
-Kamila doesn’t rule with weapons — she rules with **perception**. Through Henchoeway, she planted seeds of comfort-driven ideology, preaching a life without suffering, free from struggle. Behind that was the abyss: a living, sentient realm that sedated consciousness and rewrote memory.
+Kamila doesn’t rule with weapons — she rules with **perception**. Through Henchoway, she planted seeds of comfort-driven ideology, preaching a life without suffering, free from struggle. Behind that was the abyss: a living, sentient realm that sedated consciousness and rewrote memory.
 
 The **Nytherion Abyss** was never a weapon of war — it was a system of surrender.
 

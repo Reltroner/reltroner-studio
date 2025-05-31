@@ -109,14 +109,14 @@ const myths = [
     tags: ["nytherion abyss", "abyssal lore", "blue pill", "existential horror", "reltroner studio"]
   },
   {
-    title: "🤿Silent Echoes of Henchoeway",
-    description: "Subtle artifacts and rumors scattered across Asthortera, spreading Henchoeway’s presence like a virus of consciousness.",
-    slug: "silent-echoes-of-henchoeway",
-    image: "/images/silent-echoes-of-henchoeway.webp",
+    title: "🤿Silent Echoes of Henchoway",
+    description: "Subtle artifacts and rumors scattered across Asthortera, spreading Henchoway’s presence like a virus of consciousness.",
+    slug: "silent-echoes-of-henchoway",
+    image: "/images/silent-echoes-of-henchoway.webp",
     author: "Rei Reltroner",
     published: true,
     date: "2025-04-22",
-    tags: ["henchoeway", "nytherion abyss", "abyssal lore", "psychological horror", "cultural spread"]
+    tags: ["henchoway", "nytherion abyss", "abyssal lore", "psychological horror", "cultural spread"]
   },
   {
     title: "📡 The Ritual of Astralis Contact",

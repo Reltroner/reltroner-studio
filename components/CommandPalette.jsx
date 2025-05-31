@@ -187,10 +187,10 @@ export default function CommandPalette() {
     { name: "🌀 The Spiral Maw", path: "/myths/the-spiral-maw" },
     { name: "🌀 Existential Corrosion", path: "/myths/existential-corrosion"},
     { name: "🕳️ How the Abyss Feeds", path: "/myths/how-the-abyss-feeds"},
-    { name: "🤿Silent Echoes of Henchoeway", path: "/myths/silent-echoes-of-henchoeway"},
+    { name: "🤿Silent Echoes of Henchoway", path: "/myths/silent-echoes-of-henchoway"},
     { name: "📡 The Ritual of Astralis Contact", path: "/myths/ritual-astralis-contact"},
     // Organizations
-    { name: "Henchoeway", path: "/organizations/henchoeway" },
+    { name: "Henchoway", path: "/organizations/henchoway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },
     { name: "🛡️ Reltronland Space Command (RSC)", path: "/organizations/reltronland-space-command" },
     { name: "🛰️ Asthortera Space Command (ASC)", path: "/organizations/asthortera-space-command" },

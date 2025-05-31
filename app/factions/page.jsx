@@ -35,7 +35,7 @@ const factions = [
   },
   {
     title: "Fractal Civilizations of Asthortera: Strategic Identity Map",
-    description: "An in-depth ideological overview of the four major forces shaping Asthortera: Reltronland, Depcutland, Henchoeway, and Depeisit—each reflecting a distinct philosophy of civilization, consciousness, and collapse.",
+    description: "An in-depth ideological overview of the four major forces shaping Asthortera: Reltronland, Depcutland, Henchoway, and Depeisit—each reflecting a distinct philosophy of civilization, consciousness, and collapse.",
     slug: "fractal-civilizations",
     image: "/images/fractal-civilizations.webp",
     author: "Rei Reltroner",
@@ -109,20 +109,20 @@ const factions = [
     published: true
   },
   {
-    title: "Henchoeway",
-    description: "A secretive cult rooted in Nytherion Abyss, Henchoeway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
-    slug: "henchoeway", 
-    image: "/images/henchoeway.webp", 
+    title: "Henchoway",
+    description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
+    slug: "henchoway", 
+    image: "/images/henchoway.webp", 
     author: "Rei Reltroner",
     date: "2025-04-07",
     published: true
   }
 
   // {
-  //   title: "Henchoeway",
+  //   title: "Henchoway",
   //   description: "A manipulative organization that seeks to control minds and systems through illusion, stagnation, and psychological warfare. The brain behind the abyss.",
-  //   slug: "henchoeway",
-  //   image: "/images/henchoeway-cover.webp",
+  //   slug: "Henchoway",
+  //   image: "/images/Henchoway-cover.webp",
   //   author: "Rei Reltroner",
   //   date: "2025-04-10"
   // },
