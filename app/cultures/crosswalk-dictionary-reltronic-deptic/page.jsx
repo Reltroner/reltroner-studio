@@ -59,14 +59,9 @@ export default function Page() {
           loading="lazy"
         />
         <p className="italic text-sm text-gray-500 text-center mt-2">
-          2025-06-01 – Published
+          Published: 2025-06-01 · Compiled by: Astralis Doctrine Council
         </p>
       </div>
-      <hr className="my-6" />
-
-      <p className="italic text-sm text-gray-500 mt-[-0.5rem] mb-6">
-        Published: 2025-06-01 · Compiled by: Astralis Doctrine Council
-      </p>
       <hr className="my-6" />
 
       <div className="mb-6 space-y-3">
