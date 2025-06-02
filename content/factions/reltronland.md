@@ -104,7 +104,7 @@ can thrive — regardless of origin.
   - 3% other interplanetary immigrants and mixed species
 - **Land Area:** 104 million km² — including vertically and subterranean urbanized mega-regions
 - **Capital:** **Reltralia** — the political and policy epicenter
-- **Official Language:** Reltronian (hybrid of Depeisian & Cisthetan)
+- **Official Language:** Reltronic (hybrid of Depeisian & Cisthetan)
 - **Currency:** **REL** (Reltronian Credit)
 - **Philosophy:** Red Pill Realism, Self-discipline, Sentient Development
 - **Symbols:** Monumental skyscrapers, white-collar uniforms, castella cake

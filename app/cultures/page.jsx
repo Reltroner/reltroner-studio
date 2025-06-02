@@ -153,7 +153,34 @@ const cultures = [
     date: "2025-04-16",
     published: true,
     image: "/images/meeting-reltronland.webp"
-  }  
+  },
+  {
+    title: "Mini Deptic Dictionary: 50+ Root Words",
+    description: "A foundational glossary for the Deptic language, used by the people of Depcutland and Depeisit in the Asthortera universe.",
+    slug: "mini-deptic-dictionary",
+    author: "Reltroner Studio",
+    date: "2025-06-01",
+    published: true,
+    image: "/images/mini-deptic-dictionary.webp"
+  },
+  {
+    title: "Mini Reltronic Dictionary: 50+ Root Words",
+    description: "A foundational glossary for the Reltronic language — a hybrid linguistic system forged from Depeisian (Deptic), Cisthetan fluency, and the doctrine of Astralis Pinnacle. Designed as the official language of Reltronland, Reltronic enables high-clarity expression of logic, identity, and transcendence.",
+    slug: "reltronic-root-words",
+    image: "/images/reltronic-root-words.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-01",
+    published: true
+  },
+  {
+    title: "Crosswalk Dictionary: Deptic ↔ Reltronic ↔ English",
+    description: "A multilingual comparative lexicon mapping core concepts between Deptic, Reltronic, and English — illustrating linguistic divergence, doctrinal evolution, and ideological clarity across the twin nations of Depcutland and Reltronland in the Asthortera universe.",
+    slug: "crosswalk-dictionary-reltronic-deptic",
+    image: "/images/crosswalk-dictionary-reltronic-deptic.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-01",
+    published: true
+  }
 
 ];
 

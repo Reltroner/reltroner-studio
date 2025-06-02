@@ -117,6 +117,7 @@ export default function CommandPalette() {
     { name: "When Fiction Summons Reality: Case Studies from the Astralis Archives", path: "/blog/fiction-summons-reality" },
     { name: "Why Reltroner Rejects Final Destination: A Manifesto of Hope, Clarity, and Determination", path: "/blog/rejects-final-destination" },
     { name: "Reflection: From Years of Debugging Pain to Compounding Mastery", path: "/blog/debugging-compounding" },
+    { name: "Declaration of Academic Liberation", path: "/blog/declaration-academic-liberation" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -154,6 +155,9 @@ export default function CommandPalette() {
     { name: "Aurora Faith of Aurastelia", path: "/cultures/aurora-faith" },
     { name: "Gender Friendship Manifesto of Asthortera", path: "/cultures/gender-friendship-manifesto" },
     { name: "📜 Reltronland Meeting Manifesto", path: "/cultures/meeting-reltronland" },
+    { name: "Mini Deptic Dictionary: 50+ Root Words", path: "/cultures/mini-deptic-dictionary" },
+    { name: "Mini Reltronic Dictionary: 50+ Root Words", path: "/cultures/reltronic-root-words" },
+    { name: "Crosswalk Dictionary: Deptic ↔ Reltronic ↔ English", path: "/cultures/crosswalk-dictionary-reltronic-deptic" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },

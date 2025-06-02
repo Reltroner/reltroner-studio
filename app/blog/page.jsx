@@ -495,6 +495,15 @@ const posts = [
     author: "Reltroner Studio",
     date: "2025-05-30",
     published: true
+  },
+  {
+    title: "Declaration of Academic Liberation",
+    description: "A powerful manifesto rejecting academic feudalism and intellectual suppression, this declaration empowers visionary students to rise above outdated systems, embrace self-directed learning, and reclaim their educational sovereignty through clarity, courage, and purpose.",
+    slug: "declaration-academic-liberation",
+    image: "/images/declaration-academic-liberation.webp",
+    author: "Reltroner Studio",
+    date: "2025-05-28",
+    published: true
   }
   
 ];

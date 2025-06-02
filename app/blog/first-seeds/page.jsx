@@ -8,14 +8,18 @@ import Heading from "@/components/Heading";
 export default function FirstSeedsPage() {
   return (
     <div className="prose dark:prose-invert max-w-3xl mx-auto px-4 py-10">
-        
+      <Heading className="text-2xl sm:text-3xl mb-4">🌱 First Seeds of Reltroner</Heading>
+        <div className="mb-4">
         <img
-        src="/images/first-seeds-banner.webp"
-        alt="First Seeds of Reltroner"
-        className="w-full h-auto rounded-lg mb-6 shadow-md"
+            src="/images/first-seeds-banner.webp"
+            alt="Mini Deptic Dictionary: 50+ Root Words"
+            className="w-full h-auto rounded-lg shadow-md mb-2"
         />
-      <h1>🌱 First Seeds of Reltroner</h1>
-
+        <p className="italic text-sm text-gray-500 text-center mt-2">
+            2025-04-30 - Published
+        </p>
+        </div>
+        <hr />
       <p>
         Before the philosophies. Before the manifestos. Before the oath, the skyscrapers,
         and the digital sanctuaries — There was just a teenager, a tired heart, and two
