@@ -180,6 +180,15 @@ const cultures = [
     author: "Reltroner Studio",
     date: "2025-06-01",
     published: true
+  },
+  {
+    title: "📖 Artesian Pictolatin — The Official Language of Pencilfania",
+    description: "A classical-visual hybrid language rooted in Latin, Greek, and artistic metaphor, governing the linguistic soul of Pencilfania.",
+    image: "/images/artesian-pictolatin-language.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-03",
+    slug: "artesian-pictolatin-language",
+    published: true
   }
 
 ];

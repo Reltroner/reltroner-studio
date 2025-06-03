@@ -158,6 +158,7 @@ export default function CommandPalette() {
     { name: "Mini Deptic Dictionary: 50+ Root Words", path: "/cultures/mini-deptic-dictionary" },
     { name: "Mini Reltronic Dictionary: 50+ Root Words", path: "/cultures/reltronic-root-words" },
     { name: "Crosswalk Dictionary: Deptic ↔ Reltronic ↔ English", path: "/cultures/crosswalk-dictionary-reltronic-deptic" },
+    { name: "Artesian Pictolatin — The Official Language of Pencilfania", path: "/cultures/artesian-pictolatin-language" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },
