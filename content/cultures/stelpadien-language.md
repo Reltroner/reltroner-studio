@@ -10,7 +10,7 @@ published: true
 
 ---
 
-## 🌐 Overview
+# 🌐 Overview
 
 **Stelpadien** is the official language of Stelpadland — a deeply introspective, ritualistic language inspired by:
 
