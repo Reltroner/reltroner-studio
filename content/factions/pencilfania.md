@@ -20,7 +20,7 @@ published: true
 - **Official Name**: The Federation of Pencilfania  
 - **Nickname**: *The Artistic Heart of the World*  
 - **Tech Aesthetic**: **Paintpunk, Pencilpunk, Artpunk** — where technology and creativity merge. Every machine, infrastructure, and everyday tool is built with artistic intent, from brush-shaped drones to kinetic sculpture streetlights.  
-- **Official Language**: **Pencilfain Language** — rich in color metaphors, visual idioms, and artistic symbolism.  
+- **Official Language**: **Pencilfain Language (Artesian Pictolatin)** — rich in color metaphors, visual idioms, and artistic symbolism.  
 - **Population**: **161 billion**
   - 66% human (Depeisitian descent)
   - 23% human (Cisthetan descent)

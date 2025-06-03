@@ -189,6 +189,15 @@ const cultures = [
     date: "2025-06-03",
     slug: "artesian-pictolatin-language",
     published: true
+  },
+  {
+    title: "🌲 Stelpadien — The Language of Scouts and Seasons",
+    description: "A native-tundra ceremonial language rooted in nature, scouting, and seasonal consciousness — the official tongue of Stelpadland.",
+    slug: "stelpadien-language",
+    image: "/images/stelpadien-language.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-03",
+    published: true
   }
 
 ];
