@@ -33,7 +33,7 @@ Despite the passage of time, Cenrestier has maintained a cultural continuity tha
 
 ### 🏰 **Key Characteristics**
 
-- **Architectural Legacy:** Over 4,000 castles, keeps, and walled towns still stand strong across the country.
+- **Architectural Legacy:** Over 4 million castles, keeps, and walled towns still stand strong across the country.
 - **Fortress Zoning System:** Cities and towns are built in concentric circles around ancient castles, which still serve as libraries, civic halls, and spiritual centers.
 - **Cultural Integrity:** Traditions such as weekly fortress processions, handwritten documentation, and symbolic key ceremonies are still widely practiced.
 - **Educational Focus:** All citizens receive classical education with an emphasis on logic, philosophy, and architectural history.
@@ -63,7 +63,7 @@ Although Cenrestier is not expansionist, it maintains a highly trained **Defensi
 
 ### 🏛️ **Notable Cities**
 
-- **Citadeladia** — The capital, home to over 200 preserved fortresses and the Grand Archive of Cenrestier.
+- **Citadeladia** — The capital, home to over 200000 preserved fortresses and the Grand Archive of Cenrestier.
 - **Vauldenn** — An elevated city entirely built within a mountain fortress.
 - **Nordenhall** — A spiritual sanctuary-town known for its silence zones and puzzle monasteries.
 
