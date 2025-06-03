@@ -160,6 +160,7 @@ export default function CommandPalette() {
     { name: "Crosswalk Dictionary: Deptic ↔ Reltronic ↔ English", path: "/cultures/crosswalk-dictionary-reltronic-deptic" },
     { name: "Artesian Pictolatin — The Official Language of Pencilfania", path: "/cultures/artesian-pictolatin-language" },
     { name: "Stelpadien — The Language of Scouts and Seasons", path: "/cultures/stelpadien-language" },
+    { name: "Pasgerian — The Language of Aviation and Alignment", path: "/cultures/pasgerian-language" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },

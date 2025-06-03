@@ -198,6 +198,15 @@ const cultures = [
     author: "Reltroner Studio",
     date: "2025-06-03",
     published: true
+  },
+  {
+    title: "🛫 Pasgerian — The Language of Aviation and Alignment",
+    description: "A high-frequency transit language rooted in aviation, Hawaiian phonetics, and spiritual clarity, spoken by the people of Pasgerflit.",
+    slug: "pasgerian-language",
+    image: "/images/pasgerian-language.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-04",
+    published: true
   }
 
 ];
