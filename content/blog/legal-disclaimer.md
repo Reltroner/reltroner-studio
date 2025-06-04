@@ -149,6 +149,56 @@ Any resemblance in phonetics is purely coincidental and holds no thematic, legal
 
 ---
 
+## 📜 Legal Disclaimer: Reltronic™
+
+**Reltronic™** is a *fictional language* and *narrative construct* designed and owned by **Reltroner Studio** within the **Asthortera Universe**.
+
+It is used exclusively as:
+
+- A synthetic hybrid language (derived from Deptic, Cisthetan, and Astralis Pinnacle doctrine)
+- A cultural identity component of the nation **Reltronland**
+- A brand or inscription shown in illustrations, artworks, and cityscapes in **fictional settings**
+
+---
+
+## 🚫 Trademark Conflict Clarification
+
+Reltronic™ is **not associated** with any real-world brand, product, corporation, or registered trademark outside of this fictional context.
+
+Although the term "Reltronic" may exist in commercial or industrial domains (e.g. electronic modules), its **usage in the Asthortera universe is entirely narrative, non-commercial in origin**, and rooted in linguistic worldbuilding and speculative fiction.
+
+---
+
+## 🧠 Usage Scope
+
+Reltronic™ may appear in:
+
+- Scripts and dialogues (e.g., “Can you speak Reltronic or Deptic?”)
+- Fictional skyscraper labels, transit hubs, or digital infrastructure
+- Published materials within the *Abyss of Comfort* series and Reltroner multiverse
+
+---
+
+## 🛡️ First Use Protection
+
+The fictional use of Reltronic™ was first published on:
+
+- **Date**: 2025-06-01  
+- **Platform**: [reltroner.com](https://www.reltroner.com)  
+- **Origin Context**: Reltroner Studio → Language Codex → *Mini Reltronic Dictionary*
+
+This serves as **evidence of creative first use** and strengthens protection for non-commercial literary and narrative application.
+
+---
+
+## ⚠️ Reuse Restriction
+
+Any reuse of the term **Reltronic™** in **worldbuilding, fiction, or derivative branding** must credit:
+
+> *Reltronic™ by Reltroner Studio – A fictional construct within the Asthortera Universe.*
+
+---
+
 ## 🛡️ Creative Autonomy and Future Rights
 
 Reltroner.com was established to serve as a creative haven for:
