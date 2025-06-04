@@ -22,7 +22,8 @@ const events = [
     author: "Rei Reltroner",
     date: "2025-04-23",
     image: "/images/history-timeline.webp",
-    tags: ["timeline", "asthortera", "reltronland", "depcutland", "history"]
+    tags: ["timeline", "asthortera", "reltronland", "depcutland", "history"],
+    published: true
   },
   {
     title: "Origins of Reltronland",

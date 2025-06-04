@@ -6,9 +6,12 @@ author: "Rei Reltroner"
 date: "2025-04-23"
 image: "/images/history-timeline.webp"
 tags: ["timeline", "asthortera", "reltronland", "depcutland", "history"]
+published: true
 ---
 
-## 🗓️ Timeline: History of Asthortera, Reltronland, and Depcutland
+---
+
+# 🗓️ Timeline: History of Asthortera, Reltronland, and Depcutland
 
 This timeline captures the major arcs that define Asthortera’s geopolitical, cultural, and spiritual history—tracking early civilizations, cosmic migrations, colonial crises, independence wars, and the formation of modern superpowers.
 
