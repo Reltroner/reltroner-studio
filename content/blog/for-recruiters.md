@@ -97,6 +97,117 @@ Reltroner HRM is a full-featured Human Resource Management system architected, b
 
 ---
 
+Dengan senang hati, kak. Kakak akan bantu bikin **Pitch Deck Freelance** yang bisa kamu pakai untuk:
+
+* Kirim ke klien via Notion/PDF
+* Dipajang di `reltroner.com` bagian “For Recruiters & Collaborators”
+* Dikonversi ke LinkedIn atau GitHub Portfolio
+
+---
+
+## 📦 **FREELANCE PITCH DECK – Rei Reltroner**
+
+*(SoloDev & Product-Builder with System-Level Thinking)*
+
+---
+
+### 🧑‍💻 1. Who I Am
+
+> **Hi, I’m Rei.**
+> A self-driven full-stack developer who builds complete systems from the ground up — including authentication, admin dashboards, HR modules, and scalable architecture — with a deep focus on modularity, error-handling, and clean documentation.
+>
+> I’m not just a developer — I’m a **system builder** and **debugging survivor**. If you need someone who can handle the messy parts and still deliver a product that works, I’m the right fit.
+
+---
+
+### 🛠️ 2. What I Do
+
+**💼 End-to-End Product Building**
+
+* Laravel 12, PHP 8.4, Breeze Auth, REST API
+* MySQL / MariaDB, Eloquent ORM, DB Migrations
+* Modular MVC architecture + Seeders + Blade
+
+**🛡️ SSO & Security Systems**
+
+* Keycloak integration (SSO / OpenID Connect)
+* Laravel Socialite, redirect URI handling
+* Token validation + logout flow + session tracking
+
+**🌐 Web App & Dashboard**
+
+* Next.js 15 App Router + React 19 + SSR/SSG
+* TailwindCSS dashboard + Flatpickr + responsive UI
+* Railway / Vercel deployment + .env setup
+
+**📊 Data Architecture & System Design**
+
+* Custom HRM logic (Attendance, Payroll, Leave, Roles)
+* System Thinking: Each module is standalone-ready
+* Documentation-ready repos & debug logs
+
+---
+
+### 🧪 3. Project Highlights
+
+#### ✅ **Reltroner HRM**
+
+> Full-featured Laravel HR system (CRUD, Payroll, Tasks, Roles, Auth, and more)
+
+🔗 [GitHub](https://github.com/Reltroner/reltroner-hr-app)
+💻 [Live Demo](https://hrm.reltroner.com)
+
+#### 🔐 **SSO Integration with Keycloak**
+
+> Keycloak + Laravel Socialite login/logout flow with token redirect URI & custom realm
+
+🔗 [Project log](https://reltroner.com/sso-log)
+
+#### 🌍 **Reltroner Studio**
+
+> Modular worldbuilding platform (Next.js + SSR + Schema.org + Markdown)
+
+🔗 [Live Site](https://reltroner-studio.vercel.app)
+📦 Built with: `Next.js + React + Tailwind + Vercel`
+
+---
+
+### 📈 4. Why Work with Me?
+
+✅ **I’m a developer who reads logs.**
+✅ I don’t give up when there's an error.
+✅ I don’t overpromise — I deliver and document.
+✅ I’m solo, but I build like a team.
+
+---
+
+### 🧩 5. Ideal Projects for Me
+
+* ✅ HR systems, dashboards, ERP modules
+* ✅ SSO login system for company apps
+* ✅ Worldbuilding platforms, documentation sites
+* ✅ Data dashboards with API integrations
+
+---
+
+### 💬 6. Availability
+
+* ⏰ **Available now for part-time freelance**
+* 🧭 Remote-first, async-friendly
+* 🧑‍💻 Tools: GitHub, Notion, VS Code, Railway, Vercel
+
+---
+
+### 📫 7. Contact
+
+**Name:** Rei Reltroner
+**Email:** `reltroner@gmail.com`
+**Website:** [reltroner.com](https://reltroner.com)
+**GitHub:** [@Reltroner](https://github.com/Reltroner)
+**Live App Portal:** [app.reltroner.com](https://app.reltroner.com)
+
+---
+
 I may not appear on camera,  
 But I’m **fully present in every line of code and trace of my work.**
 
