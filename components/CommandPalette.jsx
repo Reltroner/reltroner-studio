@@ -118,6 +118,7 @@ export default function CommandPalette() {
     { name: "Why Reltroner Rejects Final Destination: A Manifesto of Hope, Clarity, and Determination", path: "/blog/rejects-final-destination" },
     { name: "Reflection: From Years of Debugging Pain to Compounding Mastery", path: "/blog/debugging-compounding" },
     { name: "Declaration of Academic Liberation", path: "/blog/declaration-academic-liberation" },
+    { name: "The ADHD Builder: When Systems Fail to Understand You", path: "/blog/adhd-builder" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

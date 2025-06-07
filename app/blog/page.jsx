@@ -504,6 +504,15 @@ const posts = [
     author: "Reltroner Studio",
     date: "2025-05-28",
     published: true
+  },
+  {
+    title: "The ADHD Builder: When Systems Fail to Understand You",
+    slug: "adhd-builder",
+    description: "A personal legacy for those who never felt seen by traditional education, but found their power through building.",
+    image: "/images/adhd-builder.webp",
+    date: "2025-06-06",
+    author: "Reltroner Studio",
+    published: true
   }
   
 ];
