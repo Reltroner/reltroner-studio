@@ -97,14 +97,6 @@ Reltroner HRM is a full-featured Human Resource Management system architected, b
 
 ---
 
-Dengan senang hati, kak. Kakak akan bantu bikin **Pitch Deck Freelance** yang bisa kamu pakai untuk:
-
-* Kirim ke klien via Notion/PDF
-* Dipajang di `reltroner.com` bagian “For Recruiters & Collaborators”
-* Dikonversi ke LinkedIn atau GitHub Portfolio
-
----
-
 ## 📦 **FREELANCE PITCH DECK – Rei Reltroner**
 
 *(SoloDev & Product-Builder with System-Level Thinking)*
@@ -161,7 +153,7 @@ Dengan senang hati, kak. Kakak akan bantu bikin **Pitch Deck Freelance** yang bi
 
 > Keycloak + Laravel Socialite login/logout flow with token redirect URI & custom realm
 
-🔗 [Project log](https://reltroner.com/sso-log)
+🔗 [Project log](https://app.reltroner.com/)
 
 #### 🌍 **Reltroner Studio**
 
