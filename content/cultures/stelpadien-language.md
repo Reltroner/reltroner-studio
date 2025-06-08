@@ -1,5 +1,5 @@
 ---
-title: "🌲 Stelpadien — The Language of Scouts and Seasons"
+title: "🍁 Stelpadien — The Language of Scouts and Seasons"
 description: "A native-tundra ceremonial language rooted in nature, scouting, and seasonal consciousness — the official tongue of Stelpadland."
 slug: "stelpadien-language"
 image: "/images/stelpadien-language.webp"

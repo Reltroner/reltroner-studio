@@ -69,7 +69,7 @@ This city never sleeps—**it ascends**.
 * **National Identity:** Sky Blue Flag with White Aircraft Emblem
 * **Capital City:** Aviashenwelt
 * **Currency:** \$PAS (Pasgerian Aerocredit)
-* **Population:** 148 billion sentient beings
+* **Population:** 179 billion sentient beings
 * **Area:** 72 million km²
 * **SDI Score:** 0.949
 * **Nicknames:** *World of Endless Airports*, *Sky Nation*, *Gate of Conscious Mobility*
