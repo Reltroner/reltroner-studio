@@ -58,6 +58,7 @@ It is viewed as:
 - **Dominant Age Groups:** 35–49 (peak), stable 20–34 and 50–64 segments
 - **Youth Population (0–14):** ~16.7% total
 - **Elderly Population (65+):** ~20.4% total
+- **Life Expectancy:** ~105 years
 - **Urbanization Rate:** ~89.5%
 
 The age distribution reflects a mature, stable society with high life expectancy and ongoing intellectual productivity—consistent with a civilization driven by merit, innovation, and spiritual balance.
