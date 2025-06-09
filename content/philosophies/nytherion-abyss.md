@@ -15,7 +15,7 @@ published: true
 
 ## 🌌 Overview
 
-Nytherion Abyss is a concealed dimension born from the collective fears, illusions, and comforts of sentient beings. It serves as the ultimate manifestation of existential stagnation, controlled by Henchoway's elites, and represents a deep psychological battle within every individual.
+Nytherion Abyss is a concealed dimension born from the collective fears, illusions, and comforts of sentient beings. It serves as the ultimate manifestation of existential stagnation and represents a deep psychological battle within every individual.
 
 ---
 
