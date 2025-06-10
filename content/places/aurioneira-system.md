@@ -140,7 +140,7 @@ A star system pulsing with ancient energy and sentient ambition located in the H
 * **Narrative Function:** Birthplace of Reltronland and Astralis-Nytherion conflict.
 * **Strategic Use:** Civilizational epicenter.
 * **Orbital Distance:** 1.52 AU  
-* **Orbital Period:** 365 days  
+* **Orbital Period:** 525 days  
 * **Notes:** Habitable Super Earth; capital of sentient civilization  
 
 ### 🌬️ 5. **Celdronyx** — *The Storm Crown Giant*
