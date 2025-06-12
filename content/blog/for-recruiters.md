@@ -196,6 +196,7 @@ Reltroner HRM is a full-featured Human Resource Management system architected, b
 **Email:** `reltroner@gmail.com`
 **Website:** [reltroner.com](https://reltroner.com)
 **GitHub:** [@Reltroner](https://github.com/Reltroner)
+**Linkedin:** [Rei Reltroner](https://www.linkedin.com/in/rei-reltroner-a3a7b8173/)
 **Live App Portal:** [app.reltroner.com](https://app.reltroner.com)
 
 ---
