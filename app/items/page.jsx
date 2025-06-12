@@ -33,8 +33,16 @@ const items = [
     author: "Reltroner Studio",
     date: "2025-05-30",
     published: true
+  },
+  {
+    title: "Reltroner Startup Pitch Deck",
+    description: "Explore how Reltroner is building a modular ERP system with unified authentication—designed to help scaling startups and agencies run enterprise-grade operations without DevOps overhead. From product vision to pricing, this pitch deck outlines our mission to simplify infrastructure for modern businesses.",
+    slug: "reltroner-startup-pitch-deck",
+    date: "2025-06-12",
+    author: "Rei Reltroner",
+    image: "/images/reltroner-startup-pitch-deck.webp",
+    published: true
   }
-  
   
   // Tambahkan lebih banyak item di masa depan...
 ];
