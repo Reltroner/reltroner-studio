@@ -6,7 +6,9 @@ published: true
 image: "/images/for-recruiters-banner.webp"
 ---
 
-## 🧭 For Recruiters & Collaborators
+---
+
+# 🧭 For Recruiters & Collaborators
 
 Hello,  
 My name is Rei Reltroner, a self-taught full stack developer, creative IP world-builder, and visionary founder of Reltroner Studio. This section is a gateway for recruiters and partners to explore the fusion of software engineering, narrative development, and futuristic world strategy.
