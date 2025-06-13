@@ -9,6 +9,8 @@ image: "/images/abyss-heart.webp"
 published: true
 ---
 
+![nytherion-abyss-dimention](/images/nytherion-abyss-dimention.webp)
+
 ---
 
 # 🕳️ Heart of the Abyss
