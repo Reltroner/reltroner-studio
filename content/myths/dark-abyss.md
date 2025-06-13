@@ -11,8 +11,6 @@ published: true
 
 ![nytherion-abyss-dimention](/images/nytherion-abyss-dimention.webp)
 
----
-
 # 🕳️ Heart of the Abyss
 
 > *“This is where time doesn’t flow, memory loops endlessly, and pain is the only light that remains.”*
