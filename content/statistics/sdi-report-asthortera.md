@@ -174,6 +174,18 @@ making it one of the most emotionally stable nations in Asthortera.
 - Maritime nation with ancient sailor traditions
 - Naval culture and oceanic resilience
 
+---
+
+### 🏰 **Cenrestier**
+
+**SDI:** 0.911
+**Strengths:**
+
+* Legal formalism & institutional stability
+* Preservation of historical pride
+* Constitutional guardianship society
+* Fortress-based governance with public law emphasis
+
 These nations contribute to the **cultural web of high-SDI policy** across Asthortera.
 
 ---
@@ -186,11 +198,126 @@ These nations contribute to the **cultural web of high-SDI policy** across Astho
 
 ---
 
+# 🌐 Cultural Per Capita Index in the Asthortera Universe
+
+This document outlines the unique per capita cultural identity of each nation within the Asthortera worldbuilding universe. Each country is not defined merely by geography, but by the symbolic quantity of its most honored construct — per capita.
+
+---
+
+## 📊 Country Identity by Per Capita Indicator
+
+**🏙️ Reltronland**
+
+* **Per Capita Object**: Skyscrapers
+* **Symbolic Meaning**: Extreme progress, vertical meritocracy, efficiency
+
+---
+
+**🏛️ Depcutland**
+
+* **Per Capita Object**: Libraries
+* **Symbolic Meaning**: Aristocratic intellect, access to deep scholarship
+
+---
+
+**🎨 Pencilfania**
+
+* **Per Capita Object**: Art Museums
+* **Symbolic Meaning**: Expression, aesthetics, creative reverence
+
+---
+
+**🧪 Taramistry**
+
+* **Per Capita Object**: Laboratories
+* **Symbolic Meaning**: Truth-seeking, exploration, scientific realism
+
+---
+
+**💡 Lenternow**
+
+* **Per Capita Object**: Light Fixtures / Lamps
+* **Symbolic Meaning**: Illumination of mind and city, mental clarity
+
+---
+
+**🌠 Astrostelia**
+
+* **Per Capita Object**: Outer Space Telescopes
+* **Symbolic Meaning**: Cosmic insight, spirituality, universal foresight
+
+---
+
+**🍁 Stelpadland**
+
+* **Per Capita Object**: Maple Trees
+* **Symbolic Meaning**: Seasonal reflection, nature-harmony, cultural depth
+
+---
+
+**🌌 Aurastelia**
+
+* **Per Capita Object**: Auroras
+* **Symbolic Meaning**: Beauty of the spirit, emotional elevation, purity
+
+---
+
+**🏰 Cenrestier**
+
+* **Per Capita Object**: Castles / Fortresses
+* **Symbolic Meaning**: Historic protection, legal foundation, pride
+
+---
+
+**✈️ Pasgerflit**
+
+* **Per Capita Object**: Airports
+* **Symbolic Meaning**: Modern mobility, transition, future-forward society
+
+---
+
+**⚓ Hargenbor**
+
+* **Per Capita Object**: Ports / Harbors
+* **Symbolic Meaning**: Subconscious gateway, loss & memory, abyssic logistics
+
+---
+
+**🚗 Moreg**
+
+* **Per Capita Object**: Automotive Vehicles
+* **Symbolic Meaning**: Industrial drive, personal independence, mechanical prowess
+
+---
+
+## 🧠 Functional Symbolism
+
+Each object listed above is not merely a feature — it is a **spiritual construct**. These high-per-capita indexes represent what the nation **worships, replicates, and embodies** in its societal consciousness.
+
+---
+
+## 🌍 Implication in Worldbuilding
+
+Rather than conventional stats like GDP per capita, Asthortera uses **"Construct Per Capita Index (CPCI)"** — a fictional measure of how many symbolic institutions exist per person. It reflects the dominant values and collective energy of the population.
+
+---
+
+## 🏛️ Cultural Philosophy
+
+> *"In Asthortera, culture is not what surrounds you — it's what you replicate the most."*
+
+This index helps define the philosophical soul of each nation in the world of Asthortera.
+
+---
+
 > "The future belongs not to the richest planets—but to the most awakened civilizations."
 
 Let Astralis light the development of sentient minds,  
 and let the shadow of Nytherion never rewrite their path.
 
 ---
-*Filed by: Rei Reltroner, Chief Architect of Reltronland SDI Council*
+
+Crafted by: **Rei Reltroner**  
+Reltroner Studio — Astralis Series
+
 
