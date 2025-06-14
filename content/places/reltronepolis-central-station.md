@@ -13,7 +13,7 @@ published: true
 # 🚉 Reltronepolis Central Station — Heart of Sentient Mobility
 
 > _“In Reltronland, movement is not just distance—it’s direction, purpose, and awakening.”_  
-> — Clarity Transport Manifesto, Year 967
+> — Clarity Transport Manifesto, Year 967 BAC
 
 ---
 
