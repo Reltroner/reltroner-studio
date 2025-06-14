@@ -1,19 +1,19 @@
 ---
-title: "Eterna Ruin"
+title: "Erterna Ruin"
 description: "The next chapter as the protagonists arrive at the true location of the Nytherion Abyss portal, filled with mystery and spiritual tension."
 author: "Rei Reltroner"
-image: "/images/eterna-ruin.webp"
+image: "/images/Erterna-ruin.webp"
 date: "2025-04-04"
 published: true
 ---
 
-# Eterna Ruin
+# Erterna Ruin
 
 > _“This place doesn’t remember time. It only remembers silence.”_
 
 A thin fog blanketed the edge of Hargenbor Bay. The air felt heavy, as if each step passed through a dimension unwilling to be touched. No birds sang. No waves broke. Only the whisper of the wind remained, and the scent of damp soil unchanged for thousands of years.
 
-Eterna Ruin lay at the southeastern tip of Hargenbor territory, atop a natural ring of stone cliffs—said by legend to be the first place where the Nytherion Abyss breached into the real world.
+Erterna Ruin lay at the southeastern tip of Hargenbor territory, atop a natural ring of stone cliffs—said by legend to be the first place where the Nytherion Abyss breached into the real world.
 
 Delwyn and the core team arrived in full formation: Rei, Wayne, Valethra, Barry, and Dr. Westley Watson, now equipped with spiritual instruments to detect dimensional distortion. None of them spoke during the journey.
 

@@ -211,7 +211,7 @@ export default function CommandPalette() {
     { name: "📈 RXS 500 Index: Reltronland Exchange of Sentience", path: "/organizations/rxs-500" },
     { name: "🍔 ByteBite — Reltronland's Largest Fast Food Network", path: "/organizations/bytebite" },
     // Places
-    { name: "Eterna Ruin", path: "/places/eterna-ruin" },
+    { name: "Erterna Ruin", path: "/places/erterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },
     { name: "Oakcottage", path: "/places/oakcottage" },
     { name: "Whispergrove", path: "/places/whispergrove" },
