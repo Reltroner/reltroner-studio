@@ -7,6 +7,9 @@ date: "2025-06-14"
 published: true
 ---
 
+![aurastelia1](/images/aurastelia1.webp)
+![aurastelia2](/images/aurastelia2.webp)
+
 ---
 
 # 🌌 Aurastelia — The Realm of Resonant Light
