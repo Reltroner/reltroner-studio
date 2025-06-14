@@ -208,6 +208,48 @@ But I’m **fully present in every line of code and trace of my work.**
 
 ---
 
+# 🎙️ 2-Minute Founder Monologue — *Reltroner Studio Vision Pitch*
+
+Hi everyone.  
+I’m Rei Reltroner — a solo founder, system architect, and worldbuilder.
+
+Let me begin with a question:
+
+> What if software wasn’t just functional...  
+> But cultural?  
+> What if your ERP had a soul?
+
+At Reltroner Studio, we’re not just building tools.  
+We’re designing **infrastructure with identity**.
+
+You see, companies today don’t just need features —  
+They need **narrative, autonomy, and elegance** in how they operate.  
+That’s why I built a modular ERP system —  
+But with a twist: it’s wrapped inside **a creative industry disguise**.
+
+Just like how Apple sells lifestyle through its iPhones...  
+Reltroner sells **worldbuilding** through **system architecture.**
+
+We turn your team’s operations into a structured story.  
+Auth, HR, Finance, CRM —  
+All unified under one ecosystem, one login, and one belief:
+
+> That creativity is not fluff.  
+> It’s infrastructure.
+
+We recently climbed from rank #109 to #17 on Indie Hackers’ leaderboard.  
+Not by pivoting.  
+But by aligning creativity with precision.
+
+So if you're building a team, a brand, or a culture —  
+Don’t just install a tool.  
+**Install an identity.**
+
+Let Astralis light the unknown.  
+Thank you.
+
+---
+
 🔙 Back to [Blog](https://www.reltroner.com/blog)
 
 ➡️ To [Full Stack Developer Interview Simulation](https://www.reltroner.com/blog/fullstack-interview-summary)
