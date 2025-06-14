@@ -285,6 +285,7 @@ export default function CommandPalette() {
     { name: "Stelpadland Country Profile — Cradle of Global Scouting and Eternal Autumn", path: "/factions/stelpadland" },
     { name: "Pasgerflit — The Sky Nation of Asthortera", path: "/factions/pasgerflit" },
     { name: "Pencilfania — The Artistic Heart of Asthortera", path: "/factions/pencilfania" },
+    { name: "Aurastelia — The Realm of Resonant Light", path: "/factions/aurastelia" },
 
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },

@@ -2,7 +2,7 @@
 title: "Erterna Ruin"
 description: "The next chapter as the protagonists arrive at the true location of the Nytherion Abyss portal, filled with mystery and spiritual tension."
 author: "Rei Reltroner"
-image: "/images/Erterna-ruin.webp"
+image: "/images/erterna-ruin.webp"
 date: "2025-04-04"
 published: true
 ---

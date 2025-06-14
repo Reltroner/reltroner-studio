@@ -109,6 +109,16 @@ const factions = [
     published: true
   },
   {
+    title: "Aurastelia — The Realm of Resonant Light",
+    description: "A cosmic-spiritual civilization built upon inner clarity, aurora resonance, and harmonious governance — where light is not just seen, but spiritually lived.",
+    slug: "aurastelia",
+    tags: ["Aurastelia", "Asthortera Lore", "Cosmic Civilization", "Spiritual Worldbuilding", "Fantasy Nations", "Reltroner Studio", "SDI Universe", "Visual Philosophy"],
+    image: "/images/aurastelia.webp",
+    author: "Rei Reltroner",
+    date: "2025-06-14",
+    published: true
+  },
+  {
     title: "Henchoway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoway", 
