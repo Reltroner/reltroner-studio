@@ -24,7 +24,7 @@ published: true
 * **Official Name:** Lenternow
 * **Nickname:** The Lanternlight Nation
 * **Land Area:** 117 million km²
-* **Population:** 164 billion beings
+* **Population:** 164 billion sentient beings
 * **Capital:** Lighteralis
 * **Key Cities:**
 

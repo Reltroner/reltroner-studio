@@ -29,6 +29,7 @@ published: true
 * **Spiritual Doctrine:** Cosmognosis (the sacred study of stars)
 * **Core National Values:** Discovery, objectivity, cosmic responsibility, dimensional diplomacy
 * **Official Language:** Astrostelian Celestial Language
+* **Population:** 170 billion sentient beings
 
 ---
 
