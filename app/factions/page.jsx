@@ -129,6 +129,16 @@ const factions = [
     published: true
   },
   {
+    title: "Lenternow — The Lanternlight Nation",
+    description: "A nation illuminated by philosophy, phosphor, and timeless lantern aesthetics. Lenternow glows not only in infrastructure, but in the soul of its people.",
+    slug: "lenternow",
+    tags: ["Lenternow", "Asthortera Lore", "Philosophical Civilization", "Lantern Aesthetics", "Fantasy Nations", "Reltroner Studio", "SDI Universe", "Visual Philosophy"],
+    image: "/images/lenternow.webp",
+    author: "Rei Reltroner",
+    date: "2025-06-16",
+    published: true
+  },
+  {
     title: "Henchoway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoway", 
