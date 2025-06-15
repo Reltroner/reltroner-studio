@@ -119,6 +119,16 @@ const factions = [
     published: true
   },
   {
+    title: "Astrostelia — The Cosmic Civilization of Asthortera",
+    description: "A multidimensional realm built upon cosmic research, interstellar wisdom, and gravitational harmony. In Astrostelia, the sky is not the limit, but the beginning.",
+    slug: "astrostelia",
+    tags: ["Astrostelia", "Asthortera Lore", "Cosmic Civilization", "Interstellar Worldbuilding", "Fantasy Nations", "Reltroner Studio", "SDI Universe", "Visual Philosophy"],
+    image: "/images/astrostelia.webp",
+    author: "Rei Reltroner",
+    date: "2025-06-15",
+    published: true
+  },
+  {
     title: "Henchoway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoway", 

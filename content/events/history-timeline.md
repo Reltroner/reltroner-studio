@@ -417,6 +417,9 @@ _This moment marks Reltronland as the **first nation on Asthortera** to achieve 
 
 ---
 
+**25 AC** — *🚀 Vision 25 AC Reform*
+- Reform Vision 25 AC. is not an abandonment of ASC's ideals, but a tactical recalibration for a world where diplomacy must walk faster than conflict.
+
 **109 AC** — *📜 Galactic Alignment Treaty*
 
 ---

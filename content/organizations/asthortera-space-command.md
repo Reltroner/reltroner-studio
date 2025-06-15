@@ -70,7 +70,7 @@ Asthortera Space Command (ASC) is a supranational space institution tasked with 
 
 ## 🌐 **Jurisdiction Zones**
 
-### 🌀 Orbital Domain
+### 💫 Orbital Domain
 Covers planetary orbits, satellite constellations, and key **Lagrange points** for stability operations.
 
 ### 🌕 Lunar Sphere
@@ -171,7 +171,7 @@ Oversees **wormgate movement**, **tech regulation**, and sentient transit compli
 
 - Aging satellite infrastructure vs RSC quantum fleet
 - Philosophical divide with Astralis Pillar nations
-- Rising calls for reformation through **Vision 55 AC.**
+- Rising calls for reformation through **Vision 25 AC.**
 
 > *"To command the orbit is not to dominate the stars, but to preserve the peace between them."*  
 > — Foundational Motto, ASC Constitution
@@ -186,7 +186,7 @@ Despite the rise of sovereign commands like RSC, ASC still controls:
 - Global orbital law and dispute arbitration
 - The planetary shield array against cosmic threats
 
-### 🔮 Reform Vision 55 AC.
+### 🔮 Reform Vision 25 AC.
 ASC plans to modernize through the **“Unified Astral Reform”** protocol, aiming to reduce latency, integrate light AI support, and reestablish influence in void-space diplomacy.
 
 > _"ASC is the last frontier of unity — where cooperation still matters, even when void pulls us apart."_  
@@ -194,7 +194,7 @@ ASC plans to modernize through the **“Unified Astral Reform”** protocol, aim
 
 ---
 
-## 🔄 ASC Reform Vision 55 AC. — Strategic Modular Breakdown
+## 🔄 ASC Reform Vision 25 AC. — Strategic Modular Breakdown
 
 A structured transformation agenda aimed at accelerating ASC’s response speed, enhancing interoperability, and restoring voidfront relevancy through scalable reforms.
 
@@ -280,7 +280,7 @@ Establish a narrow-scope joint operation policy with RSC under existential threa
 
 ## 🧾 Closing Notes
 
-Reform Vision 55 AC. is not an abandonment of ASC's ideals, but a tactical recalibration for a world where diplomacy must walk faster than conflict.
+Reform Vision 25 AC. is not an abandonment of ASC's ideals, but a tactical recalibration for a world where diplomacy must walk faster than conflict.
 
 > _“To delay is to dissolve. To reform is to remain.”_  
 > — Strategic Doctrine Memo, ASC Core Command
