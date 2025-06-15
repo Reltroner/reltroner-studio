@@ -96,7 +96,7 @@ Together, they keep Asthortera in balance—motion with memory, action with wisd
 - **Nicknames:** Null Athenaeum, Infinity Vault, The Last Archive  
 - **Location:** Heart of Decordelane City, Depcutland  
 - **Architecture:** A vertical and subterranean structure expanding across geopolitical and dimensional strata  
-- **Access:** Restricted to elite officials, certified scholars, and specially approved sentients by the Council of Luminaria  
+- **Access:** Restricted to elite officials, certified scholars, and specially approved sentients by the Council of Archive  
 
 ---
 
