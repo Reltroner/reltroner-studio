@@ -37,4 +37,24 @@ pre, code {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
   }
+
+  html {
+    font-size: 90%; /* atau 14px kalau kamu pakai base font 16px */
+  }
+
+  h1 {
+    font-size: 1.5rem; /* ≈ 24px */
+  }
+
+  h2 {
+    font-size: 1.25rem; /* ≈ 20px */
+  }
+
+  h3 {
+    font-size: 1.125rem; /* ≈ 18px */
+  }
+
+  p, li, span, div {
+    font-size: 0.9rem; /* ≈ 14.4px */
+  }
 }

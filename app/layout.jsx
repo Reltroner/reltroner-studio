@@ -51,6 +51,10 @@ export default function Layout({ children }) {
   return (
     <html lang="en" className={roboto.variable}>
       <head>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=0.85, maximum-scale=1.0, user-scalable=yes"
+        />
         {/* Favicon compatibility for multiple platforms */}
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="shortcut icon" href="/favicon.ico" />

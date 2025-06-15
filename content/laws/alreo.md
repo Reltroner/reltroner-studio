@@ -7,7 +7,7 @@ published: true
 date: "2025-04-11"
 ---
 
-## 🌍 Asthortera Labor Rights and Employment Organization (ALREO)
+# 🌍 Asthortera Labor Rights and Employment Organization (ALREO)
 
 ---
 
