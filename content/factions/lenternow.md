@@ -54,8 +54,6 @@ published: true
 ## 💡 Lenternow Economic Profile  
 *The Nation of Sustainable Light and Urban Radiance*
 
----
-
 ### 🌐 Overview
 
 Lenternow is an **advanced luminous economy** centered around **phosphor innovation**, **urban lighting systems**, and **ethically integrated sustainability models**. It is a key member of the **Aurora Belt Trade Consortium**, serving as a hub of **clean energy distribution**, **cultural light export**, and **urban aesthetics infrastructure**.
