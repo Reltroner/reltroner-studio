@@ -83,6 +83,8 @@ Together, they keep Asthortera in balance—motion with memory, action with wisd
 
 ---
 
+![endless-library](/images/endless-library.webp)
+
 # 📚 The Endless Library of Depcutland
 *"The mind never ends, and neither does its archive."*
 
