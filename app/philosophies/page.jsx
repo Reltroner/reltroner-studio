@@ -162,6 +162,15 @@ const philosophies = [
     date: "2025-04-19",
     published: true
   },
+  {
+    title: "The Tomb Raider Framework for Building Without Burnout",
+    description: "A radical productivity strategy inspired by games like Tomb Raider — designed for solo builders, neurodivergent minds, and creative rebels who choose immersion over burnout. This is how you build with purpose, not pressure.",
+    slug: "tomb-raider-framework",
+    date: "2025-06-16",
+    author: "Rei Reltroner",
+    image: "/images/tomb-raider-framework.webp",
+    published: true
+  }
 ];
 
 export default function Philosophies() {

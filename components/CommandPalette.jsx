@@ -272,7 +272,7 @@ export default function CommandPalette() {
     { name: "🛡️ I Am Not the Villain You Feared", path: "/philosophies/not-the-villain" },
     { name: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real", path: "/philosophies/system-mistakes-you" },
     { name: "🧩 The Wall of Silenced Builders", path: "/philosophies/wall-of-silenced-builders" },
-    { name: "🌙 Charter of Sacred Love & Intimacy", path: "/philosophies/raina-rei-charter" },
+    { name: "The Tomb Raider Framework for Building Without Burnout", path: "/philosophies/tomb-raider-framework" },
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },
     { name: "Depcutland", path: "/factions/depcutland" },
