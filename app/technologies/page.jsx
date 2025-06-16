@@ -86,6 +86,15 @@ const techs = [
     author: "Reltroner Studio Engineering Division",
     published: true,
     date: "2025-05-09"
+  },
+  {
+    title: "Web3 Library Protocol of Depcutland",
+    description: "An innovative, decentralized knowledge infrastructure for transparent contribution, equitable access, and intellectual growth.",
+    slug: "web3-library-protocol-depcutland",
+    author: "Reltroner Studio",
+    date: "2025-06-16",
+    published: true,
+    image: "/images/web3-library-protocol-depcutland.webp"
   }
 ];
 
