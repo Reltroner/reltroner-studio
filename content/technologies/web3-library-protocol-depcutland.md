@@ -163,7 +163,7 @@ All libraries across Depcutland are connected via **Web3 Library Mesh**, which a
 * Blockchain: Polygon / Optimism L2
 * Storage: IPFS + Filecoin
 * Identity: Wallet-based (Metamask, WalletConnect)
-* Interface: ReltronUI built with Tailwind + Next.js
+* Interface: DepcutUI built with Tailwind + Next.js
 * Smart Contracts: Solidity + Hardhat + Lens Protocol (social layer)
 
 ---
