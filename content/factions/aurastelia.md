@@ -258,4 +258,81 @@ published: true
 
 ---
 
+# 🌌 Aurastelia Olympic Doctrine
+**By Queen Valethra Seraphine Lunara**  
+
+## 1. Athlete Recruitment and Selection
+- **Spiritual Alignment First**  
+  All candidates must undergo the **Polaris Ritual** to align their personal intention with the _"Aurora of Clarity"_. This ensures their motives are rooted in internal balance, not ego or external pressure.
+
+- **Multidimensional Screening**  
+  Selection is based on **Spiritual Quotient (SQ)**, **Intelligence Quotient (IQ)**, and **Emotional Quotient (EQ)**, not just physical or academic scores.
+
+---
+
+## 2. Training Philosophy and Education
+- **No Coach, Only Mentors**  
+  Athletes are guided by **spiritual and scientific mentors**, rather than traditional coaches.
+
+- **Training of Resonance**  
+  Focus is placed on inner frequency training—resonance of the body, thoughtwaves, and movement harmony.
+
+- **Nature-Integrated Training**  
+  Training facilities are built inside **natural aurora gardens**, **reflective lakes**, and **orbital towers**, enhancing connection with cosmic flows.
+
+---
+
+## 3. Moral and Logistical Support
+- **Zero Exploitation Decree**  
+  No political or corporate pressure is permitted. Athletes are **value explorers**, not national commodities.
+
+- **Celestlight Subsidy**  
+  All provisions are covered under the **Celestlight Harmony Fund**, ensuring no branding interference.
+
+- **Aurastelian Diplomatic Immunity**  
+  Athletes are officially recognized as **Polaris Envoys**, under full diplomatic protection throughout the Games.
+
+---
+
+## 4. Health and Emotional Stability Protocol
+- **Therapeutic Aurora Chamber**  
+  Athletes have access to meditation rooms with **aurora resonance stabilizers** to maintain mental balance.
+
+- **Memory Whispering Access**  
+  For knowledge-based disciplines, athletes may temporarily access the **Collective Memory Archive**, supervised by the Polaris Council.
+
+---
+
+## 5. Departure Ceremony
+- **Skyborne Ceremony**  
+  Queen Valethra conducts a celestial farewell, embedding the **Crystal of Grace** into each delegate’s heart.
+
+> _“You are not sent to conquer,  
+> but to mirror the soul of our people.  
+> Let them see light without glare.”_
+
+---
+
+## 6. Conduct During the Olympics
+- **No Nation Above Others**  
+  Aurastelian delegates are not to express superiority. The goal is **truthful representation**, not domination.
+
+- **Support All Sentient Beings**  
+  Any struggling competitor from other nations must be aided in the name of **Unity of Aurora**.
+
+---
+
+## 7. Post-Olympics
+- **Collective Reflection, Not Celebration**  
+  Upon return, delegates enter a **3-day Ritual of Reflection** at the Polaris Temple—media blackout enforced.
+
+- **Transmutation Ceremony**  
+  All medals and records are transformed into **light essence** and archived in the **Aurora Memory Vault** as legacy values, not ego relics.
+
+---
+
+> This doctrine reflects the luminous path of Aurastelia — where victory lies in grace, not in glory.
+
+---
+
 > 🌟 *Let Astralis light the unknown.*
