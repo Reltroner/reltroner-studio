@@ -119,6 +119,7 @@ export default function CommandPalette() {
     { name: "Reflection: From Years of Debugging Pain to Compounding Mastery", path: "/blog/debugging-compounding" },
     { name: "Declaration of Academic Liberation", path: "/blog/declaration-academic-liberation" },
     { name: "The ADHD Builder: When Systems Fail to Understand You", path: "/blog/adhd-builder" },
+    { name: "Why Japan is the Earth’s Closest Equivalent to Asthortera", path: "/blog/japan-closest-equivalent-to-asthortera" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

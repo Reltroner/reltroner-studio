@@ -513,6 +513,15 @@ const posts = [
     date: "2025-06-06",
     author: "Reltroner Studio",
     published: true
+  },
+  {
+    title: "Why Japan is the Earth’s Closest Equivalent to Asthortera",
+    description: "An in-depth comparison of Japan’s cultural identity and Asthortera’s fictional civilization—exploring how Japan’s cognitive preservation, ethical structure, and symbolic continuity mirror the most advanced traits of Asthortera.",
+    slug: "japan-closest-equivalent-to-asthortera",
+    image: "/images/japan-closest-equivalent-to-asthortera.webp",
+    author: "Rei Reltroner",
+    date: "2025-06-18",
+    published: true
   }
   
 ];

@@ -1,7 +1,7 @@
 ---
 title: "Magic System: Astralis Pinnacle vs Nytherion Abyss"
 description: "A deep dive into the dualistic energy systems that shape the cosmic balance in Asthortera."
-author: "Raidan The Reltroner"
+author: "Raidan"
 date: "March 26, 2025"
 published: true
 image: "/images/magic-astralis-nytherion.webp"
