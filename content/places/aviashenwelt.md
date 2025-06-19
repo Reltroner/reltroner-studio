@@ -21,7 +21,7 @@ published: true
 
 * **Name Meaning:** “World of Sky Alignment” *(Pasgerian Language)*
 * **Function:** Political Capital, Air-Hub Nexus, Civic SDI Anchor
-* **Population:** 37 billion sentient beings (approx. 25% of Pasgerflit’s total population, distributed across 6 air-loop sectors)
+* **Population:** 37 billion sentient beings
 * **Core Feature:** Home of **PAIA Interstellar Hub** and the **Aviashenwelt Accord Chamber**
 
 ---
