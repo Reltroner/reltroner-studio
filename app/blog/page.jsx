@@ -522,6 +522,15 @@ const posts = [
     author: "Rei Reltroner",
     date: "2025-06-18",
     published: true
+  },
+  {
+    title: "What Happens When a Reltronland Quadrillionaire Lands on Earth?",
+    description: "A thought experiment on the absurd scale of economic power from Reltronland compared to Earth's current civilization.",
+    slug: "reltronland-wealth-vs-earth",
+    author: "Rei Reltroner",
+    date: "2025-06-20",
+    published: true,
+    image: "/images/reltronland-wealth-vs-earth.webp"
   }
   
 ];

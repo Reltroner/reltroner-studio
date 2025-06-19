@@ -58,7 +58,7 @@ symbolizes elite governance, sentient awakening, and the disciplined pursuit of 
 ## 🔰 Factional Behavior & Strategy
 - **Allies:** Depcutland (conditional), Aurastelia, Krisberia
 - **Neutral:** Stelpadland, Kalgered and other Tier 2 nations
-- **Opposition:** Henchoeway, Nytherion-aligned cults, Depeisit ideological enforcers
+- **Opposition:** Henchoway, Nytherion-aligned cults, Depeisit ideological enforcers
 - **Military Strategy:** Defensive Excellence, Psyops Warfare, High-Skies Satellite Grid
 - **Cultural Influence:** Global media, tech infiltration, talent absorption
 
@@ -394,7 +394,7 @@ Inclusive AI-driven education to elevate sentient literacy and creativity.
 Medical and biotech programs that support Reltronland’s 109-year life expectancy.
 
 #### 🛡️ National Defense (3% of GDP)  
-Focused on existential threats like Nytherion Abyss, Henchoeway cult remnants, and deep-space security.
+Focused on existential threats like Nytherion Abyss, Henchoway cult remnants, and deep-space security.
 
 #### 🏛️ Public Services (1% of GDP)  
 Fully automated — from digital ID to housing assistance and civic AI bots.
