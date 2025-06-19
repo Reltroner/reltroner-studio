@@ -190,6 +190,15 @@ const principles = [
     date: "2025-05-20",
     published: true,
     image: "/images/reltroner-underlayer.webp"
+  },
+  {
+    title: "Worst-Case Survival Protocol",
+    description: "An unfiltered backup life plan if all other systems fail",
+    slug: "worst-case-protocol",
+    date: "2025-06-19",
+    author: "Rei Reltroner",
+    image: "/images/worst-case-protocol.webp",
+    published: true
   }
   
   // Tambahkan lebih banyak principle di masa depan...
