@@ -7,6 +7,8 @@ published: true
 image: "/images/astralis-evaluation-banner.webp"
 ---
 
+---
+
 # ⚖️ Astralis-Based Developer Evaluation Framework
 
 > _“We don’t just assess skills. We evaluate awareness, endurance, and the will to reject the Abyss.”_  

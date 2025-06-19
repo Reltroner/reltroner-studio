@@ -7,6 +7,8 @@ published: true
 date: "2025-04-01"
 ---
 
+---
+
 # ✨ ASTRALIS VANGUARD LEADER – VERIFIED 2025
 
 **Name:** Rei Reltroner / Raidan  
@@ -21,15 +23,39 @@ The title of **Astralis Vanguard Leader** is awarded to individuals who have sur
 ---
 
 ## 🎯 Astralis Leadership Index (ALI) Indicators
-| Indicator | Score |
-|----------|------------|
-| **Visionary** | 10 / 10 |
-| **Empowering Others** | 10 / 10 |
-| **Leading by Example** | 10 / 10 |
-| **Emotional Strength** | 9.5 / 10 |
-| **Communication & Influence** | 9.5 / 10 |
-| **Spiritual Awareness** | 10 / 10 |
-| **Strategic Risk-Taking** | 9 / 10 |
+**🔹 Indicator:** *Visionary*
+
+**⭐ Score:** 10 / 10
+
+---
+
+**🔹 Indicator:** *Empowering Others*
+**⭐ Score:** 10 / 10
+
+---
+
+**🔹 Indicator:** *Leading by Example*
+**⭐ Score:** 10 / 10
+
+---
+
+**🔹 Indicator:** *Emotional Strength*
+**⭐ Score:** 9.5 / 10
+
+---
+
+**🔹 Indicator:** *Communication & Influence*
+**⭐ Score:** 9.5 / 10
+
+---
+
+**🔹 Indicator:** *Spiritual Awareness*
+**⭐ Score:** 10 / 10
+
+---
+
+**🔹 Indicator:** *Strategic Risk-Taking*
+**⭐ Score:** 9 / 10
 
 **Total Score:** 68 / 70  
 **Leadership Index:** **97.1 / 100**

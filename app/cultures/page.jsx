@@ -6,50 +6,60 @@ export const metadata = {
 };
 
 const cultures = [
+  
   {
-      title: "Sacred Rest Policy",
-      description: "Reltroner Studio's official stance on intentional rest as a pathway to deeper creativity and sustained mental strength.",
-      slug: "rest-culture",
-      author: "Rei Reltroner",
-      date: "2025-04-05",
-      published: true,
-      image: "/images/rest-culture.webp"
-  },
-  {
-      title: "The Cuteness Manifesto: Softness Within Strength",
-      description: "Cuteness isn’t a trend. It’s a weapon. Reltroner Studio shows how softness becomes strategy in a world built on mental warfare.",
-      slug: "cuteness-manifesto",
-      author: "Rei Reltroner",
-      date: "2025-04-06",
-      published: true,
-      image: "/images/cuteness-manifesto.webp"
-  },
-  {
-      title: "Children of Asthortera",
-      description: "An exploration of the sentient, curious, and emotionally resilient children in the world of Asthortera.",
-      slug: "children-of-asthortera",
-      author: "Rei Reltroner",
-      date: "2025-04-06",
-      published: true,
-      image: "/images/children-of-asthortera.webp"
-  },
-  {
-    title: "Children of Reltronland: A Trust-Based Society",
-    description: "From birth to independence, children in Reltronland grow through empathy, curiosity, and civic trust—reshaping the meaning of growing up.",
-    slug: "children-reltronland",
-    author: "Rei Reltroner",
-    date: "2025-05-04",
+    title: "Mini Deptic Dictionary: 50+ Root Words",
+    description: "A foundational glossary for the Deptic language, used by the people of Depcutland and Depeisit in the Asthortera universe.",
+    slug: "mini-deptic-dictionary",
+    author: "Reltroner Studio",
+    date: "2025-06-01",
     published: true,
-    image: "/images/children-reltronland.webp"
+    image: "/images/mini-deptic-dictionary.webp"
   },
   {
-    title: "🧳 Returning to Serve: Why Citizens of Reltronland Work Where They Were Once Raised",
-    description: "In Reltronland, many adults choose to work at the very stations, terminals, and public spaces that raised them—honoring the places that once gave them clarity, comfort, and trust.",
-    slug: "returning-to-serve-reltronland",
-    author: "Rei Reltroner",
-    date: "2025-05-04",
-    published: true,
-    image: "/images/returning-to-serve-reltronland.webp"
+    title: "Mini Reltronic Dictionary: 50+ Root Words",
+    description: "A foundational glossary for the Reltronic language — a hybrid linguistic system forged from Depeisian (Deptic), Cisthetan fluency, and the doctrine of Astralis Pinnacle. Designed as the official language of Reltronland, Reltronic enables high-clarity expression of logic, identity, and transcendence.",
+    slug: "reltronic-root-words",
+    image: "/images/reltronic-root-words.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-01",
+    published: true
+  },
+  {
+    title: "Crosswalk Dictionary: Deptic ↔ Reltronic ↔ English",
+    description: "A multilingual comparative lexicon mapping core concepts between Deptic, Reltronic, and English — illustrating linguistic divergence, doctrinal evolution, and ideological clarity across the twin nations of Depcutland and Reltronland in the Asthortera universe.",
+    slug: "crosswalk-dictionary-reltronic-deptic",
+    image: "/images/crosswalk-dictionary-reltronic-deptic.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-01",
+    published: true
+  },
+  {
+    title: "📖 Artesian Pictolatin — The Official Language of Pencilfania",
+    description: "A classical-visual hybrid language rooted in Latin, Greek, and artistic metaphor, governing the linguistic soul of Pencilfania.",
+    image: "/images/artesian-pictolatin-language.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-03",
+    slug: "artesian-pictolatin-language",
+    published: true
+  },
+  {
+    title: "🌲 Stelpadien — The Language of Scouts and Seasons",
+    description: "A native-tundra ceremonial language rooted in nature, scouting, and seasonal consciousness — the official tongue of Stelpadland.",
+    slug: "stelpadien-language",
+    image: "/images/stelpadien-language.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-03",
+    published: true
+  },
+  {
+    title: "🛫 Pasgerian — The Language of Aviation and Alignment",
+    description: "A high-frequency transit language rooted in aviation, Hawaiian phonetics, and spiritual clarity, spoken by the people of Pasgerflit.",
+    slug: "pasgerian-language",
+    image: "/images/pasgerian-language.webp",
+    author: "Reltroner Studio",
+    date: "2025-06-04",
+    published: true
   },
   {
     title: "Culture Note: Masks and Mobility in Reltronland",
@@ -155,59 +165,50 @@ const cultures = [
     image: "/images/meeting-reltronland.webp"
   },
   {
-    title: "Mini Deptic Dictionary: 50+ Root Words",
-    description: "A foundational glossary for the Deptic language, used by the people of Depcutland and Depeisit in the Asthortera universe.",
-    slug: "mini-deptic-dictionary",
-    author: "Reltroner Studio",
-    date: "2025-06-01",
+      title: "Sacred Rest Policy",
+      description: "Reltroner Studio's official stance on intentional rest as a pathway to deeper creativity and sustained mental strength.",
+      slug: "rest-culture",
+      author: "Rei Reltroner",
+      date: "2025-04-05",
+      published: true,
+      image: "/images/rest-culture.webp"
+  },
+  {
+      title: "The Cuteness Manifesto: Softness Within Strength",
+      description: "Cuteness isn’t a trend. It’s a weapon. Reltroner Studio shows how softness becomes strategy in a world built on mental warfare.",
+      slug: "cuteness-manifesto",
+      author: "Rei Reltroner",
+      date: "2025-04-06",
+      published: true,
+      image: "/images/cuteness-manifesto.webp"
+  },
+  {
+      title: "Children of Asthortera",
+      description: "An exploration of the sentient, curious, and emotionally resilient children in the world of Asthortera.",
+      slug: "children-of-asthortera",
+      author: "Rei Reltroner",
+      date: "2025-04-06",
+      published: true,
+      image: "/images/children-of-asthortera.webp"
+  },
+  {
+    title: "Children of Reltronland: A Trust-Based Society",
+    description: "From birth to independence, children in Reltronland grow through empathy, curiosity, and civic trust—reshaping the meaning of growing up.",
+    slug: "children-reltronland",
+    author: "Rei Reltroner",
+    date: "2025-05-04",
     published: true,
-    image: "/images/mini-deptic-dictionary.webp"
+    image: "/images/children-reltronland.webp"
   },
   {
-    title: "Mini Reltronic Dictionary: 50+ Root Words",
-    description: "A foundational glossary for the Reltronic language — a hybrid linguistic system forged from Depeisian (Deptic), Cisthetan fluency, and the doctrine of Astralis Pinnacle. Designed as the official language of Reltronland, Reltronic enables high-clarity expression of logic, identity, and transcendence.",
-    slug: "reltronic-root-words",
-    image: "/images/reltronic-root-words.webp",
-    author: "Reltroner Studio",
-    date: "2025-06-01",
-    published: true
+    title: "🧳 Returning to Serve: Why Citizens of Reltronland Work Where They Were Once Raised",
+    description: "In Reltronland, many adults choose to work at the very stations, terminals, and public spaces that raised them—honoring the places that once gave them clarity, comfort, and trust.",
+    slug: "returning-to-serve-reltronland",
+    author: "Rei Reltroner",
+    date: "2025-05-04",
+    published: true,
+    image: "/images/returning-to-serve-reltronland.webp"
   },
-  {
-    title: "Crosswalk Dictionary: Deptic ↔ Reltronic ↔ English",
-    description: "A multilingual comparative lexicon mapping core concepts between Deptic, Reltronic, and English — illustrating linguistic divergence, doctrinal evolution, and ideological clarity across the twin nations of Depcutland and Reltronland in the Asthortera universe.",
-    slug: "crosswalk-dictionary-reltronic-deptic",
-    image: "/images/crosswalk-dictionary-reltronic-deptic.webp",
-    author: "Reltroner Studio",
-    date: "2025-06-01",
-    published: true
-  },
-  {
-    title: "📖 Artesian Pictolatin — The Official Language of Pencilfania",
-    description: "A classical-visual hybrid language rooted in Latin, Greek, and artistic metaphor, governing the linguistic soul of Pencilfania.",
-    image: "/images/artesian-pictolatin-language.webp",
-    author: "Reltroner Studio",
-    date: "2025-06-03",
-    slug: "artesian-pictolatin-language",
-    published: true
-  },
-  {
-    title: "🌲 Stelpadien — The Language of Scouts and Seasons",
-    description: "A native-tundra ceremonial language rooted in nature, scouting, and seasonal consciousness — the official tongue of Stelpadland.",
-    slug: "stelpadien-language",
-    image: "/images/stelpadien-language.webp",
-    author: "Reltroner Studio",
-    date: "2025-06-03",
-    published: true
-  },
-  {
-    title: "🛫 Pasgerian — The Language of Aviation and Alignment",
-    description: "A high-frequency transit language rooted in aviation, Hawaiian phonetics, and spiritual clarity, spoken by the people of Pasgerflit.",
-    slug: "pasgerian-language",
-    image: "/images/pasgerian-language.webp",
-    author: "Reltroner Studio",
-    date: "2025-06-04",
-    published: true
-  }
 
 ];
 
