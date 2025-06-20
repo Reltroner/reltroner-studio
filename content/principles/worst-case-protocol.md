@@ -83,7 +83,7 @@ But I refused to disappear. I designed my own route. Quietly.
 
 ## 🧱 Phase 1: Surface Compliance
 
-* I enrolled in the internship and KKN courses — not to graduate, but to avoid parental suspicion.
+* I enrolled in the internship and Field Study courses — not to graduate, but to avoid parental suspicion.
 * I showed up in society’s acceptable form, while concealing my actual intention.
 * The goal was simple: **Don’t raise alarms. Keep the peace. Buy time.**
 
@@ -131,5 +131,63 @@ from nothing but the clarity of my refusal to surrender.
 
 ---
 
-"Let Astralis light the unknown."
+## Clarification: Not Plagiarism, but Pattern Documentation
+
+My intention is not to plagiarize. I aim to document how systems and workflows function within real companies during my internship—not to copy them wholesale, but to break them down into reusable, modular "ingredients" that can empower my long-term innovation: the **Reltroner Project**.
+
+What I learn and experience silently, I will repackage with vision, ethics, and transformation.
+
+---
+
+## The Deferred Dream: From Multimillionaire to Monument
+
+I no longer obsess over becoming a multimillionaire. That dream has been archived—not erased. It now exists as part of the **Reltroner aesthetic**. As a monument. As architecture. As a poetic presence.
+
+I admit:
+
+* I am late.
+* I am weak.
+* I am behind.
+
+But I reject a life of passive stagnation, where the majority drift downstream under the banner of "keep life simple forever."
+
+---
+
+## Eternal Rules of Survival and Progress
+
+* Never spend money on entertainment or tertiary indulgence.
+* Only spend on:
+
+  * **Primary Needs**
+  * **Upskilling**
+  * **Project Upgrades**
+  * **Bitcoin accumulation** (cold money)
+
+Let the rest of the world pursue weekend peace.
+Let them drown in dopamine.
+Let them celebrate mediocrity.
+
+I walk alone, but with purpose.
+
+---
+
+## The Founder’s Journey Without Fame
+
+Like the early days of any founder or silent billionaire, I will:
+
+* **Network with high-value individuals**
+* **Collect and refine mental models**
+* **Travel paths that others overlook**
+
+All without screaming for attention.
+All while holding my objective as sacred, like a main quest in a video game:
+
+> 🎯 Mission-based life. No roadmap. No deadline. No noise.
+
+Let the world never understand.
+Let them underestimate.
+Let Astralis light the unknown.
+
+**— Rei Reltroner**
+
 
