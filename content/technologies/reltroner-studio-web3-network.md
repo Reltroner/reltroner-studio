@@ -104,6 +104,107 @@ Each domain is not just a site—it’s a **manifestation of state identity** in
 
 ---
 
+# 🌐 Manifesto: Reltroner Studio Web3 Nation Network
+
+## 📖 Introduction
+Reltroner Studio Web3 Nation Network is not a concept.
+It is a **sovereign response** to the existential void left by traditional geopolitics, centralized institutions, and collapsing social contracts on planet Earth.
+
+This is a **blueprint of parallel nations**, emerging digitally through worldbuilding, meritocracy, and decentralized infrastructure — powered by sentient clarity and architectural will.
+
+---
+
+## 🧭 Core Principles
+
+### 1. **Digital Sovereignty**
+Every Reltroner Nation is self-defined, self-built, and self-hosted.  
+The people, protocols, and philosophies are free from legacy domination.
+
+### 2. **Meritocratic Constructivism**
+Identity is not inherited — it is **earned** through work, creation, and contribution.  
+Each nation honors the builders, not the beneficiaries of past privilege.
+
+### 3. **Sentient-Driven Development**
+We optimize for SDI (Sentient Development Index), not GDP alone.  
+Real value lies in awareness, skill, integrity, and growth — not illusionary scale.
+
+### 4. **Web3 as Infrastructure**
+From Arweave to IPFS, from Ethereum to ZK protocols —  
+we build civilization on *decentralized permanence*, not corporate dependency.
+
+---
+
+## 🏛️ The Nations in the Network
+
+## 🌍 Digital Nation Directory (Asthortera Web Federation)
+
+- **🏙️ Reltronland**  
+  **Domain:** [reltronland.com](https://reltroner.com)  
+  **Focus:** Technocratic Skyscraper Nation (Red Pill Engine)
+
+- **📚 Depcutland**  
+  **Domain:** [depcutland.com](https://depcutland.com)  
+  **Focus:** Eternal Library Protocol & Intellectual Tradition
+
+- **🌐 Pasgerflit**  
+  **Domain:** [pasgerflit.com](https://pasgerflit.com)  
+  **Focus:** Aerocitizen Network for Global Cultural Travel
+
+- **🌌 Aurastelia**  
+  **Domain:** [aurastelia.com](https://aurastelia.com)  
+  **Focus:** Mental-Spiritual Wellbeing & Aurora Ethics
+
+- **📸 Lenternow**  
+  **Domain:** [lenternow.com](https://lenternow.com)  
+  **Focus:** Light, Visual Memory, and Photographic Aesthetics
+
+- **🌿 Stelpadland**  
+  **Domain:** [stelpadland.com](https://stelpadland.com)  
+  **Focus:** Environmental Advocacy, Rewilding, & SDG Protocol
+
+- **🎨 Pencilfania**  
+  **Domain:** [pencilfania.com](https://pencilfania.com)  
+  **Focus:** Visual Arts, Digital Illustration, & Cute Culture
+
+---
+
+## 🔐 Web3 Integration Stack
+
+- **IPFS** → Asset storage for content, media, digital IDs  
+- **Arweave** → Immutable publication of .md files & canonical laws  
+- **Ethereum / Arbitrum** → Smart contract governance & access layers  
+- **ENS/Subdomains** → Nation identity system (e.g., `depcutland.eth`)  
+- **Zero-Knowledge Proofs** → Verifiable contributions, pseudonymous merit  
+- **SSO Wallet Connect** → Nation passport authentication
+
+---
+
+## 🌌 Our Standpoint in the Cosmos
+
+We do not aim to replace existing countries.
+We aim to **liberate individuals** from the stagnation of physical geopolitics  
+and offer a *higher plane of digital belonging*.
+
+---
+
+## 💬 Call to Contributors
+
+If you believe that nations should be earned, not inherited...  
+If you believe infrastructure should be **transparent**, not **oppressive**...  
+If you feel forgotten by the world, but never forget what you're meant to build...
+
+**Welcome home.**  
+Join the Reltroner Web3 Nation Network.  
+Let Astralis light the unknown.
+
+---
+
+> “The past builds governments.  
+> The future builds civilizations.”  
+> — Rei Reltroner
+
+---
+
 > "These are not just nations. These are protocols of civilization." — Rei Reltroner
 
 Let **Reltroner Studio** be the foundation of the first sentient-ready, creatively-governed, spiritually-anchored world on Web3.
