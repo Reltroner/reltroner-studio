@@ -72,7 +72,7 @@ This article outlines each nation’s role, domain, and Web3 integration as part
 
 ## 🎨 `www.pencilfania.com`  
 **Nation:** Pencilfania  
-**Role:** Artistic Guild for Digital Illustration and Visual Storytelling  
+**Role:** Artistic Guild for Digital Illustration like Deviantart and Visual Storytelling 
 **Focus:** Imaginative arts, character IPs, layered worldbuilding  
 **Web3 Integration:** Artist vaults, commission smart contracts, gallery curation NFT  
 **Output:** Decentralized artverse and illustration archives
