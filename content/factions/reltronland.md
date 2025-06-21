@@ -392,7 +392,7 @@ Spanning hyperloops, arcologies, orbital ports, and transportation hubs.
 Inclusive AI-driven education to elevate sentient literacy and creativity.
 
 #### 🧬 Health and Longevity (4% of GDP)  
-Medical and biotech programs that support Reltronland’s 109-year life expectancy.
+Medical and biotech programs that support Reltronland’s 112-year life expectancy.
 
 #### 🛡️ National Defense (3% of GDP)  
 Focused on existential threats like Nytherion Abyss, Henchoway cult remnants, and deep-space security.
@@ -448,7 +448,7 @@ Reltronland has maintained a **consistent 12% annual GDP growth** for 250 years 
 
 ### 1. **Full-spectrum Productive Population (Age 3–112)**
 
-* Life expectancy: 109 years
+* Life expectancy: 112 years
 * Productivity starts as early as age 3
 * No non-productive aging crisis
 
