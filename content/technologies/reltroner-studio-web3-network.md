@@ -83,7 +83,7 @@ This article outlines each nation’s role, domain, and Web3 integration as part
 
 Each domain is not just a site—it’s a **manifestation of state identity** in the form of decentralized applications (dApps), where:
 
-- 💠 **Reltronland governs**: The core logic and architecture  
+- 🏙️ **Reltronland governs**: The core logic and architecture  
 - 📘 **Depcutland archives**: The intelligence of civilization  
 - ✈️ **Pasgerflit travels**: The expansion of experience  
 - 💡 **Lenternow enlightens**: The aesthetics of memory  
