@@ -327,6 +327,7 @@ export default function CommandPalette() {
     { name: "☀️ Solar Flare Technology in Asthortera", path: "/technologies/solar-flare-technology" },
     { name: "✈️ Tronexus V-Class Starcraft", path: "/technologies/tronexus-v-class" },
     { name: "Web3 Library Protocol of Depcutland", path: "/technologies/web3-library-protocol-depcutland" },
+    { name: "Reltroner Studio Web3 Nation Network", path: "/technologies/reltroner-studio-web3-network" },
     //Principles
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
     { name: "💸 Funded Roadmap — If This Project Gets Backed", path: "/principles/funded-roadmap" },

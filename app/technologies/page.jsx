@@ -95,6 +95,15 @@ const techs = [
     date: "2025-06-16",
     published: true,
     image: "/images/web3-library-protocol-depcutland.webp"
+  },
+  {
+    title: "Reltroner Studio Web3 Nation Network",
+    description: "Outlining the decentralized vision of interconnected digital nations under Reltroner Studio’s world system, powered by blockchain and intellectual protocols.",
+    slug: "reltroner-studio-web3-network",
+    author: "Rei Reltroner",
+    date: "2025-06-21",
+    published: true,
+    image: "/images/reltroner-studio-web3-network.webp"
   }
 ];
 
