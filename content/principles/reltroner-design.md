@@ -502,6 +502,74 @@ Our stories matter because they **don’t flatter** — they reveal.
 
 ---
 
+# 🌐 Reltroner Studio Vision
+
+**Reltroner Studio** is more than just a storytelling project — it's an experimental tech ecosystem that merges the stability of Web1, the productivity of Web2, and the decentralization of Web3 into one creative infrastructure.
+
+We believe the future of creation is **interoperable**, **self-sovereign**, and **technically composable**.
+
+---
+
+## 🏗️ Layered Architecture
+
+### 🧱 Layer: Web1  
+- **Domain:** `reltroner.com`  
+- **Technology:** Static Markdown + SEO  
+- **Purpose:**  
+  Public knowledge base for Asthortera, lore, and structured storytelling.
+
+---
+
+### 🧩 Layer: Web2  
+- **Domain:** `hrm.reltroner.com`  
+- **Technology:** Laravel + Inertia + Tailwind  
+- **Purpose:**  
+  ERP and HR system for studio internal operations.
+
+---
+
+### 🛸 Layer: Web3  
+- **Domain/Infra:** IPFS / Arweave / Tokenization  
+- **Technology:** Decentralized file storage and creative IP protection  
+- **Purpose:**  
+  Legal license hosting, permanent record of creative work, and future DAO access.
+
+Each layer operates independently yet contributes to a **unified creative mission**: supporting storytelling and infrastructure with sovereignty, security, and scalability.
+
+---
+
+## 🧠 Why This Structure?
+
+* ✅ **Resilience** – no single failure collapses the system
+* ✅ **Adaptability** – compatible with legacy and futuristic tech
+* ✅ **Ownership** – files and systems stay in creator control
+* ✅ **Scalability** – can evolve from solo project to global creative DAO
+
+---
+
+## 🔗 Integrated Use Cases
+
+* Host legal declarations on IPFS with fallback on Arweave
+* Query decentralized metadata of public works (blog, licenses)
+* Sync HRM data with creative contributor badges or access tiers
+* Open content API for third-party visualizers, readers, or search agents
+
+---
+
+## 🛠️ Our Belief
+
+> "Let Astralis light the unknown."
+
+We don’t build in hype cycles. We build across time.
+
+**Reltroner Studio** is a digital sovereign territory — one that will always stand, even when platforms disappear, trends fade, and tokens de-peg.
+
+This is the foundation.
+This is the architecture.
+This is the Astralis way.
+
+---
+
 ## 🕯️ Final Declaration
 
 > *Let others build fast. We build real.*
@@ -515,3 +583,8 @@ Our stories matter because they **don’t flatter** — they reveal.
 **Built by:** Rei Reltroner
 **Hosted at:** [https://reltroner.com](https://reltroner.com)
 **Status:** Independently active, perpetually expanding.
+
+🛡️ Content © 2025 by Rei Reltroner / Reltroner Studio
+
+🔗 Legal License: [IPFS](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf) | [Arweave](https://app.ardrive.io/#/file/021c69cf-e79c-4f7b-8106-4094a98e04bb/view)
+
