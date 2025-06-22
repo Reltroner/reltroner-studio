@@ -140,6 +140,7 @@ export default function CommandPalette() {
     { name: "Moris Monte", path: "/characters/moris-monte", tag: "Characters" },
     { name: "🩸 Andy Elian", path: "/characters/andy-elian", tag: "Characters" },
     { name: "🛡 Bruce Kalen", path: "/characters/bruce-kalen", tag: "Characters" },
+    { name: "Mimbixs — Reltronland Character Profile", path: "/characters/mimbixs", tag: "Characters" },
     // Cultures
     { name: "Children of Asthortera", path: "/cultures/children-of-asthortera" },
     { name: "Children of Reltronland: A Trust-Based Society", path: "/cultures/children-reltronland" },

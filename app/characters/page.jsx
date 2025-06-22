@@ -156,6 +156,17 @@ const characters = [
     image: "/images/bruce-kalen.webp",
     tags: ["character", "nytherion abyss", "anchor", "the abyss of comfort"],
     published: true
+},
+{
+    title: "Mimbixs — Reltronland Character Profile",
+    slug: "mimbixs",
+    tags: ["mascot", "cute culture", "data analyst", "Reltronland", "Mimbixs"],
+    role: "Senior Astronomer & Cosmic Systems Analyst",
+    description: "Mimbixs is a cosmic-themed mascot from Reltronland, blending cute culture with data mastery. As a Senior Astronomer & Systems Analyst, Mimbixs interprets celestial metrics and behavioral data to guide civilization through logic, clarity, and a pixelated smile.",
+    author: "Reltroner Studio",
+    date: "2025-06-22",
+    published: true,
+    image: "/images/mimbixs.webp"
 }
   
 ];
