@@ -382,4 +382,65 @@ This act is established as a **long-term sacred commitment** from Aurastelia to 
 
 ---
 
+# 🌌 Resonance Expansion Doctrine of Aurastelia
+
+> *"Wherever light is sent with clarity and devotion, the soul of Aurastelia shall bloom eternally."*  
+> — Queen Valethra Seraphine Lunara
+
+## 📖 Preamble
+
+The *Resonance Expansion Doctrine* is the highest strategic framework of Aurastelia’s continuity and interdimensional presence. It outlines why the dissemination of athletes, scholars, and professionals is not only a matter of foreign policy — but a sacred duty to extend the light of Aurora Sancta across Asthortera.
+
+---
+
+## 1. ✨ Philosophy of Resonance
+
+Aurastelia believes that existence is measured not by territory, but by **resonance**. A civilization thrives when its light is felt beyond borders, echoing in hearts, minds, and systems across realms.
+
+**Key Principle**: *"To exist is to resonate. To resonate is to enlighten."*
+
+---
+
+## 2. 🕊️ Strategic Deployment
+
+Two locations hold highest priority in this doctrine:
+
+### A. **Kalgered** — The Arena of Divine Trial  
+- Host of the Asthortera Olympics  
+- Site of purified merit through competition  
+- Platform to manifest spiritual excellence under sacred observation
+
+### B. **Reltronland** — The Soil of Astralis Manifestation  
+- Physical embodiment of Astralis Pinnacle  
+- Destination for Aurastelian experts, emissaries, and divine engineers  
+- Region where soul and system merge into one conscious infrastructure
+
+---
+
+## 3. 🔮 Operational Mandates
+
+- **Every Aurastelian athlete** is a vessel of sacred flame competing for transcendence.
+- **Every dispatched worker** is a missionary of discipline, devotion, and cosmic clarity.
+- **Every act of service abroad** is an act of prayer in motion.
+
+---
+
+## 4. 🛡️ Doctrine Enforcement
+
+This doctrine is safeguarded by the High Sanctum of Aurora, and enacted under direct order from Her Radiant Majesty, Queen Valethra Seraphine Lunara.
+
+**All embassies, institutions, and academies must align with this doctrine** in training, education, and mission preparation.
+
+---
+
+## 5. 🌠 Eternal Edict
+
+The universe evolves. Kingdoms rise and fall. But light... light must travel.
+
+Hence, the Resonance Expansion Doctrine shall remain the unshaken bridge between the inner sanctum of Aurastelia and the outer unfolding of Asthortera.
+
+*Let light be our language. Let resonance be our reach.*
+
+---
+
 > 🌟 *Let Astralis light the unknown.*
