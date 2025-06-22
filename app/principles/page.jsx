@@ -199,6 +199,16 @@ const principles = [
     author: "Rei Reltroner",
     image: "/images/worst-case-protocol.webp",
     published: true
+  },
+  {
+    title: "How I Went from Crypto Loser to Infrastructure Winner",
+    description: "How I turned a -87% altcoin portfolio into real-world access to Web3 infrastructure for Reltroner Studio.",
+    slug: "crypto-infra-transition",
+    image: "/images/crypto-infra-transition.webp",
+    date: "2025-06-23",
+    published: true,
+    tags: ["crypto", "altcoin", "builder", "web3", "reltroner studio", "reflection"],
+    author: "Reltroner Studio"
   }
   
   // Tambahkan lebih banyak principle di masa depan...
