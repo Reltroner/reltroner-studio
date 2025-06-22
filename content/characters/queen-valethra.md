@@ -51,7 +51,7 @@ description: "The eternal protector of cosmic balance in Asthortera, Queen Valet
 
 ## Philosophy & Motivation
 - Protect the harmony between science and spirituality.  
-- Prevent exploitation of aurora energy by technocratic powers.  
+- Prevent exploitation of aurora energy by henchoway powers.  
 - Lead Aurastelia in a way that nurtures both soul and civilization.  
 - Maintain cosmic balance within Asthortera’s ever-shifting energy.
 
@@ -61,7 +61,6 @@ description: "The eternal protector of cosmic balance in Asthortera, Queen Valet
 
 ## Key Relationships
 - **Albert Locke:** Mutual respect with intellectual disagreement over energy exploration boundaries.  
-- **Dr. Westley Watson:** Views him with cautious wariness due to his political motives.  
 - **Commander Zevrak Lyra:** Childhood friend and Veilguard commander. Loyal protector.  
 - **Velra Casthein:** A philosophical ally from Astrostelia on cosmic matters.  
 - **President Regulus Rigel:** Maintains a neutral but open relationship with Reltronland’s leadership.

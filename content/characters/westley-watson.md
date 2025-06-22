@@ -43,18 +43,10 @@ quote: "Knowledge is power... but only to those who know how to wield it."
 
 ---
 
-## Relationships
-- **Queen Valethra Seraphine Lunara:** Respects her, yet sees her spiritualism as a manipulable flaw.
-- **Albert Locke:** Sees him as a valuable asset; occasionally exploits his idealism.
-- **Klara Veston:** Investigative journalist who monitors Watson closely, suspecting his ties to the Horizon Eclipse project.
-- **Selgrin Altherion (rumored):** Might be indirectly involved in securing the child of Kamila Alena.
-
----
-
 ## Role in the Narrative
 - **Keeper of Secrets:** Has access to historical documents, metaphysical theories, and ancient records about the Aurora Gateway and Nytherion Abyss.
 - **Neutral Catalyst:** Moves pieces silently — doesn’t choose sides openly, but his choices always shift the balance.
-- **Chronicler of Forbidden Events:** Compiles suppressed data on cosmic interferences, Henchoeway, and early AI rebellions.
+- **Chronicler of Forbidden Events:** Compiles suppressed data on cosmic interferences, Henchoway, and early AI rebellions.
 
 ---
 
