@@ -419,6 +419,99 @@ Free trial users can:
 
 ---
 
+# HRM.Reltroner — The Modular Infrastructure for Scaling Startups
+
+> **“While other tools audit your homepage, we power your entire operation.”**
+
+---
+
+## 🧠 Problem
+
+Most startups rely on generic tools that don’t adapt as their teams grow.
+
+- Static HR platforms lack customization
+- Expensive ERP systems overkill for small teams
+- Startups outgrow spreadsheet-based systems fast
+- Founders lose productivity reinventing basic workflows
+
+---
+
+## 💡 Our Solution
+
+**HRM.Reltroner.com** is a modular HR and operations system that grows with your startup.
+
+✅ Employee, task, department, payroll, and presence management  
+✅ Modular architecture — scale only what you need  
+✅ Custom module requests for startup-specific workflows  
+✅ Clean UI, lightweight deployment, easy onboarding
+
+---
+
+## 🚀 Product Highlights
+
+- 100% solo-built using Laravel 12 + Tailwind + MySQL
+- Free tier supports up to 20 rows of data
+- Premium unlocks larger storage + module customization
+- Integrates with SSO via `sso.reltroner.com` for secure access
+
+---
+
+## 🧩 Business Model
+
+### 🟢 Free Tier
+- **Features:** Core modules, up to 20 data rows  
+- **Target Users:** Indie teams, MVPs
+
+---
+
+### 🟡 Pro Tier
+- **Features:** More than 20 data rows, priority support  
+- **Target Users:** Growing startups
+
+---
+
+### 🔴 Custom Plan
+- **Features:** Bespoke module development tailored to your needs  
+- **Target Users:** Creative studios, B2B agencies
+
+---
+
+## 🎯 Market Differentiation
+
+Unlike tools like **WebScore360** (single-use insight tools), **Reltroner HRM**:
+
+- Powers daily team operations
+- Supports layered monetization (SaaS + service)
+- Is extensible for creative-tech ecosystems
+- Offers high-value customization for scaling ops
+
+---
+
+## 🛠 Tech Stack
+
+- Laravel 12 (backend logic)
+- Tailwind CSS (UI)
+- Inertia.js + Vue (coming soon)
+- MariaDB (data integrity)
+- Keycloak SSO integration (security-first)
+
+---
+
+## 🌐 Live Now
+
+- Dashboard: [https://hrm.reltroner.com](https://hrm.reltroner.com)  
+- 💻 [github.com/Reltroner/reltroner-hr-app.git](https://github.com/Reltroner/reltroner-hr-app.git)
+- Blog & Recruitment Portal: [https://www.reltroner.com/blog/for-recruiters](https://www.reltroner.com/blog/for-recruiters)
+
+---
+
+## 🧠 Vision
+
+To be the **Notion + Odoo** for the creative tech world.  
+To empower studios, micro-enterprises, and digital founders to operate like enterprises — without the bloat.
+
+---
+
 # 🏆 We Just Hit #17 on the Global Indie Hackers Leaderboard
 
 _— by Rei Reltroner, Founder of Reltroner Studio_
