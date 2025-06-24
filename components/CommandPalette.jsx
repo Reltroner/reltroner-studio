@@ -316,7 +316,8 @@ export default function CommandPalette() {
     { name: "🔬 Sentient Upshift Lab", path: "/laws/sentient-upshift-lab"},
     { name: "✈️ The Aviashenwelt Accord — SDI-Based Visa-Free Framework", path: "/laws/aviashenwelt-accord"},
     { name: "🚫 Abolishment Decree: Feudalism & Inferiority Mentality", path: "/laws/abolish-feudalism-inferiority"},
-    
+    { name: "🏛️ Reltronland Administrative Naming Rules", path: "/laws/reltronland-administrative-naming-rules"},
+
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
     { name: "Reltronian AirGrid", path: "/technologies/reltronian-airgrid" },

@@ -219,6 +219,15 @@ const laws = [
     author: "Rei Reltroner",
     date: "2025-05-18",
     published: true
+  },
+  {
+    title: "🏛️ Reltronland Administrative Naming Rules",
+    description: "A linguistic and philosophical framework defining naming conventions for each administrative level in Reltronland, from the central nation to localized subdistricts and below.",
+    slug: "reltronland-administrative-naming-rules",
+    image: "/images/reltronland-administrative-naming-rules.webp",
+    date: "2025-06-25",
+    author: "Rei Reltroner",
+    published: true
   }
   
   // Tambahkan lebih banyak Law di masa depan...
