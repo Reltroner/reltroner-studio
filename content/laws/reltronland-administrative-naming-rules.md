@@ -56,7 +56,7 @@ This document outlines the **official naming conventions** for administrative re
 
 * **Allowed Letters:** **All letters are permitted.**
 * **Rule:** Creative freedom is encouraged at this level to represent cultural diversity and individuality.
-* **Examples:** `Zentharia`, `Cloudberry`, `New Koja`, `Peltronpark`, `Condethra`, etc.
+* **Examples:** `Zentharia`, `Cloudberry`, `Veltronea`, `Peltronpark`, `Condethra`, etc.
 
 ---
 
