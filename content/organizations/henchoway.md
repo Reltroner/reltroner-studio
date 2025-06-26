@@ -11,7 +11,7 @@ published: true
 
 > *“To dive is to forget. To forget is to belong.”*
 
-Henchoway is a deep-sea cult organization rooted in the darkest depths of **Nytherion Abyss**, disguised as a movement for comfort, stillness, and stability. Founded by *Vitor Baythorne* (alias Van Den Scuba), the group is now led by **Kamila Alena**, spreading its influence across Asthortera through illusions of peace.
+Henchoway is a deep-sea cult organization rooted in the darkest depths of **Nytherion Abyss**, disguised as a movement for comfort, stillness, and stability. Lead by *Vitor Baythorne* (alias Van Den Scuba), spreading its influence across Asthortera through illusions of peace.
 
 ---
 
@@ -82,7 +82,7 @@ Inside, silence reigns. The walls pulse faintly with Nytherion energy. Memory di
 ## 🧩 Role in The Abyss of Comfort
 - Major antagonist force opposing the Red Pill awakening.
 - Manipulates characters like Delwyn and Barry through memory traps.
-- Operates portals to the **Etherna Ruin** via Baythorne city.
+- Operates portals to the **Ertherna Ruin** via Baythorne city.
 
 ---
 
@@ -102,11 +102,11 @@ Henchoway is not merely a cult—it is an ancient extension of the **Nytherion A
 
 ## 🛸 Colonial Origins
 
-- **Founded:** Around **1120 BAC**, during the **first wave of mass migration** from planet **Depeisit** to Asthortera.
+- **Creator:** Kamila Alena create Henchoway, cloaked in humanitarianism, to spread **Nytherion Abyss** across the sentient mindscape of Asthortera.
 - **Original Name:** *Henchowayway Scuba Division*, established to explore the deep waters of **Hargenbor Bay**.
 - **Purpose:** To establish strategic underwater colonies and monitor mysterious spiritual anomalies detected beneath the Central Ocean.
 
-But in the depths, they found more than minerals—they found **Nytherion energy** sealed beneath **Etherna Ruin**. Contact with this ancient force changed everything.
+But in the depths, they found more than minerals—they found **Nytherion energy** sealed beneath **Ertherna Ruin**. Contact with this ancient force changed everything.
 
 ---
 

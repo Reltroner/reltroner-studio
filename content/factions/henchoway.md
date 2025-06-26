@@ -26,8 +26,8 @@ Henchoway is not just an enemy of nations—it is an enemy of awakening.
 ### 📊 Core Identity
 - **Type:** Abyssal Cult Network (Non-national)
 - **Founding Origin:** Deep sea portal to Nytherion Abyss
-- **Founder:** Vitor Baythorne (alias Van Den Scuba)
-- **Current Leader:** Kamila Alena
+- **Creator:** Kamila Alena
+- **Current Leader:** Vitor Baythorne (alias Van Den Scuba)
 - **Ideological Mask:** "Peace through stillness"
 
 ---
@@ -142,7 +142,7 @@ Inside, silence reigns. The walls pulse faintly with Nytherion energy. Memory di
 ## 🧩 Role in The Abyss of Comfort
 - Major antagonist force opposing the Red Pill awakening.
 - Manipulates characters like Delwyn and Barry through memory traps.
-- Operates portals to the **Etherna Ruin** via Baythorne city.
+- Operates portals to the **Ertherna Ruin** via Baythorne city.
 
 ---
 
@@ -162,11 +162,11 @@ Henchoway is not merely a cult—it is an ancient extension of the **Nytherion A
 
 ## 🛸 Colonial Origins
 
-- **Founded:** Around **1120 BAC**, during the **first wave of mass migration** from planet **Depeisit** to Asthortera.
+- **Creator:** Kamila Alena create Henchoway, cloaked in humanitarianism, to spread **Nytherion Abyss** across the sentient mindscape of Asthortera.
 - **Original Name:** *Henchowayway Scuba Division*, established to explore the deep waters of **Hargenbor Bay**.
 - **Purpose:** To establish strategic underwater colonies and monitor mysterious spiritual anomalies detected beneath the Central Ocean.
 
-But in the depths, they found more than minerals—they found **Nytherion energy** sealed beneath **Etherna Ruin**. Contact with this ancient force changed everything.
+But in the depths, they found more than minerals—they found **Nytherion energy** sealed beneath **Ertherna Ruin**. Contact with this ancient force changed everything.
 
 ---
 
@@ -184,7 +184,7 @@ The organization dropped its original name and became simply: **Henchoway**.
 
 ## 🧸 The Childhood Resonance
 
-> When I was a child, I saw a diver at a waterpark in a black suit and called him **‘Hencowewe’**.
+> When I was a child, I saw a diver at a waterpark in a black suit and called him **‘Henchowayway’**.
 > Later, at Sea World, I saw another and cried out, **“That’s Henchowayway!!”**
 
 This innocent experience became the **spiritual echo** of something much older—an ancestral resonance from a forgotten past.
