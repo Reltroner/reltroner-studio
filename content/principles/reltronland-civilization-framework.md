@@ -71,7 +71,7 @@ Reltronland is built upon the following axioms:
 Reltronland operates within the larger world of **Asthortera**, where nations are ranked not by power or military but by **SDI Clarity Ratings.**
 
 * **Top-tier SDI Nations:** Reltronland, Aurastelia, Stelpadland
-* **Abyss-corrupted Factions:** Depeisit Empire, Henchoeway cults
+* **Abyss-corrupted Factions:** Depeisit Empire, Henchoway cults
 * **Emergent Systems:** Pencilfania, Vanyathra, Kalgered
 
 > “Clarity is the only valid hierarchy in Asthortera.”

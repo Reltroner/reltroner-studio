@@ -109,7 +109,7 @@ In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human
 
 ### 📈 Growth into National Identity
 
-* Between 2750–2100 BAC, wooden cities emerged—camouflaged into nature, never disrupting canopy flows.
+* Between 2750–2432 BAC, wooden cities emerged—camouflaged into nature, never disrupting canopy flows.
 * Culture of ritual, scouting, wooden arts, and mysticism solidified.
 * No recorded wars. Defensive magic and geographic isolation kept Stelpadland free from invasion.
 
