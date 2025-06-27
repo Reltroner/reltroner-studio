@@ -531,6 +531,15 @@ const posts = [
     date: "2025-06-20",
     published: true,
     image: "/images/reltronland-wealth-vs-earth.webp"
+  },
+  {
+    title: "The Elite and the Illusion of Forecasting: A Red Pill Essay",
+    description: "A fearless manifesto that exposes the failure of mainstream forecasting and unmasks the elite’s manipulation of future narratives. This Red Pill essay challenges the illusions sold to the middle class and calls for critical awakening.",
+    slug: "illusion-of-forecasting",
+    author: "Rei Reltroner",
+    date: "2025-06-28",
+    published: true,
+    image: "/images/illusion-of-forecasting.webp"
   }
   
 ];

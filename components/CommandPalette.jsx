@@ -121,6 +121,7 @@ export default function CommandPalette() {
     { name: "The ADHD Builder: When Systems Fail to Understand You", path: "/blog/adhd-builder" },
     { name: "Why Japan is the Earth’s Closest Equivalent to Asthortera", path: "/blog/japan-closest-equivalent-to-asthortera" },
     { name: "What Happens When a Reltronland Quadrillionaire Lands on Earth?", path: "/blog/reltronland-wealth-vs-earth" },
+    { name: "The Elite and the Illusion of Forecasting: A Red Pill Essay", path: "/blog/illusion-of-forecasting" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
