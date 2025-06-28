@@ -21,48 +21,28 @@ This model explores how **tetration‑scale growth** (hyperoperation level 4) 
 
 ## 2. Assumptions & Baselines
 
-### ⚡ `$c$` — Speed of Light  
-**Value:** `3.00 × 10⁸ m/s`  
-**Comment:** Fundamental speed limit of the universe.
-
----
-
-### 🔋 `$E_P$` — Planck Energy  
-**Value:** `1.96 × 10⁹ J`  
-**Comment:** **Theoretical upper limit** of energy scale in quantum gravity.
-
----
-
-### ☀️ `$M_⊙$` — Solar Mass  
-**Value:** `1.99 × 10³⁰ kg`  
-**Comment:** Mass of our sun, used in astrophysical calculations.
-
----
-
-### 💥 `$E_⊙$` — Mass–Energy of One Sun  
-**Value:** `M_⊙ c² ≈ 1.79 × 10⁴⁷ J`  
-**Comment:** Total energy content if one solar mass is fully converted.
-
----
-
-### ↔️ `Δd` — Jump Distance  
-**Value:** `10⁵ – 10⁸ light-years`  
-**Comment:** Intergalactic jump distance range.
-
----
-
-### ⚙️ `η` — Efficiency  
-**Value:** `0 < η ≤ 1`  
-**Comment:** Conversion efficiency from energy source to hyperspace usage.
+![hyperspace-table](/images/hyperspace-table.webp)
 
 *We treat energy demand as a monotonic function of distance and mass to be transported, then map that function onto a **tetration ladder** to express orders beyond ordinary exponentials.*
 
 ## 3. Hyperoperation Context
 
-1. Addition             $a+b$
-2. Multiplication         $a\times b$
-3. Power / Exponentiation    $a^b = a\,\uparrow b$
-4. **Tetration**            $a\,\uparrow\uparrow b = {^b}a$
+1. Addition: 
+```
+a+b
+```
+2. Multiplication: 
+```
+a×b
+```
+3. Power / Exponentiation: 
+```
+a↑b = a^b
+```
+4. **Tetration**: 
+```
+a↑↑b = {^b}a
+```
 
 Higher levels (pentation, etc.) exist but are not covered here.
 
@@ -70,33 +50,29 @@ Higher levels (pentation, etc.) exist but are not covered here.
 
 We postulate a baseline **exponential** energy for a relativistic warp bubble (Alcubierre‑type):
 
-$$
-E_{\text{exp}}(\Delta d) = E_0\,e^{k \Delta d},
-$$
+![formula1.webp](/images/formula1.webp)
 
 where *k* encodes spacetime rigidity.
 
 To scale this for *super‑cluster* jumps, we embed the exponent itself inside another power tower, effectively yielding a **tetration map**:
 
-$$
-E_{\text{hyper}}(\Delta d) = a\,\uparrow\uparrow\bigl(1 + b\,\Delta d\bigr),
-$$
+![formula2.webp](/images/formula2.webp)
 
 with constants *a* ≥ 10 and *b* ≈ 10⁻⁸ ly⁻¹ chosen so that:
 
-* For $\Delta d=10^5\,\text{ly}$ (intra‑galactic) → energy ≈ $^2 10 = 10^{10}\,\text{J}$ scale.
-* For $\Delta d=10^8\,\text{ly}$ (super‑cluster) → energy ≈ $^4 10$ (a **10^10^10^10 J** class figure).
+![formula3.webp](/images/formula3.webp)
 
 ## 5. Worked Example
 
 Jumping a **100‑kiloton star‑freighter** (≈10⁸ kg) across **50 Mly**:
 
-1. Classical relativistic bubble: $E_{\text{exp}} \approx 10^{36}\,\text{J}$.
+1. Classical relativistic bubble: 
+
+![formula4.webp](/images/formula4.webp)
+
 2. Embed in tetration: set a = 10, b = 5 × 10⁻⁹ ly⁻¹ →
 
-$$
-E_{\text{hyper}} = 10\,\uparrow\uparrow\bigl(1 + 0.25\bigr) = 10\,\uparrow\uparrow 1.25 \approx 10^{10^{1.25}} \approx 10^{17.7}\,\text{J}.
-$$
+![formula5.webp](/images/formula5.webp)
 
 This dwarfs the energy of multiple suns but is *several orders* below a full super‑cluster hop.
 
@@ -108,7 +84,7 @@ This dwarfs the energy of multiple suns but is *several orders* below a full sup
 ## 7. Limitations & Outlook
 
 * Constants *a* and *b* are **phenomenological placeholders** pending a viable theory of quantum gravity.
-* Real hyperspace travel could demand **hyper‑tetration** ($\uparrow\uparrow\uparrow$) once mass and distance cross additional thresholds.
+* Real hyperspace travel could demand **hyper‑tetration** (↑↑↑) once mass and distance cross additional thresholds.
 * Next‑step research: couple this model with a **quantum vacuum energy extraction** scheme to test attainability.
 
 ## 8. Conclusion
@@ -133,28 +109,7 @@ This markdown aims to calculate the number of Planck-scale volumes that could th
 
 ## 2. Constants and Definitions
 
-### 🌍 Radius of Observable Universe ($R$)  
-**Value:** `4.4 × 10²⁶ m`  
-**Comment:** Approximate distance to the edge of the visible universe.
-
----
-
-### 🌀 Volume of Observable Universe ($V_U$)  
-**Formula:** $\frac{4}{3}\pi R^3$  
-**Value:** `≈ 3.6 × 10⁸⁰ m³`  
-**Comment:** Total space observable from Earth in every direction.
-
----
-
-### 🔬 Planck Length ($l_P$)  
-**Value:** `1.616 × 10⁻³⁵ m`  
-**Comment:** Smallest meaningful unit of length in quantum physics.
-
----
-
-### 🧊 Planck Volume ($V_P = l_P^3$)  
-**Value:** `≈ 4.22 × 10⁻¹⁰⁵ m³`  
-**Comment:** Volume of a cube with each side one Planck length — the smallest meaningful unit of volume.
+![planck-table](/images/planck-table.webp)
 
 ---
 
@@ -162,13 +117,13 @@ This markdown aims to calculate the number of Planck-scale volumes that could th
 
 We divide the macroscopic universe's volume by the smallest meaningful unit of space:
 
-$N_{P} = \frac{V_U}{V_P} = \frac{3.6 \times 10^{80}}{4.22 \times 10^{-105}} \approx 8.53 \times 10^{184}$
+![formula6](/images/formula6.webp)
 
 ---
 
 ## 4. Interpretation
 
-* The number $8.53 \times 10^{184}$ represents how many **Planck-scale cubes** ($l_P^3$) fit into the observable universe.
+* The number 8.53 × 10¹⁸⁴ represents how many **Planck-scale cubes** (Planck Volume) fit into the observable universe.
 * This number dwarfs any particle count, dwarf star, or conventional exponential quantity. It approaches **tetration territory** in sheer scale.
 * While we cannot physically probe this level yet, it defines the **theoretical maximum resolution** of our space.
 
