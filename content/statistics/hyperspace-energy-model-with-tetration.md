@@ -3,7 +3,7 @@ title: "Hyperspace Energy Model with Tetration"
 description: "A conceptual framework that employs tetration (↑↑) to estimate the energy requirements for inter‑galactic and inter‑supercluster hyperspace travel."
 author: "Rei Reltroner"
 date: "2025-06-28"
-published: false
+published: true
 image: "/images/hyperspace-energy-model-with-tetration.webp"
 ---
 

@@ -145,7 +145,7 @@ const statistics = [
     slug: "hyperspace-energy-model-with-tetration",
     author: "Rei Reltroner",
     date: "2025-06-28",
-    published: false,
+    published: true,
     image: "/images/hyperspace-energy-model-with-tetration.webp"
   }
 ];
