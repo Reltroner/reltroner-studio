@@ -68,7 +68,7 @@ High Formalism · Ethical Heritage · Silence over Spectacle · Thought before E
 
 ### 🤿 Henchoway Deep Lore
 **“To dive is to forget. To forget is to belong.”**  
-Henchoway is a deep-sea cult organization rooted in the darkest depths of Nytherion Abyss, disguised as a movement for comfort, stillness, and stability. Founded by **Vitor Baythorne** (alias *Van Den Scuba*), the group is now led by **Kamila Alena**, spreading its influence across Asthortera through illusions of peace and false liberation.
+Henchoway is a deep-sea cult organization rooted in the darkest depths of Nytherion Abyss, disguised as a movement for comfort, stillness, and stability. Created by **Kamila Alena** (Nytherion Abyss Throne), the group is now led by **Vitor Baythorne** (alias *Van Den Scuba*), spreading its influence across Asthortera through illusions of peace and false liberation.
 
 ### 🧠 Keywords
 Blue Pill Extreme · Comfort Trap · Mental Rot · Eternal Void in Disguise

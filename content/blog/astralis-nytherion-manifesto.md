@@ -6,6 +6,8 @@ published: true
 image: "/images/astralis-nytherion-banner.webp"
 ---
 
+---
+
 # 🌌 Astralis × Nytherion Manifesto
 
 > _“Between brilliance and despair, a developer must choose — the eternal climb or the endless loop.”_

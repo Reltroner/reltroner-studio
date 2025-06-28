@@ -7,11 +7,13 @@ published: true
 image: "/images/magic-astralis-nytherion.webp"
 ---
 
+---
+
 # Magic System: Astralis Pinnacle vs Nytherion Abyss
 
 In the vast universe of **Asthortera**, two opposing magical forces define the existential and spiritual journey of every sentient being: **Astralis Pinnacle** and **Nytherion Abyss**.
 
-These are not just energies — they are living ideologies, cosmic systems that govern fate, growth, struggle, stagnation, and illusion. The mastery and understanding of these systems lie at the heart of Reltronland’s philosophy and the *Henchoeway Series*.
+These are not just energies — they are living ideologies, cosmic systems that govern fate, growth, struggle, stagnation, and illusion. The mastery and understanding of these systems lie at the heart of Reltronland’s philosophy and the *Henchoway Series*.
 
 ---
 
@@ -52,7 +54,7 @@ Nytherion Abyss is the deceptive current of comfort, illusions, and stagnation. 
 - *False Ascension*: Grants the illusion of power while draining real potential.
 
 ### 🧠 Practitioners
-Commonly found in corrupt bureaucracies, cult leaders, passive elites, or anyone who fears truth. Influences come from Henchoeway and the shadows of Depeisit.
+Commonly found in corrupt bureaucracies, cult leaders, passive elites, or anyone who fears truth. Influences come from Henchoway and the shadows of Depeisit.
 
 ---
 

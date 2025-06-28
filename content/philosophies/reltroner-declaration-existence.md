@@ -7,6 +7,8 @@ date: "2025-04-29"
 published: true
 ---
 
+---
+
 # 📜 Reltroner Declaration of Existence
 
 **Issued by Rei Reltroner — Founder of Reltronland, Architect of Asthortera, Guardian of Astralis Pinnacle**

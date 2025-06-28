@@ -22,7 +22,7 @@ To fully appreciate the magnitude of such an arrival, let's break it down.
 ## 💰 Currency Conversion: A Glimpse of the Power
 
 * **1 \$REL ≈ \$114.26 USD** (nominal GNI parity)
-* **\$REL1 Quadrillion = \$114.26 Quadrillion USD**
+* **1 \$REL Quadrillion = \$114.26 Quadrillion USD**
 
 For comparison:
 
