@@ -5,11 +5,13 @@ published: true
 image: "/images/reltroner-studio-banner.webp"
 ---
 
+---
+
 # 🏢 Reltroner Studio
 
 **Visionary Code, Timeless Legacy.**
 
-Welcome to **Reltroner Studio**, an independent digital studio founded by **Raidan (Rei Reltroner)**, designed as a reflection of the Astralis Pinnacle principles: clarity, depth, mastery, and futuristic ambition. Our mission is to craft not just software, but **structures of thought**, **immersive systems**, and **legacy-defining technology**.
+Welcome to **Reltroner Studio**, an independent digital studio founded by **Rei Reltroner**, designed as a reflection of the Astralis Pinnacle principles: clarity, depth, mastery, and futuristic ambition. Our mission is to craft not just software, but **structures of thought**, **immersive systems**, and **legacy-defining technology**.
 
 Not just a project, not just a startup, but a **civilization built on mental warfare, purpose, and precision.**
 
