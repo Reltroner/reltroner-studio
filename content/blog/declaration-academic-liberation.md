@@ -148,6 +148,68 @@ but because I survived it **with my spirit intact**.
 To every student who questions, who builds, who dares to disobey:  
 **This is your flag. Raise it.**
 
-Let Astralis light the unknown.
-
 ---
+
+# 📚 Formal Education Was Never Meant to Set You Free
+
+## 🎓 The Illusion of Liberation
+
+Formal education has always been sold as the gateway to success, stability, and intelligence. But behind the polished slogans and ceremonial graduations lies a mechanism of control — not liberation.
+
+In truth, it was never designed to make you free. It was designed to:
+
+* Train obedience, not originality.
+* Reward memorization, not exploration.
+* Promote conformity, not self-discovery.
+
+## 🛠️ Engineered for the Workforce — Not for Independence
+
+The school system was optimized to create factory workers, bureaucrats, and loyal employees. It taught students to raise their hands, wait for permission, follow instructions, and respect hierarchy — all traits desirable in a worker, not in a builder.
+
+Meanwhile, life-critical knowledge like:
+
+* Financial literacy
+* Emotional regulation
+* Negotiation
+* Building systems
+* Entrepreneurship
+
+...is left out of the curriculum entirely.
+
+Why? Because a population that knows how to build its own path does not serve the system — it threatens it.
+
+## 🔗 The Link to Corporate Feudalism
+
+In countries like Indonesia, the education system directly feeds into a corporate culture that is deeply feudal:
+
+* Bosses act like kings, not leaders.
+* Seniors demand loyalty, not collaboration.
+* Innovation is seen as rebellion.
+
+Many graduates with talent, energy, and vision are crushed under layers of outdated bureaucracy and toxic expectations. The reward? A paycheck and a title — but at the cost of your soul.
+
+## 🚫 For the Neurodivergent, It’s Even Worse
+
+If you're neurodivergent — like living with ADHD, autism, or other cognitive diversity — you're seen as a problem, not a potential. The rigid framework of school and work suffocates you. There is no room to breathe, let alone flourish.
+
+You are told to "just focus," when your focus is non-linear.
+You are told to "follow structure," when your brilliance thrives in chaos.
+
+## 🧭 The Astralis Way
+
+For those who reject stagnation, the Astralis path is a rebellion and a sanctuary:
+
+* Build your own systems.
+* Create projects with soul, not just profit.
+* Study outside the institution.
+* Work to grow, not to obey.
+
+## 🧠 Final Thought
+
+Formal education was never meant to set you free. It was meant to **prepare you to serve**.
+
+But you were born to create.
+You were born to rise.
+You were born to be more than a cog in someone else's machine.
+
+**Let Astralis light the unknown.**
