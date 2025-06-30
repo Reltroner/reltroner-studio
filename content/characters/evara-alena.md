@@ -9,7 +9,7 @@ image: "/images/evara-alena.webp"
 quote: "I saw him, but he didn’t say a word. Still... I knew he remembered me."
 ---
 
-Evara Alena is the daughter of Kamila Alena — the founder of Henchoeway and one of the principal figures behind the spread of Nytherion influence. Despite her lineage, Evara walks a different path, one forged through observation rather than declaration.
+Evara Alena is the daughter of Kamila Alena — the founder of Henchoway and one of the principal figures behind the spread of Nytherion influence. Despite her lineage, Evara walks a different path, one forged through observation rather than declaration.
 
 Still a student when first introduced, Evara attends the same class as **Little Rere** (Rei Reltroner in disguise). Though unaware of his true identity, she quickly develops a quiet curiosity toward him. Her instincts are sharp, her gaze lingering just a bit longer than most — as if her soul remembers a different time.
 
@@ -18,7 +18,7 @@ She is not yet entangled in the major ideological wars of Asthortera, but her po
 ## Hidden Nature
 Evara often draws mandalas unconsciously during class — patterns later identified as **Astralis glyphs**, despite never being taught about them. This suggests she may carry a latent resonance with Astralis logic — a terrifying prospect, given her mother's origins.
 
-Some whisper that **Kamila has deliberately kept Evara away from Henchoeway's true core**, hoping to spare her from the shadows. Others believe Kamila has left traces of her own fear and regret within Evara’s subconscious — a silent transfer of memory and restraint.
+Some whisper that **Kamila has deliberately kept Evara away from Henchoway's true core**, hoping to spare her from the shadows. Others believe Kamila has left traces of her own fear and regret within Evara’s subconscious — a silent transfer of memory and restraint.
 
 ## Visual Scene — “The Soda Can Moment”
 In one brief but poignant classroom moment, Little Rere drops his signature blue soda can — *Reltron Refresh*. The metallic sound echoes across the room. While others giggle, Evara doesn’t.

@@ -6,11 +6,13 @@ published: true
 image: "/images/legal-disclaimer.webp"
 ---
 
+---
+
 # ⚖️ Legal Disclaimer – Reltroner Studio
 
 Reltroner Studio is an original creation by **Raidan Malik Sandra**, developed as part of a self-branding and worldbuilding initiative, focused on digital philosophy, meritocracy, and personal growth through adversity.
 
-This website, including its terms, stories, systems, and world concepts — such as **Astralis Pinnacle**, **Nytherion Abyss**, **Energy Red Pill**, **Energy Blue Pill**, and the nations like **Reltronland** — are entirely products of original imagination and not derived from any specific franchise or universe.
+This website, including its terms, stories, systems, and world concepts — such as **Astralis Pinnacle**, **Nytherion Abyss**, **Red Pill Energy**, **Blue Pill Energy**, and the nations like **Reltronland** — are entirely products of original imagination and not derived from any specific franchise or universe.
 
 ---
 

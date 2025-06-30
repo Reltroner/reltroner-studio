@@ -42,7 +42,7 @@ const characters = [
   },
   {
       title: "Kamila Alena",
-      role: "Leader of Henchoeway",
+      role: "Throne of the Nytherion Abyss",
       description: "The silent origin of Nytherion's chaos, carrying pain turned into strategy.",
       slug: "kamila-alena",
       image: "/images/kamila-alena.webp",
