@@ -24,7 +24,7 @@ published: true
   * 7% Native Asthorteran species (Human-Wizard-Witch)
   * 5% Others
 * **Land Area:** 79 million km²
-* **Official Language:** Moreg
+* **Official Language:** Moreg National Language
 * **Capital City:** Mobileapolis – administrative and diplomatic center
 * **Automotive Capital:** Miletrodrift – development hub for cars, trucks, bikes, and robotic vehicles
 * **Racing Capital:** Meragefast – home to the largest race circuit and birthplace of speed culture

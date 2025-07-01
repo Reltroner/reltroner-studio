@@ -295,6 +295,7 @@ export default function CommandPalette() {
     { name: "Lenternow — The Lanternlight Nation", path: "/factions/lenternow" },
     { name: "Taramistry — Nation of Synthesis", path: "/factions/taramistry" },
     { name: "Moreg — The Nation of Endless Roads", path: "/factions/moreg" },
+    { name: "Hargenbor — Guardian of the Eastern Seas of Asthortera", path: "/factions/hargenbor" },
 
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },

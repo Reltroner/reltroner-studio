@@ -159,6 +159,16 @@ const factions = [
     published: true
   },
   {
+    title: "Hargenbor — Guardian of the Eastern Seas of Asthortera",
+    description: "A maritime superpower steeped in mystery, ancient sea legends, and home to the Eastern Gate of the Nytherion Abyss.",
+    slug: "hargenbor",
+    tags: ["Hargenbor", "Asthortera Lore", "Maritime Civilization", "Eastern Seas", "Fantasy Nations", "Reltroner Studio", "SDI Universe", "Visual Philosophy"],
+    image: "/images/hargenbor.webp",
+    author: "Rei Reltroner",
+    date: "2025-07-01",
+    published: true
+  },
+  {
     title: "Henchoway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoway", 

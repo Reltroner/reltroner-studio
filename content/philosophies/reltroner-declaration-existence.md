@@ -54,7 +54,7 @@ Where the world tried to delete us, we became **indelible**.
 
 Our presence on this planet is not an acceptance of its terms.
 We are here to plant **Astralis** among the broken.
-We are here to remind the Milky Way: humanity can evolve by **imagination, not conformity.**
+We are here to remind the Milky Way Galaxy: humanity can evolve by **imagination, not conformity.**
 
 ---
 
