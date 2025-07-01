@@ -293,6 +293,7 @@ export default function CommandPalette() {
     { name: "Aurastelia — The Realm of Resonant Light", path: "/factions/aurastelia" },
     { name: "Astrostelia — The Cosmic Civilization of Asthortera", path: "/factions/astrostelia" },
     { name: "Lenternow — The Lanternlight Nation", path: "/factions/lenternow" },
+    { name: "Taramistry — Nation of Synthesis", path: "/factions/taramistry" },
 
     //Laws
     { name: "Asthortera Labor Rights and Employment Organization (ALREO)", path: "/laws/alreo" },

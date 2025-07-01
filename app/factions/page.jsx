@@ -139,6 +139,16 @@ const factions = [
     published: true
   },
   {
+    title: "Taramistry — Nation of Synthesis",
+    description: "A futuristic chemispunk and pharmapunk nation powered by meritocratic science, Taramistry leads Asthortera in biochemical innovation, ethical research, and the synthesis of knowledge and technology.",
+    slug: "taramistry",
+    tags: ["Taramistry", "Asthortera Lore", "Chemispunk Civilization", "Pharmapunk Society", "Fantasy Nations", "Reltroner Studio", "SDI Universe", "Visual Philosophy"],
+    image: "/images/taramistry.webp",
+    author: "Rei Reltroner",
+    date: "2025-07-01",
+    published: true
+  },
+  {
     title: "Henchoway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoway", 
