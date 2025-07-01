@@ -27,6 +27,12 @@ Despite the passage of time, Cenrestier has maintained a cultural continuity tha
 - **Nickname:** Land of Fortresses  
 - **Area:** 102 million km²  
 - **Population:** 61 billion people  
+
+  * 73% Native Asthorteran species (Human-Wizard-Witch)
+  * 8%  Human (Cisthetan descent)
+  * 7%  Human (Depeisit descent) 
+  * 7%  Human (Cosmeilia Cosmic Races) 
+  * 5% Others
 - **SDI (Sentient Development Index):** 0.911
 - **Capital:** **Citadeladia** — A sprawling capital renowned for its majestic castles, ornate stone bridges, and pristine preservation of Germanic medieval architecture. Citadeladia is both a cultural and spiritual beacon, where tradition, order, and education define daily life.
 

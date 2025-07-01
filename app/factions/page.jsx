@@ -149,6 +149,16 @@ const factions = [
     published: true
   },
   {
+    title: "🚗 Moreg — The Nation of Endless Roads",
+    description: "A hyper-automotive civilization where every citizen customizes, races, and engineers vehicles across the most advanced road systems in Asthortera. From AI-driven cities to magnetic drift highways, Moreg is the asphalt heart of transport innovation.",
+    slug: "moreg",
+    tags: ["Moreg", "Asthortera Lore", "Automotive Civilization", "Hyper-Transport Society", "Fantasy Nations", "Reltroner Studio", "SDI Universe", "Visual Philosophy"],
+    image: "/images/moreg.webp",
+    author: "Rei Reltroner",
+    date: "2025-07-01",
+    published: true
+  },
+  {
     title: "Henchoway",
     description: "A secretive cult rooted in Nytherion Abyss, Henchoway spreads illusions of comfort while manipulating the world from the depths of Tremora Trench.",
     slug: "henchoway", 
