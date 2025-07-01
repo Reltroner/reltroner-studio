@@ -10,6 +10,8 @@ published: true
 
 ![pencilfania1](/images/pencilfania1.webp)
 ![pencilfania2](/images/pencilfania2.webp)
+![pencilfania3](/images/pencilfania3.webp)
+![pencilfania4](/images/pencilfania4.webp)
 
 ---
 

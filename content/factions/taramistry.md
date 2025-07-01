@@ -10,6 +10,7 @@ published: true
 ![taramistry1](/images/taramistry1.webp)
 ![taramistry2](/images/taramistry2.webp)
 ![taramistry3](/images/taramistry3.webp)
+![taramistry4](/images/taramistry4.webp)
 
 ---
 
