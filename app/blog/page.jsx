@@ -540,6 +540,15 @@ const posts = [
     date: "2025-06-28",
     published: true,
     image: "/images/illusion-of-forecasting.webp"
+  },
+  {
+    title: "Real Cost Hidden in ERP Systems: A Developer’s Hard Lesson",
+    description: "A firsthand story of how building an ERP system taught me the painful reality of hidden infrastructure costs—especially for solo developers. This post uncovers unexpected billing from cloud hosting, the contrast with free deployments, and how this experience became my competitive edge.",
+    slug: "real-cost-hidden-in-erp",
+    date: "2025-07-02",
+    author: "Rei Reltroner",
+    image: "/images/real-cost-hidden-in-erp.webp",
+    published: true
   }
   
 ];
