@@ -18,7 +18,7 @@ This is a **promise to my future self** — to build a life of meaning, freedom,
 ## 🧩 2025–2027: The Silent Struggle Phase
 
 - Build multiple full-stack projects (CRUD, REST APIs, authentication, blog systems)
-- Master backend with Node.js, Express.js, MongoDB
+- Master backend with laravel 12, SSO Auth Integration, MySQL
 - Explore frontend with Next.js and Markdown rendering
 - Begin earning from freelance or open remote clients
 - Learn to fail gracefully and debug not only errors, but myself
@@ -28,7 +28,6 @@ This is a **promise to my future self** — to build a life of meaning, freedom,
 
 ## 🚀 2028–2032: Expansion & Leveling Up
 
-- Master TypeScript, Prisma, PostgreSQL, Docker, Testing
 - Start mentoring or collaborating with early-stage teams
 - Build products that solve real problems, not just demo apps
 - Gain reputation as a reliable builder in the global community

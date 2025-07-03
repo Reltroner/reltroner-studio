@@ -63,7 +63,7 @@ To honor their silent presence, this log records the **earliest souls** who touc
 
 ---
 
-**3. 🧑‍🚀 Unknown from China**
+**3. 🀄 Unknown from China**
 🌍 *Accessed* `reltroner.com` *silently*
 📅 May 10–11, 2025
 

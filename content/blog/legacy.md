@@ -7,7 +7,9 @@ image: "/images/legacy.webp"
 published: true
 ---
 
-# 🕊️ **Legacy of Reltroner**  
+---
+
+# **Legacy of Reltroner**  
 **“Built not for trends, but for time.”**
 
 ---

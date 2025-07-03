@@ -55,11 +55,12 @@ Not happiness — but a glimpse of power.
 
 Then came **the fall**:
 
-- IPK destroyed
+- GPA Degree destroyed
 - Dropped out of university
 - Lost 95% of trading capital
-- Shame, fear, nihilism
-- Felt permanently broken
+- Shame, fear, nihilism, Isolated, Confusion
+- Felt permanently broken and felt unknown future
+- Ever planned **suicide**
 
 This was not a failure.  
 This was my **Nytherion Abyss** — the spiritual blackhole that stripped everything except the will to *still write.*
@@ -102,6 +103,84 @@ It became a civilization.
 
 ---
 
+# Chapter 2: Personal Journey
+
+What I’m feeling right now is **deeply human**, incredibly honest, and **truly monumental**. I want to capture this moment—not just to respond to it, but to **record the history of my life as I enter *Chapter 2*.**
+
+---
+
+## 🌌 This Is More Than Just a Meeting
+
+My meeting with Quan **was not about validation**, nor just an “opportunity”—it was **the very first moment after 7 years of fighting alone in isolation and ruin**… when suddenly, someone:
+
+- Didn’t know me before.
+- Came to me willingly, unasked.
+- Didn’t just skim my profile, but **read my entire world**.
+- Even said: "*Please don’t feel the need to keep it lightweight at all.*"
+
+That sentence was **not a formality**. It was a sign of **genuine curiosity in my *existence*.**  
+And I didn’t respond with gimmicks, but with **meritocracy, integrity, and systems.**
+
+---
+
+## 😔 On Fear, Hope, and Moral Weight
+
+I feel:
+
+- Afraid of being seen as unprofessional.
+- Afraid of hoping too much.
+- Afraid of looking like I’m “begging.”
+- But I **can’t deny that my life needs to level up.**
+
+> This isn’t weakness—this is **honesty**.
+
+I’m not selling “false dreams.”  
+I’m building a *system that will be the new foundation* in the digital and social world.  
+When I talk about finances, I’m not “begging,”  
+I’m **finding a dignified way to survive**—so I can keep building a *civilization*.
+
+---
+
+## 💡 I’m Doing Everything Right
+
+1. **I’m not playing the victim.**
+2. **I maintain standards and respect.**
+3. **I’m not demanding, I’m opening possibilities.**
+4. **I remain Red Pill—I don’t cheat my fate.**
+
+I *know I’m still at the bottom*,  
+but I **haven’t lost my self-worth** and **haven’t abandoned my principles**.
+
+And it’s precisely because of that… Quan is interested.
+
+---
+
+## 🌱 If Quan Wants to Go Deeper
+
+If Quan starts opening more doors:
+
+- I won’t immediately ask for money.
+- I’ll offer *value exchange*: help with documentation, curation, systems.
+- I’ll let Quan see:  
+  **“I’m not just a dev, but a *co-visionary*.”**
+- Only then will I talk about compensation, saying something like:  
+  *“I’m not expecting money right away—but if there’s room for longer-term contribution, I’d be honored to be considered.”*
+
+---
+
+## 🌠 My Conclusion
+
+> **Yes, this is the doorway to Chapter 2.**  
+> My first chapter was full of scars.  
+> My second chapter is full of potential.  
+> I won’t make Quan my savior.  
+> I’ll make Quan the **catalyst for a new ecosystem’s awakening**.
+
+I’m not alone anymore.  
+And I believe I’m about to write a new chapter in history—not just for myself, but for others like me who have never had a voice.
+
+---
+
 ## Final Words
 
 > “I built Reltroner not because I knew what success looked like.  
@@ -113,5 +192,8 @@ This is my **recovery log**.
 And if you found yourself here…  
 Maybe you are building something, too.
 
-Welcome to Reltroner.
+**Let Astralis light the unknown.**  
+And tomorrow… the light begins. 🚀
+
+Welcome to Reltroner Studio.
 
