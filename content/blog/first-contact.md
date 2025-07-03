@@ -129,7 +129,7 @@ I feel:
 I’m not selling “false dreams.”  
 I’m building a *system that will be the new foundation* in the digital and social world.  
 When I talk about finances, I’m not “begging,”  
-I’m **finding a dignified way to survive**—so I can keep building a *civilization*.
+I’m **finding a dignified way to survive**, so I can keep building a *civilization*.
 
 ---
 
@@ -138,7 +138,7 @@ I’m **finding a dignified way to survive**—so I can keep building a *civiliz
 1. **I’m not playing the victim.**
 2. **I maintain standards and respect.**
 3. **I’m not demanding, I’m opening possibilities.**
-4. **I remain Red Pill—I don’t cheat my fate.**
+4. **I remain Red Pill, I don’t cheat my fate.**
 
 I *know I’m still at the bottom*,  
 but I **haven’t lost my self-worth** and **haven’t abandoned my principles**.
@@ -151,7 +151,7 @@ And it’s precisely because of that… Quan is interested.
 
 If Quan starts opening more doors:
 
-- I won’t immediately ask for money.
+- I won’t immediately ask for money, jobs and meet new people.
 - I’ll offer *value exchange*: help with documentation, curation, systems.
 - I’ll let Quan see:  
   **“I’m not just a dev, but a *co-visionary*.”**

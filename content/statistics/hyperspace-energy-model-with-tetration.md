@@ -79,7 +79,7 @@ This dwarfs the energy of multiple suns but is *several orders* below a full sup
 ## 6. Interpretation
 
 * **Tetration** captures the *qualitative leap* from stellar‑scale engineering (Dyson spheres) to meta‑galactic spacetime manipulation.
-* Each increment in the tetration *height* $b$ reflects a new *civilizational tech‑plateau* (Type III → Type IV → …).
+* Each increment in the tetration *height* **b** reflects a new *civilizational tech‑plateau* (Type III → Type IV → …).
 
 ## 7. Limitations & Outlook
 
@@ -380,13 +380,13 @@ All schools teach that just as multiplication was once revolutionary, **tetratio
 
 To estimate energy and material needs for arcology-scale megastructures.
 
-> E.g., tower height demand: $E = 2 \, \uparrow\uparrow \, 7$
+> E.g., tower height demand: E = 2 ↑↑ 7
 
 ### 2. **Economic Expansion**
 
 To model GDP under runaway technological feedback (meta‑Moore growth).
 
-> Forecast curve: $GDP(t) = 10 \, \uparrow\uparrow \, (1 + \alpha t)$
+> Forecast curve: GDP(t) = 10 ↑↑ (1 + α t)
 
 ### 3. **Hyperspace Engineering**
 
@@ -398,7 +398,7 @@ RSC uses **Tetration-Based Warp Energy Estimation** to navigate supercluster pat
 
 To simulate societal progression across meta-cognitive plateaus.
 
-> Red Pill Index: $RPI = 3 \uparrow\uparrow \text{(level of awakening)}$
+> Red Pill Index: RPI = 3 ↑↑ (level of awakening)
 
 ---
 

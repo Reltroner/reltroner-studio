@@ -450,7 +450,7 @@ Most startups rely on generic tools that don’t adapt as their teams grow.
 ## 🚀 Product Highlights
 
 - 100% solo-built using Laravel 12 + Tailwind + MySQL
-- Free tier supports up to 20 rows of data
+- Free tier supports up to 10 rows of data
 - Premium unlocks larger storage + module customization
 - Integrates with SSO via `sso.reltroner.com` for secure access
 
@@ -459,13 +459,13 @@ Most startups rely on generic tools that don’t adapt as their teams grow.
 ## 🧩 Business Model
 
 ### 🟢 Free Tier
-- **Features:** Core modules, up to 20 data rows  
+- **Features:** Core modules, up to 10 data rows  
 - **Target Users:** Indie teams, MVPs
 
 ---
 
 ### 🟡 Pro Tier
-- **Features:** More than 20 data rows, priority support  
+- **Features:** More than 10 data rows, priority support  
 - **Target Users:** Growing startups
 
 ---
