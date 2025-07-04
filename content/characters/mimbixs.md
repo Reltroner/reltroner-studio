@@ -9,9 +9,15 @@ published: true
 image: "/images/mimbixs.webp"
 ---
 
----
+![mimbixs1](/images/mimbixs1.webp)
+![mimbixs2](/images/mimbixs2.webp)
+![mimbixs3](/images/mimbixs3.webp)
+![mimbixs4](/images/mimbixs4.webp)
+![mimbixs5](/images/mimbixs5.webp)
 
 # 🤖 Mimbixs — Official Mascot of Reltronland
+
+---
 
 Mimbixs is the official mascot and data analyst of Reltronland. With a CRT screen head and a pixelated smile, Mimbixs represents the harmony between professionalism and cute culture in the hyper-advanced meritocratic society of Reltronland.
 

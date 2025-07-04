@@ -213,3 +213,100 @@ You were born to rise.
 You were born to be more than a cog in someone else's machine.
 
 **Let Astralis light the unknown.**
+
+---
+
+# 💥 The Fracture Generation  
+## When 2018 Changed Everything
+
+In the long timeline of human civilization, 2018 may look like a quiet year. But for some of us, it was **the great rupture**—the first undeniable sign that the **generational equilibrium had shattered**.
+
+---
+
+## ⚠️ A Crisis Beyond Academics
+
+For me, 2018 wasn’t just a bad year.  
+It was the **beginning of an existential conflict** that no one around me could understand.
+
+- My grades crumbled.  
+- My identity eroded.  
+- My relationship with my parents spiraled downward.  
+- The value system they upheld—**hard work, linear success, obedience**—no longer aligned with the reality I saw.
+
+I realized I was living in **a new world** they had no map for.  
+A world **hypercharged with exponential change**, where AI, automation, media culture, and global fragmentation tore apart every sense of stability.
+
+---
+
+## 🧬 The Birth of the Fracture Generation
+
+We are **the first generation** to grow up in two universes at once:
+- **Ancestral Expectation** — "Be like your parents. Follow the proven path."
+- **Postmodern Chaos** — "Find your own way. But no one's coming to guide you."
+
+We were asked to *live like our parents*,  
+…in a world that behaves **nothing like theirs**.
+
+That contradiction broke something in us.  
+Not because we’re weak—  
+but because **we were the first to carry a burden no one trained us for.**
+
+---
+
+## 🌀 The Personal Abyss
+
+For me, 2018 was when I was silently **dragged into the Nytherion Abyss**—the dimension of shame, confusion, and false comfort.
+
+I tried to explain to my parents.  
+But **they spoke the language of certainty**,  
+while I had already stepped into **a world of paradoxes and exponential collapse**.
+
+They wanted me to fix my grades.  
+But I was trying to **fix my reality**.
+
+---
+
+## 🔥 The Turning Point
+
+From that year forward, I made a promise:
+
+> **“If no one else is going to build a bridge between generations, I will.”**
+
+And I did.
+
+- I began rebuilding from the ruins of failure.  
+- I rejected illusions of instant success.  
+- I pursued mastery, meritocracy, and mental strength.  
+- I created *Reltroner Studio*, not as a business, but as a **response to the rupture**.
+
+---
+
+## 🛡️ We Are the Fracture Generation
+
+We are not broken.  
+We are **the shock absorbers of history**.
+
+We are the ones who:
+- Understand both sides, yet belong to neither.
+- Speak the language of data, memes, and trauma—yet seek meaning.
+- Were forced to grow up **before the world was ready to grow with us**.
+
+And for that reason, we’re not just survivors.  
+We are **the foundation of the next civilization**.
+
+---
+
+## 🔺 From Abyss to Astralis
+
+2018 was the year I was fractured.  
+But it was also the year I began the journey toward **Astralis Pinnacle**.
+
+This story isn’t just mine—  
+It belongs to everyone who looked around and said:
+
+> "*This world doesn’t make sense anymore…*  
+> *So I’ll build one that does.*"
+
+Let Astralis light the unknown. 🌌
+
+---
