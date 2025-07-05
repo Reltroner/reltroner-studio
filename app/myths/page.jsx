@@ -126,6 +126,16 @@ const myths = [
     published: true,
     date: "2025-05-08",
     image: "/images/ritual-astralis-contact.webp"
+  },
+  {
+    title: "🕳️ The Nytherion Abyss Effect – The Idea Theft Phenomenon",
+    description: "A comprehensive exploration into the metaphysical and psychological force that steals unrecorded ideas—combining lore from Asthortera with real-world cognitive science to unveil how fleeting inspiration is devoured by the Abyss.",
+    slug: "ide-theft-phenomenon",
+    image: "/images/ide-theft-phenomenon.webp",
+    author: "Reltroner Studio",
+    date: "2025-07-05",
+    published: true,
+    tags: ["nytherion abyss", "brainrot", "creativity", "philosophy", "redpill"]
   }
 ];
 

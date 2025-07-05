@@ -219,7 +219,7 @@ const principles = [
     slug: "the-art-of-comment-engineering",
     image: "/images/the-art-of-comment-engineering.webp",
     tags: ["comment strategy", "red pill", "content infiltration", "linkedin", "ai ethics", "reflection"]
-  }
+  },
   
   // Tambahkan lebih banyak principle di masa depan...
 ];
