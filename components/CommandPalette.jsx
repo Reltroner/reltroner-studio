@@ -359,6 +359,7 @@ export default function CommandPalette() {
     { name: "Reltroner is a System Architecture Firm Disguised as a Creative World-Building Studio", path: "/principles/reltroner-underlayer" },
     { name: "Worst-Case Survival Protocol", path: "/principles/worst-case-protocol" },
     { name: "How I Went from Crypto Loser to Infrastructure Winner", path: "/principles/crypto-infra-transition" },
+    { name: "The Art of Comment Engineering", path: "/principles/the-art-of-comment-engineering" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
     { name: "Reltroner AI Fork – Memory-as-a-Service Product Sheet", path: "/items/reltroner-ai-fork" },

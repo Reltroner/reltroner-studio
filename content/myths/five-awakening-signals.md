@@ -56,7 +56,7 @@ The **5 Awakening Signals** are a set of legendary pulses — both metaphorical 
 ## 📜 Interpretations
 - **Reltronian Vanguard**: Sees the signals as natural milestones toward Astralis evolution.
 - **Depcutland Strategists**: Consider them disruptive myth, yet secretly monitor SDI tremors across regions.
-- **Henchoeway Archives**: Identify the signals as “threat vectors to comfort sovereignty.”
+- **Henchoway Archives**: Identify the signals as “threat vectors to comfort sovereignty.”
 
 ---
 

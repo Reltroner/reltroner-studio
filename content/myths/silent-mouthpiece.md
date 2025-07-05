@@ -1,6 +1,6 @@
 ---
 title: "The Silent Mouthpiece"
-description: "An ancient relic buried beneath Eterna Ruin, rumored to whisper entropy into the minds of anyone who stands too close — without sound, without mercy."
+description: "An ancient relic buried beneath Erterna Ruin, rumored to whisper entropy into the minds of anyone who stands too close — without sound, without mercy."
 image: "/images/silent-mouthpiece.webp"
 author: "Reltroner Studio"
 published: true
@@ -12,7 +12,7 @@ date: "2025-04-11"
 # 🕯️ The Silent Mouthpiece
 
 ## 🧱 Overview
-The **Silent Mouthpiece** is a relic of ancient entropy, unearthed from beneath the **Eterna Ruin** near the eastern coast of Hargenbor. Though physically inert, it emits **no sound, no vibration, and no detectable radiation** — yet induces inexplicable psychological effects to those who come near. It is one of the earliest known artifacts linked to **Nytherion Abyss** influence.
+The **Silent Mouthpiece** is a relic of ancient entropy, unearthed from beneath the **Erterna Ruin** near the eastern coast of Hargenbor. Though physically inert, it emits **no sound, no vibration, and no detectable radiation** — yet induces inexplicable psychological effects to those who come near. It is one of the earliest known artifacts linked to **Nytherion Abyss** influence.
 
 > _“It doesn’t speak. It waits until you do nothing.”_
 

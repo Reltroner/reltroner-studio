@@ -11,7 +11,7 @@ const principles = [
     description: "Explore the philosophy, mission, and future-facing projects of Reltroner Studio.",
     slug: "reltroner",
     image: "/images/reltroner-studio-banner.webp",
-    author: "Raidan",
+    author: "Reltroner Studio",
     date: "2025-03-22"
   },
   {
@@ -209,6 +209,16 @@ const principles = [
     published: true,
     tags: ["crypto", "altcoin", "builder", "web3", "reltroner studio", "reflection"],
     author: "Reltroner Studio"
+  },
+  {
+    title: "The Art of Comment Engineering",
+    description: "A conscious strategy for using comments as a vessel for Red Pill insight, differentiation, and professional infiltration.",
+    author: "Reltroner Studio",
+    date: "2025-07-05",
+    published: true,
+    slug: "the-art-of-comment-engineering",
+    image: "/images/the-art-of-comment-engineering.webp",
+    tags: ["comment strategy", "red pill", "content infiltration", "linkedin", "ai ethics", "reflection"]
   }
   
   // Tambahkan lebih banyak principle di masa depan...
