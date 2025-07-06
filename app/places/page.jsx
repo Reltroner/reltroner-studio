@@ -191,6 +191,15 @@ const places = [
     author: "Rei Reltroner",
     image: "/images/vanyathra-abyssborn-nation.webp",
     published: true
+  },
+  {
+    title: "Amberglow – The Living Archive",
+    description: "A secluded bioluminescent forest-settlement where memory is not merely lost, but rewritten by a sentient environment. In Amberglow, peace is purchased at the price of truth—forgotten names vanish from reality itself, and only the bravest dare to remember.",
+    slug: "amberglow",
+    date: "2025-07-06",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/amberglow.webp"
   }
 ];
 
