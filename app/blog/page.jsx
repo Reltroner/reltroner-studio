@@ -549,6 +549,16 @@ const posts = [
     author: "Rei Reltroner",
     image: "/images/real-cost-hidden-in-erp.webp",
     published: true
+  },
+  {
+    title: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid",
+    description: "A paranormal and spiritual experience during community service (KKN) in 2025.",
+    slug: "midnight-awakening-field-study",
+    author: "Rei Reltroner",
+    date: "2025-07-07",
+    published: true,
+    image: "/images/midnight-awakening-field-study.webp",
+    tags: ["paranormal", "consciousness", "field-journal", "astralis"]
   }
   
 ];

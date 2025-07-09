@@ -123,6 +123,7 @@ export default function CommandPalette() {
     { name: "What Happens When a Reltronland Quadrillionaire Lands on Earth?", path: "/blog/reltronland-wealth-vs-earth" },
     { name: "The Elite and the Illusion of Forecasting: A Red Pill Essay", path: "/blog/illusion-of-forecasting" },
     { name: "Real Cost Hidden in ERP Systems: A Developer’s Hard Lesson", path: "/blog/real-cost-hidden-in-erp" },
+    { name: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid", path: "/blog/midnight-awakening-field-study" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

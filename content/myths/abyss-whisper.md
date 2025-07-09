@@ -34,7 +34,7 @@ The **Abyss Whisper** is a mythos from ancient Asthortera, passed down through f
 ---
 
 ## 📜 Historical Mentions
-- **Cycle 13000 BAC:** A relic called the *Silent Mouthpiece* was discovered beneath the Eterna Ruin, emitting low-frequency thoughts causing mass dissociation.
+- **Cycle 13000 BAC:** A relic called the *Silent Mouthpiece* was discovered beneath the Erterna Ruin, emitting low-frequency thoughts causing mass dissociation.
 - **Kamila Alena** was rumored to have first encountered the Whisper as a child — hearing it in the depths of Hargenbor’s old bay.
 - During the **Great Collapse of Beluftner**, records describe entire councils who stopped responding — as if mesmerized by a non-verbal signal.
 
