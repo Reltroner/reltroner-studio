@@ -326,6 +326,7 @@ export default function CommandPalette() {
     { name: "✈️ The Aviashenwelt Accord — SDI-Based Visa-Free Framework", path: "/laws/aviashenwelt-accord"},
     { name: "🚫 Abolishment Decree: Feudalism & Inferiority Mentality", path: "/laws/abolish-feudalism-inferiority"},
     { name: "🏛️ Reltronland Administrative Naming Rules", path: "/laws/reltronland-administrative-naming-rules"},
+    { name: "Astralis Doctrine – No Donation Policy", path: "/laws/astralis-doctrine-no-donation"},
 
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

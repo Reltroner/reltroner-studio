@@ -228,6 +228,16 @@ const laws = [
     date: "2025-06-25",
     author: "Rei Reltroner",
     published: true
+  },
+  {
+    title: "Astralis Doctrine – No Donation Policy",
+    description: "An official declaration of the strict no-donation spiritual principle within the Astralis Pinnacle Temple of Reltronland.",
+    slug: "astralis-doctrine-no-donation",
+    author: "Reltroner Studio",
+    date: "2025-07-09",
+    published: true,
+    image: "/images/temple-policy-redpill-extreme.webp",
+    tags: ["astralis", "doctrine", "redpill", "donation", "policy"]
   }
   
   // Tambahkan lebih banyak Law di masa depan...
