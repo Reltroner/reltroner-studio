@@ -450,6 +450,7 @@ Reltronland has maintained a **consistent 12% annual GDP growth** for 250 years 
 ### 1. **Full-spectrum Productive Population (Age 3–112)**
 
 * Life expectancy: 112 years
+* Median Age: 44 years
 * Productivity starts as early as age 3
 * No non-productive aging crisis
 

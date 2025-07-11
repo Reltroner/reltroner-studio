@@ -191,6 +191,16 @@ const events = [
     image: "/images/reflections-in-drawcia.webp",
     published: true
   },
+  {
+    title: "🌍 World Population Day 2025: Reltronland Edition",
+    description: "A historic celebration held in Reltralia, the capital of Reltronland, commemorating World Population Day 2025 with a futuristic vision of population, productivity, and red pill consciousness.",
+    slug: "world-population-day-reltronland",
+    author: "Rei Reltroner",
+    date: "2025-07-11",
+    image: "/images/world-population-day-reltronland.webp",
+    tags: ["Reltronland", "Civilization Framework", "Red Pill Doctrine", "SDI", "Alternative Governance"],
+    published: true
+  }
   // Tambahkan lebih banyak event di masa depan...
 ];
 
