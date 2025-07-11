@@ -240,6 +240,7 @@ export default function CommandPalette() {
     { name: "Reltronepolis", path: "/places/reltronepolis" },
     { name: "Aviashenwelt — Capital of Pasgerflit", path: "/places/aviashenwelt" },
     { name: "Amberglow – The Living Archive", path: "/places/amberglow" },
+    { name: "🔺 Astralis Temple — The Temple of Red Pill Consciousness", path: "/places/astralis-temple" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },

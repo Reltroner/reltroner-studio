@@ -8,7 +8,9 @@ date: "2025-04-24"
 published: true
 ---
 
-## ✈️ PAIA — Pasgerflit Aeropolis International Airport Hub
+---
+
+# ✈️ PAIA — Pasgerflit Aeropolis International Airport Hub
 
 > _“To board at PAIA is to surrender the present and step into galactic purpose.”_  
 > — Aviashenwelt Transit Philosophy Charter

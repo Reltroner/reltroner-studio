@@ -200,6 +200,16 @@ const places = [
     author: "Rei Reltroner",
     published: true,
     image: "/images/amberglow.webp"
+  },
+  {
+    title: "🔺 Astralis Temple — The Temple of Red Pill Consciousness",
+    description: "The sacred epicenter of Reltronland’s Red Pill doctrine—where ego is dismantled, clarity is law, and every ritual strips illusion to awaken sentient discipline. A temple not of worship, but of awareness.",
+    slug: "astralis-temple",
+    image: "/images/astralis-temple.webp",
+    date: "2025-07-11",
+    author: "Rei Reltroner",
+    published: true,
+    tags: ["temple", "spirituality", "red pill", "consciousness"]
   }
 ];
 
