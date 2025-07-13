@@ -14,6 +14,7 @@ image: "/images/mimbixs.webp"
 ![mimbixs3](/images/mimbixs3.webp)
 ![mimbixs4](/images/mimbixs4.webp)
 ![mimbixs5](/images/mimbixs5.webp)
+![mimbixs6](/images/mimbixs6.webp)
 
 # 🤖 Mimbixs — Official Mascot of Reltronland
 
