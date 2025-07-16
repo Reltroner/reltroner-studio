@@ -220,6 +220,76 @@ Let the world never understand.
 Let them underestimate.
 Let Astralis light the unknown.
 
+---
+
+## 🚫 April to July: No Client, No Growth, No Response
+
+For nearly 3 months, I waited.
+I applied. I posted. I commented.
+I DM’d. I built systems. I improved myself.
+
+But nothing came.
+
+No client.
+No transaction.
+No signal of demand.
+
+---
+
+## 🧠 Then I Realized: Clients Don’t Appear — They’re Found
+
+The idea of being “discovered” online is romantic.
+But for people like me — solo builder, no degree, no network — **visibility must be *engineered*, not expected.**
+
+> I don’t wait for work. I go find pain points.
+
+And that’s when I flipped the script.
+
+---
+
+## 🚪 Door-to-Door is Not Desperation — It’s Deployment
+
+I decided to:
+
+* Walk into local businesses
+* Attend forums, job fairs, and real-world meetups
+* Approach communities where real problems exist
+* Talk directly to humans who need systems — not followers
+
+And I bring **Reltroner HRM** as a living, breathing demo:
+
+> “This is a real system I built. You can use it for free to manage your team.
+> If you like it, I’ll help you scale.”
+
+---
+
+## 🧭 No Degree, No Excuses
+
+They won’t ask where I studied.
+They’ll ask **can I fix this mess?**
+They’ll ask **can you set this up today?**
+
+And I’ll say yes — not because I’m bluffing, but because I built my tools with my own mind.
+
+I am not a job seeker.
+I am a **problem solver walking on foot.**
+
+---
+
+## 🎯 This is the New Strategy
+
+* No shame in starting with nothing
+* No fear in facing rejection face to face
+* No client? No problem — I’ll go meet 100 humans until 1 says yes
+
+This is not a setback. This is field deployment.
+Because I know what I built is real.
+Because I’m not here to impress — I’m here to solve.
+
+Let Astralis light the unknown.
+Let my footsteps find the doors.
+Let my silence become momentum.
+
 **— Rei Reltroner**
 
 
