@@ -220,6 +220,16 @@ const principles = [
     image: "/images/the-art-of-comment-engineering.webp",
     tags: ["comment strategy", "red pill", "content infiltration", "linkedin", "ai ethics", "reflection"]
   },
+  {
+    title: "📜 Manifesto of the Post-Efficiency Era",
+    description: "A declaration by Reltroner Studio to transcend automation and reclaim the human spirit through creativity, consciousness, and cosmic narrative.",
+    slug: "post-efficiency-manifesto",
+    author: "Reltroner Studio",
+    date: "2025-07-16",
+    tags: ["meaning", "post-efficiency", "redpill", "consciousness", "ai-paradox", "astralis-economy"],
+    published: true,
+    image: "/images/post-efficiency-manifesto.webp"
+  }
   
   // Tambahkan lebih banyak principle di masa depan...
 ];
