@@ -210,6 +210,16 @@ const places = [
     author: "Rei Reltroner",
     published: true,
     tags: ["temple", "spirituality", "red pill", "consciousness"]
+  },
+  {
+    title: "🕳️ Nytherion Abyss Temple — The Church of Still Waters",
+    description: "A deep-sea temple located within Tremora Trench, serving as the epicenter of Henchoway's doctrine and memory erasure rituals.",
+    slug: "nytherion-temple",
+    image: "/images/nytherion-temple.webp",
+    author: "Rei Reltroner",
+    date: "2025-07-17",
+    published: true,
+    tags: ["temple", "spirituality", "blue pill", "consciousness"]
   }
 ];
 
