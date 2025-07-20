@@ -551,7 +551,7 @@ const posts = [
     published: true
   },
   {
-    title: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid",
+    title: "🕯️ First Encounter: Midnight Awakening in the KKN Mosque",
     description: "A paranormal and spiritual experience during community service (KKN) in 2025.",
     slug: "midnight-awakening-field-study",
     author: "Rei Reltroner",

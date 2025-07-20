@@ -1,5 +1,5 @@
 ---
-title: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid"
+title: "🕯️ First Encounter: Midnight Awakening in the KKN Mosque"
 description: "A paranormal and spiritual experience during community service (KKN) in 2025."
 slug: "midnight-awakening-field-study"
 author: "Rei Reltroner"
@@ -11,23 +11,23 @@ tags: [paranormal, consciousness, field-journal, astralis]
 
 ---
 
-# 🕯️ First Encounter: Midnight Awakening in the KKN Masjid
+# 🕯️ First Encounter: Midnight Awakening in the KKN Mosque
 
 **Date:** July 7, 2025  
 **Time:** 1:47 AM  
-**Location:** Village Masjid during KKN (Community Service Program), Indonesia
+**Location:** Village Mosque during KKN (Community Service Program), Indonesia
 
 ---
 
 ## 🌌 What Happened?
 
-In the stillness of the night—inside a cramped masjid filled with friends sleeping side-by-side—I experienced something for the very first time in my life.
+In the stillness of the night—inside a cramped Mosque filled with friends sleeping side-by-side—I experienced something for the very first time in my life.
 
 I woke up to the **sound of a door creaking open by itself**.  
 There was **a distinct dripping of water** nearby—**even though it wasn't raining**, and there were no signs of leaks.  
 Then suddenly, I noticed that **my left hand began to tremble uncontrollably**. For a short while, I **couldn't move it**.
 
-Out of instinct and urgency, I quickly sat up and **left the masjid** without trying to "check what was going on". I didn’t want to see it.  
+Out of instinct and urgency, I quickly sat up and **left the Mosque** without trying to "check what was going on". I didn’t want to see it.  
 My mind was clear: **“Protect yourself first. Don’t look back.”**
 
 ---
@@ -51,7 +51,7 @@ The combination of:
 
 Unlike at home, **this kind of event never happens to me**.  
 Only here. Only now.  
-And the moment I left the masjid, the trembling stopped. My hand recovered its movement. My mind regained clarity.
+And the moment I left the Mosque, the trembling stopped. My hand recovered its movement. My mind regained clarity.
 
 I believe this experience was **not a dream**, not a nightmare, but a real **first encounter**—with something I was **never meant to see**, but absolutely needed to *learn from*.
 
