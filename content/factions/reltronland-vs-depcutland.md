@@ -26,7 +26,7 @@ In the vast world of Asthortera, two civilizations rise not as enemies, but as *
 - **Government Type:** Cyber-Meritocratic Republic
 - **Capital:** Reltralia
 - **Culture Focus:** Productivity, minimalism, jazz, white-collar lifestyle
-- **Key Symbol:** Skyscrapers, Castella cake, rolled sleeves
+- **Key Symbol:** Skyscrapers, Castella cake, white-collar uniforms
 - **Notable Figure:** Rei Reltroner
 
 ### 🧠 Ideological Identity

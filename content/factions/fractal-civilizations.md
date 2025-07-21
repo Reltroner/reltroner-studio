@@ -24,12 +24,12 @@ The world of Asthortera is shaped by four dominant civilizational factions. Each
 - **Capital:** Reltralia  
 - **Philosophy:** Red Pill Realism, Self-discipline, Sentient Development  
 - **Key Symbols:** Skyscrapers, white-collar uniforms, national Castella cake  
-- **Population:** 272 billion  
+- **Population:** 855 billion  
 - **SDI (Sentient Development Index):** 0.984 / 1  
 - **Notable Figure:** Rei Reltroner  
 
 ### Strategic Traits
-- **Alignment:** Protagonist / Astralis Pinnacle
+- **Alignment:** Astralis Pinnacle
 - **Ideology:** Discipline, productivity, radical self-honesty
 - **Cultural Power:** White-collar fashion, jazz, modernism, education equality
 - **Philosophical Role:** The world you create when you take full control of your destiny
