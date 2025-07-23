@@ -43,7 +43,7 @@ symbolizes elite governance, sentient awakening, and the disciplined pursuit of 
 ---
 
 ## 📜 Key Doctrines
-- **The Astralis Code** – Internal document outlining the 7 virtues of disciplined living.
+- **The Astralis Code** – Internal document outlining the disciplined living.
 - **Reltronian Talent Doctrine** – Prioritizes skill, efficiency, and value generation in every citizen.
 - **Zero Tolerance Against Stagnation** – Laziness, deceit, and illusionism are treated as existential threats.
 
