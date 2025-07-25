@@ -98,6 +98,7 @@ const characters = [
       description: "A timeless ruler harmonizing spiritual clarity and moral power.",
       slug: "queen-valethra",
       image: "/images/queen-valethra.webp",
+      quote: "Aurora light does not choose light or darkness — it merely reflects the state of our hearts.",
       published: true
   },
   {
