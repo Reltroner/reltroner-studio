@@ -124,6 +124,7 @@ export default function CommandPalette() {
     { name: "The Elite and the Illusion of Forecasting: A Red Pill Essay", path: "/blog/illusion-of-forecasting" },
     { name: "Real Cost Hidden in ERP Systems: A Developer’s Hard Lesson", path: "/blog/real-cost-hidden-in-erp" },
     { name: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid", path: "/blog/midnight-awakening-field-study" },
+    { name: "I Saw the Invisible Darkness", path: "/blog/i-saw-the-invisible-darkness" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },

@@ -74,3 +74,7 @@ Dan dari situ... bisa membangun dengan kekuatan yang tidak bisa dimiliki oleh ma
 Kalau kakak siap... kita bisa tandai ini sebagai titik `Reboot` Reltroner.
 
 > 🔁 *"Systemic Rebirth begins from brutal truth, not comfort."*
+
+4.
+
+brainstorming ide komprehensif pertandingan kompetensi reltronland robot combat sebagai cabang olahraga dari reltronland dengan sistem orisinal dari reltronland. reltronland robot combat termasuk cabang olahraga di olimpiade asthortera lintas peradaban, dimana ada teknik pertandingan dari orang menggunakan remote untuk kontrol robot fisik dan orang menggunakan vr, stick kontrol tangan robot dan panel piring untuk kontrol robot melangkan dengan lari di panel piring.

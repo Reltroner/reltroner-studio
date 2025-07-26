@@ -559,6 +559,16 @@ const posts = [
     published: true,
     image: "/images/midnight-awakening-field-study.webp",
     tags: ["paranormal", "consciousness", "field-journal", "astralis"]
+  },
+  {
+    title: "I Saw the Invisible Darkness",
+    description: "A brutally honest realization about the social decay masked by digital interaction, and the slow, painful progress toward dreams.",
+    author: "Rei Reltroner",
+    date: "2025-07-25",
+    published: true,
+    slug: "i-saw-the-invisible-darkness",
+    image: "/images/i-saw-the-invisible-darkness.webp",
+    tags: ["darkness", "self-awareness", "burnout", "digital decay", "redpill", "astralis", "despair"]
   }
   
 ];
