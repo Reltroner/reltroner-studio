@@ -169,6 +169,7 @@ export default function CommandPalette() {
     { name: "Artesian Pictolatin — The Official Language of Pencilfania", path: "/cultures/artesian-pictolatin-language" },
     { name: "Stelpadien — The Language of Scouts and Seasons", path: "/cultures/stelpadien-language" },
     { name: "Pasgerian — The Language of Aviation and Alignment", path: "/cultures/pasgerian-language" },
+    { name: "Reltronland Robot Combat: Inter-Civilization Olympics Edition", path: "/cultures/reltronland-robot-combat" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },

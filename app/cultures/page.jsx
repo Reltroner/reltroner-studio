@@ -139,6 +139,24 @@ const cultures = [
     published: true
   },
   {
+    title: "Reltronland Robot Combat: Inter-Civilization Olympics Edition",
+    description: "An original competitive sport from Reltronland where robots battle across physical and virtual control systems — featured in the Asthortera-wide Olympics.",
+    slug: "reltronland-robot-combat",
+    image: "/images/reltronland-robot-combat.webp",
+    author: "Rei Reltroner",
+    date: "2025-07-27",
+    published: true
+  },
+  {
+    title: "📜 Reltronland Meeting Manifesto",
+    description: "Discover how Reltronland redefines meetings with a culture of pure efficiency, no excessive formalities, and true meritocracy — a new global standard for collaboration.",
+    slug: "meeting-reltronland",
+    author: "Reltroner Studio",
+    date: "2025-04-16",
+    published: true,
+    image: "/images/meeting-reltronland.webp"
+  },
+  {
     title: "Top 5 Clichés Destroyed by the Gender Friendship Manifesto",
     description: "A deconstruction of outdated tropes by Asthortera’s mature philosophy of sentient connection.",
     slug: "anti-klise-gender-friendship",
@@ -154,15 +172,6 @@ const cultures = [
     date: "2025-04-16",
     published: true,
     image: "/images/gender-friendship-manifesto.webp"
-  },
-  {
-    title: "📜 Reltronland Meeting Manifesto",
-    description: "Discover how Reltronland redefines meetings with a culture of pure efficiency, no excessive formalities, and true meritocracy — a new global standard for collaboration.",
-    slug: "meeting-reltronland",
-    author: "Reltroner Studio",
-    date: "2025-04-16",
-    published: true,
-    image: "/images/meeting-reltronland.webp"
   },
   {
       title: "Sacred Rest Policy",

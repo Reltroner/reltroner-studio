@@ -7,6 +7,8 @@ date: "2025-04-13"
 published: true
 ---
 
+---
+
 # 🎻 Music Culture of Depcutland
 ### Compiled by Reltroner Studio | Astralis Pinnacle Certified | Version 1.0
 
