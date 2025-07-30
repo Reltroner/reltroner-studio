@@ -148,6 +148,16 @@ const cultures = [
     published: true
   },
   {
+    title: "Aurora Synthesia — The Sacred Dance of Sci-Fantasy Integration",
+    description: "Traditional ceremonial dance of Aurastelia that celebrates the harmony between futuristic technology and ancient spirituality.",
+    slug: "aurora-synthesia-ritual-dance",
+    image: "/images/aurora-synthesia-ritual-dance.webp",
+    author: "Reltroner Studio",
+    date: "2025-07-27",
+    published: true,
+    tags: ["aurastelia", "culture", "aurora", "dance", "sci-fi", "fantasy", "worldbuilding"]
+  },
+  {
     title: "📜 Reltronland Meeting Manifesto",
     description: "Discover how Reltronland redefines meetings with a culture of pure efficiency, no excessive formalities, and true meritocracy — a new global standard for collaboration.",
     slug: "meeting-reltronland",

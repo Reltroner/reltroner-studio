@@ -170,6 +170,7 @@ export default function CommandPalette() {
     { name: "Stelpadien — The Language of Scouts and Seasons", path: "/cultures/stelpadien-language" },
     { name: "Pasgerian — The Language of Aviation and Alignment", path: "/cultures/pasgerian-language" },
     { name: "Reltronland Robot Combat: Inter-Civilization Olympics Edition", path: "/cultures/reltronland-robot-combat" },
+    { name: "Aurora Synthesia — The Sacred Dance of Sci-Fantasy Integration", path: "/cultures/aurora-synthesia-ritual-dance" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },
