@@ -76,7 +76,7 @@ Reltronland Robot Combat is not merely a mechanical showdown but a battle of awa
 ---
 
 ### 💎 **Orb Recovery**
-- **Description:** Retrieve the “Aurora Core”  
+- **Description:** Retrieve the “CPU Core”  
 - **Victory Condition:** Secure core at base while avoiding enemy intercept
 
 > 🛠️ Each mode combines reflex, tactical thinking, and synchronization with the pilot’s neural-link system.
