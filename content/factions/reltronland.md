@@ -149,7 +149,7 @@ The architecture, mobility systems, and visual geometry are unmistakably Red Pil
 
 * **Sharp verticality** of skyscrapers: always reaching upward.
 * **Hyperloop and airgrids**: rejecting traffic, embracing clarity of motion.
-* **Clean skies, few distractions**: the moonless sky reinforces self-reliance.
+* **Clean skies, few distractions**: the sky reinforces self-reliance.
 * **White-collar uniforms, castella, and silence zones**: symbols of functional elegance.
 
 > “A Red Pill city does not comfort you. It disciplines you to awaken.”

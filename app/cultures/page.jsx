@@ -158,6 +158,16 @@ const cultures = [
     tags: ["aurastelia", "culture", "aurora", "dance", "sci-fi", "fantasy", "worldbuilding"]
   },
   {
+    title: "Reltronland Mealtime Etiquette",
+    description: "Cultural protocol in Reltronland that respects cognitive recovery and health during meals, forbidding unnecessary verbal disruptions unless urgent.",
+    slug: "reltronland-mealtime-etiquette",
+    image: "/images/reltronland-mealtime-etiquette.webp",
+    author: "Reltroner Studio",
+    date: "2025-07-31",
+    published: true,
+    tags: ["reltronland", "etiquette", "mealtime", "ethics", "sentient-health", "astralis-pinnacle"]
+  },
+  {
     title: "📜 Reltronland Meeting Manifesto",
     description: "Discover how Reltronland redefines meetings with a culture of pure efficiency, no excessive formalities, and true meritocracy — a new global standard for collaboration.",
     slug: "meeting-reltronland",

@@ -67,10 +67,10 @@ Asthortera appears as a massive, vibrant world with more diversified biomes, gre
 - **Elderly Population (65+):** ~20.4% of total
 - **Urbanization Rate:** ~89.5%
 - **Population Composition:**
-  - 61% Human (Caucasian lineages)
-  - 24% Human (East Asian Mongoloid)
+  - 61% Human (Depeisit descendant)
+  - 24% Human (Cistheta descendant)
   - 7% Human-Wizard-Witch (native Asthorteran race)
-  - 5% Cosmeilia-Human Mixed
+  - 5% Cosmeilia-Human Mixed & Others Cosmeilian Sentients
   - 3% Others (alien humanoids, hybrids)
 - **Life Expectancy:** ~105 years
 - **Summary:** A mature, stable society with high life expectancy and ongoing intellectual productivity, driven by merit, innovation, and spiritual balance.

@@ -22,7 +22,7 @@ Cosmeilia is a planet unlike any other—rooted in cosmic elegance and spiritual
 
 ### 🧬 Population Composition
 - 70% Cosmeilia-Human Mixed  
-- 20% Native Cosmeilian Sentients  
+- 20% Others Cosmeilian Sentients  
 - 4% Immigrants from Asthortera  
 - 3% Immigrants from Depeisit  
 - 2% Immigrants from Cistheta  
