@@ -329,3 +329,110 @@ Because our aim is not to merely advance.
 Let the Light of Aurora guide your inner and outer worlds.
 
 ---
+
+# Aurora Sancta — Doctrine of Action-Centered Spirituality
+
+A philosophical and spiritual framework of Aurastelia where true worship is defined through contribution, not ritual formalism.
+
+---
+
+## 🔆 Core Tenet: Action as Worship
+
+In Aurora Sancta, spirituality is not measured by prayer or ritual, but by **real-world action** and contribution to universal harmony.
+
+> "To heal, build, nurture, guide — *that* is how we worship Aurora."
+
+---
+
+## 🛐 Ritual as Reflection, Not Centerpiece
+
+* Rituals are **end-of-day reflections**, not the core of the faith.
+* Without prior action, **ritual is void of energy and unrecognized by the aurora**.
+* Every sacred act is preceded by **intent**, performed through **effort**, and closed by **quiet reflection**.
+
+### Example Rituals
+
+* Journaling one beneficial action done that day
+* Silent aurora-gazing while holding one’s Lumina Core
+* Reviewing personal energy output via *Lumina Index*
+
+---
+
+## 🌌 Comparison: Earth Religions vs Aurora Sancta
+
+A philosophical comparison between traditional Earth-based religions and the spiritual framework of **Aurora Sancta** (Reltroner Studio / Aurastelia).
+
+---
+
+### 🏛️ Center of Worship
+- **Earth Religions:** Ritual spaces (e.g., churches, temples)  
+- **Aurora Sancta:** **Centers of contribution** — like schools, clinics, and research hubs where spiritual action takes place
+
+---
+
+### 🧍‍♂️ Real-World Action
+- **Earth Religions:** Supplemental to spiritual identity  
+- **Aurora Sancta:** **Primary spiritual substance** — action *is* the worship
+
+---
+
+### 📜 Ritual Formalism
+- **Earth Religions:** Central and often mandatory  
+- **Aurora Sancta:** **Evaluative and optional** — ritual exists to reflect on action, not replace it
+
+---
+
+### ✨ Spiritual Reward
+- **Earth Religions:** Tied to afterlife (e.g., heaven, karma)  
+- **Aurora Sancta:** **Present harmony and aurora resonance** — reward is experienced in awareness and clarity
+
+---
+
+### ⏳ Worship Timing
+- **Earth Religions:** Prescribed times (weekly, seasonal, etc.)  
+- **Aurora Sancta:** **Free-form**, based on energy cycles and individual mental states
+
+---
+
+> *"In Aurora Sancta, worship is not performance — it is calibration."*  
+> — Doctrine of Queen Valethra, Section II
+
+---
+
+## 🌱 Recognized Sacred Actions
+
+* Teaching with patience and empathy
+* Healing others through care or invention
+* Maintaining communal spaces with devotion
+* Designing ethical technology for common benefit
+* Refraining from verbal harm when angered
+* Offering anonymous assistance
+
+> “Your sacredness is written not in verses, but in your footprints.”
+
+---
+
+## 💠 Aurora as Moral Reflection
+
+* The aurora in the skies of Aurastelia is a **living barometer of collective action**.
+* Positive, selfless, harmonious actions cause the aurora to **stabilize and glow vividly**.
+* Widespread laziness, egoism, or destruction results in auroral **distortion, flickering, or fading**.
+
+---
+
+## 🕊️ Core Doctrinal Aphorisms
+
+1. *Action first, reflection later.*
+2. *Do not seek reward — let the aurora reflect you.*
+3. *Ritual is empty without resonance.*
+4. *Your hands are holier than your voice.*
+5. *Silence after contribution is greater than preaching before action.*
+
+---
+
+## 🌟 Final Thought
+
+Aurora Sancta is a **religion of becoming**. It is not about compliance, but **transcendence through impact**. The world is your sacred temple. The people are your sacred text. The aurora is your divine mirror.
+
+> "Live a life the aurora can sing about."
+
