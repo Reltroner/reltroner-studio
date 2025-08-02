@@ -172,6 +172,7 @@ export default function CommandPalette() {
     { name: "Reltronland Robot Combat: Inter-Civilization Olympics Edition", path: "/cultures/reltronland-robot-combat" },
     { name: "Aurora Synthesia — The Sacred Dance of Sci-Fantasy Integration", path: "/cultures/aurora-synthesia-ritual-dance" },
     { name: "Reltronland Mealtime Etiquette", path: "/cultures/reltronland-mealtime-etiquette" },
+    { name: "Castela Jiggly Cake — Culinary Symbol of Reltronland", path: "/cultures/castela-jiggly-cake-reltronland" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },

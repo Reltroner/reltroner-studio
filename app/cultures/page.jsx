@@ -168,6 +168,16 @@ const cultures = [
     tags: ["reltronland", "etiquette", "mealtime", "ethics", "sentient-health", "astralis-pinnacle"]
   },
   {
+    title: "Castela Jiggly Cake — Culinary Symbol of Reltronland",
+    description: "Fusion cake filled with mozzarella, carbonara, and melting cheese — the iconic functional food for Reltronland’s white-collar society.",
+    slug: "castela-jiggly-cake-reltronland",
+    author: "Reltroner Studio",
+    date: "2025-08-02",
+    published: true,
+    tags: ["reltronland", "castela", "culinary", "culture", "food-identity", "white-collar"],
+    image: "/images/castela-jiggly-cake-reltronland.webp"
+  },
+  {
     title: "📜 Reltronland Meeting Manifesto",
     description: "Discover how Reltronland redefines meetings with a culture of pure efficiency, no excessive formalities, and true meritocracy — a new global standard for collaboration.",
     slug: "meeting-reltronland",
