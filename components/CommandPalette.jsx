@@ -173,6 +173,7 @@ export default function CommandPalette() {
     { name: "Aurora Synthesia — The Sacred Dance of Sci-Fantasy Integration", path: "/cultures/aurora-synthesia-ritual-dance" },
     { name: "Reltronland Mealtime Etiquette", path: "/cultures/reltronland-mealtime-etiquette" },
     { name: "Castela Jiggly Cake — Culinary Symbol of Reltronland", path: "/cultures/castela-jiggly-cake-reltronland" },
+    { name: "Vierkernplatte — National Culinary Symbol of Depcutland", path: "/cultures/vierkernplatte" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },

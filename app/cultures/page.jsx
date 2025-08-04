@@ -178,6 +178,16 @@ const cultures = [
     image: "/images/castela-jiggly-cake-reltronland.webp"
   },
   {
+    title: "Vierkernplatte — National Culinary Symbol of Depcutland",
+    description: "A four-element gourmet plate combining bratwurst, schnitzel, sauerbraten, and kartoffelpuffer, representing the disciplined, archival, and noble soul of Depcutland.",
+    slug: "vierkernplatte",
+    author: "Reltroner Studio",
+    date: "2025-08-03",
+    published: true,
+    tags: ["depcutland", "cuisine", "food-culture", "vierkernplatte", "worldbuilding", "culinary-symbol"],
+    image: "/images/vierkernplatte.webp"
+  },
+  {
     title: "📜 Reltronland Meeting Manifesto",
     description: "Discover how Reltronland redefines meetings with a culture of pure efficiency, no excessive formalities, and true meritocracy — a new global standard for collaboration.",
     slug: "meeting-reltronland",
