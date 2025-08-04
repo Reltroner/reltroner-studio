@@ -238,6 +238,16 @@ const laws = [
     published: true,
     image: "/images/temple-policy-redpill-extreme.webp",
     tags: ["astralis", "doctrine", "redpill", "donation", "policy"]
+  },
+  {
+    title: "🛡️ RAID-1: Anti-Idleness Division of Reltronland",
+    description: "An elite task force in Reltronland dedicated to eradicating existential stagnation, ensuring all sentients contribute meaningfully to civilization.",
+    slug: "raid1-reltronland",
+    author: "Rei Reltroner",
+    date: "2025-08-04",
+    published: true,
+    image: "/images/raid1-reltronland.webp",
+    tags: ["Reltronland", "Red Pill Doctrine", "Anti-Idleness", "Meritocracy", "Productivity Enforcement"]
   }
   
   // Tambahkan lebih banyak Law di masa depan...

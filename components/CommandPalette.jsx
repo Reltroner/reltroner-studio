@@ -337,6 +337,7 @@ export default function CommandPalette() {
     { name: "🚫 Abolishment Decree: Feudalism & Inferiority Mentality", path: "/laws/abolish-feudalism-inferiority"},
     { name: "🏛️ Reltronland Administrative Naming Rules", path: "/laws/reltronland-administrative-naming-rules"},
     { name: "Astralis Doctrine – No Donation Policy", path: "/laws/astralis-doctrine-no-donation"},
+    { name: "🛡️ RAID-1: Anti-Idleness Division of Reltronland", path: "/laws/raid1-reltronland"},
 
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },
