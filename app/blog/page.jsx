@@ -569,6 +569,16 @@ const posts = [
     slug: "i-saw-the-invisible-darkness",
     image: "/images/i-saw-the-invisible-darkness.webp",
     tags: ["darkness", "self-awareness", "burnout", "digital decay", "redpill", "astralis", "despair"]
+  },
+  {
+    title: "🎭 Narrative Comparison: Puss in Boots (2022) vs Reltroner Studio",
+    description: "A philosophical narrative analysis between a cat facing mortality and a civilization architect resisting erasure through system design.",
+    slug: "puss-in-boots-vs-reltroner",
+    author: "Rei Reltroner",
+    date: "2025-08-04",
+    published: true,
+    image: "/images/puss-in-boots-vs-reltroner.webp",
+    tags: ["Narrative Analysis", "Existentialism", "Reltroner Studio", "Mortality", "Meaning Economy"]
   }
   
 ];

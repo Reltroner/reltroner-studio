@@ -170,6 +170,16 @@ const philosophies = [
     author: "Rei Reltroner",
     image: "/images/tomb-raider-framework.webp",
     published: true
+  },
+  {
+    title: "🔺 Astralis Doctrine: The Philosophy of Suffering and Sustainability",
+    description: "A red-pill alignment statement on rejecting pleasure-chasing, embracing hardship, and calculating risk for long-term meaning and civilizational continuity.",
+    slug: "astralis-philosophy-of-suffering-and-sustainability",
+    author: "Rei Reltroner",
+    date: "2025-08-04",
+    published: true,
+    image: "/images/astralis-philosophy-of-suffering-and-sustainability.webp",
+    tags: ["Astralis Doctrine", "Philosophy", "Red Pill", "Meaning", "Long-Termism", "Hardship"]
   }
 ];
 

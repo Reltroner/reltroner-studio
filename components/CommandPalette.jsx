@@ -125,6 +125,7 @@ export default function CommandPalette() {
     { name: "Real Cost Hidden in ERP Systems: A Developer’s Hard Lesson", path: "/blog/real-cost-hidden-in-erp" },
     { name: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid", path: "/blog/midnight-awakening-field-study" },
     { name: "I Saw the Invisible Darkness", path: "/blog/i-saw-the-invisible-darkness" },
+    { name: "Narrative Comparison: Puss in Boots (2022) vs Reltroner Studio", path: "/blog/puss-in-boots-vs-reltroner" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
@@ -292,6 +293,7 @@ export default function CommandPalette() {
     { name: "🛡️ When the System Mistakes You for a Threat, You Know You’re Building Something Real", path: "/philosophies/system-mistakes-you" },
     { name: "🧩 The Wall of Silenced Builders", path: "/philosophies/wall-of-silenced-builders" },
     { name: "The Tomb Raider Framework for Building Without Burnout", path: "/philosophies/tomb-raider-framework" },
+    { name: "Astralis Doctrine: The Philosophy of Suffering and Sustainability", path: "/philosophies/astralis-philosophy-of-suffering-and-sustainability" },
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },
     { name: "Depcutland", path: "/factions/depcutland" },
