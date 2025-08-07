@@ -136,6 +136,15 @@ const myths = [
     date: "2025-07-05",
     published: true,
     tags: ["nytherion abyss", "brainrot", "creativity", "philosophy", "redpill"]
+  },
+  {
+    title: "⚫ Henchoway Underground: The Abyssal Network in Asthortera’s DOF Zones",
+    description: "A comprehensive lore on the underground Henchoway dimensional nodes scattered throughout Asthortera’s most remote regions—feeding the Nytherion Abyss in exchange for prosperity and security.",
+    slug: "henchoway-underground",
+    date: "2025-08-07",
+    author: "Reltroner Studio",
+    published: true,
+    image: "/images/henchoway-underground.webp"
   }
 ];
 

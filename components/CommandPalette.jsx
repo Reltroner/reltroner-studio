@@ -213,6 +213,7 @@ export default function CommandPalette() {
     { name: "🤿Silent Echoes of Henchoway", path: "/myths/silent-echoes-of-henchoway"},
     { name: "📡 The Ritual of Astralis Contact", path: "/myths/ritual-astralis-contact"},
     { name: "🕳️ The Nytherion Abyss Effect – The Idea Theft Phenomenon", path: "/myths/ide-theft-phenomenon"},
+    { name: "⚫ Henchoway Underground: The Abyssal Network in Asthortera’s DOF Zones", path: "/myths/henchoway-underground"},
     // Organizations
     { name: "Henchoway", path: "/organizations/henchoway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },

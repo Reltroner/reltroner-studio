@@ -44,7 +44,7 @@ date: "2025-04-11"
 
 - Over years, the Red Pill settlers gradually learned to read and speak the Beluftner language.
 - **Stories, songs, and rituals** began to merge, with hybrid words and concepts forming a new lexicon.
-- **Intermarriage** and shared community life produced a first generation of mixed-heritage children: the proto-Reltroners.
+- **Intermarriage** and shared community life produced a first generation of mixed-heritage children: the proto-Redpillers.
 
 ---
 
@@ -201,7 +201,7 @@ Troner saw not just a “clean slate,” but an **invitation for fusion**:
 
 ## 👶 Erhard Rhett – The Firstborn of the New World
 
-Born in Rathroper, **Erhard Rhett** was more than an heir: he became the first “Reltroner,” learning from both his father's vision and the Beluftner wisdom that had kept the land alive.
+Born in Rathroper, **Erhard Rhett** was more than an heir: he became the first “Redpillers,” learning from both his father's vision and the Beluftner wisdom that had kept the land alive.
 
 Together, Troner, Erhard, and their Beluftner allies laid the **cultural, legal, and architectural foundation** of Reltronland’s first provinces.
 
