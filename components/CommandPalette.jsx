@@ -226,6 +226,7 @@ export default function CommandPalette() {
     { name: "📊 CERA — Consciousness Economic Risk Authority", path: "/organizations/cera" },
     { name: "📈 RXS 500 Index: Reltronland Exchange of Sentience", path: "/organizations/rxs-500" },
     { name: "🍔 ByteBite — Reltronland's Largest Fast Food Network", path: "/organizations/bytebite" },
+    { name: "🏦 Clarity Bank of Reltronland (CBR)", path: "/organizations/clarity-bank-of-reltronland" },
     // Places
     { name: "Erterna Ruin", path: "/places/erterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },

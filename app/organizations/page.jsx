@@ -106,6 +106,15 @@ const organizations = [
     published: true
   },
   {
+    title: "🏦 Clarity Bank of Reltronland (CBR)",
+    description: "The Bank of Absolute Transparency – Clarity-driven, meritocratic, and fully auditable banking for a Red Pill civilization.",
+    slug: "clarity-bank-of-reltronland",
+    date: "2025-08-06",
+    author: "Rei Reltroner",
+    published: true,
+    image: "/images/clarity-bank-of-reltronland.webp"
+  },
+  {
     title: "🍔 ByteBite — Reltronland's Largest Fast Food Network",
     description: "An overview of ByteBite, the massive AI-powered fast food empire born from the heart of Reltronland.",
     slug: "bytebite",
