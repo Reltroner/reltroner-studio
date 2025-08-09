@@ -345,6 +345,90 @@ RAIA is an extension of Reltronland’s Astralis Pinnacle philosophy — a testa
 
 ---
 
+# 🛰️ RAIA Airport Quarantine Towers — Airborne Clarity Node of Reltronland
+
+An airborne fortress above Reltronepolis, integrating RAIA's interstellar gateway with the Clarity Quarantine Network to intercept and neutralize Nytherion Abyss influence before it reaches the city.
+
+> *"Intercept in the skies, purify before landing."*
+
+---
+
+## 📍 Overview
+
+The **RAIA Airport Quarantine Towers** are an **airgrid-suspended clarity fortress** embedded within the **Reltronepolis Aeropolis International Airport** complex.  
+Their primary role: **intercept, isolate, and cleanse** sentients flagged for Nytherion Abyss or Henchoeway exposure *before* they step onto Reltronland’s 100% urban surface.
+
+By integrating **planetary-scale aerospace logistics** with **high-altitude clarity protocols**, RAIA ensures that no incoming traveler can bypass Reltronland’s Astralis-aligned mental security grid.
+
+---
+
+## 🧭 Core Quarantine Objectives
+
+1. **Aerial Containment** — Capture and transport high-risk individuals from incoming flights within minutes of atmospheric entry.
+2. **Pre-Landing Neutralization** — Apply Red Pill resonance recalibration before the subject disembarks.
+3. **Cognitive Reconstruction** — Conduct altitude-adaptive therapy for mental resilience.
+4. **Verification Before Entry** — Certify complete mental stability prior to granting planetary clearance.
+
+---
+
+## 🏗️ Architectural Features
+
+- **Suspended Isolation Rings** — Glass-domed circular quarantine decks orbiting the RAIA tower core.
+- **Dimensional Distortion Filters** — Dissipate incoming Abyssal energy before it reaches terminal gates.
+- **High-Altitude Therapy Bays** — Zero-noise chambers for uninterrupted Red Pill alignment.
+- **Observation Skyline Decks** — Oversee both quarantine activity and Reltronepolis’ vast cityscape.
+
+---
+
+## ⚙️ Integrated Protocol Specialization
+
+- **Rapid Aerial Intercept** — RAIA drones retrieve flagged passengers within **5 minutes of detection**.
+- **Red Pill Altitude Therapy** — Atmospheric pressure modulation combined with clarity chants.
+- **Memory Reconstruction via RAIA-Encoded AI** — Targeted cognitive repair adapted to each sentient’s psychological profile.
+- **Zero-Cross Containment** — Ensure no physical or cognitive contact between quarantined individuals and the public until cleared.
+
+---
+
+## 📜 Operational Hooks
+
+- **Diplomatic Incidents** — High-profile figures detained mid-arrival, triggering interstellar political tension.
+- **Smuggling Attempts** — Rogue RAIA staff caught moving infected individuals past quarantine rings.
+- **False Positives** — Cases where non-Abyssal anomalies mimic infection patterns.
+
+---
+
+## 🌐 Strategic Role in CQN
+
+Within the **Clarity Quarantine Network**, RAIA serves as the **first defensive perimeter** for airborne and orbital traffic into Reltronland.  
+Its **Grand Clarity Council** liaison coordinates with:
+
+- **Astralis Temple Inner Sanctum** — For spiritual reconditioning.
+- **Endless Library of Depcutland** — For archival cross-referencing.
+- **Aurora Sancta Citadels** — For emotional recovery cycles.
+
+> *"Above the city, before the streets — RAIA stands between illusion and entry."*
+
+---
+
+## 📊 Performance & Capacity
+
+- **Passenger Throughput:** 2.7 billion/day (combined travel + clearance operations)
+- **Containment Capacity:** 420,000 simultaneous isolation bays
+- **Quarantine Turnover Rate:** 92% processed within 72 hours
+- **AI Oversight:** Reltronic Mobility Overseer (RMO) links directly with CQN’s planetary node system.
+
+---
+
+## 🧬 RAIA in Lore
+
+RAIA’s airborne quarantine rings are seen as **both a shield and a statement** —  
+that Reltronland’s skies themselves are part of Astralis Pinnacle’s firewall against the Abyss.
+
+Every intercepted mind that passes through RAIA is not just processed —  
+it is **judged, realigned, and proven** before touching the ground.
+
+---
+
 **© 2025 Reltroner Studio — Asthortera Infrastructure Archives**
 
 > "Let Astralis light the unknown."

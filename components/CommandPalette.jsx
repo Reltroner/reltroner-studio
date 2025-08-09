@@ -251,6 +251,7 @@ export default function CommandPalette() {
     { name: "Amberglow – The Living Archive", path: "/places/amberglow" },
     { name: "🔺 Astralis Temple — The Temple of Red Pill Consciousness", path: "/places/astralis-temple" },
     { name: "🕳️ Nytherion Abyss Temple — The Church of Still Waters", path: "/places/nytherion-temple" },
+    { name: "🛡️ Clarity Quarantine Network — Isolation Against the Abyss", path: "/places/clarity-quarantine-network" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },

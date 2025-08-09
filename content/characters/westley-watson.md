@@ -1,7 +1,7 @@
 ---
 title: "Dr. Westley Watson"
 role: "Director of The Endless Library of Depcutland"
-description: "A political intellectual who manipulates information as power, Watson is the keeper of forbidden knowledge and a silent strategist behind Asthortera’s global balance."
+description: "An intellectual who manipulates information as power, Watson is the keeper of forbidden knowledge and a silent strategist behind Asthortera’s global balance."
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true

@@ -220,6 +220,16 @@ const places = [
     date: "2025-07-17",
     published: true,
     tags: ["temple", "spirituality", "blue pill", "consciousness"]
+  },
+  {
+    title: "🛡️ Clarity Quarantine Network — Isolation Against the Abyss",
+    description: "A planetary defense infrastructure across Asthortera, designed to contain, neutralize, and restore sentients exposed to Nytherion Abyss influence.",
+    slug: "clarity-quarantine-network",
+    date: "2025-08-09",
+    author: "Reltroner Studio",
+    published: true,
+    image: "/images/clarity-quarantine-network.webp",
+    tags: ["temple", "spirituality", "blue pill", "consciousness"]
   }
 ];
 
