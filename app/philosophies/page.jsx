@@ -180,6 +180,16 @@ const philosophies = [
     published: true,
     image: "/images/astralis-philosophy-of-suffering-and-sustainability.webp",
     tags: ["Astralis Doctrine", "Philosophy", "Red Pill", "Meaning", "Long-Termism", "Hardship"]
+  },
+  {
+    title: "Financial Discipline Manifesto — The 500K Lesson",
+    description: "A permanent personal commitment forged from a costly mistake, integrating Astralis Pinnacle principles into all future transactions.",
+    slug: "the-500k-lesson",
+    author: "Rei Reltroner",
+    date: "2025-08-10",
+    image: "/images/the-500k-lesson.webp",
+    published: true,
+    tags: ["Astralis Pinnacle", "Financial Discipline", "Life Lesson", "Reltroner Studio"]
   }
 ];
 

@@ -579,7 +579,7 @@ const posts = [
     published: true,
     image: "/images/puss-in-boots-vs-reltroner.webp",
     tags: ["Narrative Analysis", "Existentialism", "Reltroner Studio", "Mortality", "Meaning Economy"]
-  }
+  },
   
 ];
 

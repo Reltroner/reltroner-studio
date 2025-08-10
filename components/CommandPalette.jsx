@@ -175,6 +175,7 @@ export default function CommandPalette() {
     { name: "Reltronland Mealtime Etiquette", path: "/cultures/reltronland-mealtime-etiquette" },
     { name: "Castela Jiggly Cake — Culinary Symbol of Reltronland", path: "/cultures/castela-jiggly-cake-reltronland" },
     { name: "Vierkernplatte — National Culinary Symbol of Depcutland", path: "/cultures/vierkernplatte" },
+    { name: "🕰️ Retro Heritage in Reltronland — From Liberation Era to Office Punk Dominance", path: "/cultures/retro-heritage-reltronland" },
     // Events
     { name: "Scout Parade", path: "/events/scoutparade" },
     { name: "Origins of Reltronland", path: "/events/reltronland-founding" },
@@ -252,6 +253,7 @@ export default function CommandPalette() {
     { name: "🔺 Astralis Temple — The Temple of Red Pill Consciousness", path: "/places/astralis-temple" },
     { name: "🕳️ Nytherion Abyss Temple — The Church of Still Waters", path: "/places/nytherion-temple" },
     { name: "🛡️ Clarity Quarantine Network — Isolation Against the Abyss", path: "/places/clarity-quarantine-network" },
+    { name: "🏙️ Retro District — Heritage Skyscraper Zone of Reltronepolis", path: "/places/retro-district" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
@@ -297,6 +299,8 @@ export default function CommandPalette() {
     { name: "🧩 The Wall of Silenced Builders", path: "/philosophies/wall-of-silenced-builders" },
     { name: "The Tomb Raider Framework for Building Without Burnout", path: "/philosophies/tomb-raider-framework" },
     { name: "Astralis Doctrine: The Philosophy of Suffering and Sustainability", path: "/philosophies/astralis-philosophy-of-suffering-and-sustainability" },
+    { name: "Financial Discipline Manifesto — The 500K Lesson", path: "/philosophies/the-500k-lesson" },
+
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },
     { name: "Depcutland", path: "/factions/depcutland" },

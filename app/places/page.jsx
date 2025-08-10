@@ -230,6 +230,15 @@ const places = [
     published: true,
     image: "/images/clarity-quarantine-network.webp",
     tags: ["temple", "spirituality", "blue pill", "consciousness"]
+  },
+  {
+    title: "🏙️ Retro District — Heritage Skyscraper Zone of Reltronepolis",
+    description: "Northwest heritage district blending retro skyscraper aesthetics with modern Reltronland corporate culture.",
+    slug: "retro-district",
+    date: "2025-08-10",
+    author: "Reltroner Studio",
+    published: true,
+    image: "/images/retro-district.webp"
   }
 ];
 

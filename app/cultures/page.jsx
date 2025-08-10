@@ -188,6 +188,15 @@ const cultures = [
     image: "/images/vierkernplatte.webp"
   },
   {
+    title: "🕰️ Retro Heritage in Reltronland — From Liberation Era to Office Punk Dominance",
+    description: "The evolution of Reltronland's retro heritage from post-war national identity to a historical culture coexisting with its modern Office Punk white-collar dominance.",
+    slug: "retro-heritage-reltronland",
+    date: "2025-08-10",
+    author: "Reltroner Studio",
+    published: true,
+    image: "/images/retro-heritage-reltronland.webp"
+  },
+  {
     title: "📜 Reltronland Meeting Manifesto",
     description: "Discover how Reltronland redefines meetings with a culture of pure efficiency, no excessive formalities, and true meritocracy — a new global standard for collaboration.",
     slug: "meeting-reltronland",
