@@ -95,6 +95,14 @@ Reltroner HRM is a full-featured Human Resource Management system architected, b
 
 ---
 
+### ➕ Admin Form
+![Admin Leave Request Form](/images/admin-ui.webp)
+
+### 📊 User Form
+![User Leave Request Form](/images/user-ui.webp)
+
+---
+
 > “Reltroner HRM is proof that I can ship MVP-quality, enterprise-ready platforms—solo, under pressure, and with best practice DevOps pipelines. I do not just build to learn. I build to launch and to lead.”
 
 ---
