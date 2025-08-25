@@ -146,3 +146,87 @@ The station sits at the convergence of **Retro Avenue** and **Aurora Heritage Bo
 ---
 
 > _"If Reltronepolis Central is the heart, Retro Central is the steady heartbeat echoing through time."_
+
+---
+
+![hyperloop-corridor-8](/images/hyperloop-corridor-8.webp)
+
+# 🚄 Hyperloop Corridor 8 — Retro Central ↔ Reltronepolis Central
+
+A 2,848 km hyperloop artery connecting Retro District’s heritage hub to Reltronepolis Central Station, passing through 570 urban stations with 14 iconic anchor landmarks.
+
+*"In Reltronland, transit is not just movement — it is civilization breathing in sequence."*  
+— **Clarity Mobility Doctrine, Year 962 BAC**
+
+---
+
+## 📍 Overview
+The **Hyperloop Corridor 8** is the **primary artery** linking the **Retro Central Station** in Northwest Reltronepolis Province to the colossal **Reltronepolis Central Station** in Tron Square District.  
+
+- **Total Length:** 2,848 km  
+- **Total Stations:** ~570 nodes (average spacing 5 km)  
+- **Anchor Stations:** 14 iconic cultural & economic hubs  
+- **Corridor Variants:**  
+  - `8` — Mainline  
+  - `8A2`, `8A3` — Elevated layers (Skyline experience)  
+  - `8U2`, `8U3` — Underground layers (Heritage museum lines)  
+  - **Total Variants:** 14 multi-level pathways  
+
+---
+
+## 🏙️ Anchor Stations
+
+1. **Retro Central Station**  
+   Heritage gateway of the Northwest — Art Deco & Streamline Moderne hub.  
+
+2. **Tuxtron Musical Hall Station**  
+   Transit + legendary jazz venue since Year 997 BAC.  
+
+3. **Troner Forum Annex Station**  
+   Diplomatic hub with preserved retro interiors.  
+
+4. **Skyline Heritage Plaza Station**  
+   Neon boulevard skyscraper cluster, retro-modern blend.  
+
+5. **Neon Crown Station**  
+   Landmark of glowing retro signage, hyperloop passes through a crown-like skyline arc.  
+
+6. **Paxorlux Heritage Park Station**  
+   Urban green anchor, blending parks with transit.  
+
+7. **Crystal Spire Station**  
+   160-floor glass-crystal tower, symbolizing *Retro meets Astralis Pinnacle*.  
+
+8. **Founders’ Square Station**  
+   Cultural plaza for annual *Founders’ Dress Day* parade.  
+
+9. **Interstellar and Commercial Bank of Reltronland Station**  
+   Financial super-hub housing **ICBR Headquarters** and Reltronland’s reserve vaults. Considered the “Fort Knox of Reltronland,” directly connected to the hyperloop for global financial flows.  
+
+10. **Clarity Forum Station**  
+    Civic policy & diplomacy summits, “where transit meets governance.”  
+
+11. **Reltrolux Observatorium Station**  
+    Towering star-dome with panoramic glass spheres. Functions as a cultural-scientific hub for astronomy, cosmic philosophy, and Astralis Pinnacle ceremonies.  
+
+12. **Reltronepolis University Transit Hub**  
+    Academic mobility hub integrated with Reltronland’s top university.  
+
+13. **Tron Square District Station**  
+    Reltronland's civic community center — AI-coordinated pedestrian district.  
+
+14. **Reltronepolis Central Station**  
+    The heart of sentient mobility — **72 km², 1,440 platforms**.  
+
+---
+
+## 🌐 Strategic Role
+- **Urban Lifeline:** 570 stations form an uninterrupted urban continuum.  
+- **Cultural Axis:** From Retro heritage to Tron Square futurism.  
+- **Security Corridor:** Multi-layer redundancy prevents abyssal disruption.  
+- **Symbolism:** A visible artery of Reltronland’s civilization, binding past and future.  
+
+---
+
+> *"If Reltronepolis Central is the heart, then Corridor 8 is the artery — carrying not just commuters, but continuity itself."*  
+— **Reltronland Hyperloop Authority**

@@ -198,6 +198,7 @@ export default function CommandPalette() {
     { name: "The Final Conversation: Kamila Alena x Rei Reltroner Before Exit", path: "/events/kamila-x-rei-before-exit" },
     { name: "Reflections in Drawcia – A Post-Pinnacle Dialogue", path: "/events/reflections-in-drawcia" },
     { name: "🌍 World Population Day 2025: Reltronland Edition", path: "/events/world-population-day-reltronland" },
+    { name: "🚧 The Great Clearance of 963 BAC — Reltronepolis", path: "/events/great-clearance-963bac" },
 
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },

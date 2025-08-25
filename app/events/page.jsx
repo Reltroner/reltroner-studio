@@ -117,6 +117,15 @@ const events = [
     published: true
   },
   {
+    title: "🚧 The Great Clearance of 963 BAC — Reltronepolis",
+    description: "The decisive urban transformation of Reltronepolis: dismantling illegal mass settlements, enforcing redpilization, and deporting the unredeemed into the Nytherion Abyss.",
+    slug: "great-clearance-963bac",
+    author: "Reltroner Studio",
+    date: "2025-08-25",
+    published: true,
+    image: "/images/great-clearance-963bac.webp"
+  },
+  {
     title: "Scout Parade in Evercotage",
     description: "Highlight of the grand Scout Parade in Evercotage, the capital of Stelpadland.",
     slug: "scoutparade",
