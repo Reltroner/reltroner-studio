@@ -190,6 +190,16 @@ const philosophies = [
     image: "/images/the-500k-lesson.webp",
     published: true,
     tags: ["Astralis Pinnacle", "Financial Discipline", "Life Lesson", "Reltroner Studio"]
+  },
+  {
+    title: "Compounding as a Cheat Code",
+    description: "Why small, consistent profits matter more than chasing jackpots in trading.",
+    author: "Rei Reltroner",
+    date: "2025-08-27",
+    published: true,
+    slug: "compounding-as-a-cheat-code",
+    image: "/images/compounding-as-a-cheat-code.webp",
+    tags: ["trading", "compounding", "mindset", "red pill", "stewardship"]
   }
 ];
 

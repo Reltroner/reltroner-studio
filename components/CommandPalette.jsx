@@ -301,6 +301,7 @@ export default function CommandPalette() {
     { name: "The Tomb Raider Framework for Building Without Burnout", path: "/philosophies/tomb-raider-framework" },
     { name: "Astralis Doctrine: The Philosophy of Suffering and Sustainability", path: "/philosophies/astralis-philosophy-of-suffering-and-sustainability" },
     { name: "Financial Discipline Manifesto — The 500K Lesson", path: "/philosophies/the-500k-lesson" },
+    { name: "Compounding as a Cheat Code", path: "/philosophies/compounding-as-a-cheat-code" },
 
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },
