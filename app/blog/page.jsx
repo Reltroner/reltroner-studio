@@ -580,6 +580,16 @@ const posts = [
     image: "/images/puss-in-boots-vs-reltroner.webp",
     tags: ["Narrative Analysis", "Existentialism", "Reltroner Studio", "Mortality", "Meaning Economy"]
   },
+  {
+    title: "🌍 Two Paths of Birth: Switzerland vs Indonesia",
+    description: "A reflective narrative contrasting the imagined life if born in Switzerland/Nordic countries versus the real life of being born in Indonesia, leading to the mission of creating Reltronland.",
+    slug: "birthplace-reflection",
+    author: "Reltroner Studio",
+    date: "2025-08-19",
+    published: true,
+    tags: ["reflection", "birthplace", "indonesia", "nordic", "astralis", "philosophy"],
+    image: "/images/birthplace-reflection.webp"
+  }
   
 ];
 

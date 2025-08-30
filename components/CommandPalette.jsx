@@ -126,6 +126,7 @@ export default function CommandPalette() {
     { name: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid", path: "/blog/midnight-awakening-field-study" },
     { name: "I Saw the Invisible Darkness", path: "/blog/i-saw-the-invisible-darkness" },
     { name: "Narrative Comparison: Puss in Boots (2022) vs Reltroner Studio", path: "/blog/puss-in-boots-vs-reltroner" },
+    { name: "🌍 Two Paths of Birth: Switzerland vs Indonesia", path: "/blog/birthplace-reflection" },
     
     // Characters
     { name: "Albert Locke", path: "/characters/albert-locke", tag: "Characters" },
