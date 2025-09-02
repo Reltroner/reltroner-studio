@@ -18,7 +18,7 @@ published: true
 ---
 
 ### 📍 Location
-**Reltronepolis Hub District, Central Reltronepolis Municipality**, at the very core of Reltronland’s Center of Culture & Business. The surrounding district is fully pedestrianized and walkable—**100% vehicle-free**, lined with kinetic walkways and AI-coordinated skywalks.
+**Reltronepolis Hub District, Central Reltronepolis**, at the very core of Reltronland’s Center of Culture & Business. The surrounding district is fully pedestrianized and walkable—**100% vehicle-free**, lined with kinetic walkways and AI-coordinated skywalks.
 
 ---
 

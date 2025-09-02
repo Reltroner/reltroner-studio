@@ -39,7 +39,7 @@ He is determined to prove his worth and gain respect as an immigrant in the adva
 
 ## Skytrone: Wayne's Workplace
 - **Company:** Skytrone (global e-commerce and tech giant)
-- **Office Location:** Skytrone Tower, Innovation Avenue, RICD (Reltronepolis International Commerce District)
+- **Office Location:** Skytrone Tower, Innovation Avenue, Skytropolis District
 - **Highlights:**
   - Surrounded by skyscrapers, luxury centers, and international business hubs.
   - Equipped with networking lounges, rooftop skyparks, and transport access.
@@ -51,7 +51,7 @@ Wayne’s work environment demands high performance but thrives on polished dipl
 
 ## Wayne's Home Life
 - **Residence:** Block S, Skytropolis Capsule Residence
-- **District:** Skytropolis, North Reltronepolis Municipality
+- **District:** Skytropolis, North Reltronepolis
 - **Room Type:** Modern capsule, 3m x 2m (minimalist but smart-design)
 - **Monthly Rent:** $REL2,000 (utilities included)
 
