@@ -127,8 +127,8 @@ The **Hyperloop Corridor 6** is the lifeline between **Skytropolis (North Reltro
 5. **Civic Bridge Station**  
    Landmark suspension bridge station linking North Reltronepolis to Tron Square.  
 
-6. **Reltronepolis Cultural Gateway Station**  
-   The artistic entrance to central Reltronepolis, lined with Astralis Pinnacle murals.  
+6. **Reltronepolis University Transit Hub**  
+   Academic mobility hub integrated with Reltronland’s top university.
 
 7. **Tron Square District Station**  
    Civic & community core, AI-coordinated pedestrian network.  
@@ -220,8 +220,8 @@ The **Hyperloop Corridor 8** is the **primary artery** linking the **Retro Centr
 11. **Reltrolux Observatorium Station**  
     Towering star-dome with panoramic glass spheres. Functions as a cultural-scientific hub for astronomy, cosmic philosophy, and Astralis Pinnacle ceremonies.  
 
-12. **Reltronepolis University Transit Hub**  
-    Academic mobility hub integrated with Reltronland’s top university.  
+12. **Arterial Station**  
+    The arterial entrance to central Reltronepolis, lined with Astralis Pinnacle murals.
 
 13. **Tron Square District Station**  
     Reltronland's civic community center — AI-coordinated pedestrian district.  
