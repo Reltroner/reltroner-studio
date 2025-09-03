@@ -276,10 +276,10 @@ The **Hyperloop Corridor 1** is the **cultural and creative lifeline** of Reltro
 2. **Reltroner Tower Station**  
    Located beneath the iconic **Reltroner Tower**, taller than Burj Khalifa and symbol of Astralis Pinnacle made manifest.  
 
-3. **Aurora Media Hub Station**  
+3. **Tronberg Media Hub Station**  
    Broadcasting and digital arts hub, walls lined with holographic screens streaming interstellar content.  
 
-4. **Innovation South Station**  
+4. **Innovation Station**  
    Startup and AI incubator cluster, gateway for tech-driven creatives.  
 
 5. **Creative Forum Station**  
@@ -288,13 +288,13 @@ The **Hyperloop Corridor 1** is the **cultural and creative lifeline** of Reltro
 6. **Southern Civic Bridge Station**  
    Monumental suspension bridge terminal crossing Reltronepolis’ southern river.  
 
-7. **Aurora Garden South Station**  
-   Massive artificial aurora garden integrated with public transit and recreation.  
+7. **Greenhouse Garden South Station**  
+   Massive artificial greenhouse garden integrated with public transit and recreation.  
 
 8. **Reltronepolis Cultural Gateway Station**  
-   Entry point to Tron Square — decorated with Astralis Pinnacle murals.  
+   Entry point to World Capital — decorated with Astralis Pinnacle murals.  
 
-9. **Tron Square District Station**  
+9. **World Capital District Station**  
    Civic & community hub, AI-managed pedestrian super-core.  
 
 10. **Reltronepolis Central Station**  
