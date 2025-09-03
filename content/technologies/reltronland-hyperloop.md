@@ -295,7 +295,7 @@ The **Hyperloop Corridor 1** is the **cultural and creative lifeline** of Reltro
    Entry point to World Capital — decorated with Astralis Pinnacle murals.  
 
 9. **World Capital District Station**  
-   Civic & community hub, AI-managed pedestrian super-core.  
+   Multinational company hub, AI-managed pedestrian super-core.  
 
 10. **Reltronepolis Central Station**  
     The monumental terminus — **72 km², 1,440 platforms**, the heart of sentient mobility.  
