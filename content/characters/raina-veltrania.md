@@ -10,6 +10,11 @@ quote: "A person’s worth is not defined by status, but by the results and impa
 
 ---
 
+![raina-veltrania1](/images/raina-veltrania1.webp)
+![raina-veltrania2](/images/raina-veltrania2.webp)
+
+---
+
 ## Basic Information
 - **Full Name:** Raina Veltrania  
 - **Gender:** Female  
@@ -45,9 +50,9 @@ Raina is assertive, analytical, and deeply loyal to meritocratic values. While s
 - **Master’s Degree:** Organizational Psychology – Reltralia Advanced University  
 
 ### Career Path:
-- Started as an intern in the Employee Development Department.
-- Promoted to Junior HR Specialist at 24.
-- Rose to current managerial position at 26 after designing a high-impact merit-based employee development system.
+- I. Started as an intern in the Employee Development Department.
+- II. Promoted to HR Specialist.
+- III. Rose to current managerial position after designing a high-impact merit-based employee development system.
 
 ---
 
