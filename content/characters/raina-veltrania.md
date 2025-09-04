@@ -124,7 +124,7 @@ This document is the official guide to ensure the visual consistency of **Raina 
    * **Smooth black non-slimfit trousers (unisex)**.  
 3. **Textures & Palette**: silk-look fabrics; clean white–gray + black palette; optional Astralis blue accents.  
 4. **Body Language**: upright posture, focused gaze, soft/firm expression, slight smile.  
-5. **Anti-Vulgar Aura**: elegant, professional, dignified.  
+5. **Elegant**: elegant, professional, dignified.  
 6. **Credit Line**: every official visual must include *© Reltroner Studio – Astralis Series (2025)*.  
 
 ---
@@ -143,10 +143,9 @@ This document is the official guide to ensure the visual consistency of **Raina 
 1. Is the smooth white-collar shirt clearly visible?  
 2. Are the black non-slimfit trousers shown?  
 3. Is the silhouette clean, professional, with minimal accessories?  
-4. Is the elegant, non-vulgar aura preserved?  
-5. Expression: focused, calm, confident?  
-6. Is the color palette consistent (white, black, gray, optional blue)?  
-7. Is there a caption/credit for Astralis Series?  
+4. Expression: focused, calm, confident?  
+5. Is the color palette consistent (white, black, gray, optional blue)?  
+6. Is there a caption/credit for Astralis Series?  
 
 If all **7 points are fulfilled**, the visual is valid as **Raina Veltrania**.  
 
