@@ -21,8 +21,8 @@ Cosmeilia is a planet unlike any other—rooted in cosmic elegance and spiritual
 - **Total Sentient Population:** ~3.7 trillion  
 
 ### 🧬 Population Composition
-- 70% Cosmeilia-Human Mixed  
-- 20% Others Cosmeilian Sentients  
+- 85% Cosmeilia-Human Mixed  
+- 5% Others Cosmeilian Sentients  
 - 4% Immigrants from Asthortera  
 - 3% Immigrants from Depeisit  
 - 2% Immigrants from Cistheta  

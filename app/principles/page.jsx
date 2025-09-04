@@ -229,6 +229,16 @@ const principles = [
     tags: ["meaning", "post-efficiency", "redpill", "consciousness", "ai-paradox", "astralis-economy"],
     published: true,
     image: "/images/post-efficiency-manifesto.webp"
+  },
+  {
+    title: "📜 Humanoid Standard Doctrine — Universality of Sentient Form",
+    description: "The fundamental doctrine that establishes humanoid form as the universal standard of all biological sentient species in Asthortera.",
+    slug: "humanoid-standard-doctrine",
+    date: "2025-09-04",
+    author: "Reltroner Studio",
+    published: true,
+    image: "/images/humanoid-standard-doctrine.webp",
+    tags: ["Asthortera", "Doctrine", "Species", "Philosophy"]
   }
   
   // Tambahkan lebih banyak principle di masa depan...

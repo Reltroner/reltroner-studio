@@ -388,6 +388,7 @@ export default function CommandPalette() {
     { name: "How I Went from Crypto Loser to Infrastructure Winner", path: "/principles/crypto-infra-transition" },
     { name: "The Art of Comment Engineering", path: "/principles/the-art-of-comment-engineering" },
     { name: "📜 Manifesto of the Post-Efficiency Era", path: "/principles/post-efficiency-manifesto" },
+    { name: "📜 Humanoid Standard Doctrine — Universality of Sentient Form", path: "/principles/humanoid-standard-doctrine" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
     { name: "Reltroner AI Fork – Memory-as-a-Service Product Sheet", path: "/items/reltroner-ai-fork" },
