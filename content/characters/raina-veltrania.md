@@ -98,3 +98,98 @@ Raina is assertive, analytical, and deeply loyal to meritocratic values. While s
 - Faces emotional and ethical growth as she balances duty with conviction.
 
 Raina Veltrania is not just a corporate figure — she is a mirror of Reltronland’s struggle to protect meritocracy in a world where power increasingly favors control over clarity.
+
+---
+
+# Raina Visual Bible
+
+**Reltroner Studio — Astralis Series (2025)**  
+This document is the official guide to ensure the visual consistency of **Raina Veltrania** across all mediums (realistic, semi-realistic, anime, or stylized art).
+
+---
+
+## 🎯 Purpose
+
+* Ensure every visual representation of Raina remains consistent in identity regardless of style, face, or medium.  
+* Provide technical standards for illustrators, designers, and creative teams.  
+* Maintain immediate public recognition: *“That’s Raina Veltrania.”*  
+
+---
+
+## 🔑 Invariants (Must-Haves)
+
+1. **Character Ethos**: calm, intelligent, empathetic, assertive, grounded in Astralis Red Pill values.  
+2. **Default Outfit**:  
+   * **Smooth white-collar shirt**, non-slimfit, often *untucked*.  
+   * **Smooth black non-slimfit trousers (unisex)**.  
+3. **Textures & Palette**: silk-look fabrics; clean white–gray + black palette; optional Astralis blue accents.  
+4. **Body Language**: upright posture, focused gaze, soft/firm expression, slight smile.  
+5. **Anti-Vulgar Aura**: elegant, professional, dignified.  
+6. **Credit Line**: every official visual must include *© Reltroner Studio – Astralis Series (2025)*.  
+
+---
+
+## 🎨 Variables (Allowed to Differ)
+
+* **Face**: may vary across styles (realistic, anime, semi-stylized).  
+* **Hairstyle**: long black straight or soft waves (flexible per style).  
+* **Backgrounds**: Reltronepolis cityscape, neutral flat tones, or abstract.  
+* **Mediums**: digital painting, anime illustration, vector, or mixed media.  
+
+---
+
+## ✅ Raina Check (7-Point Consistency Test)
+
+1. Is the smooth white-collar shirt clearly visible?  
+2. Are the black non-slimfit trousers shown?  
+3. Is the silhouette clean, professional, with minimal accessories?  
+4. Is the elegant, non-vulgar aura preserved?  
+5. Expression: focused, calm, confident?  
+6. Is the color palette consistent (white, black, gray, optional blue)?  
+7. Is there a caption/credit for Astralis Series?  
+
+If all **7 points are fulfilled**, the visual is valid as **Raina Veltrania**.  
+
+---
+
+## 📐 Technical Standards
+
+* **Aspect Ratios**:  
+  * 16:9 → Banners/promotions  
+  * 1:1 → Social feed/media posts  
+  * 9:16 → Stories/reels/shorts  
+* **Minimum Resolution**:  
+  * 2560×1440 (banner)  
+  * 2048×2048 (square)  
+* **Export**: PNG (lossless) + version without text.  
+* **Standard Alt-text**:  
+  > *“Raina Veltrania in white-collar silk shirt and black loose trousers, calm and poised, elegance of Reltronland.”*  
+
+---
+
+## 📖 Lore Explanation
+
+1. **Casting Meta**: Raina is a role; various visual actors can portray her.  
+2. **Facet Theory**: her face shifts depending on the observer’s perspective, but her essence remains constant.  
+3. **Reltron Aesthetic Protocol**: citizens are recognized by attire & ethos, not by facial features.  
+
+---
+
+## ✨ Official Tagline
+
+> **“Raina Veltrania — Elegance of Reltronland”**
+
+---
+
+## 📦 Asset Package (Recommended)
+
+* 3 main visual styles:  
+  * Semi-realistic portrait (promotional banners)  
+  * Realistic render (press/website)  
+  * Anime-style (storytelling/comics)  
+* Each asset must include both text and textless versions.  
+
+---
+
+**This document is a living document.**  
+Every new visual update must be tested with the *Raina Check* and approved by the Reltroner Studio creative team.
