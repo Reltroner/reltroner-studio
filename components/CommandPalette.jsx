@@ -350,6 +350,7 @@ export default function CommandPalette() {
     { name: "🏛️ Reltronland Administrative Naming Rules", path: "/laws/reltronland-administrative-naming-rules"},
     { name: "Astralis Doctrine – No Donation Policy", path: "/laws/astralis-doctrine-no-donation"},
     { name: "🛡️ RAID-1: Anti-Idleness Division of Reltronland", path: "/laws/raid1-reltronland"},
+    { name: "📜 Twin Digital Accord (991 BAC)", path: "/laws/twin-digital-accord"},
 
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

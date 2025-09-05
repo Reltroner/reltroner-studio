@@ -166,4 +166,79 @@ A summary of the conflict, territorial changes, and the rise of Depcutland & Rel
 
 ---
 
+# 🕊️ **Troncut Treaty — Executive Summary**
+
+*Signed 1010 BAC, Neiput Region*
+
+---
+
+## 📍 Background
+
+The **Troncut Treaty** marked the official ceasefire and division of sovereignty between **Reltronland** and **Depcutland** following years of escalating disputes over trade, borders, and ideology.
+The treaty ended the **Reltronland–Depcutland War (1048–1030 BAC)** and created the framework for modern Asthorteran stability.
+
+---
+
+## 📑 Key Provisions
+
+1. **Recognition of Sovereignty**
+
+   * Reltronland recognized as an **independent cyber-meritocratic republic**.
+   * Depcutland recognized as an **autonomous archival-meritocracy** preserving classical traditions.
+
+2. **Border Realignment**
+
+   * The eastern **Neiput/Troneiput region** transferred from Depcutland to Reltronland.
+   * Established as a **buffer zone** and symbol of Reltronland’s “Victory of Merit.”
+
+3. **Demilitarization & Oversight**
+
+   * Depcutland required to reduce standing military forces.
+   * Neutral observers (Beluftner, Kalgered, Aurastelia) tasked with monitoring compliance.
+
+4. **Population & Cultural Transition**
+
+   * Residents of Troneiput given choice: remain and undergo **Redpillization** (meritocratic re-education) or relocate to Depcutland.
+   * Deportation of dissenters conducted with international oversight.
+
+5. **Economic Agreements**
+
+   * Reltronland imposed a **temporary embargo** lifted after treaty ratification.
+   * Both nations to reopen border trade under joint supervision.
+   * Reparations not monetary, but in the form of **technology transfer and industrial collaboration**.
+
+6. **Political Guarantees**
+
+   * Mutual non-interference in domestic governance.
+   * Agreement to resolve future disputes through multilateral councils.
+   * Ban on unilateral industrial expansion into contested zones.
+
+7. **Philosophical Clause**
+
+   * Reltronland affirmed doctrine of **Red Pill Meritocracy**.
+   * Depcutland affirmed doctrine of **Archival Aristocracy**.
+   * Both recognized as valid civilizational paths within Asthortera.
+
+---
+
+## 🌐 Legacy & Impact
+
+* Ended direct hostilities and created **dual superpowers** in Asthortera.
+* Established Reltronland as the **leading meritocratic power**.
+* Allowed Depcutland to reform and modernize, eventually rising again as the **second superpower**.
+* The **Troneiput question** remains a symbolic divide: “Victory of Merit” vs “Lost Glory.”
+* The treaty laid groundwork for later accords (Stelhaven, Aviashenwelt) and the **Global Union of Asthortera (844 BAC).**
+
+---
+
+## ✒️ Closing Statement
+
+The Troncut Treaty is remembered as the **charter of modern Asthorteran diplomacy**:
+
+> *“Two visions may diverge, yet both anchor civilization.”*
+
+It transformed war into rivalry, rivalry into progress, and progress into the dual pillars of consciousness — **Reltronland and Depcutland**.
+
+---
+
 **Let Astralis light the unknown.**

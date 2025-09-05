@@ -248,6 +248,16 @@ const laws = [
     published: true,
     image: "/images/raid1-reltronland.webp",
     tags: ["Reltronland", "Red Pill Doctrine", "Anti-Idleness", "Meritocracy", "Productivity Enforcement"]
+  },
+  {
+    title: "📜 Twin Digital Accord (991 BAC)",
+    description: "A bilateral treaty between Depcutland and Reltronland on the preservation of knowledge through Digital Twin Systems.",
+    slug: "twin-digital-accord",
+    author: "Reltroner Studio",
+    date: "2025-09-05",
+    published: true,
+    image: "/images/twin-digital-accord.webp",
+    tags: ["digital twin", "knowledge preservation", "depcutland", "reltronland", "accord"]
   }
   
   // Tambahkan lebih banyak Law di masa depan...
