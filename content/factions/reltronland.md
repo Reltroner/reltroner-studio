@@ -286,7 +286,7 @@ Cosmic investors, visionary empire-builders, and classified-level industrialists
 
 * **Technology & AI**
 * **Banking & Finance**
-* **Maritime Industry**
+* **Digital Industry**
 * **Creative Industries**
 * **Economic Slogan:** *"Where Ambition Meets Opportunity."*
 
@@ -294,7 +294,7 @@ Cosmic investors, visionary empire-builders, and classified-level industrialists
 
 1. AI Technology & Automation
 2. Financial Instruments
-3. Maritime Tech Equipment
+3. Digital Tech Equipment
 4. Medical Tourism Services
 5. Education & Training Services
 6. Sovereign Financial Tools
