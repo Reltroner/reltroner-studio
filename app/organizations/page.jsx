@@ -43,6 +43,15 @@ const organizations = [
     published: true
   },
   {
+    title: "✈️ Reltron Airlines — Fly the Astralis Line",
+    description: "An overview of Reltron Airlines, the premier interplanetary and international carrier of Reltronland, renowned for its clarity-driven service, advanced AI navigation, and commitment to elevating the travel experience across the Astralis Line.",
+    slug: "reltron-airlines",
+    image: "/images/reltron-airlines.webp",
+    date: "2025-09-08",
+    published: true,
+    author: "Rei Reltroner",
+  },
+  {
     title: "💱 Reltronland Financial Ecosystem: Institutions Beyond Survival",
     description: "An overview of Reltronland's advanced financial institutions—AFRI, RIDA, SAVA, and CERA—designed to replace outdated models like IMF and World Bank through meritocratic consciousness, economic clarity, and sovereign AI governance.",
     slug: "reltronland-financial-institutions",

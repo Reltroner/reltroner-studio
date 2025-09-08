@@ -231,6 +231,7 @@ export default function CommandPalette() {
     { name: "📈 RXS 500 Index: Reltronland Exchange of Sentience", path: "/organizations/rxs-500" },
     { name: "🍔 ByteBite — Reltronland's Largest Fast Food Network", path: "/organizations/bytebite" },
     { name: "🏦 Clarity Bank of Reltronland (CBR)", path: "/organizations/clarity-bank-of-reltronland" },
+    { name: "✈️ Reltron Airlines — Fly the Astralis Line", path: "/organizations/reltron-airlines" },
     // Places
     { name: "Erterna Ruin", path: "/places/erterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },
@@ -350,7 +351,7 @@ export default function CommandPalette() {
     { name: "🏛️ Reltronland Administrative Naming Rules", path: "/laws/reltronland-administrative-naming-rules"},
     { name: "Astralis Doctrine – No Donation Policy", path: "/laws/astralis-doctrine-no-donation"},
     { name: "🛡️ RAID-1: Anti-Idleness Division of Reltronland", path: "/laws/raid1-reltronland"},
-    { name: "📜 Twin Digital Accord (991 BAC)", path: "/laws/twin-digital-accord"},
+    { name: "📜 Twin Digital Accord (966 BAC)", path: "/laws/twin-digital-accord"},
 
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

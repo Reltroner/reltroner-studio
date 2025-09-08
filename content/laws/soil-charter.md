@@ -29,13 +29,6 @@ published: true
 - Every landholder is a **temporary steward**, not a permanent owner.
 - Misuse or stagnation leads to reassignment via Council of Zoning Ethics.
 
-### Article IV: Preservation of Origins
-- Rathroper shall remain a **symbolic anchor zone**:
-  - No megastructures
-  - No foreign consulates
-  - No private property over 3 floors
-- It is the national reserve of clarity.
-
 ---
 
 ## 🔧 Sentient Harmony Protocols

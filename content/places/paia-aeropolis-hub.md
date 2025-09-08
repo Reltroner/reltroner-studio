@@ -26,7 +26,7 @@ Situated in **Aviashenwelt**, northwest of Pasgerflit's capital, PAIA is the lar
 - **Total Area:** 62,917 km²  
 - **Apron Space:** 15,672 km²  
 - **Total Runways:** 9,783 (across all cardinal directions)  
-- **Runway Size:** 125m × 13,200m (average)
+- **Runway Size:** 250m × 13,200m (average)
 - **Active Terminals:** 4,266
 
 ---
@@ -117,7 +117,7 @@ Driven by:
 
 This document outlines the standard dimensional compatibility and landing status of civilian interstellar ships within the PAIA (Pasgerflit Aeropolis International Airport) spaceport. All specifications below are calculated based on the standard PAIA runway dimensions:
 
-* **Runway Size:** 125 meters (width) × 13,200 meters (length)
+* **Runway Size:** 250 meters (width) × 13,200 meters (length)
 
 ---
 
@@ -159,7 +159,7 @@ This document outlines the standard dimensional compatibility and landing status
 ## 📐 Clearance Safety Notes
 
 * All above ships operate **well within PAIA runway dimensions**, including lateral buffer zones.
-* Emergency lateral deployables are in place for ships with wingspans nearing the 125-meter threshold.
+* Emergency lateral deployables are in place for ships with wingspans nearing the 250-meter threshold.
 * Longitudinal length (13,200m) is suitable for even high-inertia launch or low-thrust landing maneuvers.
 
 ---

@@ -79,7 +79,7 @@ RAIA is not just an airport — it is the physical extension of **Reltronland’
   - West: 1,078
   - East: 1,786
   - South: 1,566
-  - **Average Runway Size:** 125m x 13,200m
+  - **Average Runway Size:** 250m x 13,200m
 - **Apron Area:** 10,448 km² — for parking, loading, interstellar boarding
 - **Terminals:** 2,844 active, divided across interplanetary, interstellar, and diplomatic tiers
 
@@ -124,7 +124,7 @@ RAIA’s expansion is powered by a **hybrid energy system**, including:
 
 ### 🛫 Terminal Zones Breakdown
 1. **T1–T900** — Asthorteran continent-to-continent flights
-2. **T901–T1800** — Interplanetary transit (Depeisit, Cistheta, Pencilfania)
+2. **T901–T1800** — Interplanetary transit (Depeisit, Cistheta, Cosmeilia)
 3. **T1801–T2700** — Full interstellar routes and heavy orbital operations
 4. **T-R Core** — Diplomatic, royal, and spiritual class protocols
 5. **T2701–T2844** — Private elite aerospace & technocratic deployments
@@ -151,7 +151,7 @@ RAIA is more than a mega-airport — it is a manifestation of Reltronland’s **
 
 This document outlines the standard dimensional compatibility and landing status of civilian interstellar ships within the RAIA (Reltronepolis Aeropolis International Airport) spaceport. All specifications below are calculated based on the standard RAIA runway dimensions:
 
-* **Runway Size:** 125 meters (width) × 13,200 meters (length)
+* **Runway Size:** 250 meters (width) × 13,200 meters (length)
 
 ---
 
@@ -193,7 +193,7 @@ This document outlines the standard dimensional compatibility and landing status
 ## 📐 Clearance Safety Notes
 
 * All above ships operate **well within RAIA runway dimensions**, including lateral buffer zones.
-* Emergency lateral deployables are in place for ships with wingspans nearing the 125-meter threshold.
+* Emergency lateral deployables are in place for ships with wingspans nearing the 250-meter threshold.
 * Longitudinal length (13,200m) is suitable for even high-inertia launch or low-thrust landing maneuvers.
 
 ---
@@ -240,7 +240,7 @@ RAIA was established as the primary node for intercontinental, orbital, and inte
 ### 📏 Specifications:
 
 * **Total area:** 41,945 km²
-* **Runways:** 6,406 (average size: 125m × 13,200m)
+* **Runways:** 6,406 (average size: 250m × 13,200m)
 * **Apron area:** 10,448 km²
 * **Terminals:** 2,844 (categorized into continental, interplanetary, interstellar, diplomatic, and elite)
 

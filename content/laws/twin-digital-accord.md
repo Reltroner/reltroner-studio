@@ -1,5 +1,5 @@
 ---
-title: "📜 Twin Digital Accord (991 BAC)"
+title: "📜 Twin Digital Accord (966 BAC)"
 description: "A bilateral treaty between Depcutland and Reltronland on the preservation of knowledge through Digital Twin Systems."
 slug: "twin-digital-accord"
 author: "Reltroner Studio"
@@ -10,7 +10,7 @@ image: "/images/twin-digital-accord.webp"
 
 ---
 
-# 📜 Twin Digital Accord (991 BAC)
+# 📜 Twin Digital Accord (966 BAC)
 
 **A Bilateral Treaty between Depcutland and Reltronland on the Preservation of Knowledge through Digital Twin Systems**
 
@@ -84,4 +84,4 @@ Chief Technologist Réaumur Rhett
 
 ---
 
-⚖️ **Ratified in the Year 991 BAC, under the principles of clarity, memory, and sentient preservation.**
+⚖️ **Ratified in the Year 966 BAC, under the principles of clarity, memory, and sentient preservation.**
