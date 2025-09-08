@@ -28,7 +28,7 @@ The airline is designed to connect the **planet Asthortera** to **interstellar r
 
 ### Main Routes
 - **Interstellar:** Depeisit Prime, Cosmeilia High-Orbit, Cistheta Capitol  
-- **Asthorteran Intercontinental:** Hargenbor Bay, Scotpaders (Stelpadland), Paintreist (Pencilfania)  
+- **Asthorteran Intercontinental:** Aviashenwelt (Pasgerflit), Aurorasia (Aurastelia), Scotpaders (Stelpadland), Paintreist (Pencilfania)  
 - **Orbital Shuttle:** RAIA ↔ Space Elevators & Orbital Ladders  
 - **Cargo Frontier:** Reltronland depots at eastern & western frontiers
 
