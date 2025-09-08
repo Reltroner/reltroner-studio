@@ -38,7 +38,7 @@ The airline is designed to connect the **planet Asthortera** to **interstellar r
 - **Reltron Diplomatic Services (RDS)** — T-R Core protocols, royal & spiritual  
 
 ### Alliances
-**Clarity Sky Network (CSN)** — partners with Cosmeilia Air, Cistheta Lines, Depeisit Stellar Transit.
+**Clarity Sky Network (CSN)** — partners with Cosmeilia Air, Cistheta Lines, Depeisit Stellar Transit, Pasgerian Airlines.
 
 ---
 
