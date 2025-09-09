@@ -230,7 +230,7 @@ Reltronland’s economy is built not on fantasy, but on:
 * **Total GDP**: \$REL 7,327,217,475,000,000,000 (In USD (nominal): \~\$834 quintillion USD)
 * **Gross National Income (GNI) per Capita:** \$REL8,569,845 — Most of this value is not realized in physical consumption but exists in digital asset growth, sovereign AI royalties, and trust-fund mechanisms built into national financial architecture.
 * **CO2 Emissions per Capita:** 4.3 metric tons *(offset-adjusted)* — Reltronland employs an interplanetary carbon offset system and self-regulating AI-based emission suppression programs, enabling a densely populated civilization to maintain a low effective emission footprint.
-* **Gini Coefficient:** 0.38 (moderate income inequality)
+* **Gini Coefficient:** 0.39 (moderate income inequality)
 * **Inflation Rate:** 0.3% — regulated by a sovereign AI fiscal matrix
 * **Unemployment Rate:** almost 0% — every sentient is assigned purpose-aligned labor regardless of monetary income
 

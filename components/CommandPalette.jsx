@@ -123,7 +123,7 @@ export default function CommandPalette() {
     { name: "What Happens When a Reltronland Quadrillionaire Lands on Earth?", path: "/blog/reltronland-wealth-vs-earth" },
     { name: "The Elite and the Illusion of Forecasting: A Red Pill Essay", path: "/blog/illusion-of-forecasting" },
     { name: "Real Cost Hidden in ERP Systems: A Developer’s Hard Lesson", path: "/blog/real-cost-hidden-in-erp" },
-    { name: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid", path: "/blog/midnight-awakening-field-study" },
+    //{ name: "🕯️ First Encounter: Midnight Awakening in the KKN Masjid", path: "/blog/midnight-awakening-field-study" },
     { name: "I Saw the Invisible Darkness", path: "/blog/i-saw-the-invisible-darkness" },
     { name: "Narrative Comparison: Puss in Boots (2022) vs Reltroner Studio", path: "/blog/puss-in-boots-vs-reltroner" },
     { name: "🌍 Two Paths of Birth: Switzerland vs Indonesia", path: "/blog/birthplace-reflection" },

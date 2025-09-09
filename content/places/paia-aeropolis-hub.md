@@ -8,6 +8,9 @@ date: "2025-04-24"
 published: true
 ---
 
+![paia-aeropolis-hub1](/images/paia-aeropolis-hub1.webp)
+![paia-aeropolis-hub2](/images/paia-aeropolis-hub2.webp)
+
 ---
 
 # ✈️ PAIA — Pasgerflit Aeropolis International Airport Hub
