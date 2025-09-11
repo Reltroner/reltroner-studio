@@ -53,6 +53,16 @@ const events = [
     published: true
   },
   {
+    title: "⚔️ Beluftner–Cosmeilia Conflict (with Kalgered & Cenrestier)",
+    slug: "beluftner-cosmeilia-conflict",
+    description: "The first great resonance clash between Beluftner and Cosmeilia, with Kalgered and Cenrestier drawn into the struggle. A war of frequencies, neutrality, and memory that foreshadowed the Abyss.",
+    author: "Rei Reltroner",
+    date: "2025-09-10",
+    image: "/images/beluftner-cosmeilia-conflict.webp",
+    tags: ["timeline", "beluftner", "cosmeilia", "kalgered", "cenrestier", "history"],
+    published: true
+  },
+  {
     title: "Reltroner: The Boy Who Dropped Out to Build a Civilization",
     description: "From failure to foundation. How dropping out became the first brick of Astralis Pinnacle and the birth of Reltroner Studio.",
     slug: "reltroner-dropout-manifesto",

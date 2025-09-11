@@ -35,7 +35,7 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 
 **4757 BAC** — *Beluftner Expansion*
 - Beluftner culture spreads into what will become Reltronland and Depcutland.
-- Reltronland: a fertile valley. Depcutland: lowland forests to the northwest.
+- Reltronland: a great green plain valley. Depcutland: lowland forests to the northwest.
 
 ---
 

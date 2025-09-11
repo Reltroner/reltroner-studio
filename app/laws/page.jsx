@@ -250,7 +250,7 @@ const laws = [
     tags: ["Reltronland", "Red Pill Doctrine", "Anti-Idleness", "Meritocracy", "Productivity Enforcement"]
   },
   {
-    title: "📜 Twin Digital Accord (991 BAC)",
+    title: "📜 Twin Digital Accord (966 BAC)",
     description: "A bilateral treaty between Depcutland and Reltronland on the preservation of knowledge through Digital Twin Systems.",
     slug: "twin-digital-accord",
     author: "Reltroner Studio",
@@ -258,6 +258,15 @@ const laws = [
     published: true,
     image: "/images/twin-digital-accord.webp",
     tags: ["digital twin", "knowledge preservation", "depcutland", "reltronland", "accord"]
+  },
+  {
+    title: "🏛️ Clarity Politics of Reltronland",
+    description: "A DAO-based political framework where governance is determined by citizens with SDI ≥ 0.990, ensuring meritocratic, depersonalized, and future-oriented decision making.",
+    slug: "clarity-politics-reltronland",
+    author: "Reltroner Studio",
+    date: "2025-09-09",
+    published: true,
+    image: "/images/clarity-politics-reltronland.webp"
   }
   
   // Tambahkan lebih banyak Law di masa depan...

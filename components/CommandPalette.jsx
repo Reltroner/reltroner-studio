@@ -200,6 +200,7 @@ export default function CommandPalette() {
     { name: "Reflections in Drawcia – A Post-Pinnacle Dialogue", path: "/events/reflections-in-drawcia" },
     { name: "🌍 World Population Day 2025: Reltronland Edition", path: "/events/world-population-day-reltronland" },
     { name: "🚧 The Great Clearance of 963 BAC — Reltronepolis", path: "/events/great-clearance-963bac" },
+    { name: "⚔️ Beluftner–Cosmeilia Conflict (with Kalgered & Cenrestier)", path: "/events/beluftner-cosmeilia-conflict" },
 
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
@@ -352,6 +353,7 @@ export default function CommandPalette() {
     { name: "Astralis Doctrine – No Donation Policy", path: "/laws/astralis-doctrine-no-donation"},
     { name: "🛡️ RAID-1: Anti-Idleness Division of Reltronland", path: "/laws/raid1-reltronland"},
     { name: "📜 Twin Digital Accord (966 BAC)", path: "/laws/twin-digital-accord"},
+    { name: "🏛️ Clarity Politics of Reltronland", path: "/laws/clarity-politics-reltronland"},
 
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

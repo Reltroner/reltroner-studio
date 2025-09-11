@@ -753,15 +753,35 @@ Her vigilance is not soft diplomacy — it is a calculated act of **existential 
 
 ---
 
-## ✨ Summary Table
+## ✨ Aurastelia vs 🏙 Reltronland — Strategic Aspects
 
-| **Aspect** | **Aurastelia** | **Reltronland** |
-|------------|----------------|-----------------|
-| **Spiritual Role** | Resonance & purification | Clarity & decision-making |
-| **Vulnerability** | Needs external structure | Needs emotional stability |
-| **Threat** | Aurora corruption via abyss | Systemic collapse via illusion |
-| **What Valethra Provides** | Conscious harmony buffer | Psychic pressure stabilization |
-| **Why it Matters** | Prevents collapse of SDI web | Maintains Astralis Pinnacle’s supremacy |
+### 🕊 Spiritual Role
+- **Aurastelia:** Resonance & purification.  
+- **Reltronland:** Clarity & decision-making.  
+
+---
+
+### ⚠️ Vulnerability
+- **Aurastelia:** Needs external structure.  
+- **Reltronland:** Needs emotional stability.  
+
+---
+
+### 👿 Threat
+- **Aurastelia:** Aurora corruption via abyss.  
+- **Reltronland:** Systemic collapse via illusion.  
+
+---
+
+### 👑 What Valethra Provides
+- **For Aurastelia:** Conscious harmony buffer.  
+- **For Reltronland:** Psychic pressure stabilization.  
+
+---
+
+### 🌐 Why it Matters
+- **Aurastelia:** Prevents collapse of the SDI web.  
+- **Reltronland:** Maintains Astralis Pinnacle’s supremacy.  
 
 ---
 
