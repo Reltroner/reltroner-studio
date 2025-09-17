@@ -258,6 +258,7 @@ export default function CommandPalette() {
     { name: "🕳️ Nytherion Abyss Temple — The Church of Still Waters", path: "/places/nytherion-temple" },
     { name: "🛡️ Clarity Quarantine Network — Isolation Against the Abyss", path: "/places/clarity-quarantine-network" },
     { name: "🏙️ Retro District — Heritage Skyscraper Zone of Reltronepolis", path: "/places/retro-district" },
+    { name: "🏙️ R Block District — Youth & Subculture Hub of South Reltronepolis", path: "/places/r-block-district" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },

@@ -256,7 +256,7 @@ The creative spine corridor of Reltronepolis, linking Reltroner Studio District 
 ---
 
 ## 📍 Overview
-The **Hyperloop Corridor 1** is the **cultural and creative lifeline** of Reltronepolis, connecting the **Reltroner Studio District (South Reltronepolis)** with the **Tron Square District**, culminating in **Reltronepolis Central Station**.  
+The **Hyperloop Corridor 1** is the **cultural and creative lifeline** of Reltronepolis, connecting the **Reltroner Studio District (South Reltronepolis)** with the **World Capital District Station**, culminating in **Reltronepolis Central Station**.  
 
 - **Total Length:** ~2,320 km  
 - **Total Stations:** ~460 nodes (average 5 km spacing)  
@@ -291,13 +291,15 @@ The **Hyperloop Corridor 1** is the **cultural and creative lifeline** of Reltro
 7. **Greenhouse Garden South Station**  
    Massive artificial greenhouse garden integrated with public transit and recreation.  
 
-8. **Reltronepolis Cultural Gateway Station**  
+8. **R Block Station**  
+
+9. **Reltronepolis Cultural Gateway Station**  
    Entry point to World Capital — decorated with Astralis Pinnacle murals.  
 
-9. **World Capital District Station**  
+10. **World Capital District Station**  
    Multinational company hub, AI-managed pedestrian super-core.  
 
-10. **Reltronepolis Central Station**  
+11. **Reltronepolis Central Station**  
     The monumental terminus — **72 km², 1,440 platforms**, the heart of sentient mobility.  
 
 ---

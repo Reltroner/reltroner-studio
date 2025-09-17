@@ -55,12 +55,12 @@ Instead, its sentient civilizations are defined by **divergent yet deeply meanin
 
 ---
 
-## 💠 Aurora Sancta — *Faith of Light and Silence*
+## 🌌 Aurora Sancta — *Faith of Light and Silence*
 
 - **Origin:** Aurastelia  
 - **Essence:** Resonance, clarity, peace without performance  
 - **Core Principle:** *Let the light reveal you, but let no pride grow within.*  
-- **Emblem:** 💠 / 🕊️  
+- **Emblem:** 🌌 / 🕊️  
 - **Pillars:**  
   - Inner stillness  
   - Emotional clarity  
@@ -74,12 +74,12 @@ Instead, its sentient civilizations are defined by **divergent yet deeply meanin
 
 ---
 
-## ⚖️ Depcutland Formal Doctrine — *Elegant Meritocracy*
+## 📖 Depcutland Formal Doctrine — *Elegant Meritocracy*
 
 - **Origin:** Depcutland  
 - **Essence:** Classical structure, institutional refinement, merit through etiquette  
 - **Core Principle:** *Order is not oppression. Discipline is not weakness.*  
-- **Emblem:** ⚖️  
+- **Emblem:** 📖
 - **Pillars:**  
   - Politeness  
   - Literacy  

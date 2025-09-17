@@ -239,6 +239,15 @@ const places = [
     author: "Reltroner Studio",
     published: true,
     image: "/images/retro-district.webp"
+  },
+  {
+    title: "🏙️ R Block District — Youth & Subculture Hub of South Reltronepolis",
+    description: "Known as the 'Block R of Reltronepolis,' R Block District is the vibrant epicenter of youth culture, subcultures, and night economy in South Reltronepolis.",
+    slug: "r-block-district",
+    author: "Reltroner Studio",
+    date: "2025-09-17",
+    published: true,
+    image: "/images/r-block-district.webp"
   }
 ];
 
