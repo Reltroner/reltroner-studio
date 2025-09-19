@@ -306,6 +306,7 @@ export default function CommandPalette() {
     { name: "Astralis Doctrine: The Philosophy of Suffering and Sustainability", path: "/philosophies/astralis-philosophy-of-suffering-and-sustainability" },
     { name: "Financial Discipline Manifesto — The 500K Lesson", path: "/philosophies/the-500k-lesson" },
     { name: "Compounding as a Cheat Code", path: "/philosophies/compounding-as-a-cheat-code" },
+    { name: "📊 Agile vs Waterfall — Worldbuilding Analogy", path: "/philosophies/agile-vs-waterfall-analogy" },
 
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },
