@@ -52,7 +52,7 @@ published: true
 ---
 
 ### 🧠 Core Facilities
-- **Aurora Platform Dome** — Chill zone with ambient sky simulation
+- **Reltronic Transit Atrium** — Chill zone with ambient sky simulation
 - **Clarity Civic Forum** — Where transport meets diplomacy & public policy
 - **Cultural Transit Museum** — Aesthetic history of sentient movement
 - **Transit Capsule Hotel** — Free sleeping pods for eligible citizens

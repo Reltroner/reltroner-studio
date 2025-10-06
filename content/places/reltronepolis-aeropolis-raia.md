@@ -1,6 +1,6 @@
 ---
 title: "✈️ RAIA — Reltronepolis Aeropolis International Airport"
-description: "Reltronland’s primary spaceport for planetary and interstellar travel, seamlessly linked with RCS and powered by hybrid antimatter and aurora systems."
+description: "Reltronland’s primary spaceport for planetary and interstellar travel, seamlessly linked with RCS and powered by hybrid antimatter and Astralis-grid systems.."
 slug: "reltronepolis-aeropolis-raia"
 layout: infrastructure
 image: "/images/reltronepolis-aeropolis-raia.webp"
@@ -58,7 +58,7 @@ RAIA is the **primary planetary and interstellar mobility hub** for Reltronland,
 ### 🧠 Technological Features
 - **Sentient Flight Management AI** — Harmonizes energy allocation, biosign detection, and trajectory regulation
 - **Clarity Gate ID System** — Multi-dimensional ID verification for citizens, migrants, and diplomats
-- **Aurora Departure Ring** — Emotional light modulation dome for pre-launch focus and balance
+- **Astralis Departure Ring** — Emotional light modulation dome for pre-launch focus and balance
 
 ---
 
@@ -101,7 +101,7 @@ RAIA is not just an airport — it is the physical extension of **Reltronland’
   88,000+ per hemisphere terminal
 
 - **Energy Core Activation:**  
-  Antimatter Core + Aurora + Satellite Solar Reflection Grid
+  Antimatter Core + Astralis Grid + Satellite Solar Reflection Towers.
 
 ---
 
@@ -110,7 +110,7 @@ RAIA is not just an airport — it is the physical extension of **Reltronland’
 RAIA’s expansion is powered by a **hybrid energy system**, including:
 
 - **Antimatter Core Grid** — housed beneath RAIA for maximum gravitational stability
-- **Aurora Streamlining Conduit** — extracting spiritual-kinetic charge from Asthortera’s magnetosphere
+- **Astralis Streamlining Conduit** — clarity-based kinetic modulation and neural equilibrium
 - **Orbital Solar-Reflector Satellites** — artificial mirrors in geosynchronous orbit that redirect:
   - **Sunlight concentration**
   - **Solar flare energy bursts**
@@ -121,7 +121,7 @@ RAIA’s expansion is powered by a **hybrid energy system**, including:
 ### 🧠 AI & Automation Systems
 - **Reltronic Mobility Overseer (RMO)** — AI hub coordinating planetary and interstellar flow
 - **Zero-Wait Scan Gates** — Boarding zones that eliminate queue time
-- **Emotion-Aware Boarding Pods** — Sentient-regulated zone entry
+- **Emotion-Aware Boarding Pods** — Calibrated via Reltronic clarity network, not aurora resonance.
 - **Spatial-Time Compression Corridors** — Walk-through time acceleration within terminals
 
 ---
@@ -136,7 +136,7 @@ RAIA’s expansion is powered by a **hybrid energy system**, including:
 ---
 
 ### 🛰️ Advanced Features
-- **Aurora Departure Ring** — Calm dome modulating emotions for long-haul flights
+- **Astralis Departure Ring** — Calm dome modulating emotions for long-haul flights
 - **Gravity Null Pods** — Passenger adjustment cells for interdimensional adaptation
 - **Wormgate R&D Sectors** — Not open to public; used for next-gen spatial routing experiments
 
@@ -286,10 +286,10 @@ The corridor ends in a fully automated **Ship Boarding Dock**, where the Reltron
 ## 🔋 Energy Architecture
 
 * **Antimatter Core Grid** for base power
-* **Aurora Streamlining Conduit** for emotional balance + kinetic modulation
+* **Astralis Streamlining Conduit** clarity-based kinetic modulation and neural equilibrium.
 * **Orbital Solar-Reflector Satellites** feeding **Photon Absorption Towers**
 
-This hybrid system ensures a **non-stop power loop**, balancing physical performance and emotional equilibrium of personnel and passengers.
+This hybrid system ensures a **non-stop power loop**, balancing physical performance and sentient equilibrium of personnel and passengers.
 
 ---
 
@@ -408,7 +408,7 @@ Its **Grand Clarity Council** liaison coordinates with:
 
 - **Astralis Temple Inner Sanctum** — For spiritual reconditioning.
 - **Endless Library of Depcutland** — For archival cross-referencing.
-- **Aurora Sancta Citadels** — For emotional recovery cycles.
+- **Aurora Sancta Citadels (Operated by Aurastelia, integrated via diplomatic access only)** — For emotional recovery cycles.
 
 > *"Above the city, before the streets — RAIA stands between illusion and entry."*
 

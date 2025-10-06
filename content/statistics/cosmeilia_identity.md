@@ -17,11 +17,11 @@ Cosmeilia is a planet unlike any other—rooted in cosmic elegance and spiritual
 
 ## 🌠 Core Identity
 - **SDI (Sentient Development Index):** `0.907 / 1.000`
-- **Dominant Population:** Cosmeilia-Human Mixed (cosmic aesthetic sentient lineage)  
+- **Dominant Population:** Cosmeilia-Human (cosmic aesthetic sentient lineage)  
 - **Total Sentient Population:** ~3.7 trillion  
 
 ### 🧬 Population Composition
-- 85% Cosmeilia-Human Mixed  
+- 85% Cosmeilia-Human  
 - 5% Others Cosmeilian Sentients  
 - 4% Immigrants from Asthortera  
 - 3% Immigrants from Depeisit  
