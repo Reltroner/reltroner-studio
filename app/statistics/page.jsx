@@ -147,6 +147,15 @@ const statistics = [
     date: "2025-06-28",
     published: true,
     image: "/images/hyperspace-energy-model-with-tetration.webp"
+  },
+  {
+    title: "Asthortera Data Analytics Notebook",
+    author: "Rei Reltroner",
+    description: "A Jupyter-based data analytics project exploring the fictional planetary demographics and economic indicators of Asthortera using Python, pandas, NumPy, and Matplotlib.",
+    published: true,
+    image: "/images/asthortera-data-analytics-notebook.webp",
+    date: "2025-10-11",
+    slug: "asthortera-data-analytics-notebook",
   }
 ];
 

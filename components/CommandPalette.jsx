@@ -284,6 +284,7 @@ export default function CommandPalette() {
     { name: "🌍 Asthortera vs Earth: Planetary Comparison", path: "/statistics/asthortera-vs-earth"},
     { name: "📈 Reltroner Project Valuation – 2025", path: "/statistics/reltroner-value-2025"},
     { name: "Hyperspace Energy Model with Tetration", path: "/statistics/hyperspace-energy-model-with-tetration"},
+    { name: "Asthortera Data Analytics Notebook", path: "/statistics/asthortera-data-analytics-notebook"},
     // Philosophies
     { name: "Nytherion Abyss", path: "/philosophies/nytherion-abyss" },
     { name: "Astralis Pinnacle", path: "/philosophies/astralis-pinnacle" },
