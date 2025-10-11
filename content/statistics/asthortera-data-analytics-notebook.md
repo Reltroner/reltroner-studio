@@ -56,4 +56,3 @@ The project belongs to the broader *Asthortera Canon*, a fictional multi-planet 
 
 > “Let Astralis light the unknown.”
 
----
