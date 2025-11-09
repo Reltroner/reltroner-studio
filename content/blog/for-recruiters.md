@@ -68,7 +68,7 @@ I also maintain a dedicated public repository to **document real-world coding er
 **Project:** Reltroner HRM (Human Resource Management)  
 **Tech Stack:** Laravel 12, Blade, Eloquent ORM, MySQL/MariaDB, Tailwind CSS, Railway Cloud, Chart.js, Bootstrap  
 **Role:** System Architect, Lead Developer, DevOps  
-**Year:** May 2024
+**Year:** May 2025
 
 ### **Project Overview**
 Reltroner HRM is a full-featured Human Resource Management system architected, built, and deployed as a solo developer project in under 15 days. This system was engineered not just as an academic exercise, but as a real-world SaaS-grade product that delivers:
