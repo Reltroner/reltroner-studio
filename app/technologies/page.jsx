@@ -61,6 +61,15 @@ const techs = [
     date: "2025-04-23"
   },
   {
+    title: "Twin Digital Atom (TDA) – Hyperdimensional Core Technology of Reltronland",
+    description: "An official, structured blueprint of Twin Digital Atom (TDA), the hyperdimensional simulation, storage, and defense technology that underpins Reltronland as an Apex Civilization.",
+    slug: "tda-twin-digital-atom",
+    image: "/images/tda-twin-digital-atom.webp",
+    author: "Rei Reltroner",
+    date: "2025-11-28",
+    published: true,
+  },
+  {
     title: "🌌 Aurora Synchronization Technologies Across Asthortera",
     description: "Explore how every nation in Asthortera harnesses the aurora—not just as light, but as energy, memory, and consciousness in motion.",
     slug: "aurora-synchronization-tech",
