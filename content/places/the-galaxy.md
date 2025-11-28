@@ -28,7 +28,7 @@ image: "/images/the-galaxy.webp"
 
 ## 🌐 Spatial Quadrants
 
-### 🌀 Central Worlds Belt *(Sentient Development Epicenter)*
+### 🌌 Central Worlds Belt *(Sentient Development Epicenter)*
 
 The heart of the galaxy—rich in civilization, diplomacy, conflict, and innovation. Governed and influenced by the Astralis Pinnacle ideology.
 
@@ -40,7 +40,7 @@ The heart of the galaxy—rich in civilization, diplomacy, conflict, and innovat
 
 ---
 
-#### 🌌 **Cistheta**
+#### 🪐 **Cistheta**
 - **Quadrant:** Western-Central  
 - **Notable Trait:**  
   Hyper-urbanized techno-civilization blending ancestral consciousness with high innovation.

@@ -376,8 +376,8 @@ Cosmic investors, visionary empire-builders, and classified-level industrialists
 * **Total Debt:** 85% of GDP
 * **Creditor Composition:**
 
-  * 95% domestic (citizens, central bank, institutions)
-  * 5% foreign/interplanetary creditors
+  * 55% domestic (citizens, central bank, institutions)
+  * 45% foreign/interplanetary creditors
 * **Debt Maturity Composition:**
 
   * 93% long-term
