@@ -43,7 +43,7 @@ In the vast world of Asthortera, two civilizations rise not as enemies, but as *
 
 ## 🟫 Depcutland — "The Archival Aristocracy"
 - **Philosophy:** Post-Feudal Classicism, Thought Preservation, Structured Aesthetics
-- **Government Type:** Archival-Meritocracy
+- **Government Type:** Archival-Meritocracy (currently)
 - **Capital:** Depsetica
 - **Culture Focus:** Theater, literature, Victorian aesthetics, ceremonial law
 - **Key Symbol:** Robe coats, cravats, classical debate podiums

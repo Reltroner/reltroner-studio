@@ -51,7 +51,7 @@ It is viewed as:
 
 ## 📊 Development Profile
 - **SDI (Sentient Development Index):** `0.921 / 1.000` Among the highest across all inhabited planets
-- **Median Age:** ~40 years
+- **Median Age:** ~42 years
 - **Birth Rate:** Stable, with gradual urban demographic trends and high education standards
 - **Education Systems:** Heavily research-based, with universal access and ethical enforcement
 - **Age Pyramid Shape:** Balanced column — wide in middle age, tapering gradually at top and base

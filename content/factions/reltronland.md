@@ -1,6 +1,6 @@
 ---
 title: "Reltronland"
-description: "The ideological embodiment of Astralis Pinnacle — a disciplined superpower built on meritocracy, sentient development, and the rejection of illusion."
+description: "The ideological embodiment of Astralis Pinnacle — a disciplined apex superpower built on meritocracy, sentient development, and the rejection of illusion."
 image: "/images/reltronland-cover.webp"
 author: "Rei Reltroner"
 date: "2025-04-10"
@@ -27,7 +27,7 @@ symbolizes elite governance, sentient awakening, and the disciplined pursuit of 
 ---
 
 ## 🔺 Faction Classification
-- **Type:** Superpower Nation-Faction
+- **Type:** Apex Superpower Nation-Faction
 - **Governance:** Cyber-Meritocratic Republic
 - **Ideology:** Red Pill Realism, Anti-Illusionism, Growth by Sentient Mastery
 - **Core Belief:** Real success is built through clarity, effort, and long-term self-discipline — not escapism.
