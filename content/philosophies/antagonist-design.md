@@ -1,7 +1,7 @@
 ---
 title: "Antagonist Design Philosophy – Reltroner Studio"
 description: "A blueprint for building antagonists who are philosophical, strategic, and intellectually challenging, ensuring timeless conflict with Reltronland and Astralis Pinnacle."
-slug: "antagonist-design-reltroner"
+slug: "antagonist-design"
 layout: philosophy
 author: "Reltroner Studio"
 date: "2025-10-02"

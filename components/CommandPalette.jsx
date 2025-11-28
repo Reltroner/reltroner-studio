@@ -308,6 +308,8 @@ export default function CommandPalette() {
     { name: "Financial Discipline Manifesto — The 500K Lesson", path: "/philosophies/the-500k-lesson" },
     { name: "Compounding as a Cheat Code", path: "/philosophies/compounding-as-a-cheat-code" },
     { name: "📊 Agile vs Waterfall — Worldbuilding Analogy", path: "/philosophies/agile-vs-waterfall-analogy" },
+    { name: "Antagonist Design Philosophy – Reltroner Studio", path: "/philosophies/antagonist-design" },
+    { name: "Dual Sympathies Doctrine – Reltroner Studio", path: "/philosophies/dual-sympathies-doctrine" },
 
     // Factions
     { name: "Reltronland", path: "/factions/reltronland" },

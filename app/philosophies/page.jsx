@@ -209,6 +209,24 @@ const philosophies = [
     author: "Rei Reltroner",
     date: "2025-09-19",
     published: true
+  },
+  {
+    title: "Antagonist Design Philosophy – Reltroner Studio",
+    description: "A blueprint for building antagonists who are philosophical, strategic, and intellectually challenging, ensuring timeless conflict with Reltronland and Astralis Pinnacle.",
+    slug: "antagonist-design",
+    author: "Reltroner Studio",
+    date: "2025-10-02",
+    published: true,
+    image: "/images/antagonist-design.webp"
+  },
+  {
+    title: "Dual Sympathies Doctrine – Reltroner Studio",
+    description: "A narrative framework ensuring audiences resonate with both protagonists and antagonists, creating endless debates and reflections instead of polarizing fan bases.",
+    slug: "dual-sympathies-doctrine",
+    author: "Reltroner Studio",
+    date: "2025-10-02",
+    published: true,
+    image: "/images/dual-sympathies-doctrine.webp"
   }
 ];
 

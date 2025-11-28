@@ -6,9 +6,10 @@ layout: philosophy
 author: "Reltroner Studio"
 date: "2025-10-02"
 published: true
-image: "/images/dual-sympathies.webp"
+image: "/images/dual-sympathies-doctrine.webp"
 ---
 
+---
 # ⚖️ Dual Sympathies Doctrine – Reltroner Studio
 
 > *“A story dies when the audience only loves one side.  
