@@ -1125,5 +1125,759 @@ In the spirit of Astralis doctrine:
 
 > **“To master the void is to master the self.”**
 
+````md
+---
+title: "TDA & Multireality Operations Protocol – RSC Technical Chapter"
+description: "Internal RSC technical chapter defining the Twin Digital Atom (TDA) multireality framework, operators, command syntax, safety checklists, and failure responses for Astralis Clearance ∆–6 and above."
+image: "/images/tda-multireality-operations.webp"
+author: "Rei Reltroner"
+date: "2025-11-28"
+published: true
+category: "RSC Technical Manual"
+tags:
+  - Twin Digital Atom
+  - Multireality Operations
+  - Reltronland Space Command
+  - Hyperdimensional Warfare
+  - Nytherion Abyss
+  - Astralis Pinnacle
+  - Void Energy Field
+---
+
+# 📘 Technical Chapter — **“TDA & Multireality Operations Protocol”**  
+### *RSC Internal Technical Manual — Astralis Clearance ∆–6 and Above*
+
+This chapter is designed as a **formal, internally consistent, and military-technical** reference for **Reltronland Space Command (RSC)**.
+
+It covers:
+
+- core technical concepts,  
+- mathematical notation,  
+- multireality operators,  
+- example internal commands,  
+- SOPs and security requirements,  
+- safety checklists,  
+- failure modes and mitigation,  
+- and internal operational standards for TDA usage.
+
+This document is suitable to be used **directly as an official RSC chapter** in Reltroner Studio documentation.
+
+---
+
+# 🛡️ Chapter VI — **TDA & Multireality Operations Protocol**  
+### *(Twin Digital Atom Hyperdimensional Framework)*
+
+---
+
+## 1.0 Overview
+
+The **Twin Digital Atom (TDA)** framework is the **highest-order computational and hyperdimensional engine** deployed by **Reltronland Space Command (RSC)**.
+
+TDA does not merely simulate physical reality. It extends into **multireality layers**, allowing RSC to **predict, intervene in, and neutralize threats** across:
+
+- **multiverse branches**,  
+- **multistate outcomes**,  
+- **4D–5D hyperlayers**,  
+- **Nytherion-resonant dimensions**,  
+- and **Abyssal illusion fields**.
+
+TDA is powered by:
+
+- **Void Energy Field** \(V_f\)  
+- **Void-Lattice Crystal Core (VLC)**  
+- **Tetration-based computation** \(a \uparrow\uparrow n\)  
+- **Multi-State Reality Matrix (MSRM)**  
+- **Cross-Layer Mapping Operator** \(\mathcal{M}\)
+
+This chapter defines:
+
+- multireality architecture,  
+- operator and notation definitions,  
+- mapping and intervention commands,  
+- security clearances and constraints,  
+- fail-safes and response procedures.
+
+---
+
+## 2.0 Multireality Architecture
+
+TDA does not operate purely in linear 3D spacetime.  
+All data is structured into **Reality Layers** \(L\):
+
+```math
+L_0, L_1, L_2, \dots, L_N
+````
+
+Where:
+
+* **(L_0)** = baseline 3D spacetime (physical universe),
+* **(L_1–L_N)** = higher-order hyperreal layers (4D–5D state spaces),
+* higher layers encode **potential**, **counterfactual**, **resonant**, or **Abyssal-echo** states.
+
+Each atom scanned by the **Digital Atom Mapper (DAM)** becomes a layer-specific TDA representation:
+
+```math
+\mathrm{TDA}_{L} = (a \uparrow\uparrow n_{L})^{d_{L}} \times R_{L}
+```
+
+Where:
+
+* (a)   = atomic base signature,
+* (n_L) = tetration depth for layer (L),
+* (d_L) = active dimensional factor (4–5D),
+* (R_L) = resonance term (vibration, spin, emotional bleed factor).
+
+All layers combined form the **Reality Stack**:
+
+```math
+\mathrm{RS} = \bigoplus_{L=0}^{N} \mathrm{TDA}_{L}
+```
+
+The **Reality Stack (RS)** is stored and managed inside **MSRM vaults** within **Astralis Colossus Stations**.
+
+---
+
+## 3.0 Operator Set
+
+### 3.1 Mapping Operator — (\mathcal{M}_{L \to L'})
+
+Projects a state from layer (L) to a target layer (L'):
+
+```math
+\mathrm{ProjectedState}_{L'} = \mathcal{M}_{L \to L'}(\mathrm{TDA}_{L})
+```
+
+Primary uses:
+
+* anomaly tracing,
+* echo suppression,
+* counterfactual prediction,
+* Abyssal resonance flattening.
+
+---
+
+### 3.2 Branching Operator — (\mathcal{B}(L))
+
+Generates new potential layers from an existing one:
+
+```math
+L_{\text{new}} = \mathcal{B}(L)
+```
+
+Used for:
+
+* simulating enemy actions,
+* modeling Abyss-infected futures,
+* exploring hyperspace or structural failure scenarios.
+
+---
+
+### 3.3 Collapse Operator — (\mathcal{C}(L))
+
+Stabilizes or prunes a reality layer by collapsing unstable or hostile branches:
+
+```math
+\mathcal{C}(L_k) \Rightarrow L_k^{-}
+```
+
+Used to:
+
+* neutralize Abyssal forks,
+* restore clarity to the stack,
+* collapse chaotic or unbounded timelines.
+
+---
+
+### 3.4 Entanglement Operator — (\mathcal{E}(L_i, L_j))
+
+Links two layers for combined analysis and coherence tracking:
+
+```math
+\mathcal{E}(L_i, L_j) = \text{cross-layer coherence state}
+```
+
+Required for:
+
+* complex swarm or multi-fleet operations,
+* synchronized multi-theater engagements,
+* double-blind Abyss detection involving parallel states.
+
+---
+
+### 3.5 Hyperparallel Matrix — HTM
+
+Represents parallel computation across multiple layers:
+
+```math
+\mathrm{HTM} = \prod_{i} \left(a \uparrow\uparrow n_i\right)
+```
+
+Used for:
+
+* fleet-scale tactical simulations,
+* multi-state engagement prediction,
+* **TronCore** battle planning.
+
+---
+
+## 4.0 Standard TDA Commands (Internal RSC Syntax)
+
+Below are **canonical internal command formats** used in RSC systems.
+These may be referenced verbatim in operational manuals, simulators, or training modules.
+
+---
+
+### 4.1 Mapping Projection
+
+```text
+CMD.MAP L0 -> L3
+PARAM: atom_sig=HF2247-R, delta_t=48h
+FLAG: predictive_mode=TRUE
+```
+
+**Effect:**
+Projects the current state of an object from baseline layer (L_0) into layer (L_3), simulating a 48-hour future projection.
+
+---
+
+### 4.2 Abyss-Echo Scan
+
+```text
+CMD.SCAN.ABYSS L1-L7
+THRESHOLD: resonance_bleed > 0.4%
+MODE: cross-layer entanglement
+```
+
+Performs a cross-layer Abyss signature scan from (L_1) to (L_7), flagging resonance bleed exceeding 0.4%.
+
+---
+
+### 4.3 Collapse Intervention
+
+```text
+CMD.COLLAPSE L4
+REASON: unstable_branch | abyssal_entry_detected
+AUTH: ∆–6 ADS
+```
+
+Collapses layer (L_4) due to instability or confirmed Abyssal intrusion.
+Requires **Astralis Clearance ∆–6** (ADS or equivalent).
+
+---
+
+### 4.4 Multi-State Fleet Prediction
+
+```text
+CMD.HTM.SIM FLEET OMEGA-27
+PARAM: n_layers=6
+RETURN: optimal_vector, chaos_prob
+```
+
+Runs fleet-level Hyperparallel Tetration Matrix simulations across 6 layers.
+Returns an **optimal maneuver vector** and associated **chaos probability**.
+
+---
+
+### 4.5 Digital Twin Medical Repair
+
+```text
+CMD.DT.REPAIR pilot_id=EI-2231
+LAYER: L2-L5
+ACTION: microtherapy_compute
+AUTH: ∆–4 SDM
+```
+
+Runs a Digital Twin–based microtherapy computation for pilot **EI-2231**, across (L_2)–(L_5).
+Requires **∆–4 SDM** (Senior Digital Medic) authorization.
+
+---
+
+## 5.0 Security Protocols & Clearance
+
+### 5.1 Clearance-to-Operator Mapping
+
+```
+
+| Level | Access Scope                      | Examples            |
+| ----- | --------------------------------- | ------------------- |
+| ∆–9   | Full TDA override                 | ASE only            |
+| ∆–8   | Multireality modification         | High Void Council   |
+| ∆–7   | Branching/Mapping above (L_4)     | Sector Admirals     |
+| ∆–6   | Collapse operations, (L_2–L_4)    | ADS, Strategos      |
+| ∆–5   | Analysis, non-destructive mapping | Division Commanders |
+| ∆–4   | Medical Digital Twin operations   | SDM                 |
+| ∆–3   | Tactical HTM usage                | Wing Leaders        |
+| ∆–2   | Non-destructive read-only access  | Cadets              |
+| ∆–1   | No TDA system access              | Civilians           |
+
+```
+
+---
+
+## 6.0 Safety Checklist (Mandatory)
+
+### 6.1 Before Running Any TDA Operation
+
+* [ ] Voidfield stability ≥ **99.998%**
+* [ ] VLC Core temperature drift < **0.004 K**
+* [ ] MSRM layer coherence > **0.97**
+* [ ] Emotional bleed < **0.5%** (crew + AI)
+* [ ] No Abyssal echo present in (L_3+)
+* [ ] Operator clarity rating ≥ **0.92**
+* [ ] Tribunal lock status verified for ∆–6+ operations
+
+---
+
+### 6.2 For Mapping (\mathcal{M}) Operations
+
+* [ ] Confirm layer boundaries and target range
+* [ ] Prevent accidental cross-layer contamination paths
+* [ ] Ensure ∆–6 approval for (L \geq 4) operations
+* [ ] Verify **REC (Recursive Error Collapse)** is active
+* [ ] Abort if resonance mismatch exceeds **3σ** from baseline
+
+---
+
+### 6.3 For Collapse (\mathcal{C}) Operations
+
+* [ ] Justification documented (Abyss signature / instability proof)
+* [ ] Dual authorization present (∆–6 + AI-Command)
+* [ ] Confirm no civilian Digital Twins share entangled layers
+* [ ] Post-collapse integrity audit of **Reality Stack (RS)** completed
+
+---
+
+### 6.4 For Fleet Hyperparallel Simulation (HTM)
+
+* [ ] Fleet beacon synchronization verified stable
+* [ ] TronCore AI sentiment within neutral band
+* [ ] Simulation drift < **0.01%** across runs
+* [ ] Confirm absence of Abyssal interference signatures
+
+---
+
+## 7.0 Failure Modes & Response
+
+### 7.1 Cross-Layer Bleedthrough
+
+**Symptoms:**
+
+* unexpected emotional spikes among crew,
+* visual anomalies/hallucinations within TronCore UI,
+* mismatch between (L_1) and (L_2) coherence patterns.
+
+**Actions:**
+
+* trigger: `CMD.COLLAPSE L2`
+* engage **Astralis Mirror Field**,
+* isolate the affected MSRM vault until cleared.
+
+---
+
+### 7.2 Abyssal Fork Bloom
+
+**Symptoms:**
+
+* a new layer (L_k) appears without operator action,
+* rapid increase in resonance factor and emotional bleed.
+
+**Actions:**
+
+* immediate ∆–6 lockdown of relevant sections,
+* dual **collapse + entanglement sever** operations,
+* notify **Nytherion Division** for extended analysis.
+
+---
+
+### 7.3 VLC Core Overload
+
+**Symptoms:**
+
+* Voidfield variance spike beyond acceptable band,
+* D-layer compression instability in logs or telemetry.
+
+**Actions:**
+
+* detach T-Engine from active operations,
+* purge MSRM temporary states,
+* reinitialize **zero-point lattice** before reactivation.
+
+---
+
+## 8.0 Tactical Use Case Example
+
+### 8.1 Scenario — Preemptive Abyssal Infiltration Intercept
+
+1. **Voidfront Probe VF-50** detects subtle emotional bleed at **0.41%**.
+
+2. DAM computes TDA state:
+
+   ```math
+   S = a \uparrow\uparrow 4
+   ```
+
+3. RSC Command executes:
+
+   ```text
+   CMD.MAP L0 -> L4
+   FLAG: predictive_mode=TRUE
+   ```
+
+4. Layer (L_4) reveals a Shadow-Fork with confirmed Abyssal signature (**0.8%**).
+
+5. Strategos and ADS jointly authorize collapse:
+
+   ```text
+   CMD.COLLAPSE L4
+   AUTH: ∆–6
+   ```
+
+6. Reality Stack stabilizes; no infiltration manifests in baseline (L_0).
+
+---
+
+## 9.0 Closing Statement
+
+> *“He who commands TDA does not command weapons.
+> He commands the architecture of reality itself.”*
+> — *Astralis Void Codex*
+
+Through TDA integration, **Reltronland Space Command** evolves from a purely defensive fleet into a **multireality stabilizer**, capable of defending Reltronland not only in space, but across **all viable versions of existence**.
+
+---
+title: "The Multireality Sovereignty Act of Reltronland"
+description: "Foundational Astralis Codex legislation defining Reltronland’s sovereignty, rights, and responsibilities across all multireality layers (L0–L5), powered by the Twin Digital Atom (TDA) framework."
+image: "/images/multireality-sovereignty-act.webp"
+author: "Rei Reltroner"
+date: "2025-11-28"
+published: true
+category: "Astralis Codex – Legal Framework"
+tags:
+  - Reltronland
+  - Multireality Sovereignty
+  - Astralis Codex
+  - Twin Digital Atom
+  - Nytherion Abyss
+  - Voidfront
+  - Reltronland Space Command
+---
+
+# 📘 **The Multireality Sovereignty Act of Reltronland**  
+### *(Astralis Codex Chapter IV — Sovereignty Across Layers)*
+
+**Issued under:** Astralis Sovereignty Protocol ∆–8  
+**Ratified by:** RSC High Void Council & Reltronland Constitutional Nexus  
+
+---
+
+## §0 — Preamble
+
+Whereas Reltronland has ascended beyond the limitations of three-dimensional governance;  
+Whereas the physical boundaries of the state are insufficient to contain the threats of **Nytherion Abyss**, illusion-based intrusions, and multireality distortions;  
+Whereas the existence of **Twin Digital Atom (TDA)** hyperdimensional computation enables sovereign presence across **potential, counterfactual, and higher-dimensional layers**—
+
+**Therefore, Reltronland hereby codifies its sovereign rights across all dimensional layers and multireality strata that intersect, correspond, or converge with the Reltronland State Territory.**
+
+> “Kedaulatan bukan hanya tanah tempat kita berdiri —  
+> tetapi seluruh realita yang memastikan kita dapat tetap berdiri.”  
+> *“Sovereignty is not only the ground beneath our feet —  
+> but every reality that allows us to remain standing.”*  
+> — *Astralis Preamble Codex*
+
+---
+
+## §1 — Definitions
+
+### 1.1 “Dimensional Sovereignty”
+
+The absolute right of Reltronland to regulate, secure, and preserve reality across **L0 through L5** insofar as these layers intersect with, or are resonantly bound to, its physical territory.
+
+### 1.2 “Reality Layer (L)”
+
+Any defined layer of reality as established by the **TDA Reality Stack**, including but not limited to:
+
+- **L0** → baseline reality (physical 3D spacetime)  
+- **L1–L2** → projected realities (probability layers)  
+- **L3–L4** → counterfactual / hyperlatent layers  
+- **L5** → precursor–metaphysical layer (void adjacency and preformal states)
+
+### 1.3 “TDA Territorial Matrix”
+
+The mathematical representation of Reltronland’s territorial presence across all layers:
+
+```math
+\mathrm{TDA}_{\text{Territory}} = \bigoplus_{L=0}^{N} (a \uparrow\uparrow n_L)^{d_L}
+````
+
+Where:
+
+* (a)   = atomic base signature of the territory,
+* (n_L) = tetration depth per layer,
+* (d_L) = active dimensional factor for layer (L).
+
+### 1.4 “Abyssal Breach”
+
+Any alteration, displacement, or distortion of reality not arising from natural causes, but from **Nytherion Abyss** or its agents, proxies, or derivatives.
+
+---
+
+## §2 — Principles of Multireality Sovereignty
+
+### 2.1 Territorial Supremacy Across Layers
+
+Reltronland holds full authority to assert sovereignty over any layer that:
+
+* exhibits resonant correlation with Reltronland’s **L0 territory**,
+* manifests or hosts potential existential threats,
+* contains structural value for the stability, security, or continuity of Reltronland.
+
+### 2.2 Preemptive Sovereignty
+
+Reltronland retains the right to **enforce sovereignty before a threat manifests in L0** if its echo, precursor pattern, or Abyssal signature is detected in **L1–L5**.
+
+### 2.3 Sovereignty of Stability
+
+Where two or more layers generate conflicting realities affecting Reltronland, **RSC** is empowered to stabilize the stack via:
+
+* the **Collapse Operator** (\mathcal{C}_L),
+* the **Mapping Operator** (\mathcal{M}_{L \to L'}),
+* and **Astralis Anchoring** mechanisms.
+
+---
+
+## §3 — Rights of Reltronland Across Multireality
+
+Reltronland, acting through its recognized institutions, possesses the following rights.
+
+### 3.1 Right to Determine Reality Validity
+
+The right to determine which version of reality is valid and recognized for purposes of:
+
+* political statehood and governance,
+* geography and territorial continuity,
+* chronology and historical narrative,
+* collective memory and cultural preservation,
+* national security and strategic doctrine.
+
+### 3.2 Right to Establish Dimensional Borders
+
+Reltronland’s national borders apply not only to physical space, but also to:
+
+* projection spaces (probability and predictive layers),
+* conditional spaces (scenario-dependent layers),
+* potential spaces (unmaterialized but relevant states),
+* void-adjacent domains (L5 and related precursors).
+
+### 3.3 Right to Defensive Interventions
+
+Reltronland may conduct defensive multireality interventions—without constituting unlawful aggression—when:
+
+* the stability of any sovereign layer is materially threatened,
+* Abyssal or near-Abyssal phenomena are detected,
+* neighboring states are endangered by distortions originating from Reltronland-bound layers,
+* stealth, cross-layer, or memetic threats are present.
+
+### 3.4 Voidfront Enforcement
+
+Reltronland may enforce **no-entry fields** and restricted zones for foreign vessels, entities, or constructs in:
+
+* **L1** hyperspatial corridors,
+* **L2** state-shift lanes,
+* **L3** illusion-prone fields,
+* **L4** void drift lanes and pre-collapse thresholds.
+
+---
+
+## §4 — Responsibilities of Reltronland
+
+### 4.1 Preservation of Reality Integrity
+
+Reltronland is obligated to ensure that:
+
+* layers do not collapse chaotically,
+* distortions do not propagate uncontrollably into other nations or neutral zones,
+* **Nytherion Abyss** does not manipulate multi-layer geopolitics,
+* stability metrics across relevant layers remain above **0.973**.
+
+### 4.2 Neutrality of Public Reality
+
+Civilian life in Reltronland shall be conducted in **L0–L1** only. Citizens must not be exposed to:
+
+* **L3** distortions,
+* **L4** illusions and deep counterfactual overlays,
+* **L5** metaphysical bleed or preformal void adjacency,
+  except under Tribunal-approved emergency conditions.
+
+### 4.3 Ethical Intervention
+
+All multireality operations must adhere to:
+
+* non-invasive principles wherever feasible,
+* non-manipulation of citizen memory except under **∆–8 Tribunal oversight**,
+* codified Astralis ethical standards and internal review.
+
+---
+
+## §5 — TDA Framework for Sovereignty Enforcement
+
+### 5.1 Mapping Operator (\mathcal{M}_{L_0 \to L_k})
+
+Used to **extend, project, or uphold** territorial presence and sovereignty across layers (L_k), especially for:
+
+* threat tracing,
+* preemptive defensive positioning,
+* validation of border integrity in higher layers.
+
+### 5.2 Collapse Operator (\mathcal{C}_L)
+
+Used to **delete, prune, or neutralize** rogue or hostile realities that threaten Reltronland’s sovereignty, provided legal and procedural safeguards are met.
+
+### 5.3 Entanglement Guard (\mathcal{E}(L_i, L_j))
+
+Used to prevent foreign states or hostile forces from manipulating alternative versions of Reltronland’s layers by enforcing:
+
+* secure entanglement boundaries,
+* layer-pair coherence validation,
+* tamper-evident resonance checks.
+
+### 5.4 Sovereign TDA Equation
+
+Sovereignty strength across layers is expressed as:
+
+```math
+\mathrm{Sovereignty}_{\mathrm{RL}} =
+\prod_{L=0}^{N}
+\left[
+(a \uparrow\uparrow n_L)^{d_L} \times R_L \times \mathrm{StableField}(L)
+\right]
+```
+
+Where:
+
+* (a)          = atomic/structural base,
+* (n_L)        = tetration depth for layer (L),
+* (d_L)        = dimensional factor (4–5D),
+* (R_L)        = resonance factor (including Abyssal signal screening),
+* (\mathrm{StableField}(L)) = stability function of the layer.
+
+If **stability** for any given layer falls below the prescribed threshold, that layer is **automatically quarantined** pending RSC and Tribunal review.
+
+---
+
+## §6 — RSC Jurisdiction
+
+### 6.1 Territorial Oversight
+
+**Reltronland Space Command (RSC)** holds full operational authority to:
+
+* guard dimensional borders,
+* secure designated multireality zones,
+* conduct tactical and strategic interventions as needed.
+
+### 6.2 Authority Levels
+
+* **∆–9** → full sovereignty override (state-level existential decisions)
+* **∆–8** → multireality decision-making and legislative interpretation
+* **∆–6** → authority to invoke Collapse / Mapping on sovereign layers
+* **∆–4** → Digital Twin (DT) operations not involving territorial adjustments
+
+### 6.3 Dimensional Enforcement Forces
+
+Designated units responsible for execution and enforcement include:
+
+* **Voidfront Command**,
+* **Nytherion Division**,
+* **Technomind**,
+* **Sentient Recon** and affiliated entities.
+
+---
+
+## §7 — Foreign Relations (Interreality Diplomacy)
+
+Reltronland maintains the right to conduct and formalize **interreality diplomatic relations**.
+
+### 7.1 Treaties Across Layers
+
+Treaties, pacts, and agreements may be defined to apply in **L0 through L5**, with explicit scope per layer where relevant.
+
+### 7.2 Multi-Layer Non-Aggression Pacts
+
+Reltronland may enter into non-aggression frameworks that extend to:
+
+* future-oriented layers,
+* probabilistic and scenario layers,
+* counterfactual branches and experimental layers.
+
+### 7.3 Abyssal Intervention Rights
+
+If neighboring states suffer Abyssal bleed-through via **L2–L5**, Reltronland may, under codified conditions, **stabilize and assist** them **without such actions being deemed aggression**, provided intent and method are defensive and restorative.
+
+---
+
+## §8 — Prohibitions
+
+Reltronland, including all recognized organs and agents, is strictly prohibited from:
+
+### 8.1 Manipulating Civilian Reality
+
+Altering or reconfiguring personal layers associated with citizens (e.g., individual memory layers, personal timelines) without:
+
+* informed consent, and
+* **Astralis Tribunal** approval at the required clearance level.
+
+### 8.2 Using Collapse for Political Gain
+
+Employing the **Collapse Operator (\mathcal{C}_L)** for purely political, factional, or non-existential purposes, including the deletion of undesired but non-threatening realities.
+
+### 8.3 Creating Sovereignty Illusions
+
+Constructing “false layers” or fabricated reality branches solely to misrepresent territorial claims, population counts, or geopolitical advantage.
+
+---
+
+## §9 — Enforcement & Sanctions
+
+### 9.1 Multireality Violations
+
+Violations under this Act include, but are not limited to:
+
+* illegal layer breach or unauthorized traversal,
+* unauthorized mapping or entanglement operations,
+* Abyss-assisted or Abyss-exploiting alterations,
+* deliberate dimensional corruption or tampering with stability metrics.
+
+### 9.2 Sanctions
+
+Sanctions may include:
+
+* loss or downgrading of operational clearance,
+* isolation of implicated layers or nodes,
+* temporary or permanent suspension of TDA access,
+* **Tribunal extradimensional hearing** and potential sentencing.
+
+---
+
+## §10 — Closing Doctrine
+
+> **“Realita bukan garis —
+> tetapi jaringan yang harus kita jaga, lapis demi lapis.”**
+> *“Reality is not a line —
+> but a lattice we must safeguard, layer by layer.”*
+> — *Astralis Sovereignty Codex*
+
+By enactment of this Multireality Sovereignty Act, Reltronland hereby:
+
+* recognizes its sovereignty across all relevant layers of reality,
+* asserts its right to defend itself within the nearest multiverse envelope,
+* rejects all forms of Abyssal penetration across the spectrum,
+* and commits to preserving existential stability for all its citizens.
+
+This document is binding upon:
+
+* **Reltronland Space Command (RSC)**,
+* **Reltronland High Council**,
+* **Astralis Tribunal**,
+* and all dimensional border and enforcement agencies operating under the Reltronland mandate.
+
 ```
 ```
