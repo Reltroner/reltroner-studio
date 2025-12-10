@@ -33,8 +33,8 @@ const characters = [
   },
   {
       title: "Isaac Luminar",
-      role: "Lighting Engineer & Aurora Gateway Architect",
-      description: "A master of light trapped in a city of illusions, Isaac exposes the dark mechanisms behind the brilliance of Lenternow.",
+      role: "The Lighting Man of Inferminte",
+      description: "An extended, lore-consistent character sheet for Isaac Luminar, the Lantern Reformist of Lenternow, detailing his biography, psychology, political position, tech skills, and multi-arc narrative role in the Asthortera universe.",
       slug: "isaac-luminar",
       image: "/images/isaac-luminar.webp",
       quote: "Just because it shines doesn’t mean it saves.",

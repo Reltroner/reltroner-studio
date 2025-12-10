@@ -533,12 +533,12 @@ TDA can simulate multiple configurations or “branches of reality” in paralle
 ## 6) **Hyperparallel Tetration Matrix (HTM)**
 
 ```text
-HTM = Π (a ↑↑ n_i)
+HTM = ∏ (a ↑↑ n_i)
 ```
 
 Where:
 
-* **Π** = product operator across multiple layers,
+* **∏** = product operator across multiple layers,
 * **n_i** = tetration layer count for each distinct reality/state configuration *i*.
 
 **Example:**
@@ -612,7 +612,7 @@ ACT is used to model:
 The **TDA Grand Equation** integrates all the major components of THRM into a single expression, representing the total effective TDA configuration under void energy and multi-state simulation.
 
 ```text
-TDA_total = Π Σ [ (a ↑↑ n_i)^d_i × R_i × V_f ]
+TDA_total = ∏ Σ [ (a ↑↑ n_i)^d_i × R_i × V_f ]
 ```
 
 Where:
@@ -623,7 +623,7 @@ Where:
 * **R_i** = resonance factor of entity *i*,
 * **V_f** = void energy field intensity,
 * **Σ** = sum across atoms, clusters, or subsystems,
-* **Π** = hyperparallel product across independent or parallel reality stacks.
+* **∏** = hyperparallel product across independent or parallel reality stacks.
 
 This Grand Equation enables:
 
@@ -749,7 +749,7 @@ TDA is **not** installed as ordinary software. It is embedded as a **hyperdimens
 We use the core TDA equation:
 
 ```text
-TDA_total = Π Σ [ (a ↑↑ n_i)^d_i × R_i × V_f ]
+TDA_total = ∏ Σ [ (a ↑↑ n_i)^d_i × R_i × V_f ]
 ````
 
 to map **THRM** (Tetration-Hyperdimensional Reltronic Model) into concrete RSC operations.
@@ -795,7 +795,7 @@ to map **THRM** (Tetration-Hyperdimensional Reltronic Model) into concrete RSC o
 * Construct a **Hyperparallel Tetration Matrix (HTM)**:
 
   ```text
-  HTM = Π (a ↑↑ n_i)
+  HTM = ∏ (a ↑↑ n_i)
   ```
 
   across targets, friendly ECM layers, and void-condition layers.
@@ -1125,29 +1125,12 @@ In the spirit of Astralis doctrine:
 
 > **“To master the void is to master the self.”**
 
-````md
----
-title: "TDA & Multireality Operations Protocol – RSC Technical Chapter"
-description: "Internal RSC technical chapter defining the Twin Digital Atom (TDA) multireality framework, operators, command syntax, safety checklists, and failure responses for Astralis Clearance ∆–6 and above."
-image: "/images/tda-multireality-operations.webp"
-author: "Rei Reltroner"
-date: "2025-11-28"
-published: true
-category: "RSC Technical Manual"
-tags:
-  - Twin Digital Atom
-  - Multireality Operations
-  - Reltronland Space Command
-  - Hyperdimensional Warfare
-  - Nytherion Abyss
-  - Astralis Pinnacle
-  - Void Energy Field
 ---
 
 # 📘 Technical Chapter — **“TDA & Multireality Operations Protocol”**  
 ### *RSC Internal Technical Manual — Astralis Clearance ∆–6 and Above*
 
-This chapter is designed as a **formal, internally consistent, and military-technical** reference for **Reltronland Space Command (RSC)**.
+Internal RSC technical chapter defining the Twin Digital Atom (TDA) multireality framework, operators, command syntax, safety checklists, and failure responses for Astralis Clearance ∆–6 and above. This chapter is designed as a **formal, internally consistent, and military-technical** reference for **Reltronland Space Command (RSC)**.
 
 It covers:
 
@@ -1185,9 +1168,9 @@ TDA is powered by:
 
 - **Void Energy Field** \(V_f\)  
 - **Void-Lattice Crystal Core (VLC)**  
-- **Tetration-based computation** \(a \uparrow\uparrow n\)  
+- **Tetration-based computation** \(a ↑↑ n\)  
 - **Multi-State Reality Matrix (MSRM)**  
-- **Cross-Layer Mapping Operator** \(\mathcal{M}\)
+- **Cross-Layer Mapping Operator** \(M)
 
 This chapter defines:
 
@@ -1205,7 +1188,7 @@ TDA does not operate purely in linear 3D spacetime.
 All data is structured into **Reality Layers** \(L\):
 
 ```math
-L_0, L_1, L_2, \dots, L_N
+L_0, L_1, L_2, ...., L_N
 ````
 
 Where:
@@ -1217,7 +1200,7 @@ Where:
 Each atom scanned by the **Digital Atom Mapper (DAM)** becomes a layer-specific TDA representation:
 
 ```math
-\mathrm{TDA}_{L} = (a \uparrow\uparrow n_{L})^{d_{L}} \times R_{L}
+TDA_L = (a ↑↑ n_L)^(d_L) × R_L
 ```
 
 Where:
@@ -1230,7 +1213,7 @@ Where:
 All layers combined form the **Reality Stack**:
 
 ```math
-\mathrm{RS} = \bigoplus_{L=0}^{N} \mathrm{TDA}_{L}
+RS = ⨁(L=0)^(N)TDA_L
 ```
 
 The **Reality Stack (RS)** is stored and managed inside **MSRM vaults** within **Astralis Colossus Stations**.
@@ -1239,12 +1222,12 @@ The **Reality Stack (RS)** is stored and managed inside **MSRM vaults** within *
 
 ## 3.0 Operator Set
 
-### 3.1 Mapping Operator — (\mathcal{M}_{L \to L'})
+### 3.1 Mapping Operator — M_(L to L')
 
 Projects a state from layer (L) to a target layer (L'):
 
 ```math
-\mathrm{ProjectedState}_{L'} = \mathcal{M}_{L \to L'}(\mathrm{TDA}_{L})
+ProjectedState_L' = M_(L to L')(TDA)_(L)
 ```
 
 Primary uses:
@@ -1256,12 +1239,12 @@ Primary uses:
 
 ---
 
-### 3.2 Branching Operator — (\mathcal{B}(L))
+### 3.2 Branching Operator — B(L)
 
 Generates new potential layers from an existing one:
 
 ```math
-L_{\text{new}} = \mathcal{B}(L)
+L_(new) = B(L)
 ```
 
 Used for:
@@ -1272,12 +1255,12 @@ Used for:
 
 ---
 
-### 3.3 Collapse Operator — (\mathcal{C}(L))
+### 3.3 Collapse Operator — C(L)
 
 Stabilizes or prunes a reality layer by collapsing unstable or hostile branches:
 
 ```math
-\mathcal{C}(L_k) \Rightarrow L_k^{-}
+C(L_k) → L_k^(-)
 ```
 
 Used to:
@@ -1288,12 +1271,12 @@ Used to:
 
 ---
 
-### 3.4 Entanglement Operator — (\mathcal{E}(L_i, L_j))
+### 3.4 Entanglement Operator — E(L_i, L_j)
 
 Links two layers for combined analysis and coherence tracking:
 
 ```math
-\mathcal{E}(L_i, L_j) = \text{cross-layer coherence state}
+E(L_i, L_j) = cross-layer coherence state
 ```
 
 Required for:
@@ -1309,7 +1292,7 @@ Required for:
 Represents parallel computation across multiple layers:
 
 ```math
-\mathrm{HTM} = \prod_{i} \left(a \uparrow\uparrow n_i\right)
+HTM = ∏i (a ↑↑ n_i)
 ```
 
 Used for:
@@ -1428,17 +1411,17 @@ Requires **∆–4 SDM** (Senior Digital Medic) authorization.
 
 ---
 
-### 6.2 For Mapping (\mathcal{M}) Operations
+### 6.2 For Mapping (M) Operations
 
 * [ ] Confirm layer boundaries and target range
 * [ ] Prevent accidental cross-layer contamination paths
-* [ ] Ensure ∆–6 approval for (L \geq 4) operations
+* [ ] Ensure ∆–6 approval for (L geq 4) operations
 * [ ] Verify **REC (Recursive Error Collapse)** is active
 * [ ] Abort if resonance mismatch exceeds **3σ** from baseline
 
 ---
 
-### 6.3 For Collapse (\mathcal{C}) Operations
+### 6.3 For Collapse (C) Operations
 
 * [ ] Justification documented (Abyss signature / instability proof)
 * [ ] Dual authorization present (∆–6 + AI-Command)
@@ -1513,7 +1496,7 @@ Requires **∆–4 SDM** (Senior Digital Medic) authorization.
 2. DAM computes TDA state:
 
    ```math
-   S = a \uparrow\uparrow 4
+   S = a ↑↑ 4
    ```
 
 3. RSC Command executes:
@@ -1545,24 +1528,11 @@ Requires **∆–4 SDM** (Senior Digital Medic) authorization.
 Through TDA integration, **Reltronland Space Command** evolves from a purely defensive fleet into a **multireality stabilizer**, capable of defending Reltronland not only in space, but across **all viable versions of existence**.
 
 ---
-title: "The Multireality Sovereignty Act of Reltronland"
-description: "Foundational Astralis Codex legislation defining Reltronland’s sovereignty, rights, and responsibilities across all multireality layers (L0–L5), powered by the Twin Digital Atom (TDA) framework."
-image: "/images/multireality-sovereignty-act.webp"
-author: "Rei Reltroner"
-date: "2025-11-28"
-published: true
-category: "Astralis Codex – Legal Framework"
-tags:
-  - Reltronland
-  - Multireality Sovereignty
-  - Astralis Codex
-  - Twin Digital Atom
-  - Nytherion Abyss
-  - Voidfront
-  - Reltronland Space Command
----
 
 # 📘 **The Multireality Sovereignty Act of Reltronland**  
+
+Foundational Astralis Codex legislation defining Reltronland’s sovereignty, rights, and responsibilities across all multireality layers (L0–L5), powered by the Twin Digital Atom (TDA) framework.
+
 ### *(Astralis Codex Chapter IV — Sovereignty Across Layers)*
 
 **Issued under:** Astralis Sovereignty Protocol ∆–8  
@@ -1606,7 +1576,7 @@ Any defined layer of reality as established by the **TDA Reality Stack**, includ
 The mathematical representation of Reltronland’s territorial presence across all layers:
 
 ```math
-\mathrm{TDA}_{\text{Territory}} = \bigoplus_{L=0}^{N} (a \uparrow\uparrow n_L)^{d_L}
+TDA_(Territor)) = ⨁_(L=0)^(N) (a ↑↑ n_L)^(d_L)
 ````
 
 Where:
@@ -1639,8 +1609,8 @@ Reltronland retains the right to **enforce sovereignty before a threat manifests
 
 Where two or more layers generate conflicting realities affecting Reltronland, **RSC** is empowered to stabilize the stack via:
 
-* the **Collapse Operator** (\mathcal{C}_L),
-* the **Mapping Operator** (\mathcal{M}_{L \to L'}),
+* the **Collapse Operator** (C_L),
+* the **Mapping Operator** (M_(L to L')),
 * and **Astralis Anchoring** mechanisms.
 
 ---
@@ -1720,7 +1690,7 @@ All multireality operations must adhere to:
 
 ## §5 — TDA Framework for Sovereignty Enforcement
 
-### 5.1 Mapping Operator (\mathcal{M}_{L_0 \to L_k})
+### 5.1 Mapping Operator (M_(L_0 to L_k))
 
 Used to **extend, project, or uphold** territorial presence and sovereignty across layers (L_k), especially for:
 
@@ -1728,11 +1698,11 @@ Used to **extend, project, or uphold** territorial presence and sovereignty acro
 * preemptive defensive positioning,
 * validation of border integrity in higher layers.
 
-### 5.2 Collapse Operator (\mathcal{C}_L)
+### 5.2 Collapse Operator (C_L)
 
 Used to **delete, prune, or neutralize** rogue or hostile realities that threaten Reltronland’s sovereignty, provided legal and procedural safeguards are met.
 
-### 5.3 Entanglement Guard (\mathcal{E}(L_i, L_j))
+### 5.3 Entanglement Guard (E(L_i, L_j))
 
 Used to prevent foreign states or hostile forces from manipulating alternative versions of Reltronland’s layers by enforcing:
 
@@ -1745,11 +1715,7 @@ Used to prevent foreign states or hostile forces from manipulating alternative v
 Sovereignty strength across layers is expressed as:
 
 ```math
-\mathrm{Sovereignty}_{\mathrm{RL}} =
-\prod_{L=0}^{N}
-\left[
-(a \uparrow\uparrow n_L)^{d_L} \times R_L \times \mathrm{StableField}(L)
-\right]
+Sovereignty_RL = ∏_(L=0)^(N)[(a ↑↑ n_L)^(d_L) × R_L × StableField(L)]
 ```
 
 Where:
@@ -1758,7 +1724,7 @@ Where:
 * (n_L)        = tetration depth for layer (L),
 * (d_L)        = dimensional factor (4–5D),
 * (R_L)        = resonance factor (including Abyssal signal screening),
-* (\mathrm{StableField}(L)) = stability function of the layer.
+* (StableField(L)) = stability function of the layer.
 
 If **stability** for any given layer falls below the prescribed threshold, that layer is **automatically quarantined** pending RSC and Tribunal review.
 
@@ -1827,7 +1793,7 @@ Altering or reconfiguring personal layers associated with citizens (e.g., indivi
 
 ### 8.2 Using Collapse for Political Gain
 
-Employing the **Collapse Operator (\mathcal{C}_L)** for purely political, factional, or non-existential purposes, including the deletion of undesired but non-threatening realities.
+Employing the **Collapse Operator (C_L)** for purely political, factional, or non-existential purposes, including the deletion of undesired but non-threatening realities.
 
 ### 8.3 Creating Sovereignty Illusions
 

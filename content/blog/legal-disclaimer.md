@@ -52,7 +52,7 @@ All core systems — including:
 The Reltroner Studio identity, logo, lore, and world structures are protected under creator rights. Any attempt to copy, misuse, or commercially exploit these materials **without credit or permission is strictly prohibited.**
 
 For inquiries or collaboration, contact:
-📧 **reltroner@gmail.com**
+📧 **studio@reltroner.com**
 
 ---
 
