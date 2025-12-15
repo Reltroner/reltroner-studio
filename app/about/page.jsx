@@ -110,7 +110,7 @@ export default function About() {
       </p>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
-        Reltroner Studio is a <strong>system-architect mindset disguised as a creative studio</strong>
+        Reltroner Studio is a <strong>system-architect mindset disguised as a creative studio </strong>
         using narrative and emotion to communicate real technical thinking, real
         work, and real progress.
       </p>
