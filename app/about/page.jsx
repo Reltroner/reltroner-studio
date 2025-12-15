@@ -90,6 +90,8 @@ export default function About() {
         detached from effort.
       </p>
 
+      <p className="mt-6"></p>
+
       <Heading className="mt-10">Why Reltroner Studio Is Different</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
@@ -119,6 +121,8 @@ export default function About() {
         authenticity over polish.
       </p>
 
+      <p className="mt-6"></p>
+
       <Heading className="mt-10">Who It’s For</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
@@ -132,6 +136,8 @@ export default function About() {
         <li>want clarity instead of noise,</li>
         <li>see creativity as a way to understand systems, not escape reality.</li>
       </ul>
+
+      <p className="mt-6"></p>
 
       <Heading className="mt-10">The Mission</Heading>
 
@@ -149,6 +155,8 @@ export default function About() {
         It is about becoming capable, step by step, and making that journey
         visible.
       </p>
+
+      <p className="mt-6"></p>
 
       <Heading className="mt-10">In One Sentence</Heading>
 

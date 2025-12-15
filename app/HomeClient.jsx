@@ -32,18 +32,18 @@ export default function HomeClient({ posts }) {
       {/* Content */}
       <div className="relative z-10 text-white flex flex-col items-center text-center space-y-6">
         <h1 className="text-4xl md:text-6xl font-bold drop-shadow-lg">
-          Welcome to Reltroner Studio
+          Reltroner Studio
         </h1>
-        <p className="text-lg md:text-xl max-w-2xl drop-shadow-md">
-          A creative–technology studio at the intersection of system thinking,
-          digital engineering, and storytelling that built from real-world struggle,
-          not shortcuts.
+        <p className="text-lg md:text-xl max-w-3xl drop-shadow-md">
+          A creative–technology studio helping teams and organizations
+          design clear systems, scalable architectures, and documentation
+          that survives complexity and change.
         </p>
         <a
           href="#get-started"
           className="bg-white text-black px-6 py-3 rounded-full font-medium hover:bg-gray-200 transition"
         >
-          Explore What We Build
+          Explore Capabilities
         </a>
       </div>
       </section>
@@ -51,40 +51,43 @@ export default function HomeClient({ posts }) {
       {/* Features Section */}
       <section className="py-20 px-6 bg-gray-50">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-semibold">What We Do</h2>
+          <h2 className="text-3xl font-semibold">Capabilities</h2>
           <p className="text-gray-600 mt-2">
-            Core disciplines inside the Reltroner Studio ecosystem
+            What Reltroner Studio delivers for modern organizations
           </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto">
           <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition">
             <h3 className="text-xl font-semibold mb-2">
-              Systems & Digital Tools
+              System & Platform Design
             </h3>
             <p className="text-gray-600">
-              Design and build SaaS prototypes, HR systems, internal tools,
-              and automation-ready platforms grounded in real constraints.
+              Design and implementation of internal platforms, SaaS prototypes,
+              and operational tools built with modular, scalable architectures
+              tailored to real business constraints.
             </p>
           </div>
 
           <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition">
             <h3 className="text-xl font-semibold mb-2">
-              Technical Architecture
+              Technical Architecture & Clarity
             </h3>
             <p className="text-gray-600">
-              Modular systems, API-first thinking, and scalable foundations
-              that prioritize clarity, adaptability, and long-term growth.
+              API-first thinking, system decomposition, and architectural
+              documentation that enables teams to scale without losing clarity,
+              ownership, or velocity.
             </p>
           </div>
 
           <div className="bg-white p-6 rounded-xl shadow-md hover:shadow-lg transition">
             <h3 className="text-xl font-semibold mb-2">
-              Narrative & Documentation
+              Narrative Documentation & Alignment
             </h3>
             <p className="text-gray-600">
-              Narrative-driven documentation and creative frameworks that
-              explain how complex problems are solved, honestly and transparently.
+              Narrative-driven documentation that aligns engineering,
+              product, and stakeholders — turning complex decisions into
+              shared understanding and long-term institutional knowledge.
             </p>
           </div>
         </div>
@@ -93,18 +96,19 @@ export default function HomeClient({ posts }) {
       {/* Call to Action */}
       <section id="get-started" className="py-20 px-6 text-center bg-blue-50">
         <h2 className="text-3xl font-bold mb-4">
-          Build with clarity, not comfort
+          Build systems that last
         </h2>
-        <p className="text-gray-700 mb-6 max-w-2xl mx-auto">
-          Reltroner Studio is for builders, teams, and organizations who value
-          process over hype, structure over noise, and growth through iteration.
-          If that resonates with you, let’s connect.
+        <p className="text-gray-700 mb-6 max-w-3xl mx-auto">
+          Reltroner Studio partners with teams that value structure,
+          documentation, and long-term thinking over short-term delivery.
+          If your organization is facing complexity, transition, or scale,
+          we help bring clarity and direction.
         </p>
         <a
           href="/contact"
           className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition"
         >
-          Start a Conversation
+          Discuss a Collaboration
         </a>
       </section>
 
