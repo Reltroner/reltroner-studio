@@ -593,7 +593,7 @@ Reltronland is not a utopia. It is a result of ruthless, conscious, intelligent 
 
 ## 🌌 RSC: The Strategic Foundation of Reltronland's Ascension
 
-No civilization could have risen to the heights of a Type I.9 Kardashev society without a force that transcends both government and economy. In the case of Reltronland, that force is the **Reltronland Space Command (RSC)** — a sentient, autonomous, and unshakeable institution that safeguards not only the physical boundaries of the nation but also the ideological and economic framework that allows Reltronland to thrive.
+No civilization could have risen to the heights of a Type II.9 Kardashev society without a force that transcends both government and economy. In the case of Reltronland, that force is the **Reltronland Space Command (RSC)** — a sentient, autonomous, and unshakeable institution that safeguards not only the physical boundaries of the nation but also the ideological and economic framework that allows Reltronland to thrive.
 
 Reltronland's unmatched achievements in economics, social structure, and sentient development are not independent miracles — they are the results of having RSC as a silent guardian, invisible infrastructure, and a sword of clarity above all threats.
 

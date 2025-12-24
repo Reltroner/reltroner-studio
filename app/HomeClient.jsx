@@ -1,5 +1,5 @@
 'use client';
-
+// app/HomeClient.jsx
 import { useState, useMemo } from "react";
 import Link from "next/link";
 
@@ -35,7 +35,7 @@ export default function HomeClient({ posts }) {
           Reltroner Studio
         </h1>
         <p className="text-lg md:text-xl max-w-3xl drop-shadow-md">
-          A creative–technology studio helping teams and organizations
+          A creative technology studio helping teams and organizations
           design clear systems, scalable architectures, and documentation
           that survives complexity and change.
         </p>
@@ -86,7 +86,7 @@ export default function HomeClient({ posts }) {
             </h3>
             <p className="text-gray-600">
               Narrative-driven documentation that aligns engineering,
-              product, and stakeholders — turning complex decisions into
+              product, and stakeholders, turning complex decisions into
               shared understanding and long-term institutional knowledge.
             </p>
           </div>

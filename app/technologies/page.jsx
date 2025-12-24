@@ -53,7 +53,7 @@ const techs = [
   },
   {
     title: "⚛️ Anti-Matter Energy Tech of Reltronland",
-    description: "Explore Reltronland’s most advanced energy frontier—an antimatter-powered grid fueled by cosmic particles, Aurora synchronization, and ethical quantum control.",
+    description: "Explore Reltronland’s most advanced energy frontier—an antimatter-powered grid fueled by cosmic particles, Astralis synchronization, and ethical quantum control.",
     slug: "reltronland-antimatter-energy",
     image: "/images/reltronland-antimatter-energy.webp",
     author: "Rei Reltroner",
