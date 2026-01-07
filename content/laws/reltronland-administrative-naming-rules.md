@@ -46,7 +46,7 @@ This document outlines the **official naming conventions** for administrative re
 
 ## 4. 🟠 District Level
 
-* **Allowed Letters:** `r`, `e`, `l`, `t`, `o`, `n`, `a`, `d`, `u`, `p`, `w`, `f`, `h`, `i`, plus `c`, `k`, `q`, `b`
+* **Allowed Letters:** `r`, `e`, `l`, `t`, `o`, `n`, `a`, `d`, `u`, `p`, `w`, `f`, `h`, `i`, plus `c`, `k`, `q`, `b`, `v`
 * **Examples:** May include names like `Rektronack`, `Ropelquint`, or `Trufickban`
 * **Rule:** Districts are permitted to embrace localized complexity while remaining within the naming boundaries.
 
