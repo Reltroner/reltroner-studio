@@ -20,7 +20,7 @@ This document provides a detailed overview of the sentient population structures
   - 61% Human (Caucasian lineages)
   - 24% Human (East Asian Mongoloid)
   - 7% Human-Wizard-Witch (native Asthorteran race)
-  - 5% Cosmeilia-Human Mixed
+  - 5% Cosmeilia-Human
   - 3% Others (alien humanoids, hybrids)
 - **Notable Characteristic:** Asthortera is the primary destination for immigrants across the galaxy, known for its exceptionally high standard of living and balanced civilization, attracting those seeking long-term prosperity and development.
 
@@ -38,11 +38,11 @@ This document provides a detailed overview of the sentient population structures
 ---
 
 ## 🌠 **Planet Cosmeilia**
-- **Dominant Population:** Cosmeilia-Human Mixed (cosmic aesthetic sentient lineage)
+- **Dominant Population:** Cosmeilia-Human (cosmic aesthetic sentient lineage)
 - **Total Sentient Population:** **~3.7 trillion**
 - **Composition:**
-  - 70% Cosmeilia-Human Mixed
-  - 20% Native Cosmeilian Sentients
+  - 70% Cosmeilia-Human
+  - 20% Others Cosmeilian Sentients
   - 4% Immigrants from Asthortera
   - 3% Immigrants from Depeisit
   - 2% Immigrants from Cistheta

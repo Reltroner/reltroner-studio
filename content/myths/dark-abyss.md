@@ -10,6 +10,7 @@ published: true
 ---
 
 ![nytherion-abyss-dimention](/images/nytherion-abyss-dimention.webp)
+![abyss-heart1](/images/abyss-heart1.webp)
 
 # 🕳️ Heart of the Abyss
 
