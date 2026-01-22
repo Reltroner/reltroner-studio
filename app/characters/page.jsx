@@ -59,11 +59,11 @@ const characters = [
       published: true
   },
   {
-      title: "Hendry Harry",
+      title: "Nathan Harry",
       role: "Covert Analyst & Morale Anchor of The Flightless Pact",
-      description: "A grounded soul in a world of turbulence — Hendry works behind the scenes to keep the resistance human.",
-      slug: "hendry-harry",
-      image: "/images/hendry-harry.webp",
+      description: "A grounded soul in a world of turbulence — Nathan works behind the scenes to keep the resistance human.",
+      slug: "nathan-harry",
+      image: "/images/nathan-harry.webp",
       quote: "You don’t win by flying higher. You win by remembering why you took off in the first place.",
       published: true
   },

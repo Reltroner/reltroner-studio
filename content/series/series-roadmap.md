@@ -69,19 +69,19 @@ date: "April 8, 2025"
 
 **6. Title:** *Delwyn’s Bounty Hunter Team*  
 **Timeline:** Year 6–25  
-**Main POV:** Delwyn, Hendry, Barry  
+**Main POV:** Delwyn, Nathan, Barry  
 **Summary:** Episodic missions across Asthortera to hunt key figures tied to Henchoway and Spiral syndicates. A mix of action, dialogue-heavy planning, and bonding.
 **Key Scenes:**  
-- Hendry’s betrayal and redemption  
+- Nathan’s betrayal and redemption  
 - The assault on a blackmarket AI hub  
 - Barry laughing for the first time in years during campfire
 
 ---
 
-**7. Title:** *Barry & Hendry Arc*  
+**7. Title:** *Barry & Nathan Arc*  
 **Timeline:** Year 6–25  
-**Main POV:** Barry & Hendry  
-**Summary:** A side series focusing on Barry's cynical wit and Hendry's unorthodox tactics in destroying Spiral cult branches.
+**Main POV:** Barry & Nathan  
+**Summary:** A side series focusing on Barry's cynical wit and Nathan's unorthodox tactics in destroying Spiral cult branches.
 **Key Scenes:**  
 - Disguising as cultists to infiltrate secret rituals  
 - Barry confronting an old mentor turned cultist  
@@ -185,7 +185,7 @@ This moment lays the philosophical DNA for all resistance in later centuries.
 - *Rise & Fall of Henchoway*  
 - *The Abyss of Comfort*  
 - *Delwyn’s Bounty Hunter Team*  
-- *Barry & Hendry Arc*  
+- *Barry & Nathan Arc*  
 - *Valethra & Albert Arc*
 
 Here, Rei is not always present physically, but his **footprint remains in every fracture** the protagonists step into:
