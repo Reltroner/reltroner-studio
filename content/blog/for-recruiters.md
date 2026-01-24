@@ -127,8 +127,8 @@ A full-featured HRM system built solo under real constraints, focusing on:
 - real deployment & debugging
 - documentation as a first-class artifact
 
-🔗 Live: [a](https://hrm.reltroner.com)
-🔗 Code: [b](https://github.com/Reltroner/reltroner-hr-app)
+🔗 Live: [https://hrm.reltroner.com](https://hrm.reltroner.com)
+🔗 Code: [https://github.com/Reltroner/reltroner-hr-app](https://github.com/Reltroner/reltroner-hr-app)
 
 > This project demonstrates **ownership, survivability, and execution under pressure** — not just feature completion.
 
@@ -138,7 +138,7 @@ A full-featured HRM system built solo under real constraints, focusing on:
 
 I also maintain a public repository documenting **real bugs, failures, and fixes** — not tutorial content.
 
-📂 [c](https://github.com/Reltroner/error-documentation)
+📂 [https://github.com/Reltroner/error-documentation](https://github.com/Reltroner/error-documentation)
 
 Because I don’t just build systems —  
 I understand **what breaks them and why**.
@@ -153,8 +153,8 @@ I’m open to:
 - system architecture & documentation consulting
 
 📧 studio@reltroner.com  
-🌐 [d](https://www.reltroner.com)  
-💻 [e](https://github.com/Reltroner)  
+🌐 [https://www.reltroner.com](https://www.reltroner.com)  
+💻 [https://github.com/Reltroner](https://github.com/Reltroner)  
 
 ---
 
