@@ -69,6 +69,8 @@ export default function About() {
       <p className="mt-6 text-sm text-gray-500 italic">
         You can stop reading here if this level of context is enough.
       </p>
+      <br />
+      <br />
 
       {/* ================= WHAT WE DO ================= */}
       <Heading className="mt-12">What We Do</Heading>
@@ -108,6 +110,8 @@ export default function About() {
       <p className="mt-6 text-sm text-gray-500 italic">
         If you’re here for professional understanding, this may already be enough.
       </p>
+      <br />
+      <br />
 
       {/* ================= PHILOSOPHY ================= */}
       <Heading className="mt-12">Our Philosophy</Heading>
@@ -133,6 +137,8 @@ export default function About() {
         and how progress is documented — always grounded in reality, never
         detached from effort.
       </p>
+      <br />
+      <br />
 
       {/* ================= DIFFERENTIATION ================= */}
       <Heading className="mt-12">Why Reltroner Studio Is Different</Heading>
@@ -158,6 +164,8 @@ export default function About() {
         — using narrative and emotion to communicate real technical thinking,
         real work, and real progress.
       </p>
+      <br />
+      <br />
 
       {/* ================= WHO IT'S FOR ================= */}
       <Heading className="mt-12">Who It’s For</Heading>
@@ -173,6 +181,8 @@ export default function About() {
         <li>want clarity instead of noise,</li>
         <li>see creativity as a way to understand systems, not escape reality.</li>
       </ul>
+      <br />
+      <br />
 
       {/* ================= MISSION ================= */}
       <Heading className="mt-12">The Mission</Heading>
@@ -191,6 +201,8 @@ export default function About() {
         It is about becoming capable, step by step, and making that journey
         visible.
       </p>
+      <br />
+      <br />
 
       {/* ================= ONE SENTENCE ================= */}
       <Heading className="mt-12">In One Sentence</Heading>
@@ -199,6 +211,8 @@ export default function About() {
         Reltroner Studio turns real-life struggle into systems, tools, and stories
         designed for growth in a fast-changing world.
       </p>
+      <br />
+      <br />
 
       {/* ================= EXIT LINKS ================= */}
       <p className="mt-10 text-sm leading-7">
@@ -215,6 +229,7 @@ export default function About() {
         This studio is independently built with Next.js and hosted on Vercel.
         All contents are © 2025 Raidan. All rights reserved.
       </p>
+      <br />
 
       {/* ================= STRUCTURED DATA ================= */}
       <script
