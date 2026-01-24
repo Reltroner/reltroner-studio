@@ -4,12 +4,42 @@ import Heading from "@/components/Heading";
 export const metadata = {
   title: "About",
   description:
-    "Learn more about Reltroner Studio, a creative–technology studio at the intersection of system thinking, digital engineering, and storytelling.",
+    "About Reltroner Studio — a creative–technology studio at the intersection of system thinking, digital engineering, and narrative clarity.",
 };
 
 export default function About() {
   return (
-    <div className="max-w-3xl mx-auto px-4 py-8 text-gray-800">
+    <div className="max-w-3xl mx-auto px-4 py-10 text-gray-800">
+
+      {/* ================= READING PERMISSION ================= */}
+      <section className="mb-12 border rounded-lg p-6 bg-gray-50">
+        <h2 className="text-xl font-semibold mb-3">
+          How to read this page
+        </h2>
+
+        <p className="text-gray-700 mb-4">
+          You don’t need to read everything below.  
+          This page is intentionally long because it documents thinking, not marketing.
+        </p>
+
+        <ul className="list-disc list-inside text-gray-700 space-y-2 mb-4">
+          <li>
+            <strong>Light read (1–2 min):</strong> Read the first two sections, then stop.
+          </li>
+          <li>
+            <strong>Professional context (3–5 min):</strong> Read until “Who It’s For”.
+          </li>
+          <li>
+            <strong>Deep alignment (optional):</strong> Read the full page.
+          </li>
+        </ul>
+
+        <p className="text-sm text-gray-600">
+          You can stop reading at any point if this already answers your question.
+        </p>
+      </section>
+
+      {/* ================= CORE CONTENT ================= */}
       <Heading>About Reltroner Studio</Heading>
 
       <p className="mt-4 text-md text-gray-700 italic">
@@ -26,7 +56,7 @@ export default function About() {
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         It was created from real-world struggle, long-term self-building, and
-        hands-on problem solving, not from privilege, funding, or institutional
+        hands-on problem solving — not from privilege, funding, or institutional
         backing. At its core, Reltroner Studio exists to turn complexity,
         uncertainty, and personal limitations into{" "}
         <strong>structured systems</strong>,{" "}
@@ -35,7 +65,13 @@ export default function About() {
         move forward.
       </p>
 
-      <Heading className="mt-10">What We Do</Heading>
+      {/* ---- STOP PERMISSION ---- */}
+      <p className="mt-6 text-sm text-gray-500 italic">
+        You can stop reading here if this level of context is enough.
+      </p>
+
+      {/* ================= WHAT WE DO ================= */}
+      <Heading className="mt-12">What We Do</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         Reltroner Studio designs and builds:
@@ -55,18 +91,26 @@ export default function About() {
           of how problems are solved under real constraints.
         </li>
         <li>
-          <strong>Creative frameworks</strong> — translating abstract ideas like
-          growth, resilience, and adaptation into something practical and usable.
+          <strong>Creative frameworks</strong> — translating abstract ideas into
+          practical, usable structures.
         </li>
       </ul>
 
       <p className="mt-6 text-lg text-gray-700 leading-relaxed">
         Rather than separating creativity and technology, Reltroner Studio treats
         them as one integrated discipline:{" "}
-        <strong>creativity gives systems meaning, and systems give creativity direction</strong>.
+        <strong>
+          creativity gives systems meaning, and systems give creativity direction
+        </strong>.
       </p>
 
-      <Heading className="mt-10">Our Philosophy</Heading>
+      {/* ---- STOP PERMISSION ---- */}
+      <p className="mt-6 text-sm text-gray-500 italic">
+        If you’re here for professional understanding, this may already be enough.
+      </p>
+
+      {/* ================= PHILOSOPHY ================= */}
+      <Heading className="mt-12">Our Philosophy</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         Modern life is shaped by rapid change, uncertainty, and constant shifts
@@ -86,13 +130,12 @@ export default function About() {
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         This philosophy shapes how systems are designed, how stories are told,
-        and how progress is documented. We always grounded in reality, never
+        and how progress is documented — always grounded in reality, never
         detached from effort.
       </p>
 
-      <p className="mt-6"></p>
-
-      <Heading className="mt-10">Why Reltroner Studio Is Different</Heading>
+      {/* ================= DIFFERENTIATION ================= */}
+      <Heading className="mt-12">Why Reltroner Studio Is Different</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         Most creative studios focus on aesthetics. <br />
@@ -110,20 +153,14 @@ export default function About() {
       </p>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
-        Reltroner Studio is a <strong>system-architect mindset disguised as a creative studio </strong>
-        using narrative and emotion to communicate real technical thinking, real
-        work, and real progress.
+        Reltroner Studio is a{" "}
+        <strong>system-architect mindset disguised as a creative studio</strong>{" "}
+        — using narrative and emotion to communicate real technical thinking,
+        real work, and real progress.
       </p>
 
-      <p className="mt-4 text-lg text-gray-700 leading-relaxed">
-        This makes it especially relevant for modern tech teams, growing
-        organizations, independent builders, and a generation that values
-        authenticity over polish.
-      </p>
-
-      <p className="mt-6"></p>
-
-      <Heading className="mt-10">Who It’s For</Heading>
+      {/* ================= WHO IT'S FOR ================= */}
+      <Heading className="mt-12">Who It’s For</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         Reltroner Studio resonates with people and teams who:
@@ -137,9 +174,8 @@ export default function About() {
         <li>see creativity as a way to understand systems, not escape reality.</li>
       </ul>
 
-      <p className="mt-6"></p>
-
-      <Heading className="mt-10">The Mission</Heading>
+      {/* ================= MISSION ================= */}
+      <Heading className="mt-12">The Mission</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         The mission of Reltroner Studio is simple:
@@ -156,31 +192,31 @@ export default function About() {
         visible.
       </p>
 
-      <p className="mt-6"></p>
-
-      <Heading className="mt-10">In One Sentence</Heading>
+      {/* ================= ONE SENTENCE ================= */}
+      <Heading className="mt-12">In One Sentence</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed italic">
         Reltroner Studio turns real-life struggle into systems, tools, and stories
         designed for growth in a fast-changing world.
       </p>
 
-      <p className="mt-8 text-sm leading-7">
+      {/* ================= EXIT LINKS ================= */}
+      <p className="mt-10 text-sm leading-7">
         ➡️{" "}
         <a
           href="/blog/for-recruiters"
           className="text-blue-600 underline hover:text-blue-800 transition"
         >
-          For Recruiters & Collaborators – Explore Professional Profile ↗
+          For Recruiters & Collaborators — Fast professional overview ↗
         </a>
       </p>
 
       <p className="mt-6 text-xs text-gray-500">
-        This studio is independently built with Next.js and hosted on Vercel. All
-        contents are © 2025 Raidan. All rights reserved.
+        This studio is independently built with Next.js and hosted on Vercel.
+        All contents are © 2025 Raidan. All rights reserved.
       </p>
 
-      {/* Structured Data: Person */}
+      {/* ================= STRUCTURED DATA ================= */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -190,11 +226,6 @@ export default function About() {
             name: "Rei Reltroner",
             alternateName: "Raidan",
             url: "https://reltroner.com/about",
-            sameAs: [
-              "https://github.com/reltroner",
-              "https://twitter.com/reltroner",
-              "https://www.youtube.com/@reltroner",
-            ],
             worksFor: {
               "@type": "Organization",
               name: "Reltroner Studio",
@@ -202,7 +233,7 @@ export default function About() {
             },
             jobTitle: "Founder & System Architect",
             description:
-              "Founder of Reltroner Studio, a creative–technology studio focused on system thinking, digital engineering, and narrative-driven documentation.",
+              "Founder of Reltroner Studio, focused on system thinking, digital engineering, and narrative-driven documentation.",
           }),
         }}
       />
