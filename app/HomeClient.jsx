@@ -189,7 +189,7 @@ export default function HomeClient({ posts }) {
                   key={index}
                   className="block h-full"
                 >
-                  <div className="flex flex-col h-full border rounded-lg shadow-md hover:shadow-lg transition">
+                  <div className="flex flex-col justify-between h-full border rounded-lg shadow-md overflow-hidden hover:shadow-lg hover:scale-105 transition duration-300 min-h-[300px] dark:bg-gray-900 dark:text-white">
                     <img
                       src={post.image}
                       alt={post.title}
