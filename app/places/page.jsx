@@ -157,6 +157,16 @@ const places = [
     published: true
   },
   {
+    title: "3D · 4D · 5D Sovereignty Doctrine of Reltronland",
+    description: "The foundational doctrine defining Reltronland’s multi-dimensional sovereignty across physical space (3D), spatio-temporal corridors (4D), and multireality coordination (5D) in its eternal resistance against the Nytherion Abyss.",
+    slug: "3d-4d-5d-sovereignty-doctrine-reltronland",
+    image: "/images/3d-4d-5d-sovereignty-doctrine-reltronland.webp",
+    author: "Rei Reltroner",
+    date: "2026-01-28",
+    published: true,
+    category: "Astralis Doctrine – Sovereignty & Governance"
+  },
+  {
     title: "🌕 Asthortera's 12 Orbiting Moons and Calendar System",
     description: "A full breakdown of Asthortera’s 12 orbiting moons, their influence on its calendar system, and the symbolic meaning each brings to the planet’s spiritual, cultural, and astronomical life.",
     slug: "asthortera-12-orbiting-moons",
