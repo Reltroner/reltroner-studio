@@ -452,7 +452,7 @@ Spanning hyperloops, arcologies, orbital ports, and transportation hubs.
 Inclusive AI-driven education to elevate sentient literacy and creativity.
 
 #### 🧬 Health and Longevity (4% of GDP)  
-Medical and biotech programs that support Reltronland’s 112-year life expectancy.
+Medical and biotech programs that support Reltronland’s 214-year life expectancy.
 
 #### 🛡️ National Defense (3% of GDP)  
 Focused on existential threats like Nytherion Abyss, Henchoway cult remnants, and deep-space security.

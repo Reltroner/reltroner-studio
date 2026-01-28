@@ -2,10 +2,11 @@
 
 import './global.css';
 import Navbar from "@/components/Navbar";
-import { roboto } from "./fonts";
 import MobileNavbar from "@/components/MobileNavbar";
 import CommandPalette from "@/components/CommandPalette";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
+import RouteAnalytics from "@/components/RouteAnalytics";
+import { roboto } from "./fonts";
 
 export const metadata = {
   title: {
@@ -14,6 +15,7 @@ export const metadata = {
   },
   description:
     "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
+  metadataBase: new URL("https://reltroner.com"),
   openGraph: {
     siteName: "Reltroner Studio",
     type: "website",
@@ -24,7 +26,7 @@ export const metadata = {
     url: "https://reltroner.com",
     images: [
       {
-        url: "https://reltroner.com/images/og-banner.webp",
+        url: "/images/og-banner.webp",
         width: 1200,
         height: 630,
         alt: "Reltroner Studio",
@@ -37,9 +39,8 @@ export const metadata = {
     description:
       "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
     creator: "@reltroner",
-    images: ["https://reltroner.com/images/og-banner.webp"],
+    images: ["/images/og-banner.webp"],
   },
-  metadataBase: new URL("https://reltroner.com"),
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
@@ -47,16 +48,18 @@ export const metadata = {
   },
 };
 
-export default function Layout({ children }) {
+export default function RootLayout({ children }) {
   return (
     <html lang="en" className={roboto.variable}>
       <head>
+        {/* Viewport */}
         <meta
           name="viewport"
           content="width=device-width, initial-scale=0.85, maximum-scale=1.0, user-scalable=yes"
         />
-        {/* Favicon compatibility for multiple platforms */}
-        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+        {/* Favicon compatibility */}
+        <link rel="icon" href="/favicon.ico" />
         <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.webp" />
 
@@ -67,17 +70,17 @@ export default function Layout({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "Reltroner Studio",
-              "url": "https://reltroner.com",
-              "logo": {
+              name: "Reltroner Studio",
+              url: "https://reltroner.com",
+              logo: {
                 "@type": "ImageObject",
-                "url": "https://reltroner.com/images/logo.webp"
+                url: "https://reltroner.com/images/logo.webp",
               },
-              "sameAs": [
+              sameAs: [
                 "https://www.youtube.com/@reltroner",
                 "https://github.com/reltroner",
-                "https://twitter.com/reltroner"
-              ]
+                "https://twitter.com/reltroner",
+              ],
             }),
           }}
         />
@@ -89,47 +92,53 @@ export default function Layout({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebSite",
-              "name": "Reltroner Studio",
-              "url": "https://reltroner.com",
-              "potentialAction": {
+              name: "Reltroner Studio",
+              url: "https://reltroner.com",
+              potentialAction: {
                 "@type": "SearchAction",
-                "target": "https://reltroner.com/search?q={search_term_string}",
-                "query-input": "required name=search_term_string"
-              }
+                target: "https://reltroner.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string",
+              },
             }),
           }}
         />
 
-        {/* Structured Data: CreativeWork */}
+        {/* Structured Data: CreativeWork (Universe) */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "CreativeWork",
-              "name": "Reltroner Studio Universe",
-              "creator": {
+              name: "Reltroner Studio Universe",
+              creator: {
                 "@type": "Person",
-                "name": "Rei Reltroner",
-                "url": "https://reltroner.com/about"
+                name: "Rei Reltroner",
+                url: "https://reltroner.com/about",
               },
-              "dateCreated": "2025-04-06T00:00:00+07:00",
-              "description": "A deeply immersive digital world known as Asthortera — home of Reltronland, Depcutland, and the core narratives of The Abyss of Comfort and The Freezone Code. All contents, characters, visuals, and designs are original creations of Rei Reltroner.",
-              "publisher": {
+              dateCreated: "2025-04-06T00:00:00+07:00",
+              description:
+                "A deeply immersive digital world known as Asthortera — home of Reltronland, Depcutland, and the core narratives of The Abyss of Comfort and The Freezone Code.",
+              publisher: {
                 "@type": "Organization",
-                "name": "Reltroner Studio"
+                name: "Reltroner Studio",
               },
-              "inLanguage": "en",
-              "mainEntityOfPage": {
+              inLanguage: "en",
+              mainEntityOfPage: {
                 "@type": "WebPage",
-                "@id": "https://reltroner.com"
-              }
+                "@id": "https://reltroner.com",
+              },
             }),
           }}
         />
       </head>
-      <body className="bg-slate-100 text-black dark:bg-gray-900 dark:text-white">
+
+      <body className="bg-slate-100 text-black dark:bg-gray-900 dark:text-white flex flex-col min-h-screen">
+        {/* 🔥 Analytics Core */}
         <GoogleAnalytics />
+        <RouteAnalytics />
+
+        {/* Navigation */}
         <MobileNavbar />
         <header>
           <CommandPalette />
@@ -137,9 +146,16 @@ export default function Layout({ children }) {
             <Navbar />
           </div>
         </header>
+
+        {/* Content */}
         <main className="py-5 grow">{children}</main>
+
+        {/* Footer */}
         <footer className="border-t pt-4 pb-6 text-center text-xs text-gray-500">
-          <a href="/blog/for-recruiters" className="text-blue-500 hover:underline">
+          <a
+            href="/blog/for-recruiters"
+            className="text-blue-500 hover:underline"
+          >
             For Recruiters & Collaborators ↗
           </a>
           <br />

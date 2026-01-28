@@ -119,7 +119,7 @@ const places = [
   },
   {
     title: "🚉 Reltronepolis Central Station — Heart of Sentient Mobility",
-    description: "The continent-scale central terminal of Reltronland, integrating every mass transit mode except interstellar, and serving as the mobility pulse of Tron Square District.",
+    description: "The continent-scale central terminal of Reltronland, integrating every mass transit mode except interstellar, and serving as the mobility pulse of Reltronepolis Hub District.",
     slug: "reltronepolis-central-station",
     image: "/images/reltronepolis-central-station.webp",
     author: "Rei Reltroner",
