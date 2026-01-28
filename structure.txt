@@ -1,6 +1,3 @@
-components/PhilosophyAnalytics.jsx
-components/RouteAnalytics.jsx
-structure.txt
 .contentlayer/.cache/v0.3.4/compiled-contentlayer-config-5YV2HDUF.mjs
 .contentlayer/.cache/v0.3.4/compiled-contentlayer-config-5YV2HDUF.mjs.map
 .contentlayer/.cache/v0.3.4/compiled-contentlayer-config-AW3PHS7I.mjs
@@ -140,15 +137,20 @@ app/technologies/layout.jsx
 app/technologies/page.jsx
 bun.lock
 components/AiUsageStats.jsx
+components/BlogAnalytics.jsx
 components/CommandPalette.jsx
 components/DarkModeToggle.jsx
+components/DwellTimeTracker.jsx
 components/ExportJSONButton.jsx
 components/GoogleAnalytics.jsx
 components/Heading.jsx
 components/HydrationSafe.jsx
 components/MobileNavbar.jsx
 components/Navbar.jsx
+components/PhilosophyAnalytics.jsx
 components/PostCard.jsx
+components/RouteAnalytics.jsx
+components/ScrollDepthTracker.jsx
 components/YouTubeEmbed.jsx
 components/csv.jsx
 content/blog/12-month-roadmap.md
@@ -1062,6 +1064,7 @@ public/robots.txt
 public/sitemap-0.xml
 public/sitemap.xml
 slug-check-report.txt
+structure.txt
 tailwind.config.js
 tools/check-all-slugs.mjs
 tools/check-slugs.mjs
