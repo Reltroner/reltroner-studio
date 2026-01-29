@@ -145,6 +145,16 @@ const myths = [
     author: "Reltroner Studio",
     published: true,
     image: "/images/henchoway-underground.webp"
+  },
+  {
+    title: "Why Nytherion Abyss Resists Prediction",
+    description: "An in-world epistemic paper by the Astralis Sentient Research Collective examining why Nytherion Abyss cannot be reliably predicted, arguing that prediction itself becomes a destabilizing variable.",
+    slug: "nytherion-abyss-epistemic",
+    image: "/images/nytherion-abyss-epistemic.webp",
+    author: "Astralis Sentient Research Collective (ASRC)",
+    date: "2026-01-29",
+    published: true,
+    category: "Astralis Research Papers – Epistemology & Abyss Studies"
   }
 ];
 

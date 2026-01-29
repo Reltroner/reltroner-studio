@@ -218,6 +218,7 @@ export default function CommandPalette() {
     { name: "📡 The Ritual of Astralis Contact", path: "/myths/ritual-astralis-contact"},
     { name: "🕳️ The Nytherion Abyss Effect – The Idea Theft Phenomenon", path: "/myths/ide-theft-phenomenon"},
     { name: "⚫ Henchoway Underground: The Abyssal Network in Asthortera’s DOF Zones", path: "/myths/henchoway-underground"},
+    { name: "Why Nytherion Abyss Resists Prediction", path: "/myths/nytherion-abyss-epistemic"},
     // Organizations
     { name: "Henchoway", path: "/organizations/henchoway" },
     { name: "Reltroner Holding", path: "/organizations/reltroner-holding" },

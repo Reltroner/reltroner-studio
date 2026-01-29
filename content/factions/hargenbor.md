@@ -1,6 +1,6 @@
 ---
-title: "Hargenbor — Guardian of the Eastern Seas of Asthortera"
-description: "A maritime superpower steeped in mystery, ancient sea legends, and home to the Eastern Gate of the Nytherion Abyss."
+title: "Hargenbor — Guardian of the Central Seas of Asthortera"
+description: "A maritime superpower steeped in mystery, ancient sea legends, and home to the Central Gate of the Nytherion Abyss."
 image: "/images/hargenbor.webp"
 author: "Rei Reltroner"
 date: "2025-07-01"
@@ -13,7 +13,7 @@ published: true
 
 ---
 
-# ⚓ Hargenbor — Guardian of the Eastern Seas of Asthortera
+# ⚓ Hargenbor — Guardian of the Central Seas of Asthortera
 
 ### 🌍 General Information
 
@@ -35,7 +35,7 @@ published: true
 
 * Situated east of Lenternow, stretching along the coasts of the Central Ocean.
 * Features include long coastlines, hidden bays, rugged cliffs, and deep sea caves.
-* **Hargenbor Bay**, located in eastern Hargenbor, borders the Central Ocean and is renowned for its mystery and depth.
+* **Hargenbor Bay**, located in Central Hargenbor, borders the Central Ocean and is renowned for its mystery and depth.
 
 ---
 
@@ -121,11 +121,11 @@ Hargenbor is not just a nation. It's a narrative anchor in *The Abyss of Comfort
 
 ---
 
-# ⚓ Hargenbor Naval Armada — *Abyssal Fleet of the Eastern Watch*
+# ⚓ Hargenbor Naval Armada — *Abyssal Fleet of the Central Watch*
 
 ## 🌊 1. The Abyssline Fleet
 
-* **Role:** Strategic defense of the eastern coasts and permanent guardianship of Hargenbor Bay.
+* **Role:** Strategic defense of the Central coasts and permanent guardianship of Hargenbor Bay.
 * **Specialization:** Operates in thick fog, extreme oceanic storms, and abyssal energy zones.
 * **Flagships:**
 
@@ -193,7 +193,7 @@ Hargenbor is not just a nation. It's a narrative anchor in *The Abyss of Comfort
 
 ## 🌐 6. Sky-Harbor Patrol Units
 
-* **Role:** Aerial defense of eastern seas and coastal skies.
+* **Role:** Aerial defense of Central seas and coastal skies.
 * **Elite Units:**
 
   * *Skytracer Hover-Ship* – Pierces fog and flies at sea level.
