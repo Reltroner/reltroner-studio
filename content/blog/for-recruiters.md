@@ -147,6 +147,15 @@ I understand **what breaks them and why**.
 
 ---
 
+## 📄 Curriculum Vitae (Notion)
+
+For a structured, up-to-date CV with detailed experience and artifacts:
+
+👉 **Notion CV:**  
+https://immense-corn-a5c.notion.site/Raidan-Rei-CV-2f786ce37ade8083a9a5d0bfee103913?pvs=143
+
+---
+
 ## 🤝 Collaboration & Contact
 
 I’m open to:
