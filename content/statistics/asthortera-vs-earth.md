@@ -70,8 +70,8 @@ Asthortera appears as a massive, vibrant world with more diversified biomes, gre
   - 61% Human (Depeisit descendant)
   - 24% Human (Cistheta descendant)
   - 7% Human-Wizard-Witch (native Asthorteran race)
-  - 5% Cosmeilia-Human Mixed & Others Cosmeilian Sentients
-  - 3% Others (alien humanoids, hybrids)
+  - 6% Cosmeilia-Human Mixed & Others Cosmeilian Sentients
+  - 2% Others (alien humanoids, hybrids)
 - **Life Expectancy:** ~105 years
 - **Summary:** A mature, stable society with high life expectancy and ongoing intellectual productivity, driven by merit, innovation, and spiritual balance.
 

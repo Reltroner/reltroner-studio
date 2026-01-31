@@ -11,7 +11,7 @@ image: "/images/for-recruiters-banner.webp"
 # 🧭 For Recruiters & Collaborators
 
 Hello —  
-My name is **Rei Reltroner**, founder of **Reltroner Studio**.
+I'm **Rei Reltroner**, founder of **Reltroner Studio**.
 
 This page is written for recruiters, hiring managers, and collaborators who want to quickly understand **how I think, where I fit best, and whether it makes sense to continue the conversation**.
 

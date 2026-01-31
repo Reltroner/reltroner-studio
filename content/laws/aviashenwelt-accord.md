@@ -39,10 +39,10 @@ To maintain spiritual and civic harmony, cross-border movement across Asthortera
 
 1. **Reltronland** – Sovereign meritocratic clarity state
 2. **Pasgerflit** – Sky-powered transit civilization
-3. **Taramistry** – Wellness and pharmaceutical research hub
-4. **Lenternow** – Green energy and planetary renewal nation
-5. **Stelpadland** – Infrastructure and megaproject logistics
-6. **Chatechlink** – Navigation & digital intelligence systems
+3. **Depcutland** – Archival civilization
+4. **Taramistry** – Wellness and pharmaceutical research hub
+5. **Lenternow** – The Lanternlight Nation
+6. **Stelpadland** – Scouting civilization
 7. **Pencilfania** – Cultural and educational influence center
 
 ---
