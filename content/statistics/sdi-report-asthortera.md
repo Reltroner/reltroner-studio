@@ -119,7 +119,7 @@ making it one of the most emotionally stable nations in Asthortera.
 ### 🌠 **Astrostelia**  
 **SDI:** 0.957  
 **Strengths:**  
-- Aurora science expertise  
+- Interstellar science expertise  
 - Cosmic research leadership  
 
 ---

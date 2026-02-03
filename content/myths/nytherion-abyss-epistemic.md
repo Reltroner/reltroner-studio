@@ -158,12 +158,16 @@ It **occupies it**.
 
 ## 5. Comparison with Finite Complexity Systems
 
+```
+
 | System               | State Space        | Predictability              |
 | -------------------- | ------------------ | --------------------------- |
 | Rubik’s Cube         | Finite (~4.3×10¹⁹) | Fully solvable              |
 | Chess                | Vast (~10¹²⁰)      | Theoretically bounded       |
 | Galactic Weather     | Chaotic            | Statistically modelable     |
 | **Nytherion Abyss**  | Unbounded          | **Epistemically unstable**  |
+
+```
 
 Nytherion Abyss is not complex in *size*.  
 It is complex in **definition**.

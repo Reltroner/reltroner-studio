@@ -53,7 +53,7 @@ Antagonists are not meant to be easily hated. They are meant to be **understood*
 
 ### 4. **Relatable Motives**
 - Antagonists carry **trauma, loss, and rational goals**.  
-- Kamila lost her family in *Eterna Collapse* → she created Abyss as sanctuary from pain.  
+- Kamila lost her family in *Erterna Collapse* → she created Abyss as sanctuary from pain.  
 - Audience debates: *“Is she wrong, or just responding to a cruel world?”*  
 
 ---
@@ -89,7 +89,7 @@ Antagonists are not meant to be easily hated. They are meant to be **understood*
    → Each antagonist must represent an **ideological system**:  
      - Kamila = *Blue Pill Eternal*  
      - Abyss = *Comfort as Poison*  
-     - Henchoeway = *Illusion as Order*  
+     - Henchoway = *Illusion as Order*  
 
 ---
 
