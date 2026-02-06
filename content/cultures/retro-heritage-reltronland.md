@@ -39,7 +39,7 @@ Even with Office Punk dominance, several retro traditions remain strong:
 - **Retro–Office Punk Hybrid** — Modern suits with pocket watches, fedoras, or wide ties.
 
 ### Music & Entertainment
-- **Aurora Groove Jazz Club** — 1950s interior, live retro jazz.  
+- **Astralis Groove Jazz Club** — 1950s interior, live retro jazz.  
 - **National Retro Hour** — Daily radio broadcast of liberation-era music.  
 - **Swing & Lindy Hop Nights** — Popular among young professionals.
 
@@ -99,7 +99,7 @@ A chronological narrative map of how Reltronland’s post-war retro culture evol
 
 - **Key Traditions:**
   - **Retro Reltron Festival** — Annual nationwide retro dress celebration.
-  - **Jazz & Swing Clubs** — Cultural hubs like *Aurora Groove*.
+  - **Jazz & Swing Clubs** — Cultural hubs like *Astralis Groove*.
   - **Classic Vehicle Parades** — Post-war cars preserved as icons.
 - **Philosophy:** *"Never forget the era that forged our strength."*
 

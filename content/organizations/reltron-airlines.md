@@ -133,7 +133,7 @@ Unique benefits:
 ## 🌌 Symbolism & Lore
 
 Reltron Airlines is more than an airline. It is the **physical manifestation of Astralis Pinnacle in the skies**.  
-Every flight is a ritual: departure from RAIA through the **Aurora Departure Ring** → emotional balance → **Time Compression Corridor** → boarding into **clarity alignment**.
+Every flight is a ritual: departure from RAIA through the **Astralis Departure Ring** → emotional balance → **Time Compression Corridor** → boarding into **clarity alignment**.
 
 > _“Let Astralis light the unknown.”_
 
