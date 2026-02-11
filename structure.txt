@@ -1069,3 +1069,151 @@ tailwind.config.js
 tools/check-all-slugs.mjs
 tools/check-slugs.mjs
 tools/slug-check-report.txt
+
+
+# 🗺️ Provinsi Troneiput
+
+### Wilayah Perbatasan Strategis Reltronland
+
+**Status:** Provinsi Negara
+**Negara:** Reltronland
+**Ibu Kota Provinsi:** Neiputra
+**Klasifikasi:** Border–Strategic Province · Economic & Reality Stabilization Zone
+
+---
+
+## I. Gambaran Umum
+
+**Troneiput** adalah provinsi perbatasan paling strategis di **Reltronland**, terletak langsung berbatasan darat dengan negara **Depcutland**. Provinsi ini memiliki posisi unik sebagai:
+
+* gerbang utama mobilitas lintas negara,
+* zona transisi geopolitik pasca-perang,
+* dan lapisan stabilisasi realita antara dua peradaban inti Asthortera.
+
+Troneiput bukan sekadar wilayah administratif, melainkan **buffer civilization zone** yang dirancang untuk mencegah konflik, friksi ideologi, dan infiltrasi Nytherion Abyss melalui pendekatan sistemik, bukan militeristik.
+
+---
+
+## II. Sejarah Singkat
+
+### 1. Era Pra-Reltronland
+
+Sebelum berdirinya Reltronland, wilayah Troneiput merupakan daerah frontier yang diperebutkan akibat:
+
+* posisi logistik yang vital,
+* jalur migrasi kuno Beluftner,
+* dan kedekatan langsung dengan pusat aristokrat Depcutland lama.
+
+Wilayah ini pernah menjadi **titik awal konflik militer besar Reltronland–Depcutland**, sebelum akhirnya diamankan dan direstrukturisasi oleh Reltronland.
+
+---
+
+### 2. Era Perang Reltronland–Depcutland
+
+Dalam perang besar tersebut:
+
+* Troneiput menjadi garis depan non-simbolik,
+* bukan medan tempur brutal, melainkan **medan uji ketahanan sistem dan logistik**.
+
+Reltronland menolak menjadikan Troneiput zona kehancuran, dan justru menggunakannya sebagai contoh bagaimana peradaban menang tanpa mengorbankan struktur sipil.
+
+---
+
+### 3. Era Pasca-Perang
+
+Setelah Depcutland bertransisi dari **Aristocrat Archival** ke **Merit Archival**, Troneiput diresmikan sebagai provinsi penuh Reltronland dengan mandat khusus:
+
+> *“Menjaga perbatasan tanpa menjadikannya luka.”*
+
+---
+
+## III. Geografi & Tata Ruang
+
+* Topografi: dataran terencana + koridor hijau
+* Tidak ada tembok perbatasan masif
+* Jalur lintas batas sipil terintegrasi
+* Zona industri berat **dilarang** berada dekat perbatasan
+
+Perbatasan Troneiput dirancang sebagai **open-visibility border**, di mana transparansi lebih efektif daripada intimidasi.
+
+---
+
+## IV. Administrasi & Keamanan
+
+### 1. Model Pemerintahan
+
+* Tidak ada militer tetap skala besar
+* Keamanan berbasis:
+
+  * penegakan hukum sipil,
+  * pengawasan sistemik,
+  * koordinasi real-time dengan RSC
+
+### 2. Kedutaan & Diplomasi Lokal
+
+* Terdapat **kedutaan mini Depcutland** di hampir semua kota utama Troneiput
+* Berfungsi sebagai:
+
+  * mediator konflik mikro,
+  * pusat layanan warga lintas batas,
+  * node transparansi pasca-konflik
+
+---
+
+## V. Ekonomi Provinsi
+
+### Sektor Unggulan:
+
+* Logistik lintas negara
+* Jasa profesional & arbitrase sistem
+* Pendidikan meritokratis
+* Financial clearing non-speculative
+
+Troneiput tidak mengejar pertumbuhan agresif, tetapi **stabilitas ekonomi presisi**.
+
+---
+
+## VI. Demografi & Budaya
+
+* Populasi sangat heterogen
+* Banyak keluarga lintas Reltronland–Depcutland
+* Identitas provinsi bersifat fungsional, bukan etnis
+
+Budaya utama Troneiput:
+
+* disiplin tenang,
+* komunikasi langsung,
+* alergi terhadap simbol feodalisme.
+
+---
+
+## VII. Peran dalam Sistem Reltronland
+
+Troneiput berfungsi sebagai:
+
+1. **Reality Pressure Absorber**
+2. Zona uji kebijakan lintas negara
+3. Filter ideologi sebelum mencapai pusat Reltronland
+4. Contoh hidup bahwa perdamaian tidak lahir dari kelembutan, tetapi dari struktur
+
+---
+
+## VIII. Fakta Unik
+
+* Provinsi dengan audit sistem terbanyak di Reltronland
+* Tingkat kriminalitas lintas negara terendah
+* Tidak ada monumen perang besar
+* Buku hukum lebih banyak daripada tugu kemenangan
+
+---
+
+## IX. Kutipan Resmi
+
+> *“Troneiput bukan tembok antara dua negara.
+> Troneiput adalah bukti bahwa konflik dapat diselesaikan tanpa diwariskan.”*
+
+— **Arsip Provinsi Reltronland**
+
+---
+
+**Klasifikasi Dokumen:** Public · Educational · Strategic Context
