@@ -65,8 +65,8 @@ clarity, comfort, structure, motion, memory, neutrality, creativity, or illusion
 
 ---
 
-### 🤿 **Henchoewayball**
-- **Faction:** Henchoeway  
+### 🤿 **Henchowayball**
+- **Faction:** Henchoway  
 - **Title:** Comfort Liaison (Uninvited)  
 - **Personality:** Soft-spoken, manipulative, abyssal  
 - **Symbol:** Gas mask face  
@@ -154,7 +154,7 @@ clarity, comfort, structure, motion, memory, neutrality, creativity, or illusion
 2. **Late Departure, Wrong Panel** — Reltronball loses it again  
 3. **Emergency Landing at Pencilfania** — The Doodle Tribunal  
 4. **Neutral Ground Doesn’t Mean No Ground** — Kalgered speaks  
-5. **Henchoeway Broadcasts a Comfort Emergency** — Blue Mist Incident  
+5. **Henchoway Broadcasts a Comfort Emergency** — Blue Mist Incident  
 
 > [📖 Read the full summit archive →](/factions/comicball-summit)
 
@@ -163,7 +163,7 @@ clarity, comfort, structure, motion, memory, neutrality, creativity, or illusion
 ## 🖌️ Style Guidelines
 - Reltronball: minimalist, no hat (exceptions are narrative-driven)
 - Depcutball: **hat is mandatory**
-- Henchoewayball: never fully solid
+- Henchowayball: never fully solid
 - Kalgeredball: minimal motion, maximal weight
 - Humor is dry, philosophical, and etiquette-bound
 

@@ -267,6 +267,16 @@ const laws = [
     date: "2025-09-09",
     published: true,
     image: "/images/clarity-politics-reltronland.webp"
+  },
+  {
+    title: "Reltronland Intercivilizational Gold Custody Protocol (RIGCP)",
+    description: "A sovereign financial–custodial framework defining how Reltronland ethically accepts, stores, and safeguards gold assets from external civilizations without monetary leverage or exploitation.",
+    slug: "reltronland-gold-custody-protocol",
+    image: "/images/reltronland-gold-custody-protocol.webp",
+    author: "Reltronland Sovereign Monetary Custody Authority",
+    date: "2026-02-12",
+    published: true,
+    category: "Sovereign Frameworks · Intercivilizational Finance"
   }
   
   // Tambahkan lebih banyak Law di masa depan...

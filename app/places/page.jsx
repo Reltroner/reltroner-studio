@@ -258,6 +258,16 @@ const places = [
     date: "2025-09-17",
     published: true,
     image: "/images/r-block-district.webp"
+  },
+  {
+    title: "Voidtropolis — The Void Energy Capital of Reltronland",
+    slug: "voidtropolis-void-energy-capital",
+    description: "Voidtropolis is a sovereign strategic city serving as the heart of Void Energy production, storage, and causal stabilization for Reltronland, operated by the state-owned corporation RelVoid.",
+    image: "/images/voidtropolis-void-energy-capital.webp",
+    author: "Rei Reltroner",
+    date: "2026-02-12",
+    published: true,
+    category: "Cities · Strategic Infrastructure"
   }
 ];
 

@@ -3,16 +3,11 @@ title: "Reltronland Intercivilizational Gold Custody Protocol (RIGCP)"
 description: "A sovereign financial–custodial framework defining how Reltronland ethically accepts, stores, and safeguards gold assets from external civilizations without monetary leverage or exploitation."
 image: "/images/reltronland-gold-custody-protocol.webp"
 author: "Reltronland Sovereign Monetary Custody Authority"
-date: "2025-11-28"
+date: "2026-02-12"
 published: true
 category: "Sovereign Frameworks · Intercivilizational Finance"
-tags:
-  - Reltronland
-  - Intercivilizational Custody
-  - Gold Reserves
-  - Monetary Clarity
-  - Astralis Pinnacle
-  - Legacy Value Systems
+---
+
 ---
 
 # 🏦 **Reltronland Intercivilizational Gold Custody Protocol (RIGCP)**

@@ -261,6 +261,7 @@ export default function CommandPalette() {
     { name: "🏙️ Retro District — Heritage Skyscraper Zone of Reltronepolis", path: "/places/retro-district" },
     { name: "🏙️ R Block District — Youth & Subculture Hub of South Reltronepolis", path: "/places/r-block-district" },
     { name: "3D · 4D · 5D Sovereignty Doctrine of Reltronland", path: "/places/3d-4d-5d-sovereignty-doctrine-reltronland" },
+    { name: "Voidtropolis — The Void Energy Capital of Reltronland", path: "/places/voidtropolis-void-energy-capital" },
     // Series
     { name: "False Portal", path: "/series/false-portal" },
     { name: "The Abyss of Comfort", path: "/series/the-abyss-of-comfort" },
@@ -361,6 +362,7 @@ export default function CommandPalette() {
     { name: "🛡️ RAID-1: Anti-Idleness Division of Reltronland", path: "/laws/raid1-reltronland"},
     { name: "📜 Twin Digital Accord (966 BAC)", path: "/laws/twin-digital-accord"},
     { name: "🏛️ Clarity Politics of Reltronland", path: "/laws/clarity-politics-reltronland"},
+    { name: "🏛️ Reltronland Intercivilizational Gold Custody Protocol", path: "/laws/reltronland-gold-custody-protocol"},
 
     //Technologies
     { name: "Reltronland Hyperloop", path: "/technologies/reltronland-hyperloop" },

@@ -20,7 +20,7 @@ tags: \["Pasgerflit", "Reltronland", "Depcutland", "Asthortera Comedy", "Country
 
 In a high-stakes SDI diplomatic summit held at **Stelhaven**, Kalgered, the disciplined halls of bureaucracy are disrupted when **Pasgerflit**, the ever-airborne Sky Nation, lands at the **wrong gate** and interrupts the meeting late, confused, and orbitally misaligned.
 
-What follows is a roundtable chaos of paperwork, rituals, and philosophical side-eyes from other factions like **Reltronland**, **Depcutland**, **Henchoeway**, and more.
+What follows is a roundtable chaos of paperwork, rituals, and philosophical side-eyes from other factions like **Reltronland**, **Depcutland**, **Henchoway**, and more.
 
 ---
 
@@ -28,7 +28,7 @@ What follows is a roundtable chaos of paperwork, rituals, and philosophical side
 
 ### 🏢 **Reltronland** — *Clarity Over Chaos*
 
-> “Agenda item 1: Audit SDI behavior of Henchoeway infiltrators. No distractions.”
+> “Agenda item 1: Audit SDI behavior of Henchoway infiltrators. No distractions.”
 #### The ideological capital of Astralis Pinnacle. Reltronland tolerates no delays, no illusions, and certainly no unlogged turbulence. Every second is accounted for.
 
 ---
@@ -47,10 +47,10 @@ What follows is a roundtable chaos of paperwork, rituals, and philosophical side
 
 ---
 
-### 🤿 **Henchoeway** — *The Abyssal Whisper*
+### 🤿 **Henchoway** — *The Abyssal Whisper*
 
 > “You could’ve just… not come. Stillness is better.”
-#### Subtle cult of illusionism and stagnation. Henchoeway opposes clarity with comfort, promoting withdrawal into deceptive calm.
+#### Subtle cult of illusionism and stagnation. Henchoway opposes clarity with comfort, promoting withdrawal into deceptive calm.
 
 ---
 
@@ -91,7 +91,7 @@ What follows is a roundtable chaos of paperwork, rituals, and philosophical side
 
 ### 💡 **Lenternow** — *The Architect of Light*
 
-> “Transit must illuminate. I’ll project a lightpath... unless Henchoeway dims it again.”
+> “Transit must illuminate. I’ll project a lightpath... unless Henchoway dims it again.”
 #### A civilization that builds cities with photons and philosophies of clarity. Lenternow believes movement must be luminous—or not at all.
 
 ---
@@ -110,7 +110,7 @@ What follows is a roundtable chaos of paperwork, rituals, and philosophical side
 
 ### 🏢 Reltronland:
 
-📂 “Agenda item 1: Audit SDI behavior of Henchoeway infiltrators. No distractions.”
+📂 “Agenda item 1: Audit SDI behavior of Henchoway infiltrators. No distractions.”
 
 ---
 
@@ -120,7 +120,7 @@ What follows is a roundtable chaos of paperwork, rituals, and philosophical side
 
 ---
 
-### 🤿 Henchoeway:
+### 🤿 Henchoway:
 
 😌 *“You could’ve just... not come. Stillness is better.”*
 
@@ -162,7 +162,7 @@ What follows is a roundtable chaos of paperwork, rituals, and philosophical side
 
 ---
 
-### 🤿 Henchoeway:
+### 🤿 Henchoway:
 
 🎭 *“See? Chaos. Now come rest in the Abyss. We have silence. And scuba.”*
 
@@ -194,11 +194,11 @@ What follows is a roundtable chaos of paperwork, rituals, and philosophical side
 
 ### 💡 Lenternow:
 
-💡 *“Transit must illuminate. I’ll project a lightpath... unless Henchoeway dims it again.”*
+💡 *“Transit must illuminate. I’ll project a lightpath... unless Henchoway dims it again.”*
 
 ---
 
-### 🤿 Henchoeway:
+### 🤿 Henchoway:
 
 😌 *“Light? Hmph. Darkness has better acoustics.”*
 
@@ -241,7 +241,7 @@ Even in jest, it reminds us that **SDI diplomacy is as much about rhythm as it i
 
 - "Reltronball & Depcutball: Bureaucracy Bros"
 - "SDI Summit: The Silence of Kalgered"
-- "Henchoeway Hijack: Memory Pools in Media"
+- "Henchoway Hijack: Memory Pools in Media"
 
 ---
 
@@ -293,9 +293,9 @@ Meet the sentient spheres of Asthortera — each a philosophical embodiment disg
 
 ---
 
-### 🤿 **Henchoewayball**
+### 🤿 **Henchowayball**
 
-* **Faction:** Henchoeway
+* **Faction:** Henchoway
 * **Color:** Abyssal Dark Blue
 * **Symbol:** Gas mask face
 * **Expression:** Deadpan
@@ -416,7 +416,7 @@ Reltronball's clarity tolerance reaches zero.
 
 ---
 
-### 🤿 Henchoewayball:
+### 🤿 Henchowayball:
 
 🕳️ *“It’s okay. Let the noise win. Silence was an illusion anyway.”*
 
@@ -498,7 +498,7 @@ The problem? Pasgerflit has never used a pencil in their life.
 
 ---
 
-### 🤿 Henchoewayball (materializes as a shadow in the ink pot):
+### 🤿 Henchowayball (materializes as a shadow in the ink pot):
 
 🕳️ *“Doodles decay faster in comfort. Just surrender the sketchbook.”*
 
@@ -542,7 +542,7 @@ And when Kalgered speaks — Asthortera listens.
 
 ---
 
-### 🤿 Henchoewayball:
+### 🤿 Henchowayball:
 
 🕳️ *“Silence is overrated. Let it be devoured by blue.”*
 
@@ -582,11 +582,11 @@ Kalgered reminds everyone that peace isn’t passive — it’s a discipline. An
 
 ---
 
-# 🕳️ Henchoeway Broadcasts a Comfort Emergency — *Blue Mist in the Air*
+# 🕳️ Henchoway Broadcasts a Comfort Emergency — *Blue Mist in the Air*
 
 ## 🎬 Episode Summary
 
-Just as the summit regains focus under Kalgered’s silence doctrine, the shadows deepen. **Henchoeway triggers Protocol Fog-7**: a mass-scale emotional broadcast known as **The Blue Mist**, spreading comfort slogans, nostalgic distractions, and a dangerous urge to nap.
+Just as the summit regains focus under Kalgered’s silence doctrine, the shadows deepen. **Henchoway triggers Protocol Fog-7**: a mass-scale emotional broadcast known as **The Blue Mist**, spreading comfort slogans, nostalgic distractions, and a dangerous urge to nap.
 
 Suddenly, everyone feels… calm. Too calm.
 
@@ -594,11 +594,11 @@ Suddenly, everyone feels… calm. Too calm.
 
 ## 📺 Scene Dialogue: *“You Deserve to Stop Trying”*
 
-**\[Scene opens: summit hall lights dim. Screens flicker. A faint blue mist seeps from the ceiling vents. A hologram of Henchoewayball expands in the center.]**
+**\[Scene opens: summit hall lights dim. Screens flicker. A faint blue mist seeps from the ceiling vents. A hologram of Henchowayball expands in the center.]**
 
 ---
 
-### 🤿 Henchoewayball:
+### 🤿 Henchowayball:
 
 🕳️ *“You’ve struggled enough. Let it go. Be still. Be soft. Be nothing.”*
 
@@ -644,7 +644,7 @@ Suddenly, everyone feels… calm. Too calm.
 
 > *Comfort is not always care. Stillness is not always peace.*
 
-Henchoeway’s tactics are seductive — but temporary. The summit must choose: ease… or endurance.
+Henchoway’s tactics are seductive — but temporary. The summit must choose: ease… or endurance.
 
 ---
 
