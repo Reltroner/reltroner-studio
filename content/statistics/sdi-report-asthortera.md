@@ -29,7 +29,7 @@ These indicators are not fixed—they evolve with each generation’s spiritual 
 ---
 
 ## 📈 Global Average of Asthortera
-- **Average SDI across all nations**: `0.921 / 1.000`
+- **Average SDI across all nations**: `0.938 / 1.000`
 - Considered extremely high on the galactic scale
 - Due to widespread cultural emphasis on awareness, resilience, and meritocracy
 
@@ -50,7 +50,7 @@ Reltronland isn't just advanced—it is the **benchmark of sentient evolution**.
 
 ---
 
-### 🇩🇨 Depcutland — `SDI: 0.983`
+### 🇩🇨 Depcutland — `SDI: 0.981`
 **Status: Reflective Sister-Nation of Reltronland**
 
 **Core Reasons:**
@@ -66,7 +66,7 @@ Depcutland prioritizes wisdom as much as efficiency,
 making it one of the most emotionally stable nations in Asthortera.
 
 ---
-🔍 *Top SDI Nations:* ![SDI Nations Statistics](/images/sdi2025.webp)
+🔍 *Top SDI Nations:* ![SDI Nations Statistics](/images/sdi-asthortera-2026.webp)
 ---
 
 ### 🌈 Other Notable High-SDI Nations
@@ -82,7 +82,7 @@ making it one of the most emotionally stable nations in Asthortera.
 ---
 
 ### 🏛️ **Depcutland**  
-**SDI:** 0.983  
+**SDI:** 0.981  
 **Strengths:**  
 - High cultural literacy  
 - Elegance and philosophical education  

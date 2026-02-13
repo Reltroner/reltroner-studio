@@ -57,7 +57,7 @@ Asthortera appears as a massive, vibrant world with more diversified biomes, gre
 
 ### 📊 Asthortera Development Profile
 - **Total Sentient Population:**  ~4412 billion
-- **SDI (Sentient Development Index):** 0.921 / 1.000 (Among the highest across all inhabited planets)
+- **SDI (Sentient Development Index):** 0.938 / 1.000 (Among the highest across all inhabited planets)
 - **Median Age:** ~40 years
 - **Birth Rate:** Stable, with gradual urban demographic trends and high education standards
 - **Education Systems:** Heavily research-based, with universal access and ethical enforcement

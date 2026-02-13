@@ -25,7 +25,7 @@ published: true
 ---
 
 ### 📊 Key Stats
-- **SDI (Sentient Development Index):** 0.983
+- **SDI (Sentient Development Index):** 0.981
 - **Population:** 256 billion sentient beings
 - **Land Area:** 52 million km²
   - 81% of human of planetary descent **Depeisit**
