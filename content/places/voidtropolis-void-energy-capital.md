@@ -16,7 +16,7 @@ category: "Cities · Strategic Infrastructure"
 **Status:** Strategic Autonomous City  
 **Province:** Reltronepolis  
 **Primary Function:** Void Energy Production, Storage, and Causal Stability  
-**State Corporation:** **:contentReference[oaicite:1]{index=1}**
+**State Corporation:** **RelVoid**
 
 ---
 

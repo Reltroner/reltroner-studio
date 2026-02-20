@@ -84,13 +84,38 @@ Asthortera’s equilibrium allows continuous coexistence among biological, synth
 
 ## 🕰️ Historical Summary
 
-| Era | Key Event | Description |
-|-----|------------|-------------|
-| **Pre-Beluftner** | Proto-Sentient Age | Planet inhabited by early consciousness species. |
-| **Beluftner Age** | Founding Civilization | Origin of planetary law, measurement, and ethics. |
-| **Cosmeilian Arrival** | Interstellar Migration | Cosmeilia pioneers settle and name Asthortera. |
-| **Post-Depeisit Era** | Civilizational Rebirth | Refugees from Depeisit rebuild new governance under Astralis light. |
-| **Reltronland Ascendancy** | Modern Apex | Formation of Reltronland as embodiment of Astralis Pinnacle. |
+### **Pre-Beluftner Era**
+
+**Key Event:** Proto-Sentient Age
+**Description:** The planet was inhabited by early consciousness-bearing species, forming the primitive foundations of sentient awareness and instinctive social order.
+
+---
+
+### **Beluftner Age**
+
+**Key Event:** Founding Civilization
+**Description:** The first structured civilization emerged, establishing planetary law, systems of measurement, and ethical frameworks that would influence all subsequent eras.
+
+---
+
+### **Cosmeilian Arrival**
+
+**Key Event:** Interstellar Migration
+**Description:** Pioneers from Cosmeilia arrived through interstellar passage, settling the planet and formally naming it Asthortera, initiating a new epoch of cultural synthesis.
+
+---
+
+### **Post-Depeisit Era**
+
+**Key Event:** Civilizational Rebirth
+**Description:** Following collapse and displacement from Depeisit, refugees rebuilt governance structures aligned with Astralis principles, marking a decisive philosophical reset.
+
+---
+
+### **Reltronland Ascendancy**
+
+**Key Event:** Modern Apex
+**Description:** The formation of Reltronland as the living embodiment of Astralis Pinnacle, representing the highest realized expression of sentient development in the modern age.
 
 ---
 

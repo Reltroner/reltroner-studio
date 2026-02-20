@@ -8,7 +8,9 @@ date: "2025-04-23"
 published: true
 ---
 
-## 🗺️ Asthortera World Map — Development Progress Overview
+---
+
+# 🗺️ Asthortera World Map — Development Progress Overview
 
 This document presents the **current version** of the world map of **Asthortera**, the primary planetary setting of the Reltroner Studio Universe. It is a visual work-in-progress intended to help track the growth of regions, geopolitics, cultural zones, and narrative arcs across the world.
 

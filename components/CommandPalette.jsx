@@ -234,6 +234,7 @@ export default function CommandPalette() {
     { name: "🍔 ByteBite — Reltronland's Largest Fast Food Network", path: "/organizations/bytebite" },
     { name: "🏦 Clarity Bank of Reltronland (CBR)", path: "/organizations/clarity-bank-of-reltronland" },
     { name: "✈️ Reltron Airlines — Fly the Astralis Line", path: "/organizations/reltron-airlines" },
+    { name: "🏦 TCBC — Troneiput & Cutneiput Banking Corporation", path: "/organizations/tcbc-troneiput-cutneiput-banking-corporation" },
     // Places
     { name: "Erterna Ruin", path: "/places/erterna-ruin" },
     { name: "Llyn Geda", path: "/places/llyn-geda" },
