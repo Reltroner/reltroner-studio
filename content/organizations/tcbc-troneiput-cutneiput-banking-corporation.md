@@ -323,7 +323,7 @@ Because it is:
 
 ---
 
-## XI. Structural Comparison with :contentReference[oaicite:1]{index=1}
+## XI. Structural Comparison with HSBC
 
 **Similarities:**
 
