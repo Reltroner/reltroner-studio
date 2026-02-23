@@ -77,8 +77,11 @@ A modular ERP system composed of three independent Laravel applications (Gateway
 - Financial reporting modules with transaction immutability and snapshot validation  
 
 Live HRM Demo: [hrm.reltroner.com](https://hrm.reltroner.com)  
+
 Finance Repository: [github.com/Reltroner/finance-reltroner](https://github.com/Reltroner/finance-reltroner)
+
 Error Documentation: [github.com/Reltroner/error-documentation](https://github.com/Reltroner/error-documentation)  
+
 Progress Documentation: [github.com/Reltroner/progress-documentation](https://github.com/Reltroner/progress-documentation)
 
 This project demonstrates full lifecycle ownership — from database schema design and backend logic to CI/CD automation and production deployment.
