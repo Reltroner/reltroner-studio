@@ -76,7 +76,9 @@ A modular ERP system composed of three independent Laravel applications (Gateway
 - 100+ database migrations  
 - Financial reporting modules with transaction immutability and snapshot validation  
 
-Live HRM Demo: [hrm.reltroner.com](https://hrm.reltroner.com)  
+Live HRM Demo: [hrm.reltroner.com](https://hrm.reltroner.com) 
+
+Gateway Repository: [github.com/Reltroner/reltroner-app-main](https://github.com/Reltroner/reltroner-app-main)
 
 Finance Repository: [github.com/Reltroner/finance-reltroner](https://github.com/Reltroner/finance-reltroner)
 
