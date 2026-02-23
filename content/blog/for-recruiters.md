@@ -1,6 +1,6 @@
 ---
 title: "For Recruiters & Collaborators"
-description: "Professional overview for recruiters and collaborators seeking system-oriented engineers"
+description: "Professional overview for recruiters and collaborators seeking a production-focused backend engineer"
 date: "2025-03-24"
 published: true
 image: "/images/for-recruiters-banner.webp"
@@ -8,166 +8,103 @@ image: "/images/for-recruiters-banner.webp"
 
 ---
 
-# 🧭 For Recruiters & Collaborators
+# For Recruiters & Collaborators
 
 Hello —  
-I'm **Rei Reltroner**, founder of **Reltroner Studio**.
+I'm **Rei Reltroner** (Raidan Sandra), a backend engineer focused on building modular, production-ready systems with clear boundaries and long-term maintainability.
 
-This page is written for recruiters, hiring managers, and collaborators who want to quickly understand **how I think, where I fit best, and whether it makes sense to continue the conversation**.
-
-You do **not** need to read everything.
+This page provides a concise overview of how I work, what I’ve built, and where I can contribute effectively.
 
 ---
 
-## ⏱️ How to Read This Page (Important)
+## Fast Professional Overview
 
-- **90 seconds** → Read **“Fast Professional Overview”**, then stop  
-- **3–5 minutes** → Continue to **“How I Work”**  
-- **Deep dive (optional)** → Explore projects & philosophy below  
+**Primary Focus**  
+Backend engineering, modular ERP-style systems, authentication flows, and system integrity.
 
-You can stop at any point if this already answers your question.
+**Core Strengths**
 
----
+- Turning ambiguous requirements into structured implementations  
+- Designing modular Laravel systems with clear service separation  
+- Implementing authentication flows (SSO, JWT, RBAC)  
+- Building automated test suites for financial and transactional integrity  
+- Debugging production issues with calm, methodical analysis  
 
-## 🚀 Fast Professional Overview (90 seconds)
+**Best Fit**
 
-**Who I am**  
-A system-oriented backend / platform engineer and founder, focused on **authentication, internal platforms, system clarity, and documentation that survives scale**.
-
-**What I’m best at**
-- Turning ambiguity into structured systems
-- Designing auth-first, boundary-clear architectures
-- Building internal tools that teams can actually maintain
-- Writing documentation that reduces cognitive load, not adds to it
-
-**Where I fit best**
-- Platform / backend / internal systems roles
-- Early-stage or transition-phase teams
-- Environments that value correctness, clarity, and long-term ownership
-
-**Where I do *not* fit**
-- Feature-factory teams with no system ownership
-- Performative innovation or hype-driven cultures
-- Roles with no space for architectural responsibility
-
-👉 If this already feels aligned, you can continue.  
-👉 If not, it’s completely fine to stop here.
+- Backend or platform-oriented roles  
+- SaaS / SME tech companies  
+- Internal product teams requiring ownership and long-term system stability  
 
 ---
 
-## 🧠 Who I Am (Context)
+## Professional Approach
 
-I am the creator of **Reltroner Studio** — a creative-technology studio operating at the intersection of:
+I focus on building systems that are:
 
-- system thinking  
-- digital engineering  
-- narrative-driven documentation  
+- Modular and boundary-aware  
+- Test-backed and deployment-ready  
+- Operationally reliable  
+- Designed to evolve safely over time  
 
-Reltroner Studio was built without funding, privilege, or institutional backing.  
-It emerged from **long-term self-education, real constraints, and hands-on problem solving**.
+My experience includes:
 
-I don’t optimize for optics.  
-I optimize for **clarity, continuity, and survivability**.
+- Laravel-based modular ERP systems (Gateway, HRM, Finance)  
+- REST API design and inter-service communication  
+- Centralized SSO authentication (OIDC, JWT-based access control)  
+- Financial reporting modules (Balance Sheet, Profit & Loss)  
+- Snapshot-based reporting and transaction integrity controls  
+- CI/CD pipelines using GitHub Actions  
+- Structured technical documentation and failure logs  
 
----
-
-## 🛠️ How I Work
-
-I don’t just build applications.  
-I design **systems that help people think, decide, and scale with clarity**.
-
-My work combines:
-
-- **Backend & platform engineering**  
-  (Laravel, REST APIs, auth flows, internal tools)
-
-- **System architecture**  
-  (clear boundaries, modularity, responsibility separation)
-
-- **Narrative documentation**  
-  (explicit reasoning, trade-offs, and constraints)
-
-- **Long-term thinking**  
-  (systems designed to survive change, not just ship features)
-
-Over time, I’ve independently built and maintained:
-- 200+ structured Markdown documents
-- Auth-centric internal platforms
-- Laravel-based HRM & modular tooling
-- Reltroner.com as a living system, not a portfolio page
-
-Everything is built to be **understandable and transferable**, not hero-dependent.
+I prioritize clarity over complexity and long-term stability over short-term shortcuts.
 
 ---
 
-## 🧩 Where I Add the Most Value
+## Project Highlight — Reltroner ERP Platform
 
-You may want to work with me if you need someone who can:
-
-- translate uncertainty into structured execution
-- align engineering decisions with long-term direction
-- document systems so teams move faster over time
-- debug deeply instead of patching symptoms
-- think beyond features into systems and incentives
-
-I’m especially effective in:
-- early-stage or evolving teams
-- internal platforms & infrastructure
-- roles requiring both execution **and** reasoning
-
----
-
-## 🧱 Project Highlight — Reltroner HRM
-
-**Role:** System Architect, Lead Developer, DevOps  
-**Stack:** Laravel 12, MySQL/MariaDB, Tailwind, Railway  
+**Role:** Backend Engineer (Independent Project)  
+**Stack:** Laravel 12, PHP 8.2+, MySQL, Keycloak (OIDC), GitHub Actions  
 **Year:** 2025  
 
-A full-featured HRM system built solo under real constraints, focusing on:
-- auth correctness
-- modular architecture
-- real deployment & debugging
-- documentation as a first-class artifact
+A modular ERP system composed of three independent Laravel applications (Gateway, HRM, Finance) with centralized authentication.
 
-🔗 Live: [https://hrm.reltroner.com](https://hrm.reltroner.com)
-🔗 Code: [https://github.com/Reltroner/reltroner-hr-app](https://github.com/Reltroner/reltroner-hr-app)
+**System Scope:**
 
-> This project demonstrates **ownership, survivability, and execution under pressure** — not just feature completion.
+- 3 independent repositories  
+- 150+ automated tests (unit, feature, regression)  
+- 100+ database migrations  
+- Financial reporting modules with transaction immutability and snapshot validation  
 
----
+Live HRM Demo: [hrm.reltroner.com](https://hrm.reltroner.com)  
+Finance Repository: [github.com/Reltroner/finance-reltroner](https://github.com/Reltroner/finance-reltroner)
+Error Documentation: [github.com/Reltroner/error-documentation](https://github.com/Reltroner/error-documentation)  
+Progress Documentation: [github.com/Reltroner/progress-documentation](https://github.com/Reltroner/progress-documentation)
 
-## 🧪 Bonus: Debugging & Failure Documentation
-
-I also maintain a public repository documenting **real bugs, failures, and fixes** — not tutorial content.
-
-📂 [https://github.com/Reltroner/error-documentation](https://github.com/Reltroner/error-documentation)
-
-Because I don’t just build systems —  
-I understand **what breaks them and why**.
+This project demonstrates full lifecycle ownership — from database schema design and backend logic to CI/CD automation and production deployment.
 
 ---
 
-## 📄 Curriculum Vitae (Notion)
+## Curriculum Vitae
 
-For a structured, up-to-date CV with detailed experience and artifacts:
+You can view my full CV here:
 
-👉 **Notion CV:**  
-https://immense-corn-a5c.notion.site/Raidan-Rei-CV-2f786ce37ade8083a9a5d0bfee103913?pvs=143
-
----
-
-## 🤝 Collaboration & Contact
-
-I’m open to:
-- platform / backend roles (remote-friendly)
-- long-term collaboration
-- system architecture & documentation consulting
-
-📧 studio@reltroner.com  
-🌐 [https://www.reltroner.com](https://www.reltroner.com)  
-💻 [https://github.com/Reltroner](https://github.com/Reltroner)  
+📄 **CV (Canva):**  
+[Raidan Sandra CV](https://www.canva.com/design/DAHARcoKtu0/aoc-QBZUfLPs-A2aRKcZMA/edit?utm_content=DAHARcoKtu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
-*Optional reading below explores philosophy, narrative thinking, and long-form vision.  
-You can safely stop here if this is enough.*
+## Availability
+
+I’m currently open to:
+
+- Backend Engineer roles (Laravel / PHP)
+- Fullstack roles with backend focus
+- SaaS or internal product teams
+- Remote-friendly environments
+
+Contact:
+
+📧 [studio@reltroner.com](studio@reltroner.com)
+🌐 [reltroner.com](https://www.reltroner.com)  
+💻 [https://github.com/Reltroner](https://github.com/Reltroner)
