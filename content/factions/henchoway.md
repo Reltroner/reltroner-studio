@@ -251,7 +251,7 @@ Nytherion has fuel.
 
 ## 🧩 Legacy
 
-Henchoway is the spiritual continuation of Depeisit’s colonial ambition—twisted by Nytherion energy.
+Henchoway is the spiritual continuation of Kamila's ambition—twisted by Nytherion energy.
 
 It is not merely an organization.
 
