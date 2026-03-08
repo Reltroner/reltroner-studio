@@ -378,6 +378,7 @@ export default function CommandPalette() {
     { name: "Web3 Library Protocol of Depcutland", path: "/technologies/web3-library-protocol-depcutland" },
     { name: "Reltroner Studio Web3 Nation Network", path: "/technologies/reltroner-studio-web3-network" },
     { name: "Twin Digital Atom (TDA) – Hyperdimensional Core Technology of Reltronland", path: "/technologies/tda-twin-digital-atom" },
+    { name: "Reltronland Unified Flow Access & Payment System (UFAPS)", path: "/technologies/ufaps-reltronland" },
     //Principles
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
     { name: "💸 Funded Roadmap — If This Project Gets Backed", path: "/principles/funded-roadmap" },

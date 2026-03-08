@@ -113,6 +113,15 @@ const techs = [
     date: "2025-06-21",
     published: true,
     image: "/images/reltroner-studio-web3-network.webp"
+  },
+  {
+    title: "Reltronland Unified Flow Access & Payment System (UFAPS)",
+    description: "UFAPS is Reltronland’s integrated national infrastructure for frictionless mobility and automated payment, combining the Unified Flow Payment System (UFPS) and the Universal Access & Subscription Protocol (UASP) into a queueless, barrierless, and transparent mobility architecture across 3D–5D domains.",
+    slug: "ufaps-reltronland",
+    image: "/images/ufaps-reltronland.webp",
+    author: "Rei Reltroner",
+    date: "2026-03-08",
+    published: true
   }
 ];
 
