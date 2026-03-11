@@ -405,6 +405,7 @@ export default function CommandPalette() {
     { name: "The Art of Comment Engineering", path: "/principles/the-art-of-comment-engineering" },
     { name: "📜 Manifesto of the Post-Efficiency Era", path: "/principles/post-efficiency-manifesto" },
     { name: "📜 Humanoid Standard Doctrine — Universality of Sentient Form", path: "/principles/humanoid-standard-doctrine" },
+    { name: "Modular Civilizational Economy of Asthortera", path: "/principles/asthortera-modular-economy" },
     //Items
     { name: "🩸 Abyss Ritual Items", path: "/items/abyss-ritual-items" },
     { name: "Reltroner AI Fork – Memory-as-a-Service Product Sheet", path: "/items/reltroner-ai-fork" },

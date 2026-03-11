@@ -29,6 +29,7 @@ published: true
 * **Population:** 114 billion sentient beings
 * **Official Language:** Auroral Luminaris
 * **State Religion:** Aurora Sancta
+* **Currency:** \$ALC (Aurora Luminar Cosmic currency)
 * **Core National Values:** Spiritual harmony, emotional clarity, cosmic alignment, collective consciousness.
 
 ---

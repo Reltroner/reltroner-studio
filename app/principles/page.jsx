@@ -239,6 +239,15 @@ const principles = [
     published: true,
     image: "/images/humanoid-standard-doctrine.webp",
     tags: ["Asthortera", "Doctrine", "Species", "Philosophy"]
+  },
+  {
+    title: "Modular Civilizational Economy of Asthortera",
+    description: "The Asthortera economic system operates as a modular civilizational architecture where each nation contributes specialized capabilities. Unlike monolithic legacy economies, Asthortera functions as a distributed economic ecosystem built on functional value, comparative advantage, and infrastructural interdependence.",
+    slug: "asthortera-modular-economy",
+    image: "/images/asthortera-modular-economy.webp",
+    author: "Rei Reltroner",
+    date: "2026-03-11",
+    published: true
   }
   
   // Tambahkan lebih banyak principle di masa depan...

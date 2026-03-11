@@ -31,7 +31,7 @@ published: true
   * **Inferminte** — the most luminous city, filled with romantic lantern aesthetics
   * **Glisterria** — hub of lighting innovation and education
   * **Phosphoralis** — core of phosphor mining and light-tech manufacturing
-* **Currency:** \$LNR (Lanternow Radiance)
+* **Currency:** \$LNR (Lenternow Radiance)
 
 ---
 
