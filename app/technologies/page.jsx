@@ -97,6 +97,15 @@ const techs = [
     date: "2025-05-09"
   },
   {
+    title: "Astralis Colossus Stations",
+    description: "Astralis Colossus Stations are deep-space void fortresses operated by Reltronland Space Command, combining strategic command infrastructure, dimensional stabilization systems, and autonomous defense architecture in intergalactic space.",
+    slug: "astralis-colossus-stations",
+    image: "/images/astralis-colossus-stations.webp",
+    author: "Rei Reltroner",
+    date: "2026-03-13",
+    published: true
+  },
+  {
     title: "Web3 Library Protocol of Depcutland",
     description: "An innovative, decentralized knowledge infrastructure for transparent contribution, equitable access, and intellectual growth.",
     slug: "web3-library-protocol-depcutland",

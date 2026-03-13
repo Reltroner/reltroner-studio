@@ -379,6 +379,7 @@ export default function CommandPalette() {
     { name: "Reltroner Studio Web3 Nation Network", path: "/technologies/reltroner-studio-web3-network" },
     { name: "Twin Digital Atom (TDA) – Hyperdimensional Core Technology of Reltronland", path: "/technologies/tda-twin-digital-atom" },
     { name: "Reltronland Unified Flow Access & Payment System (UFAPS)", path: "/technologies/ufaps-reltronland" },
+    { name: "Astralis Colossus Stations", path: "/technologies/astralis-colossus-stations" },
     //Principles
     { name: "Reltroner Studio Manifesto: Building Systems Beyond Survival", path: "/principles/reltroner" },
     { name: "💸 Funded Roadmap — If This Project Gets Backed", path: "/principles/funded-roadmap" },

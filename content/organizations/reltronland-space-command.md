@@ -285,7 +285,7 @@ This document outlines the technical and tactical capabilities of the five prima
   * Interdimensional Tribunal Chambers
 * **Symbolism:** Embodies the ideological and logistical supremacy of Astralis clarity
 * **FTL:** Capable of slow hyperspace relocation for strategic re-positioning
-* **Mass:** \~14,000,000 metric tons
+* **Mass:** \~30 – 60 billion metric tons
 
 ---
 
