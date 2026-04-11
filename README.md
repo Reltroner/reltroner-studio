@@ -1,6 +1,6 @@
 # 🌌 Reltroner Studio
 
-Welcome to the official repository of **Reltroner Studio** — a creative and technical worldbuilding project built with **Next.js 15 App Router**, powered by **React 19**, and styled using **Tailwind CSS**.
+Welcome to the official repository of **Reltroner Studio** — a creative and technical worldbuilding project built with **Next.js 16 App Router**, powered by **React 19**, and styled using **Tailwind CSS**.
 
 This studio serves as a digital home and knowledge base for **Asthortera**, an original fictional universe. It features narrative archives, structured philosophy, and data-driven lore for fictional civilizations like **Reltronland**, **Pasgerflit**, and more.
 
@@ -8,7 +8,7 @@ This studio serves as a digital home and knowledge base for **Asthortera**, an o
 
 ## 🚀 Tech Stack
 
-- **Framework:** Next.js 15 (App Router)  
+- **Framework:** Next.js 16 (App Router)  
 - **Language:** React 19  
 - **Styling:** Tailwind CSS  
 - **Deployment:** Vercel  
@@ -51,7 +51,7 @@ Reltroner Studio was founded by **Rei Reltroner**, the creator of Asthortera, as
 
 ## 🛡️ License
 
-All content in this repository is **© 2025 by Rei Reltroner**.  
+All content in this repository is **© 2026 by Rei Reltroner**.  
 Unauthorized reproduction or plagiarism of **Reltronland**, **Asthortera**, or any affiliated fictional entities is strictly prohibited.
 
 📝 License: [Reltroner Studio Legal Declaration (IPFS)](https://bafybeib3wnhcrc4e3lg2f7wdiew3hrpwumdigsa5ltm3v5ap23l7apszv4.ipfs.w3s.link/reltroner-studio-legal-declaration.pdf), [Reltroner Studio Legal Declaration (ArDrive)](https://app.ardrive.io/#/file/021c69cf-e79c-4f7b-8106-4094a98e04bb/view)

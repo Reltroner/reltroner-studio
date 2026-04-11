@@ -353,16 +353,16 @@ _This moment marks Reltronland as the **first nation on Asthortera** to achieve 
 **Main POV:** Delwyn, Isaac, Barry  
 **Summary:** Episodic missions across Asthortera to hunt key figures tied to Henchoway and Spiral syndicates. A mix of action, dialogue-heavy planning, and bonding.
 **Key Scenes:**  
-- Hendry’s betrayal and redemption  
+- Nathan’s betrayal and redemption  
 - The assault on a blackmarket AI hub  
 - Barry laughing for the first time in years during campfire
 
 ---
 
-**7. Title:** *Barry & Hendry Arc*  
+**7. Title:** *Barry & Nathan Arc*  
 **Timeline:** Year 6–25 AC  
-**Main POV:** Barry & Hendry  
-**Summary:** A side series focusing on Barry's cynical wit and Hendry's unorthodox tactics in destroying Spiral cult branches.
+**Main POV:** Barry & Nathan  
+**Summary:** A side series focusing on Barry's cynical wit and Nathan's unorthodox tactics in destroying Spiral cult branches.
 **Key Scenes:**  
 - Disguising as cultists to infiltrate secret rituals  
 - Barry confronting an old mentor turned cultist  
