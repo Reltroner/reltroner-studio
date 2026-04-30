@@ -20,7 +20,7 @@ I focus on building systems that are not just functional — but **auditable, pr
 ## Fast Professional Overview
 
 **Role Positioning**  
-Backend / System Engineer (Early Mid-Level)
+Backend / System Engineer
 
 **Primary Focus**
 
