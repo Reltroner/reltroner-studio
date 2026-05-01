@@ -26,6 +26,16 @@ const events = [
     published: true
   },
   {
+    title: "🌈 Aurora Plaza — International Workers Day of Aurastelia",
+    description: "An official ceremonial address by Queen Valethra redefining work as conscious civilizational responsibility within Aurastelia.",
+    slug: "aurora-plaza-workers-day",
+    image: "/images/aurora-plaza-workers-day.webp",
+    author: "Rei Reltroner",
+    date: "2026-05-01",
+    published: true,
+    category: "Aurastelia · Civilizational Events · Spiritual Doctrine"
+  },
+  {
     title: "Origins of Reltronland",
     description: "The origin story of Reltronland—from Rathroper's soil to a nation of conscious design and meritocratic spirit.",
     slug: "reltronland-founding",
@@ -219,8 +229,7 @@ const events = [
     image: "/images/world-population-day-reltronland.webp",
     tags: ["Reltronland", "Civilization Framework", "Red Pill Doctrine", "SDI", "Alternative Governance"],
     published: true
-  }
-  // Tambahkan lebih banyak event di masa depan...
+  },
 ];
 
 export default function Events() {

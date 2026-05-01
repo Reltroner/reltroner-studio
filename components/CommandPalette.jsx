@@ -201,6 +201,7 @@ export default function CommandPalette() {
     { name: "🌍 World Population Day 2025: Reltronland Edition", path: "/events/world-population-day-reltronland" },
     { name: "🚧 The Great Clearance of 963 BAC — Reltronepolis", path: "/events/great-clearance-963bac" },
     { name: "⚔️ Beluftner–Cosmeilia Conflict (with Kalgered & Cenrestier)", path: "/events/beluftner-cosmeilia-conflict" },
+    { name: "🌈 Aurora Plaza — International Workers Day of Aurastelia", path: "/events/aurora-plaza-workers-day" },
 
     //Myths
     { name: "🌀 Abyssal Possession (Spiral Inhabitation)", path: "/myths/abyssal-possession" },
