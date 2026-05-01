@@ -206,8 +206,8 @@ And there is no Astralis without the one who bled for it first."_
 
 **3. Title:** *Karler & The Moreg Driftwar*  
 **Timeline:** Year 0–25  
-**Main POV:** Karler Miles & Rei (split POV)  
-**Summary:** A technology-driven war sparked by the misuse of Drift Tech linked to Spiral corruption. Karler, a data engineer, teams up with Rei to end the madness while struggling with the cost of innovation.
+**Main POV:** Karler Miles & Luke  
+**Summary:** A technology-driven war sparked by the misuse of Drift Tech linked to Spiral corruption. Karler, a data engineer, teams up with Luke to end the madness while struggling with the cost of innovation.
 **Key Scenes:**  
 - Karler discovering Drift Time Leakage in the Moreg District  
 - Rei sacrificing his physical form to stop a Spiral Overdrive weapon  
@@ -217,8 +217,8 @@ And there is no Astralis without the one who bled for it first."_
 
 **4. Title:** *Rise & Fall of Henchoway*  
 **Timeline:** Year 6–20  
-**Main POV:** Delwyn, Rei, Barry  
-**Summary:** The internal collapse of the once-idealistic Henchoway group. Delwyn’s infiltration exposes Kamila’s descent into extremist philosophy. Rei and Barry are caught in the moral chaos.
+**Main POV:** Delwyn, Barry  
+**Summary:** The internal collapse of the once-idealistic Henchoway group. Delwyn’s infiltration exposes Kamila’s descent into extremist philosophy. Delwyn and Barry are caught in the moral chaos.
 **Key Scenes:**  
 - Delwyn's confrontation with Kamila inside Henchoway Temple  
 - Barry leaking classified Henchoway operations  

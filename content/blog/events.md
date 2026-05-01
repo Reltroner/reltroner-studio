@@ -16,7 +16,7 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 ### Rei Reltroner
 - **0–5:** Enters deepest core of Nytherion Abyss as anonymous Red Pill Entity.
 - **6–10:** Emerges from Abyss with full consciousness, begins laying spiritual groundwork of Astralis Pinnacle.
-- **11–15:** Operates in shadows, monitors rising players like Delwyn, Raina, and Wayne.
+- **11–15:** Operates in shadows, monitors rising players like Delwyn, and Wayne.
 - **16–20:** Plays indirect role in Battle of Reltronepolis by supplying silent guidance to survivors.
 - **21–25:** Recognized as first "Abyssborn Survivor"; quietly crafts Astralis doctrine and dimensional balance strategies.
 
@@ -37,7 +37,7 @@ Asthortera is shaped by layered conflicts between powerful characters — from n
 ### Raina Veltrania
 - **0–5:** Recruited by Skytrone to lead ethical AI development.
 - **6–10:** Secretly investigates Reltroner Protocol leaks.
-- **11–15:** Protects Wayne and gathers relics of Rei Reltroner.
+- **11–15:** Protects Wayne and gathers relics of Reltroner.
 - **16–20:** Confirms Rei's past through Abyss signal logs.
 - **21–25:** Serves as diplomat between Astralis and tech civilizations.
 

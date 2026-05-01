@@ -9,6 +9,8 @@ quote: "Aurora light does not choose light or darkness — it merely reflects th
 description: "The eternal protector of cosmic balance in Asthortera, Queen Valethra bridges science and spiritual harmony with empathy, grace, and commanding serenity."
 ---
 
+![aurora-plaza-workers-day](/images/aurora-plaza-workers-day.webp)
+
 ## Basic Identity
 - **Full Name:** Valethra Seraphine Lunara  
 - **Title:** Queen of Aurastelia, Spiritual Head of the Aurora Faith  
