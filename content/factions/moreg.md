@@ -10,6 +10,7 @@ published: true
 ![moreg1](/images/moreg1.webp)
 ![moreg2](/images/moreg2.webp)
 ![moreg3](/images/moreg3.webp)
+![moreg-rhythm-heaven.webp](/images/moreg-rhythm-heaven.webp)
 
 ---
 

@@ -11,6 +11,7 @@ published: true
 ![taramistry2](/images/taramistry2.webp)
 ![taramistry3](/images/taramistry3.webp)
 ![taramistry4](/images/taramistry4.webp)
+![taramistry-rhythm-heaven.webp](/images/taramistry-rhythm-heaven.webp)
 
 ---
 
