@@ -10,6 +10,8 @@ published: true
 ![cenrestier1](/images/cenrestier1.webp)
 ![cenrestier2](/images/cenrestier2.webp)
 ![cenrestier3](/images/cenrestier3.webp)
+![cenrestier-rhythm-heaven](/images/cenrestier-rhythm-heaven.webp)
+![cenrestier-1-rhythm-heaven](/images/cenrestier-1-rhythm-heaven.webp)
 
 ---
 

@@ -10,6 +10,7 @@ published: true
 ![pasgerflit1](/images/pasgerflit1.webp)
 ![pasgerflit2](/images/pasgerflit2.webp)
 ![pasgerflit3](/images/pasgerflit3.webp)
+![pasgerflit-rhythm-heaven.webp](/images/pasgerflit-rhythm-heaven.webp)
 
 ---
 

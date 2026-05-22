@@ -771,7 +771,7 @@ This fundamentally reshaped Depcutland’s future civilization model.
 
 ---
 
-## XI. POST-WAR RECONSTRUCTION
+## XI. CEASEFIRE RECONSTRUCTION
 
 ### (1030–1010 BAC)
 

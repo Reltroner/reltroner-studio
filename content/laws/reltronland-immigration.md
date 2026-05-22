@@ -12,7 +12,7 @@ date: "2025-04-11"
 ---
 
 ## 🏛️ Overview
-As a **superpower nation with over 272 billion citizens**, Reltronland operates the **most selective and data-driven immigration system in all of Asthortera**. Immigration here is never about numbers — it's about **quality**. Only individuals with clear potential to positively impact the economy, technology, and culture are accepted.
+As a **superpower nation with over 855 billion citizens**, Reltronland operates the **most selective and data-driven immigration system in all of Asthortera**. Immigration here is never about numbers — it's about **quality**. Only individuals with clear potential to positively impact the economy, technology, and culture are accepted.
 
 Reltronland is not a sanctuary. It is a future forged by excellence.
 

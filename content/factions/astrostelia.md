@@ -11,6 +11,7 @@ published: true
 ![astrostelia2](/images/astrostelia2.webp)
 ![astrostelia3](/images/astrostelia3.webp)
 ![astrostelia4](/images/astrostelia4.webp)
+![astrostelia-rhythm-heaven.webp](/images/astrostelia-rhythm-heaven.webp)
 
 ---
 

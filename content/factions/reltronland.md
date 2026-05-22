@@ -12,6 +12,7 @@ published: true
 ![reltronland3](/images/reltronland3.webp)
 ![landing-page](/images/landing-page.webp)
 ![reltronland4](/images/reltronepolis123.webp)
+![reltronland-rhythm-heaven](/images/reltronland-rhythm-heaven.webp)
 
 # 🛡️ Faction Profile: Reltronland
 
@@ -686,7 +687,7 @@ Reltronland’s economy is built not on fantasy, but on:
 
 ---
 
-## 📈 Economic Indicators
+## 📈 Economic Indicators (excluding 4D, 5D and void energy economy)
 
 ### 💱 Currency Conversion
 
@@ -1005,9 +1006,9 @@ GDP after 250 years ≈ $REL 353,785,000,000,000
 
 ## 🌍 Impact
 
-* Reltronland now holds 42% of total GDP in Asthortera
+* Reltronland now holds 42% of total GDP in Asthortera 
 * Market Capitalization Index = 60% of planetary value
-* Reltronland alone is richer than entire galaxies in fictional multiverses
+* Reltronland alone is richer than entire galaxies in multiverses
 
 ---
 
@@ -1024,7 +1025,7 @@ Reltronland is not a utopia. It is a result of ruthless, conscious, intelligent 
 
 ## 🌌 RSC: The Strategic Foundation of Reltronland's Ascension
 
-No civilization could have risen to the heights of a Type II.9 Kardashev society without a force that transcends both government and economy. In the case of Reltronland, that force is the **Reltronland Space Command (RSC)** — a sentient, autonomous, and unshakeable institution that safeguards not only the physical boundaries of the nation but also the ideological and economic framework that allows Reltronland to thrive.
+No civilization could have risen to the heights of a Type V Kardashev society without a force that transcends both government and economy. In the case of Reltronland, that force is the **Reltronland Space Command (RSC)** — a sentient, autonomous, and unshakeable institution that safeguards not only the physical boundaries of the nation but also the ideological and economic framework that allows Reltronland to thrive.
 
 Reltronland's unmatched achievements in economics, social structure, and sentient development are not independent miracles — they are the results of having RSC as a silent guardian, invisible infrastructure, and a sword of clarity above all threats.
 

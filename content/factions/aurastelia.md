@@ -10,6 +10,7 @@ published: true
 ![aurastelia1](/images/aurastelia1.webp)
 ![aurastelia2](/images/aurastelia2.webp)
 ![aurastelia3](/images/aurastelia3.webp)
+![aurastelia-rhythm-heaven.webp](/images/aurastelia-rhythm-heaven.webp)
 
 ---
 

@@ -10,6 +10,7 @@ published: true
 ![lenternow1](/images/lenternow1.webp)
 ![lenternow2](/images/lenternow2.webp)
 ![lenternow3](/images/lenternow3.webp)
+![lenternow-rhythm-heaven.webp](/images/lenternow-rhythm-heaven.webp)
 
 ---
 
