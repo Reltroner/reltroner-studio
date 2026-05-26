@@ -5,7 +5,7 @@ import React from "react";
 
 const sections = [
   {
-    title: "📘 Core Cognition",
+    title: "🧠 Core Cognition",
     words: [
       { term: "Velthurion", meaning: "Elevated truth", notes: "Vel (sacred) + Thurion (pillar)" },
       { term: "Astrelune", meaning: "Light of awareness", notes: "Astralis + Lune" },
@@ -82,7 +82,7 @@ export default function Page() {
   return (
     <div className="prose dark:prose-invert max-w-3xl mx-auto px-4 pt-8 pb-16 sm:pt-12">
       <Heading className="text-2xl sm:text-3xl mb-4">
-        \ud83d\udcd8 Mini Reltronic Dictionary: 50+ Root Words
+        📘 Mini Reltronic Dictionary: 50+ Root Words
       </Heading>
       <div className="mb-4">
         <img
