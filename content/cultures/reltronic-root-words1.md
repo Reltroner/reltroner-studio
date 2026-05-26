@@ -1,3 +1,15 @@
+---
+title: "Mini Reltronic Dictionary: 50+ Root Words"
+slug: "reltronic-root-words"
+description: "A hybrid linguistic seed combining the logic of Deptic, the fluidity of Cisthetan, and the transcendence of Astralis Pinnacle — used across Reltronland as a high-clarity identity language."
+image: "/images/reltronic-root-words.webp"
+author: "Reltroner Studio"
+date: "2025-06-01"
+published: true
+---
+
+---
+
 # 📘 Mini Reltronic Dictionary: 50+ Root Words
 
 *A hybrid linguistic seed combining the logic of Deptic, the fluidity of Cisthetan, and the transcendence of Astralis Pinnacle — used across Reltronland as a high-clarity identity language.*
