@@ -5,7 +5,7 @@ import React from "react";
 
 const sections = [
   {
-    title: "\ud83e\udde0 Core Cognition",
+    title: "📘 Core Cognition",
     words: [
       { term: "Velthurion", meaning: "Elevated truth", notes: "Vel (sacred) + Thurion (pillar)" },
       { term: "Astrelune", meaning: "Light of awareness", notes: "Astralis + Lune" },
