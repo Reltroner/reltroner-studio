@@ -1,18 +1,21 @@
 // app/about/page.jsx
 import Heading from "@/components/Heading";
+import { buildStandaloneMetadata } from "@/lib/seo/metadata";
 
-export const metadata = {
+export const metadata = buildStandaloneMetadata({
   title: "About",
   description:
     "About Reltroner Studio — a creative–technology studio at the intersection of system thinking, digital engineering, and narrative clarity.",
-};
+  pathname: "/about",
+  image: "/images/logo.webp",
+});
 
 export default function About() {
   return (
-    <div className="max-w-3xl mx-auto px-4 py-10 text-gray-800">
+    <div className="editorial-shell py-10 text-gray-800">
 
       {/* ================= READING PERMISSION ================= */}
-      <section className="mb-12 border rounded-lg p-6 bg-gray-50">
+      <section className="surface-card mb-12 p-6 sm:p-8">
         <h2 className="text-xl font-semibold mb-3">
           How to read this page
         </h2>
@@ -40,7 +43,7 @@ export default function About() {
       </section>
 
       {/* ================= CORE CONTENT ================= */}
-      <Heading>About Reltroner Studio</Heading>
+  <Heading className="text-left">About Reltroner Studio</Heading>
 
       <p className="mt-4 text-md text-gray-700 italic">
         *Reltroner Studio is founded and led by Raidan, also known by his creative
@@ -73,7 +76,7 @@ export default function About() {
       <br />
 
       {/* ================= WHAT WE DO ================= */}
-      <Heading className="mt-12">What We Do</Heading>
+      <Heading as="h2" className="mt-12 text-left text-2xl sm:text-3xl lg:text-4xl">What We Do</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         Reltroner Studio designs and builds:
@@ -114,7 +117,7 @@ export default function About() {
       <br />
 
       {/* ================= PHILOSOPHY ================= */}
-      <Heading className="mt-12">Our Philosophy</Heading>
+      <Heading as="h2" className="mt-12 text-left text-2xl sm:text-3xl lg:text-4xl">Our Philosophy</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         Modern life is shaped by rapid change, uncertainty, and constant shifts
@@ -141,7 +144,7 @@ export default function About() {
       <br />
 
       {/* ================= DIFFERENTIATION ================= */}
-      <Heading className="mt-12">Why Reltroner Studio Is Different</Heading>
+      <Heading as="h2" className="mt-12 text-left text-2xl sm:text-3xl lg:text-4xl">Why Reltroner Studio Is Different</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         Most creative studios focus on aesthetics. <br />
@@ -168,7 +171,7 @@ export default function About() {
       <br />
 
       {/* ================= WHO IT'S FOR ================= */}
-      <Heading className="mt-12">Who It’s For</Heading>
+      <Heading as="h2" className="mt-12 text-left text-2xl sm:text-3xl lg:text-4xl">Who It’s For</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         Reltroner Studio resonates with people and teams who:
@@ -185,7 +188,7 @@ export default function About() {
       <br />
 
       {/* ================= MISSION ================= */}
-      <Heading className="mt-12">The Mission</Heading>
+      <Heading as="h2" className="mt-12 text-left text-2xl sm:text-3xl lg:text-4xl">The Mission</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed">
         The mission of Reltroner Studio is simple:
@@ -205,7 +208,7 @@ export default function About() {
       <br />
 
       {/* ================= ONE SENTENCE ================= */}
-      <Heading className="mt-12">In One Sentence</Heading>
+      <Heading as="h2" className="mt-12 text-left text-2xl sm:text-3xl lg:text-4xl">In One Sentence</Heading>
 
       <p className="mt-4 text-lg text-gray-700 leading-relaxed italic">
         Reltroner Studio turns real-life struggle into systems, tools, and stories

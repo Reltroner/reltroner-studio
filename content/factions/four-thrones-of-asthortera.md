@@ -6,7 +6,7 @@ layout: philosophy
 author: "Reltroner Studio"
 date: "2025-10-09"
 published: true
-image: "/images/four-thrones.webp"
+image: "/images/asthortera-pyramid.webp"
 ---
 
 # 👑 The Four Thrones of Asthortera  

@@ -1,0 +1,52 @@
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  color-scheme: light;
+  --rs-page-background: var(--color-surface-50);
+  --rs-page-atmosphere:
+    radial-gradient(circle at 50% -10%, color-mix(in srgb, var(--color-aurora-300) 22%, transparent), transparent 58%),
+    radial-gradient(circle at 88% 14%, color-mix(in srgb, var(--color-blue-300) 12%, transparent), transparent 38%),
+    linear-gradient(180deg, color-mix(in srgb, white 86%, var(--color-sky-50) 14%) 0%, transparent 34%);
+  --rs-aurora-gradient: radial-gradient(circle, color-mix(in srgb, var(--color-aurora-300) 58%, white) 0%, transparent 66%);
+  --rs-aurora-accent: radial-gradient(circle, color-mix(in srgb, var(--color-blue-300) 42%, transparent) 0%, transparent 72%);
+  --rs-noise-texture: radial-gradient(circle at 1px 1px, color-mix(in srgb, var(--color-slate-900) 10%, transparent) 0.8px, transparent 0.95px);
+  --rs-surface-base: color-mix(in srgb, white 94%, var(--color-aurora-300) 6%);
+  --rs-surface-muted: color-mix(in srgb, white 92%, var(--color-slate-50) 8%);
+  --rs-surface-elevated: color-mix(in srgb, white 88%, transparent);
+  --rs-border-muted: var(--color-gray-200);
+  --rs-text-primary: var(--color-slate-950);
+  --rs-text-muted: var(--color-gray-600);
+  --rs-shadow-panel: var(--rs-shadow-card);
+  --rs-glass-border: color-mix(in srgb, var(--color-slate-900) 8%, white);
+  --rs-glass-surface: color-mix(in srgb, white 80%, transparent);
+}
+
+html.dark {
+  color-scheme: dark;
+  --rs-page-background: var(--color-surface-950);
+  --rs-page-atmosphere:
+    radial-gradient(circle at 50% -10%, color-mix(in srgb, var(--color-aurora-400) 24%, transparent), transparent 56%),
+    radial-gradient(circle at 88% 14%, color-mix(in srgb, var(--color-blue-500) 18%, transparent), transparent 40%),
+    linear-gradient(180deg, color-mix(in srgb, var(--color-surface-900) 72%, black) 0%, transparent 34%);
+  --rs-aurora-gradient: radial-gradient(circle, color-mix(in srgb, var(--color-aurora-400) 62%, transparent) 0%, transparent 68%);
+  --rs-aurora-accent: radial-gradient(circle, color-mix(in srgb, var(--color-blue-500) 46%, transparent) 0%, transparent 72%);
+  --rs-noise-texture: radial-gradient(circle at 1px 1px, color-mix(in srgb, white 10%, transparent) 0.75px, transparent 0.95px);
+  --rs-surface-base: var(--color-surface-900);
+  --rs-surface-muted: color-mix(in srgb, var(--color-surface-900) 88%, black);
+  --rs-surface-elevated: color-mix(in srgb, var(--color-surface-900) 82%, transparent);
+  --rs-border-muted: color-mix(in srgb, var(--color-slate-100) 12%, transparent);
+  --rs-text-primary: var(--color-slate-50);
+  --rs-text-muted: var(--color-slate-300);
+  --rs-shadow-panel: 0 18px 40px -26px rgb(15 23 42 / 0.85);
+  --rs-glass-border: color-mix(in srgb, var(--color-slate-100) 10%, transparent);
+  --rs-glass-surface: color-mix(in srgb, var(--color-slate-950) 72%, transparent);
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  background-color: transparent;
+}

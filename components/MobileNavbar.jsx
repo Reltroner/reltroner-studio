@@ -4,46 +4,20 @@
 
 import { Fragment, useState, useEffect } from "react";
 import { Dialog, Transition } from "@headlessui/react";
-import { Menu, X } from "lucide-react";
+import { Menu, Search, X } from "lucide-react";
 import Link from "next/link";
-import DarkModeToggle from "./DarkModeToggle";
+import NavLinks from "@/components/layout/NavLinks";
+import { NAV_ITEMS } from "@/lib/constants/routes";
 
-const navItems = [
-  { name: "🏠 Home", href: "/" },
-  { name: "ℹ️ About", href: "/about" },
-  { name: "📝 Blog", href: "/blog" },
-  { name: "👤 Characters", href: "/characters" },
-  { name: "🎬 Series", href: "/series" },
-
-  // Worldbuilding Core
-  { name: "🧠 Philosophies", href: "/philosophies" },
-  { name: "⚖️ Laws", href: "/laws" },
-  { name: "🧬 Technologies", href: "/technologies" },
-  { name: "🗡️ Items", href: "/items" },
-
-  // Optional but impactful
-  { name: "🛡️ Factions", href: "/factions" },
-  { name: "🕯️ Myths", href: "/myths" },
-
-  // Supportive
-  { name: "📊 Statistics", href: "/statistics" },
-  { name: "🏢 Organizations", href: "/organizations" },
-  { name: "🌆 Places", href: "/places" },
-  { name: "🎎 Cultures", href: "/cultures" },
-  { name: "📅 Events", href: "/events" },
-  { name: "📜 Principles", href: "/principles" },
-
-  // Professional
-  { name: "🧳 Portfolio", href: "/blog/for-recruiters" },
-
-  // Footer-type
-  { name: "📬 Contact", href: "/contact" },
-  { name: "⚠️ Disclaimer", href: "/blog/disclaimer" },
-];
+const commandPaletteEvent = "reltroner:command-palette:open";
 
 
 export default function MobileNavbar() {
   const [isOpen, setIsOpen] = useState(false);
+
+  const openCommandPalette = () => {
+    window.dispatchEvent(new Event(commandPaletteEvent));
+  };
 
   useEffect(() => {
     if (isOpen) {
@@ -57,61 +31,70 @@ export default function MobileNavbar() {
 
   return (
     <>
-      {/* Mobile menu button */}
-      <div className="md:hidden p-4 flex justify-between items-center bg-white shadow-sm sticky top-0 z-50 text-black dark:bg-gray-900 dark:text-white">
-        {/* Dark Mode Toggle */}
-        <Link href="/">
-          <h1 className="text-lg font-bold text-center">Reltroner</h1>
-        </Link>
-        <button onClick={() => setIsOpen(true)}>
-          <Menu className="h-6 w-6" />
-        </button>
+      <div className="sticky top-0 z-50 px-4 pt-4 md:hidden">
+        <div className="surface-glass flex items-center justify-between gap-3 px-4 py-3 text-black dark:text-white">
+          <Link href="/" className="min-w-0 shrink">
+            <h1 className="text-lg font-semibold tracking-tight text-center">Reltroner</h1>
+          </Link>
+          <div className="flex shrink-0 items-center gap-2">
+            <button
+              onClick={openCommandPalette}
+              className="inline-flex h-[44px] w-[44px] items-center justify-center rounded-full transition hover:bg-black/5 dark:hover:bg-white/10"
+              aria-label="Open archive search"
+            >
+              <Search className="h-5 w-5" />
+            </button>
+            <button
+              onClick={() => setIsOpen(true)}
+              className="inline-flex h-[44px] w-[44px] items-center justify-center rounded-full transition hover:bg-black/5 dark:hover:bg-white/10"
+              aria-label="Open navigation"
+            >
+              <Menu className="h-6 w-6" />
+            </button>
+          </div>
+        </div>
       </div>
 
-      {/* Sidebar menu */}
       <Transition appear show={isOpen} as={Fragment}>
-        <Dialog as="div" className="relative z-[9999]" onClose={setIsOpen}>
+        <Dialog as="div" className="relative z-9999" onClose={setIsOpen}>
           <Transition.Child
             as={Fragment}
-            enter="transition-opacity ease-out duration-300"
+            enter="transition-opacity ease-out duration-400"
             enterFrom="opacity-0"
             enterTo="opacity-100"
-            leave="transition-opacity ease-in duration-200"
+            leave="transition-opacity ease-in duration-280"
             leaveFrom="opacity-100"
             leaveTo="opacity-0"
           >
-            <div className="fixed inset-0 bg-black/40" />
+            <div className="fixed inset-0 bg-slate-950/50 backdrop-blur-sm" />
           </Transition.Child>
 
           <div className="fixed inset-0 overflow-y-auto">
             <div className="min-h-full p-4 text-center">
               <Transition.Child
                 as={Fragment}
-                enter="transition ease-out duration-300"
+                enter="transition ease-out duration-400"
                 enterFrom="opacity-0 scale-95"
                 enterTo="opacity-100 scale-100"
-                leave="transition ease-in duration-200"
+                leave="transition ease-in duration-280"
                 leaveFrom="opacity-100 scale-100"
                 leaveTo="opacity-0 scale-95"
               >
-                <Dialog.Panel className="w-full max-w-xs transform overflow-hidden rounded-lg bg-white dark:bg-gray-900 dark:text-white p-6 text-left align-middle shadow-xl transition-all mx-auto">
+                <Dialog.Panel className="surface-glass mx-auto w-full max-w-sm transform overflow-hidden p-6 text-left align-middle text-black transition-all dark:text-white">
                   <div className="flex justify-between items-center mb-4">
-                    <h2 className="text-lg font-bold">Navigation</h2>
-                    <button onClick={() => setIsOpen(false)} aria-label="Close navigation">
+                    <div>
+                      <p className="text-[11px] uppercase tracking-[0.18em] text-gray-500 dark:text-gray-400">Archive access</p>
+                      <h2 className="text-lg font-semibold tracking-tight">Navigation</h2>
+                    </div>
+                    <button
+                      onClick={() => setIsOpen(false)}
+                      aria-label="Close navigation"
+                      className="inline-flex h-[44px] w-[44px] items-center justify-center rounded-full transition hover:bg-black/5 dark:hover:bg-white/10"
+                    >
                       <X className="h-5 w-5" />
                     </button>
                   </div>
-                  <ul className="grid grid-cols-2 sm:grid-cols-3 gap-3 text-sm ">
-                    {navItems.map((item) => (
-                      <li key={item.name}>
-                        <Link href={item.href} onClick={() => setIsOpen(false)}>
-                          <span className="block text-gray-800 dark:text-white hover:text-blue-600 transition truncate">
-                            {item.name}
-                          </span>
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
+                  <NavLinks items={NAV_ITEMS} layout="mobile" onNavigate={() => setIsOpen(false)} />
                 </Dialog.Panel>
               </Transition.Child>
             </div>

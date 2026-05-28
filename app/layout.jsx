@@ -3,59 +3,31 @@
 import './global.css';
 import Navbar from "@/components/Navbar";
 import MobileNavbar from "@/components/MobileNavbar";
-import CommandPalette from "@/components/CommandPalette";
+import CommandPalette from "@/components/layout/CommandPalette";
+import ShellBackdrop from "@/components/layout/ShellBackdrop";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import RouteAnalytics from "@/components/RouteAnalytics";
 import { roboto } from "./fonts";
+import {
+  buildOrganizationJsonLd,
+  buildUniverseJsonLd,
+  buildWebsiteJsonLd,
+} from "@/lib/seo/jsonld";
+import { ROOT_METADATA } from "@/lib/seo/metadata";
+import { getCommandPaletteEntries } from "@/lib/utils/content";
 
-export const metadata = {
-  title: {
-    default: "Reltroner Studio",
-    template: "%s | Reltroner Studio",
-  },
-  description:
-    "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
-  metadataBase: new URL("https://reltroner.com"),
-  openGraph: {
-    siteName: "Reltroner Studio",
-    type: "website",
-    locale: "en_US",
-    title: "Reltroner Studio",
-    description:
-      "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
-    url: "https://reltroner.com",
-    images: [
-      {
-        url: "/images/og-banner.webp",
-        width: 1200,
-        height: 630,
-        alt: "Reltroner Studio",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Reltroner Studio",
-    description:
-      "Reltroner Studio is a digital agency specializing in web development and the creative sanctuary of the fictional universe Asthortera — a world of clarity, meritocracy, and visionary storytelling.",
-    creator: "@reltroner",
-    images: ["/images/og-banner.webp"],
-  },
-  icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
-    apple: "/apple-touch-icon.webp",
-  },
-};
+export const metadata = ROOT_METADATA;
 
-export default function RootLayout({ children }) {
+export default async function RootLayout({ children }) {
+  const commandPaletteEntries = await getCommandPaletteEntries();
+
   return (
-    <html lang="en" className={roboto.variable}>
+    <html lang="en" className={roboto.variable} data-scroll-behavior="smooth">
       <head>
         {/* Viewport */}
         <meta
           name="viewport"
-          content="width=device-width, initial-scale=0.85, maximum-scale=1.0, user-scalable=yes"
+          content="width=device-width, initial-scale=1, viewport-fit=cover"
         />
 
         {/* Favicon compatibility */}
@@ -67,21 +39,7 @@ export default function RootLayout({ children }) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Organization",
-              name: "Reltroner Studio",
-              url: "https://reltroner.com",
-              logo: {
-                "@type": "ImageObject",
-                url: "https://reltroner.com/images/logo.webp",
-              },
-              sameAs: [
-                "https://www.youtube.com/@reltroner",
-                "https://github.com/reltroner",
-                "https://twitter.com/reltroner",
-              ],
-            }),
+            __html: JSON.stringify(buildOrganizationJsonLd()),
           }}
         />
 
@@ -89,17 +47,7 @@ export default function RootLayout({ children }) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "WebSite",
-              name: "Reltroner Studio",
-              url: "https://reltroner.com",
-              potentialAction: {
-                "@type": "SearchAction",
-                target: "https://reltroner.com/search?q={search_term_string}",
-                "query-input": "required name=search_term_string",
-              },
-            }),
+            __html: JSON.stringify(buildWebsiteJsonLd()),
           }}
         />
 
@@ -107,60 +55,55 @@ export default function RootLayout({ children }) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "CreativeWork",
-              name: "Reltroner Studio Universe",
-              creator: {
-                "@type": "Person",
-                name: "Rei Reltroner",
-                url: "https://reltroner.com/about",
-              },
-              dateCreated: "2025-04-06T00:00:00+07:00",
-              description:
-                "A deeply immersive digital world known as Asthortera — home of Reltronland, Depcutland, and the core narratives of The Abyss of Comfort and The Freezone Code.",
-              publisher: {
-                "@type": "Organization",
-                name: "Reltroner Studio",
-              },
-              inLanguage: "en",
-              mainEntityOfPage: {
-                "@type": "WebPage",
-                "@id": "https://reltroner.com",
-              },
-            }),
+            __html: JSON.stringify(buildUniverseJsonLd()),
           }}
         />
       </head>
 
-      <body className="bg-slate-100 text-black dark:bg-gray-900 dark:text-white flex flex-col min-h-screen">
-        {/* 🔥 Analytics Core */}
-        <GoogleAnalytics />
-        <RouteAnalytics />
+      <body
+        className="font-body"
+        style={{
+          backgroundColor: "var(--rs-page-background)",
+          color: "var(--rs-text-primary)",
+        }}
+      >
+        <div className="relative flex min-h-screen flex-col overflow-x-clip">
+          <ShellBackdrop />
 
-        {/* Navigation */}
-        <MobileNavbar />
-        <header>
-          <CommandPalette />
-          <div className="hidden md:block">
-            <Navbar />
+          <div className="relative z-40">
+            <MobileNavbar />
+            <header>
+              <div className="hidden md:block">
+                <div className="shell-container px-4 pt-4">
+                  <div className="surface-glass flex justify-center px-3 py-3">
+                    <CommandPalette pages={commandPaletteEntries} />
+                  </div>
+                </div>
+                <Navbar />
+              </div>
+            </header>
           </div>
-        </header>
 
-        {/* Content */}
-        <main className="py-5 grow">{children}</main>
+          <main className="relative z-10 grow py-5">{children}</main>
 
-        {/* Footer */}
-        <footer className="border-t pt-4 pb-6 text-center text-xs text-gray-500">
-          <a
-            href="/blog/for-recruiters"
-            className="text-blue-500 hover:underline"
-          >
-            For Recruiters & Collaborators ↗
-          </a>
-          <br />
-          © {new Date().getFullYear()} Reltroner Studio. All rights reserved.
-        </footer>
+          <footer className="relative z-10 px-4 pb-8 pt-2">
+            <div className="shell-container">
+              <div className="surface-glass px-6 py-4 text-center text-xs text-gray-500 dark:text-gray-400">
+                <a
+                  href="/blog/for-recruiters"
+                  className="text-blue-500 hover:underline"
+                >
+                  For Recruiters & Collaborators ↗
+                </a>
+                <br />
+                © {new Date().getFullYear()} Reltroner Studio. All rights reserved.
+              </div>
+            </div>
+          </footer>
+
+          <GoogleAnalytics />
+          <RouteAnalytics />
+        </div>
       </body>
     </html>
   );

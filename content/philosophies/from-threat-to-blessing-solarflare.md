@@ -2,7 +2,7 @@
 title: "🌞 From Threat to Blessing: Solar Flare Reimagined in Asthortera"
 slug: "from-threat-to-blessing-solarflare"
 layout: philosophy
-image: "/images/solar-flare-transformation-banner.webp"
+image: "/images/from-threat-to-blessing-solarflare.webp"
 date: "2025-04-24"
 published: true
 ---

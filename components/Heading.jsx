@@ -1,9 +1,13 @@
-
-
-export default function Heading({ children }) {
+export default function Heading({
+    children,
+    as: Tag = "h1",
+    className = "",
+}) {
     return (
-        <div>
-            <h1 className={`text-3xl font-bold pb-3 text-center font-roboto text-black dark:bg-gray-900 dark:text-white`}>{children}</h1>
-        </div>
+        <Tag
+            className={`pb-3 text-center font-display text-3xl font-semibold tracking-[-0.03em] text-balance text-black dark:text-white sm:text-4xl lg:text-5xl ${className}`}
+        >
+            {children}
+        </Tag>
     );
 }

@@ -1,0 +1,88 @@
+@utility shell-container {
+  width: min(100% - 2rem, var(--rs-measure-wide));
+  margin-inline: auto;
+}
+
+@utility section-shell {
+  width: min(100% - 2rem, var(--rs-measure-wide));
+  margin-inline: auto;
+}
+
+@utility shell-panel {
+  border: 1px solid var(--rs-glass-border);
+  background: var(--rs-glass-surface);
+  backdrop-filter: blur(var(--rs-glass-blur));
+  box-shadow: var(--rs-shadow-ambient);
+  border-radius: var(--rs-radius-panel);
+}
+
+@utility surface-card {
+  border: 1px solid var(--rs-border-muted);
+  background: var(--rs-surface-base);
+  box-shadow: var(--rs-shadow-panel);
+  border-radius: var(--rs-radius-panel);
+}
+
+@utility surface-glass {
+  border: 1px solid var(--rs-glass-border);
+  background: var(--rs-glass-surface);
+  backdrop-filter: blur(var(--rs-glass-blur));
+  box-shadow: var(--rs-shadow-ambient);
+  border-radius: var(--rs-radius-panel);
+}
+
+@utility editorial-shell {
+  width: min(100% - 2rem, var(--rs-measure-reading));
+  margin-inline: auto;
+}
+
+@utility editorial-flow {
+  display: grid;
+  gap: var(--rs-space-reading);
+}
+
+@utility editorial-prose {
+  color: var(--rs-text-primary);
+}
+
+@utility archive-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-radius: 9999px;
+  border: 1px solid var(--rs-border-muted);
+  background: color-mix(in srgb, var(--rs-surface-base) 78%, transparent);
+  padding: 0.45rem 0.85rem;
+  color: var(--rs-text-muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+@utility archive-rail {
+  border: 1px solid var(--rs-glass-border);
+  background: color-mix(in srgb, var(--rs-glass-surface) 92%, transparent);
+  backdrop-filter: blur(calc(var(--rs-glass-blur) * 0.82));
+  box-shadow: var(--rs-shadow-ambient);
+  border-radius: calc(var(--rs-radius-panel) - 0.125rem);
+}
+
+@utility archive-link-card {
+  border: 1px solid var(--rs-border-muted);
+  background: color-mix(in srgb, var(--rs-surface-base) 92%, transparent);
+  box-shadow: var(--rs-shadow-panel);
+  border-radius: calc(var(--rs-radius-panel) - 0.125rem);
+}
+
+@utility shell-noise {
+  background-image: var(--rs-noise-texture);
+  background-size: 14px 14px;
+  opacity: var(--rs-noise-opacity);
+}
+
+@utility media-frame {
+  overflow: hidden;
+  border-radius: var(--rs-radius-card);
+}

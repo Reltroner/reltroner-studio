@@ -3,6 +3,7 @@
 import { useState, useMemo } from "react";
 import Heading from "@/components/Heading";
 import Link from "next/link";
+import { resolveCdnImageUrl } from "@/lib/assets/image";
 
 export default function BlogClient({ posts }) {
   const [searchQuery, setSearchQuery] = useState("");
@@ -43,7 +44,7 @@ export default function BlogClient({ posts }) {
             <Link href={`/blog/${post.slug}`} key={index} className="block h-full dark:bg-gray-900 dark:text-white">
               <div className="flex flex-col justify-between h-full border rounded-lg shadow-md overflow-hidden hover:shadow-lg hover:scale-105 transition duration-300 min-h-[300px] dark:bg-gray-900 dark:text-white">
                 <img
-                  src={post.image}
+                  src={resolveCdnImageUrl(post.image)}
                   alt={post.title}
                   className="w-full h-48 object-cover group-hover:opacity-80 transition-opacity dark:bg-gray-900 dark:text-white"
                 />

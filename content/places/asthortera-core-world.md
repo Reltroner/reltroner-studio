@@ -4,7 +4,7 @@ description: "The central hub of all dimensional civilizations, where spiritual 
 author: "Rei Reltroner"
 date: "2025-10-06"
 published: true
-image: "/images/asthortera-core-world.webp"
+image: "/images/planet-asthortera.webp"
 ---
 
 # 🪐 Asthortera — The Core World of Conscious Civilization

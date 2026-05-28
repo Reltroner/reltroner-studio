@@ -4,7 +4,7 @@ description: "A personal declaration of action: while institutions blame the bro
 author: "Rei Reltroner"
 date: "2025-05-11"
 published: true
-image: "/images/filling-institutional-gap.webp"
+image: "/images/from-loss-to-systems.webp"
 ---
 
 # 🏛️ Filling the Institutional Gap

@@ -1,5 +1,7 @@
 // app/page.jsx
-import HomeClient from "./HomeClient";
+import Link from "next/link";
+import HomeArchive from "@/components/sections/HomeArchive";
+import { resolveCdnImageUrl, toBackgroundImageStyle } from "@/lib/assets/image";
 
 export const metadata = {
   title: "Reltroner Studio",
@@ -96,8 +98,146 @@ const posts = [
     published: true
   }
   
-];
+].map((post) => ({
+  ...post,
+  image: resolveCdnImageUrl(post.image),
+}));
+
+const heroBackgroundImage = toBackgroundImageStyle("/images/landing-page.webp");
 
 export default function Home() {
-  return <HomeClient posts={posts} />;
+  return (
+    <div className="space-y-5 px-5 pb-8">
+      <section
+        className="section-shell surface-card relative flex flex-col items-center justify-center overflow-hidden bg-cover bg-center px-6 py-40 text-center"
+        style={heroBackgroundImage ? { backgroundImage: heroBackgroundImage } : undefined}
+      >
+        <div className="absolute inset-0 z-0 bg-black/50" />
+
+        <div className="relative z-10 flex flex-col items-center space-y-6 text-white">
+          <h1 className="text-4xl font-bold drop-shadow-lg md:text-6xl">
+            Reltroner Studio
+          </h1>
+          <p className="max-w-3xl text-lg drop-shadow-md md:text-xl">
+            A creative technology studio helping teams and organizations design
+            clear systems, scalable architectures, and documentation that survives
+            complexity and change.
+          </p>
+          <a
+            href="#how-to-read"
+            className="rounded-full bg-white px-6 py-3 font-medium text-black transition hover:bg-gray-200"
+          >
+            Start Here
+          </a>
+        </div>
+      </section>
+
+      <section
+        id="how-to-read"
+        className="section-shell surface-card px-6 py-16"
+      >
+        <div className="mx-auto max-w-4xl space-y-6 text-center">
+          <h2 className="text-2xl font-semibold">How to use this site</h2>
+
+          <p className="text-gray-700">
+            You don’t need to read everything.
+            {" "}
+            This is not a sales funnel. Take only what you need and stop.
+          </p>
+
+          <div className="mt-8 grid gap-6 text-left md:grid-cols-3">
+            <div className="surface-glass p-5">
+              <p className="mb-2 text-sm text-gray-500">Light read · 1–2 min</p>
+              <h3 className="mb-2 font-semibold">Just curious</h3>
+              <p className="mb-4 text-gray-600">
+                Get a quick sense of what Reltroner Studio is about.
+              </p>
+              <Link href="/about" className="text-blue-600 underline">
+                Read the short overview →
+              </Link>
+            </div>
+
+            <div className="surface-glass p-5">
+              <p className="mb-2 text-sm text-gray-500">Professional · 3–5 min</p>
+              <h3 className="mb-2 font-semibold">Recruiters & collaborators</h3>
+              <p className="mb-4 text-gray-600">
+                Understand where Rei fits best and where he doesn’t.
+              </p>
+              <Link href="/blog/for-recruiters" className="text-blue-600 underline">
+                Go to recruiter fast lane →
+              </Link>
+            </div>
+
+            <div className="surface-glass p-5">
+              <p className="mb-2 text-sm text-gray-500">Deep dive · Optional</p>
+              <h3 className="mb-2 font-semibold">Thinking & philosophy</h3>
+              <p className="mb-4 text-gray-600">
+                Explore systems, narratives, and long-form reasoning.
+              </p>
+              <a href="#content" className="text-blue-600 underline">
+                Browse the archive →
+              </a>
+            </div>
+          </div>
+
+          <p className="mt-6 text-sm text-gray-500">
+            You can stop reading here if this already answers your question.
+          </p>
+        </div>
+      </section>
+
+      <section className="section-shell surface-card px-6 py-20">
+        <div className="mb-12 text-center">
+          <h2 className="text-3xl font-semibold">Capabilities</h2>
+          <p className="mt-2 text-gray-600">
+            What Reltroner Studio delivers for modern organizations
+          </p>
+        </div>
+
+        <div className="mx-auto grid max-w-6xl gap-10 md:grid-cols-3">
+          {[
+            {
+              title: "System & Platform Design",
+              desc:
+                "Design and implementation of internal platforms, SaaS prototypes, and operational tools built with modular, scalable architectures.",
+            },
+            {
+              title: "Technical Architecture & Clarity",
+              desc:
+                "API-first thinking, system decomposition, and architectural documentation that enables teams to scale without losing clarity.",
+            },
+            {
+              title: "Narrative Documentation & Alignment",
+              desc:
+                "Narrative-driven documentation that turns complex decisions into shared understanding and long-term knowledge.",
+            },
+          ].map((item) => (
+            <div
+              key={item.title}
+              className="surface-glass p-6"
+            >
+              <h3 className="mb-2 text-xl font-semibold">{item.title}</h3>
+              <p className="text-gray-600">{item.desc}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="section-shell surface-card bg-blue-50 px-6 py-20 text-center">
+        <h2 className="mb-4 text-3xl font-bold">Build systems that last</h2>
+        <p className="mx-auto mb-6 max-w-3xl text-gray-700">
+          Reltroner Studio partners with teams that value structure,
+          documentation, and long-term thinking over short-term delivery.
+        </p>
+        <Link
+          href="/contact"
+          className="rounded-full bg-blue-600 px-6 py-3 text-white transition hover:bg-blue-700"
+        >
+          Discuss a Collaboration
+        </Link>
+      </section>
+
+      <HomeArchive posts={posts} />
+    </div>
+  );
 }
