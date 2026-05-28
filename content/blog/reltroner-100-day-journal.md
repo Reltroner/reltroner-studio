@@ -4,7 +4,7 @@ description: >
   A continuation of sacred worldbuilding through 100 days of struggle, reflection, and multidimensional creation. This journal is both record and ritual—a blueprint of becoming.
 slug: "reltroner-100-day-journal"
 date: "2025-__-__"
-image: "/images/reltroner-100-day-journal.webp"
+image: "/images/reltroner-50-day-journal.webp"
 published: false
 ---
 

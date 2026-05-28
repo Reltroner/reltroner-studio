@@ -8,6 +8,10 @@ export default function RouteAnalytics() {
   const pathname = usePathname()
 
   useEffect(() => {
+    if (process.env.NODE_ENV !== 'production') {
+      return
+    }
+
     pageview(pathname)
   }, [pathname])
 

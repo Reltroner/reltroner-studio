@@ -25,6 +25,8 @@
 .contentlayer/generated/Culture/_index.mjs
 .contentlayer/generated/Event/_index.json
 .contentlayer/generated/Event/_index.mjs
+.contentlayer/generated/index.d.ts
+.contentlayer/generated/index.mjs
 .contentlayer/generated/Organization/_index.json
 .contentlayer/generated/Organization/_index.mjs
 .contentlayer/generated/Place/_index.json
@@ -33,20 +35,425 @@
 .contentlayer/generated/Series/_index.mjs
 .contentlayer/generated/Statistic/_index.json
 .contentlayer/generated/Statistic/_index.mjs
-.contentlayer/generated/index.d.ts
-.contentlayer/generated/index.mjs
 .contentlayer/generated/types.d.ts
 .contentlayer/package.json
 .gitignore
+.next/dev/build-manifest.json
+.next/dev/build/chunks/[root-of-the-server]__0iv9ksq._.js
+.next/dev/build/chunks/[root-of-the-server]__0iv9ksq._.js.map
+.next/dev/build/chunks/[root-of-the-server]__0rua-~2._.js
+.next/dev/build/chunks/[root-of-the-server]__0rua-~2._.js.map
+.next/dev/build/chunks/[turbopack-node]_transforms_postcss_ts_0nnejqq._.js
+.next/dev/build/chunks/[turbopack-node]_transforms_postcss_ts_0nnejqq._.js.map
+.next/dev/build/chunks/[turbopack]_runtime.js
+.next/dev/build/chunks/[turbopack]_runtime.js.map
+.next/dev/build/chunks/node_modules_13sb.px._.js
+.next/dev/build/chunks/node_modules_13sb.px._.js.map
+.next/dev/build/package.json
+.next/dev/build/postcss.js
+.next/dev/build/postcss.js.map
+.next/dev/cache/.rscinfo
+.next/dev/cache/next-devtools-config.json
+.next/dev/cache/turbopack/2275bd85/00000001.sst
+.next/dev/cache/turbopack/2275bd85/00000003.sst
+.next/dev/cache/turbopack/2275bd85/00000004.sst
+.next/dev/cache/turbopack/2275bd85/00000006.meta
+.next/dev/cache/turbopack/2275bd85/00000007.meta
+.next/dev/cache/turbopack/2275bd85/00000008.meta
+.next/dev/cache/turbopack/2275bd85/00000013.sst
+.next/dev/cache/turbopack/2275bd85/00000014.sst
+.next/dev/cache/turbopack/2275bd85/00000015.sst
+.next/dev/cache/turbopack/2275bd85/00000016.meta
+.next/dev/cache/turbopack/2275bd85/00000017.meta
+.next/dev/cache/turbopack/2275bd85/00000019.meta
+.next/dev/cache/turbopack/2275bd85/00000020.sst
+.next/dev/cache/turbopack/2275bd85/00000022.sst
+.next/dev/cache/turbopack/2275bd85/00000023.sst
+.next/dev/cache/turbopack/2275bd85/00000024.meta
+.next/dev/cache/turbopack/2275bd85/00000025.meta
+.next/dev/cache/turbopack/2275bd85/00000027.meta
+.next/dev/cache/turbopack/2275bd85/00000032.sst
+.next/dev/cache/turbopack/2275bd85/00000033.sst
+.next/dev/cache/turbopack/2275bd85/00000034.sst
+.next/dev/cache/turbopack/2275bd85/00000035.meta
+.next/dev/cache/turbopack/2275bd85/00000036.meta
+.next/dev/cache/turbopack/2275bd85/00000038.meta
+.next/dev/cache/turbopack/2275bd85/00000046.sst
+.next/dev/cache/turbopack/2275bd85/00000047.sst
+.next/dev/cache/turbopack/2275bd85/00000048.sst
+.next/dev/cache/turbopack/2275bd85/00000049.meta
+.next/dev/cache/turbopack/2275bd85/00000050.meta
+.next/dev/cache/turbopack/2275bd85/00000052.meta
+.next/dev/cache/turbopack/2275bd85/00000057.sst
+.next/dev/cache/turbopack/2275bd85/00000058.sst
+.next/dev/cache/turbopack/2275bd85/00000059.sst
+.next/dev/cache/turbopack/2275bd85/00000060.meta
+.next/dev/cache/turbopack/2275bd85/00000061.meta
+.next/dev/cache/turbopack/2275bd85/00000063.meta
+.next/dev/cache/turbopack/2275bd85/00000068.sst
+.next/dev/cache/turbopack/2275bd85/00000069.sst
+.next/dev/cache/turbopack/2275bd85/00000070.sst
+.next/dev/cache/turbopack/2275bd85/00000071.meta
+.next/dev/cache/turbopack/2275bd85/00000072.meta
+.next/dev/cache/turbopack/2275bd85/00000074.meta
+.next/dev/cache/turbopack/2275bd85/00000082.sst
+.next/dev/cache/turbopack/2275bd85/00000083.sst
+.next/dev/cache/turbopack/2275bd85/00000084.sst
+.next/dev/cache/turbopack/2275bd85/00000085.meta
+.next/dev/cache/turbopack/2275bd85/00000086.meta
+.next/dev/cache/turbopack/2275bd85/00000088.meta
+.next/dev/cache/turbopack/2275bd85/00000089.sst
+.next/dev/cache/turbopack/2275bd85/00000091.sst
+.next/dev/cache/turbopack/2275bd85/00000092.meta
+.next/dev/cache/turbopack/2275bd85/00000093.meta
+.next/dev/cache/turbopack/2275bd85/00000096.sst
+.next/dev/cache/turbopack/2275bd85/00000097.sst
+.next/dev/cache/turbopack/2275bd85/00000098.meta
+.next/dev/cache/turbopack/2275bd85/00000100.meta
+.next/dev/cache/turbopack/2275bd85/00000105.sst
+.next/dev/cache/turbopack/2275bd85/00000106.sst
+.next/dev/cache/turbopack/2275bd85/00000107.sst
+.next/dev/cache/turbopack/2275bd85/00000108.meta
+.next/dev/cache/turbopack/2275bd85/00000109.meta
+.next/dev/cache/turbopack/2275bd85/00000111.meta
+.next/dev/cache/turbopack/2275bd85/00000112.sst
+.next/dev/cache/turbopack/2275bd85/00000113.sst
+.next/dev/cache/turbopack/2275bd85/00000114.meta
+.next/dev/cache/turbopack/2275bd85/00000116.sst
+.next/dev/cache/turbopack/2275bd85/00000117.sst
+.next/dev/cache/turbopack/2275bd85/00000118.sst
+.next/dev/cache/turbopack/2275bd85/00000119.meta
+.next/dev/cache/turbopack/2275bd85/00000120.meta
+.next/dev/cache/turbopack/2275bd85/00000121.meta
+.next/dev/cache/turbopack/2275bd85/00000122.sst
+.next/dev/cache/turbopack/2275bd85/00000123.sst
+.next/dev/cache/turbopack/2275bd85/00000124.sst
+.next/dev/cache/turbopack/2275bd85/00000125.meta
+.next/dev/cache/turbopack/2275bd85/00000126.meta
+.next/dev/cache/turbopack/2275bd85/00000127.meta
+.next/dev/cache/turbopack/2275bd85/00000128.sst
+.next/dev/cache/turbopack/2275bd85/00000129.sst
+.next/dev/cache/turbopack/2275bd85/00000130.sst
+.next/dev/cache/turbopack/2275bd85/00000131.sst
+.next/dev/cache/turbopack/2275bd85/00000132.sst
+.next/dev/cache/turbopack/2275bd85/00000133.sst
+.next/dev/cache/turbopack/2275bd85/00000134.sst
+.next/dev/cache/turbopack/2275bd85/00000135.meta
+.next/dev/cache/turbopack/2275bd85/00000136.meta
+.next/dev/cache/turbopack/2275bd85/00000137.meta
+.next/dev/cache/turbopack/2275bd85/00000138.meta
+.next/dev/cache/turbopack/2275bd85/00000139.sst
+.next/dev/cache/turbopack/2275bd85/00000140.sst
+.next/dev/cache/turbopack/2275bd85/00000141.sst
+.next/dev/cache/turbopack/2275bd85/00000142.meta
+.next/dev/cache/turbopack/2275bd85/00000143.meta
+.next/dev/cache/turbopack/2275bd85/00000144.meta
+.next/dev/cache/turbopack/2275bd85/00000145.sst
+.next/dev/cache/turbopack/2275bd85/00000146.sst
+.next/dev/cache/turbopack/2275bd85/00000147.sst
+.next/dev/cache/turbopack/2275bd85/00000148.meta
+.next/dev/cache/turbopack/2275bd85/00000149.meta
+.next/dev/cache/turbopack/2275bd85/00000150.meta
+.next/dev/cache/turbopack/2275bd85/00000151.sst
+.next/dev/cache/turbopack/2275bd85/00000152.sst
+.next/dev/cache/turbopack/2275bd85/00000153.sst
+.next/dev/cache/turbopack/2275bd85/00000154.meta
+.next/dev/cache/turbopack/2275bd85/00000155.meta
+.next/dev/cache/turbopack/2275bd85/00000156.meta
+.next/dev/cache/turbopack/2275bd85/00000157.sst
+.next/dev/cache/turbopack/2275bd85/00000158.sst
+.next/dev/cache/turbopack/2275bd85/00000159.sst
+.next/dev/cache/turbopack/2275bd85/00000160.meta
+.next/dev/cache/turbopack/2275bd85/00000161.meta
+.next/dev/cache/turbopack/2275bd85/00000162.meta
+.next/dev/cache/turbopack/2275bd85/00000163.sst
+.next/dev/cache/turbopack/2275bd85/00000164.sst
+.next/dev/cache/turbopack/2275bd85/00000165.sst
+.next/dev/cache/turbopack/2275bd85/00000166.meta
+.next/dev/cache/turbopack/2275bd85/00000167.meta
+.next/dev/cache/turbopack/2275bd85/00000168.meta
+.next/dev/cache/turbopack/2275bd85/00000169.sst
+.next/dev/cache/turbopack/2275bd85/00000170.sst
+.next/dev/cache/turbopack/2275bd85/00000171.sst
+.next/dev/cache/turbopack/2275bd85/00000172.meta
+.next/dev/cache/turbopack/2275bd85/00000173.meta
+.next/dev/cache/turbopack/2275bd85/00000174.meta
+.next/dev/cache/turbopack/2275bd85/CURRENT
+.next/dev/cache/turbopack/2275bd85/LOG
+.next/dev/fallback-build-manifest.json
+.next/dev/logs/next-development.log
+.next/dev/package.json
+.next/dev/prerender-manifest.json
+.next/dev/routes-manifest.json
+.next/dev/server/app-paths-manifest.json
+.next/dev/server/app/_not-found/page_client-reference-manifest.js
+.next/dev/server/app/_not-found/page.js
+.next/dev/server/app/_not-found/page.js.map
+.next/dev/server/app/_not-found/page/app-paths-manifest.json
+.next/dev/server/app/_not-found/page/build-manifest.json
+.next/dev/server/app/_not-found/page/next-font-manifest.json
+.next/dev/server/app/_not-found/page/react-loadable-manifest.json
+.next/dev/server/app/_not-found/page/server-reference-manifest.json
+.next/dev/server/app/blog/[slug]/page_client-reference-manifest.js
+.next/dev/server/app/blog/[slug]/page.js
+.next/dev/server/app/blog/[slug]/page.js.map
+.next/dev/server/app/blog/[slug]/page/app-paths-manifest.json
+.next/dev/server/app/blog/[slug]/page/build-manifest.json
+.next/dev/server/app/blog/[slug]/page/next-font-manifest.json
+.next/dev/server/app/blog/[slug]/page/react-loadable-manifest.json
+.next/dev/server/app/blog/[slug]/page/server-reference-manifest.json
+.next/dev/server/app/blog/page_client-reference-manifest.js
+.next/dev/server/app/blog/page.js
+.next/dev/server/app/blog/page.js.map
+.next/dev/server/app/blog/page/app-paths-manifest.json
+.next/dev/server/app/blog/page/build-manifest.json
+.next/dev/server/app/blog/page/next-font-manifest.json
+.next/dev/server/app/blog/page/react-loadable-manifest.json
+.next/dev/server/app/blog/page/server-reference-manifest.json
+.next/dev/server/app/characters/[slug]/page_client-reference-manifest.js
+.next/dev/server/app/characters/[slug]/page.js
+.next/dev/server/app/characters/[slug]/page.js.map
+.next/dev/server/app/characters/[slug]/page/app-paths-manifest.json
+.next/dev/server/app/characters/[slug]/page/build-manifest.json
+.next/dev/server/app/characters/[slug]/page/next-font-manifest.json
+.next/dev/server/app/characters/[slug]/page/react-loadable-manifest.json
+.next/dev/server/app/characters/[slug]/page/server-reference-manifest.json
+.next/dev/server/app/events/[slug]/page_client-reference-manifest.js
+.next/dev/server/app/events/[slug]/page.js
+.next/dev/server/app/events/[slug]/page.js.map
+.next/dev/server/app/events/[slug]/page/app-paths-manifest.json
+.next/dev/server/app/events/[slug]/page/build-manifest.json
+.next/dev/server/app/events/[slug]/page/next-font-manifest.json
+.next/dev/server/app/events/[slug]/page/react-loadable-manifest.json
+.next/dev/server/app/events/[slug]/page/server-reference-manifest.json
+.next/dev/server/app/events/page_client-reference-manifest.js
+.next/dev/server/app/events/page.js
+.next/dev/server/app/events/page.js.map
+.next/dev/server/app/events/page/app-paths-manifest.json
+.next/dev/server/app/events/page/build-manifest.json
+.next/dev/server/app/events/page/next-font-manifest.json
+.next/dev/server/app/events/page/react-loadable-manifest.json
+.next/dev/server/app/events/page/server-reference-manifest.json
+.next/dev/server/app/factions/[slug]/page_client-reference-manifest.js
+.next/dev/server/app/factions/[slug]/page.js
+.next/dev/server/app/factions/[slug]/page.js.map
+.next/dev/server/app/factions/[slug]/page/app-paths-manifest.json
+.next/dev/server/app/factions/[slug]/page/build-manifest.json
+.next/dev/server/app/factions/[slug]/page/next-font-manifest.json
+.next/dev/server/app/factions/[slug]/page/react-loadable-manifest.json
+.next/dev/server/app/factions/[slug]/page/server-reference-manifest.json
+.next/dev/server/app/factions/page_client-reference-manifest.js
+.next/dev/server/app/factions/page.js
+.next/dev/server/app/factions/page.js.map
+.next/dev/server/app/factions/page/app-paths-manifest.json
+.next/dev/server/app/factions/page/build-manifest.json
+.next/dev/server/app/factions/page/next-font-manifest.json
+.next/dev/server/app/factions/page/react-loadable-manifest.json
+.next/dev/server/app/factions/page/server-reference-manifest.json
+.next/dev/server/app/page_client-reference-manifest.js
+.next/dev/server/app/page.js
+.next/dev/server/app/page.js.map
+.next/dev/server/app/page/app-paths-manifest.json
+.next/dev/server/app/page/build-manifest.json
+.next/dev/server/app/page/next-font-manifest.json
+.next/dev/server/app/page/react-loadable-manifest.json
+.next/dev/server/app/page/server-reference-manifest.json
+.next/dev/server/chunks/ssr/_0eyd.-l._.js
+.next/dev/server/chunks/ssr/_0eyd.-l._.js.map
+.next/dev/server/chunks/ssr/_0iqhvsm._.js
+.next/dev/server/chunks/ssr/_0iqhvsm._.js.map
+.next/dev/server/chunks/ssr/_0k55hb~._.js
+.next/dev/server/chunks/ssr/_0k55hb~._.js.map
+.next/dev/server/chunks/ssr/_0sjw-ct._.js
+.next/dev/server/chunks/ssr/_0sjw-ct._.js.map
+.next/dev/server/chunks/ssr/_0sp8y.r._.js
+.next/dev/server/chunks/ssr/_0sp8y.r._.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app__not-found_page_actions_0eq97pa.js
+.next/dev/server/chunks/ssr/_next-internal_server_app__not-found_page_actions_0eq97pa.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app_blog_[slug]_page_actions_10nch8~.js
+.next/dev/server/chunks/ssr/_next-internal_server_app_blog_[slug]_page_actions_10nch8~.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app_blog_page_actions_0y-0flx.js
+.next/dev/server/chunks/ssr/_next-internal_server_app_blog_page_actions_0y-0flx.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app_characters_[slug]_page_actions_0_op3rg.js
+.next/dev/server/chunks/ssr/_next-internal_server_app_characters_[slug]_page_actions_0_op3rg.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app_events_[slug]_page_actions_0nf19b9.js
+.next/dev/server/chunks/ssr/_next-internal_server_app_events_[slug]_page_actions_0nf19b9.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app_events_page_actions_0cuaq1f.js
+.next/dev/server/chunks/ssr/_next-internal_server_app_events_page_actions_0cuaq1f.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app_factions_[slug]_page_actions_050chs_.js
+.next/dev/server/chunks/ssr/_next-internal_server_app_factions_[slug]_page_actions_050chs_.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app_factions_page_actions_0l3j1db.js
+.next/dev/server/chunks/ssr/_next-internal_server_app_factions_page_actions_0l3j1db.js.map
+.next/dev/server/chunks/ssr/_next-internal_server_app_page_actions_09-gtaw.js
+.next/dev/server/chunks/ssr/_next-internal_server_app_page_actions_09-gtaw.js.map
+.next/dev/server/chunks/ssr/[externals]__0n13xf4._.js
+.next/dev/server/chunks/ssr/[externals]__0n13xf4._.js.map
+.next/dev/server/chunks/ssr/[externals]_next_dist_shared_lib_no-fallback-error_external_0fgm~bn.js
+.next/dev/server/chunks/ssr/[externals]_next_dist_shared_lib_no-fallback-error_external_0fgm~bn.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__020j7rc._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__020j7rc._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__032m.ey._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__032m.ey._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__06u74tv._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__06u74tv._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__07hac8y._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__07hac8y._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__08uwhgh._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__08uwhgh._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__0jvd._b._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__0jvd._b._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__0lgfzxa._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__0lgfzxa._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__0pkm5ea._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__0pkm5ea._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__0pqxkg3._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__0pqxkg3._.js.map
+.next/dev/server/chunks/ssr/[root-of-the-server]__13tj2sk._.js
+.next/dev/server/chunks/ssr/[root-of-the-server]__13tj2sk._.js.map
+.next/dev/server/chunks/ssr/[turbopack]_runtime.js
+.next/dev/server/chunks/ssr/[turbopack]_runtime.js.map
+.next/dev/server/chunks/ssr/app_blog_layout_jsx_00j25fs._.js
+.next/dev/server/chunks/ssr/app_blog_layout_jsx_00j25fs._.js.map
+.next/dev/server/chunks/ssr/app_characters_layout_jsx_094hzje._.js
+.next/dev/server/chunks/ssr/app_characters_layout_jsx_094hzje._.js.map
+.next/dev/server/chunks/ssr/app_HomeClient_jsx_0yp.bx-._.js
+.next/dev/server/chunks/ssr/app_HomeClient_jsx_0yp.bx-._.js.map
+.next/dev/server/chunks/ssr/components_0yx2pd4._.js
+.next/dev/server/chunks/ssr/components_0yx2pd4._.js.map
+.next/dev/server/chunks/ssr/node_modules_@headlessui_react_dist_0u0egon._.js
+.next/dev/server/chunks/ssr/node_modules_@headlessui_react_dist_0u0egon._.js.map
+.next/dev/server/chunks/ssr/node_modules_093wo_1._.js
+.next/dev/server/chunks/ssr/node_modules_093wo_1._.js.map
+.next/dev/server/chunks/ssr/node_modules_0klv-5g._.js
+.next/dev/server/chunks/ssr/node_modules_0klv-5g._.js.map
+.next/dev/server/chunks/ssr/node_modules_esprima_dist_esprima_08f5wrw.js
+.next/dev/server/chunks/ssr/node_modules_esprima_dist_esprima_08f5wrw.js.map
+.next/dev/server/chunks/ssr/node_modules_micromark-core-commonmark_dev_lib_0ryojnu._.js
+.next/dev/server/chunks/ssr/node_modules_micromark-core-commonmark_dev_lib_0ryojnu._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_06ewh3d._.js
+.next/dev/server/chunks/ssr/node_modules_next_06ewh3d._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_0gwanxy._.js
+.next/dev/server/chunks/ssr/node_modules_next_0gwanxy._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_0nk3w_l._.js
+.next/dev/server/chunks/ssr/node_modules_next_0nk3w_l._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_0r8k6if._.js
+.next/dev/server/chunks/ssr/node_modules_next_0r8k6if._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_0z9k3-s._.js
+.next/dev/server/chunks/ssr/node_modules_next_0z9k3-s._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_0ono2e5._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_0ono2e5._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_110t0.g._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_110t0.g._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_10bow6k._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_10bow6k._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_06j6hww._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_06j6hww._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_0inhx6q._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_0inhx6q._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_builtin_forbidden_0ghu-f7.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_builtin_forbidden_0ghu-f7.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_builtin_global-error_0lgvd_..js
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_builtin_global-error_0lgvd_..js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_builtin_unauthorized_0cjv-23.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_client_components_builtin_unauthorized_0cjv-23.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_compiled_07ho8ku._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_compiled_07ho8ku._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_00xse_0._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_00xse_0._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_08wnv6x._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_08wnv6x._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_0cqcg00._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_0cqcg00._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_0go5i87._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_0go5i87._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_0scymce._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_0scymce._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_12~l9iy._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_esm_12~l9iy._.js.map
+.next/dev/server/chunks/ssr/node_modules_next_dist_server_route-modules_app-page_0f6k0sl._.js
+.next/dev/server/chunks/ssr/node_modules_next_dist_server_route-modules_app-page_0f6k0sl._.js.map
+.next/dev/server/interception-route-rewrite-manifest.js
+.next/dev/server/middleware-build-manifest.js
+.next/dev/server/middleware-manifest.json
+.next/dev/server/next-font-manifest.js
+.next/dev/server/next-font-manifest.json
+.next/dev/server/pages-manifest.json
+.next/dev/server/server-reference-manifest.js
+.next/dev/server/server-reference-manifest.json
+.next/dev/static/chunks/_0.6fe40._.js
+.next/dev/static/chunks/_0.6fe40._.js.map
+.next/dev/static/chunks/_031gsoc._.js
+.next/dev/static/chunks/_031gsoc._.js.map
+.next/dev/static/chunks/_0fbel60._.js
+.next/dev/static/chunks/_0fbel60._.js.map
+.next/dev/static/chunks/_0p44nws._.js.map
+.next/dev/static/chunks/_0rqeker._.js
+.next/dev/static/chunks/_0yqs3ij._.js
+.next/dev/static/chunks/_0yqs3ij._.js.map
+.next/dev/static/chunks/[next]_internal_font_google_roboto_441149e_module_css_0w3-wzy._.single.css
+.next/dev/static/chunks/[next]_internal_font_google_roboto_441149e_module_css_0w3-wzy._.single.css.map
+.next/dev/static/chunks/[root-of-the-server]__0xcg5n6._.css
+.next/dev/static/chunks/[root-of-the-server]__0xcg5n6._.css.map
+.next/dev/static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0yjw1oe._.js
+.next/dev/static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0yjw1oe._.js.map
+.next/dev/static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_10mygs7._.js
+.next/dev/static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_10z625~._.js
+.next/dev/static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_10z625~._.js.map
+.next/dev/static/chunks/app_blog_[slug]_page_jsx_027ma40._.js
+.next/dev/static/chunks/app_blog_page_jsx_027ma40._.js
+.next/dev/static/chunks/app_characters_[slug]_page_jsx_027ma40._.js
+.next/dev/static/chunks/app_events_[slug]_page_jsx_027ma40._.js
+.next/dev/static/chunks/app_events_page_jsx_027ma40._.js
+.next/dev/static/chunks/app_factions_[slug]_page_jsx_027ma40._.js
+.next/dev/static/chunks/app_factions_page_jsx_027ma40._.js
+.next/dev/static/chunks/app_global_css_0w3-wzy._.single.css
+.next/dev/static/chunks/app_global_css_0w3-wzy._.single.css.map
+.next/dev/static/chunks/app_HomeClient_jsx_0my047z._.js
+.next/dev/static/chunks/app_HomeClient_jsx_0my047z._.js.map
+.next/dev/static/chunks/app_layout_jsx_004glpo._.js
+.next/dev/static/chunks/app_page_jsx_027ma40._.js
+.next/dev/static/chunks/components_01-elfw._.js
+.next/dev/static/chunks/components_01-elfw._.js.map
+.next/dev/static/chunks/node_modules_@swc_helpers_cjs_0-4ujiy._.js
+.next/dev/static/chunks/node_modules_@swc_helpers_cjs_0-4ujiy._.js.map
+.next/dev/static/chunks/node_modules_0k_cusv._.js
+.next/dev/static/chunks/node_modules_0k_cusv._.js.map
+.next/dev/static/chunks/node_modules_next_dist_115brz8._.js
+.next/dev/static/chunks/node_modules_next_dist_115brz8._.js.map
+.next/dev/static/chunks/node_modules_next_dist_build_polyfills_polyfill-nomodule.js
+.next/dev/static/chunks/node_modules_next_dist_build_polyfills_polyfill-nomodule.js.map
+.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js
+.next/dev/static/chunks/node_modules_next_dist_client_0fhqo1d._.js.map
+.next/dev/static/chunks/node_modules_next_dist_client_components_builtin_global-error_027ma40.js
+.next/dev/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js
+.next/dev/static/chunks/node_modules_next_dist_compiled_0rpq4pf._.js.map
+.next/dev/static/chunks/node_modules_next_dist_compiled_next-devtools_index_0553esy.js
+.next/dev/static/chunks/node_modules_next_dist_compiled_next-devtools_index_0553esy.js.map
+.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js
+.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_058-ah~._.js.map
+.next/dev/static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_0p3wegg._.js
+.next/dev/static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_0p3wegg._.js.map
+.next/dev/static/chunks/turbopack-_0p44nws._.js
+.next/dev/static/development/_buildManifest.js
+.next/dev/static/development/_clientMiddlewareManifest.js
+.next/dev/static/development/_ssgManifest.js
+.next/dev/static/media/38772d1e0cde909c.06sf8d84-9n3w.woff2
+.next/dev/static/media/572c13468b8cff87.0k68dgt5gi4w6.woff2
+.next/dev/static/media/62d4b50592542c9f.0id408x23fv8q.woff2
+.next/dev/static/media/8fcf71678f67d0c5.0kn0u2cosumsr.woff2
+.next/dev/static/media/a0ffaa6a9384d9d3.0rpo5i9-tpup~.woff2
+.next/dev/static/media/ccee61546c0358b7.17kgvx8~8.fj6.woff2
+.next/dev/static/media/ce62453a442c7f35.p.0333ktddfbsxy.woff2
+.next/dev/static/media/f7d6090e8b3debad.00qosz~21_9iq.woff2
+.next/dev/static/media/fad568eea626db0e.04s-lri-1fnua.woff2
+.next/dev/trace
+.next/dev/types/routes.d.ts
 .vercelignore
-LICENSE.md
-README.md
-app/HomeClient.jsx
 app/about/head.jsx
 app/about/page.jsx
-app/blog/BlogClient.jsx
 app/blog/[slug]/head.jsx
 app/blog/[slug]/page.jsx
+app/blog/BlogClient.jsx
 app/blog/disclaimer/head.jsx
 app/blog/disclaimer/page.jsx
 app/blog/first-seeds/page.jsx
@@ -54,91 +461,93 @@ app/blog/for-recruiters/head.jsx
 app/blog/for-recruiters/page.jsx
 app/blog/layout.jsx
 app/blog/page.jsx
-app/characters/CharactersClient.jsx
 app/characters/[slug]/head.jsx
 app/characters/[slug]/page.jsx
+app/characters/CharactersClient.jsx
 app/characters/layout.jsx
 app/characters/page.jsx
 app/contact/head.jsx
 app/contact/layout.jsx
 app/contact/page.jsx
-app/cultures/CulturesClient.jsx
 app/cultures/[slug]/head.jsx
 app/cultures/[slug]/page.jsx
 app/cultures/crosswalk-dictionary-reltronic-deptic/page.jsx
+app/cultures/CulturesClient.jsx
 app/cultures/layout.jsx
 app/cultures/mini-deptic-dictionary/page.jsx
 app/cultures/page.jsx
 app/cultures/reltronic-root-words/page.jsx
 app/data/characters.json
-app/events/EventsClient.jsx
 app/events/[slug]/head.jsx
 app/events/[slug]/page.jsx
+app/events/EventsClient.jsx
 app/events/layout.jsx
 app/events/page.jsx
-app/factions/FactionsClient.jsx
 app/factions/[slug]/head.jsx
 app/factions/[slug]/page.jsx
+app/factions/FactionsClient.jsx
 app/factions/layout.jsx
 app/factions/page.jsx
 app/fonts.js
 app/global.css
-app/items/ItemsClient.jsx
+app/HomeClient.jsx
 app/items/[slug]/head.jsx
 app/items/[slug]/page.jsx
+app/items/ItemsClient.jsx
 app/items/layout.jsx
 app/items/page.jsx
-app/laws/LawsClient.jsx
 app/laws/[slug]/head.jsx
 app/laws/[slug]/page.jsx
+app/laws/LawsClient.jsx
 app/laws/layout.jsx
 app/laws/page.jsx
 app/layout.jsx
-app/myths/MythsClient.jsx
 app/myths/[slug]/head.jsx
 app/myths/[slug]/page.jsx
 app/myths/layout.jsx
+app/myths/MythsClient.jsx
 app/myths/page.jsx
-app/organizations/OrganizationsClient.jsx
 app/organizations/[slug]/head.jsx
 app/organizations/[slug]/page.jsx
 app/organizations/layout.jsx
+app/organizations/OrganizationsClient.jsx
 app/organizations/page.jsx
 app/page.jsx
-app/philosophies/PhilosophiesClient.jsx
 app/philosophies/[slug]/head.jsx
 app/philosophies/[slug]/page.jsx
 app/philosophies/layout.jsx
 app/philosophies/page.jsx
-app/places/PlacesClient.jsx
+app/philosophies/PhilosophiesClient.jsx
 app/places/[slug]/head.jsx
 app/places/[slug]/page.jsx
 app/places/layout.jsx
 app/places/page.jsx
-app/principles/PrincipleClient.jsx
+app/places/PlacesClient.jsx
 app/principles/[slug]/head.jsx
 app/principles/[slug]/page.jsx
 app/principles/layout.jsx
 app/principles/page.jsx
-app/series/SeriesClient.jsx
+app/principles/PrincipleClient.jsx
 app/series/[slug]/head.jsx
 app/series/[slug]/page.jsx
 app/series/layout.jsx
 app/series/page.jsx
-app/statistics/StatisticsClient.jsx
+app/series/SeriesClient.jsx
 app/statistics/[slug]/head.jsx
 app/statistics/[slug]/page.jsx
 app/statistics/layout.jsx
 app/statistics/page.jsx
-app/technologies/TechsClient.jsx
+app/statistics/StatisticsClient.jsx
 app/technologies/[slug]/head.jsx
 app/technologies/[slug]/page.jsx
 app/technologies/layout.jsx
 app/technologies/page.jsx
+app/technologies/TechsClient.jsx
 bun.lock
 components/AiUsageStats.jsx
 components/BlogAnalytics.jsx
 components/CommandPalette.jsx
+components/csv.jsx
 components/DarkModeToggle.jsx
 components/DwellTimeTracker.jsx
 components/ExportJSONButton.jsx
@@ -152,7 +561,6 @@ components/PostCard.jsx
 components/RouteAnalytics.jsx
 components/ScrollDepthTracker.jsx
 components/YouTubeEmbed.jsx
-components/csv.jsx
 content/blog/12-month-roadmap.md
 content/blog/1first-seeds.md
 content/blog/2v3-reltroner-joker.md
@@ -288,6 +696,7 @@ content/cultures/timber-soul-stelpadland.md
 content/cultures/vierkernplatte.md
 content/events/asthortera-moonless-sky.md
 content/events/aurastelia-astrostelia.md
+content/events/aurora-plaza-workers-day.md
 content/events/beluftner-cosmeilia-conflict.md
 content/events/confronting-kamila.md
 content/events/declaration-war-victory.md
@@ -342,12 +751,15 @@ content/laws/clarity-politics-reltronland.md
 content/laws/energy-codex-949.md
 content/laws/galactic-alignment-treaty.md
 content/laws/global-education-mandate.md
+content/laws/modular-development-act-reltronland.md
 content/laws/no-tipping-charity-ntacca.md
 content/laws/raid1-reltronland.md
 content/laws/reltronland-administrative-naming-rules.md
 content/laws/reltronland-anti-corruption.md
 content/laws/reltronland-citizenship-ethics.md
+content/laws/reltronland-continuous-governance-framework.md
 content/laws/reltronland-core-constitution.md
+content/laws/reltronland-gold-custody-protocol.md
 content/laws/reltronland-immigration.md
 content/laws/reltronland-labor-ethics.md
 content/laws/reltronland-narcotics-regulation.md
@@ -369,6 +781,7 @@ content/myths/five-awakening-signals.md
 content/myths/henchoway-underground.md
 content/myths/how-the-abyss-feeds.md
 content/myths/ide-theft-phenomenon.md
+content/myths/nytherion-abyss-epistemic.md
 content/myths/rei-and-the-core-eater.md
 content/myths/reltroners-zero-day.md
 content/myths/ritual-astralis-contact.md
@@ -390,6 +803,7 @@ content/organizations/reltronland-space-command.md
 content/organizations/rida.md
 content/organizations/rxs-500.md
 content/organizations/sava.md
+content/organizations/tcbc-troneiput-cutneiput-banking-corporation.md
 content/philosophies/agile-vs-waterfall-analogy.md
 content/philosophies/antagonist-design.md
 content/philosophies/astralis-philosophy-of-suffering-and-sustainability.md
@@ -417,6 +831,7 @@ content/philosophies/wall-of-silenced-builders.md
 content/philosophies/why-immigrants-choose-asthortera.md
 content/philosophies/worldbuilding-as-civilizational-blueprint.md
 content/philosophies/worlds-for-enthusiasts.md
+content/places/3d-4d-5d-sovereignty-doctrine-reltronland.md
 content/places/amberglow.md
 content/places/asthortera-12-orbiting-moons.md
 content/places/asthortera-core-world.md
@@ -441,9 +856,11 @@ content/places/retro-district.md
 content/places/the-galaxy.md
 content/places/the-safe-house-pact.md
 content/places/vanyathra-abyssborn-nation.md
+content/places/voidtropolis-void-energy-capital.md
 content/places/whispergrove.md
 content/places/why-aurastelia-is-the-most-beautiful-realm.md
 content/principles/anti-sexual-content.md
+content/principles/asthortera-modular-economy.md
 content/principles/asthortera-type-i9-doctrine.md
 content/principles/astralis-capital-doctrine.md
 content/principles/civilizational-maturity-reltroner.md
@@ -476,9 +893,9 @@ content/series/rei-in-abyss.md
 content/series/series-roadmap.md
 content/series/the-abyss-of-comfort.md
 content/statistics/ai-ecosystem.md
+content/statistics/asthortera_identity.md
 content/statistics/asthortera-data-analytics-notebook.md
 content/statistics/asthortera-vs-earth.md
-content/statistics/asthortera_identity.md
 content/statistics/cistheta_identity.md
 content/statistics/cosmeilia_identity.md
 content/statistics/culture-impact-index.md
@@ -493,6 +910,7 @@ content/statistics/sdi-report-asthortera.md
 content/statistics/sdi-score-matrix.md
 content/statistics/sentient-population.md
 content/statistics/value-index.md
+content/technologies/astralis-colossus-stations.md
 content/technologies/aurora-synchronization-tech.md
 content/technologies/entropy-firewall.md
 content/technologies/quantum-memory-cloud.md
@@ -504,6 +922,7 @@ content/technologies/reltronland-waste-management.md
 content/technologies/solar-flare-technology.md
 content/technologies/tda-twin-digital-atom.md
 content/technologies/tronexus-v-class.md
+content/technologies/ufaps-reltronland.md
 content/technologies/web3-library-protocol-depcutland.md
 content/unwritten-ideas.md
 jsconfig.json
@@ -525,6 +944,7 @@ lib/getStatistic.js
 lib/getTechnologie.js
 lib/gtag.js
 lib/post.js
+LICENSE.md
 next-sitemap.config.js
 next-sitemap.js
 package-lock.json
@@ -541,7 +961,7 @@ public/files/reltroner-studio-legal-declaration.pdf
 public/files/roadmap-2045.pdf
 public/images/12-month-roadmap.webp
 public/images/2v3-reltroner-joker.webp
-public/images/WorldBuilding.webp
+public/images/3d-4d-5d-sovereignty-doctrine-reltronland.webp
 public/images/a-lifelong-build.webp
 public/images/a-lifelong-build2.webp
 public/images/abolish-feudalism-inferiority.webp
@@ -571,6 +991,7 @@ public/images/anti-feudal-law.webp
 public/images/anti-klise-gender-friendship.webp
 public/images/anti-sexual-content.webp
 public/images/artesian-pictolatin-language.webp
+public/images/asthortera_identity.webp
 public/images/asthortera-12-orbiting-moons.webp
 public/images/asthortera-character-pocketbook.webp
 public/images/asthortera-data-analytics-notebook.webp
@@ -578,13 +999,13 @@ public/images/asthortera-data-analytics-notebook1.webp
 public/images/asthortera-data-analytics-notebook2.webp
 public/images/asthortera-data-analytics-notebook3.webp
 public/images/asthortera-glossary.webp
+public/images/asthortera-modular-economy.webp
 public/images/asthortera-moonless-sky.webp
 public/images/asthortera-pyramid.webp
 public/images/asthortera-space-command.webp
 public/images/asthortera-type-i9-doctrine.webp
 public/images/asthortera-vs-earth.webp
 public/images/asthortera-world-map-progress.webp
-public/images/asthortera_identity.webp
 public/images/astralis-capital-doctrine.webp
 public/images/astralis-colossus-stations.webp
 public/images/astralis-evaluation-banner.webp
@@ -603,6 +1024,7 @@ public/images/astralis-temple5.webp
 public/images/astralis-timeline.webp
 public/images/astralis-top001.webp
 public/images/astralis-vanguard.webp
+public/images/astrostelia-rhythm-heaven.webp
 public/images/astrostelia.webp
 public/images/astrostelia1.webp
 public/images/astrostelia2.webp
@@ -611,6 +1033,7 @@ public/images/astrostelia4.webp
 public/images/aurastelia-astrostelia.webp
 public/images/aurastelia-governance-model.webp
 public/images/aurastelia-most-beautiful-realm-banner.webp
+public/images/aurastelia-rhythm-heaven.webp
 public/images/aurastelia.webp
 public/images/aurastelia1.webp
 public/images/aurastelia2.webp
@@ -618,6 +1041,7 @@ public/images/aurastelia3.webp
 public/images/aurioneira-system.webp
 public/images/aurioneira.webp
 public/images/aurora-faith.webp
+public/images/aurora-plaza-workers-day.webp
 public/images/aurora-synchronization-tech.webp
 public/images/aurora-synthesia-ritual-dance.webp
 public/images/aviashenwelt-accord.webp
@@ -633,11 +1057,14 @@ public/images/bytebite-poster.webp
 public/images/bytebite.webp
 public/images/calendar.webp
 public/images/career-reality-statement.webp
+public/images/case-law-msa.webp
 public/images/castela-jiggly-cake-reltronland.webp
 public/images/castela-jiggly-cake-reltronland1.webp
 public/images/castela-jiggly-cake-reltronland2.webp
 public/images/celdronyx.webp
+public/images/cenrestier-1-rhythm-heaven.webp
 public/images/cenrestier-country-profile.webp
+public/images/cenrestier-rhythm-heaven.webp
 public/images/cenrestier1.webp
 public/images/cenrestier2.webp
 public/images/cenrestier3.webp
@@ -648,8 +1075,8 @@ public/images/chart-repo-growth.webp
 public/images/children-of-asthortera.webp
 public/images/children-reltronland.webp
 public/images/chiss-reltronland.webp
-public/images/cistheta-pyramid.webp
 public/images/cistheta_identity.webp
+public/images/cistheta-pyramid.webp
 public/images/civilian-starliner.webp
 public/images/civilizational-maturity-reltroner.webp
 public/images/clarity-bank-of-reltronland.webp
@@ -665,8 +1092,8 @@ public/images/comicball-episode5.webp
 public/images/comicball.webp
 public/images/compounding-as-a-cheat-code.webp
 public/images/confronting-kamila.webp
-public/images/cosmeilia-piramid.webp
 public/images/cosmeilia_identity.webp
+public/images/cosmeilia-piramid.webp
 public/images/creative-lore-bible.webp
 public/images/crosswalk-dictionary-reltronic-deptic.webp
 public/images/crypto-infra-transition.webp
@@ -691,12 +1118,13 @@ public/images/depcutland-founding.webp
 public/images/depcutland-music.webp
 public/images/depcutland-reltronland-border.webp
 public/images/depcutland-reltronland-summary.webp
+public/images/depcutland-rhythm-heaven.webp
 public/images/depcutland.webp
 public/images/depcutland1.webp
 public/images/depcutland2.webp
 public/images/depcutland4.webp
-public/images/depeisit-piramid.webp
 public/images/depeisit_identity.webp
+public/images/depeisit-piramid.webp
 public/images/diplomatic-ark-shuttle.webp
 public/images/direktori-listing.webp
 public/images/doctrine-rsc-vs-empire.webp
@@ -748,6 +1176,7 @@ public/images/graphicoresovereigntymanifesto.webp
 public/images/graphicorespec-log.webp
 public/images/graphicorespec.webp
 public/images/great-clearance-963bac.webp
+public/images/hargenbor-rhythm-heaven.webp
 public/images/hargenbor.webp
 public/images/hargenbor1.webp
 public/images/hargenbor2.webp
@@ -777,6 +1206,7 @@ public/images/irreplaceable-value.webp
 public/images/isaac-luminar.webp
 public/images/japan-closest-equivalent-to-asthortera.webp
 public/images/kalgered-country-profile.webp
+public/images/kalgered-rhythm-heaven.webp
 public/images/kalgered1.webp
 public/images/kalgered2.webp
 public/images/kamila-alena.webp
@@ -790,6 +1220,7 @@ public/images/legacy-of-resistance.webp
 public/images/legacy.webp
 public/images/legal-disclaimer.webp
 public/images/legendary-tier-distribution.webp
+public/images/lenternow-rhythm-heaven.webp
 public/images/lenternow.webp
 public/images/lenternow1.webp
 public/images/lenternow2.webp
@@ -816,12 +1247,14 @@ public/images/mimbixs5.webp
 public/images/mimbixs6.webp
 public/images/mini-deptic-dictionary.webp
 public/images/misjudged-builders.webp
+public/images/moreg-rhythm-heaven.webp
 public/images/moreg.webp
 public/images/moreg1.webp
 public/images/moreg2.webp
 public/images/moreg3.webp
 public/images/moris-monte.webp
 public/images/moris-monte2.webp
+public/images/multidimensional-sovereignty-act.webp
 public/images/multirealm-authority.webp
 public/images/nathan-harry.webp
 public/images/neiput-n-ball.webp
@@ -833,6 +1266,7 @@ public/images/no-right-no-wrong-banner.webp
 public/images/not-the-villain.webp
 public/images/nytherion-abyss-cover.webp
 public/images/nytherion-abyss-dimention.webp
+public/images/nytherion-abyss-epistemic.webp
 public/images/nytherion-abyss-horror-index.webp
 public/images/nytherion-fears-rsc.webp
 public/images/nytherion-temple.webp
@@ -847,12 +1281,14 @@ public/images/paia-aeropolis-hub.webp
 public/images/paia-aeropolis-hub1.webp
 public/images/paia-aeropolis-hub2.webp
 public/images/pak-yono-blank-canvas.webp
+public/images/pasgerflit-rhythm-heaven.webp
 public/images/pasgerflit.webp
 public/images/pasgerflit1.webp
 public/images/pasgerflit2.webp
 public/images/pasgerflit3.webp
 public/images/pasgerflitnochat.webp
 public/images/pasgerian-language.webp
+public/images/pencilfania-rhythm-heaven.webp
 public/images/pencilfania.webp
 public/images/pencilfania1.webp
 public/images/pencilfania2.webp
@@ -942,6 +1378,7 @@ public/images/reltronland-education-framework.webp
 public/images/reltronland-financial-institutions.webp
 public/images/reltronland-fiscal-grid.webp
 public/images/reltronland-founding.webp
+public/images/reltronland-gold-custody-protocol.webp
 public/images/reltronland-hyperloop.webp
 public/images/reltronland-immigration.webp
 public/images/reltronland-knowledge-architecture.webp
@@ -950,6 +1387,7 @@ public/images/reltronland-mealtime-etiquette.webp
 public/images/reltronland-music.webp
 public/images/reltronland-narcotics-regulation.webp
 public/images/reltronland-public-silence-protocol.webp
+public/images/reltronland-rhythm-heaven.webp
 public/images/reltronland-robot-combat.webp
 public/images/reltronland-space-command.webp
 public/images/reltronland-taxation-charter.webp
@@ -978,6 +1416,7 @@ public/images/sacred-unions-comparison.webp
 public/images/sava.webp
 public/images/scam-jobs-resistance.webp
 public/images/scout-parade.webp
+public/images/sdi-asthortera-2026.webp
 public/images/sdi-code-1.7.2.webp
 public/images/sdi-engineering-principles.webp
 public/images/sdi-report-asthortera.webp
@@ -997,17 +1436,21 @@ public/images/stelhaven-accord-983.webp
 public/images/stelpadien-language.webp
 public/images/stelpadland-culinary.webp
 public/images/stelpadland-governance.webp
+public/images/stelpadland-rhythm-heaven.webp
 public/images/stelpadland.webp
 public/images/stelpadland1.webp
 public/images/stelpadland2.webp
 public/images/supreme-existential-antagonist.webp
 public/images/system-mistakes-you.webp
 public/images/talent-longevity.webp
+public/images/taramistry-rhythm-heaven.webp
 public/images/taramistry.webp
 public/images/taramistry1.webp
 public/images/taramistry2.webp
 public/images/taramistry3.webp
 public/images/taramistry4.webp
+public/images/tcbc-troneiput-cutneiput-banking-corporation.webp
+public/images/tcbc-troneiput-cutneiput-banking-corporation1.webp
 public/images/tda-rsc-integration.webp
 public/images/tda-tetration-thrm.webp
 public/images/tda-twin-digital-atom.webp
@@ -1035,6 +1478,7 @@ public/images/tron-prime-capital-ships.webp
 public/images/tronexus-v-class.webp
 public/images/twilight-terminal.webp
 public/images/twin-digital-accord.webp
+public/images/ufaps-reltronland.webp
 public/images/user-ui.webp
 public/images/value-index.webp
 public/images/vanyathra-abyssborn-nation.webp
@@ -1042,6 +1486,7 @@ public/images/vanyathra-ground-war.webp
 public/images/vierkernplatte.webp
 public/images/vierkernplatte2.webp
 public/images/voidfront-surveillance-probes.webp
+public/images/voidtropolis-void-energy-capital.webp
 public/images/voltraxis.webp
 public/images/wall-of-silenced-builders.webp
 public/images/wayne-astoner.webp
@@ -1056,6 +1501,7 @@ public/images/why-reltroner-not-sandbox.webp
 public/images/why-reltroner-real-entertainment.webp
 public/images/world-population-day-reltronland.webp
 public/images/worldbuilding-as-civilizational-blueprint.webp
+public/images/WorldBuilding.webp
 public/images/worlds-for-enthusiasts.webp
 public/images/worst-case-protocol.webp
 public/images/writing-on-the-spiral.webp
@@ -1063,157 +1509,10 @@ public/images/youtubers-have-civilization.webp
 public/robots.txt
 public/sitemap-0.xml
 public/sitemap.xml
+README.md
 slug-check-report.txt
 structure.txt
 tailwind.config.js
 tools/check-all-slugs.mjs
 tools/check-slugs.mjs
 tools/slug-check-report.txt
-
-
-# 🗺️ Provinsi Troneiput
-
-### Wilayah Perbatasan Strategis Reltronland
-
-**Status:** Provinsi Negara
-**Negara:** Reltronland
-**Ibu Kota Provinsi:** Neiputra
-**Klasifikasi:** Border–Strategic Province · Economic & Reality Stabilization Zone
-
----
-
-## I. Gambaran Umum
-
-**Troneiput** adalah provinsi perbatasan paling strategis di **Reltronland**, terletak langsung berbatasan darat dengan negara **Depcutland**. Provinsi ini memiliki posisi unik sebagai:
-
-* gerbang utama mobilitas lintas negara,
-* zona transisi geopolitik pasca-perang,
-* dan lapisan stabilisasi realita antara dua peradaban inti Asthortera.
-
-Troneiput bukan sekadar wilayah administratif, melainkan **buffer civilization zone** yang dirancang untuk mencegah konflik, friksi ideologi, dan infiltrasi Nytherion Abyss melalui pendekatan sistemik, bukan militeristik.
-
----
-
-## II. Sejarah Singkat
-
-### 1. Era Pra-Reltronland
-
-Sebelum berdirinya Reltronland, wilayah Troneiput merupakan daerah frontier yang diperebutkan akibat:
-
-* posisi logistik yang vital,
-* jalur migrasi kuno Beluftner,
-* dan kedekatan langsung dengan pusat aristokrat Depcutland lama.
-
-Wilayah ini pernah menjadi **titik awal konflik militer besar Reltronland–Depcutland**, sebelum akhirnya diamankan dan direstrukturisasi oleh Reltronland.
-
----
-
-### 2. Era Perang Reltronland–Depcutland
-
-Dalam perang besar tersebut:
-
-* Troneiput menjadi garis depan non-simbolik,
-* bukan medan tempur brutal, melainkan **medan uji ketahanan sistem dan logistik**.
-
-Reltronland menolak menjadikan Troneiput zona kehancuran, dan justru menggunakannya sebagai contoh bagaimana peradaban menang tanpa mengorbankan struktur sipil.
-
----
-
-### 3. Era Pasca-Perang
-
-Setelah Depcutland bertransisi dari **Aristocrat Archival** ke **Merit Archival**, Troneiput diresmikan sebagai provinsi penuh Reltronland dengan mandat khusus:
-
-> *“Menjaga perbatasan tanpa menjadikannya luka.”*
-
----
-
-## III. Geografi & Tata Ruang
-
-* Topografi: dataran terencana + koridor hijau
-* Tidak ada tembok perbatasan masif
-* Jalur lintas batas sipil terintegrasi
-* Zona industri berat **dilarang** berada dekat perbatasan
-
-Perbatasan Troneiput dirancang sebagai **open-visibility border**, di mana transparansi lebih efektif daripada intimidasi.
-
----
-
-## IV. Administrasi & Keamanan
-
-### 1. Model Pemerintahan
-
-* Tidak ada militer tetap skala besar
-* Keamanan berbasis:
-
-  * penegakan hukum sipil,
-  * pengawasan sistemik,
-  * koordinasi real-time dengan RSC
-
-### 2. Kedutaan & Diplomasi Lokal
-
-* Terdapat **kedutaan mini Depcutland** di hampir semua kota utama Troneiput
-* Berfungsi sebagai:
-
-  * mediator konflik mikro,
-  * pusat layanan warga lintas batas,
-  * node transparansi pasca-konflik
-
----
-
-## V. Ekonomi Provinsi
-
-### Sektor Unggulan:
-
-* Logistik lintas negara
-* Jasa profesional & arbitrase sistem
-* Pendidikan meritokratis
-* Financial clearing non-speculative
-
-Troneiput tidak mengejar pertumbuhan agresif, tetapi **stabilitas ekonomi presisi**.
-
----
-
-## VI. Demografi & Budaya
-
-* Populasi sangat heterogen
-* Banyak keluarga lintas Reltronland–Depcutland
-* Identitas provinsi bersifat fungsional, bukan etnis
-
-Budaya utama Troneiput:
-
-* disiplin tenang,
-* komunikasi langsung,
-* alergi terhadap simbol feodalisme.
-
----
-
-## VII. Peran dalam Sistem Reltronland
-
-Troneiput berfungsi sebagai:
-
-1. **Reality Pressure Absorber**
-2. Zona uji kebijakan lintas negara
-3. Filter ideologi sebelum mencapai pusat Reltronland
-4. Contoh hidup bahwa perdamaian tidak lahir dari kelembutan, tetapi dari struktur
-
----
-
-## VIII. Fakta Unik
-
-* Provinsi dengan audit sistem terbanyak di Reltronland
-* Tingkat kriminalitas lintas negara terendah
-* Tidak ada monumen perang besar
-* Buku hukum lebih banyak daripada tugu kemenangan
-
----
-
-## IX. Kutipan Resmi
-
-> *“Troneiput bukan tembok antara dua negara.
-> Troneiput adalah bukti bahwa konflik dapat diselesaikan tanpa diwariskan.”*
-
-— **Arsip Provinsi Reltronland**
-
----
-
-**Klasifikasi Dokumen:** Public · Educational · Strategic Context

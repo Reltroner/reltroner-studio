@@ -1,3 +1,13 @@
+---
+title: "Crosswalk Dictionary: Deptic ↔ Reltronic ↔ English"
+slug: "crosswalk-dictionary-reltronic-deptic"
+description: "A crosswalk dictionary mapping key root vocabulary across Deptic, Reltronic, and English to document semantic evolution and doctrinal encoding across Asthortera."
+image: "/images/crosswalk-dictionary-reltronic-deptic.webp"
+author: "Astralis Doctrine Council"
+date: "2025-06-01"
+published: true
+---
+
 # 🌐 Crosswalk Dictionary: Deptic ↔ Reltronic ↔ English
 
 **Published**: 2025-06-01

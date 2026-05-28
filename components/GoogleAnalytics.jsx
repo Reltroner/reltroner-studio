@@ -1,12 +1,9 @@
-// components/GoogleAnalytics.jsx
-'use client';
-
 import Script from 'next/script';
 
 const GA_ID = 'G-VZ7QYLZPF0';
 
 export default function GoogleAnalytics() {
-  if (!GA_ID) return null;
+  if (process.env.NODE_ENV !== 'production' || !GA_ID) return null;
 
   return (
     <>

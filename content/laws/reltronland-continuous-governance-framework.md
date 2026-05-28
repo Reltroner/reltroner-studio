@@ -1,7 +1,7 @@
 ---
 title: "Reltronland Continuous Governance Framework"
 description: "The Continuous Governance Framework defines Reltronland’s CI/CD-style national architecture, ensuring iterative, simulation-tested, dimensionally audited, and zero-downtime policy deployment across 3D–5D layers."
-image: "/images/reltronland-continuous-governance-framework.webp"
+image: "/images/clarity-politics-reltronland.webp"
 author: "Rei Reltroner"
 date: "2026-02-24"
 published: true

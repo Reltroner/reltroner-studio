@@ -1,0 +1,44 @@
+@theme {
+  --font-body: var(--font-roboto-source), Helvetica, Arial, sans-serif;
+  --font-display: var(--font-roboto-source), Helvetica, Arial, sans-serif;
+  --font-roboto: var(--font-roboto-source), Helvetica, Arial, sans-serif;
+
+  --color-aurora-300: oklch(0.82 0.11 249.44);
+  --color-aurora-400: oklch(0.72 0.15 253.65);
+  --color-aurora-500: oklch(0.63 0.18 257.19);
+  --color-surface-50: oklch(0.985 0.004 255.3);
+  --color-surface-100: oklch(0.968 0.006 255.4);
+  --color-surface-900: oklch(0.24 0.028 260.3);
+  --color-surface-950: oklch(0.17 0.022 263.1);
+}
+
+:root {
+  --rs-space-gutter: 1.5rem;
+  --rs-space-section: 5rem;
+  --rs-space-section-compact: 3.5rem;
+  --rs-space-reading: 1.375rem;
+  --rs-measure-reading: 48rem;
+  --rs-measure-wide: 82rem;
+  --rs-radius-card: 1rem;
+  --rs-radius-panel: 1.5rem;
+  --rs-radius-pill: 9999px;
+  --rs-shadow-card: 0 18px 42px -24px rgb(15 23 42 / 0.34);
+  --rs-shadow-soft: 0 8px 18px -14px rgb(15 23 42 / 0.18);
+  --rs-shadow-elevated: 0 30px 90px -44px rgb(15 23 42 / 0.34);
+  --rs-shadow-ambient: 0 1px 0 rgb(255 255 255 / 0.34) inset, 0 18px 64px -34px rgb(15 23 42 / 0.28);
+  --rs-glass-blur: 18px;
+  --rs-blur-soft: 14px;
+  --rs-blur-atmosphere: 84px;
+  --rs-motion-fast: 160ms;
+  --rs-motion-base: 240ms;
+  --rs-motion-slow: 420ms;
+  --rs-motion-float: 5200ms;
+  --rs-ease-standard: cubic-bezier(0.22, 1, 0.36, 1);
+  --rs-glow-opacity: 0.16;
+  --rs-aurora-opacity: 0.52;
+  --rs-noise-opacity: 0.06;
+  --rs-z-background: -10;
+  --rs-z-navigation: 40;
+  --rs-z-command: 70;
+  --rs-z-overlay: 80;
+}

@@ -1,5 +1,6 @@
 ---
 title: "Legal Disclaimer"
+slug: "disclaimer"
 description: "Clarification regarding creative terms, inspirations, and intellectual ownership in the Reltroner Studio universe."
 date: "2025-03-26"
 published: true

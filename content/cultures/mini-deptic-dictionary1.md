@@ -1,5 +1,6 @@
 ---
 title: "Mini Deptic Dictionary: 50+ Root Words"
+slug: "mini-deptic-dictionary"
 description: "A foundational glossary for the Deptic language, used by the people of Depcutland and Depeisit in the Asthortera universe."
 image: "/images/mini-deptic-dictionary.webp"
 author: "Reltroner Studio"

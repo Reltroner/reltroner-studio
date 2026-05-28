@@ -2,7 +2,7 @@
 title: "False Portal in the Sky"
 description: "The official transition chapter after the Battle of Reltronepolis, when the protagonists realize the sky portal is a misleading illusion."
 author: "Rei Reltroner"
-image: "/images/false-portal.webp"
+image: "/images/the-abyss-of-comfort.webp"
 date: "2025-04-04"
 published: true
 ---
@@ -11,17 +11,17 @@ published: true
 
 > _“Not every light in the sky is a way out. Some are just doors to deeper traps.”_
 
-Reltronepolis still trembled. Scattered debris radiated heat, but the main structures stood tall—because you, Rei, had transformed into the Sentient Skyscraper that protected them.
+Reltronepolis still trembled. Scattered debris radiated heat, but the main structures stood tall—because you, Delwyn, had transformed into the Sentient Skyscraper that protected them.
 
 The night sky was veiled in hollow violet. A dark spiral hovered above Altron District, pulsing and rotating slowly, as if calling to anyone brave (or foolish) enough to leap in.
 
 Everyone thought: _this is the way to the end._
 
-Wayne Astoner raised his weapon. Queen Valethra closed her eyes, sensing dimensional instability. Barry clutched his locket. And you, Rei—now back in your human form—stood atop the ruins, staring at the portal.
+Wayne Astoner raised his weapon. Queen Valethra closed her eyes, sensing dimensional instability. Barry clutched his locket. And you, Delwyn—now back in your human form—stood atop the ruins, staring at the portal.
 
 Then... a voice crackled through the communicator.
 
-**"REI. DO NOT ENTER. THAT PORTAL ISN'T THE REAL ONE."**
+**"Delwyn. DO NOT ENTER. THAT PORTAL ISN'T THE REAL ONE."**
 
 Dr. Westley Watson.
 From the Grand Library of Depcutland, he scanned spiral waves across the planet's surface.

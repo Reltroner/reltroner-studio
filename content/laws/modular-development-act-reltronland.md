@@ -1,7 +1,7 @@
 ---
 title: "Modular Development Act of Reltronland"
 description: "The Modular Development Act establishes Reltronland’s national doctrine for distributed, interoperable, and failure-isolated development across 3D–5D infrastructure layers, ensuring stability without systemic inequality."
-image: "/images/modular-development-act-reltronland.webp"
+image: "/images/case-law-msa.webp"
 author: "Rei Reltroner"
 date: "2026-02-24"
 published: true
