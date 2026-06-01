@@ -3,7 +3,7 @@ title: "RelCafe Corporation"
 description: "The largest tea and coffee company in Reltronland, serving as a cultural institution that combines tea culture, literacy, coworking, and continuous self-development within a single Astralis-inspired ecosystem."
 image: "/images/relcafe.webp"
 author: "Rei Reltroner"
-date: "2026-02-24"
+date: "2026-06-01"
 published: true
 category: "Reltronland · Corporations · Consumer Brands"
 tags:
