@@ -19,7 +19,7 @@ description: "An overview of Reltron Airlines, the premier interplanetary and in
 
 > _“Where Precision Meets Awakening.”_
 
-Reltron Airlines (IATA: **RL**, ICAO: **RLA**, Callsign: **ASTRALINE**) is the **national carrier of Reltronland**, operating from its main hub **RAIA — Reltronepolis Aeropolis International Airport**.  
+Reltron Airlines (IATA: **RE**, ICAO: **REA**, Callsign: **ASTRALINE**) is the **national carrier of Reltronland**, operating from its main hub **RAIA — Reltronepolis Aeropolis International Airport**.  
 The airline is designed to connect the **planet Asthortera** to **interstellar routes**, guided by the **Astralis Pinnacle** philosophy: mobility is not just travel, but **the alignment of purpose and awareness**.
 
 ---

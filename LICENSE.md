@@ -1,6 +1,6 @@
 # 📜 RELTRONER STUDIO LICENSE
 
-Copyright © 2025 by **Raidan**  
+Copyright © 2025-2026 by **Raidan**  
 All rights reserved.
 
 This work, including all content, assets, writings, world-building, character concepts, and creative naming such as **Reltroner**, **Reltronland**, **Asthortera**, **Reltroner Studio**, and related terms, is the intellectual property of **Raidan**.

@@ -125,10 +125,10 @@ Stelpadland is governed by the **Council of Scouts**, led by the **High Scoutmas
 * **Population:** 91 billion sentient beings
 
   * 62% — Humans descended from Depeisit
-  * 20% — Humans of Cistheta lineage
+  * 22% — Humans of Cistheta lineage
   * 8% — Native Asthorterans (Human-Wizard-Witch)
-  * 5% — Cosmeilia Cosmic Races and mixed bloodlines
-  * 5% — Dendrilis and other forest-linked species
+  * 6% — Cosmeilia Cosmic Races and mixed bloodlines
+  * 2% — Dendrilis and other forest-linked species
 
 * **Land Area:** 200 million km²
 

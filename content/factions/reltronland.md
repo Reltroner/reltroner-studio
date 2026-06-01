@@ -713,14 +713,14 @@ Reltronland uses the **REL** as its official currency. This classification repre
 
 ## 🟥 **Super Poor**  
 - **Spending**: $0 – $REL74.99/day  
-- **Population**: 4%  
+- **Population**: 1%  
 These are the most vulnerable citizens — often under assisted programs or emergency economic protection. Rare due to strong national safety nets.
 
 ---
 
 ## 🟨 **Lower-Middle Class**  
 - **Spending**: $REL75 – $REL999/day  
-- **Population**: 38%  
+- **Population**: 41%  
 Represents the working majority. Stable, but with limited surplus. This class fuels most labor-based and support sectors.
 
 ---
@@ -748,7 +748,7 @@ Cosmic investors, visionary empire-builders, and classified-level industrialists
 
 > *Note: Despite a high GNI per capita, most daily expenses remain moderate due to ultra-efficient AI-run services and zero-cost access to housing, transportation, and education.*
 >
-> *Among the 4% labeled as "Super Poor," the majority are recent interplanetary immigrants undergoing early-stage integration. Yet even at this level, basic needs such as housing, clothing, nutrition, and health services are universally guaranteed and free. Poverty in Reltronland reflects temporary economic inactivity, not deprivation or suffering. The Reltronland economic AI classifies ‘Super Poor’ not as underprivileged, but as temporarily uninitiated. These individuals are granted unconditional support and undergo a merit reactivation program guided by mentorship, language adaptation, and purpose optimization. Within 120–300 days, most rise into the lower-middle tier and begin their upward trajectory.*
+> *Among the 1% labeled as "Super Poor," the majority are recent interplanetary immigrants undergoing early-stage integration. Yet even at this level, basic needs such as housing, clothing, nutrition, and health services are universally guaranteed and free. Poverty in Reltronland reflects temporary economic inactivity, not deprivation or suffering. The Reltronland economic AI classifies ‘Super Poor’ not as underprivileged, but as temporarily uninitiated. These individuals are granted unconditional support and undergo a merit reactivation program guided by mentorship, language adaptation, and purpose optimization. Within 120–300 days, most rise into the lower-middle tier and begin their upward trajectory.*
 >
 > “In Reltronland, class is not determined by inheritance, but by how clarity is invested.”  
 > — *Economic Doctrine of Astralis Pinnacle*
