@@ -36,12 +36,11 @@ Depeisit is a once-glorious planet, now spiritually stagnant—an empire of comf
 ---
 
 ## 📊 Demographic Traits
-- **Median Age:** Estimated 45 years
+- **Median Age:** Estimated 307 years
 - **Birth Rate:** Extremely low
-- **Elderly Dominance:** Age groups 50+ form the core of social, political, and cultural leadership.
+- **Elderly Dominance:** Age groups 400+ form the core of social, political, and cultural leadership.
 - **Pyramid Shape:** Narrow-bottomed, signaling an aging society with limited youth regeneration.
-
-🔍 *Depeisit Population Pyramid:* ![Sentient Population Statistics](/images/depeisit-piramid.webp)
+- **Life Expectancy:** ~447 years
 
 ---
 

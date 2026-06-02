@@ -698,8 +698,8 @@ Reltronland’s economy is built not on fantasy, but on:
 * **GDP Growth Rate:** 12% annually (250-year average) — sustained through recursive innovation cycles, interplanetary trade leverage, and continuous upgrades in sentient capital efficiency.
 * **Stability Engine:** Sovereign AI-managed inflation matrix
 * **Interest Rate Policy:** 0.3% – 1.2% based on economic layer and risk tier
-* **Total GDP**: \$REL 7,327,217,475,000,000,000 (In USD (nominal): \~\$834 quintillion USD)
-* **Gross National Income (GNI) per Capita:** \$REL8,569,845 — Most of this value is not realized in physical consumption but exists in digital asset growth, sovereign AI royalties, and trust-fund mechanisms built into national financial architecture.
+* **Total GDP**: \$REL 4.1527217475 × 10¹⁹ (In USD (nominal): \~\4.7448998686935 × 10²¹ USD)
+* **Gross National Income (GNI) per Capita:** \$REL48,569,845 — Most of this value is not realized in physical consumption but exists in digital asset growth, sovereign AI royalties, and trust-fund mechanisms built into national financial architecture.
 * **CO2 Emissions per Capita:** 4.3 metric tons *(offset-adjusted)* — Reltronland employs an interplanetary carbon offset system and self-regulating AI-based emission suppression programs, enabling a densely populated civilization to maintain a low effective emission footprint.
 * **Gini Coefficient:** 0.39 (moderate income inequality)
 * **Inflation Rate:** 0.3% — regulated by a sovereign AI fiscal matrix
@@ -923,8 +923,8 @@ Reltronland has maintained a **consistent 12% annual GDP growth** for 250 years 
 
 ### 1. **Full-Spectrum Sentient Participation (Age 3–214)**
 
-* Life expectancy: 214 years
-* Median Age: 44 years
+* Life expectancy: 498 years
+* Median Age: 225 years
 * Cognitive maturity begins exceptionally early
 * No systemic aging collapse due to extended vitality
 

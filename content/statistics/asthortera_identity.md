@@ -51,19 +51,14 @@ It is viewed as:
 
 ## 📊 Development Profile
 - **SDI (Sentient Development Index):** `0.938 / 1.000` Among the highest across all inhabited planets
-- **Median Age:** ~42 years
+- **Median Age:** ~252 years
 - **Birth Rate:** Stable, with gradual urban demographic trends and high education standards
 - **Education Systems:** Heavily research-based, with universal access and ethical enforcement
 - **Age Pyramid Shape:** Balanced column — wide in middle age, tapering gradually at top and base
-- **Dominant Age Groups:** 35–49 (peak), stable 20–34 and 50–64 segments
-- **Youth Population (0–14):** ~16.7% total
-- **Elderly Population (65+):** ~20.4% total
-- **Life Expectancy:** ~105 years
+- **Life Expectancy:** ~475 years
 - **Urbanization Rate:** ~89.5%
 
 The age distribution reflects a mature, stable society with high life expectancy and ongoing intellectual productivity—consistent with a civilization driven by merit, innovation, and spiritual balance.
-
-🔍 *Asthortera Population Pyramid:* ![Sentient Population Statistics](/images/asthortera-pyramid.webp)
 
 ---
 

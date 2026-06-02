@@ -1,6 +1,6 @@
 ---
 title: "🌈 Aurora Plaza — International Workers Day of Aurastelia"
-description: "An official ceremonial address by Queen Valethra redefining work as conscious civilizational responsibility within Aurastelia."
+description: "An official ceremonial address by 👑Queen Valethra redefining work as conscious civilizational responsibility within Aurastelia."
 image: "/images/aurora-plaza-workers-day.webp"
 author: "Rei Reltroner"
 date: "2026-05-01"
@@ -18,7 +18,7 @@ No chants of demands.
 
 What existed instead was **silence filled with awareness**.
 
-Standing before Queen Valethra were:
+Standing before 👑Queen Valethra were:
 
 - engineers  
 - scientists  
@@ -35,7 +35,7 @@ They were **custodians of civilizational function**.
 
 # I. OPENING ADDRESS
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “O workers of Aurastelia…”
 
@@ -47,7 +47,7 @@ All listened.
 
 ---
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “Today, other worlds may celebrate labor as struggle.”
 
@@ -61,19 +61,19 @@ She paused.
 
 ---
 
-## Queen Valethra (calm)
+## 👑Queen Valethra (calm)
 
 > “But in Aurastelia…”
 
 ---
 
-## Queen Valethra (firm)
+## 👑Queen Valethra (firm)
 
 > “Work is not merely about survival.”
 
 ---
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “Work is…”
 
@@ -89,7 +89,7 @@ The aurora above glowed softly.
 
 # II. THE MEANING OF WORK IN AURASTELIA
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “An engineer does not simply build systems.”
 
@@ -97,7 +97,7 @@ The aurora above glowed softly.
 
 ---
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “A researcher does not merely seek answers.”
 
@@ -105,7 +105,7 @@ The aurora above glowed softly.
 
 ---
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “An educator does not only teach.”
 
@@ -113,7 +113,7 @@ The aurora above glowed softly.
 
 ---
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “And a spiritualist…”
 
@@ -125,13 +125,13 @@ The aurora above glowed softly.
 
 # III. DISTINCTION FROM TRADITIONAL LABOR DAY
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “We do not celebrate work as burden.”
 
 ---
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “We celebrate work as…”
 
@@ -147,19 +147,19 @@ A long silence followed.
 
 # IV. SPIRITUAL FOUNDATION
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “Within Aurora Sancta…”
 
 ---
 
-## Queen Valethra (calm, profound)
+## 👑Queen Valethra (calm, profound)
 
 > “Work is applied consciousness.”
 
 ---
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “Every decision you make…”
 
@@ -169,7 +169,7 @@ A long silence followed.
 
 ---
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “…is a contribution to the continuity of this world.”
 
@@ -177,13 +177,13 @@ A long silence followed.
 
 # V. MESSAGE TO FUTURE GENERATIONS
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “The world does not collapse due to lack of labor.”
 
 ---
 
-## Queen Valethra (firm)
+## 👑Queen Valethra (firm)
 
 > “The world collapses due to a lack of workers who understand what they are doing.”
 
@@ -196,13 +196,13 @@ not from pressure, but from meaning.
 
 # VI. CLOSING STATEMENT
 
-## Queen Valethra
+## 👑Queen Valethra
 
 > “So today…”
 
 ---
 
-## Queen Valethra (final)
+## 👑Queen Valethra (final)
 
 > “We do not merely celebrate work…”
 

@@ -19,7 +19,7 @@ Raised in a family of air traffic controllers, Barry developed sharp situational
 Barry is recruited into **The Flightless Pact**, an underground network dedicated to exposing **Kalgered’s** silent attempt at global airspace domination through the AI known as **Silver Horizon**.
 
 He becomes an operational node in this resistance, collaborating with:
-- **Hendry Harry** – his roommate and moral anchor
+- **Nathan Harry** – his roommate and moral anchor
 - **Klara Veston** – a codebreaker posing as a tech crew
 - **Captain Eryk Hollis** – a rogue pilot who coordinates aerial disruptions
 
@@ -96,7 +96,7 @@ Barry now operates from the skies—but his true mission lies in helping Delwyn 
 ---
 
 ## Character Connections
-- **Hendry Harry** – Best friend, shares room in Aviashenwelt. Believes in Barry’s deeper potential.
+- **Nathan Harry** – Best friend, shares room in Aviashenwelt. Believes in Barry’s deeper potential.
 - **Klara Veston** – Mission partner, challenges Barry’s comfort zone.
 - **Eryk Hollis** – Captain turned renegade, mentors Barry in high-stakes strategy.
 - **Isaac Luminar (rumored)** – May have supplied Barry early access to Aurora signal disruption tech.

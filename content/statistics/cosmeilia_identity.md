@@ -42,14 +42,10 @@ No full-blooded Earth-human exists natively on Cosmeilia.
 ---
 
 ## 📊 Demographic Traits
-- **Median Age:** ~41 years  
-- **Population Pyramid:** Perfectly columnar — balance across all ages with graceful tapering beyond 85+  
-- **Youth Population (0–14):** ~17.1%  
-- **Elderly Population (65+):** ~23.1%  
+- **Median Age:** ~249 years  
+- **Population Pyramid:** Perfectly columnar — balance across all ages with graceful tapering beyond 450+  
 - **Urban-Rural Ratio:** 68% urban, 32% nature-integrated settlements  
-- **Birth Rate:** Stable and deliberate, aligned with cosmic cycles
-
-🔍 *Cosmeilia Population Pyramid:* ![Sentient Population Statistics](/images/cosmeilia-piramid.webp)
+- **Life Expectancy:** ~472 years
 
 ---
 

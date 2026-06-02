@@ -39,11 +39,9 @@ Cistheta is a hyper-urbanized, high-speed civilization where digital ecosystems 
 ---
 
 ## 📊 Demographic Traits
-- **Median Age:** ~39 years  
+- **Median Age:** ~215 years  
 - **Urbanization Rate:** 96.7%  
-- **Youth Population (0–14):** ~14.5%  
-- **Elderly Population (65+):** ~17.2%  
-- **Workforce Concentration:** 20–39 years dominate with extreme productivity culture
+- **Life Expectancy:** ~455 years
 
 🔍 *Cistheta Population Pyramid:* ![Sentient Population Statistics](/images/cistheta-pyramid.webp)
 
