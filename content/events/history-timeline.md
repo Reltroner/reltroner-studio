@@ -155,8 +155,11 @@ In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human
 
 ## 🌌 Crisis and Fragmentation Era
 
-**1057 BAC** — *Depeisit Economic Collapse*
+**1057 BAC** — *Depeisit Economic Crisis*
 - Second wave of migrants; Depcutland becomes haven for political refugees and technocrats.
+
+**1049 BAC** — *Trade and Industry Blockade*
+- Reltronland imposes embargo; Depcutland escalates industrial buildup.
 
 ### ⚔️ Open Conflict Era (1048–1030 BAC)
 - **Reiweston Crisis**: Industrial expansion from Depcutland into Reiweston sparks conflict.
@@ -170,19 +173,19 @@ In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human
 **1047 BAC** — *Reiweston Bay Trade Crisis*
 - A ship is intercepted, causing a diplomatic fallout.
 
+**1045 BAC** — *Rathroper Incident*
+- Clashes erupt over mineral exploitation rights.
+
 ---
 
 ## 🌌 Rebellion and Nation-Building Era
 
+**1038–1036** — *Monetary Collapse & Civil Unrest*
+- The hyperinflation of the Depcutland Aristocratic currency ($DPA), combined with supply chain disruption and Great Depression effects from Depeisit, triggered mass unrest.
+
 **1035 BAC** — *Birth of Two Movements*
 - **Konsorsium Reltron** founded by Erhard.
 - **Depcut Independence Council** led by Vardik Glouster.
-
-**1030 BAC** — *Reltralia Incident*
-- Clashes erupt over mineral exploitation rights.
-
-**1015 BAC** — *Trade and Industry Blockade*
-- Reltronland imposes embargo; Depcutland escalates industrial buildup.
 
 ---
 
