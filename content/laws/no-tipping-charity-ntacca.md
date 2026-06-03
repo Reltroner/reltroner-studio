@@ -1,4 +1,3 @@
-
 ---
 title: "💼 No-Tipping & Anti-Charity Commercial Act (NTACCA)"
 description: "A Reltronland regulation banning tips and charity prompts in all commercial environments to uphold meritocracy, clarity, and economic dignity."
