@@ -7,8 +7,6 @@ published: true
 image: "/images/reltronepolis.webp"
 ---
 
----
-
 # 🏙️ Reltronepolis Province – District Overview (v3)
 
 Reltronepolis is a mega-province and urban center of Reltronland, divided into specialized districts that reflect its advanced civic, economic, and philosophical infrastructure. Each district plays a strategic role in the evolution of sentient civilization.
