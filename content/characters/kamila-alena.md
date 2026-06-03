@@ -5,7 +5,7 @@ description: "The living embodiment of Nytherion Abyss and one of Asthortera's o
 author: "Reltroner Studio"
 date: "2026-06-03"
 published: true
-image: "/images/kamila-alena.webp"
+image: "/images/kamila-alena-1.webp"
 quote: "I do not chase civilizations. I simply remain where they eventually arrive."
 ---
 

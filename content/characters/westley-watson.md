@@ -1,7 +1,7 @@
 ---
 title: "Dr. Westley Watson"
 description: "Director of the Endless Library of Depcutland, sovereign archivist of memory, and intellectual guardian of civilizational continuity whose life's work preserves truth against the erosion of history."
-image: "/images/westley-watson.webp"
+image: "/images/westley-watson-2.webp"
 author: "Rei Reltroner"
 date: "2026-06-03"
 published: true
