@@ -22,7 +22,7 @@ published: true
 
 ## 🧭 Founding Origins
 
-In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human born before the arrival of Depeisit and Cistheta settlers—departed from his hometown **Stelhaven** to explore the uncharted eastern forests. His goal was not conquest, but cultivation of inner strength through survival, peace, and wisdom in the wilderness.
+In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human born before the arrival of Depeisit and Cistheta settlers—departed from his hometown **Stelhaven** to explore the uncharted Eastern Continent of Asthortera. His goal was not conquest, but cultivation of inner strength through survival, peace, and wisdom in the wilderness.
 
 ### 🏕️ The Founding Vision
 

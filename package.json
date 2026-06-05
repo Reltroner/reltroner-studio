@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "tsc --noEmit",
     "typecheck": "tsc --noEmit",
+    "content:validate": "node tools/validate-content.mjs",
     "postbuild": "next-sitemap",
     "check-slugs": "node tools/check-slugs.mjs",
     "check-all-slugs": "node tools/check-all-slugs.mjs"

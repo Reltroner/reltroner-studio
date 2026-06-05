@@ -94,22 +94,13 @@ It answers with continuity.
 - Male: 51%  
 - Female: 49%  
 
-### 🔹 Age Distribution:
-
-- 0–14 years: 15%  
-- 15–24 years: 12%  
-- 25–54 years: 42%  
-- 55–64 years: 16%  
-- 65+ years: 15%  
-- **Median Age:** 42  
-
 ### 🔹 Daily Spending Categories:
 
-- <$KAL1 (Impoverished): 2%  
-- $KAL25–$KAL499 (Lower Middle): 30%  
-- $KAL500–$KAL4,999 (Upper Middle): 45%  
-- $KAL5,000–$KAL49,999 (Affluent): 18%  
-- $KAL50,000+ (Ultra Wealthy): 5%
+- <$KAL100 (Impoverished): 1%  
+- $KAL100–$KAL9999 (Lower Middle): 30%  
+- $KAL10000–$KAL99,999 (Upper Middle): 45%  
+- $KAL100,000–$KAL499,999 (Affluent): 18%  
+- $KAL500,000+ (Ultra Wealthy): 5%
 
 ---
 
@@ -127,7 +118,7 @@ It answers with continuity.
 - **Annual Economic Growth:** 7% (last 100 years average)  
 - **National Debt:** 45% of GDP (managed with conservative policies)  
 - **CO₂ Emissions per Capita:** 1.3 metric tons  
-- **GNI per Capita:** $KAL7,956,408  
+- **GNI per Capita:** $KAL17,956,408  
 - **Sentient Development Index (SDI):** 0.979 / 1  
 
 ---

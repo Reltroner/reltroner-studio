@@ -3,7 +3,7 @@ title: "🗺️ Asthortera World Map — Development Progress Overview"
 description: "A live reflection of the evolving worldbuilding structure of Asthortera, featuring ongoing adjustments in territorial borders, naming conventions, and narrative planning."
 slug: "asthortera-world-map-progress"
 layout: worldbuilding
-image: "/images/asthortera-world-map-progress.webp"
+image: "/images/asthortera-world-map-progress.png"
 date: "2025-04-23"
 published: true
 ---
