@@ -72,7 +72,6 @@ Their **border is shared**, their **trade is high**, and their **respect is comp
 ---
 
 ## 🧭 Analogy and Archetypes
-- Like **Warren Buffett vs Elon Musk** in ideological form
 - Like **two philosophers** who agree on purpose, but not on method
 - Like **discipline vs elegance**, yet both seeking civilization
 

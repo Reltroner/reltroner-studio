@@ -11,6 +11,7 @@ published: true
 ![stelpadland1](/images/stelpadland1.webp)
 ![stelpadland2](/images/stelpadland2.webp)
 ![stelpadland-rhythm-heaven.webp](/images/stelpadland-rhythm-heaven.webp)
+![stelpadlandball](/images/stelpadlandball.webp)
 
 ---
 

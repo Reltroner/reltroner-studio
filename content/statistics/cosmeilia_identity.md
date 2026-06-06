@@ -151,7 +151,7 @@ Cosmeilia is not a utopia. It is a reflection of what a civilization becomes whe
 
 It is not paradise—it is purpose.
 
-**© 2025 Reltroner Studio — Cosmeilia Archives**
+**© 2026 Reltroner Studio — Cosmeilia Archives**
 
 ---
 

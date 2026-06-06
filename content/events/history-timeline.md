@@ -31,11 +31,10 @@ From the ancient harmony of **Beluftner**, the galactic wisdom of **Cosmeilia**,
 
 **7478 BAC** — *Origin of Beluftner*
 - Beluftner civilization rises as Asthortera's first sentient society.
-- They build the city of **Beluer Origin** and uphold harmony between magic and nature.
+- They build the city of **Beluftner Origin** and uphold harmony between magic and nature.
 
 **4757 BAC** — *Beluftner Expansion*
-- Beluftner culture spreads into what will become Reltronland and Depcutland.
-- Reltronland: a great green plain valley. Depcutland: lowland forests to the northwest.
+- Beluftner spreads into the country known today as Cenrestier, Kalgered, Temprofser, and Welshenia.
 
 ---
 
@@ -127,12 +126,12 @@ In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human
 
 ## 🌌 Migration and Early Colonies
 
-### 🪐 Early Colonization Era (1177–1121 BAC)
+### 🪐 Early Colonization Era (1211–1121 BAC)
 - Depeisit establishes early colonies in Reltronland and Depcutland.
 - Colonists bring meritocratic culture, megastructure architecture, and advanced technologies.
 - Reltronian and Depcutian settlers begin to form under Depeisit administrative rule.
 
-**1177 BAC** — *First Depeisit Wave*
+**1211 BAC** — *First Depeisit Wave*
 - Colonists from Depeisit land across Asthortera, particularly Reltronland and Depcutland.
 
 **1125 BAC** — *Foundation of Reltronland (Rathroper)*

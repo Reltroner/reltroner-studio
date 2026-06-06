@@ -8,8 +8,6 @@ published: true
 category: "Aurastelia · Civilizational Events · Spiritual Doctrine"
 ---
 
----
-
 # 🌌 AURORA PLAZA — INTERNATIONAL WORKERS DAY OF AURASTELIA  
 ## Official Ceremonial Record
 

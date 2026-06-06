@@ -52,7 +52,7 @@ They are **Astralis-Bound Entities**, preserved in the timeless layer of meaning
 - **Barry Heathrow** – *Keynote of Global Security*  
   The diplomat of skies. He turned surveillance into resistance and made airports into sentient gateways.
 
-- **Hendry Kelley** – *Architect of Transparent Finance*  
+- **Nathan Harry** – *Architect of Transparent Finance*  
   A prophet of ledgers. He saw through greed and rebuilt currencies with moral weight.
 
 - **Isaac Luminar** – *Guardian of Ethical Tech*  
@@ -154,13 +154,6 @@ This is the **most exclusive demographic category** in the entire civilization i
 
 - **📖 Existence:**  
   Narrative-anchored, memory-resilient
-
----
-
-### 🔍 Asthortera Population Pyramid  
-*Note: Astralis-Bound Entities appear **beyond the top** of this visual range.*
-
-![Sentient Population Statistics](/images/asthortera-pyramid.webp)
 
 > “They live not in the margins, but in the meaning.”  
 > — Rei Reltroner

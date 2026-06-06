@@ -13,6 +13,7 @@ published: true
 ![pencilfania3](/images/pencilfania3.webp)
 ![pencilfania4](/images/pencilfania4.webp)
 ![pencilfania-rhythm-heaven.webp](/images/pencilfania-rhythm-heaven.webp)
+![pencilfaniaball](/images/pencilfaniaball.webp)
 
 ---
 
