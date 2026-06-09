@@ -1097,9 +1097,9 @@ In conclusion, the prosperity and structural superiority of Reltronland cannot b
 
 ---
 
-## 🏙️ Major Cities
+## 🏙️ Major Province
 
-### 1. **Reltralia** – The Capital City
+### 1. **Reltralia** – The Capital of Reltronland
 - Governmental stronghold with towering institutions
 - Home to billionaires and political strategists
 - Renowned for diplomacy zones and the elite quarters

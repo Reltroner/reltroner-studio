@@ -157,6 +157,10 @@ In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human
 **1057 BAC** — *Depeisit Economic Crisis*
 - Second wave of migrants; Depcutland becomes haven for political refugees and technocrats.
 
+**1055 BAC** — *Birth of Two Movements*
+- **Konsorsium Reltron** founded by Erhard.
+- **Depcut Independence Council** led by Vardik Glouster.
+
 **1049 BAC** — *Trade and Industry Blockade*
 - Reltronland imposes embargo; Depcutland escalates industrial buildup.
 
@@ -182,9 +186,36 @@ In **2882 BAC**, a visionary named **Scot Stetson**—a native Asthorteran human
 **1038–1036** — *Monetary Collapse & Civil Unrest*
 - The hyperinflation of the Depcutland Aristocratic currency ($DPA), combined with supply chain disruption and Great Depression effects from Depeisit, triggered mass unrest.
 
-**1035 BAC** — *Birth of Two Movements*
-- **Konsorsium Reltron** founded by Erhard.
-- **Depcut Independence Council** led by Vardik Glouster.
+---
+
+## XI. CEASEFIRE RECONSTRUCTION
+
+### (1030–1010 BAC)
+
+---
+
+### 🛡️ Reltronland Reconstruction Strategy
+
+Reltronland adopted a stabilization-oriented reconstruction doctrine focused on:
+
+* securing scientific personnel
+* supporting institutional recovery
+* avoiding revenge purges
+* reconstruction financing
+* industrial normalization
+
+---
+
+### 🏛️ Depcutland Reforms
+
+Depcutland initiated:
+
+* aristocratic tribunal proceedings
+* archive system modernization
+* preservation of cultural continuity
+* removal of feudal rigidity
+
+The civilization gradually transitioned toward a hybrid archival-meritocratic structure.
 
 ---
 
