@@ -1,6 +1,6 @@
 ---
 title: "Asthortera — The Core World of Conscious Civilization"
-description: "The central hub of all dimensional civilizations, where spiritual and technological equilibrium sustains the entire Astralis Core galaxy."
+description: "The central hub of all dimensional civilizations, where spiritual and technological equilibrium sustains the entire Core World galaxy."
 author: "Rei Reltroner"
 date: "2025-10-06"
 published: true
@@ -33,7 +33,7 @@ From Beluftner’s legacy came the **standardized metrics** that now regulate in
 ## 🪙 Galactic Significance
 
 Asthortera is recognized as the **interdimensional hub** of the known galaxy.  
-Its location within the **Central Astralis Region** allows perfect energetic equilibrium between spiritual frequency and physical matter.  
+Its location within the **Central World Region** allows perfect energetic equilibrium between spiritual frequency and physical matter.  
 Because of this, hyperspace routes, temporal corridors, and diplomacy channels all converge here.
 
 ### Key Roles
@@ -51,12 +51,12 @@ Apex superpower of Asthortera — the planetary manifestation of the **Astralis 
 Reltronland governs most hyperspace infrastructure and the intellectual order of the Astralis Core.
 
 ### ⚖️ **Other Nations on Asthortera**
-- **Depcutland** – Industrial finance and heritage economy.  
+- **Depcutland** – Industrial Archives and heritage economy.  
 - **Aurastelia** – Spiritual radiance and harmony diplomacy.  
 - **Stelpadland** – Youth innovation and exploration academy.  
 - **Pencilfania** – Educational beacon and creative civilization hub.  
 - **Hargenbor** – Coastal research power and birthplace of Kamila Alena.  
-- **Beluftner Ruins** – Archaeological origin of Asthorteran civilization.
+- **Beluftner** – Archaeological origin of Asthorteran civilization.
 
 ---
 
@@ -64,9 +64,8 @@ Reltronland governs most hyperspace infrastructure and the intellectual order of
 
 - **Total Population:** ~4.4 trillion sentients  
 - **Dominant Civilization:** Reltronland  
-- **Average SDI (Planetary):** 0.921  
+- **Average SDI (Planetary):** 0.938  
 - **Diversity:** Multi-species integration; majority of Cosmeilian descent with extensive interplanetary migration  
-- **Median Age:** 42 standard years  
 
 Asthortera’s equilibrium allows continuous coexistence among biological, synthetic, and cosmic entities — an embodiment of the **Astralis balance doctrine**.
 
@@ -74,7 +73,7 @@ Asthortera’s equilibrium allows continuous coexistence among biological, synth
 
 ## 🌠 Why Asthortera is the “Core World”
 
-1. **Orbital Position:** Located precisely within the **Central Astralis Region**, where all hyperspace currents converge.  
+1. **Orbital Position:** Located precisely within the **Central World Region**, where all hyperspace currents converge.  
 2. **Dimensional Stability:** The only planet capable of sustaining the **Astralis Core Field** without collapse.  
 3. **Administrative Authority:** Home of the **Reltronland Space Command** and the **Galactic Metrics Council**.  
 4. **Gateway of Realities:** Possesses the **Hyper-Interdimensional Gate Array**, linking **11 parallel realities**.  
