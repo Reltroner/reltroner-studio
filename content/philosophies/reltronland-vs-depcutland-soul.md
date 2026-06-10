@@ -88,10 +88,6 @@ Despite their different philosophies, the soul of Reltronland and Depcutland are
 
 ---
 
-#### 🧬 Population Structure  
-- **Reltronland:** *Balanced & meritocratic*  
-- **Depcutland:** *Aged & aristocratic*
-
 Their border is the busiest in Asthortera not because of conflict, but because of **fascination**.
 
 > Reltronland admires the grace of Depcutland.
