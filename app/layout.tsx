@@ -1,5 +1,5 @@
-// app/layout.jsx
-
+import { ReactNode } from "react";
+import { Metadata } from "next";
 import './global.css';
 import Navbar from "@/components/Navbar";
 import MobileNavbar from "@/components/MobileNavbar";
@@ -7,7 +7,7 @@ import CommandPalette from "@/components/layout/CommandPalette";
 import ShellBackdrop from "@/components/layout/ShellBackdrop";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import RouteAnalytics from "@/components/RouteAnalytics";
-import { roboto } from "./fonts";
+import { inter, sora, jetbrainsMono } from "./fonts";
 import {
   buildOrganizationJsonLd,
   buildUniverseJsonLd,
@@ -16,13 +16,13 @@ import {
 import { ROOT_METADATA } from "@/lib/seo/metadata";
 import { getCommandPaletteEntries } from "@/lib/utils/content";
 
-export const metadata = ROOT_METADATA;
+export const metadata: Metadata = ROOT_METADATA;
 
-export default async function RootLayout({ children }) {
+export default async function RootLayout({ children }: { children: ReactNode }) {
   const commandPaletteEntries = await getCommandPaletteEntries();
 
   return (
-    <html lang="en" className={roboto.variable} data-scroll-behavior="smooth">
+    <html lang="en" className={`dark ${inter.variable} ${sora.variable} ${jetbrainsMono.variable}`} data-scroll-behavior="smooth">
       <head>
         {/* Viewport */}
         <meta

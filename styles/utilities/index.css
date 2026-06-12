@@ -50,10 +50,10 @@
   align-items: center;
   gap: 0.35rem;
   border-radius: 9999px;
-  border: 1px solid var(--rs-border-muted);
-  background: color-mix(in srgb, var(--rs-surface-base) 78%, transparent);
+  border: 1px solid var(--rs-chip-border);
+  background: var(--rs-chip-bg);
   padding: 0.45rem 0.85rem;
-  color: var(--rs-text-muted);
+  color: var(--rs-chip-text);
   font-size: 0.72rem;
   font-weight: 600;
   line-height: 1;
@@ -70,8 +70,8 @@
 }
 
 @utility archive-link-card {
-  border: 1px solid var(--rs-border-muted);
-  background: color-mix(in srgb, var(--rs-surface-base) 92%, transparent);
+  border: 1px solid var(--rs-card-border);
+  background: var(--rs-card-bg);
   box-shadow: var(--rs-shadow-panel);
   border-radius: calc(var(--rs-radius-panel) - 0.125rem);
 }
@@ -85,4 +85,33 @@
 @utility media-frame {
   overflow: hidden;
   border-radius: var(--rs-radius-card);
+}
+
+@utility rs-glass {
+  border: 1px solid var(--rs-glass-border);
+  background: var(--rs-glass-surface);
+  backdrop-filter: blur(var(--rs-glass-blur));
+  box-shadow: var(--rs-shadow-ambient);
+}
+
+@utility rs-panel {
+  border: 1px solid var(--rs-border-muted);
+  background: var(--rs-surface-base);
+  box-shadow: var(--rs-shadow-panel);
+  border-radius: var(--rs-radius-panel);
+}
+
+@utility rs-muted {
+  color: var(--rs-text-secondary);
+}
+
+@utility rs-gradient-text {
+  background: linear-gradient(to right, var(--rs-text-main), var(--rs-accent));
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+@utility rs-focus-ring {
+  outline: 2px solid var(--rs-accent-strong);
+  outline-offset: 2px;
 }

@@ -1,6 +1,6 @@
 'use client';
 
-import { startTransition, useMemo } from 'react';
+import { startTransition, useMemo, useRef, useEffect } from 'react';
 import {
   CommandDialog,
   CommandEmpty,
@@ -14,28 +14,44 @@ import { VisuallyHidden } from '@radix-ui/react-visually-hidden';
 import { useRouter } from 'next/navigation';
 import { COLLECTIONS, COLLECTION_ORDER } from '@/lib/constants/collections';
 
-const GROUP_PRIORITY = new Map([
+export interface PageEntry {
+  name: string;
+  path: string;
+  group?: string;
+  description?: string;
+  category?: string;
+  tags?: string[];
+}
+
+export interface CommandPaletteDialogProps {
+  open: boolean;
+  onOpenChange: (open: boolean) => void;
+  pages: PageEntry[];
+}
+
+const GROUP_PRIORITY = new Map<string, number>([
+  ['Ecosystem Apps', -1],
   ['Pages', 0],
   ['Journal', 1],
   ['Worldbuilding', 2],
-  ...COLLECTION_ORDER.map((collection, index) => [COLLECTIONS[collection].title, index + 10]),
+  ...COLLECTION_ORDER.map((collection, index) => [COLLECTIONS[collection].title, index + 10] as [string, number]),
 ]);
 
-function getGroupPriority(group) {
+function getGroupPriority(group: string) {
   return GROUP_PRIORITY.get(group) ?? 100;
 }
 
-function getPathDepth(path) {
+function getPathDepth(path: string) {
   return String(path || '/')
     .split('/')
     .filter(Boolean).length;
 }
 
-function getPageSearchKeywords(page) {
+function getPageSearchKeywords(page: PageEntry) {
   return [page.group, page.description, page.category, ...(page.tags || [])].filter(Boolean);
 }
 
-function scoreCommandMatch(value, search, keywords) {
+function scoreCommandMatch(value: string, search: string, keywords?: string[]) {
   const normalizedSearch = String(search || '').trim().toLowerCase();
 
   if (!normalizedSearch) {
@@ -71,11 +87,22 @@ function scoreCommandMatch(value, search, keywords) {
   return 0;
 }
 
-export default function CommandPaletteDialog({ open, onOpenChange, pages }) {
+export default function CommandPaletteDialog({ open, onOpenChange, pages }: CommandPaletteDialogProps) {
   const router = useRouter();
+  const inputRef = useRef<HTMLInputElement | null>(null);
+
+  useEffect(() => {
+    if (!open) return;
+
+    const frame = requestAnimationFrame(() => {
+      inputRef.current?.focus();
+    });
+
+    return () => cancelAnimationFrame(frame);
+  }, [open]);
 
   const groupedPages = useMemo(() => {
-    const groups = pages.reduce((result, page) => {
+    const groups = pages.reduce<Record<string, PageEntry[]>>((result, page) => {
       const key = page.group || 'Pages';
 
       if (!result[key]) {
@@ -135,11 +162,11 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }) {
         </button>
       </div>
 
-      <CommandInput placeholder="Type a page, archive, topic, or tag..." />
+      <CommandInput ref={inputRef} placeholder="Type a page, archive, topic, or tag..." />
       <CommandList>
         <CommandEmpty>
           <div className="space-y-2 text-sm">
-            <p className="font-semibold text-gray-900 dark:text-white">No records matched this search.</p>
+            <p className="font-semibold text-white">No records matched this search.</p>
             <p>Try a collection, topic, or archive signal like Astralis, Reltroner, philosophy, or law.</p>
           </div>
         </CommandEmpty>
@@ -153,15 +180,24 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }) {
                 className="group items-start gap-3"
                 onSelect={() => {
                   onOpenChange(false);
-                  startTransition(() => {
-                    router.push(page.path);
-                  });
+                  if (page.path.startsWith('http://') || page.path.startsWith('https://')) {
+                    window.open(page.path, '_blank', 'noreferrer');
+                  } else {
+                    startTransition(() => {
+                      router.push(page.path);
+                    });
+                  }
                 }}
               >
                 <div className="min-w-0 flex-1">
-                  <p className="text-sm font-semibold text-gray-900 dark:text-white">{page.name}</p>
+                  <div className="flex items-center gap-2">
+                    <p className="text-sm font-semibold text-white">{page.name}</p>
+                    {page.path.startsWith('http') && (
+                      <span className="rounded border border-slate-700 px-1 text-[9px] uppercase tracking-wider text-slate-400">Ext</span>
+                    )}
+                  </div>
                   {page.description ? (
-                    <p className="mt-1 text-sm text-gray-600 dark:text-gray-300">{page.description}</p>
+                    <p className="mt-1 text-sm text-slate-300">{page.description}</p>
                   ) : null}
                   {page.category || (page.tags && page.tags.length > 0) ? (
                     <div className="mt-2 flex flex-wrap gap-2">
@@ -169,7 +205,7 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }) {
                       {(page.tags || []).slice(0, 2).map((tag) => (
                         <span
                           key={`${page.path}-${tag}`}
-                          className="archive-chip border-gray-300 bg-white/70 text-gray-600 dark:border-gray-700 dark:bg-gray-900/60 dark:text-gray-300"
+                          className="archive-chip border-slate-700 bg-slate-900/60 text-slate-300"
                         >
                           {tag}
                         </span>
@@ -177,7 +213,7 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }) {
                     </div>
                   ) : null}
                 </div>
-                <span className="rounded-full border border-gray-200 px-3 py-1 text-[10px] uppercase tracking-[0.16em] text-gray-400 dark:border-gray-700 dark:text-gray-500">
+                <span className="rounded-full border border-slate-700 px-3 py-1 text-[10px] uppercase tracking-[0.16em] text-slate-400">
                   Open
                 </span>
               </CommandItem>

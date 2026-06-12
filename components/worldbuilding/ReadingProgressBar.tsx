@@ -1,8 +1,12 @@
-'use client'
+'use client';
 
 import { useEffect, useState } from "react";
 
-export default function ReadingProgressBar({ targetId }) {
+export interface ReadingProgressBarProps {
+  targetId: string;
+}
+
+export default function ReadingProgressBar({ targetId }: ReadingProgressBarProps) {
   const [progress, setProgress] = useState(0);
 
   useEffect(() => {

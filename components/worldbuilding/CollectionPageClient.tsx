@@ -5,14 +5,15 @@ import { useDeferredValue, useMemo, useState } from "react";
 import Heading from "@/components/Heading";
 import ArchiveCardMedia from "@/components/media/ArchiveCardMedia";
 import HoverDepth from "@/components/motion/HoverDepth";
+import WikiBreadcrumbs, { BreadcrumbSegment } from "@/components/wiki/WikiBreadcrumbs";
 
 const numberFormatter = new Intl.NumberFormat("en-US");
 
-function normalizeSignals(values) {
+function normalizeSignals(values: any[]) {
   return [...new Set(values.map((value) => String(value || "").trim()).filter(Boolean))];
 }
 
-function getSearchValues(item) {
+function getSearchValues(item: any) {
   return [
     item.title,
     item.description,
@@ -28,7 +29,7 @@ function getSearchValues(item) {
     .map((value) => String(value).toLowerCase());
 }
 
-function getReadingLabel(item) {
+function getReadingLabel(item: any) {
   if (item.readingTime) {
     return `${item.readingTime} min read`;
   }
@@ -40,13 +41,18 @@ function getReadingLabel(item) {
   return null;
 }
 
-export default function CollectionPageClient({ collection, items }) {
+export interface CollectionPageClientProps {
+  collection: any;
+  items: any[];
+}
+
+export default function CollectionPageClient({ collection, items }: CollectionPageClientProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const deferredQuery = useDeferredValue(searchQuery);
   const normalizedQuery = deferredQuery.trim().toLowerCase();
 
   const archiveInsights = useMemo(() => {
-    const signalCounts = new Map();
+    const signalCounts = new Map<string, number>();
     let totalWords = 0;
 
     items.forEach((item) => {
@@ -87,15 +93,22 @@ export default function CollectionPageClient({ collection, items }) {
 
   const isFiltering = normalizedQuery.length > 0;
 
+  const breadcrumbs: BreadcrumbSegment[] = [
+    { label: "Knowledge Base", href: "/#knowledge" },
+    { label: collection.title }
+  ];
+
   return (
     <div className="section-shell px-4 py-6 dark:text-white">
-      <div className="mb-6 text-center">
+      <WikiBreadcrumbs segments={breadcrumbs} />
+
+      <div className="mb-6 text-center mt-4">
         <div className="mb-3 flex flex-wrap justify-center gap-2">
           <span className="archive-chip">{collection.group || "Archive"}</span>
           <span className="archive-chip">{numberFormatter.format(items.length)} records</span>
         </div>
         <Heading className="pb-2">{collection.title}</Heading>
-        <p className="mx-auto max-w-3xl text-center font-medium text-gray-600 dark:text-gray-300">
+        <p className="mx-auto max-w-3xl text-center font-medium text-slate-300">
           {collection.description}
         </p>
       </div>
@@ -104,10 +117,10 @@ export default function CollectionPageClient({ collection, items }) {
         <section className="surface-glass flex flex-col gap-4 p-5">
           <div className="flex flex-wrap items-start justify-between gap-3">
             <div>
-              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gray-500 dark:text-gray-400">
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">
                 Archive Search
               </p>
-              <p className="mt-2 max-w-2xl text-sm text-gray-600 dark:text-gray-300">
+              <p className="mt-2 max-w-2xl text-sm text-slate-300">
                 Search by title, role, tag, category, quote, or record type. Keep it lightweight and local to the archive.
               </p>
             </div>
@@ -115,7 +128,7 @@ export default function CollectionPageClient({ collection, items }) {
               <button
                 type="button"
                 onClick={() => setSearchQuery("")}
-                className="archive-chip border-gray-300 bg-white/75 text-gray-700 transition hover:border-gray-400 hover:text-gray-900 dark:border-gray-700 dark:bg-gray-900/70 dark:text-gray-200 dark:hover:border-gray-500"
+                className="archive-chip transition hover:brightness-110"
               >
                 Clear Search
               </button>
@@ -123,7 +136,7 @@ export default function CollectionPageClient({ collection, items }) {
           </div>
 
           <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-            <label htmlFor={`${collection.key}-search`} className="text-sm font-semibold uppercase tracking-[0.16em] text-gray-600 dark:text-gray-300">
+            <label htmlFor={`${collection.key}-search`} className="text-sm font-semibold uppercase tracking-[0.16em] text-slate-300">
               Search:
             </label>
             <input
@@ -136,13 +149,13 @@ export default function CollectionPageClient({ collection, items }) {
             />
           </div>
 
-          <div className="flex flex-wrap items-center gap-3 text-sm text-gray-600 dark:text-gray-300">
+          <div className="flex flex-wrap items-center gap-3 text-sm text-slate-300">
             <span>
               {isFiltering
                 ? `${numberFormatter.format(filteredItems.length)} matching records`
                 : `${numberFormatter.format(items.length)} total records`}
             </span>
-            <span className="text-gray-400 dark:text-gray-500">/</span>
+            <span className="text-slate-500">/</span>
             <span>
               {isFiltering
                 ? `Filtering by “${searchQuery.trim()}”`
@@ -162,12 +175,12 @@ export default function CollectionPageClient({ collection, items }) {
                     onClick={() => setSearchQuery(signal.label)}
                     className={`archive-chip transition ${
                       isActive
-                        ? "border-blue-400 bg-blue-50 text-blue-700 dark:border-blue-500/70 dark:bg-blue-500/10 dark:text-blue-200"
-                        : "border-gray-300 bg-white/75 text-gray-700 hover:border-gray-400 hover:text-gray-900 dark:border-gray-700 dark:bg-gray-900/70 dark:text-gray-200 dark:hover:border-gray-500"
+                        ? "border-blue-500/70 bg-blue-500/10 text-blue-200"
+                        : "hover:brightness-110"
                     }`}
                   >
                     <span>{signal.label}</span>
-                    <span className="text-[0.65rem] text-gray-400 dark:text-gray-500">{signal.count}</span>
+                    <span className="text-[0.65rem] text-slate-500">{signal.count}</span>
                   </button>
                 );
               })}
@@ -176,28 +189,28 @@ export default function CollectionPageClient({ collection, items }) {
         </section>
 
         <aside className="archive-rail p-5">
-          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gray-500 dark:text-gray-400">
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">
             Archive Briefing
           </p>
           <div className="mt-4 grid gap-4 sm:grid-cols-3 lg:grid-cols-1">
             <div>
-              <p className="text-xs uppercase tracking-[0.16em] text-gray-500 dark:text-gray-400">Records</p>
-              <p className="mt-2 text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">
+              <p className="text-xs uppercase tracking-[0.16em] text-slate-400">Records</p>
+              <p className="mt-2 text-3xl font-semibold tracking-tight text-white">
                 {numberFormatter.format(items.length)}
               </p>
             </div>
             <div>
-              <p className="text-xs uppercase tracking-[0.16em] text-gray-500 dark:text-gray-400">Signals</p>
-              <p className="mt-2 text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">
+              <p className="text-xs uppercase tracking-[0.16em] text-slate-400">Signals</p>
+              <p className="mt-2 text-3xl font-semibold tracking-tight text-white">
                 {numberFormatter.format(archiveInsights.totalSignals)}
               </p>
             </div>
             <div>
-              <p className="text-xs uppercase tracking-[0.16em] text-gray-500 dark:text-gray-400">Reading Volume</p>
-              <p className="mt-2 text-3xl font-semibold tracking-tight text-gray-900 dark:text-white">
+              <p className="text-xs uppercase tracking-[0.16em] text-slate-400">Reading Volume</p>
+              <p className="mt-2 text-3xl font-semibold tracking-tight text-white">
                 {numberFormatter.format(archiveInsights.totalWords)}
               </p>
-              <p className="mt-1 text-sm text-gray-600 dark:text-gray-300">Words indexed across this collection.</p>
+              <p className="mt-1 text-sm text-slate-300">Words indexed across this collection.</p>
             </div>
           </div>
         </aside>
@@ -205,14 +218,14 @@ export default function CollectionPageClient({ collection, items }) {
 
       <div className="mb-4 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
         <div>
-          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gray-500 dark:text-gray-400">
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">
             Archive Index
           </p>
-          <h2 className="mt-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
+          <h2 className="mt-2 text-2xl font-semibold tracking-tight text-white">
             {isFiltering ? "Matching records" : `All ${collection.title} records`}
           </h2>
         </div>
-        <p className="max-w-2xl text-sm text-gray-600 dark:text-gray-300 sm:text-right">
+        <p className="max-w-2xl text-sm text-slate-300 sm:text-right">
           Every record stays lightweight and static, but the archive surface now exposes the signals already present in the editorial metadata.
         </p>
       </div>
@@ -228,7 +241,7 @@ export default function CollectionPageClient({ collection, items }) {
             return (
               <Link href={`${collection.route}/${item.slug}`} key={item.slug} className="block h-full">
                 <HoverDepth className="h-full">
-                  <article className="archive-link-card flex h-full min-h-80 flex-col overflow-hidden dark:text-white">
+                  <article className="archive-link-card group flex h-full min-h-[20rem] flex-col overflow-hidden dark:text-white">
                     <ArchiveCardMedia
                       image={item.image}
                       title={item.title}
@@ -245,17 +258,17 @@ export default function CollectionPageClient({ collection, items }) {
                       </div>
 
                       <div className="space-y-2">
-                        <h2 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+                        <h2 className="text-xl font-semibold tracking-tight text-white">
                           {item.title}
                         </h2>
                         {item.role ? (
-                          <p className="text-sm font-semibold uppercase tracking-[0.14em] text-gray-500 dark:text-gray-400">
+                          <p className="text-sm font-semibold uppercase tracking-[0.14em] text-slate-400">
                             {item.role}
                           </p>
                         ) : null}
                       </div>
 
-                      <p className="grow text-gray-600 dark:text-gray-300">{summary}</p>
+                      <p className="grow text-slate-300">{summary}</p>
 
                       {item.quote ? (
                         <blockquote className="border-l-3 border-blue-300 pl-3 text-sm italic text-blue-900 dark:text-blue-200">
@@ -266,14 +279,14 @@ export default function CollectionPageClient({ collection, items }) {
                       {tags.length > 0 ? (
                         <div className="flex flex-wrap gap-2">
                           {tags.map((tag) => (
-                            <span key={tag} className="archive-chip border-gray-300 bg-white/70 text-gray-600 dark:border-gray-700 dark:bg-gray-900/60 dark:text-gray-300">
+                            <span key={tag} className="archive-chip">
                               {tag}
                             </span>
                           ))}
                         </div>
                       ) : null}
 
-                      <div className="text-xs font-semibold uppercase tracking-[0.2em] text-gray-500 dark:text-gray-400">
+                      <div className="text-[11px] font-bold uppercase tracking-[0.2em] text-blue-400/80 transition-colors group-hover:text-blue-300">
                         Open Record
                       </div>
                     </div>
@@ -284,10 +297,10 @@ export default function CollectionPageClient({ collection, items }) {
           })
         ) : (
           <div className="archive-rail col-span-full p-8 text-center">
-            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gray-500 dark:text-gray-400">
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">
               No Matching Records
             </p>
-            <p className="mt-3 text-base text-gray-600 dark:text-gray-300">
+            <p className="mt-3 text-base text-slate-300">
               No {collection.key} records matched “{searchQuery}”. Try a broader signal, a title fragment, or one of the archive chips above.
             </p>
           </div>

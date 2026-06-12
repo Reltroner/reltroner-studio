@@ -24,10 +24,10 @@ export default function ArchiveCardMedia({ image, title, sizes, className = "h-4
       ) : (
         <div className="absolute inset-0 flex items-center justify-center p-6 text-center">
           <div className="space-y-2">
-            <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-gray-500 dark:text-gray-400">
+            <p className="text-[11px] font-bold uppercase tracking-[0.18em] text-gray-500 dark:text-blue-400/80">
               Archive Illustration
             </p>
-            <p className="max-w-56 text-sm font-semibold text-gray-700 dark:text-gray-200">
+            <p className="max-w-56 text-sm font-bold text-gray-700 dark:text-white">
               {title}
             </p>
           </div>

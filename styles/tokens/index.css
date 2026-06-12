@@ -1,7 +1,7 @@
 @theme {
-  --font-body: var(--font-roboto-source), Helvetica, Arial, sans-serif;
-  --font-display: var(--font-roboto-source), Helvetica, Arial, sans-serif;
-  --font-roboto: var(--font-roboto-source), Helvetica, Arial, sans-serif;
+  --font-body: var(--font-body, system-ui, sans-serif);
+  --font-display: var(--font-display, system-ui, sans-serif);
+  --font-mono: var(--font-mono, monospace);
 
   --color-aurora-300: oklch(0.82 0.11 249.44);
   --color-aurora-400: oklch(0.72 0.15 253.65);
@@ -41,4 +41,27 @@
   --rs-z-navigation: 40;
   --rs-z-command: 70;
   --rs-z-overlay: 80;
+
+  /* Premium Futuristic Navy Palette - High Contrast */
+  --rs-bg-deep: #000814;
+  --rs-bg-navy: #001537;
+  --rs-bg-panel: rgba(6, 20, 52, 0.86);
+  --rs-bg-panel-strong: rgba(7, 24, 64, 0.94);
+  --rs-border-soft: rgba(145, 190, 255, 0.28);
+  --rs-border-strong: rgba(100, 175, 255, 0.48);
+  --rs-accent: #17a8ff;
+  --rs-accent-strong: #0077ff;
+  --rs-text-main: #f8fbff;
+  --rs-text-soft: #d8e6ff;
+  --rs-text-muted: #b7c8e6;
+  --rs-text-subtle: #93a8c8;
+  --rs-input-bg: rgba(235, 244, 255, 0.08);
+  --rs-input-border: rgba(160, 200, 255, 0.36);
+  --rs-shadow-glow: 0 0 40px rgba(23, 168, 255, 0.16);
+  
+  --rs-chip-bg: rgba(56, 189, 248, 0.12);
+  --rs-chip-border: rgba(125, 211, 252, 0.34);
+  --rs-chip-text: #dff6ff;
+  --rs-card-border: rgba(125, 180, 255, 0.32);
+  --rs-card-bg: rgba(8, 24, 60, 0.88);
 }

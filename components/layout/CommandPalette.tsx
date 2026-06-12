@@ -2,12 +2,17 @@
 
 import dynamic from 'next/dynamic';
 import { useEffect, useState } from 'react';
+import type { PageEntry } from './CommandPaletteDialog';
 
 const CommandPaletteDialog = dynamic(() => import('./CommandPaletteDialog'), {
   ssr: false,
 });
 
-export default function CommandPalette({ pages }) {
+export interface CommandPaletteProps {
+  pages: PageEntry[];
+}
+
+export default function CommandPalette({ pages }: CommandPaletteProps) {
   const [open, setOpen] = useState(false);
   const [shouldRenderDialog, setShouldRenderDialog] = useState(false);
 
@@ -17,7 +22,7 @@ export default function CommandPalette({ pages }) {
       setOpen(true);
     };
 
-    const down = (event) => {
+    const down = (event: KeyboardEvent) => {
       if (event.key === 'k' && (event.metaKey || event.ctrlKey)) {
         event.preventDefault();
         setShouldRenderDialog(true);
@@ -41,13 +46,13 @@ export default function CommandPalette({ pages }) {
           setShouldRenderDialog(true);
           setOpen(true);
         }}
-        className="hidden min-w-[20rem] items-center justify-between gap-4 rounded-full px-5 py-3 text-sm text-gray-600 transition hover:bg-white/85 dark:text-gray-200 dark:hover:bg-gray-900/85 md:flex"
+        className="hidden min-w-[20rem] items-center justify-between gap-4 rounded-full px-5 py-3 text-sm text-slate-300 transition hover:bg-white/10 hover:text-white md:flex"
       >
         <span className="flex items-center gap-3">
           <span className="h-2 w-2 rounded-full bg-blue-500/80" />
           Search titles, tags, and archives
         </span>
-        <kbd className="rounded-full border border-gray-200 px-2.5 py-1 text-[11px] uppercase tracking-[0.16em] text-gray-500 dark:border-gray-700 dark:text-gray-400">
+        <kbd className="rounded-full border border-slate-700 px-2.5 py-1 text-[11px] uppercase tracking-[0.16em] text-slate-400">
           Ctrl K
         </kbd>
       </button>
