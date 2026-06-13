@@ -254,4 +254,4 @@ Below is the official chart used by the **Reltronian Observatory of Celestial Me
 
 > *“In a sky of many moons, absence still speaks.”*
 
-**© 2025 Reltroner Studio — Astralis Almanac Division**
+**© 2026 Reltroner Studio — Astralis Almanac Division**

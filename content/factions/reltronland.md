@@ -1,12 +1,11 @@
 ---
-title: "Reltronland — Final Country Profile"
+title: "Reltronland — Country Profile"
 description: "The ideological embodiment of Astralis Pinnacle — a disciplined apex superpower built on cyber-meritocracy, sentient development, structural clarity, and the rejection of illusion."
 image: "/images/reltronland-cover.webp"
 author: "Rei Reltroner"
-date: "2025--06-12"
+date: "2026-06-12"
 lastUpdated: "2026-06-09"
 published: true
-canonStatus: "Final Clean Country Profile"
 world: "Asthortera"
 category: "Apex Superpower Nation-Faction"
 ---
