@@ -7,11 +7,10 @@ export interface NavigationItem {
 
 export const topNavigation: NavigationItem[] = [
   { name: 'Ecosystem', href: '/' },
-  { name: 'Apps', href: '#apps' },
-  { name: 'Knowledge', href: '#knowledge' },
-  { name: 'Roadmap', href: '#roadmap' },
   { name: 'About', href: '/about' },
+  { name: 'Portfolio', href: '/blog/for-recruiters' },
   { name: 'Contact', href: '/contact' },
+  { name: 'Disclaimer', href: '/blog/disclaimer' },
 ];
 
 export const knowledgeNavigation: NavigationItem[] = [
