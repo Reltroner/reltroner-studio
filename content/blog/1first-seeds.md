@@ -22,12 +22,30 @@ There was just a teenager, a tired heart, and two short videos on YouTube.
 - **The State Central Business District (2018)**  
   A 10-second video that looked simple, but carried a universe in intention.
 
-[My first video intro](https://www.youtube.com/watch?v=PicaLYwPa2g)
+<iframe
+  width="100%"
+  height="420"
+  src="https://www.youtube.com/embed/PicaLYwPa2g"
+  title="My first video intro"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 - **The Millennium SCBD (2018)**  
   Built with exhaustion, yet uploaded anyway. Not for likes, but for legacy.
 
 [My 2nd Video Intro](https://www.youtube.com/watch?v=ARJq0wB46lU)
+
+<iframe
+  width="100%"
+  height="420"
+  src="https://www.youtube.com/embed/ARJq0wB46lU"
+  title="My 2nd Video Intro"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 > _“I was really tired and spent a lot of hours just to make this intro.”_
 

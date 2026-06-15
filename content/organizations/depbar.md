@@ -7,6 +7,7 @@ author: "Rei Reltroner"
 date: "2026-06-09"
 published: true
 category: "Asthortera · Depcutland · Hospitality Brands · Archival Classicism · Reflection Economy"
+tags: ["DepBar", "Asthortera", "Depcutland", "Hospitality Brands", "Archival Classicism", "Reflection Economy"]
 ---
 
 ![depcub](/images/depcub.webp)

@@ -1,1 +1,4 @@
 @import "../styles/globals/index.css";
+
+.editorial-prose .rs-video-embed { width: 100%; max-width: 100%; clear: both; }
+.editorial-prose iframe, .editorial-prose video { max-width: 100%; }

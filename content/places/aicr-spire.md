@@ -50,9 +50,9 @@ It exists to understand the conditions under which civilizations endure.
 
 # I. LOCATION
 
-## Sentivision Valley
+## Leastroper Sentivision Valley
 
-**Location:** South Leastroper Province, Reltronland
+**Location:** West Leastroper Province, Reltronland
 
 AICR is situated within Sentivision Valley, one of the most prestigious research environments in Reltronland.
 

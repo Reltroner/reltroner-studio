@@ -63,7 +63,7 @@ Within Reltronland, he is often regarded as the intellectual embodiment of Astra
 
 ## Residence
 
-**Sentivision Valley**  
+**New Sentivision Valley**  
 East Reltronepolis Province  
 Reltronland
 

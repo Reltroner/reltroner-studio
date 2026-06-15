@@ -98,7 +98,7 @@ Many civilizations continue to conceptualize territory in terms of:
 
 Reltronland operates across additional dimensions of reality.
 
-### 🌀 Four-Dimensional Domain
+### ⭐ Four-Dimensional Domain
 
 **Coordinates:** (x, y, z, w)
 
