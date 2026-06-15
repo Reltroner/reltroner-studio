@@ -20,3 +20,9 @@ structure.txt
 slug-check-report.txt
 
 design-architecture-upgrade.md
+.next
+.next/
+.next/**
+out
+dist
+build

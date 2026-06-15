@@ -3,7 +3,7 @@ title: "Hargenbor — Guardian of the Central Seas of Asthortera"
 description: "A sovereign maritime superpower of Asthortera, renowned for its loop-coast geography, beach tourism, underwater civilization, abyssal naval power, and its hidden role as the primary geopolitical proxy of Nytherion Abyss against Reltronland."
 image: "/images/hargenbor.webp"
 author: "Rei Reltroner"
-date: "2025-07-01"
+date: "2026-06-15"
 published: true
 category: "Asthortera · Nations"
 tags: [

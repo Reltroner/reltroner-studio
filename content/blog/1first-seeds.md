@@ -35,8 +35,6 @@ There was just a teenager, a tired heart, and two short videos on YouTube.
 - **The Millennium SCBD (2018)**  
   Built with exhaustion, yet uploaded anyway. Not for likes, but for legacy.
 
-[My 2nd Video Intro](https://www.youtube.com/watch?v=ARJq0wB46lU)
-
 <iframe
   width="100%"
   height="420"

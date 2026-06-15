@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "clean": "node -e \"const fs=require('fs'); for (const p of ['.next','out']) fs.rmSync(p,{recursive:true,force:true});\"",
+    "build:clean": "npm run clean && npm run build",
     "start": "next start",
     "lint": "tsc --noEmit",
     "typecheck": "tsc --noEmit",
