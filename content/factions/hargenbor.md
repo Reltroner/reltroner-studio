@@ -29,7 +29,7 @@ tags: [
 ![hargenbor-rhythm-heaven](/images/hargenbor-rhythm-heaven.webp)
 ![hargenborball](/images/hargenborball.webp)
 <video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
-  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/hargenbor-video.mp4" type="video/mp4" />
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/hargenbor.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
