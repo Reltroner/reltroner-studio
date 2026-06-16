@@ -17,6 +17,10 @@ category: "Asthortera · Tier 1 Civilizations · Archival Sovereignty · Cultura
 ![endless-library](/images/endless-library.webp)
 ![depcutland-rhythm-heaven](/images/depcutland-rhythm-heaven.webp)
 ![depcutlandball](/images/depcutlandball.webp)
+<video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/depcutland-part1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 # Depcutland — Archival Sovereignty of Asthortera
 

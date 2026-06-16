@@ -12,6 +12,10 @@ published: true
 ![stelpadland2](/images/stelpadland2.webp)
 ![stelpadland-rhythm-heaven.webp](/images/stelpadland-rhythm-heaven.webp)
 ![stelpadlandball](/images/stelpadlandball.webp)
+<video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/stelpadland-part1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ---
 

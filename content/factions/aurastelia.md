@@ -12,6 +12,10 @@ published: true
 ![aurastelia3](/images/aurastelia3.webp)
 ![aurastelia-rhythm-heaven.webp](/images/aurastelia-rhythm-heaven.webp)
 ![aurasteliaball](/images/aurasteliaball.webp)
+<video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/aurastelia-part1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ---
 

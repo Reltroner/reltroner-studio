@@ -13,6 +13,10 @@ published: true
 ![cenrestier-rhythm-heaven](/images/cenrestier-rhythm-heaven.webp)
 ![cenrestier-1-rhythm-heaven](/images/cenrestier-1-rhythm-heaven.webp)
 ![cenrestierball](/images/cenrestierball.webp)
+<video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/cenrestier-part1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ---
 

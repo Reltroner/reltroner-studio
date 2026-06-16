@@ -20,7 +20,7 @@ coreTheme: "Civilization of Illumination"
 ![lenternow-rhythm-heaven.webp](/images/lenternow-rhythm-heaven.webp)
 ![lenternowball](/images/lenternowball.webp)
 <video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
-  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/lenternow1.mp4" type="video/mp4" />
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/lenternow-part2.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

@@ -17,6 +17,10 @@ category: "Apex Superpower Nation-Faction"
 ![reltronland4](/images/reltronepolis123.webp)
 ![reltronland-rhythm-heaven](/images/reltronland-rhythm-heaven.webp)
 ![reltronlandball](/images/reltronlandball.webp)
+<video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/reltronland-part1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 # Reltronland — The Manifestation of Astralis Pinnacle
 

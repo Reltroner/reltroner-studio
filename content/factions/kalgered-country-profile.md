@@ -11,6 +11,10 @@ published: true
 ![kalgered2](/images/kalgered2.webp)
 ![kalgered-rhythm-heaven.webp](/images/kalgered-rhythm-heaven.webp)
 ![kalgeredball](/images/kalgeredball.webp)
+<video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/kalgered-part1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ---
 

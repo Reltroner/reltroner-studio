@@ -13,6 +13,10 @@ published: true
 ![astrostelia4](/images/astrostelia4.webp)
 ![astrostelia-rhythm-heaven.webp](/images/astrostelia-rhythm-heaven.webp)
 ![astrosteliaball](/images/astrosteliaball.webp)
+<video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
+  <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/astrostelia-part1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ---
 
