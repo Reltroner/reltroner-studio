@@ -45,7 +45,7 @@ published: true
 
 ### 💎 Cultural Diplomacy with Krisberia
 - Shared trade and design treaties on precious crystals
-- Joint-host of the **Aurora of Craft Festival**
+- Joint-host of the **Crystal of Craft Festival**
 - Interplanetary Academy for Crystal Ethics
 - Architecture blending Reltronland’s white-collar geometry with Krisberian crystal ornamentation
 
