@@ -24,7 +24,7 @@ From 2017 to 2019, I thought YouTube would save me. I recorded gameplay videos i
 
 In 2020, I gave in to family pressure — UTBK, IT major, academic conformity. But the real me was suffocating. From 2020 to 2022, I experienced the first abyss: burned out, disoriented, unable to align with university expectations. No mentor. No system. No hope.
 
-But somehow, I created one video animation with Paint Tool SAI, Premiere, and After Effects. It was never published.
+But somehow, I created one video animation with Paint Tool SAI, Premiere Pro, and After Effects. It was never published.
 It wasn’t content — it was survival art.
 
 ---
