@@ -55,7 +55,7 @@ I was building my **survival architecture**.
 
 ## 🧱 The Lesson
 
-All those years weren’t wasted:
+All those years weren’t wasted in the search for my identity:
 
 * **YouTube era** taught me to ship.
 * **Failed animation** taught me to layer meaning.
