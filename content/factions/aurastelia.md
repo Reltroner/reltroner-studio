@@ -102,6 +102,18 @@ published: true
 **🔬 Function:** City of spiritual tech
 **📍 Key Landmark:** Solis Observatory, Interstellar Light Bridges
 
+**🔹 City:** **Harmonithra**
+**🧘 Function:** City of Harmony
+**📍 Key Landmark:** Harmony Palace, Harmonic Bridge
+
+**🔹 City:** **Soulithra**
+**🧘 Function:** City of Soul
+**📍 Key Landmark:** Soul Palace, Soul Bridge
+
+**🔹 City:** **Spiritstelia**
+**🧘 Function:** City of Spirit
+**📍 Key Landmark:** Spirit Palace, Spirit Bridge
+
 ---
 
 ### 🧘 5. Social & Cultural Life

@@ -1,15 +1,15 @@
 ---
 title: "For Recruiters & Collaborators"
 description: "Professional overview for recruiters and collaborators seeking a backend/platform engineer with ERP SaaS architecture, secure authentication, production delivery, and business-facing Problem → Solution → Result execution"
-date: "2026-06-29"
+date: "2026-07-01"
 published: true
 image: "/images/for-recruiters-banner.webp"
 ---
 
 # For Recruiters & Collaborators
 
-Hello —  
-I'm **Rei Reltroner** (Raidan Sandra), a backend/system engineer focused on **deterministic systems, modular architecture, secure authentication, ERP SaaS systems, and production-grade delivery**.
+Hello —
+I'm **Rei Reltroner** (Raidan Sandra), a backend/platform engineer focused on **deterministic systems, modular architecture, secure authentication, ERP SaaS systems, and production-grade delivery**.
 
 I build systems that are not only functional, but also **auditable, predictable, maintainable, business-readable, and safe to operate in real production environments**.
 
@@ -23,19 +23,19 @@ My current professional direction is:
 
 **Role Positioning**
 
-Backend / Platform Engineer  
-Backend / System Engineer  
-ERP SaaS Business Architecture Engineer  
-Full-Cycle Software Engineer with infrastructure and business-process ownership
+Backend / Platform Engineer
+Backend / System Engineer
+ERP SaaS Business Architecture Engineer
+Full-Cycle Software Engineer with infrastructure, authentication, and business-process ownership
 
 **Primary Focus**
 
-* Backend engineering with Laravel, PHP, RESTful APIs, and service isolation
-* Platform and identity infrastructure involving Keycloak, OIDC, SSO, JWT, OAuth2, and Cloudflare
+* Backend engineering with Laravel, PHP, RESTful APIs, service isolation, and production validation
+* Platform and identity infrastructure involving Keycloak, OIDC, SSO, JWT RS256, OAuth2, PKCE, JWKS, and Cloudflare
 * Modular system architecture for ERP, LMS, SaaS, and production platform systems
 * ERP business-process architecture across Inventory, Procurement, WMS, Sales, Finance, HRIS, Reports, Settings, and AI Assistant layers
 * Deterministic system design with single source of truth, predictable output, and controlled state
-* Production debugging across frontend, backend, authentication, DNS, tunnel routing, deployment, and configuration layers
+* Production debugging across frontend, backend, authentication, DNS, tunnel routing, deployment, runtime configuration, and middleware boundaries
 * Auditability, system integrity, failure-mode analysis, and structured engineering documentation
 * Business-facing communication that converts technical systems into client-readable value: **Problem → Solution → Result**
 
@@ -43,7 +43,7 @@ Full-Cycle Software Engineer with infrastructure and business-process ownership
 
 ## Professional Summary
 
-I am a backend/system engineer with hands-on experience delivering end-to-end engineering solutions in production-facing environments.
+I am a backend/platform engineer with hands-on experience delivering end-to-end engineering solutions in production-facing environments.
 
 My work combines:
 
@@ -56,21 +56,23 @@ My work combines:
 * **Documentation and handoff clarity**
 * **Client-facing explanation of system value**
 
-I do not approach engineering only as “writing code.”  
+I do not approach engineering only as “writing code.”
 I approach it as building a system that must remain understandable, verifiable, secure, maintainable, and valuable to the business after deployment.
 
 I have worked on systems involving:
 
-* LMS authentication
 * Keycloak OIDC/SSO
-* Cloudflare DNS and Tunnel routing
-* Cloudflare Pages deployment
-* Laravel ERP modules
+* Multi-realm JWT validation
+* Cloudflare DNS, Tunnel, Workers, and same-origin routing
+* Laravel backend authentication middleware
+* Next.js frontend integration
+* Rancher/Kubernetes deployment verification
+* LMS authentication and domain isolation
+* ERP SaaS architecture
 * Audit-grade financial transaction design
 * Security incident remediation
 * Modular course engine architecture
-* Multi-layer debugging across SSR, UI state, configuration, and infrastructure
-* ERP SaaS module architecture for retail, distribution, inventory, procurement, finance, and reporting workflows
+* Multi-layer debugging across SSR, UI state, configuration, middleware, deployment, and infrastructure
 * Affiliate SaaS enablement by converting complex ERP features into practical B2B sales narratives
 
 ---
@@ -80,9 +82,9 @@ I have worked on systems involving:
 * Turning ambiguous requirements into structured, production-ready systems
 * Designing modular and scalable architectures using layered design and service boundaries
 * Building deterministic systems with single source of truth and predictable behavior
-* Implementing secure authentication flows with Keycloak, OIDC, JWT RS256, and OAuth2
+* Implementing secure authentication flows with Keycloak, OIDC, JWT RS256, JWKS, PKCE, and OAuth2
 * Handling production SSO migration involving DNS, tunnels, OIDC issuer, frontend config, and deployment
-* Debugging multi-layer failures across UI, SSR, reactive state, API, environment, DNS, infrastructure, and configuration boundaries
+* Debugging multi-layer failures across UI, SSR, reactive state, API, middleware, environment, DNS, infrastructure, and configuration boundaries
 * Building audit-safe backend systems with immutable transaction models, audit logging, and deterministic reporting
 * Mapping ERP modules into business workflows that real retail/distribution clients can understand
 * Translating technical architecture into client-facing **Problem → Solution → Result** communication
@@ -121,13 +123,231 @@ My goal is to make systems that:
 
 ---
 
-## Case Study 1 — Emergency SSO Domain Isolation for Production LMS
+## Case Study 1 — Client Portal Authentication Modernization & Same-Origin API Routing
 
-**Project:** Reltroner Learning Academy / Reltroner Identity  
-**Role:** Backend / Platform Engineer  
-**Stack:** Cloudflare DNS, Cloudflare Tunnel, Keycloak, OIDC Authorization Code + PKCE, Cloudflare Pages, Next.js, Rancher/Kubernetes  
-**Production URLs:**  
-[lms.reltroner.com](https://lms.reltroner.com)  
+**Project:** Skill-Wanderer Client Portal
+**Role:** Backend / Platform Engineer
+**Stack:** Laravel, Keycloak, OIDC, JWT RS256, JWKS, Cloudflare Workers, Cloudflare Tunnel, Next.js, Rancher/Kubernetes, GitHub Actions
+**Production URL:** [client.skill-wanderer.com](https://client.skill-wanderer.com)
+
+### Case
+
+The Client Portal needed a production-grade authentication and API routing upgrade.
+
+The backend had to validate real Keycloak access tokens from two trusted realms:
+
+```text
+client-portal
+skill-wanderer-admin
+```
+
+The required rule was strict:
+
+```text
+client-portal realm
+→ accept valid access token when aud contains client-portal-be
+
+skill-wanderer-admin realm
+→ accept valid access token only when aud contains client-portal-be and realm role contains client
+```
+
+At the same time, the frontend needed to stop exposing the old browser-facing API base:
+
+```text
+https://api.skill-wanderer.com
+```
+
+and move to same-origin API access:
+
+```text
+https://client.skill-wanderer.com/api/*
+```
+
+The challenge was multi-layered:
+
+* Keycloak tokens needed correct backend audience
+* Admin realm tokens needed role-based restriction
+* Laravel needed JWKS-backed JWT validation
+* Rancher needed a new backend deployment
+* Cloudflare could not directly route `client.skill-wanderer.com/api/*` through Tunnel because the hostname was already managed by the frontend Worker
+* The frontend dashboard initially did not send the Bearer token
+* The backend dashboard route still used legacy session middleware instead of the new Keycloak token middleware
+
+### Solution
+
+I resolved the issue end-to-end across identity, backend, frontend, Cloudflare, and deployment layers.
+
+#### Keycloak
+
+Configured and validated access tokens so they contained the backend audience:
+
+```json
+"aud": ["client-portal-be", "account"]
+```
+
+For the `skill-wanderer-admin` realm, the token also needed:
+
+```json
+"realm_access": {
+  "roles": ["client"]
+}
+```
+
+This ensured the backend did not accept generic Keycloak tokens. It only accepted tokens explicitly intended for the backend resource server.
+
+#### Backend
+
+Implemented deterministic Keycloak JWT validation in Laravel:
+
+* JWKS provider
+* JWT validator
+* Multi-issuer validation
+* Audience validation
+* Admin realm role validation
+* `keycloak.token` middleware
+* Keycloak principal extraction into request attributes
+
+Production backend config included:
+
+```text
+KEYCLOAK_BASE_URL=https://sso.skill-wanderer.com
+KEYCLOAK_ALLOWED_REALMS=client-portal,skill-wanderer-admin
+KEYCLOAK_EXPECTED_AUDIENCE=client-portal-be
+KEYCLOAK_ADMIN_REALM=skill-wanderer-admin
+KEYCLOAK_ADMIN_REQUIRED_REALM_ROLE=client
+```
+
+#### Deployment
+
+Deployed the backend to Rancher using image:
+
+```text
+ghcr.io/skill-wanderer/client-portal-be:sha-4ab8871
+```
+
+Updated deployment metadata:
+
+```text
+BE_DEPLOYMENT_ID=client-portal-be-sha-4ab8871
+```
+
+#### Same-Origin API Routing
+
+Because `client.skill-wanderer.com` was already owned by the frontend Worker, direct Cloudflare Tunnel path routing could not be used.
+
+The solution was to add a Next.js API proxy route:
+
+```text
+app/api/[...path]/route.ts
+```
+
+This allows:
+
+```text
+https://client.skill-wanderer.com/api/*
+```
+
+to proxy internally to:
+
+```text
+https://client-portal-api.skill-wanderer.com
+```
+
+Final runtime variables:
+
+```text
+API_BASE_URL=https://client.skill-wanderer.com
+NEXT_PUBLIC_API_BASE_URL=https://client.skill-wanderer.com
+API_UPSTREAM_URL=https://client-portal-api.skill-wanderer.com
+```
+
+#### Frontend Dashboard Authorization
+
+Fixed the frontend dashboard request so it sends:
+
+```text
+Authorization: Bearer <access_token>
+```
+
+to:
+
+```text
+/api/v1/client/dashboard
+```
+
+#### Backend Dashboard Route Migration
+
+The dashboard route originally used legacy auth middleware:
+
+```text
+dashboard.audit
+bearer.validate
+session.load
+rbac:client
+```
+
+It was migrated to:
+
+```text
+dashboard.audit
+keycloak.token
+```
+
+The controller now reads the authenticated identity from:
+
+```text
+keycloak_principal
+```
+
+The route no longer requires `X-Session-Id` when a valid Keycloak Bearer token is present.
+
+### Result
+
+Final production validation:
+
+```text
+GET https://client.skill-wanderer.com/api/v1/client/dashboard
+Authorization: Bearer <valid-token>
+
+→ 200 OK
+```
+
+Response headers confirmed Laravel backend execution:
+
+```text
+x-powered-by: PHP/8.4.22
+x-deployment-id: client-portal-be-sha-4ab8871
+```
+
+Final dashboard result:
+
+```text
+Welcome back
+Email: test@reltroner.com
+Role: AUTHENTICATED
+```
+
+**Impact:**
+
+* Implemented production-grade Keycloak multi-realm token validation
+* Enforced backend audience boundary with `aud=client-portal-be`
+* Restricted admin realm access using realm role `client`
+* Removed browser dependency on `api.skill-wanderer.com` as API base
+* Enabled same-origin API access through `client.skill-wanderer.com/api/*`
+* Migrated dashboard authorization from legacy session auth to Keycloak JWT auth
+* Verified browser dashboard loads successfully with authenticated backend data
+* Reduced authentication ambiguity across frontend, backend, Keycloak, Cloudflare, and deployment layers
+* Produced a cleaner trust boundary and safer production auth model
+
+---
+
+## Case Study 2 — Emergency SSO Domain Isolation for Production LMS
+
+**Project:** Reltroner Learning Academy / Reltroner Identity
+**Role:** Backend / Platform Engineer
+**Stack:** Cloudflare DNS, Cloudflare Tunnel, Keycloak, OIDC Authorization Code + PKCE, Cloudflare Pages, Next.js, Rancher/Kubernetes
+**Production URLs:**
+[lms.reltroner.com](https://lms.reltroner.com)
 [sso.reltroner.com](https://sso.reltroner.com)
 
 ### Case
@@ -239,12 +459,12 @@ Reltroner      → sso.reltroner.com
 
 ---
 
-## Case Study 2 — Tradixa Retail Management System: ERP SaaS Architecture & Affiliate Enablement
+## Case Study 3 — Tradixa Retail Management System: ERP SaaS Architecture & Affiliate Enablement
 
-**Project:** Tradixa Retail Management System  
-**Role:** ERP SaaS Business Architecture / Affiliate SaaS Enablement  
-**Focus:** Retail ERP, Inventory, Procurement, WMS, Sales, Finance, HRIS, Reports, Settings, AI Assistant, B2B SaaS sales communication  
-**Period:** 2026 – Present  
+**Project:** Tradixa Retail Management System
+**Role:** ERP SaaS Business Architecture / Affiliate SaaS Enablement
+**Focus:** Retail ERP, Inventory, Procurement, WMS, Sales, Finance, HRIS, Reports, Settings, AI Assistant, B2B SaaS sales communication
+**Period:** 2026 – Present
 **Product URL:** [retail.tradixasystems.com](https://retail.tradixasystems.com)
 
 ### Case
@@ -329,22 +549,6 @@ Do not sell “complete ERP.”
 Sell the specific pain the business already feels.
 ```
 
-Examples:
-
-```text
-Retail store:
-“Control stock, sales, customer invoices, and reports in one system.”
-
-Distributor:
-“Track supplier purchasing, customer receivables, stock movement, delivery, and profit visibility.”
-
-B2B seller:
-“Know which customers still owe money, which invoices are overdue, and how payments affect cashflow.”
-
-Warehouse-heavy business:
-“Track goods receipt, putaway, transfer, picking, outbound delivery, and stock opname.”
-```
-
 ### Result
 
 This work created a stronger bridge between software architecture and business realization.
@@ -377,11 +581,11 @@ software architecture
 
 ---
 
-## Case Study 3 — Reltroner ERP Ecosystem
+## Case Study 4 — Reltroner ERP Ecosystem
 
-**Role:** Backend Engineer  
-**Stack:** Laravel 12, PHP 8.2+, MySQL, Keycloak OIDC, GitHub Actions  
-**Period:** March 2025 – Present  
+**Role:** Backend Engineer
+**Stack:** Laravel 12, PHP 8.2+, MySQL, Keycloak OIDC, GitHub Actions
+**Period:** March 2025 – Present
 **Live Demo:** [hrm.reltroner.com](https://hrm.reltroner.com)
 
 ### Case
@@ -440,10 +644,10 @@ Documentation:
 
 ---
 
-## Case Study 4 — Modular Course Engine System
+## Case Study 5 — Modular Course Engine System
 
-**Project Type:** LMS / Learning Platform Architecture  
-**Role:** Full-Cycle Solutions Associate / System Engineer  
+**Project Type:** LMS / Learning Platform Architecture
+**Role:** Full-Cycle Solutions Associate / System Engineer
 **Stack:** Next.js, TypeScript, modular content architecture
 
 ### Case
@@ -486,7 +690,7 @@ Key improvements:
 
 ---
 
-## Case Study 5 — Security Incident Response: RSA Key Exposure
+## Case Study 6 — Security Incident Response: RSA Key Exposure
 
 ### Case
 
@@ -523,17 +727,18 @@ I handled the incident with a structured remediation process:
 
 ## Full-Cycle Solutions Associate — Skill-Wanderer
 
-**Remote**  
+**Remote**
 **March 2026 – Present**
 
-Working in a distributed engineering team across Vietnam and Europe, contributing to full-cycle product delivery.
+Working in a distributed engineering team across Vietnam and Europe, contributing to full-cycle product delivery across backend reasoning, platform architecture, frontend integration, authentication flows, debugging, deployment validation, and documentation.
 
 ### Key Contributions
 
+* Delivered Client Portal authentication modernization with Keycloak multi-realm JWT validation, same-origin API routing, frontend Bearer token integration, and backend dashboard route migration to `keycloak.token`
 * Re-architected hardcoded systems into scalable, data-driven architecture
 * Replaced static sitemap logic with dynamic system design
 * Eliminated duplication and sync drift by enforcing single source of truth
-* Debugged complex issues across SSR, reactive state, UI behavior, architecture, and environment
+* Debugged complex issues across SSR, reactive state, UI behavior, architecture, middleware, runtime configuration, and environment
 * Delivered production-ready PRs with structured Git workflows
 * Applied clean branch rebuild, selective restore, and review-safe PR design
 * Provided decision-level justification instead of trial-and-error fixes
@@ -541,7 +746,8 @@ Working in a distributed engineering team across Vietnam and Europe, contributin
 
 ### Impact
 
-* Reduced bug risk by approximately 25% through deterministic lifecycle handling
+* Delivered production-grade Client Portal auth with verified Keycloak access-token validation and successful dashboard loading
+* Reduced bug risk through deterministic lifecycle handling
 * Eliminated manual sync and stale data risk classes
 * Improved system consistency, SEO integrity, scalability, and maintainability
 * Strengthened production readiness through architecture validation and end-to-end verification
@@ -550,7 +756,7 @@ Working in a distributed engineering team across Vietnam and Europe, contributin
 
 ## ERP SaaS Business Architecture & Affiliate Enablement — Tradixa Retail Management System
 
-**Affiliate / Independent SaaS GTM Enablement**  
+**Affiliate / Independent SaaS GTM Enablement**
 **2026 – Present**
 
 Worked on understanding, mapping, and communicating Tradixa as an ERP SaaS platform for retail, distribution, payment point, and B2B business operations.
@@ -576,7 +782,7 @@ Worked on understanding, mapping, and communicating Tradixa as an ERP SaaS platf
 
 ## Backend Engineer — Reltroner ERP Ecosystem
 
-**Independent Project**  
+**Independent Project**
 **March 2025 – Present**
 
 Designed and built a modular ERP platform with centralized authentication and audit-grade financial infrastructure.
@@ -612,6 +818,8 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Service isolation
 * Inter-service communication
 * API lifecycle design
+* Middleware design
+* Protected route architecture
 
 ## Frontend & Full-Stack Integration
 
@@ -624,6 +832,8 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Static export and frontend deployment
 * LMS frontend integration
 * SaaS dashboard and workflow UI reasoning
+* Same-origin API proxy routing
+* Frontend authentication state integration
 
 ## ERP & Business Systems Architecture
 
@@ -649,6 +859,7 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Service boundary design
 * Architecture constraint documentation
 * Business-process architecture documentation
+* Production trust-boundary design
 
 ## Authentication & Security
 
@@ -656,8 +867,11 @@ Designed and built a modular ERP platform with centralized authentication and au
 * OIDC / SSO
 * OAuth2
 * JWT RS256
+* JWKS
 * Authorization Code + PKCE
-* Token validation
+* Multi-realm token validation
+* Audience validation
+* Role-based token acceptance
 * Session control
 * Trust boundary enforcement
 * Secret remediation
@@ -667,9 +881,11 @@ Designed and built a modular ERP platform with centralized authentication and au
 
 * Cloudflare DNS
 * Cloudflare Tunnel
+* Cloudflare Workers
 * Cloudflare Pages
 * GitHub Actions CI/CD
 * Docker
+* Rancher/Kubernetes investigation and deployment validation
 * Git / GitHub
 * SSH
 * DNS / SSL configuration
@@ -697,6 +913,7 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Failure-mode analysis
 * Deterministic output validation
 * Production verification checklists
+* Auth and middleware contract testing
 
 ## Documentation & Business Communication
 
@@ -745,7 +962,7 @@ I am interested in teams that value:
 
 # Education
 
-**Universitas Andalas — Information Systems Coursework**  
+**Universitas Andalas — Information Systems Coursework**
 Padang, West Sumatra
 
 ---
@@ -786,10 +1003,10 @@ Preferred focus areas:
 
 # Contact
 
-📧 [studio@reltroner.com](mailto:studio@reltroner.com)  
-🌐 [reltroner.com](https://www.reltroner.com)  
-💻 [github.com/Reltroner](https://github.com/Reltroner)  
-💻 [github.com/reltronersk](https://github.com/reltronersk)  
+📧 [studio@reltroner.com](mailto:studio@reltroner.com)
+🌐 [reltroner.com](https://www.reltroner.com)
+💻 [github.com/Reltroner](https://github.com/Reltroner)
+💻 [github.com/reltronersk](https://github.com/reltronersk)
 🔗 [linkedin.com/in/rei-reltroner](https://www.linkedin.com/in/rei-reltroner-a3a7b8173/)
 
 ---
@@ -842,5 +1059,5 @@ engineering architecture
 → implementation clarity
 ```
 
-That means I do not only ask whether a system works technically.  
+That means I do not only ask whether a system works technically.
 I also ask whether the system solves a real business problem clearly enough for users, owners, and clients to trust it.
