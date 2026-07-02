@@ -72,7 +72,7 @@ If Reltronland drives civilization forward, Depcutland safeguards the meaning th
 | **Major Conflicts** | Reiweston Crisis, Neiput Crisis, Neiput Border Dispute, Reltronland–Depcutland War |
 | **Major Treaty** | Troncut Treaty, signed 1010 BAC |
 | **Strategic Institution** | The Endless Library of Depcutland |
-| **Major Financial Institution** | TCBC — Troneiput & Cutneiput Banking Corporation |
+| **Major Financial Institution** | Depcutland Central Bank |
 
 ### Population Composition
 
