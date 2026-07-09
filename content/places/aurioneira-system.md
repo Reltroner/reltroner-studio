@@ -1,6 +1,6 @@
 ---
-title: "🪐 Aurioneira Stellar System Overview & Lore Concepts"
-description: "An expansive overview of the eight worlds orbiting the star Aurioneira—each with unique properties, lore potential, and strategic purpose in the greater sentient narrative of the Asthorteran universe."
+title: "🪐 Aurioneir Stellar System Overview & Lore Concepts"
+description: "An expansive overview of the eight worlds orbiting the star Aurioneir—each with unique properties, lore potential, and strategic purpose in the greater sentient narrative of the Asthorteran universe."
 slug: "aurioneira-system"
 date: "2025-05-05"
 author: "Rei Reltroner"
@@ -10,15 +10,15 @@ image: "/images/aurioneira-system.webp"
 
 ---
 
-# 🪐 Aurioneira Stellar System Overview & Lore Concepts
+# 🪐 Aurioneir Stellar System Overview & Lore Concepts
 
 A star system pulsing with ancient energy and sentient ambition located in the Helionea Sector. Below is a breakdown of each celestial body, along with extended ideas for lore development, research focus, and narrative utility.
 
 ---
 
-## ☀️ Central Star: Aurioneira
+## ☀️ Central Star: Aurioneir
 
-![aurioneira](/images/aurioneira.webp)
+![aurioneir](/images/aurioneira.webp)
 
 * **Type:** G1V Yellow Main Sequence
 * **Diameter:** \~1.12x Sun
@@ -40,7 +40,7 @@ A star system pulsing with ancient energy and sentient ambition located in the H
 ## 🧭 Comparative Orbital Zones
 
 #### Zone: Inner Orbit
-- **Included Bodies:** Nirael, Hyneira  
+- **Included Bodies:** Nirael, Hyneir  
 - **Type:** Rocky / Oceanic  
 
 #### Zone: Belt
@@ -65,7 +65,7 @@ A star system pulsing with ancient energy and sentient ambition located in the H
 
 ---
 
-### 🪨 1. **Nirael** — *The Ember Womb*
+### 🪨 1. **Niriil** — *The Ember Womb*
 
 ![nirael](/images/nirael.webp)
 
@@ -73,7 +73,7 @@ A star system pulsing with ancient energy and sentient ambition located in the H
 * **Diameter:** 10845 km
 * **Mass:** 0.47 × Earth
 * **Gravity:** 6.4 m/s²
-* **Core Concept:** A burning crucible closest to the sun-like star, Aurioneira.
+* **Core Concept:** A burning crucible closest to the sun-like star, Aurioneir.
 * **Narrative Function:**
 
   * Home to forbidden experiments in **exotic particle energy**.
@@ -87,7 +87,7 @@ A star system pulsing with ancient energy and sentient ambition located in the H
 * **Orbital Period:** 121 days  
 * **Notes:** Hot rocky world; tidal locked; experimental energy lab  
 
-### 🌊 2. **Hyneira** — *The Algae Ocean World*
+### 🌊 2. **Hyneir** — *The Algae Ocean World*
 
 ![hyneira](/images/hyneira.webp)
 
@@ -208,5 +208,5 @@ A star system pulsing with ancient energy and sentient ambition located in the H
 
 ## ✨ Closing Thought
 
-> *“The Aurioneira System is not just a map of planets—it's a spiritual anatomy.  
+> *“The Aurioneir System is not just a map of planets—it's a spiritual anatomy.  
 Each world holds a piece of the unknown, and together they form a mirror of the sentient psyche.”*

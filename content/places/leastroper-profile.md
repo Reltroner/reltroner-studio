@@ -25,7 +25,7 @@ published: true
   - East: **Krisberia** (Kingdom of Eternal Jewels)
   - West: **Reltralia** (Reltronland's Capital)
   - North West: **Rathroper**
-- **Capital District:** Cristavell (known for artisan guilds and jewel diplomacy)
+- **Capital City:** Cristavell (known for artisan guilds and jewel diplomacy)
 
 ---
 

@@ -1206,7 +1206,7 @@ The Endless Library stores high-priority backups and knowledge assets for multip
 |---|---|
 | **Reltronland** | SDI constructs, population synthesis models, technical treaties, selected strategic governance records |
 | **Aurastelia** | Aurora Echoes, Lumina codices, spiritual-philosophical records |
-| **Stelpadland** | Engineering patents, cybernetic ethics, technical continuity archives |
+| **Stelpadland** | Engineering patents, scout ethics, technical continuity archives |
 | **Pencilfania** | Logical structures, moral reasoning archives, artistic-formal systems |
 | **Hargenbor** | Maritime civilization records, oceanic infrastructure records, Abyss interface reports |
 | **Pasgerflit** | Ethical governance documents, legal reform patterns, public reasoning archives |
