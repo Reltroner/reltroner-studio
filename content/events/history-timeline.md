@@ -391,138 +391,321 @@ Depcutland's future identity develops around:
 
 ---
 
-## VII. Reltronland–Depcutland Divergence Era
+# 📉 Depeisit Crisis & Prelude to War
 
-### 1090–1082 BAC — Cultural Tensions Rise
+## **1057 BAC — Depeisit Economic Crisis**
 
-Reltronland and Depcutland begin diverging sharply in ideology and political orientation.
+A systemic economic collapse strikes the planet of **Depeisit**, triggering the largest migration wave in recorded history.
 
-Reltronland develops around:
+Depcutland receives a massive influx of:
 
-- Self-discipline
-- Spiritual development
-- Red Pill Realism
-- Meritocratic survival
-- Strategic sovereignty
+* Political refugees
+* Technocrats
+* Civil administrators
+* Industrial investors
+* Displaced aristocratic families
+* Institutional loyalists
 
-Depcutland retains:
+While many newcomers genuinely seek safety, segments of the former Depeisit aristocracy gradually rebuild influence within Depcutland's political institutions.
 
-- Formal aristocratic traditions
-- Classical Depeisit law
-- Bureaucratic hierarchy
-- Archival legitimacy
-- Cultural continuity
+This marks the beginning of the long-term ideological divergence between Reltronland and Depcutland.
 
-The tension grows because Reltronland seeks full independence, while Depcutland leans toward continued economic and political ties with older Depeisit structures.
+---
 
-### 1057 BAC — Depeisit Economic Crisis
+## **1056–1055 BAC — Institutional Capture Period**
 
-A major economic crisis in Depeisit triggers a second wave of migration.
+Former aristocratic elites from Depeisit begin expanding their influence through:
 
-Depcutland becomes a haven for:
+* Administrative appointments
+* Political patronage
+* Economic lobbying
+* Elite family networks
+* Bureaucratic consolidation
 
-- Political refugees
-- Technocrats
-- Administrators
-- Displaced elites
-- Institutional loyalists
+Reltronland's early intelligence services detect structural similarities between these emerging networks and those believed to have contributed to the Depeisit Economic Crisis.
 
-This intensifies the ideological imbalance between Reltronland and Depcutland.
+For Reltronland, the concern is no longer migration itself—but the gradual re-emergence of the governance patterns that had destabilized Depeisit.
 
-### 1055 BAC — Birth of Two Movements
+---
 
-Two major political movements emerge.
+## **1055 BAC — Birth of Two Movements**
 
-Reltronland:
+Two defining political movements emerge.
 
-- **Konsorsium Reltron**, founded by **Erhard Rhett**
+### Reltronland
 
-Depcutland:
+**Konsorsium Reltron**
 
-- **Depcut Independence Council**, led by **Vardik Glouster**
+Founded by **Erhard Rhett**
 
-These movements do not merely seek administrative reform. They represent two competing answers to the same civilizational crisis.
+Core philosophy:
 
-### 1049 BAC — Trade and Industry Blockade
+* Meritocracy
+* Institutional independence
+* Anti-feudal governance
+* Economic self-reliance
 
-Reltronland imposes an embargo as Depcutland escalates industrial buildup.
+---
 
-This event accelerates the transition from political tension into open strategic confrontation.
+### Depcutland
 
-### 1048–1030 BAC — Open Conflict Era
+**Depcut Independence Council**
 
-The conflict between Reltronland and Depcutland becomes openly geopolitical, economic, and military.
+Led by **Vardik Glouster**
 
-Major conflict drivers:
+Originally advocating greater autonomy from Depeisit, the movement gradually fractures between reformists and aristocratic conservatives as political tensions intensify.
 
-- Reiweston industrial expansion
-- Neiput border disputes
-- Trade breakdown
-- Mineral exploitation conflicts
-- Administrative sovereignty disputes
-- Competing economic systems
+Both movements seek stability—but propose fundamentally different civilizational models.
 
-### 1048 BAC — Neiput Border Crisis
+---
 
-The dispute between **Cutneiput** and **Troneiput** intensifies the divide between Reltronland and Depcutland.
+## **1054–1050 BAC — Growing Strategic Suspicion**
 
-This crisis becomes one of the most visible symbols of the border becoming more than a theoretical administrative line.
+Reltronland increases surveillance of:
 
-### 1047 BAC — Reiweston Bay Trade Crisis
+* Trade delegations
+* Industrial exports
+* Diplomatic exchanges
+* Immigration channels
+* Administrative cooperation
 
-A ship is intercepted, triggering diplomatic fallout and escalating tensions around Reiweston Bay.
+Growing concern centers on the possibility that aristocratic influence from Depeisit is beginning to reshape Depcutland's governing institutions.
 
-Reiweston Bay becomes an ideological, economic, and territorial faultline.
+Reltronland fears not merely political disagreement—but the recurrence of the systemic failures that once destabilized Depeisit.
 
-### 1045 BAC — Rathroper Incident
+---
 
-Clashes erupt over mineral exploitation rights.
+## **1049 BAC — Trade and Industry Blockade**
 
-The Rathroper Incident deepens mistrust and pushes both sides closer to full conflict.
+Following years of escalating intelligence assessments,
 
-### 1038–1036 BAC — Monetary Collapse and Civil Unrest
+Reltronland imposes a strategic embargo targeting sectors believed to strengthen aristocratic power within Depcutland.
 
-The hyperinflation of the Depcutland Aristocratic currency, **$DPA**, combines with supply-chain disruption and the wider Great Depression effects from Depeisit.
+Objectives include:
 
-The result is mass unrest, institutional stress, and pressure for major political restructuring.
+* Reducing strategic dependence
+* Limiting industrial expansion linked to aristocratic networks
+* Preventing ideological penetration
+* Protecting domestic institutional integrity
 
-### 1030–1010 BAC — Ceasefire Reconstruction
+Depcutland interprets the embargo as an existential attack on its sovereignty.
 
-After the open conflict period, both civilizations enter a reconstruction phase.
+Diplomatic trust rapidly deteriorates.
 
-#### Reltronland Reconstruction Strategy
+---
 
-Reltronland adopts a stabilization-oriented reconstruction doctrine focused on:
+# ⚔️ Open Conflict Era
 
-- Securing scientific personnel
-- Supporting institutional recovery
-- Avoiding revenge purges
-- Reconstruction financing
-- Industrial normalization
+## **1048–1030 BAC — Reltronland–Depcutland War**
 
-Reltronland's approach is disciplined, strategic, and stabilization-driven rather than revenge-driven.
+Political confrontation evolves into a prolonged geopolitical, economic, and military conflict.
 
-#### Depcutland Reforms
+The war is driven by multiple overlapping factors:
 
-Depcutland initiates:
+* Fear of repeating the Depeisit collapse
+* Institutional capture concerns
+* Trade embargoes
+* Resource insecurity
+* Administrative sovereignty disputes
+* Border security
+* Competing governance philosophies
+* Industrial competition
 
-- Aristocratic tribunal proceedings
-- Archive system modernization
-- Preservation of cultural continuity
-- Removal of feudal rigidity
+---
 
-Depcutland gradually transitions toward a hybrid archival-meritocratic structure.
+## **1048 BAC — Neiput Border Crisis**
 
-### 1010 BAC — Ceasefire and Troncut Treaty
+Tensions between:
 
-The **Troncut Treaty** formally establishes division and stability between Reltronland and Depcutland.
+* Cutneiput
+* Troneiput
 
-Terms and outcomes:
+develop into armed confrontation.
 
-- Reltronland gains complete independence under a meritocratic government
-- Depcutland gains full autonomy while preserving classical Depeisit traditions
-- Reiweston Bay remains an ideological faultline
-- The treaty becomes the foundation of modern stability
+The border becomes:
+
+* military,
+* economic,
+* ideological,
+
+rather than merely administrative.
+
+---
+
+## **1047 BAC — Reiweston Bay Trade Crisis**
+
+A merchant vessel is intercepted.
+
+The incident triggers:
+
+* diplomatic collapse,
+* maritime escalation,
+* strategic naval deployment.
+
+Reiweston Bay becomes the principal ideological faultline between the two civilizations.
+
+---
+
+## **1045 BAC — Rathroper Industrial Incident**
+
+Disputes over mineral exploitation and industrial logistics erupt into armed clashes.
+
+The conflict expands from border security into resource competition.
+
+---
+
+## **1042–1039 BAC — Strategic Infrastructure Campaign**
+
+Both sides increasingly prioritize strategic infrastructure over civilian centers.
+
+Major military operations focus on:
+
+* Industrial production
+* Supply chains
+* Logistics hubs
+* Air superiority
+* Radar networks
+* Missile defense systems
+
+One of the most dangerous campaigns centers around Depcutland's nuclear-industrial corridor in eastern Neiput, where both civilizations deliberately avoid triggering catastrophic nuclear failure despite intense military operations.
+
+---
+
+## **1038–1036 BAC — Monetary Collapse & Civil Unrest**
+
+The Aristocratic Depcutland currency (**$DPA**) experiences hyperinflation.
+
+Combined with:
+
+* embargoes,
+* supply chain disruption,
+* lingering effects of the Depeisit crisis,
+
+the economy enters systemic collapse.
+
+Mass demonstrations emerge across Depcutland.
+
+---
+
+# 🌌 Internal Reform & Regime Collapse
+
+## **1035–1032 BAC — Merit Reform Movement**
+
+A broad coalition gradually forms.
+
+It consists of:
+
+* Pro-merit reformists
+* Anti-feudal demonstrators
+* Separatist intellectuals
+* Independent technocrats
+* Civic organizations
+
+Reltronland intelligence quietly supports selected strategic operations through intelligence gathering and covert coordination, while the reform movement itself remains fundamentally Depcutland-led.
+
+---
+
+## **1032–1031 BAC — Collapse of the Aristocratic Regime**
+
+The aristocratic-feudal government loses legitimacy.
+
+The coalition succeeds in dismantling the governing structure.
+
+However,
+
+their objective is not to destroy Depcutland—
+
+it is to remove the feudal system.
+
+---
+
+## **1031 BAC — Institutional Integrity Assessment**
+
+Rather than dismantling every institution,
+
+the coalition begins auditing major national organizations.
+
+Many institutions closely tied to aristocratic rule are dissolved.
+
+However, two institutions become extraordinary exceptions.
+
+### Grand Library of Depcutland
+
+Comprehensive audits reveal:
+
+* centuries of custodial neutrality,
+* international credibility,
+* protection of third-party archives,
+* no evidence of political manipulation,
+* no unauthorized disclosure of entrusted records.
+
+Its reputation survives even the fall of the regime.
+
+---
+
+### CBC (Cutneiput Banking Corporation)
+
+Investigations similarly conclude that CBC is:
+
+* privately owned,
+* technocratically governed,
+* financially independent,
+* structurally separate from aristocratic political control.
+
+Its financial infrastructure continues operating despite the regime's collapse, preserving civilian deposits and economic continuity. This later allows CBC to evolve into TCBC after the post-war restructuring. 
+
+---
+
+## **1031 BAC — First Institutional Ceasefire**
+
+Following these discoveries,
+
+both the reform coalition and Reltronland recognize that certain institutions represent civilization itself rather than the fallen regime.
+
+Limited ceasefires emerge around critical institutions including:
+
+* Grand Library
+* CBC financial infrastructure
+
+This marks the first meaningful de-escalation of the war.
+
+---
+
+# 🕊️ Reconstruction Era
+
+## **1030–1010 BAC — Reconstruction & Merit Archival Transition**
+
+The new Merit Archival government begins rebuilding Depcutland.
+
+Key priorities include:
+
+* Eliminating feudal governance
+* Preserving trusted institutions
+* Restoring economic stability
+* Protecting archival neutrality
+* Rebuilding industrial capacity
+* Reforming public administration
+
+This period becomes the true foundation of modern Depcutland.
+
+---
+
+## **1010 BAC — Troncut Treaty**
+
+Reltronland and Depcutland formally normalize relations.
+
+The treaty recognizes:
+
+* mutual sovereignty,
+* permanent border arrangements,
+* institutional independence,
+* long-term economic cooperation.
+
+From this point onward,
+
+the rivalry between the two civilizations shifts away from military confrontation and toward peaceful competition in technology, governance, culture, and civilizational development.
+
+---
 
 ### 1010 BAC — Declaration of Independence
 
