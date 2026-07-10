@@ -95,14 +95,6 @@ Tronexus V-Class is modular and scalable. It is the only RSC ship class authoriz
 
 ---
 
-## 🪐 Deployment History Highlights
-
-* **Year 2 AC:** First deployment over Kalgered Bay to mediate Spiral surge aftermath
-* **Year 11 AC:** Used in diplomatic escort mission between Cistheta and Cosmeilia
-* **Year 16 AC:** Led airfront defense in Battle of Reltronepolis
-
----
-
 > "One ship to shield the many. One bridge between worlds."
 > — Commander Linthros, Tronexus V-Class Officer
 
