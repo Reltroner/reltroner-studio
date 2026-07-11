@@ -406,15 +406,19 @@ Depcutland receives a massive influx of:
 * Displaced aristocratic families
 * Institutional loyalists
 
-While many newcomers genuinely seek safety, segments of the former Depeisit aristocracy gradually rebuild influence within Depcutland's political institutions.
+While many newcomers genuinely seek safety and continuity, portions of the former Depeisit elite gradually rebuild political influence inside Depcutland's governing institutions.
 
-This marks the beginning of the long-term ideological divergence between Reltronland and Depcutland.
+This becomes the origin of the long-term strategic divergence between Reltronland and Depcutland.
+
+For Reltronland, the crisis becomes a permanent historical warning:
+
+> **"Never another Depeisit."**
 
 ---
 
 ## **1056–1055 BAC — Institutional Capture Period**
 
-Former aristocratic elites from Depeisit begin expanding their influence through:
+Former Depeisit elites gradually consolidate influence through:
 
 * Administrative appointments
 * Political patronage
@@ -422,9 +426,11 @@ Former aristocratic elites from Depeisit begin expanding their influence through
 * Elite family networks
 * Bureaucratic consolidation
 
-Reltronland's early intelligence services detect structural similarities between these emerging networks and those believed to have contributed to the Depeisit Economic Crisis.
+Reltronland's intelligence services begin identifying structural similarities between these emerging power networks and those responsible for the Depeisit Economic Crisis.
 
-For Reltronland, the concern is no longer migration itself—but the gradual re-emergence of the governance patterns that had destabilized Depeisit.
+For Reltronland, the concern is no longer migration itself.
+
+The concern becomes the gradual re-emergence of institutional capture.
 
 ---
 
@@ -442,8 +448,14 @@ Core philosophy:
 
 * Meritocracy
 * Institutional independence
-* Anti-feudal governance
+* Anti-nepotism
+* Anti-corruption
+* Anti-collusion
 * Economic self-reliance
+
+Its guiding belief:
+
+> Civilization collapses when institutions become captured.
 
 ---
 
@@ -453,9 +465,17 @@ Core philosophy:
 
 Led by **Vardik Glouster**
 
-Originally advocating greater autonomy from Depeisit, the movement gradually fractures between reformists and aristocratic conservatives as political tensions intensify.
+Originally advocating greater autonomy from Depeisit, the movement gradually fractures between:
 
-Both movements seek stability—but propose fundamentally different civilizational models.
+* Reformists
+* Aristocratic conservatives
+* Civic nationalists
+* Institutional loyalists
+* Pro-merit intellectuals
+
+Both civilizations seek stability—
+
+but propose fundamentally different paths toward preserving civilization.
 
 ---
 
@@ -469,26 +489,35 @@ Reltronland increases surveillance of:
 * Immigration channels
 * Administrative cooperation
 
-Growing concern centers on the possibility that aristocratic influence from Depeisit is beginning to reshape Depcutland's governing institutions.
+Growing concern centers on aristocratic influence inherited from Depeisit and its effect on Depcutland's governing institutions.
 
-Reltronland fears not merely political disagreement—but the recurrence of the systemic failures that once destabilized Depeisit.
+Reltronland fears not merely political disagreement—
+
+but the recurrence of systemic institutional failure.
+
+Depcutland increasingly interprets these actions as political interference and strategic intimidation.
 
 ---
 
 ## **1049 BAC — Trade and Industry Blockade**
 
-Following years of escalating intelligence assessments,
+Following years of intelligence assessments,
 
-Reltronland imposes a strategic embargo targeting sectors believed to strengthen aristocratic power within Depcutland.
+Reltronland imposes a strategic embargo targeting sectors believed to strengthen captured aristocratic networks inside Depcutland.
 
 Objectives include:
 
 * Reducing strategic dependence
-* Limiting industrial expansion linked to aristocratic networks
+* Limiting industrial expansion tied to captured institutions
 * Preventing ideological penetration
-* Protecting domestic institutional integrity
+* Protecting institutional integrity
+* Preventing another Depeisit-scale collapse
 
-Depcutland interprets the embargo as an existential attack on its sovereignty.
+Depcutland interprets the embargo as:
+
+* An attack on sovereignty
+* An attack on economic independence
+* An attack on national dignity
 
 Diplomatic trust rapidly deteriorates.
 
@@ -503,13 +532,25 @@ Political confrontation evolves into a prolonged geopolitical, economic, and mil
 The war is driven by multiple overlapping factors:
 
 * Fear of repeating the Depeisit collapse
-* Institutional capture concerns
+* Institutional capture
 * Trade embargoes
 * Resource insecurity
 * Administrative sovereignty disputes
 * Border security
-* Competing governance philosophies
+* Competing governance models
 * Industrial competition
+
+Initially,
+
+the conflict is experienced as:
+
+> **Reltronland vs Depcutland**
+
+As the war progresses,
+
+its political meaning gradually transforms into:
+
+> **Merit Coalition vs Captured Aristocratic Regime**
 
 ---
 
@@ -520,13 +561,14 @@ Tensions between:
 * Cutneiput
 * Troneiput
 
-develop into armed confrontation.
+escalate into armed confrontation.
 
-The border becomes:
+The border becomes simultaneously:
 
-* military,
-* economic,
-* ideological,
+* Military
+* Economic
+* Political
+* Ideological
 
 rather than merely administrative.
 
@@ -538,11 +580,11 @@ A merchant vessel is intercepted.
 
 The incident triggers:
 
-* diplomatic collapse,
-* maritime escalation,
-* strategic naval deployment.
+* Diplomatic collapse
+* Maritime escalation
+* Strategic naval deployment
 
-Reiweston Bay becomes the principal ideological faultline between the two civilizations.
+Reiweston Bay becomes the principal geopolitical faultline between both civilizations.
 
 ---
 
@@ -550,13 +592,13 @@ Reiweston Bay becomes the principal ideological faultline between the two civili
 
 Disputes over mineral exploitation and industrial logistics erupt into armed clashes.
 
-The conflict expands from border security into resource competition.
+The conflict expands from border security into industrial and strategic resource competition.
 
 ---
 
 ## **1042–1039 BAC — Strategic Infrastructure Campaign**
 
-Both sides increasingly prioritize strategic infrastructure over civilian centers.
+Both civilizations increasingly prioritize strategic infrastructure rather than civilian population centers.
 
 Major military operations focus on:
 
@@ -567,23 +609,34 @@ Major military operations focus on:
 * Radar networks
 * Missile defense systems
 
-One of the most dangerous campaigns centers around Depcutland's nuclear-industrial corridor in eastern Neiput, where both civilizations deliberately avoid triggering catastrophic nuclear failure despite intense military operations.
+One of the most dangerous campaigns centers around Depcutland's nuclear-industrial corridor in eastern Neiput.
+
+Despite intense fighting,
+
+both civilizations deliberately avoid catastrophic nuclear escalation, recognizing that civilization-scale destruction would undermine the future they both sought to protect.
 
 ---
 
 ## **1038–1036 BAC — Monetary Collapse & Civil Unrest**
 
-The Aristocratic Depcutland currency (**$DPA**) experiences hyperinflation.
+The Aristocratic Depcutland currency (**$DPA**) enters hyperinflation.
 
 Combined with:
 
-* embargoes,
-* supply chain disruption,
-* lingering effects of the Depeisit crisis,
+* Embargoes
+* Supply-chain disruption
+* Lingering effects of the Depeisit crisis
+* Industrial instability
+* Declining public confidence
 
 the economy enters systemic collapse.
 
 Mass demonstrations emerge across Depcutland.
+
+Increasing numbers of citizens begin distinguishing between:
+
+* Depcutland as a nation
+* The captured aristocratic regime governing it
 
 ---
 
@@ -591,7 +644,7 @@ Mass demonstrations emerge across Depcutland.
 
 ## **1035–1032 BAC — Merit Reform Movement**
 
-A broad coalition gradually forms.
+A broad coalition gradually forms inside Depcutland.
 
 It consists of:
 
@@ -601,7 +654,15 @@ It consists of:
 * Independent technocrats
 * Civic organizations
 
-Reltronland intelligence quietly supports selected strategic operations through intelligence gathering and covert coordination, while the reform movement itself remains fundamentally Depcutland-led.
+Reltronland intelligence quietly supports selected strategic operations through intelligence gathering and covert coordination.
+
+However,
+
+the reform movement remains fundamentally **Depcutland-led**.
+
+Its objective is not national surrender—
+
+but national recovery.
 
 ---
 
@@ -609,13 +670,19 @@ Reltronland intelligence quietly supports selected strategic operations through 
 
 The aristocratic-feudal government loses legitimacy.
 
-The coalition succeeds in dismantling the governing structure.
+The coalition dismantles the captured governing structure.
 
-However,
+Their objective is not to destroy Depcutland—
 
-their objective is not to destroy Depcutland—
+but to eliminate:
 
-it is to remove the feudal system.
+* Institutional capture
+* Nepotism
+* Collusion
+* Corruption
+* Aristocratic patronage
+
+while preserving the nation itself.
 
 ---
 
@@ -623,36 +690,40 @@ it is to remove the feudal system.
 
 Rather than dismantling every institution,
 
-the coalition begins auditing major national organizations.
+the reform coalition conducts nationwide institutional audits.
 
-Many institutions closely tied to aristocratic rule are dissolved.
+Many organizations tied to captured political power are dissolved.
 
-However, two institutions become extraordinary exceptions.
+However,
+
+two institutions become extraordinary exceptions.
 
 ### Grand Library of Depcutland
 
-Comprehensive audits reveal:
+Comprehensive audits confirm:
 
-* centuries of custodial neutrality,
-* international credibility,
-* protection of third-party archives,
-* no evidence of political manipulation,
-* no unauthorized disclosure of entrusted records.
+* Custodial neutrality
+* International credibility
+* Protection of third-party archives
+* No political manipulation
+* No unauthorized disclosure of entrusted knowledge
 
-Its reputation survives even the fall of the regime.
+The Grand Library is recognized as a civilizational institution rather than an instrument of the former regime.
 
 ---
 
 ### CBC (Cutneiput Banking Corporation)
 
-Investigations similarly conclude that CBC is:
+Investigations conclude that CBC is:
 
-* privately owned,
-* technocratically governed,
-* financially independent,
-* structurally separate from aristocratic political control.
+* Privately owned
+* Technocratically governed
+* Financially independent
+* Structurally separate from aristocratic political control
 
-Its financial infrastructure continues operating despite the regime's collapse, preserving civilian deposits and economic continuity. This later allows CBC to evolve into TCBC after the post-war restructuring. 
+CBC continues protecting civilian deposits and financial continuity throughout the regime's collapse.
+
+It later evolves into **TCBC** during post-war reconstruction.
 
 ---
 
@@ -662,12 +733,12 @@ Following these discoveries,
 
 both the reform coalition and Reltronland recognize that certain institutions represent civilization itself rather than the fallen regime.
 
-Limited ceasefires emerge around critical institutions including:
+Limited ceasefires emerge around:
 
 * Grand Library
 * CBC financial infrastructure
 
-This marks the first meaningful de-escalation of the war.
+This becomes the first meaningful de-escalation of the war.
 
 ---
 
@@ -679,12 +750,14 @@ The new Merit Archival government begins rebuilding Depcutland.
 
 Key priorities include:
 
-* Eliminating feudal governance
+* Eliminating institutional capture
+* Eliminating hereditary political privilege
 * Preserving trusted institutions
 * Restoring economic stability
 * Protecting archival neutrality
 * Rebuilding industrial capacity
 * Reforming public administration
+* Maintaining cultural continuity
 
 This period becomes the true foundation of modern Depcutland.
 
@@ -696,14 +769,23 @@ Reltronland and Depcutland formally normalize relations.
 
 The treaty recognizes:
 
-* mutual sovereignty,
-* permanent border arrangements,
-* institutional independence,
-* long-term economic cooperation.
+* Mutual sovereignty
+* Permanent border arrangements
+* Institutional independence
+* Long-term economic cooperation
 
-From this point onward,
+The rivalry between both civilizations transitions away from military confrontation and toward peaceful competition in:
 
-the rivalry between the two civilizations shifts away from military confrontation and toward peaceful competition in technology, governance, culture, and civilizational development.
+* Technology
+* Governance
+* Culture
+* Economic development
+* Institutional excellence
+* Civilizational progress
+
+The war ends not because either civilization is destroyed,
+
+but because both recognize that preserving civilization is ultimately more important than prolonging conflict.
 
 ---
 

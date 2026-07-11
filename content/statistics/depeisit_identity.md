@@ -45,7 +45,7 @@ Depeisit is a once-glorious planet, now spiritually stagnant—an empire of comf
 ---
 
 ## 🌀 Philosophical State
-- Deeply aligned with **Blue Pill Extreme** ideology
+- Deeply aligned with **Aristocrat** ideology
 - Rejects radical change, embraces illusion of order
 - Defines peace as **predictability, routine, and non-interruption**
 
@@ -99,10 +99,6 @@ Nytherion does not demand faith. It thrives in stagnation.
 ---
 
 ## 🧠 Societal Symptoms
-
-### 🔹 Trait: Low Birth Rate
-- **Depeisit:** ✅
-- **Nytherion Abyss:** ✅
 
 ### 🔹 Trait: Fear of Discomfort
 - **Depeisit:** ✅

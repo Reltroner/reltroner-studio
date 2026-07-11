@@ -100,4 +100,4 @@ Tronexus V-Class is modular and scalable. It is the only RSC ship class authoriz
 
 ---
 
-**© 2025 Reltroner Studio | Reltronland Space Command (RSC)**
+**© 2026 Reltroner Studio | Reltronland Space Command (RSC)**
