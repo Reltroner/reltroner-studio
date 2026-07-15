@@ -20,7 +20,7 @@ export default function FeaturedKnowledgeBridge() {
                   {/* Thumbnail Area - CSS Fallback */}
                   <div className={`h-28 w-full bg-gradient-to-br ${card.gradient} relative flex items-center justify-center border-b border-white/5`}>
                     <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.08),transparent_56%)] mix-blend-overlay"></div>
-                    <span className="text-5xl font-black text-white/10 uppercase tracking-widest">{card.name.substring(0, 2)}</span>
+                    <span className="text-5xl font-black text-white/10 uppercase tracking-widest">{card.initials || card.name.substring(0, 2)}</span>
                   </div>
                   
                   {/* Content Area */}

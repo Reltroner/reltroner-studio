@@ -30,6 +30,9 @@ export const knowledgeNavigation: NavigationItem[] = [
   { name: 'Cultures', href: '/cultures' },
   { name: 'Events', href: '/events' },
   { name: 'Series', href: '/series' },
+  { name: 'Research', href: '/research' },
+  { name: 'Music', href: '/music' },
+  { name: 'Video', href: '/video' },
   { name: 'Disclaimer', href: '/blog/disclaimer' },
 ];
 

@@ -1,11 +1,10 @@
-import { knowledgeNavigation } from './navigation';
-
 export interface KnowledgeCardMeta {
   name: string;
   href: string;
   description: string;
   accent: string;
   gradient: string;
+  initials?: string;
 }
 
 export const KNOWLEDGE_CARDS: KnowledgeCardMeta[] = [
@@ -120,6 +119,30 @@ export const KNOWLEDGE_CARDS: KnowledgeCardMeta[] = [
     description: 'Story arcs, collections, and media series.',
     accent: 'Collection',
     gradient: 'from-fuchsia-900/40 to-slate-900/80',
+  },
+  {
+    name: 'Research',
+    href: '/research',
+    description: 'Structured studies, references, analysis, and research archives.',
+    accent: 'RESEARCH',
+    gradient: 'from-blue-950/40 to-slate-900/80',
+    initials: 'RS',
+  },
+  {
+    name: 'Music',
+    href: '/music',
+    description: 'Soundtrack concepts, musical themes, and audio identity archives.',
+    accent: 'MUSIC',
+    gradient: 'from-indigo-950/40 to-slate-900/80',
+    initials: 'MU',
+  },
+  {
+    name: 'Video',
+    href: '/video',
+    description: 'Cinematic concepts, video prompts, trailers, and production archives.',
+    accent: 'VIDEO',
+    gradient: 'from-violet-950/40 to-slate-900/80',
+    initials: 'VD',
   },
   {
     name: 'Disclaimer',

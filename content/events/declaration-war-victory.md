@@ -32,10 +32,6 @@ After decades of tensions, border conflicts, and economic embargoes, the declara
 - **Reltronland:** Victory, diplomatic dominance.
 - **Depcutland:** Forced retreat, internal instability.
 
-### 👥 Population Structure
-- **Reltronland:** Youthful surge, expanding meritocracy.
-- **Depcutland:** Aging aristocracy, stagnant in birth rate.
-
 ### 🎯 Strategic Focus
 - **Reltronland:** Knowledge supremacy, economic rebuilding.
 - **Depcutland:** Philosophical reformation, cultural literacy preservation.

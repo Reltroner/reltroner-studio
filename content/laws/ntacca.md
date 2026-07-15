@@ -1,7 +1,6 @@
 ---
 title: "💼 No-Tipping & Anti-Charity Commercial Act (NTACCA)"
 description: "A Reltronland regulation banning tips and charity prompts in all commercial environments to uphold meritocracy, clarity, and economic dignity."
-slug: "ntacca"
 image: "/images/clarity-politics-reltronland.webp"
 date: "2025-05-18"
 published: true

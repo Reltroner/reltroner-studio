@@ -11,9 +11,12 @@ export type ContentCollectionKey =
   | "philosophies"
   | "places"
   | "principles"
+  | "research"
   | "series"
   | "statistics"
-  | "technologies";
+  | "technologies"
+  | "music"
+  | "video";
 
 export interface ContentCollectionDefinition {
   key: ContentCollectionKey;
