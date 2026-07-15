@@ -291,5 +291,3 @@ Let my footsteps find the doors.
 Let my silence become momentum.
 
 **— Rei Reltroner**
-
-
