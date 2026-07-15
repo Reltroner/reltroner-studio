@@ -1,7 +1,7 @@
 ---
 title: "Barry Heathrow"
 description: "Senior flight attendant, aviation intelligence specialist, and guardian of the open skies whose mastery of mobility systems makes him one of Asthortera’s most valuable observers of hidden civilizational threats."
-image: "/images/barry-heathrow.webp"
+image: "/images/barry-heathrow1.webp"
 author: "Rei Reltroner"
 date: "2026-06-03"
 published: true
@@ -16,6 +16,8 @@ tags:
   - Transportation
   - Aviation
 ---
+
+![barry-heathrow](/images/barry-heathrow.webp)
 
 # ✈️ BARRY HEATHROW
 

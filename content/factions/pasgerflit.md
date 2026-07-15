@@ -26,6 +26,8 @@ tags:
 ![pasgerflit2](/images/pasgerflit2.webp)
 ![pasgerflit3](/images/pasgerflit3.webp)
 ![pasgerflit-rhythm-heaven.webp](/images/pasgerflit-rhythm-heaven.webp)
+![pasgerflit-development-preview.webp](/images/pasgerflit-development-preview.webp)
+![pasgerflit-the-tarmac-waltz.webp](/images/pasgerflit-the-tarmac-waltz.webp)
 ![pasgerflitball](/images/pasgerflitball.webp)
 
 <video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
