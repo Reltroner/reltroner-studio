@@ -1,13 +1,20 @@
 ---
 title: "Reltronland — Country Profile"
-description: "The ideological embodiment of Astralis Pinnacle — a disciplined apex superpower built on cyber-meritocracy, sentient development, structural clarity, and the rejection of illusion."
+description: "An upgraded canonical country profile of Reltronland: the Astralis Pinnacle civilization of clarity, cyber-meritocracy, anti-capture doctrine, sentient development, structural sovereignty, RSC autonomy, and disciplined growth within Asthortera."
 image: "/images/reltronland-cover.webp"
 author: "Rei Reltroner"
-date: "2026-06-12"
-lastUpdated: "2026-06-09"
+date: "2025-04-12"
+lastUpdated: "2026-07-16"
 published: true
 world: "Asthortera"
 category: "Apex Superpower Nation-Faction"
+sourceOfTruth:
+  - "Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization"
+  - "Reltroner Studio Historical Timeline: Asthortera, Reltronland, and Depcutland"
+  - "Origins of Reltronland"
+  - "The True Purpose Behind Depcutland’s Founding"
+canonicalStatus: "Upgraded country profile aligned with current Reltroner Studio Asthortera canon"
+chronologyStandard: "BAC/AC as a meta-chronology and historical translation layer"
 ---
 
 ![reltronland1](/images/reltronland1.webp)
@@ -54,6 +61,28 @@ The rest of the profile is reorganized for deterministic causal logic.
 
 ---
 
+## Latest Canon Upgrade — 2026-07-16
+
+This upgraded edition preserves the existing country profile while integrating the newest canon from the **Twin Pillars**, **Historical Timeline**, **Origins of Reltronland**, and **Depcutland Founding** documents.
+
+The most important canon upgrades are:
+
+- **Reltronland's origin is now timeline-aligned** with the Depeisit Colonial Era, the 1177 BAC Red Pill settlement wave, the 1125 BAC formal foundation in Rathroper by Troner Rhett, and the 1122 BAC birth of Erhard Rhett.
+- **Reltronland's war logic is now framed as anti-capture, not anti-Depcutland.**
+- **The Reltronland–Depcutland War is no longer reduced to meritocracy versus feudalism.** The mature framing is **Institutional Integrity vs Institutional Capture** and **Security-driven Meritocracy vs Sovereignty-driven National Survival**.
+- **Reltronland's grand strategy now includes the Existential Risk Accumulation model**, where institutional capture, economic dependency, technology dependency, political influence, and governance capture are treated as one linked systems-chain risk.
+- **Reltronland's strategic technology doctrine is now canonically explicit:**  
+  > **No strategic technology shall become the foundation of a captured state.**
+- **Depcutland is now treated as a sovereign twin pillar rather than a defeated puppet**, because its reform was ultimately Depcutland-led and its protected civilizational institutions survived the regime collapse.
+- **The Troncut Treaty of 1010 BAC now functions as a major constitutional and geopolitical endpoint** for Reltronland's early anti-capture arc.
+- **RSC chronology is now aligned** with the Late Orbital Governance Era: ASC formation in 197 BAC, RSC foundation in 47 BAC, Voidgate Conflict in 43 BAC, Astralis Sovereignty Act in 39 BAC, Doctrinal Rift in 34 BAC, and Treaty of Cyrelyn in 29 BAC.
+
+The upgraded profile therefore presents Reltronland not merely as a rich or powerful state, but as a civilization whose entire structure was shaped by one historical conviction:
+
+> **No captured institution should be allowed to govern the future.**
+
+---
+
 ## Table of Contents
 
 1. National Definition  
@@ -81,8 +110,13 @@ The rest of the profile is reorganized for deterministic causal logic.
 23. Sovereign Digital Nation Layer  
 24. Strategic Behavior and Foreign Relations  
 25. Core Conflict Themes  
-26. Final Canon Summary  
-27. Navigation Links  
+26. Current Canon Integration Layer  
+27. Origin and Timeline Alignment  
+28. Reltronland–Depcutland Strategic Doctrine  
+29. Post-War Order and Twin Pillars Role  
+30. RSC Chronology Alignment  
+31. Final Canon Summary  
+32. Navigation Links  
 
 ---
 
@@ -321,6 +355,40 @@ Reltronland is structured for:
 
 # 9. Historical Overview
 
+## Canonical Timeline Alignment
+
+The updated Reltroner Studio chronology places Reltronland inside a broader historical structure rather than treating it as a stand-alone superpower with an isolated origin.
+
+The relevant timeline is:
+
+```md
+1211–1121 BAC — Depeisit Colonial Era
+1211 BAC — First Depeisit Wave across Asthortera
+1177 BAC — Major Red Pill settlement wave in Rathroper
+1125 BAC — Formal foundation of Reltronland in Rathroper by Troner Rhett
+1122 BAC — Birth of Erhard Rhett
+1057 BAC — Depeisit Economic Crisis
+1055 BAC — Konsorsium Reltron emerges under Erhard Rhett
+1049 BAC — Trade and Industry Blockade
+1048–1030 BAC — Reltronland–Depcutland War
+1031 BAC — Institutional Integrity Assessment and First Institutional Ceasefire
+1010 BAC — Troncut Treaty and full post-war normalization
+47 BAC — Foundation of Reltronland Space Command
+39 BAC — Astralis Sovereignty Act
+29 BAC — Treaty of Cyrelyn
+0 AC — Opening of The Abyss of Comfort
+```
+
+This means Reltronland's profile should be read across three layers:
+
+1. **Founding Layer** — coexistence between Depeisit Red Pill pioneers and Beluftner rebel descendants in Rathroper.
+2. **Anti-Capture Layer** — the historical response to Depeisit's institutional failure and Depcutland's captured aristocratic regime.
+3. **Astralis Layer** — the later transformation of Reltronland into an apex civilization resisting Nytherion, comfort-based decay, and cosmic stagnation.
+
+Reltronland is therefore not merely a nation that became powerful.
+
+It is a civilization that was designed, tested, and refined through successive confrontations with collapse.
+
 Reltronland is one of Asthortera's leading apex civilizations and one of the two Tier 1 sovereign powers on the planet.
 
 Originally established as a Depeisit colony, Reltronland diverged ideologically from its origin by rejecting aristocratic structures and embracing absolute meritocracy, structural sovereignty, and Red Pill Realism.
@@ -340,6 +408,25 @@ During the war, Reltronland adopted ROI-driven military strategy:
 - Preventing aristocratic knowledge consolidation.
 
 The war reshaped continental governance permanently.
+
+### Updated War Interpretation
+
+The current canon clarifies that this war should not be described as simple hatred between Reltronland and Depcutland.
+
+Reltronland's mature strategic target was not Depcutland's culture, archives, literature, philosophy, banking infrastructure, or civilizational dignity.
+
+The strategic target was:
+
+> **Captured governance architecture inherited from the Depeisit collapse.**
+
+The war began as **Reltronland vs Depcutland** at the public geopolitical layer, but gradually transformed into **Merit Coalition vs Captured Aristocratic Regime** as Depcutland's internal reformists separated the nation from its captured government.
+
+This distinction is important because Reltronland's victory did not erase Depcutland. It helped expose the captured layer that Depcutland reformists then dismantled from within.
+
+Reltronland's mature war principle became:
+
+> **Break capture without erasing civilization.**
+
 
 ## Post-War Competitive Order
 
@@ -1382,7 +1469,7 @@ Reltronland's official currency is `$REL`, but it will **not launch a crypto tok
 
 ## Allies
 
-- Depcutland, conditional.
+- Depcutland — stable rival, conditional ally, and twin-pillar counterpart after the Troncut Treaty.
 - Aurastelia.
 - Krisberia.
 
@@ -1437,6 +1524,8 @@ Reltronland's internal and external conflicts are defined by high-level civiliza
 - Progress vs stagnation.
 - Individual growth vs collective complacency.
 - Meritocracy vs inherited power.
+- Institutional integrity vs institutional capture.
+- Strategic independence vs captured dependency.
 - Structural clarity vs emotional illusion.
 - Recovery vs decay.
 - Sovereignty vs dependency.
@@ -1478,9 +1567,550 @@ Where Depcutland resists Abyss through memory preservation, Reltronland resists 
 
 ---
 
-# 26. Final Canon Summary
+
+# 26. Current Canon Integration Layer
+
+This section upgrades the profile with the newest canon logic from the broader Asthortera archive.
+
+Reltronland should now be understood as a civilization with four integrated identities:
+
+1. **Founding Civilization** — born from the fusion of Depeisit Red Pill pioneers and Beluftner rebel descendants in Rathroper.
+2. **Anti-Capture Civilization** — hardened by the Depeisit Economic Crisis and its refusal to let institutional corruption govern the future.
+3. **Cyber-Meritocratic Superpower** — organized through AI-supported fiscal systems, SDI governance, purpose-aligned labor, and structural clarity.
+4. **Astralis Sovereignty Civilization** — extended into RSC, voidfront autonomy, digital nation infrastructure, and anti-Nytherion resistance.
+
+The correct summary is:
+
+> **Reltronland began as coexistence, matured through anti-capture doctrine, and ascended through Astralis sovereignty.**
+
+---
+
+## Current Source-of-Truth Alignment
+
+The latest canon does not remove Reltronland's existing country-profile elements.
+
+Instead, it clarifies their deeper cause.
+
+| Existing Profile Element | Updated Canon Meaning |
+|---|---|
+| Cyber-Meritocratic Republic | Governance structure designed to prevent captured institutions |
+| Red Pill Realism | Cultural rejection of illusion, stagnation, and inherited status |
+| SDI 0.984 | Measurement of cognitive, emotional, civic, and institutional maturity |
+| Continuous CBD urbanization | Spatial expression of clarity, density, and synchronized productivity |
+| RSC autonomy | Outer-void continuation of strategic independence |
+| Depcutland rivalry | Stable twin-pillar tension, not permanent annihilation |
+| Anti-Abyss doctrine | Cosmic extension of anti-stagnation philosophy |
+| Digital nation layer | Repository-era sovereignty through systems, identity, and meritocratic contribution |
+
+---
+
+# 27. Origin and Timeline Alignment
+
+## 1211–1121 BAC — Depeisit Colonial Era
+
+Reltronland's roots begin during the broader Depeisit Colonial Era, when Depeisit influence spread across future Reltronland and Depcutland territories.
+
+However, Reltronland did not simply inherit Depeisit's civilization.
+
+It selectively transformed it.
+
+Depeisit gave Reltronland early exposure to:
+
+- meritocratic cultural models,
+- megastructure architecture,
+- advanced technology,
+- administrative systems,
+- interplanetary political habits,
+- and the danger of institutional overreach.
+
+Reltronland's mature identity emerged by accepting useful tools while rejecting captured hierarchy.
+
+---
+
+## 1177 BAC — Red Pill Settlement Wave in Rathroper
+
+The **1177 BAC Red Pill Exodus** remains canon as a major settlement wave rather than the formal legal foundation of the state.
+
+This wave brought over 250 million Depeisit Red Pill pioneers into Rathroper, where they encountered Beluftner rebel descendants already living on the land.
+
+The encounter did not become conquest.
+
+It became:
+
+- cautious contact,
+- shared labor,
+- agricultural cooperation,
+- infrastructure building,
+- language exchange,
+- intermarriage,
+- and the beginning of a mixed civic identity.
+
+This is why Reltronland's anti-feudal identity is not only ideological.
+
+It is also ancestral.
+
+Two wounded groups rejected inherited domination and built a new political culture through collaboration.
+
+---
+
+## 1125 BAC — Formal Foundation in Rathroper
+
+The formal foundation of Reltronland occurs in **1125 BAC**, when **Troner Rhett** establishes the early state structure in Rathroper.
+
+This corrects older interpretations that treated 1177 BAC as the founding itself.
+
+The better reading is:
+
+```text
+1177 BAC = settlement and coexistence wave
+1125 BAC = formal state foundation
+```
+
+Troner Rhett's role is not merely that of a founder by ambition.
+
+He becomes the first architect of a society designed around:
+
+- land-use ethics,
+- institutional clarity,
+- anti-feudal safeguards,
+- civic productivity,
+- public infrastructure,
+- and disciplined autonomy from old Depeisit patterns.
+
+---
+
+## 1122 BAC — Birth of Erhard Rhett
+
+**Erhard Rhett** becomes the bridge between the founding generation and Reltronland's later sovereignty movement.
+
+He inherits:
+
+- Troner Rhett's architectural and institutional vision,
+- the Beluftner rebel ethos of anti-stagnation,
+- the Red Pill pioneer rejection of false comfort,
+- and the emerging Reltronian instinct that civilization must be built through principle rather than bloodline.
+
+His later role in the **Konsorsium Reltron** turns the founding philosophy into organized political force.
+
+---
+
+## 1057 BAC — Depeisit Economic Crisis
+
+The Depeisit Economic Crisis becomes Reltronland's deepest historical warning.
+
+It proves, in Reltronland's interpretation, that a civilization can collapse when institutions are captured by:
+
+- nepotism,
+- collusion,
+- corruption,
+- patronage,
+- elite insulation,
+- and governance networks loyal to private power rather than public function.
+
+This event hardens Reltronland's identity from ordinary meritocracy into anti-capture civilization.
+
+Its unofficial historical principle becomes:
+
+> **Never another Depeisit.**
+
+---
+
+## 1055 BAC — Konsorsium Reltron
+
+Under **Erhard Rhett**, the **Konsorsium Reltron** emerges as a political and institutional movement.
+
+Its core commitments are:
+
+- meritocracy,
+- institutional independence,
+- anti-nepotism,
+- anti-corruption,
+- anti-collusion,
+- economic self-reliance,
+- and public systems protected from closed elite networks.
+
+This movement is the political ancestor of Reltronland's later cyber-meritocratic state logic.
+
+---
+
+# 28. Reltronland–Depcutland Strategic Doctrine
+
+## From Anti-Feudalism to Anti-Capture
+
+The mature canon no longer reduces Reltronland's strategic identity to:
+
+> **Reltronland is anti-feudal.**
+
+That is true, but incomplete.
+
+The deeper doctrine is:
+
+> **Reltronland is anti-capture.**
+
+Feudalism is treated as one possible vehicle of institutional capture, but the real enemy is broader:
+
+- captured governance,
+- captured bureaucracy,
+- captured markets,
+- captured science,
+- captured education,
+- captured courts,
+- captured strategic technology,
+- captured cultural legitimacy,
+- and captured public institutions.
+
+This is why Reltronland does not define its mission as destroying old culture.
+
+It defines its mission as preventing corrupted structures from inheriting the future.
+
+---
+
+## Existential Risk Accumulation Framework
+
+Reltronland does not analyze threats as isolated events.
+
+It analyzes them as systems chains.
+
+Its strategic model during the Depcutland crisis can be summarized as:
+
+```text
+Depeisit Economic Crisis
+
+↓
+
+Institutional Capture
+
+↓
+
+Economic Dependency
+
+↓
+
+Technology Dependency
+
+↓
+
+Political Influence
+
+↓
+
+Governance Capture
+
+↓
+
+Civilizational Collapse
+```
+
+From Reltronland's perspective, diplomacy alone became insufficient once trade, technology flow, aristocratic influence, economic dependency, and strategic infrastructure began reinforcing one another.
+
+This is why Reltronland interpreted war as a catastrophic choice, but not necessarily the most catastrophic choice.
+
+The strategic comparison was:
+
+```text
+Diplomacy
+
+↓
+
+Trade Continues
+
+↓
+
+Economic Dependence Continues
+
+↓
+
+Captured Regime Strengthens
+
+↓
+
+War Later
+
+↓
+
+Higher Long-Term Cost
+```
+
+versus:
+
+```text
+Military Intervention
+
+↓
+
+High Cost Today
+
+↓
+
+Captured Regime Removed Earlier
+
+↓
+
+Lower Long-Term Risk
+```
+
+Reltronland did not see this as emotional aggression.
+
+It saw it as systems-level containment.
+
+But this was Reltronland's interpretation, not objective universal truth.
+
+---
+
+## Strategic Technology Doctrine
+
+The current canon gives Reltronland a formal strategic technology doctrine:
+
+> **No strategic technology shall become the foundation of a captured state.**
+
+This doctrine explains:
+
+- export restrictions,
+- strategic embargoes,
+- surveillance of technology transfer,
+- monitoring of corporate activity,
+- limits on dual-use systems,
+- military targeting of strategic infrastructure,
+- and resistance to economic dependency on captured regimes.
+
+This doctrine does not mean Reltronland rejects all foreign exchange.
+
+It means Reltronland refuses to let its highest strategic systems become the engine of a government it believes is institutionally captured.
+
+---
+
+## Three Languages of War
+
+Reltronland's war narrative operates at three levels.
+
+### Civilian Narrative
+
+A Reltronland civilian or soldier might say:
+
+> **"They bring corruption."**  
+> **"We must not become another Depeisit."**
+
+This language is simplified but not meaningless.
+
+It compresses complex institutional risk into a morale-level narrative.
+
+### Officer Narrative
+
+Reltronland officers and commanders may speak in terms of:
+
+- governance risk,
+- institutional penetration,
+- economic security,
+- strategic dependency,
+- border resilience,
+- and technology capture.
+
+### Elite Narrative
+
+At the elite level, presidents, councils, defense ministers, and strategic architects use more abstract language:
+
+- captured governance architecture,
+- institutional capture,
+- systemic patronage networks,
+- civilizational instability vector,
+- governance contamination risk,
+- recursive collapse mechanism.
+
+These layers are not simply propaganda versus truth.
+
+They are different abstraction levels describing the same conflict.
+
+---
+
+# 29. Post-War Order and Twin Pillars Role
+
+## 1031 BAC — Institutional Integrity Assessment
+
+A major turning point occurs when institutional audits identify that some Depcutland institutions are not merely extensions of the captured aristocratic regime.
+
+Two institutions become critical:
+
+1. **The Grand Library of Depcutland**
+2. **CBC / Cutneiput Banking Corporation**
+
+These prove that:
+
+> **A political regime and a civil institution are not automatically the same entity.**
+
+This discovery forces Reltronland to refine its own doctrine.
+
+If Reltronland destroys everything old, it becomes another form of domination.
+
+If Depcutland preserves everything old, it preserves the disease that caused collapse.
+
+The mature balance becomes:
+
+> **Break capture without erasing civilization.**
+
+---
+
+## 1010 BAC — Troncut Treaty
+
+The **Troncut Treaty** completes the early Reltronland–Depcutland conflict arc.
+
+Its importance for Reltronland is not only military victory.
+
+It establishes that Reltronland can win without becoming an occupying empire.
+
+The treaty creates:
+
+- recognition of sovereignty,
+- permanent border realignment,
+- demilitarization and oversight,
+- supervised Troneiput transition,
+- economic reopening,
+- political guarantees,
+- and recognition of both civilizational paths.
+
+Reltronland's victory is therefore restrained.
+
+Depcutland's survival is also real.
+
+This creates the modern twin-pillar order.
+
+---
+
+## Modern Relationship with Depcutland
+
+Depcutland is not a permanent enemy.
+
+It is a stable rival, conditional partner, and philosophical counterweight.
+
+Reltronland represents:
+
+> **Clarity that prevents collapse.**
+
+Depcutland represents:
+
+> **Memory that preserves meaning.**
+
+Together, they become two pillars of Asthortera's civilizational balance:
+
+- Reltronland pressures civilization to move forward.
+- Depcutland prevents civilization from forgetting why it matters.
+- Reltronland resists captured systems.
+- Depcutland preserves trustworthy institutions.
+- Reltronland builds trajectory.
+- Depcutland preserves meaning.
+
+Their rivalry is no longer primarily military.
+
+It is now expressed through:
+
+- SDI competition,
+- technology,
+- governance,
+- culture,
+- education,
+- economic modernization,
+- institutional credibility,
+- and philosophical influence.
+
+---
+
+# 30. RSC Chronology Alignment
+
+The Reltronland Space Command is not an isolated late-stage military institution.
+
+It is the orbital and interstellar continuation of Reltronland's older doctrine:
+
+> **Sovereignty requires structural independence.**
+
+The current historical timeline places the RSC arc as follows:
+
+```md
+197 BAC — Formation of Asthortera Space Command
+47 BAC — Founding of Reltronland Space Command
+43 BAC — Voidgate Conflict
+39 BAC — Astralis Sovereignty Act
+34 BAC — Doctrinal Rift
+29 BAC — Treaty of Cyrelyn
+```
+
+## 197 BAC — Asthortera Space Command
+
+The **Asthortera Space Command** begins as a global cooperative organization for orbital exploration and lunar research.
+
+Reltronland participates, but dissatisfaction grows because ASC becomes too cautious, bureaucratic, and misaligned with Reltronland's accelerated voidfront doctrine.
+
+---
+
+## 47 BAC — Founding of Reltronland Space Command
+
+Reltronland establishes the **Reltronland Space Command** as its sovereign voidfront and interstellar arm.
+
+RSC embodies:
+
+- Astralis Pinnacle,
+- clarity,
+- sentient evolution,
+- strategic realism,
+- sovereign exploration,
+- and refusal of stagnant orbital bureaucracy.
+
+---
+
+## 43 BAC — Voidgate Conflict
+
+The **Voidgate Conflict** begins the collapse of unified orbital governance.
+
+ASC attempts to block a classified RSC exploratory fleet near the Cryven Hyperspace Gate.
+
+No shots are fired, but the event becomes a symbolic rupture between cooperative orbital governance and Reltronian strategic autonomy.
+
+---
+
+## 39 BAC — Astralis Sovereignty Act
+
+The **Astralis Sovereignty Act** declares that all RSC operations beyond planetary orbit are free from ASC oversight.
+
+This is the legal foundation of RSC autonomy.
+
+It also explains why RSC is financially and operationally independent from the ordinary Reltronland state budget.
+
+---
+
+## 34 BAC — Doctrinal Rift
+
+ASC formally rejects:
+
+- AI-sentient command logic,
+- Red Pill protocols,
+- Reltronian strategic autonomy,
+- and accelerated voidfront doctrine.
+
+RSC is removed from active ASC participation, finalizing the ideological split.
+
+---
+
+## 29 BAC — Treaty of Cyrelyn
+
+The **Treaty of Cyrelyn** recognizes RSC as an independent interstellar institution.
+
+RSC agrees to non-intervention within ASC-controlled orbital and planetary domains, while ASC recognizes Reltronland's legitimate sovereign interstellar expansion.
+
+This makes RSC the clearest institutional proof that Reltronland's founding logic eventually reached the stars.
+
+The earliest Rathroper principle was:
+
+> **Do not inherit captured systems. Build sovereign systems.**
+
+RSC applies the same principle to the void.
+
+---
+
+
+# 31. Final Canon Summary
 
 Reltronland is an apex superpower nation-faction of Asthortera and the physical manifestation of Astralis Pinnacle. Originating from Depeisit colonial roots, it rejected aristocratic hierarchy and transformed itself into a cyber-meritocratic republic built on clarity, discipline, meritocracy, sentient development, and anti-illusionism.
+
+The current canon further clarifies that Reltronland's deepest geopolitical identity is **anti-capture**. It does not exist merely to oppose old aesthetics, rival cultures, or foreign traditions. Its mature historical mission is to ensure that no captured institution — whether aristocratic, bureaucratic, economic, technological, or ideological — gains enough power to govern the future.
+
 
 Its SDI of **0.984** is the highest known in Asthortera, supported by cognitive maturity, emotional resilience, civic loyalty, universal education access, dignity-based living standards, holistic health, and a culture of contribution beyond pay. Its population of **855 billion sentient beings** operates within a hyper-urbanized national territory of **104 million km²**, structured through continuous CBD-scale development, ecological anchors, Rufintern water systems, stabilized volcanic corridors, 4D transitional zones, and 5D administrative fields.
 
@@ -1499,7 +2129,7 @@ Reltronland is not a utopia. It is a proving ground. Its strength lies not in do
 
 ---
 
-# 27. Navigation Links
+# 32. Navigation Links
 
 🔙 Back to [Reltroner Studio Factions Index](https://www.reltroner.com/factions)  
 <br>

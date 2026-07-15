@@ -1,12 +1,22 @@
 ---
 title: "Depcutland"
-description: "An elegant and reflective Tier 1 civilization in Asthortera, Depcutland embodies philosophical refinement, archival meritocracy, archival sovereignty, cultural diplomacy, and post-feudal reconstruction. It preserves the soul of civilization while mentoring Asthortera in aesthetics, ethics, memory, and institutional continuity."
+description: "An upgraded canonical country profile of Depcutland: the Merit Archival civilization of Asthortera, guardian of memory, archival sovereignty, post-feudal reform, institutional continuity, anti-capture recovery, cultural diplomacy, TCBC stabilization, Endless Library infrastructure, and reflective resistance against Nytherion Abyss."
 slug: "depcutland"
 image: "/images/depcutland.webp"
 author: "Rei Reltroner"
 date: "2026-06-09"
+lastUpdated: "2026-07-16"
 published: true
+world: "Asthortera"
 category: "Asthortera · Tier 1 Civilizations · Archival Sovereignty · Cultural Diplomacy"
+sourceOfTruth:
+  - "Reltronland vs Depcutland: The Twin Pillars of Conscious Civilization"
+  - "Reltroner Studio Historical Timeline: Asthortera, Reltronland, and Depcutland"
+  - "The True Purpose Behind Depcutland’s Founding"
+  - "Declaration of War Victory"
+  - "Reltronland — Country Profile"
+canonicalStatus: "Upgraded country profile aligned with current Reltroner Studio Asthortera canon"
+chronologyStandard: "BAC/AC as a meta-chronology and historical translation layer"
 ---
 
 ![depcutland1](/images/depcutland1.webp)
@@ -54,6 +64,62 @@ If Reltronland drives civilization forward, Depcutland safeguards the meaning th
 
 ---
 
+## Canon Resolution
+
+This upgraded country profile preserves the existing Depcutland identity while aligning it with the latest Reltroner Studio canon.
+
+The current canon no longer treats Depcutland as a simple aristocratic disguise, defeated state, or passive cultural nation. Depcutland is now understood as a **multi-layered Merit Archival civilization** whose identity developed through:
+
+1. **Depeisit Colonial Roots** — early Depeisit colonies shaped Depcutland's law, administrative memory, aristocratic continuity, and archival tradition during the **1211–1121 BAC Depeisit Colonial Era**.
+2. **Initial Depcutian Formation** — **1121 BAC** marks the initial Depeisit colonies in Depcutland and the beginning of its classical legal, bureaucratic, archival, and cultural formation.
+3. **Crisis Consolidation** — the **1057 BAC Depeisit Economic Crisis** transformed Depcutland into a refuge, continuity hub, and institutional pressure chamber.
+4. **Institutional Capture Period** — aristocratic remnants, patronage networks, and closed elite systems compromised parts of governance without defining the entire civilization.
+5. **War and Internal Reform** — the **1048–1030 BAC open conflict** and the **1030–1010 BAC reconstruction transition** separated Depcutland the nation from the captured aristocratic regime.
+6. **Merit Archival Resolution** — modern Depcutland preserves memory through reformed institutions while rejecting hereditary political capture.
+7. **Twin Pillars Status** — after the **1010 BAC Troncut Treaty**, Depcutland becomes the archival counterpart to Reltronland's meritocratic clarity.
+
+The key canon correction is:
+
+> **Depcutland was not evil from its founding. It was born from Depeisit-rooted memory, compromised by parts of Depeisit's failed elite order, and redeemed through reform that separated civilizational inheritance from institutional capture.**
+
+This profile therefore preserves the original themes of elegance, archival sovereignty, refinement, soft power, and historical continuity, but now grounds them in the updated framework:
+
+> **Memory must be preserved, but memory must not become a throne.**
+
+---
+
+## Table of Contents
+
+1. Foundational Philosophy — Tradition with Intelligence  
+2. National Identity, Symbols, and Cultural Essence  
+3. Government and Political Structure  
+4. Cognitive Culture  
+5. Cultural Focus  
+6. Asthortera Comparative Framework  
+7. Historical Origin and True Purpose of Founding  
+8. Historical Chronology and Structural Transformation  
+9. Troncut Treaty — Executive Summary  
+10. Reltronland and Depcutland — Twin Pillars of Conscious Civilization  
+11. Three Languages of War — Civilian, Officer, and Elite Narratives  
+12. Limited Reconstruction Analogy — The Germany of Asthortera  
+13. Rivalry Doctrine  
+14. Anti-Abyss Doctrine  
+15. The Endless Library of Depcutland  
+16. Depcutland as the Data Vault of Civilizations  
+17. Web3 Library Protocol of Depcutland  
+18. Daily Cultural Practices of Depcutland Citizens  
+19. Neiput Border — Intelligent Interface Between Reltronland and Depcutland  
+20. Neiput Treaty Dialogue — Diplomatic Scene in Four Movements  
+21. TCBC — Troneiput & Cutneiput Banking Corporation  
+22. TCBC Internal Governance Charter  
+23. International Role  
+24. Current Status  
+25. Narrative and Worldbuilding Hooks  
+26. Canon Guardrails  
+27. Final Civilizational Assessment  
+
+---
+
 ## Key Stats
 
 | Metric | Canonical Value |
@@ -69,10 +135,13 @@ If Reltronland drives civilization forward, Depcutland safeguards the meaning th
 | **Currency** | **$DEL — Depcut Credit** |
 | **Former Aristocratic Currency** | **$DPA — Depcutland Aristocratic currency** |
 | **National Identity** | Classical dignity, law-driven progress, cultural refinement |
-| **Major Conflicts** | Reiweston Crisis, Neiput Crisis, Neiput Border Dispute, Reltronland–Depcutland War |
+| **Major Conflicts** | Neiput Border Crisis, Reiweston Bay Trade Crisis, Rathroper Industrial Incident, Reltronland–Depcutland War |
 | **Major Treaty** | Troncut Treaty, signed 1010 BAC |
+| **Colonial Root** | 1211–1121 BAC Depeisit Colonial Era |
+| **Initial Depcutian Formation** | 1121 BAC initial Depeisit colonies in Depcutland |
+| **Post-War Principle** | Reform without destroying what is worth preserving |
 | **Strategic Institution** | The Endless Library of Depcutland |
-| **Major Financial Institution** | Depcutland Central Bank |
+| **Major Financial Institution** | Depcutland Central Bank; CBC/TCBC as historic cross-border financial bridge |
 
 ### Population Composition
 
@@ -325,68 +394,381 @@ Depcutland does not seek to replace Reltronland or Aurastelia. Its function is t
 
 # VII. Historical Origin and True Purpose of Founding
 
-## Depeisit Legacy
+## From Depeisit Colonial Memory to Merit Archival Sovereignty
 
-Depcutland was originally established as a **Depeisit-aligned colony**. After the catastrophic decline of the planet-wide technocratic regime of Depeisit, remnants of its ruling elite faced a strategic choice:
+Depcutland's founding is no longer interpreted as a single event or a one-dimensional conspiracy.
 
-- vanish into interstellar irrelevance;
-- preserve failed supremacy through direct restoration;
-- or replant their civilizational influence in a refined, less aggressive form.
+The current canon defines Depcutland as a civilization that unfolded through several historical layers:
 
-Depcutland was born from the third option.
+```md
+1211–1121 BAC — Depeisit Colonial Era
+1121 BAC — Initial Depeisit Colonies in Depcutland
+1057 BAC — Depeisit Economic Crisis
+1055 BAC — Depcut Independence Council emerges
+1048–1030 BAC — Reltronland–Depcutland War
+1030–1010 BAC — Reconstruction and Merit Archival Transition
+1010 BAC — Troncut Treaty / Declaration of Independence
+```
 
-> *"If we cannot dominate the future, let us at least design its margins."*
+Therefore, Depcutland was not simply created after Depeisit collapsed.
 
-## Why Depcutland Was Placed Near Reltronland
+It began as a **Depeisit-rooted colonial and archival civilization**, became vulnerable to post-crisis institutional capture, and survived by transforming itself into a sovereign **Merit Archival civilization**.
 
-Depcutland's location near Reltronland was intentional: geopolitical, ideological, and symbolic.
+> **Depcutland was born from Depeisit's memory, contaminated by parts of Depeisit's failed elite order, and redeemed through reform that separated civilizational inheritance from institutional capture.**
 
-### Strategic Reasons
+---
 
-1. **Proximity for Observation**  
-   Depcutland could monitor the rise of Reltronland's red-pill meritocracy.
+## 1. Colonial Root — 1211–1121 BAC
 
-2. **Ideological Counterbalance**  
-   Depcutland served as a refined, artistic, classical contrast to Reltronland's structured realism.
+During the **Depeisit Colonial Era**, Depeisit established early colonies across territories that would later become Reltronland and Depcutland.
 
-3. **Influence Through Elegance**  
-   It could attract thinkers, artists, scientists, and diplomats through aesthetic soft power rather than direct control.
+The future Depcutland region absorbed:
 
-4. **Cultural Checkmate**  
-   It prevented Reltronland from becoming the sole cultural superpower of Asthortera.
+- classical Depeisit law;
+- aristocratic continuity;
+- bureaucratic memory;
+- archival tradition;
+- administrative hierarchy;
+- legal ritual;
+- formal etiquette;
+- cultural preservation;
+- and interplanetary institutional habits.
 
-## Function as a Living Archive
+These elements did not immediately create modern Depcutland, but they planted the foundations of its later civilizational identity.
 
-Unlike Depeisit, which collapsed under overreach, Depcutland was designed to endure.
+Depcutland inherited memory.
 
-It preserved Depeisit's knowledge in post-feudal elegance, shifted from control to cultivation, and positioned itself as the soul of civilization rather than its engine.
+But memory came with hierarchy.
+
+Depcutland inherited law.
+
+But law came with prestige networks.
+
+Depcutland inherited administrative discipline.
+
+But administration came with old habits of appointment, status, and closed influence.
+
+This created the first version of the Depcutland paradox:
+
+> **The same colonial inheritance that gave Depcutland order also carried the seeds of future capture.**
+
+---
+
+## 2. Initial Depcutian Formation — 1121 BAC
+
+The year **1121 BAC** marks the early Depeisit colonies in Depcutland beginning to take recognizable shape.
+
+This early identity developed around:
+
+- classical legal culture;
+- archive-centered administration;
+- bureaucratic continuity;
+- cultural preservation;
+- aristocratic dignity;
+- formal education;
+- ceremonial law;
+- and the first proto-Depcutian archive-state habits.
+
+At this stage, Depcutland was not yet the reformed post-war civilization it would later become.
+
+It was an emerging colonial-cultural formation where Depeisit's old systems were translated into a new Asthorteran territory.
+
+Its strength was continuity.
+
+Its danger was continuity without sufficient purification.
+
+---
+
+## 3. The Depeisit Wound — 1057 BAC
+
+The **Depeisit Economic Crisis of 1057 BAC** did not create Depcutland from nothing.
+
+It transformed an existing colonial foundation into a major refuge, continuity hub, and institutional pressure chamber.
+
+Depcutland received waves of:
+
+- political refugees;
+- technocrats;
+- civil administrators;
+- industrial investors;
+- displaced aristocratic families;
+- institutional loyalists;
+- scholars;
+- archivists;
+- legal custodians;
+- and cultural preservationists.
+
+This migration strengthened Depcutland.
+
+It also endangered Depcutland.
+
+Many newcomers genuinely wanted safety, continuity, recovery, knowledge preservation, and civic order.
+
+However, some former Depeisit aristocratic networks used the same migration channels to rebuild influence inside Depcutland's political and administrative structure.
+
+This is the post-crisis founding paradox:
+
+> **The same refugee wave that gave Depcutland cultural depth also intensified the conditions for institutional capture.**
+
+---
+
+## 4. Why Depcutland Was Placed Near Reltronland
+
+Depcutland's proximity to **Reltronland** was intentional, but not for one reason only.
+
+It carried several meanings.
+
+### Proximity for Observation
+
+Depcutland could monitor the rise of Reltronland's red-pill meritocracy, cyber-meritocratic governance, industrial discipline, and anti-feudal safeguards.
+
+To reformist Depcutian intellectuals, this proximity offered a comparative model.
+
+To aristocratic conservatives, it represented a threat.
+
+To cultural strategists, it created a stage for civilizational competition.
+
+### Ideological Counterbalance
+
+Reltronland answered Depeisit's failure through rupture:
+
+> **Never again.**
+
+Depcutland answered through preservation:
+
+> **We must not disappear.**
+
+This made Depcutland a natural counterweight to Reltronland.
+
+Reltronland became the civilization of clarity and acceleration.
+
+Depcutland became the civilization of memory and continuity.
+
+### Influence Through Elegance
+
+Depcutland's classical halls, archive lamps, debate chambers, ceremonial law, chamber music, and literary culture became instruments of soft power.
+
+This was not merely propaganda.
+
+For sincere Depcutian scholars, it was civilization-building.
+
+For captured elite factions, it could become influence without visible coercion.
+
+Therefore, the original phrase **"Influence Through Elegance"** remains valid, but only if understood carefully:
+
+> **Elegance was both a sincere cultural identity and a medium through which some elites preserved influence.**
+
+### Cultural Checkmate
+
+Depcutland prevented Reltronland from becoming the only model of high civilization in Asthortera.
+
+Without Depcutland, post-Depeisit modernity might have been defined almost entirely by:
+
+- productivity;
+- meritocratic acceleration;
+- rational discipline;
+- industrial development;
+- structural clarity;
+- and anti-feudal rupture.
+
+Depcutland introduced another path:
+
+- memory;
+- refinement;
+- custody;
+- literature;
+- legal dignity;
+- archival ethics;
+- and continuity without surrendering identity.
+
+This was not merely opposition.
+
+It was counterweight.
+
+---
+
+## 5. Function as a Living Archive
+
+Unlike Depeisit, which collapsed under overreach, political capture, and systemic instability, Depcutland attempted to endure through preservation.
+
+Depcutland preserved:
+
+- Depeisit legal traditions;
+- treaty memory;
+- literary inheritance;
+- administrative knowledge;
+- scholarly methods;
+- ceremonial law;
+- archival systems;
+- architectural aesthetics;
+- and civilizational dignity.
+
+In this sense, Depcutland was not simply a territory.
+
+It was a memory vessel.
 
 > In Depcutland, every corridor echoes with the cautionary tales of its planetary predecessor.
 
-## Diplomatic Cloaking — The Cultural Kinship Façade
+However, memory is never neutral when power enters it.
 
-Depcutland often calls Reltronland a **philosophical cousin**. Publicly, this language softens relations. Strategically, it serves deeper functions:
+The same archive that preserves truth can become a throne if captured by closed elite networks.
+
+This is why Depcutland's founding purpose contains both nobility and danger:
+
+> **To preserve memory without allowing memory to become hereditary authority.**
+
+---
+
+## 6. Diplomatic Cloaking and Cultural Kinship
+
+Depcutland often called Reltronland a **philosophical cousin**.
+
+At the surface level, this was partly sincere.
+
+Both civilizations were shaped by Depeisit. Both valued intelligence, high institutions, literacy, social order, and long-term civilizational survival.
+
+But the phrase also served diplomatic functions:
 
 - creating emotional legitimacy for Depcutland's existence;
 - disarming suspicion of its Depeisit-linked origin;
-- blurring ideological difference through shared elegance;
-- allowing competition without permanent war framing.
+- softening ideological rivalry;
+- presenting proximity as kinship rather than surveillance;
+- and blurring the line between preservation and capture.
 
-## Deep Intentions
+The mature canon therefore avoids saying that all Depcutland diplomacy was dishonest.
 
-Depcutland's founding purpose was never purely peaceful ornamentation. Its deeper intentions were:
+The better interpretation is:
 
-- to remain influential without appearing aggressive;
-- to rebrand Depeisit's failed glory into timeless philosophy;
-- to ensure Depeisit's core values survived under new robes;
-- to counterbalance Reltronland without openly imitating it;
-- to preserve the past in a form that could survive future judgment.
+> **Depcutland's cultural kinship language was partly sincere and partly strategic.**
+
+For reformists and scholars, kinship meant shared civilizational ancestry.
+
+For aristocratic networks, kinship could be used to reduce scrutiny.
+
+For Reltronland, this ambiguity became increasingly difficult to tolerate.
+
+---
+
+## 7. Hidden Threads from Depeisit to Depcutland
+
+The hidden threads from Depeisit to Depcutland were not one single secret command structure.
+
+They were diffuse, institutional, cultural, and social.
+
+They included:
+
+- family networks;
+- old administrative habits;
+- patronage obligations;
+- inherited prestige;
+- elite marriage alliances;
+- advisory circles;
+- private banking relationships;
+- archives of legal legitimacy;
+- cultural institutions;
+- educational pathways;
+- diplomatic clubs;
+- and factional loyalties.
+
+These threads did not mean every Depcutland institution was corrupt.
+
+They meant that some channels of old power survived inside the new state.
+
+For Reltronland, these threads were risk indicators.
+
+For Depcutland, many of them were interpreted as continuity, heritage, and survival.
+
+This difference of interpretation became one of the roots of war.
 
 ![hidden-threads-depcutland](/images/hidden-threads-depcutland.webp)
 
-Depcutland is not a betrayal of Depeisit's legacy. It is its evolutionary disguise.
+---
 
-> *"The end of empires is not silence. It is subtlety."*
+## 8. Deep Intentions — The Layered Founding Purpose
+
+Depcutland's founding purpose was never purely peaceful ornamentation, but it was also not a single villainous design.
+
+Several intentions coexisted.
+
+### The Refugee Intention
+
+Many people simply wanted to survive the collapse of Depeisit.
+
+For them, Depcutland meant:
+
+- safety;
+- work;
+- continuity;
+- family survival;
+- and the chance to rebuild life.
+
+### The Archival Intention
+
+Scholars, librarians, legal custodians, and intellectuals wanted to preserve what would otherwise be lost.
+
+For them, Depcutland meant:
+
+- memory;
+- literature;
+- philosophical inheritance;
+- treaty records;
+- civilizational ethics;
+- and historical continuity.
+
+### The Aristocratic Intention
+
+Some former Depeisit elites wanted to preserve influence.
+
+For them, Depcutland meant:
+
+- rebranding;
+- survival;
+- indirect power;
+- social prestige;
+- administrative access;
+- and a softer continuation of failed hierarchy.
+
+The old dramatic line remains useful as a factional slogan:
+
+> *"If we cannot dominate the future, let us at least design its margins."*
+
+But this line belongs to the captured elite layer, not to the entire soul of Depcutland.
+
+### The Sovereign Intention
+
+Depcutland nationalists and reformists wanted more than Depeisit continuity.
+
+They wanted Depcutland to become its own civilization.
+
+For them, Depcutland meant:
+
+- sovereignty;
+- dignity;
+- cultural uniqueness;
+- self-determination;
+- and the right to preserve memory without being ruled by Depeisit's ghosts.
+
+---
+
+## 9. Updated Founding Thesis
+
+The old interpretation was:
+
+> **Depcutland is not a betrayal of Depeisit's legacy. It is its evolutionary disguise.**
+
+The upgraded canon refines this into:
+
+> **Depcutland began as Depeisit-rooted memory, was compromised by captured continuity, and became great only when it transformed that memory into Merit Archival sovereignty.**
+
+The end of empires is not always silence.
+
+Sometimes it is subtlety.
+
+But the redemption of Depcutland came when subtlety was no longer allowed to hide capture.
+
+Modern Depcutland's founding lesson is:
+
+> **Memory can outlive empire without becoming empire again.**
 
 ---
 
@@ -403,6 +785,21 @@ The Depcutland historical cycle is best understood in three layers:
 Therefore, the **Reltronland–Depcutland War Cycle** spans **1048–1010 BAC**, while the most intense open warfare ended in **1030 BAC**.
 
 This resolves the apparent contradiction between references to the 1048–1030 open war and the 1010 BAC Troncut Treaty.
+
+---
+This upgraded profile also integrates the deeper timeline foundation:
+
+| Period | Canonical Meaning |
+|---|---|
+| **1211–1121 BAC — Depeisit Colonial Era** | Early colonial structures plant the legal, bureaucratic, cultural, and archival roots of Depcutland. |
+| **1121 BAC — Initial Depeisit Colonies in Depcutland** | The proto-Depcutian identity begins forming through classical law, aristocratic continuity, bureaucratic memory, and archive-centered culture. |
+| **1057 BAC — Depeisit Economic Crisis** | Depcutland becomes a refuge, continuity hub, and institutional battleground. |
+| **1055 BAC — Depcut Independence Council** | Reformists, civic nationalists, aristocratic conservatives, loyalists, and pro-merit intellectuals compete over Depcutland's future. |
+| **1049 BAC — Trade and Industry Blockade** | Reltronland restricts strategic sectors it believes strengthen captured aristocratic networks. |
+| **1048–1030 BAC — Open War** | Military conflict reveals the difference between Depcutland as a civilization and the captured regime ruling it. |
+| **1030–1010 BAC — Reconstruction and Merit Archival Transition** | Depcutland reforms its institutions while preserving proven civilizational structures. |
+| **1010 BAC — Troncut Treaty** | The war cycle ends and Depcutland enters its sovereign Merit Archival trajectory. |
+| **1008–825 BAC — Post-Independence Reconstruction and Planetary Cooperation** | Depcutland develops as a sovereign archive-state, strengthens education, diplomacy, and the Endless Library, and participates in planetary cooperation. |
 
 ---
 
@@ -805,7 +1202,8 @@ Both civilizations agreed to:
 The treaty recognized both ideological systems as legitimate civilizational paths within Asthortera:
 
 - Reltronland affirmed **Red Pill Meritocracy**.
-- Depcutland affirmed **Archival Aristocracy**, later refined into modern **Archival-Meritocracy**.
+- Depcutland affirmed **Merit Archival Continuity** as its modern sovereign doctrine.
+- Older treaty language and pre-reform terminology sometimes preserve the phrase **Archival Aristocracy**, but in current canon this refers to the historical layer that Depcutland later reforms beyond.
 
 ## Legacy
 
@@ -885,23 +1283,195 @@ Reltronland and Depcutland are not meant to merge. They are meant to coexist in 
 
 ---
 
-# XI. Depcutland as the Germany of Asthortera
 
-Depcutland's historical arc strongly resembles the role of a defeated, restructured, then re-emergent civilization.
+# XI. Three Languages of War — Civilian, Officer, and Elite Narratives
 
-It fell through internal rigidity, wartime pressure, elite legitimacy collapse, and territorial loss. It was then rebuilt through multilateral aid, institutional reform, education, financial stabilization, and strict monitoring.
+One of the most important upgrades to the Reltronland–Depcutland canon is the recognition that both civilizations described the same war through different levels of abstraction.
+
+This is not simply propaganda versus truth.
+
+It is a difference in conceptual language.
+
+---
+
+## 1. Civilian Narrative
+
+This is the language ordinary citizens and soldiers could understand emotionally.
+
+### Reltronland Civilian Language
+
+Reltronland soldiers and civilians might say:
+
+> "They bring corruption."  
+> "They bring nepotism."  
+> "If we lose, our country will decay."  
+> "We must not become another Depeisit."
+
+This language does not mention institutional architecture, governance contamination, or systemic patronage networks.
+
+But it points toward the same fear:
+
+> **Depcutland may carry the Depeisit collapse pattern into the future.**
+
+### Depcutland Civilian Language
+
+Depcutland soldiers and civilians might say:
+
+> "Reltronland wants to colonize us."  
+> "They want to control our country."  
+> "They want to destroy our culture."  
+> "We are defending our homeland."
+
+This language does not mention sovereign agency, external governance interference, or economic containment doctrine.
+
+But it points toward the same fear:
+
+> **Reltronland's anti-capture intervention may become domination.**
+
+---
+
+## 2. Officer Narrative
+
+Military officers and strategic commanders used more technical language.
+
+### Reltronland Officer Language
+
+- strategic dependency;
+- governance risk;
+- institutional penetration;
+- economic security;
+- national resilience;
+- border integrity;
+- industrial access control.
+
+### Depcutland Officer Language
+
+- sovereignty;
+- economic coercion;
+- strategic deterrence;
+- border defense;
+- national continuity;
+- industrial survival;
+- archive-state protection.
+
+---
+
+## 3. Elite Narrative
+
+At the level of presidents, councils, ministers, and high strategy bodies, the language became highly abstract.
+
+### Reltronland Elite Language
+
+The elite did not simply accuse Depcutland of being "corrupt."
+
+They spoke in terms such as:
+
+- captured governance architecture;
+- institutional capture;
+- systemic patronage networks;
+- civilizational instability vector;
+- governance contamination risk;
+- recursive collapse mechanism;
+- Depeisit-derived institutional failure pattern.
+
+### Depcutland Elite Language
+
+The elite did not simply accuse Reltronland of being "colonizers."
+
+They spoke in terms such as:
+
+- strategic coercive intervention;
+- violation of sovereign administrative autonomy;
+- economic containment doctrine;
+- forced geopolitical asymmetry;
+- external governance interference;
+- structural limitation of sovereign agency;
+- anti-sovereign security pressure.
+
+---
+
+## 4. Why This Matters
+
+The meaning is often the same.
+
+Only the level of abstraction changes.
+
+A Reltronland soldier saying:
+
+> "They bring corruption."
+
+and a Reltronland strategist saying:
+
+> "Institutional capture inherited from the Depeisit governance collapse."
+
+are describing the same perceived danger.
+
+A Depcutland soldier saying:
+
+> "Reltronland wants to colonize us."
+
+and a Depcutland minister saying:
+
+> "Strategic infringement upon sovereign administrative authority."
+
+are describing the same perceived threat.
+
+This makes the war sociologically mature.
+
+Ordinary citizens used emotionally legible language to build collective morale.
+
+Officers used operational language to coordinate military and strategic behavior.
+
+Elites used system-level concepts to analyze governance, sovereignty, economy, and civilizational risk.
+
+---
+
+
+# XII. Limited Reconstruction Analogy — Depcutland as the Germany of Asthortera
+
+Depcutland's historical arc can still be compared to the role of a defeated, restructured, and re-emergent civilization.
+
+However, this analogy must remain limited.
+
+It is useful for describing:
+
+- post-war reconstruction;
+- territorial loss;
+- demilitarization;
+- international oversight;
+- institutional reform;
+- education-driven recovery;
+- financial stabilization;
+- trauma becoming modernization discipline;
+- and the transformation of defeat into high-SDI renewal.
+
+It should not be used to erase Depcutland's unique identity.
+
+Depcutland is not merely a defeated state rebuilt by external victors.
+
+It is a sovereign archival civilization that survived by distinguishing its captured aristocratic regime from its trustworthy civilizational institutions.
 
 ## Key Parallels
 
 - A powerful cultured state fell after systemic war.
-- A major region, Troneiput, was transferred and supervised.
+- A major region, **Troneiput**, was transferred and supervised.
 - International mediators shaped the new order.
 - Military capacity was reduced.
 - The old elite order was delegitimized.
 - Reconstruction became the basis of future high SDI.
 - Trauma became a driver of modernization.
 
-Depcutland is therefore the **Germany of Asthortera**: a nation that fell, was humiliated, reformed, and rose again as a second superpower through trauma, institutional clarity, and disciplined reconstruction.
+## Canonical Limitation of the Analogy
+
+The analogy should not imply that Depcutland's identity is derivative, externally owned, or morally flattened.
+
+The updated canon is more precise:
+
+> **Reltronland helped expose the disease. Depcutland reformists removed it. Depcutland institutions preserved the civilization.**
+
+This is why modern Depcutland is not a puppet state.
+
+It is a reformed sovereign civilization.
 
 ## Why the SDI Became So High
 
@@ -913,7 +1483,9 @@ War and destruction forced a total reset:
 - civic documentation expanded;
 - financial systems stabilized;
 - trauma memory prevented complacency;
-- foreign investment accelerated reconstruction.
+- foreign investment accelerated reconstruction;
+- trusted institutions such as the Grand Library/Endless Library of Depcutland and CBC/TCBC preserved continuity;
+- the new government learned to reform without erasing what still carried dignity.
 
 ## Why Reltronland Won the War
 
@@ -925,11 +1497,18 @@ Reltronland's victory came from:
 - local support in eastern Neiput;
 - stronger infrastructure doctrine;
 - superior loyalty and anti-feudal coherence;
-- Depcutland's internal collapse and bureaucratic stagnation.
+- Depcutland's internal collapse and bureaucratic stagnation;
+- and the failure of captured aristocratic governance to retain public legitimacy.
+
+However, the current canon does not frame this as Reltronland proving Depcutland was worthless.
+
+It frames the victory as:
+
+> **Reltronland defeated the captured regime, while Depcutland survived by reforming itself.**
 
 ---
 
-# XII. Rivalry Doctrine
+# XIII. Rivalry Doctrine
 
 Depcutland maintains a formal doctrine of competitive coexistence with Reltronland.
 
@@ -958,7 +1537,7 @@ Competition occurs across:
 
 ---
 
-# XIII. Anti-Abyss Doctrine
+# XIV. Anti-Abyss Doctrine
 
 Nytherion Abyss represents an existential threat to Depcutland's identity because it attacks memory, perception, continuity, and truth.
 
@@ -987,7 +1566,7 @@ Depcutland's greatest fear is not only being conquered. It is being rewritten.
 
 ---
 
-# XIV. The Endless Library of Depcutland
+# XV. The Endless Library of Depcutland
 
 > *"The mind never ends, and neither does its archive."*
 
@@ -997,7 +1576,7 @@ Depcutland's greatest fear is not only being conquered. It is being rewritten.
 |---|---|
 | **Official Name** | The Endless Library of Depcutland |
 | **Nicknames** | Null Athenaeum, Infinity Vault, The Last Archive |
-| **Location** | Heart of Decordelane City, Depcutland |
+| **Location** | Heart of Depsetica City, Depcutland |
 | **Architecture** | Vertical and subterranean structure expanding across geopolitical and dimensional strata |
 | **Access** | Restricted to elite officials, certified scholars, and specially approved sentients by the Council of Archive |
 
@@ -1128,7 +1707,7 @@ The Endless Library is more than a storage facility. It is Depcutland's epistemo
 
 ---
 
-# XV. Depcutland as the Data Vault of Civilizations
+# XVI. Depcutland as the Data Vault of Civilizations
 
 > *"When memory dies in one world, Depcutland remembers it for all."*
 
@@ -1230,7 +1809,7 @@ During planetary or interplanetary crisis, Depcutland serves as:
 
 ---
 
-# XVI. Web3 Library Protocol of Depcutland
+# XVII. Web3 Library Protocol of Depcutland
 
 ![web3-library-protocol-depcutland](/images/web3-library-protocol-depcutland.webp)
 
@@ -1403,7 +1982,7 @@ Depcutland proves that knowledge contribution can be voluntary, ethical, transpa
 
 ---
 
-# XVII. Daily Cultural Practices of Depcutland Citizens
+# XVIII. Daily Cultural Practices of Depcutland Citizens
 
 In Depcutland, culture is not consumed. It is practiced, curated, and archived.
 
@@ -1536,7 +2115,7 @@ To live is to document. To speak is to reflect. To act is to honor.
 
 ---
 
-# XVIII. Neiput Border — Intelligent Interface Between Reltronland and Depcutland
+# XIX. Neiput Border — Intelligent Interface Between Reltronland and Depcutland
 
 > *"Where one world preserves memory, the other engineers trajectory."*  
 > — Border Inscription, Troneiput Archway
@@ -1722,7 +2301,7 @@ The border functions as:
 
 ---
 
-# XIX. Neiput Treaty Dialogue — Diplomatic Scene in Four Movements
+# XX. Neiput Treaty Dialogue — Diplomatic Scene in Four Movements
 
 ## Setting
 
@@ -1734,11 +2313,11 @@ The border functions as:
 
 **Depcutball** sifts through aged parchment.
 
-> *"Clause 3, Subsection 14 — records indicate you fired first at Rathroper, 1048 BAC."*
+> *"Clause 3, Subsection 14 — records indicate you escalated first at Reiweston Bay, 1047 BAC."*
 
 **Reltronball** responds in a monotone voice.
 
-> *"Correction. We intercepted a manifest violating the Sentient Clarity Zone. Chaos masked as commerce is no different from invasion."*
+> *"Correction. We intercepted a manifest violating a strategic embargo corridor. Chaos masked as commerce is no different from infiltration."*
 
 **Depcutball** replies coldly.
 
@@ -1791,7 +2370,7 @@ The Neiput Dialogue is reenacted every five cycles in Troneiput and Cutneiput. D
 
 ---
 
-# XX. TCBC — Troneiput & Cutneiput Banking Corporation
+# XXI. TCBC — Troneiput & Cutneiput Banking Corporation
 
 ## Institutional Identity
 
@@ -2072,7 +2651,7 @@ With TCBC:
 
 ---
 
-# XXI. TCBC Internal Governance Charter
+# XXII. TCBC Internal Governance Charter
 
 ## Governance Philosophy
 
@@ -2329,7 +2908,7 @@ TCBC governance is:
 
 ---
 
-# XXII. International Role
+# XXIII. International Role
 
 Depcutland is a diplomatic pillar of Asthortera.
 
@@ -2358,7 +2937,7 @@ Its soft power comes from:
 
 ---
 
-# XXIII. Current Status
+# XXIV. Current Status
 
 Modern Depcutland is characterized by:
 
@@ -2371,6 +2950,9 @@ Modern Depcutland is characterized by:
 - ongoing intellectual competition;
 - strong anti-Abyss posture;
 - permanent vigilance against historical distortion.
+- post-war legitimacy grounded in Depcutland-led reform rather than external rule.
+- protected institutional continuity through the Grand Library/Endless Library of Depcutland and CBC/TCBC.
+- formal rejection of hereditary political capture while preserving classical dignity.
 
 The nation remains alert to:
 
@@ -2386,7 +2968,7 @@ Depcutland's modern strength comes from its ability to turn humiliation into dis
 
 ---
 
-# XXIV. Narrative and Worldbuilding Hooks
+# XXV. Narrative and Worldbuilding Hooks
 
 Depcutland offers major narrative opportunities across politics, diplomacy, archives, family identity, and philosophical rivalry.
 
@@ -2424,7 +3006,36 @@ Depcutland offers major narrative opportunities across politics, diplomacy, arch
 
 ---
 
-# XXV. Final Civilizational Assessment
+
+# XXVI. Canon Guardrails
+
+To remain aligned with the current Reltroner Studio canon, this profile should not be interpreted as saying:
+
+- Depcutland began only after 1057 BAC.
+- Depcutland was evil from its founding.
+- All Depcutland citizens were loyal to Depeisit elites.
+- All Depcutland institutions were corrupt.
+- Elegance was only propaganda.
+- The Grand Library was a regime instrument.
+- CBC was a feudal tool.
+- Reltronland was automatically right in every action.
+- Depcutland had no legitimate sovereignty concern.
+- The 1010 BAC Troncut Treaty created Depcutland from nothing.
+- Post-war Depcutland is a puppet of Reltronland.
+- Memory, tradition, and refinement are inherently feudal.
+
+The correct interpretation is:
+
+> **Depcutland's roots began in Depeisit colonial memory, its crisis identity formed after Depeisit's collapse, and its true sovereignty emerged when it reformed memory into Merit Archival civilization.**
+
+Modern Depcutland is not Depeisit's failure repeated.
+
+It is Depeisit's memory examined, purified, and transformed into a new sovereign archive-state.
+
+---
+
+
+# XXVII. Final Civilizational Assessment
 
 Depcutland is not the fastest civilization in Asthortera.
 
