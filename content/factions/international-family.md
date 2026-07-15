@@ -34,7 +34,7 @@ In the diverse landscape of Asthortera, two powerful nations stand not above—b
 ---
 
 ## 🟫 Depcutland – Guardian of Cultural Cohesion
-- **SDI:** 0.983 (Second Highest)
+- **SDI:** 0.981 (Second Highest)
 - **Core Identity:** Elegance, preservation, wisdom through archives
 - **International Role:** Leader in cultural exchange, policy philosophy, and aesthetic diplomacy
 
