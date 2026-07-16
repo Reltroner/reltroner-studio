@@ -1,138 +1,368 @@
 'use client';
 
-import { Fragment, useState, useEffect } from "react";
-import { Dialog, Transition } from "@headlessui/react";
-import { Menu, Search, X, ExternalLink } from "lucide-react";
-import Link from "next/link";
-import NavLinks from "@/components/layout/NavLinks";
+import { Fragment, useState } from 'react';
+import { Dialog, Transition } from '@headlessui/react';
 import {
-  knowledgeNavigation,
+  ExternalLink,
+  Menu,
+  Search,
+  X,
+} from 'lucide-react';
+import Link from 'next/link';
+
+import {
   ecosystemNavigation,
-} from "@/lib/constants/navigation";
+  knowledgeNavigation,
+} from '@/lib/constants/navigation';
 
-const commandPaletteEvent = "reltroner:command-palette:open";
+const commandPaletteEvent = 'reltroner:command-palette:open';
 
-const ecosystemLinks = [
-  { name: 'Reltroner Studio', href: '/' },
-  { name: 'Roadmap', href: '/#roadmap' }
+type NavigationItem = {
+  name: string;
+  href: string;
+};
+
+const ecosystemLinks: NavigationItem[] = [
+  {
+    name: 'Reltroner Studio',
+    href: '/',
+  },
+  {
+    name: 'Roadmap',
+    href: '/#roadmap',
+  },
 ];
 
-const companyLinks = [
-  { name: 'About', href: '/about' },
-  { name: 'Contact', href: '/contact' },
-  { name: 'Portfolio & Recruiting', href: '/blog/for-recruiters' },
-  { name: 'Disclaimer', href: '/blog/disclaimer' }
+const companyLinks: NavigationItem[] = [
+  {
+    name: 'About',
+    href: '/about',
+  },
+  {
+    name: 'Contact',
+    href: '/contact',
+  },
+  {
+    name: 'Portfolio & Recruiting',
+    href: '/blog/for-recruiters',
+  },
+  {
+    name: 'Disclaimer',
+    href: '/blog/disclaimer',
+  },
 ];
+
+const interactiveClassName =
+  'flex min-h-12 min-w-0 items-center rounded-xl border border-transparent ' +
+  'px-4 py-3 text-sm font-medium text-slate-200 transition ' +
+  'hover:border-white/10 hover:bg-white/10 hover:text-white ' +
+  'focus-visible:outline-none focus-visible:ring-2 ' +
+  'focus-visible:ring-sky-300 focus-visible:ring-offset-2 ' +
+  'focus-visible:ring-offset-slate-950 active:scale-[0.99] ' +
+  'motion-reduce:transform-none motion-reduce:transition-none';
+
+function MobileLinkGrid({
+  items,
+  onNavigate,
+}: {
+  items: readonly NavigationItem[];
+  onNavigate: () => void;
+}) {
+  return (
+    <div className="grid grid-cols-1 gap-2 min-[420px]:grid-cols-2">
+      {items.map((item) => {
+        const isExternal =
+          item.href.startsWith('http://') ||
+          item.href.startsWith('https://');
+
+        const content = (
+          <>
+            <span className="min-w-0 break-words">
+              {item.name}
+            </span>
+
+            {isExternal && (
+              <ExternalLink
+                aria-hidden="true"
+                className="ml-auto h-3.5 w-3.5 shrink-0 text-slate-400"
+              />
+            )}
+          </>
+        );
+
+        if (isExternal) {
+          return (
+            <a
+              key={`${item.name}-${item.href}`}
+              href={item.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={onNavigate}
+              className={interactiveClassName}
+            >
+              {content}
+            </a>
+          );
+        }
+
+        return (
+          <Link
+            key={`${item.name}-${item.href}`}
+            href={item.href}
+            onClick={onNavigate}
+            className={interactiveClassName}
+          >
+            {content}
+          </Link>
+        );
+      })}
+    </div>
+  );
+}
+
+function NavigationSection({
+  title,
+  children,
+}: {
+  title: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <section
+      aria-labelledby={`mobile-navigation-${title
+        .toLowerCase()
+        .replaceAll(' ', '-')}`}
+      className="rounded-2xl border border-white/10 bg-white/[0.035] p-3"
+    >
+      <h3
+        id={`mobile-navigation-${title
+          .toLowerCase()
+          .replaceAll(' ', '-')}`}
+        className="mb-3 px-1 text-[11px] font-semibold uppercase tracking-[0.16em] text-slate-400"
+      >
+        {title}
+      </h3>
+
+      {children}
+    </section>
+  );
+}
 
 export default function MobileNavbar() {
   const [isOpen, setIsOpen] = useState(false);
+
+  const closeNavigation = () => {
+    setIsOpen(false);
+  };
 
   const openCommandPalette = () => {
     window.dispatchEvent(new Event(commandPaletteEvent));
   };
 
-  useEffect(() => {
-    if (isOpen) {
-      document.body.classList.add("overflow-hidden");
-    } else {
-      document.body.classList.remove("overflow-hidden");
-    }
+  const openCommandPaletteFromDrawer = () => {
+    setIsOpen(false);
 
-    return () => document.body.classList.remove("overflow-hidden");
-  }, [isOpen]);
+    // Wait until the navigation dialog begins closing so focus management
+    // does not compete with the command palette.
+    window.setTimeout(() => {
+      openCommandPalette();
+    }, 200);
+  };
 
   return (
     <>
-      <div className="sticky top-0 z-50 px-4 pt-4 md:hidden">
-        <div className="surface-glass flex items-center justify-between gap-3 px-4 py-3 text-slate-50">
-          <Link href="/" className="min-w-0 shrink">
-            <h1 className="text-lg font-semibold tracking-tight text-center">Reltroner</h1>
+      {/* Fixed navbar: always attached to the mobile viewport */}
+      <header
+        className="fixed inset-x-0 top-0 z-[100] px-3 md:hidden"
+        style={{
+          paddingTop: 'max(0.75rem, env(safe-area-inset-top))',
+        }}
+      >
+        <nav
+          aria-label="Mobile primary navigation"
+          className="mx-auto flex w-full max-w-3xl items-center justify-between gap-3 rounded-2xl border border-white/10 bg-slate-950/85 px-3 py-2.5 text-slate-50 shadow-lg shadow-slate-950/20 backdrop-blur-xl"
+        >
+          <Link
+            href="/"
+            aria-label="Reltroner home"
+            className="min-w-0 flex-1 rounded-xl px-2 py-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300"
+          >
+            <span className="block truncate text-base font-semibold tracking-tight">
+              Reltroner
+            </span>
+
+            <span className="block truncate text-[10px] uppercase tracking-[0.14em] text-slate-400">
+              Knowledge Ecosystem
+            </span>
           </Link>
-          <div className="flex shrink-0 items-center gap-2">
+
+          <div className="flex shrink-0 items-center gap-1">
             <button
+              type="button"
               onClick={openCommandPalette}
-              className="inline-flex h-[44px] w-[44px] items-center justify-center rounded-full transition hover:bg-white/10"
-              aria-label="Open archive search"
+              className="inline-flex h-11 w-11 touch-manipulation items-center justify-center rounded-xl text-slate-200 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 active:scale-95 motion-reduce:transform-none"
+              aria-label="Search the archive"
             >
-              <Search className="h-5 w-5" />
+              <Search aria-hidden="true" className="h-5 w-5" />
             </button>
+
             <button
+              type="button"
               onClick={() => setIsOpen(true)}
-              className="inline-flex h-[44px] w-[44px] items-center justify-center rounded-full transition hover:bg-white/10"
+              className="inline-flex h-11 w-11 touch-manipulation items-center justify-center rounded-xl text-slate-200 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 active:scale-95 motion-reduce:transform-none"
               aria-label="Open navigation"
+              aria-expanded={isOpen}
+              aria-controls="mobile-navigation-drawer"
             >
-              <Menu className="h-6 w-6" />
+              <Menu aria-hidden="true" className="h-6 w-6" />
             </button>
           </div>
-        </div>
-      </div>
+        </nav>
+      </header>
+
+      {/*
+       * Compensates for the fixed navbar so page content does not render
+       * underneath it.
+       */}
+      <div
+        aria-hidden="true"
+        className="md:hidden"
+        style={{
+          height: 'calc(5.25rem + env(safe-area-inset-top))',
+        }}
+      />
 
       <Transition appear show={isOpen} as={Fragment}>
-        <Dialog as="div" className="relative z-[9999]" onClose={setIsOpen}>
+        <Dialog
+          as="div"
+          className="relative z-[9999] md:hidden"
+          onClose={setIsOpen}
+        >
+          {/* Backdrop must stay behind the scrollable drawer */}
           <Transition.Child
             as={Fragment}
-            enter="transition-opacity ease-out duration-400"
+            enter="transition-opacity duration-300 ease-out motion-reduce:transition-none"
             enterFrom="opacity-0"
             enterTo="opacity-100"
-            leave="transition-opacity ease-in duration-280"
+            leave="transition-opacity duration-200 ease-in motion-reduce:transition-none"
             leaveFrom="opacity-100"
             leaveTo="opacity-0"
           >
-            <div className="fixed inset-0 bg-slate-950/50 backdrop-blur-sm" />
+            <div className="fixed inset-0 bg-slate-950/70 backdrop-blur-sm" />
           </Transition.Child>
 
-          <div className="fixed inset-0 overflow-y-auto">
-            <div className="min-h-full p-4 text-center">
-              <Transition.Child
-                as={Fragment}
-                enter="transition ease-out duration-400"
-                enterFrom="opacity-0 scale-95"
-                enterTo="opacity-100 scale-100"
-                leave="transition ease-in duration-280"
-                leaveFrom="opacity-100 scale-100"
-                leaveTo="opacity-0 scale-95"
+          <div className="fixed inset-0 flex justify-end overflow-hidden">
+            <Transition.Child
+              as={Fragment}
+              enter="transform transition duration-300 ease-out motion-reduce:transition-none"
+              enterFrom="translate-x-full"
+              enterTo="translate-x-0"
+              leave="transform transition duration-200 ease-in motion-reduce:transition-none"
+              leaveFrom="translate-x-0"
+              leaveTo="translate-x-full"
+            >
+              <Dialog.Panel
+                id="mobile-navigation-drawer"
+                className="flex h-[100dvh] w-full max-w-md flex-col overflow-hidden border-l border-sky-300/20 bg-slate-950/95 text-white shadow-2xl backdrop-blur-xl"
               >
-                <Dialog.Panel className="surface-glass mx-auto w-full max-w-sm transform overflow-hidden p-6 text-left align-middle text-white transition-all">
-                  <div className="flex justify-between items-center mb-6">
-                    <div>
-                      <p className="text-[11px] uppercase tracking-[0.18em] text-slate-400">Archive access</p>
-                      <h2 className="text-lg font-semibold tracking-tight">Navigation</h2>
+                {/* Fixed drawer header */}
+                <div
+                  className="shrink-0 border-b border-white/10 bg-slate-950/90 px-4 pb-4"
+                  style={{
+                    paddingTop:
+                      'max(1rem, env(safe-area-inset-top))',
+                  }}
+                >
+                  <div className="flex items-center justify-between gap-4">
+                    <div className="min-w-0">
+                      <p className="truncate text-[10px] font-semibold uppercase tracking-[0.2em] text-sky-300">
+                        Archive Access
+                      </p>
+
+                      <Dialog.Title className="mt-1 truncate text-xl font-semibold tracking-tight">
+                        Navigation
+                      </Dialog.Title>
                     </div>
+
                     <button
-                      onClick={() => setIsOpen(false)}
+                      type="button"
+                      onClick={closeNavigation}
                       aria-label="Close navigation"
-                      className="inline-flex h-[44px] w-[44px] items-center justify-center rounded-full transition hover:bg-white/10"
+                      className="inline-flex h-11 w-11 shrink-0 touch-manipulation items-center justify-center rounded-xl text-slate-300 transition hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 active:scale-95 motion-reduce:transform-none"
                     >
-                      <X className="h-5 w-5" />
+                      <X aria-hidden="true" className="h-5 w-5" />
                     </button>
                   </div>
 
-                  <div className="space-y-8">
-                    {/* 1. Ecosystem */}
-                    <section>
-                      <h3 className="mb-3 px-1 text-xs font-semibold tracking-wider text-gray-400 uppercase">Ecosystem</h3>
-                      <NavLinks items={ecosystemLinks} layout="mobile" onNavigate={() => setIsOpen(false)} />
-                    </section>
+                  <button
+                    type="button"
+                    data-autofocus
+                    onClick={openCommandPaletteFromDrawer}
+                    className="mt-4 flex min-h-12 w-full items-center gap-3 rounded-xl border border-white/10 bg-white/[0.055] px-4 text-left text-sm text-slate-200 transition hover:border-sky-300/30 hover:bg-white/10 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300"
+                  >
+                    <Search
+                      aria-hidden="true"
+                      className="h-4 w-4 shrink-0 text-sky-300"
+                    />
 
-                    {/* 2. Apps */}
-                    <section>
-                      <h3 className="mb-3 px-1 text-xs font-semibold tracking-wider text-gray-400 uppercase">Apps</h3>
-                      <div className="grid gap-1">
+                    <span className="min-w-0 flex-1 truncate">
+                      Search archive
+                    </span>
+                  </button>
+                </div>
+
+                {/* Only this region scrolls */}
+                <div
+                  className="min-h-0 flex-1 overflow-y-auto overscroll-contain px-4 pt-4"
+                  style={{
+                    paddingBottom:
+                      'max(1.5rem, env(safe-area-inset-bottom))',
+                  }}
+                >
+                  <div className="space-y-4">
+                    <NavigationSection title="Ecosystem">
+                      <MobileLinkGrid
+                        items={ecosystemLinks}
+                        onNavigate={closeNavigation}
+                      />
+                    </NavigationSection>
+
+                    <NavigationSection title="Apps">
+                      <div className="grid grid-cols-1 gap-2 min-[520px]:grid-cols-2">
                         {ecosystemNavigation.map((app) => {
-                          const isComingSoon = app.status === 'planned';
-                          const isExternal = app.type === 'external';
+                          const isComingSoon =
+                            app.status === 'planned';
+                          const isExternal =
+                            app.type === 'external';
 
                           const content = (
-                            <div className="flex items-center gap-2">
-                              <span className="truncate">{app.name}</span>
-                              {isExternal && !isComingSoon && <ExternalLink className="h-3 w-3 opacity-50" />}
-                              {isComingSoon && <span className="text-[10px] uppercase text-slate-400 border border-slate-700 rounded-full px-1.5 py-0.5 ml-auto">Planned</span>}
-                            </div>
+                            <>
+                              <span className="min-w-0 flex-1 break-words">
+                                {app.name}
+                              </span>
+
+                              {isExternal && !isComingSoon && (
+                                <ExternalLink
+                                  aria-hidden="true"
+                                  className="h-3.5 w-3.5 shrink-0 text-slate-400"
+                                />
+                              )}
+
+                              {isComingSoon && (
+                                <span className="shrink-0 rounded-full border border-slate-600 px-2 py-1 text-[9px] font-semibold uppercase tracking-wider text-slate-400">
+                                  Planned
+                                </span>
+                              )}
+                            </>
                           );
 
                           if (isComingSoon) {
                             return (
-                              <div key={app.name} className="flex min-h-[44px] items-center rounded-xl px-4 text-sm text-slate-400 opacity-60 cursor-not-allowed">
+                              <div
+                                key={app.name}
+                                aria-disabled="true"
+                                className="flex min-h-12 min-w-0 items-center gap-2 rounded-xl border border-white/5 bg-white/[0.025] px-4 py-3 text-sm text-slate-500"
+                              >
                                 {content}
                               </div>
                             );
@@ -144,9 +374,9 @@ export default function MobileNavbar() {
                                 key={app.name}
                                 href={app.href}
                                 target="_blank"
-                                rel="noreferrer"
-                                onClick={() => setIsOpen(false)}
-                                className="flex min-h-[44px] items-center rounded-xl px-4 text-sm transition hover:bg-white/10"
+                                rel="noopener noreferrer"
+                                onClick={closeNavigation}
+                                className={`${interactiveClassName} gap-2`}
                               >
                                 {content}
                               </a>
@@ -157,31 +387,33 @@ export default function MobileNavbar() {
                             <Link
                               key={app.name}
                               href={app.href}
-                              onClick={() => setIsOpen(false)}
-                              className="flex min-h-[44px] items-center rounded-xl px-4 text-sm transition hover:bg-white/10"
+                              onClick={closeNavigation}
+                              className={`${interactiveClassName} gap-2`}
                             >
                               {content}
                             </Link>
                           );
                         })}
                       </div>
-                    </section>
+                    </NavigationSection>
 
-                    {/* 3. Knowledge Base */}
-                    <section>
-                      <h3 className="mb-3 px-1 text-xs font-semibold tracking-wider text-gray-400 uppercase">Knowledge Base</h3>
-                      <NavLinks items={knowledgeNavigation} layout="mobile" onNavigate={() => setIsOpen(false)} />
-                    </section>
+                    <NavigationSection title="Knowledge Base">
+                      <MobileLinkGrid
+                        items={knowledgeNavigation}
+                        onNavigate={closeNavigation}
+                      />
+                    </NavigationSection>
 
-                    {/* 4. Company / Public */}
-                    <section>
-                      <h3 className="mb-3 px-1 text-xs font-semibold tracking-wider text-gray-400 uppercase">Company & Public</h3>
-                      <NavLinks items={companyLinks} layout="mobile" onNavigate={() => setIsOpen(false)} />
-                    </section>
+                    <NavigationSection title="Company & Public">
+                      <MobileLinkGrid
+                        items={companyLinks}
+                        onNavigate={closeNavigation}
+                      />
+                    </NavigationSection>
                   </div>
-                </Dialog.Panel>
-              </Transition.Child>
-            </div>
+                </div>
+              </Dialog.Panel>
+            </Transition.Child>
           </div>
         </Dialog>
       </Transition>

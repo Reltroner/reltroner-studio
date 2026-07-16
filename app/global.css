@@ -1,4 +1,337 @@
 @import "../styles/globals/index.css";
 
-.editorial-prose .rs-video-embed { width: 100%; max-width: 100%; clear: both; }
-.editorial-prose iframe, .editorial-prose video { max-width: 100%; position: relative; z-index: 10; pointer-events: auto; }
+/* =========================================================
+   GLOBAL LAYOUT HARDENING
+   ========================================================= */
+
+:root {
+    --mobile-navbar-height: 5.25rem;
+    --mobile-page-gutter: 1rem;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+
+    scroll-behavior: smooth;
+    scroll-padding-top: calc(var(--mobile-navbar-height) + env(safe-area-inset-top) + 1rem);
+
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+body {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    min-height: 100vh;
+    min-height: 100dvh;
+    margin: 0;
+
+    overflow-x: hidden;
+
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@supports (overflow: clip) {
+
+    html,
+    body {
+        overflow-x: clip;
+    }
+}
+
+/*
+ * Prevent flex and grid children from forcing a page wider
+ * than the mobile viewport.
+ */
+main,
+header,
+footer,
+nav,
+section,
+article,
+aside,
+figure,
+div {
+    min-width: 0;
+}
+
+/* =========================================================
+   RESPONSIVE MEDIA
+   ========================================================= */
+
+img,
+picture,
+svg,
+canvas,
+video,
+iframe,
+embed,
+object {
+    max-width: 100%;
+}
+
+img,
+picture,
+svg,
+canvas,
+video {
+    height: auto;
+}
+
+img,
+video,
+iframe {
+    display: block;
+}
+
+iframe {
+    border: 0;
+}
+
+/* Prevent media attributes from overriding mobile layout. */
+img[width],
+video[width],
+iframe[width] {
+    max-width: 100%;
+}
+
+/* =========================================================
+   INTERACTION AND ACCESSIBILITY
+   ========================================================= */
+
+button,
+a,
+input,
+textarea,
+select,
+summary {
+    touch-action: manipulation;
+}
+
+button,
+a {
+    -webkit-tap-highlight-color: transparent;
+}
+
+button,
+input,
+textarea,
+select {
+    font: inherit;
+}
+
+:focus-visible {
+    outline: 2px solid rgb(125 211 252);
+    outline-offset: 3px;
+}
+
+/*
+ * Ensure anchor destinations are not hidden behind the
+ * fixed mobile navbar.
+ */
+[id] {
+    scroll-margin-top: calc(var(--mobile-navbar-height) + env(safe-area-inset-top) + 1rem);
+}
+
+/* =========================================================
+   EDITORIAL CONTENT HARDENING
+   ========================================================= */
+
+.editorial-prose {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+
+    overflow-wrap: anywhere;
+    word-break: normal;
+}
+
+.editorial-prose>* {
+    max-width: 100%;
+}
+
+.editorial-prose p,
+.editorial-prose li,
+.editorial-prose blockquote,
+.editorial-prose figcaption,
+.editorial-prose h1,
+.editorial-prose h2,
+.editorial-prose h3,
+.editorial-prose h4,
+.editorial-prose h5,
+.editorial-prose h6 {
+    overflow-wrap: anywhere;
+}
+
+/* =========================================================
+   VIDEO EMBEDS
+   ========================================================= */
+
+.editorial-prose .rs-video-embed {
+    position: relative;
+    isolation: isolate;
+
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    clear: both;
+
+    overflow: hidden;
+    border-radius: inherit;
+}
+
+.editorial-prose .rs-video-embed iframe,
+.editorial-prose .rs-video-embed video {
+    position: relative;
+    z-index: 10;
+
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+
+    pointer-events: auto;
+}
+
+.editorial-prose .rs-video-embed iframe {
+    aspect-ratio: 16 / 9;
+}
+
+.editorial-prose iframe,
+.editorial-prose video {
+    position: relative;
+    z-index: 10;
+
+    max-width: 100%;
+    pointer-events: auto;
+}
+
+/* YouTube and other responsive iframe wrappers. */
+.editorial-prose iframe[src*="youtube.com"],
+.editorial-prose iframe[src*="youtube-nocookie.com"],
+.editorial-prose iframe[src*="youtu.be"],
+.editorial-prose iframe[src*="vimeo.com"] {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+}
+
+/* =========================================================
+   CODE AND TABLE OVERFLOW
+   ========================================================= */
+
+.editorial-prose pre {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    -webkit-overflow-scrolling: touch;
+}
+
+.editorial-prose pre code {
+    overflow-wrap: normal;
+    word-break: normal;
+    white-space: pre;
+}
+
+.editorial-prose :not(pre)>code {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
+
+.editorial-prose table {
+    width: max-content;
+    min-width: 100%;
+    max-width: none;
+    border-collapse: collapse;
+}
+
+.editorial-prose .table-wrapper,
+.editorial-prose [data-table-wrapper] {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    -webkit-overflow-scrolling: touch;
+}
+
+/*
+ * Fallback for Markdown tables that do not yet have
+ * an explicit wrapper.
+ */
+@media (max-width: 767px) {
+    .editorial-prose table {
+        display: block;
+        width: 100%;
+        min-width: 0;
+        max-width: 100%;
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+    }
+}
+
+/* =========================================================
+   MOBILE-SPECIFIC HARDENING
+   ========================================================= */
+
+@media (max-width: 767px) {
+    :root {
+        --mobile-page-gutter: 0.875rem;
+    }
+
+    body {
+        min-width: 0;
+    }
+
+    main {
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+    }
+
+    .editorial-prose {
+        min-width: 0;
+    }
+
+    /*
+   * Protect long navigation labels, URLs, tags, and metadata
+   * from creating horizontal page overflow.
+   */
+    .editorial-prose a,
+    .editorial-prose span,
+    .editorial-prose strong {
+        max-width: 100%;
+        overflow-wrap: anywhere;
+    }
+}
+
+/* =========================================================
+   REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+        scroll-duration: 0.01ms !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
