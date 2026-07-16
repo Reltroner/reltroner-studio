@@ -59,7 +59,7 @@ Antagonists are not meant to be easily hated. They are meant to be **understood*
 ---
 
 ### 5. **Eternal Debate**
-- Conflict is not just protagonist vs antagonist, but **comfort vs clarity**.  
+- Conflict is not just protagonist vs antagonist, but **illusion vs clarity**.  
 - Antagonists seduce with peace; protagonists resist with growth.  
 - The audience cannot stop asking: *“Would I choose Astralis, or Abyss?”*  
 

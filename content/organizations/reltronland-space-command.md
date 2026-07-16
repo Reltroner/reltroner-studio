@@ -40,7 +40,7 @@ The Reltronland Space Command (RSC) maintains a strictly meritocratic and clarit
 ### 🛡️ Supreme Void Authority
 
 #### 👑 **Astralis Sovereign Executor (ASE)**
-- **Current Holder:** Rei Reltroner (Founding Architect)
+- **Current Holder:** Reyvin Castor (Founding Architect)
 - **Rank Code:** ∆-0
 - **Role:** The highest spiritual and operational overseer of all RSC missions. Holds universal override across all fleet classes and voidfront decisions.
 - **Access Level:** Full Astralis Level 9 Clearance
@@ -438,7 +438,7 @@ Relay to Council Tag: ‘SUBCONSCIOUS FEAR SUSTAINS ABYSSAL STRUCTURES.’_
 
 ---
 
-## 🛡️ Entry: Command Code ∆-0 — Rei Reltroner
+## 🛡️ Entry: Command Code ∆-0 — Reyvin Castor
 
 > **Time:** Astralis Hour Zero  
 > **Clearance:** ∆-9 Origin Lock  
