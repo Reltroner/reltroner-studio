@@ -712,7 +712,7 @@ Its motto is:
 
 > **"Property Is No Longer Bound to Land."**
 
-### VoidLease Habitat Corporation
+### AstorLease Habitat Corporation
 
 Leases habitats and infrastructure to:
 

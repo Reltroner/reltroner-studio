@@ -29,7 +29,7 @@ Led by **Vitor Baythorne** (alias *Van Den Scuba*), Henchoway operates as a psyc
 
 * **Type:** Abyssal Cult Network (Non-national)
 * **Origin:** Deep-sea portal beneath Tremora Trench
-* **Founder:** Kamila Alena
+* **Founder:** Vexor Scuba
 * **Current Leader:** Vitor Baythorne (Van Den Scuba)
 * **Ideological Mask:** *Peace Through Stillness*
 * **Threat Level:** Maximum Psychological Hazard
@@ -62,7 +62,7 @@ Henchoway was originally established under the pretense of humanitarian explorat
 * **Location:** Deep waters of **Hargenbor Bay**
 * **Purpose:** Monitor anomalous energy signatures beneath the Central Ocean.
 
-The founder, **Kamila Alena**, sought to expand Nytherion influence across the sentient mindscape of Asthortera—subtly, invisibly.
+The founder, **Vexor Scuba**, sought to expand Nytherion influence across the sentient mindscape of Asthortera—subtly, invisibly.
 
 Then they found it.
 
@@ -156,7 +156,7 @@ It replaces clarity with calm fog.
 * Memory manipulation & re-education
 * Symbol: Black book with bubbles
 
-### 🔹 Kamila’s Inner Circle
+### 🔹 Vitor’s Inner Circle
 
 * Psychically fused cult elite
 * Symbol: Spiral mark on arm
@@ -251,7 +251,7 @@ Nytherion has fuel.
 
 ## 🧩 Legacy
 
-Henchoway is the spiritual continuation of Kamila's ambition—twisted by Nytherion energy.
+Henchoway is the spiritual continuation of Vitor's ambition—twisted by Nytherion energy.
 
 It is not merely an organization.
 
