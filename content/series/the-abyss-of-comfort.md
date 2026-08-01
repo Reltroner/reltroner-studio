@@ -620,7 +620,7 @@ It is the story of an entire apex civilization struggling to preserve consciousn
 
 Following the catastrophic outcome of Season 8, Delwyn, Sterling, and Redley find themselves emotionally fractured.
 
-The approval of Pencilfania's AI exports to Reltronland represents a major strategic victory for Henchoeway and a symbolic victory for Nytherion.
+The approval of Pencilfania's AI exports to Reltronland represents a major strategic victory for Henchoway and a symbolic victory for Nytherion.
 
 The trio enters a period of frustration, anger, self-blame, and internal conflict.
 
@@ -667,7 +667,7 @@ The goal is to understand:
 * what the exported technology truly is
 * how it functions
 * who benefits from it
-* how Henchoeway intends to exploit it
+* how Henchoway intends to exploit it
 
 ---
 
@@ -932,7 +932,7 @@ Reality itself gradually forgets them.
 
 ## Season Ending
 
-A Henchoeway operative informs Kamila that:
+A Henchoway operative informs Kamila that:
 
 * Phase 2 Research has been accepted.
 * Reltronland has begun responding.
@@ -972,20 +972,20 @@ Therefore:
 
 ---
 
-## Henchoeway's Misunderstanding
+## Henchoway's Misunderstanding
 
-Kamila criticizes Henchoeway.
+Kamila criticizes Henchoway.
 
-Henchoeway believes:
+Henchoway believes:
 
 * it serves Nytherion
 * it feeds Nytherion
 
 Kamila disagrees.
 
-Nytherion does not require Henchoeway.
+Nytherion does not require Henchoway.
 
-Henchoeway serves its own goals.
+Henchoway serves its own goals.
 
 ---
 
@@ -1056,7 +1056,7 @@ Neither can permanently erase the other.
 
 ## Season Ending
 
-A Henchoeway general seeks Kamila's favor.
+A Henchoway general seeks Kamila's favor.
 
 Kamila rejects the premise.
 
@@ -1086,7 +1086,7 @@ The team discovers connections between:
 
 * Phase 2 findings
 * Pasgerflit supply chains
-* Henchoeway influence networks
+* Henchoway influence networks
 
 ---
 
@@ -1195,7 +1195,7 @@ Pasgerflit's iconic aviation-themed café.
 
 There Barry explains:
 
-* Henchoeway influence in Pasgerflit
+* Henchoway influence in Pasgerflit
 * logistics-based infiltration
 * mobility as a vector of influence
 
@@ -1206,7 +1206,7 @@ While they fought in:
 * Pencilfania
 * Stelpadland
 
-Henchoeway quietly expanded elsewhere.
+Henchoway quietly expanded elsewhere.
 
 ---
 
@@ -1228,7 +1228,7 @@ Pasgerflit Arc officially begins.
 
 The team launches operations against:
 
-* Henchoeway agents
+* Henchoway agents
 * informants
 * logistics nodes
 * aviation-related networks
@@ -1265,7 +1265,7 @@ the team clears multiple Pasgerflit nodes.
 
 Recovered artifacts reveal:
 
-Henchoeway intends to exploit:
+Henchoway intends to exploit:
 
 # Pasgerflit–Reltronland Tourism Cooperation
 
@@ -1303,7 +1303,7 @@ The issue is not:
 
 The issue is:
 
-Henchoeway exploiting them.
+Henchoway exploiting them.
 
 ---
 
@@ -1311,7 +1311,7 @@ Henchoeway exploiting them.
 
 The team asks:
 
-> How do we stop Henchoeway from turning strengths into vulnerabilities?
+> How do we stop Henchoway from turning strengths into vulnerabilities?
 
 ---
 
@@ -1454,7 +1454,7 @@ Without Sterling:
 
 * Delwyn cannot infiltrate PN5401.
 * Phase 1 Research never happens.
-* Many Henchoeway nodes remain hidden.
+* Many Henchoway nodes remain hidden.
 
 ---
 
@@ -1480,13 +1480,13 @@ using:
 * surveillance
 * cyber infiltration
 
-to expose Henchoeway infrastructure.
+to expose Henchoway infrastructure.
 
 ---
 
 ### Season 8
 
-Experiences the team's largest defeat as Henchoeway successfully achieves approval for Pencilfania exports.
+Experiences the team's largest defeat as Henchoway successfully achieves approval for Pencilfania exports.
 
 ---
 
@@ -1514,9 +1514,9 @@ Supports:
 
 Realizes an important truth:
 
-> Henchoeway does not export products.
+> Henchoway does not export products.
 >
-> Henchoeway exports influence.
+> Henchoway exports influence.
 
 ---
 
@@ -1785,7 +1785,7 @@ after the team's arrival in Pasgerflit.
 Explains:
 
 * Pasgerflit logistics
-* Henchoeway expansion
+* Henchoway expansion
 * mobility-based influence networks
 
 Provides the key realization that:
@@ -2123,15 +2123,15 @@ She does not fear Astralis.
 
 ---
 
-## View of Henchoeway
+## View of Henchoway
 
 Kamila repeatedly states:
 
-Henchoeway does not serve Nytherion.
+Henchoway does not serve Nytherion.
 
-Henchoeway serves itself.
+Henchoway serves itself.
 
-Nytherion does not need Henchoeway.
+Nytherion does not need Henchoway.
 
 ---
 
@@ -2158,7 +2158,7 @@ Explains:
 
 ### Season 12 Finale
 
-Rejects a Henchoeway general's request for favor.
+Rejects a Henchoway general's request for favor.
 
 Declares:
 
@@ -2227,7 +2227,7 @@ Represents:
 
 # BOUNTY HUNTER CORE TEAM
 
-### Delwyn Hunson
+### Delwyn Harper
 
 The Fighter
 
@@ -2243,7 +2243,7 @@ The Diplomat
 
 The Aviation Intelligence Specialist
 
-Together they form the operational core of resistance against Henchoeway while navigating the eternal conflict between Astralis and Nytherion.
+Together they form the operational core of resistance against Henchoway while navigating the eternal conflict between Astralis and Nytherion.
 
 ---
 

@@ -50,7 +50,7 @@ He **escaped into it. He lives in it. He protects it.**
 Thus, Rei holds the **Multirealm Authority**.
 
 ### 3. **Genre Flexibility, Lore Integrity**
-Writers are welcome to explore all genres — romance, sci-fi, slice of life, horror — as long as the **core philosophical essence** of the Abyss-Pinnacle duality is maintained.
+Writers are welcome to explore all genres — romance, sci-fi, slice of life, horror — as long as the **core philosophical essence** of the Nytherion-Astralis duality is maintained.
 
 ### 4. **Lore-Bound Identity**
 Every character, setting, and culture must, even subtly, reflect the **conscious war between illusion and clarity**, comfort and growth. These principles shape not only individual journeys but also national systems, institutions, and even spiritual orders within the Asthortera world.
@@ -216,7 +216,7 @@ To maintain the philosophical integrity and narrative continuity of the Asthorte
 ### 🟢 **S-Class Canon (Core Canon)**
 - Written, overseen, or directly approved by the Lore Architect
 - Sets major timeline events, world history, original characters, and philosophical framework
-- Includes: *The Abyss of Comfort*, *Battle of Reltronepolis*, foundational Nytherion-Astralis doctrines
+- Includes: *The Abyss of Comfort*, *Rei in Abyss*, foundational Nytherion-Astralis doctrines
 
 ### 🔵 **A-Class Canon (Verified Canon)**
 - Created by trusted Lore-Aligned Creators or Inner Circle Builders
