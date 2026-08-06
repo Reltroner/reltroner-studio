@@ -311,7 +311,7 @@ Its archives preserve truths that would otherwise disappear.
 Watson is considered one of Asthortera's foremost experts on:
 
 - Nytherion Abyss
-- Henchoeway
+- Henchoway
 - Narrative Erasure
 - Abyssal Memory Corruption
 
@@ -349,7 +349,7 @@ Throughout his career, Watson has contributed to some of the most important hist
 
 He has:
 
-- Recovered forbidden relics from Eterna Ruins
+- Recovered forbidden relics from Erterna Ruins
 - Rediscovered ancient references to Reltroner
 - Preserved records of Abyss survivors
 - Reconstructed fragmented historical narratives
@@ -361,7 +361,7 @@ He has:
 Watson remains one of the leading contributors to ongoing investigations involving:
 
 - Nytherion Abyss
-- Henchoeway
+- Henchoway
 - Memory corruption phenomena
 - Narrative instability events
 
