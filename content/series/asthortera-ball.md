@@ -2,7 +2,7 @@
 title: "Asthortera Ball"
 subtitle: "The Quiet Drift"
 description: "Official franchise profile for Asthortera Ball, an animated countryball series exploring civilization, stagnation, growth, and the subtle influence of Nytherion Abyss across the world of Asthortera."
-image: "/images/series/asthortera-ball.webp"
+image: "/images/asthortera-countryball-characters.webp"
 creator: "Reltroner Studio"
 universe: "Asthortera"
 continuity: "Primary Canon"

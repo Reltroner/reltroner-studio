@@ -155,7 +155,7 @@ Access is highly regulated due to the possibility of temporal drift, dimensional
 
 # 4. 🌌 Major Cities
 
-## 4.1 Cosmeiliapolis
+## 4.1 Astrosetria
 
 - **Function:** Capital of governance and science
 - **Character:** Administrative, academic, ceremonial, cosmological
@@ -188,11 +188,11 @@ Nebuloria represents Astrostelia's contemplative soul.
 
 ---
 
-## 4.4 Astrosetria
+## 4.4 Cosmeiliapolis
 
 - **Function:** Urban cosmopolis
 - **Character:** Multicultural, academic, diplomatic, interdimensional
-- **Notable Sites:** Voidgate Academy, Anti-Gravity Gardens
+- **Notable Sites:** AstorteraVoidgate Academy, Anti-Gravity Gardens
 - **Institutional Role:** Hosts international students, dimensional diplomats, researchers, and cultural institutions
 
 Astrosetria represents Astrostelia's cosmopolitan consciousness.
@@ -338,7 +338,7 @@ A hybrid institution combining:
 - Cosmic memory studies
 - Ethical deliberation
 
-## 6.5 Voidgate Academy
+## 6.5 Astortera Voidgate Academy
 
 An interdimensional university specializing in:
 

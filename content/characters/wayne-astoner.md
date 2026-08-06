@@ -74,7 +74,7 @@ Skytropolis, once a small neighborhood, became a modern business district due to
 - Considered a badge of honor to live and work here.
 
 ### Hidden Tension
-Living in Skytropolis means Wayne lives **within the sphere of Skytrone’s influence**, both professionally and personally. This creates a growing inner tension between embracing opportunity and resisting corporate control. Henchoeway could exploit this tension by infiltrating local networks and undermining merit-based progress.
+Living in Skytropolis means Wayne lives **within the sphere of Skytrone’s influence**, both professionally and personally. This creates a growing inner tension between embracing opportunity and resisting corporate control. Henchoway could exploit this tension by infiltrating local networks and undermining merit-based progress.
 
 ---
 
@@ -92,7 +92,6 @@ He walks a thin line between being a changemaker and being consumed by the very 
 - **Barry Heathrow** – Sees in Wayne the future of balanced leadership. Supports his efforts behind the scenes.
 - **Delwyn Harper** – A figure of contrast and eventual collaboration. Wayne respects his logic but diverges on emotional strategy.
 - **Evara Alena** – A mysterious connection from Kamila’s lineage. Their interactions shake Wayne’s belief in identity.
-- **Regulus Rigel** – Symbol of ideal Reltroner values. A silent judge of Wayne’s worth.
 
 ---
 

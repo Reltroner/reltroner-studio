@@ -1,7 +1,7 @@
 ---
 title: "🤿 Brexar Veilthorn — The Eternal Diver of Henchoway"
 description: "A Hargenborian abyssal pathfinder born in Aqualis Prime whose absolute devotion to diving leads him into Henchoway, where the promise of remaining a diver forever becomes both his freedom and his prison."
-image: "/images/brexar-veilthorn.webp"
+image: "/images/brexar-veilthorn1.webp"
 author: "Rei Reltroner"
 date: "2026-07-17"
 published: true
@@ -23,6 +23,8 @@ tags:
     "asthortera"
   ]
 ---
+
+![brexar-veilthorn](/images/brexar-veilthorn.webp)
 
 # 🤿 Brexar Veilthorn — The Eternal Diver of Henchoway
 

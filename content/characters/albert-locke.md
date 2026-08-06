@@ -10,7 +10,7 @@ quote: "Stars don't lie. But we often refuse to hear what they whisper."
 ---
 
 ## Basic Information
-- **Origin:** Cosmeiliapolis, Astrostelia  
+- **Origin:** Astrosetria, Astrostelia  
 - **Race:** Human–Cosmeilia Hybrid  
 - **Affiliation:** Institute of Cosmic Phenomena (ICP)  
 - **Status:** Active / Alive  
@@ -18,7 +18,7 @@ quote: "Stars don't lie. But we often refuse to hear what they whisper."
 ---
 
 ## Background
-Albert Locke is a senior astrophysicist and cosmic analyst born in the research-driven city of **Cosmeiliapolis**, capital of scientific thought in **Astrostelia**. He is known for his relentless pursuit of truth through data, cosmic observation, and quantum logic.
+Albert Locke is a senior astrophysicist and cosmic analyst born in the research-driven city of **Astrosetria**, capital of scientific thought in **Astrostelia**. He is known for his relentless pursuit of truth through data, cosmic observation, and quantum logic.
 
 He has worked closely with research councils across **Reltronland**, **Depcutland**, and **Astrostelia**, often acting as a silent mediator when science is politicized. Despite his skeptical and highly logical nature, Albert still holds a sentimental curiosity — a quiet wonder that maybe, just maybe, not everything in the universe can be reduced to code.
 

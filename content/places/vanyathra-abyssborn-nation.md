@@ -13,24 +13,12 @@ published: true
 
 ## 🌌 Location
 
-* **Galaxy Position**: Outer Veil (far beyond the Astralis Core)
+* **Galaxy Position**: Outer Veil (far beyond the Astralis Core/Central World)
 * **Planet Name**: *Jannaveza Minor*
 * **Planet Size**: \~89% the size of Earth
 * **Orbit Region**: Spiral Tail Fringe, categorized as a **low-sentience orbit zone**
-* **Distance from Astralis Core**: Estimated 125,000 lightyears
+* **Distance from Galactic Core**: Estimated 125,000 lightyears
 * **Galaxy Diameter**: Asthortera Galaxy spans **250,000 lightyears**, larger than Andromeda
-
-## 🧬 Racial Composition
-
-* Predominantly of **Austronesian-Malay sentients**
-* Known for cultural warmth, but politically fragmented and institutionally hollow
-* Indigenous dialects lost during military-corporate regime expansion
-
-> ⚠️ *Disclaimer*:
-> The term “Austronesian-Malay sentients” in this narrative is a **fictional anthropological label** within the Asthortera galaxy. It is **not intended to represent or generalize any real-world ethnicity or nation**.
-> These sentients are shaped by their **socio-political environment**, not their genetics.
-> Vanyathra’s downfall reflects **a collapse of systems**, not an inherent trait of its people.
-> This narrative is a metaphor for how comfort, illusion, and institutional failure can erode the spirit of any civilization—**regardless of species, race, or planet**.
 
 ---
 

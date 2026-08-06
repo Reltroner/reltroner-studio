@@ -604,7 +604,7 @@ It describes the first decade after formal founding in **1125 BAC**.
 
 - **Leastroper** is established as a demilitarized diplomatic zone.
 - Trade paths are mapped toward Krisberia and other regions.
-- The first **Aurora of Craft** dialogue is held.
+- The first **Crystal of Craft** dialogue is held.
 
 ---
 
