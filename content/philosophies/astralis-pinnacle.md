@@ -17,7 +17,7 @@ This doctrine defines the uncompromising path known as the **Red Pill Extreme** 
 
 ---
 
-## 🌌 The Foundational Five Pillars of Astralis Pinnacle
+## 🌌 The Foundational Four Pillars of Astralis Pinnacle
 
 ### 🧠 **Clarity of Mind**
 
@@ -42,12 +42,6 @@ This doctrine defines the uncompromising path known as the **Red Pill Extreme** 
 * All citizens rise by merit, not by birth, wealth, or privilege.
 * Institutions and leadership are driven by capability and contribution.
 * Equality of *opportunity*, not *outcome*.
-
-### 🛡️ **Voidfront Responsibility**
-
-* All power must serve sentience, not control it.
-* Warfare, technology, and expansion must preserve balance and harmony.
-* Defend the void not with domination, but with discipline and purpose.
 
 ---
 

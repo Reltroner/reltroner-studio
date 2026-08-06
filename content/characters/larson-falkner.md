@@ -20,8 +20,6 @@ tags:
   - Institutional Meritocracy
 ---
 
-![Larson Falkner](/images/larson-falkner.webp)
-
 # 🛡️ LARSON FALKNER
 
 ## The Guardian of Reltronland Aviation Security

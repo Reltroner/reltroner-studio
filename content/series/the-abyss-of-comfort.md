@@ -94,7 +94,7 @@ We are architects of inconvenient truths.
 ---
 
 ## 📖 Overview
-**Timeline:** Year 6 to Year 25  
+**Timeline:** Year 0 to Year 25  
 **Main POV:** Delwyn Harper, Isaac Luminar, Barry Heathrow, Valethra Seraphine Lunara  
 **Antagonists:** Kamila Alena, Henchoway, and the unseen forces of Nytherion Abyss  
 

@@ -205,12 +205,12 @@ And there is no Astralis without the one who bled for it first."_
 ---
 
 **3. Title:** *Karler & The Moreg Driftwar*  
-**Timeline:** Year 0–25  
+**Timeline:** 
 **Main POV:** Karler Miles & Luke  
 **Summary:** A technology-driven war sparked by the misuse of Drift Tech linked to Spiral corruption. Karler, a data engineer, teams up with Luke to end the madness while struggling with the cost of innovation.
 **Key Scenes:**  
 - Karler discovering Drift Time Leakage in the Moreg District  
-- Rei sacrificing his physical form to stop a Spiral Overdrive weapon  
+- Luke sacrificing his physical form to stop a Spiral Overdrive weapon  
 - Post-war tribunal where Karler testifies about knowledge vs wisdom
 
 ---
@@ -227,7 +227,7 @@ And there is no Astralis without the one who bled for it first."_
 ---
 
 **5. Title:** *The Abyss of Comfort*  
-**Timeline:** Year 6–25  
+**Timeline:** Year 0–25  
 **Main POV:** Delwyn, Barry, Valethra  
 **Summary:** The spiritual war against Nytherion Abyss. Focuses on internal suffering, illusions of comfort, and the search for truth through the "Energy Red Pill." A deeply emotional and philosophical arc.
 **Key Scenes:**  
@@ -342,7 +342,7 @@ And there is no Astralis without the one who bled for it first."_
 - Infiltrate corrupted cosmic agencies
 
 **🚀 Karler Miles**  
-- Cyber engineer and mech specialist from Moreg  
+- Engineer and mech specialist from Moreg  
 - Operates in silent war against Drift-Abyss Tech Syndicates
 
 ---

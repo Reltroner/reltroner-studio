@@ -86,7 +86,7 @@ This chain defines Taramistry's role in Asthortera:
 | **Sentient Development Index** | 0.954 / 1.000 |
 | **Gini Coefficient** | 0.32 |
 | **Annual Economic Growth** | 8% average over the past 100 years |
-| **National Debt to GDP Ratio** | 58% |
+| **National Debt to GDP Ratio** | 68% |
 | **CO₂ Emissions per Capita** | 4.9 metric tons |
 | **Gross National Income Per Capita** | $TAR2,256,740 / year |
 | **Main Economic Identity** | Biotechnology, pharmaceuticals, chemical technology, research education, digital biotech finance, public innovation funding |

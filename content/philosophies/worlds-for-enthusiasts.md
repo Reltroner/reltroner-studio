@@ -25,7 +25,7 @@ published: true
 - **Designed For:** Car lovers, street racers, transport engineers, modders, AI-automotive nerds
 - **Core Identity:** Built for people who dream in horsepower, circuit design, and road maps
 - **SDI:** 0.931
-- **Tagline:** *Kingdom of Custom Roads*
+- **Tagline:** *Republic of Custom Roads*
 - **Cultural Icons:** Urban drift festivals, dynamic traffic grids, generational garage culture
 
 ### ⚓ Hargenbor — Nation of the Nautical Spirit
@@ -77,7 +77,7 @@ Together, they form the **Enthusiast Trifecta** of Asthortera.
 
 ### 🚗 Moreg — The Roadbound Republic
 - **Core Passion:** Automotive Engineering, Modding, Mobility Culture
-- **Nicknames:** *Kingdom of Custom Roads*, *Land of Horsepower*
+- **Nicknames:** *Republic of Custom Roads*, *Land of Horsepower*
 - **Cultural Traits:**
   - Garage cities and AI vehicle creation hubs
   - National competitions in road layout design
