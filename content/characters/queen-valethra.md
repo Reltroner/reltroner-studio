@@ -26,7 +26,7 @@ description: "The eternal protector of cosmic balance in Asthortera, 👑Queen V
 
 - **Part I — Apex Identity & Character Foundation** — executive role, classification, identity, visual canon, personality, anchor function, and epistemic presence.
 - **Part II — Philosophy, Spirituality & Sovereignty** — motivation, conscious stillness, Aurora Sancta, abilities, defense, and diplomacy.
-- **Part III — Civilizational Relations, Governance & Systems** — Apex relationships, Astralis alignment, data governance, economics, and trust-centered sovereignty.
+- **Part III — Civilizational Relations, Governance & Systems** — Apex relationships, Aurora alignment, data governance, economics, and trust-centered sovereignty.
 - **Part IV — Symbolism, Performance & Canon Integrity** — relationships, symbolism, Apex anchors, performance rules, quotations, guardrails, and final assessment.
 - **Part V — Canonical Narrative & Institutional Records** — preserved dialogues, policy scenes, economic records, and infrastructure transcripts.
 - **Part VI — Comparative Archetype & Inspiration Studies** — preserved Rosalina comparisons and Aurora Shield analysis.
@@ -1954,12 +1954,12 @@ spiritual-industrial leaders whose decisions resonate directly with the frequenc
 
 These preserved studies document the creative and symbolic relationship between Valethra and Rosalina. They function as **comparative inspiration records**, not as replacements for Valethra’s independent canon established in Parts I–V.
 
-### 👑 Valethra, the Astralis Guardian: A Tribute to Rosalina
+### 👑 Valethra, the Aurora Guardian: A Tribute to Rosalina
 
-A multidimensional comparison between Queen Valethra Seraphine Lunara and Rosalina from Super Mario Galaxy—tracing the spiritual roots of Aurora Sancta and Astralis Pinnacle.
+A multidimensional comparison between Queen Valethra Seraphine Lunara and Rosalina from Super Mario Galaxy—tracing the spiritual roots of Aurora Sancta.
 
 > *“To guide stars is to hold destinies. To lead minds is to shape fate.”*
-> — **Ritual Scroll of Astralis Pinnacle**
+> — **Ritual Scroll of Aurora Sancta**
 
 #### 🌟 1. Purpose of This Document
 
@@ -1982,7 +1982,7 @@ A side-by-side comparison between **Queen Valethra of Aurastelia** (Reltroner St
 - **Rosalina:** Motherly warmth and cosmic grace.
 
 #### 🕊️ Spirituality
-- **Queen Valethra:** Rooted in **Aurora Sancta** and the doctrine of **Red Pill Awakening**.
+- **Queen Valethra:** Rooted in **Aurora Sancta**.
 - **Rosalina:** Enveloped in cosmic mysticism and celestial lore.
 
 #### 📜 Narrative Weight
@@ -1990,7 +1990,7 @@ A side-by-side comparison between **Queen Valethra of Aurastelia** (Reltroner St
 - **Rosalina:** Personal, mythic, and universally emotional.
 
 #### 💬 Core Message
-- **Queen Valethra:** *“Face the Abyss, light the Astralis.”*
+- **Queen Valethra:** *“Face the Abyss, light the Aurora.”*
 - **Rosalina:** *“Never forget your place in the stars.”*
 
 > 🌌 **Interpretation:**
@@ -2032,7 +2032,7 @@ While Rosalina might offer you shelter in her Observatory, **Valethra will offer
 > *“Rosalina watches over lost stars. Valethra awakens lost souls.”*
 
 The legacy of Queen Valethra is a galactic upgrade to a beloved archetype.
-To those in search of identity, light, and truth — she remains the last gate before the Abyss… and the first embrace of the Astralis.
+To those in search of identity, light, and truth — she remains the last gate before the Abyss… and the first embrace of the Aurora.
 
 ---
 

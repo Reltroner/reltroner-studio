@@ -1,7 +1,7 @@
 ---
 title: "Delwyn Harper"
 description: "A truth-driven investigator, hunted fugitive, field operative, and founding member of the anti-Henchoway bounty hunter team whose refusal of false comfort makes him one of the clearest human expressions of Astralis."
-image: "/images/delwyn-harper2.webp"
+image: "/images/delwyn-harper4.webp"
 author: "Rei Reltroner"
 date: "2026-08-06"
 published: true
@@ -19,6 +19,7 @@ tags:
   - Truth and Memory
 ---
 
+![delwyn-harper](/images/delwyn-harper2.webp)
 ![delwyn-harper](/images/delwyn-harper3.webp)
 
 # 🔺 DELWYN HARPER
