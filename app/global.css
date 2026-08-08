@@ -235,17 +235,43 @@ select {
     width: 100%;
     max-width: 100%;
     overflow-x: auto;
+    white-space: pre;
+    word-break: normal;
+    overflow-wrap: normal;
     overscroll-behavior-inline: contain;
     -webkit-overflow-scrolling: touch;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    padding: 1.25rem 1.5rem;
+    border-radius: 0.75rem;
+    background-color: #090d16;
+    border: 1px solid rgba(51, 65, 85, 0.6);
+    color: #f1f5f9;
+    margin-block: 1.75rem;
 }
 
 .editorial-prose pre code {
-    overflow-wrap: normal;
-    word-break: normal;
     white-space: pre;
+    word-break: normal;
+    overflow-wrap: normal;
+    font-family: inherit;
+    font-size: inherit;
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    color: inherit;
 }
 
 .editorial-prose :not(pre)>code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 0.85em;
+    font-weight: 500;
+    color: #38bdf8;
+    background-color: rgba(15, 23, 42, 0.8);
+    border: 1px solid rgba(56, 189, 248, 0.2);
+    padding: 0.15rem 0.4rem;
+    border-radius: 0.25rem;
     overflow-wrap: anywhere;
     word-break: break-word;
 }

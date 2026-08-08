@@ -715,7 +715,7 @@ This group includes major patent owners, biotech founders, high-value licensors,
 |---|---:|
 | **Gini Coefficient** | 0.32 |
 | **Annual Economic Growth** | 8% average over the past 100 years |
-| **National Debt to GDP Ratio** | 58% |
+| **National Debt to GDP Ratio** | 68% |
 | **CO₂ Emissions per Capita** | 4.9 metric tons |
 | **Gross National Income Per Capita** | $TAR2,256,740 / year |
 | **Estimated Daily GNI Capacity Per Capita** | ~$TAR6,183 / day |

@@ -37,23 +37,40 @@
 
   pre,
   code {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    white-space: pre-wrap;
-    word-break: break-word;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    white-space: pre;
+    word-break: normal;
     overflow-x: auto;
-    border-radius: 0.375rem;
+    max-width: 100%;
   }
 
   .prose pre {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    border-radius: 0.375rem;
-    white-space: pre-wrap;
-    word-break: break-word;
+    padding: 1.25rem 1.5rem;
+    border-radius: 0.75rem;
+    white-space: pre;
+    word-break: normal;
     overflow-x: auto;
-    background-color: #0f172a;
-    color: #f8fafc;
+    max-width: 100%;
+    background-color: #090d16;
+    border: 1px solid rgba(51, 65, 85, 0.6);
+    color: #f1f5f9;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    overscroll-behavior-inline: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .prose pre code {
+    white-space: pre;
+    word-break: normal;
+    overflow-wrap: normal;
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
   }
 
   input::placeholder,

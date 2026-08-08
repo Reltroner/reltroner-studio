@@ -1,10 +1,7 @@
 export default function BlogLayout({ children }) {
     return (
-        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
-            
-            <div>
+        <div className="w-full max-w-full">
             {children}
-            </div>
         </div>
     )
 }

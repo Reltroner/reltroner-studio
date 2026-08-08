@@ -1,6 +1,6 @@
 ---
 title: "For Recruiters & Collaborators"
-description: "Professional overview for recruiters and collaborators seeking a backend/platform engineer with ERP SaaS architecture, secure authentication, production delivery, and business-facing Problem → Solution → Result execution"
+description: "Professional overview for recruiters and collaborators seeking a full-stack/platform engineer with system architecture, system engineering, ERP SaaS architecture, secure authentication, production delivery, and business-facing Problem → Solution → Result execution"
 date: "2026-07-01"
 published: true
 image: "/images/for-recruiters-banner.webp"
@@ -9,13 +9,13 @@ image: "/images/for-recruiters-banner.webp"
 # For Recruiters & Collaborators
 
 Hello —
-I'm **Rei Reltroner** (Raidan Sandra), a backend/platform engineer focused on **deterministic systems, modular architecture, secure authentication, ERP SaaS systems, and production-grade delivery**.
+I'm **Rei Reltroner** (Raidan Sandra), a full-stack/platform engineer with system architecture and system engineering focus, specializing in **deterministic systems, modular architecture, secure authentication, ERP SaaS systems, and production-grade delivery**.
 
 I build systems that are not only functional, but also **auditable, predictable, maintainable, business-readable, and safe to operate in real production environments**.
 
 My current professional direction is:
 
-> **Backend / Platform Engineer with ERP SaaS architecture, OIDC/SSO, Keycloak, Cloudflare, Laravel, Next.js, production debugging, and business-system reasoning — able to translate complex systems into Problem → Solution → Result value for real clients.**
+> **Full-Stack / Platform Engineer with System Architecture & System Engineering, ERP SaaS architecture, OIDC/SSO, Keycloak, Cloudflare, Laravel, Next.js, production debugging, and business-system reasoning — able to translate complex systems into Problem → Solution → Result value for real clients.**
 
 ---
 
@@ -23,14 +23,14 @@ My current professional direction is:
 
 **Role Positioning**
 
-Backend / Platform Engineer
-Backend / System Engineer
+Full-Stack / Platform Engineer
+System Engineer / System Architect
 ERP SaaS Business Architecture Engineer
 Full-Cycle Software Engineer with infrastructure, authentication, and business-process ownership
 
 **Primary Focus**
 
-* Backend engineering with Laravel, PHP, RESTful APIs, service isolation, and production validation
+* Full-stack engineering across frontend and backend with Next.js, Laravel, PHP, RESTful APIs, service isolation, and production validation
 * Platform and identity infrastructure involving Keycloak, OIDC, SSO, JWT RS256, OAuth2, PKCE, JWKS, and Cloudflare
 * Modular system architecture for ERP, LMS, SaaS, and production platform systems
 * ERP business-process architecture across Inventory, Procurement, WMS, Sales, Finance, HRIS, Reports, Settings, and AI Assistant layers
@@ -43,7 +43,7 @@ Full-Cycle Software Engineer with infrastructure, authentication, and business-p
 
 ## Professional Summary
 
-I am a backend/platform engineer with hands-on experience delivering end-to-end engineering solutions in production-facing environments.
+I am a full-stack/platform engineer with system architecture and system engineering focus, with hands-on experience delivering end-to-end engineering solutions in production-facing environments.
 
 My work combines:
 
@@ -126,7 +126,7 @@ My goal is to make systems that:
 ## Case Study 1 — Client Portal Authentication Modernization & Same-Origin API Routing
 
 **Project:** Skill-Wanderer Client Portal
-**Role:** Backend / Platform Engineer
+**Role:** Full-Stack / Platform Engineer
 **Stack:** Laravel, Keycloak, OIDC, JWT RS256, JWKS, Cloudflare Workers, Cloudflare Tunnel, Next.js, Rancher/Kubernetes, GitHub Actions
 **Production URL:** [client.skill-wanderer.com](https://client.skill-wanderer.com)
 
@@ -189,7 +189,7 @@ For the `skill-wanderer-admin` realm, the token also needed:
 
 ```json
 "realm_access": {
-  "roles": ["client"]
+  "roles": ["client"]
 }
 ```
 
@@ -344,7 +344,7 @@ Role: AUTHENTICATED
 ## Case Study 2 — Emergency SSO Domain Isolation for Production LMS
 
 **Project:** Reltroner Learning Academy / Reltroner Identity
-**Role:** Backend / Platform Engineer
+**Role:** Full-Stack / Platform Engineer
 **Stack:** Cloudflare DNS, Cloudflare Tunnel, Keycloak, OIDC Authorization Code + PKCE, Cloudflare Pages, Next.js, Rancher/Kubernetes
 **Production URLs:**
 [lms.reltroner.com](https://lms.reltroner.com)
@@ -405,18 +405,18 @@ Final architecture:
 
 ```text
 https://lms.reltroner.com
-        |
-        | OIDC Authorization Code + PKCE
-        v
+        |
+        | OIDC Authorization Code + PKCE
+        v
 https://sso.reltroner.com/realms/reltroner
-        |
-        v
+        |
+        v
 Cloudflare Tunnel: blog-skill-wanderer
-        |
-        v
+        |
+        v
 http://keycloak.keycloak:8080
-        |
-        v
+        |
+        v
 Keycloak Realm: reltroner
 ```
 
@@ -444,8 +444,8 @@ Cross-system isolation was also validated:
 
 ```text
 Skill-Wanderer → sso.skill-wanderer.com
-Chanhdao       → sso.chanhdao.vn
-Reltroner      → sso.reltroner.com
+Chanhdao       → sso.chanhdao.vn
+Reltroner      → sso.reltroner.com
 ```
 
 **Impact:**
@@ -581,37 +581,38 @@ software architecture
 
 ---
 
-## Case Study 4 — Reltroner ERP Ecosystem
+## Case Study 4 — Reltroner HRM
 
-**Role:** Backend Engineer
+**Role:** Full-Stack / Platform Engineer
 **Stack:** Laravel 12, PHP 8.2+, MySQL, Keycloak OIDC, GitHub Actions
 **Period:** March 2025 – Present
 **Live Demo:** [hrm.reltroner.com](https://hrm.reltroner.com)
 
 ### Case
 
-The system required a modular ERP foundation capable of supporting HRM, finance, authentication, auditability, and future service expansion.
+The system required a modular HRM foundation capable of supporting employee management, organizational data, centralized authentication, auditability, and future HR service expansion.
 
 The core challenge was not only building CRUD modules, but designing a backend structure that could support:
 
 * Centralized authentication
-* Service separation
-* Audit-safe financial operations
-* Immutable transaction history
-* Deterministic reporting
+* Employee and organizational data management
+* Modular HR service separation
+* Role-based access and authorization
+* Audit trails for sensitive HR operations
+* Reliable and consistent HR data
 * Long-term maintainability
 
 ### Solution
 
-I designed and built a modular ERP platform with:
+I designed and built a modular HRM platform with:
 
-* Multi-service architecture: Gateway, HRM, Finance
+* Modular backend architecture for HRM services
 * Centralized SSO using Keycloak OIDC
-* RESTful APIs for inter-service communication
-* Immutable financial transaction model using append-only + reversal pattern
+* RESTful APIs for HR data and service communication
+* Structured employee and organizational data management
+* Role-based access control for protected HR operations
 * Audit logging for traceability
-* Fiscal locking to preserve reporting integrity
-* Snapshot-based deterministic financial reporting
+* Consistent data validation and business rules
 * Structured documentation for onboarding and maintenance
 * Automated tests covering unit, feature, and regression scenarios
 
@@ -619,22 +620,22 @@ I designed and built a modular ERP platform with:
 
 **System Scale:**
 
-* 3 independent repositories
+* Modular HRM backend architecture
 * 150+ automated tests
 * 100+ database migrations
-* HRM and Finance modules delivered end-to-end
+* Core HRM modules delivered end-to-end
 
 **Impact:**
 
-* Built production-ready ERP modules
+* Built a production-ready HRM platform
 * Reduced onboarding time by approximately 20% through structured documentation
-* Improved auditability and reporting reliability
-* Created a foundation for scalable ERP service expansion
+* Improved traceability and reliability of HR operations
+* Centralized authentication and access control through Keycloak
+* Created a foundation for scalable HRM service expansion
 
 Repositories:
 
 * [github.com/Reltroner/reltroner-app-main](https://github.com/Reltroner/reltroner-app-main)
-* [github.com/Reltroner/finance-reltroner](https://github.com/Reltroner/finance-reltroner)
 
 Documentation:
 
@@ -707,9 +708,9 @@ I handled the incident with a structured remediation process:
 * Force-pushed sanitized history safely
 * Implemented preventive controls:
 
-  * `.gitignore`
-  * pre-commit hooks
-  * secret hygiene workflow
+  * `.gitignore`
+  * pre-commit hooks
+  * secret hygiene workflow
 
 ### Result
 
@@ -776,11 +777,11 @@ Worked on understanding, mapping, and communicating Tradixa as an ERP SaaS platf
 * Created a repeatable affiliate sales narrative based on operational pain and measurable business outcomes
 * Improved ERP domain fluency across real retail and distribution workflows
 * Built stronger alignment between software engineering, client discovery, and commercial value realization
-* Expanded professional positioning from backend/platform engineering into ERP SaaS architecture and business-facing solution communication
+* Expanded professional positioning from full-stack/platform engineering into ERP SaaS architecture and business-facing solution communication
 
 ---
 
-## Backend Engineer — Reltroner ERP Ecosystem
+## Full-Stack / Platform Engineer — Reltroner ERP Ecosystem
 
 **Independent Project**
 **March 2025 – Present**
@@ -932,7 +933,7 @@ Designed and built a modular ERP platform with centralized authentication and au
 
 # What I Bring to a Team
 
-I bring a combination of backend implementation, system thinking, production ownership, and business-process reasoning.
+I bring a combination of full-stack implementation across frontend and backend, platform engineering, system architecture, system thinking, production ownership, and business-process reasoning.
 
 I am especially useful in teams that need someone who can:
 
@@ -977,10 +978,10 @@ Padang, West Sumatra
 
 I am currently open to opportunities in:
 
-* Backend Engineer roles
+* Full-Stack Engineer roles
 * Platform Engineer roles
-* System Engineer roles
-* Full-Stack Engineer roles with backend/platform ownership
+* System Engineer / System Architect roles
+* Full-Stack Platform Engineer roles with backend/platform ownership
 * ERP / SaaS Product Engineer roles
 * Business Systems Engineer roles
 * DevOps / Cloud-adjacent engineering roles
@@ -989,7 +990,7 @@ I am currently open to opportunities in:
 
 Preferred focus areas:
 
-* Backend systems
+* Full-stack application and backend systems
 * Authentication and identity infrastructure
 * LMS / SaaS platforms
 * ERP systems
@@ -1033,7 +1034,7 @@ You can view my full CV here:
 
 # Recruiter Summary
 
-I am a backend/platform-oriented engineer who can work across code, architecture, authentication, infrastructure configuration, debugging, documentation, production validation, and ERP business-process reasoning.
+I am a full-stack/platform-oriented engineer with system architecture and system engineering capability who can work across frontend, backend, code, architecture, authentication, infrastructure configuration, debugging, documentation, production validation, and ERP business-process reasoning.
 
 My strongest fit is a team that needs an engineer who can handle not only implementation, but also the full reasoning chain:
 
@@ -1047,7 +1048,7 @@ problem
 → documentation
 ```
 
-I am especially interested in backend, platform, SaaS, LMS, ERP, identity/authentication, and business systems engineering roles.
+I am especially interested in full-stack, backend, platform, system architecture, SaaS, LMS, ERP, identity/authentication, and business systems engineering roles.
 
 My current differentiator is that I can connect:
 
