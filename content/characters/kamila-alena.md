@@ -210,18 +210,6 @@ Kamila can appear rarely and still alter the meaning of entire arcs.
 
 # IV. PHYSICAL APPEARANCE
 
-## Visual-Equivalent Age
-
-**Approximately 29 years old**
-
-This number represents Kamila's visual form.
-
-It is not a chronological age.
-
-Her true existence spans far beyond what ordinary biological age can represent.
-
----
-
 ## Eternal Mature Youth
 
 Kamila appears as a fully mature young adult woman.
@@ -241,47 +229,6 @@ Her appearance should communicate:
 - Controlled serenity
 - Emotional depth without visible aging
 - A body seemingly held in permanent equilibrium
-
-Her visual age is intentionally close to **Celine Corisa**, who also appears around 29.
-
-But the similarity is symbolic, not familial.
-
----
-
-## Celine and Kamila — Visual Mirror
-
-### Celine Corisa
-
-Looks young because:
-
-> **she is still becoming.**
-
-She is growing through:
-
-- Ethical responsibility
-- Institutional experience
-- Difficult choices
-- Time
-
-### Kamila Alena
-
-Looks young because:
-
-> **she has stopped becoming.**
-
-Her form remains in:
-
-# **Ageless Equilibrium**
-
-This creates an important contrast:
-
-```text
-Celine
-= youth in motion
-
-Kamila
-= youth in stillness
-```
 
 ---
 
@@ -303,9 +250,9 @@ This is Nytherion expressed through physical form.
 
 ## Presence
 
-Even when Kamila looks approximately 29, she must never feel emotionally young.
+She must never feel emotionally young.
 
-Her age is communicated through:
+Her appearance is communicated through:
 
 - Eye contact that lasts too comfortably
 - Minimal physical movement
@@ -313,10 +260,6 @@ Her age is communicated through:
 - No need to perform authority
 - Calmness under events that terrify others
 - The sense that she has heard similar fears many times before
-
-Her face says:
-
-> twenty-nine.
 
 Her presence says:
 
@@ -1534,33 +1477,31 @@ The following rules should remain stable in future portrayals.
 1. **Kamila is an Existential Apex, not merely a villain.**
 2. **Kamila is an Apex Anchor Character.**
 3. **Her symbolic function is The Limit / Limitation.**
-4. **Her visual-equivalent age is approximately 29.**
-5. **The number is visual, not chronological.**
-6. **She appears eternally mature and young, not adolescent.**
-7. **Her ageless form symbolizes stagnation without decay.**
-8. **She is spatially anchored to Nytherion Abyss.**
-9. **She does not need to chase characters; characters eventually approach her domain.**
-10. **She can know of characters before they discover her.**
-11. **She almost never needs visitors to explain their basic identity.**
-12. **Her questions are existential diagnostics rather than introductory questions.**
-13. **She may experience uncertainty but should almost never appear epistemically naïve.**
-14. **A genuine unqualified "I don't know" should signal an extraordinary metaphysical event.**
-15. **Kamila is not omniscient.**
-16. **Henchoway is not Nytherion.**
-17. **Kamila does not consider Henchoway a necessary servant of Nytherion.**
-18. **Kamila and Daan are not superior and subordinate.**
-19. **Kamila respects Daan as an existential equal in function.**
-20. **Kamila does not normally order Daan.**
-21. **Daan may gently correct Kamila without provoking hierarchical retaliation.**
-22. **Kamila does not hate Astralis.**
-23. **She respects Astralis while rejecting the idea that it can abolish limitation.**
-24. **Kamila and Valethra represent different forms of stillness.**
-25. **Valethra = conscious stillness; Kamila = surrendered stillness.**
-26. **Kamila and Altair represent continuation versus permanent limitation.**
-27. **Watson opposes the erosion of continuity that Nytherion can produce.**
-28. **Kamila should not become a conventional military tyrant.**
-29. **Her threat comes from existential plausibility, not theatrical cruelty.**
-30. **Her greatest power is that Nytherion remains possible wherever consciousness can become exhausted.**
+4. **She appears eternally mature and young, not adolescent.**
+5. **Her ageless form symbolizes stagnation without decay.**
+6. **She is spatially anchored to Nytherion Abyss.**
+7. **She does not need to chase characters; characters eventually approach her domain.**
+8. **She can know of characters before they discover her.**
+9. **She almost never needs visitors to explain their basic identity.**
+10. **Her questions are existential diagnostics rather than introductory questions.**
+11. **She may experience uncertainty but should almost never appear epistemically naïve.**
+12. **A genuine unqualified "I don't know" should signal an extraordinary metaphysical event.**
+13. **Kamila is not omniscient.**
+14. **Henchoway is not Nytherion.**
+15. **Kamila does not consider Henchoway a necessary servant of Nytherion.**
+16. **Kamila and Daan are not superior and subordinate.**
+17. **Kamila respects Daan as an existential equal in function.**
+18. **Kamila does not normally order Daan.**
+19. **Daan may gently correct Kamila without provoking hierarchical retaliation.**
+20. **Kamila does not hate Astralis.**
+21. **She respects Astralis while rejecting the idea that it can abolish limitation.**
+22. **Kamila and Valethra represent different forms of stillness.**
+23. **Valethra = conscious stillness; Kamila = surrendered stillness.**
+24. **Kamila and Altair represent continuation versus permanent limitation.**
+25. **Watson opposes the erosion of continuity that Nytherion can produce.**
+26. **Kamila should not become a conventional military tyrant.**
+27. **Her threat comes from existential plausibility, not theatrical cruelty.**
+28. **Her greatest power is that Nytherion remains possible wherever consciousness can become exhausted.**
 
 ---
 

@@ -201,19 +201,9 @@ It is understanding.
 
 # IV. PHYSICAL APPEARANCE
 
-## Visual-Equivalent Age
-
-**Approximately 63 years old**
-
-This number represents Daan's **visual appearance**, not the number of years since his birth.
-
-His chronological existence cannot be meaningfully summarized through ordinary human aging.
-
-Daan has existed for an extraordinarily long period, yet he retains the appearance of a healthy elder.
-
 ## Visual Archetype
 
-Daan carries the presence of a warm, experienced uncle or elder sage.
+Daan carries the presence of a warm, experienced elder sage.
 
 His visual language should evoke:
 

@@ -257,14 +257,6 @@ Senior Strategic Research Contributor
 
 # IV. PHYSICAL APPEARANCE
 
-## Visual-Equivalent Age
-
-**56 years old**
-
-This age represents Altair's visual and physical presentation.
-
-It is not a literal measurement of time elapsed since birth.
-
 ## Visual Archetype
 
 Altair should look like:
@@ -274,6 +266,11 @@ Altair should look like:
 - A physically healthy elder professional
 - Someone who has spent decades thinking at civilization scale
 - A person whose authority comes from precision rather than intimidation
+- Accumulated expertise
+- Long-duration responsibility
+- Intellectual maturity
+- Continuity of research
+- Senior authority without political theater
 
 ## Characteristics
 
@@ -286,16 +283,6 @@ Altair should look like:
 - Astralis Red Triangle insignia
 - Digital research tablet during reviews
 - Excellent physical and cognitive condition
-
-Altair should not appear fragile.
-
-His age communicates:
-
-- Accumulated expertise
-- Long-duration responsibility
-- Intellectual maturity
-- Continuity of research
-- Senior authority without political theater
 
 ---
 
