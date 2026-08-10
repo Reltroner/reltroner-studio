@@ -11,6 +11,7 @@ published: true
 ![aurastelia2](/images/aurastelia2.webp)
 ![aurastelia3](/images/aurastelia3.webp)
 ![aurastelia-rhythm-heaven.webp](/images/aurastelia-rhythm-heaven.webp)
+![aurastelia-aurora-resonance](/images/aurastelia-aurora-resonance.webp)
 ![aurasteliaball](/images/aurasteliaball.webp)
 <video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
   <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/aurastelia-part1.mp4" type="video/mp4" />

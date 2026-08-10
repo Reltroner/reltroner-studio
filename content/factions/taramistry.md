@@ -12,9 +12,8 @@ continent: "Eastern Continent"
 region: "Eastern and southeastern scientific-industrial belt of the eastern continent"
 ---
 
-![taramistry1](/images/taramistry1.webp)
-![taramistry2](/images/taramistry2.webp)
-![taramistry3](/images/taramistry3.webp)
+![taramistry1](/images/taramistry7.webp)
+![taramistry2](/images/taramistry6.webp)
 ![taramistry4](/images/taramistry4.webp)
 ![taramistry-rhythm-heaven.webp](/images/taramistry-rhythm-heaven.webp)
 ![taramistryball](/images/taramistryball.webp)
