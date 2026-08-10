@@ -189,7 +189,6 @@ The upgraded profile therefore presents Reltronland not merely as a rich or powe
 31. Final Canon Summary
 32. Navigation Links
 
-
 ---
 
 # 1. National Definition
