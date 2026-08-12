@@ -11,6 +11,7 @@ description: "The eternal protector of cosmic balance in Asthortera, 👑Queen V
 ---
 
 ![aurora-plaza-workers-day](/images/aurora-plaza-workers-day.webp)
+![queen-valethra-international-strategic-council-dialogues](/images/queen-valethra-international-strategic-council-dialogues.webp)
 
 # 👑 QUEEN VALETHRA SERAPHINE LUNARA
 
