@@ -1,7 +1,7 @@
 ---
 title: "Reltroner ERP — Production-Ready Business Operations SaaS for Growing SMEs"
 description: "An evidence-informed, product-first engineering archive documenting the business direction, end-to-end architecture, implementation scope, production roadmap, and reference base of Reltroner ERP."
-image: "/images/reltroner-erp-production-ready-saas.webp"
+image: "/images/reltroner-startup-pitch-deck.webp"
 author: "Rei Reltroner"
 date: "2026-08-05"
 published: true
