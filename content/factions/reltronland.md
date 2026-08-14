@@ -241,7 +241,7 @@ This chain explains why Reltronland is dense but not fragile, advanced but not s
 | **Official Language** | Reltronic, a hybrid of Depeisian and Cisthetan |
 | **Currency** | `$REL` — Reltronian Credit |
 | **Philosophy** | Red Pill Realism, Self-discipline, Sentient Development |
-| **Symbols** | Monumental skyscrapers, white-collar uniforms, castella cake |
+| **Symbols** | Monumental skyscrapers, neal caffrey suits white collar fashion, castella cake |
 | **Economic Slogan** | _"Where Ambition Meets Opportunity."_ |
 | **Core Belief** | Real success is built through clarity, effort, and long-term self-discipline — not escapism. |
 
@@ -436,15 +436,23 @@ The relevant timeline is:
 1211–1121 BAC — Depeisit Colonial Era
 1211 BAC — First Depeisit Wave across Asthortera
 1177 BAC — Major Red Pill settlement wave in Rathroper
-1125 BAC — Formal foundation of Reltronland in Rathroper by Troner Rhett
+1125 BAC — Formal civic and political foundation of Reltronland
 1122 BAC — Birth of Erhard Rhett
+1121 BAC — Termination of Depeisit colonial authority and completion of territorial sovereignty.
+1089 BAC — Retro Industrial-Modernization Era 
 1057 BAC — Depeisit Economic Crisis
 1055 BAC — Konsorsium Reltron emerges under Erhard Rhett
 1049 BAC — Trade and Industry Blockade
 1048–1030 BAC — Reltronland–Depcutland War
 1031 BAC — Institutional Integrity Assessment and First Institutional Ceasefire
+1018 BAC — Reltronland Space Administration founded
 1010 BAC — Troncut Treaty and full post-war normalization
+900-700 BAC — Orbital infrastructure and national orbital networks expand
+700-500 BAC — Reltronian Orbital Network becomes a major national system
+500-300 BAC — Strategic Space Directorate emerges inside RSA
+300-197 BAC — Deep-space and hyperspace research accelerates
 197 BAC — Asthortera Space Command founded as a separate supranational institution
+154 BAC — Mature Integrated Astralis Transportation Civilization
 47 BAC — Reltronland Space Command founded from the Reltronland strategic space lineage
 43 BAC — Voidgate Conflict
 39 BAC — Astralis Sovereignty Act
