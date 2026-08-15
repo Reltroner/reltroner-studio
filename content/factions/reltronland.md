@@ -781,7 +781,7 @@ These indicators exclude the 4D, 5D, and void energy economy unless otherwise st
 | **CO₂ Emissions per Capita** | 4.3 metric tons, offset-adjusted |
 | **Gini Coefficient** | 0.39, moderate income inequality |
 | **Inflation Rate** | 0.3%, regulated by sovereign AI fiscal matrix |
-| **Unemployment Rate** | Almost 0%, because every sentient is assigned purpose-aligned labor regardless of monetary income |
+| **Unemployment Rate** | 1.5%, because most sentient is assigned purpose-aligned labor regardless of monetary income |
 
 ### Interpretation of GNI Per Capita
 
@@ -1634,7 +1634,7 @@ Civilian coordination, evacuation, infrastructure continuity, personnel systems,
 - Crew: ~9,000
 - FTL: Quantum-Tunnel Skip Drive
 - Reference performance: up to 87× luminal phase
-- Mass: ~750,000 metric tons
+- Mass: ~7,500,000 metric tons
 - Defense: Multilayer Voidfield Shields
 - Hull: self-healing armored structure
 - Weapons: Precision Tachyon Beams, Void Burst Lances
@@ -1647,7 +1647,7 @@ Civilian coordination, evacuation, infrastructure continuity, personnel systems,
 
 - Length: ~4.8 km
 - Interceptor capacity: ~400 Elite Wings
-- Mass: ~1,600,000 metric tons
+- Mass: ~16,500,000 metric tons
 - FTL: Enhanced hyperspace leap
 - Sustainment: up to six months
 - Weapons: Stellar-Range Railguns, Gravitoric Missile Bays, Planetary Suppression Cannons
@@ -1673,7 +1673,7 @@ Civilian coordination, evacuation, infrastructure continuity, personnel systems,
 
 - Height: ~23 km
 - Diameter: ~12 km
-- Registered operational mass: ~14 million metric tons
+- Registered operational mass: ~140 million metric tons
 - Expanded structural/anchored mass envelope: ~30–60 billion metric tons
 - Capabilities: Planetary Shield Uplink, Blackhole Resonance Stabilizer, Interdimensional Tribunal Chambers, Astralis Mirror Network Anchor
 - FTL: Slow hyperspace relocation

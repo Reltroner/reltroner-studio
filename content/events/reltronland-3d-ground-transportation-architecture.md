@@ -644,48 +644,307 @@ Transportation is increasingly treated as an institutional integrity problem.
 
 # 17. 1030–1010 BAC — Great Reconstruction Transportation Era
 
-Following the war, Reltronland transitions from emergency reconstruction to long-term modernization.
+Following the end of the Reltronland–Depcutland War, Reltronland enters a prolonged reconstruction phase. Transportation development is dominated by **repair, restoration, standardization, and resilience**, rather than major technological breakthroughs.
+
+This period is part of the broader **Long Post-War Consolidation Era**, during which Reltronland simultaneously rebuilds its physical infrastructure, restores the economy, reforms its legal and constitutional systems, and stabilizes its institutions.
 
 ### Roads
 
-- divided highways;
-- resilient bridges;
-- tunnels;
-- major arterials.
+- repair and reconstruction of war-damaged divided highways;
+- resilient bridge replacement and reinforcement;
+- reconstruction of strategic tunnels;
+- restoration of major arterials;
+- expansion of redundant routes around critical infrastructure.
 
 ### Rail
 
-- electrification;
-- high-capacity freight;
-- commuter rail;
-- upgraded signaling.
+- reconstruction and electrification of damaged railway corridors;
+- restoration of high-capacity freight rail;
+- modernization of commuter rail;
+- upgraded signaling and centralized traffic control;
+- standardization of railway infrastructure.
 
 ### Urban Transit
 
-- metropolitan rail;
-- underground transit;
-- integrated terminals.
+- reconstruction of metropolitan rail;
+- restoration and expansion of underground transit;
+- rebuilding of damaged stations;
+- integration of rail terminals with recovering urban districts;
+- gradual standardization of metropolitan transit systems.
 
 ### Border Infrastructure
 
-Troneiput becomes a major overland trade and diplomatic gateway.
+**Troneiput** becomes a major reconstruction priority as Reltronland restores its western overland connection and prepares the corridor for post-war trade normalization.
+
+### Strategic Character
+
+The defining characteristic of this era is **high construction activity but low technological discovery velocity**.
+
+Reltronland is not technologically stagnant. Its engineers remain highly active, but national resources are overwhelmingly directed toward:
+
+- repairing war damage;
+- restoring economic capacity;
+- rebuilding industrial supply chains;
+- strengthening infrastructure resilience;
+- restoring institutional functionality.
+
+Consequently, transportation **network completion increases only gradually**, from approximately **8% at 1030 BAC to 10% by 1010 BAC**, despite extremely high reconstruction activity.
+
+> **The priority was not to invent the next transportation revolution, but to make civilization function again.**
 
 ---
 
-# 18. 1010–950 BAC — Post-War National Mobility Standardization
+# 18. 1010–950 BAC — Post-War National Mobility Standardization & Decentralized Infrastructure Expansion
 
-Following the **Troncut Treaty**, transportation shifts from war recovery toward national economic integration.
+Following the **Troncut Treaty**, Reltronland transitions from emergency reconstruction into a broader **Post-Troncut National Consolidation Era**.
 
-Major centers become increasingly connected:
+This period is characterized by two simultaneous and equally important transportation programs:
+
+1. **Extreme reconstruction workload** — repairing, replacing, and modernizing infrastructure damaged or weakened by the war.
+2. **New network topology completion** — deliberately constructing new transportation nodes and corridors to reduce regional inequality and prevent excessive concentration of infrastructure in a small number of urban centers.
+
+Reltronland's planners recognize an important civilizational principle:
+
+> **A nation becomes structurally unequal when too much infrastructure, economic capacity, research activity, and mobility converge on too few geographic nodes.**
+
+This principle is developed independently within Reltronland's own political and engineering thought. Reltronland does not derive it from any external civilization.
+
+The objective is therefore not simply to restore the pre-war network, but to **build a more decentralized national architecture than the one that existed before the war**.
+
+### National Mobility Standardization
+
+Major transportation systems are progressively standardized across:
 
 - Reltralia;
 - Rathroper;
 - Reltronepolis;
 - Rufintern;
 - Reiweston;
-- Troneiput.
+- Troneiput;
+- Leastroper.
 
-The national network begins to behave as one integrated mobility system.
+Standardization includes:
+
+- interoperable railway standards;
+- unified signaling systems;
+- standardized highway classifications;
+- integrated freight corridors;
+- common metropolitan transit standards;
+- national infrastructure maintenance protocols;
+- redundant interregional routes.
+
+### Decentralized Infrastructure Expansion
+
+Reltronland deliberately identifies additional **secondary and tertiary infrastructure nodes** outside the traditional metropolitan centers.
+
+These nodes receive coordinated investment in:
+
+- railway terminals;
+- highway junctions;
+- logistics centers;
+- industrial access;
+- regional passenger terminals;
+- metropolitan transit;
+- energy infrastructure;
+- communications infrastructure;
+- research and engineering facilities.
+
+The strategy follows:
+
+```text
+Existing Major Centers
+        ↓
+Identify Regional Gaps
+        ↓
+Select Strategic Secondary Nodes
+        ↓
+Build New Transport Corridors
+        ↓
+Connect Regional Economies
+        ↓
+Distribute Infrastructure Capacity
+        ↓
+Create Multiple National Centers
+````
+
+The objective is to prevent Reltronland from developing a highly centralized infrastructure pattern in which economic opportunity and advanced services are concentrated around only a few cities.
+
+### New Network Topology Completion
+
+Unlike the preceding reconstruction phase, the **1010–950 BAC period produces substantial new transportation topology**.
+
+Reltronland does not merely rebuild damaged roads and railways.
+
+It also constructs:
+
+* new interregional corridors;
+* new railway branches;
+* new highway connections;
+* new regional logistics hubs;
+* new metropolitan transit systems;
+* new connections between previously peripheral regions;
+* new redundant routes between major economic centers.
+
+Consequently, the national transportation completion rate increases from approximately:
+
+**10% at 1010 BAC → 15% by 950 BAC.**
+
+The increase represents a combination of:
+
+* reconstructed infrastructure;
+* upgraded infrastructure;
+* newly constructed routes;
+* newly established infrastructure nodes;
+* increased interregional connectivity.
+
+### National Economic Integration
+
+Transportation increasingly becomes an instrument of **spatial economic equalization**.
+
+The architecture evolves from:
+
+```text
+Capital
+   ↓
+Major Cities
+   ↓
+Peripheral Regions
+```
+
+toward:
+
+```text
+                 RELTRALIA
+                /    |    \
+               /     |     \
+       MAJOR NODE — MAJOR NODE
+          /  \        /  \
+         /    \      /    \
+ REGIONAL NODE — REGIONAL NODE
+      \          |          /
+       \         |         /
+          SECONDARY HUBS
+```
+
+The purpose is not to make every city identical.
+
+Instead, each region should possess sufficient transportation capacity to participate directly in the national economy.
+
+### Decentralization Doctrine
+
+The emerging Reltronian infrastructure doctrine can be summarized as:
+
+> **No major region should depend entirely upon another region for access to mobility, commerce, knowledge, or economic opportunity.**
+
+This doctrine later becomes one of the foundations of Reltronland's highly decentralized infrastructure architecture.
+
+The modern Reltronland system therefore contains multiple independent centers of:
+
+* transportation;
+* industry;
+* research;
+* commerce;
+* logistics;
+* education;
+* technology;
+* administration.
+
+### R&D and Technological Discovery
+
+Despite the enormous scale of engineering activity, the period remains technologically conservative compared with the major technological revolutions that follow.
+
+Most research focuses on:
+
+* improving existing transportation systems;
+* increasing reliability;
+* standardizing components;
+* reducing operating costs;
+* improving energy efficiency;
+* developing resilient infrastructure;
+* optimizing network topology;
+* rebuilding research institutions.
+
+The **rate of major technological discovery remains historically low**, but engineering activity is extremely high.
+
+This distinction is essential:
+
+> **Reltronland is not experiencing technological stagnation. It is experiencing technological consolidation while simultaneously expanding its physical civilization.**
+
+### Strategic Outcome by 950 BAC
+
+By 950 BAC, Reltronland has achieved more than post-war recovery.
+
+It has begun transforming the country's transportation geography itself.
+
+The nation moves from:
+
+> **repairing the infrastructure it inherited**
+
+to:
+
+> **deliberately designing the infrastructure geography it wants to have.**
+
+This becomes the foundation for the later development of:
+
+* national High-Speed Rail;
+* metropolitan rail expansion;
+* Maglev;
+* three-dimensional transportation architecture;
+* deep underground mobility;
+* Hyperloop;
+* autonomous mobility;
+* the eventual decentralized national mobility network.
+
+> **The purpose of reconstruction was to restore Reltronland. The purpose of decentralization was to prevent the next Reltronland from being built around too few centers.**
+
+````
+
+### Ini membuat #17 → #18 jauh lebih natural
+
+Sekarang progression-nya menjadi:
+
+**#17 — 1030–1010 BAC**
+
+> **Restore what was damaged.**
+
+Fokus utamanya:
+- reconstruction;
+- repair;
+- economic recovery;
+- institutional recovery;
+- constitutional preparation.
+
+Network:
+
+**8% → 10%**
+
+---
+
+**#18 — 1010–950 BAC**
+
+> **Restore + redistribute + expand.**
+
+Reltronland mulai berpikir lebih jauh:
+
+> *"Kalau kita hanya membangun kembali sistem sebelum perang, kita hanya akan mengembalikan kelemahan struktural yang sama."*
+
+Maka mereka melakukan:
+
+```text
+RECONSTRUCTION
+      +
+NEW TOPOLOGY
+      +
+DECENTRALIZATION
+      +
+STANDARDIZATION
+      ↓
+NATIONAL SPATIAL EQUALITY
+````
+
+Network:
+
+**10% → 15%**
 
 ---
 

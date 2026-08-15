@@ -1737,7 +1737,7 @@ It is to ensure that greater power is accompanied by greater clarity.
 -   Length: \~1.7 km
 -   Crew: \~9,000 rotational complement
 -   FTL: Quantum Tunnel Skip Drive --- Class X-7
--   Mass: \~750,000 metric tons
+-   Mass: \~7,500,000 metric tons
 -   Armament:
     -   3× Tachyon Beam Batteries
     -   2× Void Burst Lance Arrays
@@ -1749,7 +1749,7 @@ It is to ensure that greater power is accompanied by greater clarity.
 -   Length: \~4.8 km
 -   Interceptor capacity: \~400 Elite Wings
 -   FTL: Astralis Hyper-Inertial Drive --- Class Y
--   Mass: \~1,600,000 metric tons
+-   Mass: \~16,500,000 metric tons
 -   Primary systems:
     -   4× Stellar Railgun Emplacements
     -   Gravitoric Missile Launchers
@@ -1772,7 +1772,7 @@ It is to ensure that greater power is accompanied by greater clarity.
 
 -   Designation: Voidfortress Tier Omega
 -   Dimensions: 23 km vertical × 12 km diameter
--   Registered operational mass: \~14 million metric tons
+-   Registered operational mass: \~140 million metric tons
 -   Expanded structural/anchored mass envelope: \~30--60 billion metric
     tons
 -   Capabilities:
