@@ -54,12 +54,12 @@ UNITY WITHOUT HOMOGENEITY
 
   Civilization   Primary specialization
   -------------- --------------------------------------------
-  Reltronland    Infrastructure
+  Reltronland    Structural systems, infrastructure
   Depcutland     Knowledge, documentation, and continuity
   Aurastelia     Consciousness and coordination
   Kalgered       Protocol, law, and institutional certainty
-  Pasgerflit     Mobility
-  Moreg          Industrial engineering
+  Pasgerflit     Mobility, travel systems
+  Moreg          Industrial engineering, manufacturing
   Taramistry     Biotechnology and scientific innovation
   Pencilfania    Creative civilization
   Astrostelia    Space expansion

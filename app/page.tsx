@@ -21,7 +21,7 @@ export default function Home() {
       <UseCasePathways />
       <FeaturedKnowledgeBridge />
       <EcosystemRoadmapPreview />
-      
+
       <section className="section-shell text-center py-16">
         <h2 className="mb-6 text-3xl font-bold text-white">Ready to explore?</h2>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -33,6 +33,9 @@ export default function Home() {
           </a>
           <a href="https://hrm.reltroner.com" target="_blank" rel="noreferrer" className="rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
             Open HRM ↗
+          </a>
+          <a href="https://www.youtube.com/@ReltronerStudio" target="_blank" rel="noreferrer" className="rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
+            Open Reltroner Studio Music ↗
           </a>
         </div>
       </section>
