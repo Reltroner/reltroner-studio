@@ -25,13 +25,13 @@ Asthortera is a **Type 1.9 civilization**, lower than:
 - **Cistheta (2.4)**
 - **Cosmeilia (2.5+)**
 
-But it surpasses all of them in **SDI (Sentient Development Index)** with a score of **0.921**—the highest in the galaxy.
+But it surpasses all of them in **SDI (Sentient Development Index)** with a score of **0.938**—the highest in the galaxy.
 
 ---
 
 ### 🔸 Core Reasons Immigrants Prefer Asthortera
 
-1. **Highest Quality of Life (SDI 0.921)**\
+1. **Highest Quality of Life (SDI 0.938)**\
    Inclusive healthcare, universal education, clean environments, and career mobility for all sentient species.
 
 2. **Ethical Energy Governance**\
@@ -58,7 +58,7 @@ But it surpasses all of them in **SDI (Sentient Development Index)** with a scor
 
 **🌍 Asthortera**  
 - **Kardashev Level:** 1.9  
-- **SDI:** 0.921  
+- **SDI:** 0.938  
 - **Traits:** Modern civilization & spiritual resistance  
 
 **🏛️ Depeisit**  

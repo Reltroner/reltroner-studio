@@ -151,7 +151,7 @@ This creates a clean mathematical structure:
 | 2 | Bonday | Relationship, loyalty, duty |
 | 3 | Veilday | Reflection, dreams, hidden truth |
 | 4 | Rootday | Work, discipline, grounding |
-| 5 | Starlit | Rest, ritual, contemplation |
+| 5 | Starlitday | Rest, ritual, contemplation |
 
 This creates a distinct Asthorteran rhythm. Time feels native to the world rather than imported from Earth.
 
