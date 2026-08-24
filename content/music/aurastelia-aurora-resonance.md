@@ -36,6 +36,16 @@ For Aurastelia, light is **resonance, awareness, harmony, and the living connect
   allowfullscreen>
 </iframe>
 
+<iframe
+  width="100%"
+  height="420"
+  src="https://www.youtube.com/embed/fHV6ncpzSCI"
+  title="Aurastelia — Aurora Resonance"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 ---
 
 ## 🎼 Music Profile

@@ -30,7 +30,7 @@ tags:
 ## 1. Basic Biography
 
 - **Name:** Isaac Luminar  
-- **Origin:** Fosphoralis District, Lenternow  
+- **Origin:** Phosphoralis City, Lenternow  
 - **Profession:** Chief Illuminary Engineer, Inferminte Light-Grid Division  
 - **Specialization:**  
   - Structural light-engineering  
@@ -46,7 +46,7 @@ tags:
 
 ## 2. Backstory (Detailed)
 
-Isaac was born into a family of Luminite mine workers in Fosphoralis.  
+Isaac was born into a family of Luminite mine workers in Phosphoralis.  
 His father was an honest miner — hard-working, with no political leverage.
 
 One day, a catastrophic event occurred: the **Lattice Collapse** —  
@@ -289,8 +289,6 @@ This structure can be used as a **novel blueprint** for Isaac’s primary storyl
 6. **Reltronland finally acknowledges him** — but still does not help.
 
    Reltronland’s only message:
-
-   > “Kami memperhatikanmu.”  
    > *“We are watching you.”*
 
 ---

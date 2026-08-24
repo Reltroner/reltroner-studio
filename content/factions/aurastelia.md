@@ -18,6 +18,16 @@ published: true
   Your browser does not support the video tag.
 </video>
 
+<iframe
+  width="100%"
+  height="420"
+  src="https://www.youtube.com/embed/fHV6ncpzSCI"
+  title="Aurastelia — Aurora Resonance"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 ---
 
 # 🌌 Aurastelia — The Realm of Resonant Light

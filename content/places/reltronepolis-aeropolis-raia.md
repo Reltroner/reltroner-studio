@@ -343,7 +343,7 @@ RAIA is an extension of Reltronland’s Astralis Pinnacle philosophy — a testa
 
 * **Estimated maintenance cycle:** 1,200 RAIA-units per sol
 * **Emergency capacity threshold:** 5.2 million flights/day
-* **Projected lifespan:** 1,000+ years with modular upgrades
+* **Projected lifespan:** 10,000+ years with modular upgrades
 * **Primary constructor:** Reltronland Infrastructure Sentinel Council (RISC)
 * **Funding model:** Hybrid state-private-cosmic bond issuance
 
