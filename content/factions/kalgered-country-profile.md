@@ -88,10 +88,10 @@ It answers with continuity.
 
 ### 🔹 Population by Origin:
 
-- 58% — Humans descended from planet **Depeisit**  
-- 30% — Humans of **Cistheta** lineage  
-- 7% — Indigenous Asthorteran (*Human-Wizard-Witch*)  
-- 3% — Cosmeilia Cosmic Races
+- 40% — Humans descended from planet **Depeisit**  
+- 35% — Indigenous Asthorteran (*Human-Wizard-Witch*) 
+- 13% — Cosmeilia Cosmic Races
+- 10% — Humans of **Cistheta** lineage  
 - 2% — Others (*mixed species, humanoids, alien hybrids*)  
 
 ### 🔹 Gender Ratio:

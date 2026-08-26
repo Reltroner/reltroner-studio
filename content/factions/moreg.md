@@ -104,10 +104,11 @@ This contradiction places Moreg at the center of the later conflict in *The Abys
 
 ### Demographic Composition
 
-- **53% Human — Depeisit descent**
-- **35% Human — Cisthetan descent**
-- **7% Native Asthorteran species — Human-Wizard-Witch populations**
-- **5% Other recognized communities**
+- **45% Human — Depeisit descent**
+- **30% Human — Cisthetan descent**
+- **13% — Cosmeilia Cosmic Races**
+- **10% Native Asthorteran species — Human-Wizard-Witch populations**
+- **2% Other recognized communities**
 
 Moreg’s population reflects the convergence of:
 

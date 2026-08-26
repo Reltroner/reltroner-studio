@@ -10,22 +10,6 @@ country: "Aurastelia"
 tags: ["music", "aurastelia", "aurora", "resonance", "fantasy", "cosmic", "aurora-sancta", "worldbuilding"]
 ---
 
-# Aurastelia — Aurora Resonance
-
-**Aurastelia — Aurora Resonance** is a musical archive entry from **Aurastelia**, the Realm of Resonant Light of Asthortera.
-
-It represents the luminous serenity of Aurastelia, the eternal aurora above its celestial landscapes, the harmony of crystalline architecture, and the quiet spiritual resonance of a civilization that understands light as more than something that can be seen.
-
-This piece is not built as a war anthem, a victory march, or a dramatic national hymn.
-
-Instead, it works as an **ethereal cinematic resonance piece**: luminous, spacious, contemplative, celestial, and emotionally suspended between the silence of the cosmos and the living pulse of the aurora.
-
-Aurastelia does not treat light as decoration.
-
-For Aurastelia, light is **resonance, awareness, harmony, and the living connection between individual consciousness and civilization**.
-
-> *"Not a world to conquer, but a frequency to attune with."*
-
 <iframe
   width="100%"
   height="420"
@@ -45,6 +29,22 @@ For Aurastelia, light is **resonance, awareness, harmony, and the living connect
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
+# Aurastelia — Aurora Resonance
+
+**Aurastelia — Aurora Resonance** is a musical archive entry from **Aurastelia**, the Realm of Resonant Light of Asthortera.
+
+It represents the luminous serenity of Aurastelia, the eternal aurora above its celestial landscapes, the harmony of crystalline architecture, and the quiet spiritual resonance of a civilization that understands light as more than something that can be seen.
+
+This piece is not built as a war anthem, a victory march, or a dramatic national hymn.
+
+Instead, it works as an **ethereal cinematic resonance piece**: luminous, spacious, contemplative, celestial, and emotionally suspended between the silence of the cosmos and the living pulse of the aurora.
+
+Aurastelia does not treat light as decoration.
+
+For Aurastelia, light is **resonance, awareness, harmony, and the living connection between individual consciousness and civilization**.
+
+> *"Not a world to conquer, but a frequency to attune with."*
 
 ---
 

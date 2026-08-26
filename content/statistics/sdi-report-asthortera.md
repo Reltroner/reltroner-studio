@@ -7,8 +7,6 @@ published: true
 image: "/images/sdi-report-asthortera.webp"
 ---
 
----
-
 # 🌍 Official SDI Report of Asthortera  
 **Sentient Development Index – A Mirror of Civilization**
 
