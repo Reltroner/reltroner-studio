@@ -71,7 +71,7 @@ This upgraded country profile preserves the existing Depcutland identity while a
 The current canon no longer treats Depcutland as a simple aristocratic disguise, defeated state, or passive cultural nation. Depcutland is now understood as a **multi-layered Merit Archival civilization** whose identity developed through:
 
 1. **Depeisit Colonial Roots** — early Depeisit colonies shaped Depcutland's law, administrative memory, aristocratic continuity, and archival tradition during the **1211–1121 BAC Depeisit Colonial Era**.
-2. **Initial Depcutian Formation** — **1121 BAC** marks the initial Depeisit colonies in Depcutland and the beginning of its classical legal, bureaucratic, archival, and cultural formation.
+2. **Initial Depcutian Formation** — **1121 BAC** marks the initial Depeisit colonies in Depcutland and the beginning of its classical legal, bureaucratic, archival, and cultural formation by **Cutter Glouster** the founder of Depcutland.
 3. **Crisis Consolidation** — the **1057 BAC Depeisit Economic Crisis** transformed Depcutland into a refuge, continuity hub, and institutional pressure chamber.
 4. **Institutional Capture Period** — aristocratic remnants, patronage networks, and closed elite systems compromised parts of governance without defining the entire civilization.
 5. **War and Internal Reform** — the **1048–1030 BAC open conflict** and the **1030–1010 BAC reconstruction transition** separated Depcutland the nation from the captured aristocratic regime.
