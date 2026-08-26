@@ -1,5 +1,5 @@
 ---
-title: "The Tron–Cut Ancestral Lineage — Origins of Reltronland and Depcutland"
+title: "The Tron and Cut Ancestral Lineage — Origins of Reltronland and Depcutland"
 description: "Canonical historical document establishing the Depeisit ancestry of Tron and Cut, their divergent childhood and institutional trajectories, the long generational development of their lineages, and the eventual emergence of Reltronland and Depcutland."
 author: "Rei Reltroner"
 date: "2026-08-26"
@@ -10,11 +10,12 @@ world: "Asthortera"
 canonStatus: "Canonical Historical Foundation"
 ---
 
-# THE TRON–CUT ANCESTRAL LINEAGE
+# THE TRON AND CUT ANCESTRAL LINEAGE
 
 ## The Depeisit Origin of Reltronland and Depcutland
 
-> **"One brother learned to create what did not yet exist.  
+> **"One brother learned to create what did not yet exist.  
+
 > The other learned to preserve what civilization could not afford to lose."**
 
 ---
@@ -26,6 +27,7 @@ The historical origins of **Reltronland** and **Depcutland** extend far beyond t
 Both civilizations ultimately trace their ancestral roots to **Planet Depeisit**, where a noble family produced two biological twin sons:
 
 - **Tron**
+
 - **Cut**
 
 They were born into the same family, shared the same ancestry, and grew within the same Depeisit environment. Yet from early childhood they displayed profoundly different orientations toward civilization.
@@ -45,25 +47,37 @@ Over many generations, those two tendencies became increasingly institutionalize
 The Tron lineage became associated with:
 
 - creation,
+
 - technology,
+
 - engineering,
+
 - entrepreneurship,
+
 - infrastructure,
+
 - and forward trajectory.
 
 The Cut lineage became associated with:
 
 - knowledge,
+
 - libraries,
+
 - archives,
+
 - literature,
+
 - documentation,
+
 - continuity,
+
 - and preservation.
 
 Many generations later, these two ancestral trajectories re-emerged on Asthortera through:
 
 - **Troner Rhett**, founding father of Reltronland in **1125 BAC**
+
 - **Cutter Glouster**, founding father of Depcutland in **1121 BAC**
 
 The resulting civilizations eventually became two of Asthortera's highest-SDI civilizations and complementary pillars of conscious civilization.
@@ -77,16 +91,38 @@ This document establishes the **Tron–Cut ancestral framework** as a historical
 The following points are treated as canonical:
 
 1. Tron and Cut were biological twin brothers.
+
 2. Their ancestral family originated on Depeisit.
+
 3. Their family belonged to the Depeisit nobility.
+
 4. Tron showed an early attraction to technological creation.
+
 5. Cut showed an early attraction to libraries and accumulated knowledge.
+
 6. Tron became a technopreneur through a privately owned property company.
+
 7. Cut accumulated books, archives, Scopus literature, and other scholarly materials in a private library.
+
 8. Their descendant lineages developed into distinct civilizational tendencies.
+
 9. Troner Rhett became the founding father of Reltronland in 1125 BAC.
+
 10. Cutter Glouster became the founding father of Depcutland in 1121 BAC.
+
 11. The modern Reltronland–Depcutland relationship retains the deep thematic inheritance of the two ancestral lines.
+
+12. Tron and Cut knew that they were biological twin brothers, but their strategic decisions were not made primarily for the sake of brotherhood.
+
+13. The core continuity of the lineage is existential and strategic, not sentimental or ancestral-veneration based.
+
+14. The descendants inherit capabilities, institutional orientations, and strategic logic—not a mandatory obligation to honor, imitate, or preserve their ancestors.
+
+15. Reltronland and Depcutland can cooperate, compete, disagree, and wage war despite their shared ancestry because shared blood does not guarantee shared strategic interests.
+
+16. Their long-term relationship is characterized by strategic interdependence: each civilization can possess capabilities that the other may need for its own continued existence.
+
+17. The Troncut Treaty of 1010 BAC is a strategic coexistence settlement, not merely a sentimental reconciliation between brothers or descendants.
 
 ### Genealogical restraint
 
@@ -117,19 +153,33 @@ The later history of Reltronland and Depcutland cannot therefore be understood e
 Their deeper identity contains a layered inheritance:
 
 ```text
+
 DEPEISIT ANCESTRY
-        ↓
+
+        ↓
+
 TRON–CUT DIVERGENCE
-        ↓
+
+        ↓
+
 MULTI-GENERATIONAL INHERITANCE
-        ↓
+
+        ↓
+
 MIGRATION / COLONIAL DEVELOPMENT ON ASTHORTERA
-        ↓
+
+        ↓
+
 PROTO-RELTRONIAN / PROTO-DEPCUTIAN SOCIETIES
-        ↓
+
+        ↓
+
 STATE FORMATION
-        ↓
+
+        ↓
+
 RELTRONLAND / DEPCUTLAND
+
 ```
 
 This makes both civilizations **Depeisit-descended civilizations that became fully Asthorteran through historical development**.
@@ -143,7 +193,9 @@ The exact name and complete genealogy of the noble family from which Tron and Cu
 What is established is that the family was:
 
 - noble,
+
 - established on Depeisit,
+
 - sufficiently prominent to provide the social environment in which both brothers could develop independent intellectual and economic pursuits.
 
 The family is important not because nobility itself became the political model of Reltronland or Depcutland.
@@ -167,8 +219,11 @@ They were not merely members of the same generation.
 They shared:
 
 - the same parents,
+
 - the same family,
+
 - the same ancestral environment,
+
 - and the same early household.
 
 Yet even during early childhood, their interests diverged.
@@ -176,20 +231,35 @@ Yet even during early childhood, their interests diverged.
 This divergence became one of the deepest symbolic foundations of the later Reltronland–Depcutland duality.
 
 ```text
-                    NOBLE FAMILY
-                         │
-                  ┌──────┴──────┐
-                  │             │
-                TRON           CUT
-                  │             │
-             Creation       Preservation
-             Technology      Knowledge
-             Building       Library
-             Enterprise      Archive
-                  │             │
-                  └──────┬──────┘
-                         │
-                  Shared ancestry
+
+                    NOBLE FAMILY
+
+                         │
+
+                  ┌──────┴──────┐
+
+                  │             │
+
+                TRON           CUT
+
+                  │             │
+
+             Creation       Preservation
+
+             Technology      Knowledge
+
+             Building       Library
+
+             Enterprise      Archive
+
+                  │             │
+
+                  └──────┬──────┘
+
+                         │
+
+                  Shared ancestry
+
 ```
 
 Their relationship should not be interpreted as an original rivalry.
@@ -203,10 +273,15 @@ The two brothers represent **complementary human impulses**.
 From early childhood, Tron was consistently attracted to things related to:
 
 - creating,
+
 - building,
+
 - technology,
+
 - advanced tools,
+
 - invention,
+
 - and the possibility of constructing something new.
 
 He was not primarily fascinated by technology as decoration.
@@ -218,9 +293,13 @@ His interest was functional:
 This became the earliest expression of the later Reltronian orientation toward:
 
 - engineering,
+
 - infrastructure,
+
 - technological progress,
+
 - entrepreneurship,
+
 - and civilizational trajectory.
 
 Tron's childhood therefore established the first ancestral form of the question later represented by Reltronland:
@@ -238,11 +317,17 @@ From early childhood, he enjoyed spending time in libraries.
 He was fascinated by:
 
 - books,
+
 - archives,
+
 - literature,
+
 - accumulated knowledge,
+
 - scholarly records,
+
 - historical material,
+
 - and the experience of discovering information preserved by previous generations.
 
 Importantly, Cut did not approach the library merely as a place for formal study.
@@ -252,9 +337,13 @@ He genuinely **had fun inside the library**.
 The library represented:
 
 - curiosity,
+
 - exploration,
+
 - discovery,
+
 - continuity,
+
 - and intellectual freedom.
 
 The early Cut therefore established the ancestral foundation of the later Depcutian question:
@@ -267,37 +356,70 @@ The early Cut therefore established the ancestral foundation of the later Depcut
 
 The difference between Tron and Cut can be summarized as:
 
+```text
+
 | Tron | Cut |
+
 |---|---|
+
 | Creation | Preservation |
+
 | Technology | Knowledge |
+
 | Building | Archiving |
+
 | Engineering | Scholarship |
+
 | Enterprise | Library |
+
 | Production | Documentation |
+
 | Future | Continuity |
+
 | Trajectory | Memory |
 
-However, the distinction is **complementary rather than antagonistic**.
+```
 
-A civilization that only creates can lose its historical grounding.
+However, the distinction is complementary without being automatically harmonious.
 
-A civilization that only preserves can lose its ability to move forward.
+Tron and Cut did not need to agree simply because they were brothers. They could disagree because their interests, priorities, and desired conditions for continued existence could differ.
+
+At the same time, each possessed capabilities that could materially benefit the other's continued viability. Their relationship therefore contained an early form of strategic interdependence:
+
+Tron could create and build capabilities that Cut could not create as easily.
+
+Cut could preserve, organize, and interpret accumulated knowledge that Tron could not replace through creation alone.
+
+The deeper relationship is therefore not:
+
+"We cooperate because we are brothers."
+
+It is:
+
+"We remain relevant to one another because each possesses capabilities the other may need."
+
+A civilization that only creates can lose historical and institutional context.
+
+A civilization that only preserves can lose the ability to generate new capability.
 
 The deeper philosophical relationship is therefore:
 
 ```text
+
 TRON
+
 "What can we create?"
 
-        +
+        +
 
 CUT
+
 "What must we preserve?"
 
-        ↓
+        ↓
 
 CONSCIOUS CIVILIZATION
+
 ```
 
 This duality eventually becomes one of the deepest structural relationships between Reltronland and Depcutland.
@@ -315,19 +437,33 @@ This transition is important because it transformed his interest in technology f
 His trajectory became:
 
 ```text
+
 Childhood curiosity
-        ↓
+
+        ↓
+
 Technological interest
-        ↓
+
+        ↓
+
 Creation
-        ↓
+
+        ↓
+
 Private enterprise
-        ↓
+
+        ↓
+
 Property development
-        ↓
+
+        ↓
+
 Technopreneurship
-        ↓
+
+        ↓
+
 Institutionalized creation
+
 ```
 
 Thus, Tron's legacy is not simply:
@@ -341,10 +477,15 @@ It is:
 This becomes a deep ancestral precursor to Reltronland's later emphasis on:
 
 - engineering,
+
 - infrastructure,
+
 - entrepreneurship,
+
 - technological systems,
+
 - merit,
+
 - and large-scale development.
 
 ---
@@ -356,9 +497,13 @@ Cut's childhood library fascination developed into an equally concrete instituti
 As an adult, he accumulated:
 
 - books,
+
 - archives,
+
 - Scopus literature,
+
 - scholarly material,
+
 - and other forms of recorded knowledge.
 
 He organized these materials within a **private library belonging to him**.
@@ -366,19 +511,33 @@ He organized these materials within a **private library belonging to him**.
 His trajectory became:
 
 ```text
+
 Childhood curiosity
-        ↓
+
+        ↓
+
 Reading
-        ↓
+
+        ↓
+
 Collection
-        ↓
+
+        ↓
+
 Classification
-        ↓
+
+        ↓
+
 Private library
-        ↓
+
+        ↓
+
 Archival accumulation
-        ↓
+
+        ↓
+
 Knowledge institution
+
 ```
 
 Thus, Cut's legacy is not simply:
@@ -392,11 +551,17 @@ It is:
 This becomes the ancestral precursor to Depcutland's later identity as a civilization of:
 
 - knowledge,
+
 - documentation,
+
 - archives,
+
 - continuity,
+
 - research,
+
 - institutional memory,
+
 - and reflection.
 
 ---
@@ -410,28 +575,40 @@ Both transformed childhood interests into institutions.
 ### Tron
 
 ```text
+
 Interest
+
 → Technology
+
 → Enterprise
+
 → Property
+
 → Creation
+
 ```
 
 ### Cut
 
 ```text
+
 Interest
+
 → Knowledge
+
 → Collection
+
 → Library
+
 → Preservation
+
 ```
 
 The difference was not whether they built institutions.
 
-The difference was **what kind of civilizational capability they institutionalized**.
+The difference was what kind of civilizational capability they institutionalized and how that capability served their respective conditions for continued existence.
 
-This distinction becomes crucial later.
+This distinction becomes crucial later: the descendants do not inherit a sentimental duty to honor Tron or Cut. They inherit strategic capabilities and civilizational orientations that become useful because they improve their own survival, autonomy, and long-term viability.
 
 ---
 
@@ -450,12 +627,19 @@ During this period, the two ancestral tendencies gradually became cultural and i
 Repeatedly reinforced around:
 
 - creation,
+
 - technological curiosity,
+
 - engineering,
+
 - entrepreneurship,
+
 - construction,
+
 - economic development,
+
 - systems thinking,
+
 - and forward movement.
 
 ### Cut-line tendencies
@@ -463,12 +647,19 @@ Repeatedly reinforced around:
 Repeatedly reinforced around:
 
 - reading,
+
 - archives,
+
 - scholarship,
+
 - documentation,
+
 - libraries,
+
 - historical awareness,
+
 - knowledge continuity,
+
 - and reflection.
 
 Over generations, these tendencies became more than family hobbies.
@@ -484,19 +675,33 @@ The inheritance should not be interpreted as simple biological determinism.
 The stronger worldbuilding model is:
 
 ```text
+
 Ancestral disposition
-        ↓
+
+        ↓
+
 Family culture
-        ↓
+
+        ↓
+
 Generational reinforcement
-        ↓
+
+        ↓
+
 Education
-        ↓
+
+        ↓
+
 Institutions
-        ↓
+
+        ↓
+
 Social norms
-        ↓
+
+        ↓
+
 Civilizational specialization
+
 ```
 
 This distinction is essential.
@@ -522,10 +727,15 @@ At the beginning of their Asthorteran history, they were not yet the powerful ci
 They were:
 
 - relatively small,
+
 - young,
+
 - culturally distinct,
+
 - aesthetically different,
+
 - institutionally immature compared with older Asthorteran civilizations,
+
 - and strongly marked by their Depeisit ancestry.
 
 They therefore entered an Asthorteran world already populated by civilizations with much older histories.
@@ -533,10 +743,15 @@ They therefore entered an Asthorteran world already populated by civilizations w
 These included civilizations and civilizational traditions associated with:
 
 - Beluftner,
+
 - Aurastelia,
+
 - Astrostelia,
+
 - Kalgered,
+
 - Cenrestier,
+
 - and other established Asthorteran societies.
 
 This phase is essential because Reltronland and Depcutland did not grow in isolation.
@@ -552,10 +767,15 @@ The early Depeisit-descended communities should not be imagined as miniature ver
 Their visual identity, cultural expression, and social appearance could be markedly different from:
 
 - Beluftnerian traditions,
+
 - Aurastelian traditions,
+
 - Astrostelian traditions,
+
 - Kalgeredian institutional culture,
+
 - Cenrestierian historical identity,
+
 - and other Asthorteran civilizations.
 
 This is consistent with the canonical Asthorteran principle:
@@ -585,22 +805,35 @@ What is structurally important is that:
 Their civilizations were shaped by:
 
 ```text
+
 Depeisit ancestry
-        +
+
+        +
+
 Asthorteran environment
-        +
+
+        +
+
 Intercivilizational contact
-        +
+
+        +
+
 Generational development
-        +
+
+        +
+
 Institution building
-        +
+
+        +
+
 Historical crises
+
 ```
 
 This explains why their eventual identities contain both:
 
 - a distinct Depeisit-derived character,
+
 - and a deeply Asthorteran civilizational identity.
 
 ---
@@ -614,11 +847,17 @@ Over many generations, the two lineages developed increasingly distinct civiliza
 The inherited Tron orientation increasingly favored:
 
 - technological creation,
+
 - engineering,
+
 - organized development,
+
 - economic capability,
+
 - urban systems,
+
 - infrastructure,
+
 - and forward trajectory.
 
 ### Proto-Depcutian trajectory
@@ -626,11 +865,17 @@ The inherited Tron orientation increasingly favored:
 The inherited Cut orientation increasingly favored:
 
 - knowledge institutions,
+
 - documentation,
+
 - archives,
+
 - research,
+
 - legal and bureaucratic continuity,
+
 - cultural literacy,
+
 - and historical preservation.
 
 The two societies therefore became different without becoming unrelated.
@@ -638,9 +883,13 @@ The two societies therefore became different without becoming unrelated.
 They remained connected by:
 
 - ancestry,
+
 - shared Depeisit origin,
+
 - Asthorteran history,
+
 - institutional interaction,
+
 - and a deep philosophical complementarity.
 
 ---
@@ -662,20 +911,35 @@ The ancient impulse toward creation had become a mature political and civilizati
 The transition can be represented as:
 
 ```text
+
 Tron
+
 Creation
-        ↓
+
+        ↓
+
 Generational technological inheritance
-        ↓
+
+        ↓
+
 Proto-Reltronian development
-        ↓
+
+        ↓
+
 Institutional maturity
-        ↓
+
+        ↓
+
 Troner Rhett
-        ↓
+
+        ↓
+
 1125 BAC
-        ↓
+
+        ↓
+
 Reltronland
+
 ```
 
 Troner Rhett therefore stands at the point where ancestral technological and entrepreneurial tendencies became an organized civilization.
@@ -695,8 +959,11 @@ This date marks:
 The period represents the beginning of the Depeisit colonies in Depcutland and the early development of its:
 
 - classical legal systems,
+
 - bureaucratic structures,
+
 - archival culture,
+
 - and cultural institutions.
 
 Cutter Glouster therefore represents the culmination of the Cut-line development.
@@ -704,20 +971,35 @@ Cutter Glouster therefore represents the culmination of the Cut-line development
 The transition can be represented as:
 
 ```text
+
 Cut
+
 Knowledge
-        ↓
+
+        ↓
+
 Generational archival inheritance
-        ↓
+
+        ↓
+
 Proto-Depcutian development
-        ↓
+
+        ↓
+
 Institutional continuity
-        ↓
+
+        ↓
+
 Cutter Glouster
-        ↓
+
+        ↓
+
 1121 BAC
-        ↓
+
+        ↓
+
 Depcutland
+
 ```
 
 ---
@@ -727,23 +1009,38 @@ Depcutland
 Troner Rhett and Cutter Glouster are separated by only four years in the recorded foundation dates:
 
 - **1125 BAC — Reltronland**
+
 - **1121 BAC — Depcutland**
 
 Their importance extends beyond their individual biographies.
 
 They represent the moment when two ancestral tendencies became recognizable state-level trajectories.
 
+```text
+
 | Troner Rhett | Cutter Glouster |
+
 |---|---|
+
 | Reltronland | Depcutland |
+
 | Creation | Continuity |
+
 | Technology | Knowledge |
+
 | Infrastructure | Archives |
+
 | Trajectory | Memory |
+
 | Future orientation | Historical continuity |
+
 | Civic foundation | Classical legal / bureaucratic / archival formation |
 
+```
+
 The two founding moments therefore belong to the same broader historical process.
+
+Neither founding father is defined primarily by a mission to "honor Tron" or "honor Cut." Their importance lies in converting inherited capabilities into sovereign institutions capable of sustaining their own populations and civilizational trajectories.
 
 ---
 
@@ -752,14 +1049,23 @@ The two founding moments therefore belong to the same broader historical process
 The later Reltronland civilization developed into a civilization associated with:
 
 - structural clarity,
+
 - infrastructure,
+
 - engineering,
+
 - merit,
+
 - discipline,
+
 - causality,
+
 - technological development,
+
 - strategic realism,
+
 - continuous learning,
+
 - and future-oriented trajectory.
 
 Its systemic contribution is:
@@ -777,11 +1083,17 @@ Its contemporary Apex representative is:
 Altair represents:
 
 - Future,
+
 - Trajectory,
+
 - Research,
+
 - Progress,
+
 - Causality,
+
 - Strategic understanding,
+
 - Institutional adaptation.
 
 His role is not merely to represent Reltronland politically.
@@ -795,13 +1107,21 @@ He is the contemporary intellectual expression of Reltronland's deepest civiliza
 The later Depcutland civilization developed into a civilization associated with:
 
 - knowledge,
+
 - continuity,
+
 - documentation,
+
 - preservation,
+
 - institutional memory,
+
 - cultural literacy,
+
 - research,
+
 - reflection,
+
 - and historical accountability.
 
 Its systemic contribution is:
@@ -819,11 +1139,17 @@ Its contemporary Apex representative is:
 Watson represents:
 
 - Civilizational Memory,
+
 - Continuity,
+
 - Preservation,
+
 - Reflection,
+
 - Historical reconstruction,
+
 - Institutional memory,
+
 - and resistance to narrative erasure.
 
 His role is not merely to represent Depcutland's libraries.
@@ -837,29 +1163,51 @@ He is the contemporary intellectual expression of Depcutland's deepest civilizat
 The ancestral relationship between Tron and Cut survives in modern Asthortera as a civilizational duality.
 
 ```text
+
 TRON
+
 Creation
-    ↓
+
+    ↓
+
 Reltronland
-    ↓
+
+    ↓
+
 Trajectory
-    ↓
+
+    ↓
+
 Future
-    ↓
+
+    ↓
+
 Professor Altair Troner
+
 ```
 
 ```text
+
 CUT
+
 Preservation
-    ↓
+
+    ↓
+
 Depcutland
-    ↓
+
+    ↓
+
 Continuity
-    ↓
+
+    ↓
+
 Civilizational Memory
-    ↓
+
+    ↓
+
 Dr. Westley Watson
+
 ```
 
 The relationship is not intended to imply that the modern characters are literal copies of their ancestors.
@@ -879,17 +1227,25 @@ Nevertheless, his current characterization exhibits an unusually strong correspo
 Tron was oriented toward:
 
 - creation,
+
 - technology,
+
 - entrepreneurship,
+
 - and building what did not yet exist.
 
 Altair is oriented toward:
 
 - research,
+
 - technology,
+
 - causality,
+
 - civilizational development,
+
 - future trajectory,
+
 - and understanding what civilization should become next.
 
 Therefore:
@@ -901,8 +1257,11 @@ This distinction is deliberate.
 The inheritance is visible through:
 
 - worldview,
+
 - civilizational role,
+
 - professional orientation,
+
 - and thematic continuity.
 
 ---
@@ -916,20 +1275,31 @@ Nevertheless, his characterization exhibits an unusually strong correspondence w
 Cut was oriented toward:
 
 - libraries,
+
 - books,
+
 - archives,
+
 - scholarly literature,
+
 - knowledge accumulation,
+
 - and preservation.
 
 Watson is oriented toward:
 
 - history,
+
 - archives,
+
 - institutional memory,
+
 - historical reconstruction,
+
 - continuity,
+
 - preservation,
+
 - and the Endless Library.
 
 Therefore:
@@ -949,21 +1319,37 @@ This is the mature civilizational form of Cut's original instinct.
 The ancestral trajectory can be summarized as:
 
 ```text
+
 TRON
+
 "What can we create?"
-        ↓
+
+        ↓
+
 Technology
-        ↓
+
+        ↓
+
 Enterprise
-        ↓
+
+        ↓
+
 Generational engineering culture
-        ↓
+
+        ↓
+
 Reltronian civilization
-        ↓
+
+        ↓
+
 Scientific and institutional maturity
-        ↓
+
+        ↓
+
 ALTAIR
+
 "How do civilizations continue advancing?"
+
 ```
 
 The scale has changed.
@@ -987,23 +1373,41 @@ Thus:
 The Cut trajectory follows a parallel evolution:
 
 ```text
+
 CUT
+
 "What can be learned and preserved?"
-        ↓
+
+        ↓
+
 Books
-        ↓
+
+        ↓
+
 Collection
-        ↓
+
+        ↓
+
 Library
-        ↓
+
+        ↓
+
 Generational archival culture
-        ↓
+
+        ↓
+
 Depcutian civilization
-        ↓
+
+        ↓
+
 Civilizational memory systems
-        ↓
+
+        ↓
+
 WATSON
+
 "What must never be lost?"
+
 ```
 
 The scale has changed.
@@ -1022,17 +1426,17 @@ Thus:
 
 # XXVIII. RELTRONLAND AND DEPCUTLAND AS COMPLEMENTARY CIVILIZATIONS
 
-The two civilizations should not be interpreted as opposites in a simplistic sense.
+The two civilizations should not be interpreted as simple opposites, nor as civilizations bound together merely by ancestral sentiment.
 
-They are better understood as complementary functions.
+They are better understood as strategically interdependent civilizations.
 
-```text
 RELTRONLAND
 Future
 Trajectory
 Creation
 Structure
 Progress
+Strategic systems
 
         ↕
 
@@ -1042,37 +1446,76 @@ Memory
 Preservation
 Reflection
 Knowledge
-```
+Institutional memory
 
-A mature civilization requires both.
+Their complementarity is practical.
 
-Without Reltronland:
+Reltronland possesses exceptional capabilities in:
 
-> civilization risks stagnation.
+technological creation,
 
-Without Depcutland:
+engineering,
 
-> civilization risks amnesia.
+infrastructure,
 
-The ideal relationship is therefore:
+systemic organization,
 
-```text
-Creation
-    +
-Continuity
-    ↓
-Responsible Progress
-```
+urban development,
 
-This is one of the central civilizational balances represented by Professor Altair Troner and Dr. Westley Watson.
+strategic trajectory,
 
----
+and future-oriented adaptation.
 
-# XXIX. THE SDI CONNECTION
+Depcutland possesses exceptional capabilities in:
+
+knowledge preservation,
+
+archives,
+
+documentation,
+
+research,
+
+institutional memory,
+
+legal and bureaucratic continuity,
+
+and historical interpretation.
+
+Each therefore contains capabilities that the other may require under different historical conditions.
+
+This creates the central relationship:
+
+Different interests
+        +
+Different capabilities
+        +
+Mutual strategic relevance
+        ↓
+Strategic interdependence
+
+The relationship is therefore not:
+
+"We need each other because we are family."
+
+It is:
+
+"We remain strategically relevant to one another because neither civilization completely possesses what the other can provide."
+
+This distinction is fundamental to the mature canon.
+
+A civilization may disagree with its strategic counterpart while still recognizing that the counterpart's continued existence can be important to its own long-term stability.
+
+Thus:
+
+Reltronland and Depcutland are not inseparable because they are brothers. They are difficult to separate because their civilizational capabilities became structurally complementary.
+
+XXIX. THE SDI CONNECTION**
 
 Reltronland and Depcutland eventually reach exceptionally high positions within Asthortera's **Sentient Development Index (SDI)**:
 
 - **Reltronland — SDI 0.984**
+
 - **Depcutland — SDI 0.981**
 
 Their proximity is not interpreted as accidental.
@@ -1084,27 +1527,45 @@ The deeper explanation is the long-term institutionalization of their ancestral 
 ### Reltronland's development
 
 ```text
+
 Creation
+
 → Technology
+
 → Engineering
+
 → Merit
+
 → Infrastructure
+
 → Institutional adaptation
+
 → High cognitive and systemic maturity
+
 → SDI 0.984
+
 ```
 
 ### Depcutland's development
 
 ```text
+
 Knowledge
+
 → Libraries
+
 → Archives
+
 → Research
+
 → Cultural literacy
+
 → Institutional continuity
+
 → Historical maturity
+
 → SDI 0.981
+
 ```
 
 Thus two very different civilizational paths converge near the top of the same developmental index.
@@ -1115,7 +1576,7 @@ This is an example of:
 
 ---
 
-# XXX. THE TRON–CUT EFFECT ON ASTHORTERA
+# XXIX. THE TRON–CUT EFFECT ON ASTHORTERA
 
 The historical influence of Tron and Cut extends beyond the two countries.
 
@@ -1124,19 +1585,29 @@ Their descendant civilizations eventually became important nodes within Asthorte
 Reltronland contributes strongly through:
 
 - infrastructure,
+
 - energy,
+
 - structural systems,
+
 - engineering,
+
 - large-scale urban systems,
+
 - and technological trajectory.
 
 Depcutland contributes strongly through:
 
 - knowledge,
+
 - documentation,
+
 - archival continuity,
+
 - research,
+
 - institutional memory,
+
 - and historical reconstruction.
 
 Together they represent two forms of civilizational infrastructure:
@@ -1147,7 +1618,7 @@ Together they represent two forms of civilizational infrastructure:
 
 ---
 
-# XXXI. THE TRON–CUT PRINCIPLE
+# XXX. THE TRON–CUT PRINCIPLE
 
 The entire ancestral history can be condensed into one principle:
 
@@ -1167,46 +1638,82 @@ Their civilizations became complementary components of Asthortera's planetary sy
 
 ---
 
-# XXXII. THE TRON–CUT EXISTENTIAL LOOP
+# XXXI. THE TRON–CUT EXISTENTIAL LOOP
 
 The historical structure forms a long loop:
 
 ```text
-                    DEPEISIT
-                       │
-                 Noble Family
-                       │
-              ┌────────┴────────┐
-              │                 │
-             TRON              CUT
-              │                 │
-          Creation         Preservation
-              │                 │
-       Many generations   Many generations
-              │                 │
-              └───────┬─────────┘
-                      │
-                 Depeisit-origin
-                   descendants
-                      │
-                  ASTHORTERA
-                      │
-          ┌───────────┴───────────┐
-          │                       │
-    Proto-Reltronian        Proto-Depcutian
-      development             development
-          │                       │
-     Troner Rhett           Cutter Glouster
-          │                       │
-      1125 BAC                 1121 BAC
-          │                       │
-    RELTRONLAND              DEPCUTLAND
-          │                       │
-      TRAJECTORY               CONTINUITY
-          │                       │
-    ALTAIR TRONER            WESTLEY WATSON
-          │                       │
-       FUTURE                    MEMORY
+
+                    DEPEISIT
+
+                       │
+
+                 Noble Family
+
+                       │
+
+              ┌────────┴────────┐
+
+              │                 │
+
+             TRON              CUT
+
+              │                 │
+
+          Creation         Preservation
+
+              │                 │
+
+       Many generations   Many generations
+
+              │                 │
+
+              └───────┬─────────┘
+
+                      │
+
+                 Depeisit-origin
+
+                   descendants
+
+                      │
+
+                  ASTHORTERA
+
+                      │
+
+          ┌───────────┴───────────┐
+
+          │                       │
+
+    Proto-Reltronian        Proto-Depcutian
+
+      development             development
+
+          │                       │
+
+     Troner Rhett           Cutter Glouster
+
+          │                       │
+
+      1125 BAC                 1121 BAC
+
+          │                       │
+
+    RELTRONLAND              DEPCUTLAND
+
+          │                       │
+
+      TRAJECTORY               CONTINUITY
+
+          │                       │
+
+    ALTAIR TRONER            WESTLEY WATSON
+
+          │                       │
+
+       FUTURE                    MEMORY
+
 ```
 
 The loop is not a literal reincarnation cycle.
@@ -1215,51 +1722,70 @@ It is a **civilizational inheritance cycle**.
 
 ---
 
-# XXXIII. THE TRON–CUT LEGACY AND THE RELTRONLAND–DEPCUTLAND WAR
+# XXXII. THE TRON–CUT LEGACY AND THE RELTRONLAND–DEPCUTLAND WAR
 
 The eventual conflict between Reltronland and Depcutland does not erase their shared ancestry.
 
-Instead, it makes that ancestry more tragic and more meaningful.
+Instead, it demonstrates the difference between shared origin and shared strategic interest.
 
-The two civilizations descend from the same ancient twin divergence.
+Tron and Cut themselves knew that they were biological twin brothers. Yet neither was required to subordinate his own existential interests to the other's merely because of that relationship.
 
-Yet their mature systems developed different priorities.
+That logic became progressively larger through their descendants.
 
-Reltronland tends to prioritize:
+The historical progression is:
 
-- trajectory,
-- strategic security,
-- progress,
-- infrastructure,
-- and prevention of systemic collapse.
+```text
 
-Depcutland tends to prioritize:
+   Tron ↔ Cut
+        ↓
+personal divergence
+        ↓
+descendant lineages
+        ↓
+Troner Rhett ↔ Cutter Glouster
+        ↓
+Reltronland ↔ Depcutland
+        ↓
+strategic divergence
+        ↓
+        war
+        ↓
+Troncut Treaty — 1010 BAC
+        ↓
+strategic coexistence
+```
 
-- continuity,
-- institutional memory,
-- historical accountability,
-- knowledge,
-- and preservation of identity.
+The war is therefore not a rejection of their shared ancestry.
+
+It is the point at which strategic interests became incompatible enough that both civilizations prioritized their own existential continuity over the fact of shared descent.
+
+**Reltronland** tends to prioritize:
+
+>trajectory, strategic security, progress, infrastructure, systemic capability, and prevention of systemic collapse.
+
+**Depcutland** tends to prioritize:
+
+>continuity, institutional memory, historical accountability, knowledge, preservation of identity, and institutional survival.
 
 Their conflict therefore becomes more than a geopolitical dispute.
 
-It becomes a confrontation between two mature interpretations of what civilization must protect.
+It becomes a confrontation between two mature interpretations of what must be protected for a civilization to continue existing.
 
-The historical irony is:
+The historical irony is not simply:
 
-> **The descendants of two brothers who originally represented complementary civilizational instincts eventually became strategic rivals.**
+>**"Brothers went to war."**
 
-Yet the existence of conflict does not invalidate the complementarity.
+The deeper irony is:
 
-It demonstrates how complementary systems can still disagree over:
+>**"Two civilizations descended from the same biological twin lineage became strategically interdependent enough to need one another, yet strategically divergent enough to fight when they believed their own continued existence was at stake."**
 
-- risk,
-- sovereignty,
-- strategy,
-- institutional legitimacy,
-- and historical interpretation.
+This is a recurring principle of Asthorteran history:
 
----
+> **Shared ancestry does not guarantee shared strategy.**
+
+And:
+
+> **Strategic interdependence does not guarantee permanent peace.**
 
 # XXXIV. WAR DOES NOT ERASE THE SHARED ANCESTRY
 
@@ -1278,9 +1804,13 @@ And neither requires genocide, deliberate civilian dehumanization, or mass tortu
 Their war can therefore be:
 
 - destructive,
+
 - urban,
+
 - economically devastating,
+
 - systemically disruptive,
+
 - and deadly,
 
 while still remaining primarily a conflict of strategic objectives, institutional fears, sovereignty, and civilizational trajectories.
@@ -1289,7 +1819,82 @@ This is consistent with Asthortera's broader model of mature but fallible civili
 
 ---
 
-# XXXV. THE CONTEMPORARY APEX CONNECTION
+# XXXIII. THE TRONCUT TREATY — 1010 BAC
+
+The Troncut Treaty of 1010 BAC should not be interpreted primarily as a sentimental reunion of descendants honoring their twin ancestors.
+
+Its deeper function is strategic.
+
+After the Reltronland–Depcutland War, both sides recognized that continued conflict could threaten the long-term viability of their own civilizations.
+
+The treaty therefore established a framework in which:
+
+Reltronland could continue its own trajectory,
+
+Depcutland could preserve its own continuity,
+
+both could remain sovereign,
+
+neither had to become the other,
+
+and their disagreements could continue without automatically escalating into existential destruction.
+
+The treaty is therefore best understood as:
+
+A strategic coexistence settlement between two civilizations whose mutual relevance made permanent separation or destruction irrational.
+
+Its significance can be represented as:
+
+```text
+Shared ancestry
+        ≠
+Shared strategy
+
+Shared strategic relevance
+        ↓
+Conflict becomes costly to both
+        ↓
+Recognition of mutual existential stakes
+        ↓
+TRONCUT TREATY — 1010 BAC
+        ↓
+Coexistence without sameness
+```
+
+The treaty does not erase disagreement.
+
+It institutionalizes a way to survive disagreement.
+
+This is the civilizational-scale evolution of the original Tron–Cut relationship:
+
+```text
+Tron and Cut
+lived beside one another despite disagreement
+
+        ↓
+
+Their descendants
+institutionalized different survival strategies
+
+        ↓
+
+Reltronland and Depcutland
+fought when those strategies became strategically incompatible
+
+        ↓
+
+Troncut Treaty
+established coexistence because both sides
+needed a future in which the other could continue to exist
+```
+
+Therefore, the treaty is not the moment when the two sides suddenly become emotionally identical.
+
+It is the moment when they establish:
+
+> **"We do not need to agree in order to continue existing beside one another."**
+
+# XLII. THE CONTEMPORARY APEX CONNECTION
 
 In the current era of *The Abyss of Comfort*, the ancestral duality appears most clearly through:
 
@@ -1311,51 +1916,80 @@ In the current era of *The Abyss of Comfort*, the ancestral duality appears most
 
 Their relationship therefore carries a meaning much older than their own lifetimes.
 
+However, their relationship should not be framed as sentimental siblinghood. Altair and Watson represent the latest strategic form of the Tron–Cut problem: each civilization possesses capabilities and institutional functions that can matter to the other's continued existence, even when their interests or interpretations diverge.
+
 At the narrative level:
 
 ```text
+
 Altair ↔ Watson
+
 =
+
 Reltronland ↔ Depcutland
+
 =
+
 Creation ↔ Preservation
+
 =
+
 Trajectory ↔ Continuity
+
 =
+
 Future ↔ Memory
+
 ```
 
 The current characters do not need to know every detail of the ancient Tron–Cut story for the pattern to exist.
 
 ---
 
-# XXXVI. CANONICAL INTERPRETATION OF THE "DESTINY" EFFECT
+# XXXIV. CANONICAL INTERPRETATION OF THE "DESTINY" EFFECT
 
 The Tron–Cut legacy should be understood as an **existential civilizational inheritance**, not as a simplistic prophecy.
 
 There is no requirement that Tron predicted:
 
 - Reltronland,
+
 - Depcutland,
+
 - Troner Rhett,
+
 - Cutter Glouster,
+
 - Altair,
+
 - or Watson.
 
 Instead, the "destiny" effect operates through recurrence:
 
 ```text
+
 Early human tendency
-        ↓
+
+        ↓
+
 Family behavior
-        ↓
+
+        ↓
+
 Generational culture
-        ↓
+
+        ↓
+
 Institutional specialization
-        ↓
+
+        ↓
+
 Civilizational identity
-        ↓
+
+        ↓
+
 Apex representation
+
 ```
 
 The same deep questions keep returning in increasingly sophisticated forms.
@@ -1382,15 +2016,20 @@ The underlying existential polarity remains.
 
 ---
 
-# XXXVII. WHAT THE LINEAGE DOES NOT MEAN
+# XXXV. WHAT THE LINEAGE DOES NOT MEAN
 
 The Tron–Cut lineage should not be interpreted as:
 
 - biological determinism,
+
 - racial determinism,
+
 - proof that one civilization is inherently superior,
+
 - proof that Reltronland is destined to dominate Depcutland,
+
 - proof that Depcutland is destined to oppose Reltronland,
+
 - or a supernatural prophecy that forces every descendant to behave like Tron or Cut.
 
 Instead, it represents:
@@ -1400,67 +2039,221 @@ Instead, it represents:
 Individual descendants remain capable of:
 
 - disagreement,
+
 - adaptation,
+
 - failure,
+
 - innovation,
+
 - reflection,
+
 - and choosing different paths.
 
 This preserves character agency and civilizational complexity.
 
 ---
 
-# XXXVIII. CANONICAL TIMELINE
+# XXXVI. CANONICAL TIMELINE
 
-| Date / Period | Event |
-|---|---|
-| Ancient Depeisit era | Noble family produces biological twins Tron and Cut |
-| Tron childhood | Develops strong fascination with technology and creation |
-| Cut childhood | Develops strong fascination with libraries and accumulated knowledge |
-| Tron adulthood | Establishes private property company and becomes a technopreneur |
-| Cut adulthood | Builds a private library and accumulates books, archives, Scopus literature, and scholarly material |
-| Subsequent generations | Tron and Cut lineages develop increasingly distinct cultural and institutional tendencies |
-| Later Depeisit-descended era | Descendant populations develop on Asthortera |
-| Early Asthorteran phase | Young Depeisit-origin communities interact with older Asthorteran civilizations |
-| 1125 BAC | **Troner Rhett — Formal civic and political foundation of Reltronland** |
-| 1121 BAC | **Cutter Glouster — Initial Depcutian Formation** |
-| Later history | Reltronland and Depcutland mature into distinct but interconnected civilizations |
-| Modern era | Altair Troner and Dr. Westley Watson embody the evolved civilizational duality |
-| Modern era | Reltronland and Depcutland remain among Asthortera's highest-SDI civilizations |
+Date / Period
 
----
+Event
 
-# XXXIX. CANON GUARDRAILS
+Ancient Depeisit era
+
+A Depeisit noble family produces biological twins Tron and Cut
+
+Tron childhood
+
+Develops a strong fascination with technology, creation, building, and advanced tools
+
+Cut childhood
+
+Develops a strong fascination with libraries, books, archives, literature, and accumulated knowledge
+
+Tron adulthood
+
+Establishes a privately owned property company and becomes a technopreneur
+
+Cut adulthood
+
+Builds a private library and accumulates books, archives, Scopus literature, and scholarly material
+
+Subsequent generations
+
+Tron and Cut lineages develop increasingly distinct cultural, institutional, and strategic tendencies
+
+Later Depeisit-descended era
+
+Descendant populations develop on Asthortera
+
+Early Asthorteran phase
+
+Young Depeisit-origin communities interact with older Asthorteran civilizations
+
+1125 BAC
+
+Troner Rhett — Formal civic and political foundation of Reltronland
+
+1121 BAC
+
+Cutter Glouster — Initial Depcutian Formation
+
+Later pre-war history
+
+Reltronland and Depcutland mature into distinct but strategically interdependent civilizations
+
+Pre-1010 BAC
+
+Strategic tensions escalate into the Reltronland–Depcutland War
+
+Pre-1010 BAC
+
+Both sides remain aware of their shared ancestral origin while prioritizing their own perceived existential interests
+
+1010 BAC
+
+Troncut Treaty — strategic coexistence framework between Reltronland and Depcutland
+
+Post-1010 BAC
+
+Reltronland and Depcutland continue as sovereign civilizations capable of disagreement, competition, cooperation, and mutual strategic dependence
+
+Modern era
+
+Altair Troner and Dr. Westley Watson embody the evolved civilizational duality and existential interdependence
+
+Modern era
+
+Reltronland and Depcutland remain among Asthortera's highest-SDI civilizations
+
+# XXXVII. CANON GUARDRAILS
 
 The following rules should remain stable in future worldbuilding work.
 
-1. **Tron and Cut are biological twin brothers.**
-2. **Their ancestral family originates on Depeisit.**
-3. **The family is noble in origin.**
-4. **Tron is fundamentally associated with creation and technology.**
-5. **Cut is fundamentally associated with libraries, books, archives, and knowledge preservation.**
-6. **Tron becomes a technopreneur through a privately owned property company.**
-7. **Cut develops a private library containing books, archives, Scopus literature, and scholarly material.**
-8. **The Tron and Cut lineages develop over many generations before the emergence of Troner Rhett and Cutter Glouster.**
-9. **Troner Rhett is the founding father of Reltronland in 1125 BAC.**
-10. **Cutter Glouster is the founding father of Depcutland in 1121 BAC.**
-11. **The two civilizations are Depeisit-descended but become fully embedded within Asthortera.**
-12. **Their early Asthorteran phase should not be portrayed as already identical to their modern identities.**
-13. **Their early aesthetic and cultural appearance may differ substantially from older Asthorteran civilizations.**
-14. **Reltronland represents trajectory, future, structure, and creation.**
-15. **Depcutland represents continuity, memory, knowledge, and preservation.**
-16. **The two civilizational functions are complementary, not inherently antagonistic.**
-17. **Altair Troner is the current Civilizational Apex of Reltronland and represents Future / Trajectory.**
-18. **Westley Watson is the current Civilizational Apex of Depcutland and represents Continuity / Civilizational Memory.**
-19. **The complete biological genealogy between Tron and Troner Rhett is not required to be individually documented.**
-20. **The complete biological genealogy between Cut and Cutter Glouster is not required to be individually documented.**
-21. **Altair's direct biological descent from Tron is currently an implied inheritance, not a fully documented genealogical fact.**
-22. **Watson's direct biological descent from Cut is currently an implied inheritance, not a fully documented genealogical fact.**
-23. **Do not retroactively invent intermediate ancestors merely to fill genealogical gaps.**
-24. **The "destiny" effect is civilizational recurrence and inherited orientation, not forced prophecy or biological determinism.**
-25. **Reltronland and Depcutland remain independent sovereign civilizations within Asthortera's multipolar planetary system.**
+Tron and Cut are biological twin brothers.
 
----
+Their ancestral family originates on Depeisit.
+
+The family is noble in origin.
+
+Tron is fundamentally associated with creation and technology.
+
+Cut is fundamentally associated with libraries, books, archives, and knowledge preservation.
+
+Tron becomes a technopreneur through a privately owned property company.
+
+Cut develops a private library containing books, archives, Scopus literature, and scholarly material.
+
+The Tron and Cut lineages develop over many generations before the emergence of Troner Rhett and Cutter Glouster.
+
+Troner Rhett is the founding father of Reltronland in 1125 BAC.
+
+Cutter Glouster is the founding father of Depcutland in 1121 BAC.
+
+The two civilizations are Depeisit-descended but become fully embedded within Asthortera.
+
+Their early Asthorteran phase should not be portrayed as already identical to their modern identities.
+
+Their early aesthetic and cultural appearance may differ substantially from older Asthorteran civilizations.
+
+Reltronland represents trajectory, future, structure, creation, and systemic capability.
+
+Depcutland represents continuity, memory, knowledge, preservation, and institutional capability.
+
+The two civilizational functions are complementary, but complementarity does not guarantee agreement or peace.
+
+The relationship is fundamentally strategic and existential, not based on sentimental brotherhood or ancestral worship.
+
+Tron and Cut knew they were biological twins, but their strategic decisions were not governed primarily by brotherhood.
+
+The descendants do not inherit a mandatory obligation to honor, imitate, worship, or preserve their ancestors.
+
+Shared ancestry does not guarantee shared strategic interests.
+
+Strategic interdependence does not guarantee permanent peace.
+
+Reltronland and Depcutland can cooperate, compete, disagree, and wage war despite their shared ancestry.
+
+The Reltronland–Depcutland War is a strategic and existential conflict in which both civilizations prioritize their own perceived continued existence.
+
+The war is not defined by genocide, deliberate civilian dehumanization, or mass torture.
+
+The Troncut Treaty is canonically established in 1010 BAC as a strategic coexistence framework.
+
+The Troncut Treaty does not require ideological sameness, emotional reconciliation, surrender of sovereignty, or ancestral reverence.
+
+The central post-war principle is coexistence without sameness: the two civilizations can remain different while continuing to exist beside one another.
+
+Altair Troner is the current Civilizational Apex of Reltronland and represents Future / Trajectory.
+
+Westley Watson is the current Civilizational Apex of Depcutland and represents Continuity / Civilizational Memory.
+
+Altair's direct biological descent from Tron and Watson's direct biological descent from Cut remain genealogically undocumented unless future canon explicitly establishes otherwise; their inheritance is currently expressed through strong civilizational and behavioral correspondence.
+
+The complete intermediate genealogy between Tron/Cut and later descendants is not required to be individually documented; do not invent unsupported ancestors merely to fill gaps.
+
+The "destiny" effect is civilizational recurrence, strategic inheritance, and evolved capability—not forced prophecy or biological determinism.
+
+Reltronland and Depcutland remain independent sovereign civilizations within Asthortera's multipolar planetary system.
+
+# XXXVIII. THE EXISTENTIAL PRINCIPLE
+
+The most important clarification of the Tron–Cut lineage is that existential continuity outranks ancestral sentiment.
+
+Tron and Cut knew they were biological twins.
+
+That fact mattered historically.
+
+But it did not dictate their strategic decisions.
+
+They did not act primarily:
+
+"for brotherhood,"
+
+"to honor their ancestors,"
+
+"to preserve the legacy of Tron,"
+
+or "to preserve the legacy of Cut."
+
+They acted according to what they believed was necessary for their own continued existence and capability.
+
+The same logic evolved through subsequent generations:
+
+```text
+TRON + CUT
+Biological twins
+        ↓
+Different interests
+        ↓
+Different survival priorities
+        ↓
+Generational inheritance
+        ↓
+Troner Rhett + Cutter Glouster
+        ↓
+Reltronland + Depcutland
+        ↓
+Different civilizational survival strategies
+        ↓
+War when strategic interests became incompatible
+        ↓
+Troncut Treaty — 1010 BAC
+        ↓
+Coexistence because mutual existence remained strategically valuable
+        ↓
+Altair + Watson
+        ↓
+Modern existential interdependence
+```
+
+The central principle is therefore:
+
+> **They do not remain connected because they are family. They remain connected because their continued existence makes the other strategically relevant.**
+
+This is why the relationship can survive disagreement, competition, war, and reconciliation without requiring sentimental simplification.
 
 # XL. FINAL HISTORICAL ASSESSMENT
 
@@ -1481,10 +2274,15 @@ Their descendants carried those orientations across generations.
 Eventually:
 
 - creation became infrastructure,
+
 - technology became civilization,
+
 - entrepreneurship became systemic development,
+
 - preservation became archives,
+
 - libraries became institutional memory,
+
 - scholarship became civilizational continuity.
 
 Then Troner Rhett and Cutter Glouster transformed those long-developed tendencies into organized civilizations.
@@ -1492,35 +2290,63 @@ Then Troner Rhett and Cutter Glouster transformed those long-developed tendencie
 And thousands of years later, the same ancient duality appears again through Altair Troner and Westley Watson:
 
 ```text
+
 TRON
+
 ↓
+
 CREATION
+
 ↓
+
 TECHNOLOGY
+
 ↓
+
 RELTRONLAND
+
 ↓
+
 TRAJECTORY
+
 ↓
+
 FUTURE
+
 ↓
+
 ALTAIR TRONER
+
 ```
 
 ```text
+
 CUT
+
 ↓
+
 PRESERVATION
+
 ↓
+
 KNOWLEDGE
+
 ↓
+
 DEPCUTLAND
+
 ↓
+
 CONTINUITY
+
 ↓
+
 MEMORY
+
 ↓
+
 WESTLEY WATSON
+
 ```
 
 The significance of this lineage is therefore not that history was predetermined.
@@ -1538,24 +2364,37 @@ Altair and Watson express them as living Apex characters.
 The ancient twins therefore remain present in Asthortera—not as ghosts, prophecies, or literal copies, but as **civilizational tendencies that survived long enough to become part of the architecture of conscious civilization itself.**
 
 > **Creation gives civilization a future.**
+
 >
+
 > **Continuity gives that future an identity.**
+
 >
+
 > **Together, they make civilization capable of remembering where it came from while deciding where it should go.**
 
 ---
 
 # XLI. ARCHIVAL CLASSIFICATION
 
-**Classification:** Canonical Historical Foundation  
-**World:** Asthortera  
-**Primary Planet of Origin:** Depeisit  
-**Primary Civilizations:** Reltronland / Depcutland  
-**Historical Subjects:** Tron / Cut / Troner Rhett / Cutter Glouster  
-**Modern Character Relevance:** Professor Altair Troner / Dr. Westley Watson  
-**Canon Status:** Canonical Historical Foundation  
-**Genealogical Status:** Core lineage established; intermediate generations partially undocumented  
-**Narrative Function:** Ancestral / Civilizational / Existential  
+**Classification:** Canonical Historical Foundation  
+
+**World:** Asthortera  
+
+**Primary Planet of Origin:** Depeisit  
+
+**Primary Civilizations:** Reltronland / Depcutland  
+
+**Historical Subjects:** Tron / Cut / Troner Rhett / Cutter Glouster  
+
+**Modern Character Relevance:** Professor Altair Troner / Dr. Westley Watson  
+
+**Canon Status:** Canonical Historical Foundation  
+
+**Genealogical Status:** Core lineage established; intermediate generations partially undocumented  
+
+**Narrative Function:** Ancestral / Civilizational / Existential  
+
 **Continuity Policy:** Preserve established facts; do not invent unsupported intermediate genealogy
 
 ---
