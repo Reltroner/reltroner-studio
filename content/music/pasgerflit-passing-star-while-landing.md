@@ -29,6 +29,16 @@ tags:
   allowfullscreen>
 </iframe>
 
+<iframe
+  width="100%"
+  height="420"
+  src="https://www.youtube.com/embed/EgnR0mHXkoI"
+  title="Terminal Sunrise"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 # Passing Star While Landing
 
 **Passing Star While Landing** is an instrumental music piece from **Pasgerflit**, the Sky Nation of Asthortera.
