@@ -35,7 +35,7 @@ To maintain spiritual and civic harmony, cross-border movement across Asthortera
 
 ---
 
-## 🌍 Founding Signatories (The First Seven)
+## 🌍 Founding Signatories (The First Eight)
 
 1. **Reltronland** – Sovereign meritocratic clarity state
 2. **Pasgerflit** – Sky-powered transit civilization
@@ -44,6 +44,7 @@ To maintain spiritual and civic harmony, cross-border movement across Asthortera
 5. **Lenternow** – The Lanternlight Nation
 6. **Stelpadland** – Scouting civilization
 7. **Pencilfania** – Cultural and educational influence center
+8. **Kalgered** – Diplomatic Firewall of Asthortera
 
 ---
 

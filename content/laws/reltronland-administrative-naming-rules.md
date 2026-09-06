@@ -24,7 +24,7 @@ This document outlines the **official naming conventions** for administrative re
 
 ## 2. 🟡 Provincial Level
 
-* **Allowed Letters:** `r`, `e`, `l`, `t`, `o`, `n`, `a`, `d`, plus `u`, `p`, `w`, `f`, `h`, `i`
+* **Allowed Letters:** `r`, `e`, `l`, `t`, `o`, `n`, `a`, `d`, plus `u`, `p`, `w`, `f`, `h`, `i`, , `s`
 * **Examples:**
 
   * `Troneiput`
@@ -40,13 +40,13 @@ This document outlines the **official naming conventions** for administrative re
 ## 3. 🟡 City / Regency Level
 
 * **Same rule as the Provincial Level.**
-* **Allowed Letters:** `r`, `e`, `l`, `t`, `o`, `n`, `a`, `d`, `u`, `p`, `w`, `f`, `h`, `i`
+* **Allowed Letters:** `r`, `e`, `l`, `t`, `o`, `n`, `a`, `d`, `u`, `p`, `w`, `f`, `h`, `i`, `v`, `c`, `k`, `q`, `b` , `m`, `s`
 
 ---
 
 ## 4. 🟠 District Level
 
-* **Allowed Letters:** `r`, `e`, `l`, `t`, `o`, `n`, `a`, `d`, `u`, `p`, `w`, `f`, `h`, `i`, plus `c`, `k`, `q`, `b`, `v`
+* **Allowed Letters:** `r`, `e`, `l`, `t`, `o`, `n`, `a`, `d`, `u`, `p`, `w`, `f`, `h`, `i`, plus `c`, `k`, `q`, `b`, `v`, `m`, `s`
 * **Examples:** May include names like `Rektronack`, `Ropelquint`, or `Trufickban`
 * **Rule:** Districts are permitted to embrace localized complexity while remaining within the naming boundaries.
 

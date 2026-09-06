@@ -17,7 +17,7 @@ image: "/images/clarity-quarantine-network.webp"
 
 ## 📍 Overview
 
-The **Clarity Quarantine Network** is a planet-wide defensive system ensuring that no sentient influenced by the **Nytherion Abyss** or **Henchoeway** re-enters public life without total mental stabilization.
+The **Clarity Quarantine Network** is a planet-wide defensive system ensuring that no sentient influenced by the **Nytherion Abyss** or **Henchoway** re-enters public life without total mental stabilization.
 
 Rather than prisons, these are **cognitive firewalls** — facilities where infected minds are cleansed, restructured, and verified through Astralis Pinnacle discipline before being reintegrated into society.
 
@@ -108,7 +108,7 @@ Embedded within the **spiritual heart of Astralis Pinnacle doctrine**, the **Inn
 ---
 
 ## 📜 Hooks
-- Henchoeway sleeper agents attempting to fake recovery to infiltrate Astralis Temple ranks.
+- Henchoway sleeper agents attempting to fake recovery to infiltrate Astralis Temple ranks.
 - Disputes within the Temple on how “merciful” quarantine trials should be.
 
 ---

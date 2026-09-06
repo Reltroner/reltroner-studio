@@ -71,7 +71,7 @@ The updated Reltronland Country Profile establishes:
 | **SDI** | `0.984 / 1.000` |
 | **Gini coefficient** | `0.39` |
 | **Inflation rate** | `0.3%` |
-| **Unemployment rate** | almost `0%` through purpose-aligned labor systems |
+| **Unemployment rate** | `1.5%` through purpose-aligned labor systems |
 
 This means the updated scale is far larger than the old version.
 

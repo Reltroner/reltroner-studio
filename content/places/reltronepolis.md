@@ -15,7 +15,7 @@ Reltronepolis is a mega-province and urban center of Reltronland, divided into s
 
 ### 🧠 **1. Tron Square District**
 
-The civic, spiritual, and business epicenter. Hosts the **RXS 500 Exchange**, **Reltronepolis Central Station**, and mass-scale public events.
+The civic, spiritual, and business epicenter. Hosts the **RXS 500 Exchange** and mass-scale public events.
 
 ---
 
