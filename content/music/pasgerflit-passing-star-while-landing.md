@@ -23,7 +23,7 @@ tags:
   width="100%"
   height="420"
   src="https://www.youtube.com/embed/4E7jF-fbtXQ"
-  title="Terminal Sunrise"
+  title="Passing Star While Landing"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
@@ -33,7 +33,7 @@ tags:
   width="100%"
   height="420"
   src="https://www.youtube.com/embed/EgnR0mHXkoI"
-  title="Terminal Sunrise"
+  title="Passing Star While Landing ver2"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>

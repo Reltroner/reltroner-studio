@@ -24,7 +24,7 @@ tags: ["music", "aurastelia", "aurora", "resonance", "fantasy", "cosmic", "auror
   width="100%"
   height="420"
   src="https://www.youtube.com/embed/fHV6ncpzSCI"
-  title="Aurastelia — Aurora Resonance"
+  title="Aurastelia — Aurora Resonance ver2"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
