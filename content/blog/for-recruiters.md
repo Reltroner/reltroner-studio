@@ -1,7 +1,7 @@
 ---
 title: "For Recruiters & Collaborators"
-description: "Professional overview for recruiters and collaborators seeking a full-stack/platform engineer with system architecture, system engineering, ERP SaaS architecture, secure authentication, production delivery, and business-facing Problem → Solution → Result execution"
-date: "2026-07-01"
+description: "Professional overview for recruiters and collaborators seeking a Full-Stack / Platform Engineer with system architecture, system engineering, IAM/security, Cloud/DevOps, ERP SaaS architecture, production delivery, and business-facing Problem → Solution → Result execution"
+date: "2026-09-15"
 published: true
 image: "/images/for-recruiters-banner.webp"
 ---
@@ -9,9 +9,12 @@ image: "/images/for-recruiters-banner.webp"
 # For Recruiters & Collaborators
 
 Hello —
-I'm **Rei Reltroner** (Raidan Sandra), a full-stack/platform engineer with system architecture and system engineering focus, specializing in **deterministic systems, modular architecture, secure authentication, ERP SaaS systems, and production-grade delivery**.
+
+I'm **Rei Reltroner** (Raidan Sandra), a **Full-Stack / Platform Engineer | System Architect & Engineer | IAM | Cloud/DevOps | ERP SaaS** professional with hands-on experience across frontend integration, backend/API engineering, identity and security, cloud infrastructure, system architecture, production debugging, and business-system reasoning.
 
 I build systems that are not only functional, but also **auditable, predictable, maintainable, business-readable, and safe to operate in real production environments**.
+
+My strongest value is reducing uncertainty across multi-layer systems by turning ambiguous business and infrastructure problems into **modular, auditable, maintainable, and production-ready solutions**.
 
 My current professional direction is:
 
@@ -24,18 +27,22 @@ My current professional direction is:
 **Role Positioning**
 
 Full-Stack / Platform Engineer
+
 System Engineer / System Architect
+
 ERP SaaS Business Architecture Engineer
+
 Full-Cycle Software Engineer with infrastructure, authentication, and business-process ownership
 
 **Primary Focus**
 
-* Full-stack engineering across frontend and backend with Next.js, Laravel, PHP, RESTful APIs, service isolation, and production validation
+* Full-stack engineering across frontend and backend with Next.js, Laravel 12, PHP 8.2+, Node.js, RESTful APIs, service isolation, and production validation
 * Platform and identity infrastructure involving Keycloak, OIDC, SSO, JWT RS256, OAuth2, PKCE, JWKS, and Cloudflare
 * Modular system architecture for ERP, LMS, SaaS, and production platform systems
 * ERP business-process architecture across Inventory, Procurement, WMS, Sales, Finance, HRIS, Reports, Settings, and AI Assistant layers
-* Deterministic system design with single source of truth, predictable output, and controlled state
+* Deterministic system design with single source of truth, predictable output, controlled state, and auditability
 * Production debugging across frontend, backend, authentication, DNS, tunnel routing, deployment, runtime configuration, and middleware boundaries
+* Production deployment and verification across Cloudflare, Rancher/Kubernetes, Docker, GHCR, and GitHub Actions
 * Auditability, system integrity, failure-mode analysis, and structured engineering documentation
 * Business-facing communication that converts technical systems into client-readable value: **Problem → Solution → Result**
 
@@ -43,7 +50,7 @@ Full-Cycle Software Engineer with infrastructure, authentication, and business-p
 
 ## Professional Summary
 
-I am a full-stack/platform engineer with system architecture and system engineering focus, with hands-on experience delivering end-to-end engineering solutions in production-facing environments.
+I am a **Full-Stack / Platform Engineer with System Architecture and System Engineering focus**, with hands-on experience delivering end-to-end engineering solutions in production-facing environments.
 
 My work combines:
 
@@ -57,21 +64,27 @@ My work combines:
 * **Client-facing explanation of system value**
 
 I do not approach engineering only as “writing code.”
-I approach it as building a system that must remain understandable, verifiable, secure, maintainable, and valuable to the business after deployment.
+
+I approach it as building a system that must remain **understandable, verifiable, secure, maintainable, and valuable to the business after deployment**.
 
 I have worked on systems involving:
 
 * Keycloak OIDC/SSO
 * Multi-realm JWT validation
-* Cloudflare DNS, Tunnel, Workers, and same-origin routing
+* JWT RS256 and JWKS validation
+* OAuth2 and Authorization Code + PKCE
+* Cloudflare DNS, Tunnel, Workers, Pages, and same-origin routing
 * Laravel backend authentication middleware
 * Next.js frontend integration
 * Rancher/Kubernetes deployment verification
+* GitHub Actions CI/CD
 * LMS authentication and domain isolation
 * ERP SaaS architecture
 * Audit-grade financial transaction design
+* Immutable financial transaction patterns
 * Security incident remediation
 * Modular course engine architecture
+* Data-driven content architecture
 * Multi-layer debugging across SSR, UI state, configuration, middleware, deployment, and infrastructure
 * Affiliate SaaS enablement by converting complex ERP features into practical B2B sales narratives
 
@@ -83,13 +96,16 @@ I have worked on systems involving:
 * Designing modular and scalable architectures using layered design and service boundaries
 * Building deterministic systems with single source of truth and predictable behavior
 * Implementing secure authentication flows with Keycloak, OIDC, JWT RS256, JWKS, PKCE, and OAuth2
-* Handling production SSO migration involving DNS, tunnels, OIDC issuer, frontend config, and deployment
+* Validating multi-realm access tokens through issuer, audience, and role boundaries
+* Handling production SSO migration involving DNS, tunnels, OIDC issuer, frontend configuration, and deployment
 * Debugging multi-layer failures across UI, SSR, reactive state, API, middleware, environment, DNS, infrastructure, and configuration boundaries
-* Building audit-safe backend systems with immutable transaction models, audit logging, and deterministic reporting
+* Building audit-safe backend systems with immutable transaction models, audit logging, fiscal locking, and deterministic reporting
 * Mapping ERP modules into business workflows that real retail/distribution clients can understand
 * Translating technical architecture into client-facing **Problem → Solution → Result** communication
+* Working across frontend, backend, identity, infrastructure, deployment, and business-process boundaries
 * Writing clear documentation for incident reports, failure analysis, architecture constraints, business workflows, and system handoff
 * Working under time pressure while keeping production risk controlled
+* Validating production behavior through evidence rather than assumption
 
 ---
 
@@ -126,32 +142,40 @@ My goal is to make systems that:
 ## Case Study 1 — Client Portal Authentication Modernization & Same-Origin API Routing
 
 **Project:** Skill-Wanderer Client Portal
+
 **Role:** Full-Stack / Platform Engineer
-**Stack:** Laravel, Keycloak, OIDC, JWT RS256, JWKS, Cloudflare Workers, Cloudflare Tunnel, Next.js, Rancher/Kubernetes, GitHub Actions
-**Production URL:** [client.skill-wanderer.com](https://client.skill-wanderer.com)
+
+**Stack:** Laravel 12, PHP 8.2+, Keycloak, OIDC, JWT RS256, JWKS, Cloudflare Workers, Cloudflare Tunnel, Next.js, Rancher/Kubernetes, GitHub Actions
+
+**Production URL:** https://client.skill-wanderer.com
 
 ### Case
 
-The Client Portal needed a production-grade authentication and API routing upgrade.
+The Client Portal required a production-grade authentication and API routing modernization.
 
-The backend had to validate real Keycloak access tokens from two trusted realms:
+The backend needed to validate real Keycloak access tokens from two trusted realms:
 
 ```text
 client-portal
+
 skill-wanderer-admin
 ```
 
-The required rule was strict:
+The required authentication boundary was strict:
 
 ```text
 client-portal realm
+
 → accept valid access token when aud contains client-portal-be
 
+
 skill-wanderer-admin realm
-→ accept valid access token only when aud contains client-portal-be and realm role contains client
+
+→ accept valid access token only when aud contains client-portal-be
+  and realm role contains client
 ```
 
-At the same time, the frontend needed to stop exposing the old browser-facing API base:
+At the same time, the frontend needed to stop exposing the legacy browser-facing API base:
 
 ```text
 https://api.skill-wanderer.com
@@ -165,7 +189,7 @@ https://client.skill-wanderer.com/api/*
 
 The challenge was multi-layered:
 
-* Keycloak tokens needed correct backend audience
+* Keycloak tokens needed the correct backend audience
 * Admin realm tokens needed role-based restriction
 * Laravel needed JWKS-backed JWT validation
 * Rancher needed a new backend deployment
@@ -189,7 +213,7 @@ For the `skill-wanderer-admin` realm, the token also needed:
 
 ```json
 "realm_access": {
-  "roles": ["client"]
+  "roles": ["client"]
 }
 ```
 
@@ -207,7 +231,7 @@ Implemented deterministic Keycloak JWT validation in Laravel:
 * `keycloak.token` middleware
 * Keycloak principal extraction into request attributes
 
-Production backend config included:
+Production backend configuration included:
 
 ```text
 KEYCLOAK_BASE_URL=https://sso.skill-wanderer.com
@@ -219,7 +243,7 @@ KEYCLOAK_ADMIN_REQUIRED_REALM_ROLE=client
 
 #### Deployment
 
-Deployed the backend to Rancher using image:
+Deployed the backend to Rancher using the image:
 
 ```text
 ghcr.io/skill-wanderer/client-portal-be:sha-4ab8871
@@ -257,7 +281,9 @@ Final runtime variables:
 
 ```text
 API_BASE_URL=https://client.skill-wanderer.com
+
 NEXT_PUBLIC_API_BASE_URL=https://client.skill-wanderer.com
+
 API_UPSTREAM_URL=https://client-portal-api.skill-wanderer.com
 ```
 
@@ -277,7 +303,7 @@ to:
 
 #### Backend Dashboard Route Migration
 
-The dashboard route originally used legacy auth middleware:
+The dashboard route originally used legacy authentication middleware:
 
 ```text
 dashboard.audit
@@ -307,6 +333,7 @@ Final production validation:
 
 ```text
 GET https://client.skill-wanderer.com/api/v1/client/dashboard
+
 Authorization: Bearer <valid-token>
 
 → 200 OK
@@ -323,7 +350,9 @@ Final dashboard result:
 
 ```text
 Welcome back
+
 Email: test@reltroner.com
+
 Role: AUTHENTICATED
 ```
 
@@ -337,18 +366,23 @@ Role: AUTHENTICATED
 * Migrated dashboard authorization from legacy session auth to Keycloak JWT auth
 * Verified browser dashboard loads successfully with authenticated backend data
 * Reduced authentication ambiguity across frontend, backend, Keycloak, Cloudflare, and deployment layers
-* Produced a cleaner trust boundary and safer production auth model
+* Produced a cleaner trust boundary and safer production authentication model
 
 ---
 
 ## Case Study 2 — Emergency SSO Domain Isolation for Production LMS
 
 **Project:** Reltroner Learning Academy / Reltroner Identity
+
 **Role:** Full-Stack / Platform Engineer
+
 **Stack:** Cloudflare DNS, Cloudflare Tunnel, Keycloak, OIDC Authorization Code + PKCE, Cloudflare Pages, Next.js, Rancher/Kubernetes
+
 **Production URLs:**
-[lms.reltroner.com](https://lms.reltroner.com)
-[sso.reltroner.com](https://sso.reltroner.com)
+
+https://lms.reltroner.com
+
+https://sso.reltroner.com
 
 ### Case
 
@@ -358,7 +392,7 @@ Reltroner Learning Academy previously used a shared Skill-Wanderer SSO domain:
 https://sso.skill-wanderer.com/realms/reltroner
 ```
 
-This created a business and technical risk because Reltroner authentication traffic, OIDC issuer metadata, login redirects, and identity branding were mixed with another organization’s SSO domain.
+This created a business and technical risk because Reltroner authentication traffic, OIDC issuer metadata, login redirects, and identity branding were mixed with another organization's SSO domain.
 
 The requirement was clear:
 
@@ -378,7 +412,7 @@ sso.chanhdao.vn
 sso.reltroner.com
 ```
 
-So the migration had to isolate Reltroner without breaking Skill-Wanderer or Chanhdao.
+The migration therefore had to isolate Reltroner without breaking Skill-Wanderer or Chanhdao.
 
 ### Solution
 
@@ -405,18 +439,26 @@ Final architecture:
 
 ```text
 https://lms.reltroner.com
-        |
-        | OIDC Authorization Code + PKCE
-        v
+
+        |
+        | OIDC Authorization Code + PKCE
+        v
+
 https://sso.reltroner.com/realms/reltroner
-        |
-        v
+
+        |
+        v
+
 Cloudflare Tunnel: blog-skill-wanderer
-        |
-        v
+
+        |
+        v
+
 http://keycloak.keycloak:8080
-        |
-        v
+
+        |
+        v
+
 Keycloak Realm: reltroner
 ```
 
@@ -426,6 +468,7 @@ Final validation:
 
 ```text
 issuer: https://sso.reltroner.com/realms/reltroner
+
 skill-wanderer match: False
 ```
 
@@ -433,10 +476,15 @@ The production LMS now redirects correctly:
 
 ```text
 https://lms.reltroner.com
+
 → https://sso.reltroner.com/realms/reltroner/protocol/openid-connect/auth
+
 → login success
+
 → callback to https://lms.reltroner.com/auth/callback
+
 → authenticated LMS session
+
 → logout success
 ```
 
@@ -444,28 +492,34 @@ Cross-system isolation was also validated:
 
 ```text
 Skill-Wanderer → sso.skill-wanderer.com
-Chanhdao       → sso.chanhdao.vn
-Reltroner      → sso.reltroner.com
+
+Chanhdao      → sso.chanhdao.vn
+
+Reltroner     → sso.reltroner.com
 ```
 
 **Impact:**
 
 * Completed emergency SSO migration end-to-end
-* Removed Reltroner dependency on shared Skill-Wanderer SSO domain
+* Removed Reltroner dependency on the shared Skill-Wanderer SSO domain
 * Preserved existing Skill-Wanderer and Chanhdao production SSO flows
 * Validated authentication through real user login/logout
 * Improved identity boundary, production clarity, and operational ownership
-* Demonstrated production-level debugging across DNS, Cloudflare Tunnel, Keycloak, OIDC, frontend config, and deployment layers
+* Demonstrated production-level debugging across DNS, Cloudflare Tunnel, Keycloak, OIDC, frontend configuration, and deployment layers
 
 ---
 
 ## Case Study 3 — Tradixa Retail Management System: ERP SaaS Architecture & Affiliate Enablement
 
 **Project:** Tradixa Retail Management System
+
 **Role:** ERP SaaS Business Architecture / Affiliate SaaS Enablement
+
 **Focus:** Retail ERP, Inventory, Procurement, WMS, Sales, Finance, HRIS, Reports, Settings, AI Assistant, B2B SaaS sales communication
+
 **Period:** 2026 – Present
-**Product URL:** [retail.tradixasystems.com](https://retail.tradixasystems.com)
+
+**Product URL:** https://tradixasystems.com
 
 ### Case
 
@@ -473,23 +527,39 @@ Tradixa is a broad retail management SaaS with many interconnected modules:
 
 ```text
 Inventory
+
 Warehouse / WMS
+
 Procurement
+
 Customers & Marketing
+
 Promotions
+
 Sales
+
 Financial & Operations
+
 HRIS Management
+
 Reports
+
 Financial Agent
+
 Settings
+
 AI Assistant
+
 Design Studio
 ```
 
-The challenge was not only understanding the feature list. The real challenge was translating a complex ERP SaaS into business language that potential B2B clients can understand.
+The challenge was not only understanding the feature list.
 
-Most retail/distribution clients do not buy “modules.” They buy relief from operational pain:
+The real challenge was translating a complex ERP SaaS into business language that potential B2B clients can understand.
+
+Most retail/distribution clients do not buy “modules.”
+
+They buy relief from operational pain:
 
 * Stock is messy or often mismatched
 * Sales and inventory are not connected
@@ -507,12 +577,12 @@ The affiliate sales challenge was:
 
 ### Solution
 
-I mapped Tradixa’s SaaS modules into a structured ERP architecture and business-value framework.
+I mapped Tradixa's SaaS modules into a structured ERP architecture and business-value framework.
 
 The work included:
 
 * Mapping every major Tradixa module into realistic business architecture boundaries
-* Defining each module’s role in the business system, not only its UI function
+* Defining each module's role in the business system, not only its UI function
 * Connecting Inventory, WMS, Procurement, Sales, Finance, HRIS, Reports, Design Studio, Settings, and AI Assistant into an end-to-end retail operating model
 * Translating technical modules into **Problem → Solution → Result** communication
 * Identifying the highest-probability B2B client targets for affiliate sales
@@ -521,24 +591,37 @@ The work included:
 
 ```text
 Stock control
+
 → fewer blind spots in inventory
 
+
 Sales + payments
+
 → clearer revenue and settlement visibility
 
+
 Procurement + GRN
+
 → controlled supplier purchasing and stock intake
 
+
 AR/AP + Payments
+
 → clearer cashflow, receivables, and payables
 
+
 Reports
+
 → owner-level decision visibility
 
+
 Design Studio
+
 → professional business documents
 
+
 AI Assistant
+
 → business insight layer
 ```
 
@@ -546,6 +629,7 @@ I also developed affiliate-facing positioning for offline and online B2B sales:
 
 ```text
 Do not sell “complete ERP.”
+
 Sell the specific pain the business already feels.
 ```
 
@@ -569,13 +653,19 @@ This work created a stronger bridge between software architecture and business r
 * Identified realistic integration points between modules such as Sales → Inventory → Finance, Procurement → GRN → AP, and Reports → Decision Support
 * Developed a business-aware engineering viewpoint: implementation is not enough unless the system solves real operational uncertainty
 
-This case strengthened my profile beyond implementation engineering. It demonstrates my ability to connect:
+This case strengthened my profile beyond implementation engineering.
+
+It demonstrates my ability to connect:
 
 ```text
 software architecture
+
 → business process
+
 → client pain
+
 → SaaS positioning
+
 → measurable value narrative
 ```
 
@@ -584,9 +674,12 @@ software architecture
 ## Case Study 4 — Reltroner HRM
 
 **Role:** Full-Stack / Platform Engineer
+
 **Stack:** Laravel 12, PHP 8.2+, MySQL, Keycloak OIDC, GitHub Actions
+
 **Period:** March 2025 – Present
-**Live Demo:** [hrm.reltroner.com](https://hrm.reltroner.com)
+
+**Live Demo:** https://hrm.reltroner.com
 
 ### Case
 
@@ -635,21 +728,22 @@ I designed and built a modular HRM platform with:
 
 Repositories:
 
-* [github.com/Reltroner/reltroner-app-main](https://github.com/Reltroner/reltroner-app-main)
-
-Documentation:
-
-* [github.com/Reltroner/error-documentation](https://github.com/Reltroner/error-documentation)
-* [github.com/Reltroner/progress-documentation](https://github.com/Reltroner/progress-documentation)
-* [github.com/reltronersk/skill-wanderer-progress-documentation](https://github.com/reltronersk/skill-wanderer-progress-documentation)
+* https://github.com/Reltroner/reltroner-app-main
+* https://github.com/Reltroner/error-documentation
+* https://github.com/Reltroner/progress-documentation
+* https://github.com/reltronersk/skill-wanderer-progress-documentation
 
 ---
 
 ## Case Study 5 — Modular Course Engine System
 
 **Project Type:** LMS / Learning Platform Architecture
+
 **Role:** Full-Cycle Solutions Associate / System Engineer
+
 **Stack:** Next.js, TypeScript, modular content architecture
+
+**Period:** 2025 – Present
 
 ### Case
 
@@ -669,7 +763,9 @@ I helped transform the system into a modular architecture:
 
 ```text
 Course
+
 → Module
+
 → Lesson
 ```
 
@@ -679,14 +775,17 @@ Key improvements:
 * Enforced single source of truth
 * Reduced duplication through factory-driven design
 * Improved deterministic behavior across course data and UI rendering
+* Replaced hardcoded course/sitemap assumptions with data-driven architecture
 * Supported future extensibility for LMS, dynamic content, and CLI integration
 * Identified architectural vs environment-level bugs during debugging
+* Validated route consistency, scalability, and review-safe changes
 
 ### Result
 
 * Eliminated an entire class of manual sync and stale data risks
 * Improved scalability for multi-course and multi-lesson structures
 * Increased maintainability and consistency
+* Improved SEO integrity through data-driven routing
 * Reduced future bug risk through deterministic lifecycle handling
 
 ---
@@ -708,9 +807,9 @@ I handled the incident with a structured remediation process:
 * Force-pushed sanitized history safely
 * Implemented preventive controls:
 
-  * `.gitignore`
-  * pre-commit hooks
-  * secret hygiene workflow
+  * `.gitignore`
+  * pre-commit hooks
+  * secret hygiene workflow
 
 ### Result
 
@@ -724,52 +823,57 @@ I handled the incident with a structured remediation process:
 
 # Work Experience
 
----
-
 ## Full-Cycle Solutions Associate — Skill-Wanderer
 
 **Remote**
+
 **March 2026 – Present**
 
-Working in a distributed engineering team across Vietnam and Europe, contributing to full-cycle product delivery across backend reasoning, platform architecture, frontend integration, authentication flows, debugging, deployment validation, and documentation.
+Working in a distributed engineering environment across Vietnam and Europe, contributing to full-cycle product delivery across backend reasoning, platform architecture, frontend integration, authentication flows, debugging, deployment validation, and technical handoff/documentation.
 
 ### Key Contributions
 
-* Delivered Client Portal authentication modernization with Keycloak multi-realm JWT validation, same-origin API routing, frontend Bearer token integration, and backend dashboard route migration to `keycloak.token`
+* Delivered Client Portal authentication modernization with Keycloak multi-realm JWT validation, Laravel middleware, same-origin API routing, frontend Bearer-token integration, and backend dashboard route migration to `keycloak.token`
+* Configured and validated multi-realm authentication boundaries using issuer, audience, and role validation
 * Re-architected hardcoded systems into scalable, data-driven architecture
 * Replaced static sitemap logic with dynamic system design
 * Eliminated duplication and sync drift by enforcing single source of truth
-* Debugged complex issues across SSR, reactive state, UI behavior, architecture, middleware, runtime configuration, and environment
-* Delivered production-ready PRs with structured Git workflows
+* Debugged complex issues across SSR, reactive state, UI behavior, architecture, middleware, runtime configuration, environment, and infrastructure
+* Delivered production-ready changes with structured Git workflows
 * Applied clean branch rebuild, selective restore, and review-safe PR design
 * Provided decision-level justification instead of trial-and-error fixes
 * Supported production identity migration involving Cloudflare, Keycloak, OIDC, and LMS deployment
+* Validated production behavior through end-to-end testing and deployment verification
 
 ### Impact
 
-* Delivered production-grade Client Portal auth with verified Keycloak access-token validation and successful dashboard loading
+* Delivered production-grade Client Portal authentication with verified Keycloak access-token validation and successful dashboard loading
 * Reduced bug risk through deterministic lifecycle handling
 * Eliminated manual sync and stale data risk classes
 * Improved system consistency, SEO integrity, scalability, and maintainability
 * Strengthened production readiness through architecture validation and end-to-end verification
+* Demonstrated ownership across frontend, backend, identity, infrastructure, and production boundaries
 
 ---
 
 ## ERP SaaS Business Architecture & Affiliate Enablement — Tradixa Retail Management System
 
 **Affiliate / Independent SaaS GTM Enablement**
-**2026 – Present**
+
+**June 2026 – Present**
 
 Worked on understanding, mapping, and communicating Tradixa as an ERP SaaS platform for retail, distribution, payment point, and B2B business operations.
 
 ### Key Contributions
 
-* Mapped Tradixa’s ERP modules into clear business architecture boundaries across Inventory, WMS, Procurement, Sales, Finance, HRIS, Reports, Settings, Design Studio, Financial Agent, and AI Assistant
+* Mapped Tradixa's ERP modules into clear business architecture boundaries across Inventory, WMS, Procurement, Sales, Finance, HRIS, Reports, Settings, Design Studio, Financial Agent, and AI Assistant
 * Converted module-heavy ERP functionality into client-facing Problem → Solution → Result explanations
 * Identified high-probability B2B target clients such as retail stores, distributors, suppliers, inventory-heavy businesses, payment points, and businesses with receivables/payables pain
 * Built sales communication angles for offline and online affiliate outreach
 * Developed practical demo entry points based on client pain: stock control, invoice tracking, supplier purchasing, receivables, payments, reporting, and document professionalism
 * Connected engineering architecture with business outcomes so the product can be explained as an operational control system, not only a software feature list
+* Mapped business workflows and integration relationships across major ERP domains
+* Developed discovery-oriented questions and pain-based positioning for B2B conversations
 
 ### Impact
 
@@ -784,6 +888,7 @@ Worked on understanding, mapping, and communicating Tradixa as an ERP SaaS platf
 ## Full-Stack / Platform Engineer — Reltroner ERP Ecosystem
 
 **Independent Project**
+
 **March 2025 – Present**
 
 Designed and built a modular ERP platform with centralized authentication and audit-grade financial infrastructure.
@@ -794,8 +899,11 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Integrated centralized SSO using Keycloak OIDC
 * Built RESTful APIs with strong consistency requirements
 * Designed immutable financial transaction system
+* Implemented reversal-based financial transaction handling
 * Implemented audit logging, fiscal locking, and deterministic reporting
 * Delivered HRM and Finance modules with full lifecycle ownership
+* Applied service isolation and clear module boundaries
+* Designed systems around predictable state transitions and auditability
 
 ### Impact
 
@@ -803,12 +911,11 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Reduced onboarding time by approximately 20% through structured documentation
 * Improved financial auditability and deterministic reporting reliability
 * Created a maintainable foundation for long-term ERP platform growth
+* Strengthened understanding of ERP business-process architecture and financial integrity requirements
 
 ---
 
 # System Engineering Capabilities
-
----
 
 ## Backend & API Development
 
@@ -816,11 +923,14 @@ Designed and built a modular ERP platform with centralized authentication and au
 * PHP 8.2+
 * Node.js
 * RESTful APIs
+* Route contracts
 * Service isolation
 * Inter-service communication
 * API lifecycle design
 * Middleware design
 * Protected route architecture
+* Backend authentication integration
+* Production API validation
 
 ## Frontend & Full-Stack Integration
 
@@ -830,11 +940,13 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Blade
 * Tailwind CSS
 * JavaScript
+* TypeScript
 * Static export and frontend deployment
 * LMS frontend integration
 * SaaS dashboard and workflow UI reasoning
 * Same-origin API proxy routing
 * Frontend authentication state integration
+* Runtime environment configuration
 
 ## ERP & Business Systems Architecture
 
@@ -848,6 +960,8 @@ Designed and built a modular ERP platform with centralized authentication and au
 * HRIS, RBAC, and approval authority mapping
 * SaaS subscription, usage quota, and entitlement modeling
 * ERP module-to-business-pain mapping
+* Business workflow and domain modeling
+* Audit logging and financial integrity
 
 ## Architecture & System Design
 
@@ -858,9 +972,11 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Single source of truth enforcement
 * Immutable system modeling
 * Service boundary design
+* Trust-boundary design
+* Failure-mode analysis
 * Architecture constraint documentation
 * Business-process architecture documentation
-* Production trust-boundary design
+* Production architecture validation
 
 ## Authentication & Security
 
@@ -871,12 +987,14 @@ Designed and built a modular ERP platform with centralized authentication and au
 * JWKS
 * Authorization Code + PKCE
 * Multi-realm token validation
+* Issuer validation
 * Audience validation
 * Role-based token acceptance
 * Session control
 * Trust boundary enforcement
 * Secret remediation
 * Git history rewriting
+* Authentication middleware design
 
 ## Cloud, DevOps & Infrastructure
 
@@ -886,6 +1004,7 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Cloudflare Pages
 * GitHub Actions CI/CD
 * Docker
+* GHCR
 * Rancher/Kubernetes investigation and deployment validation
 * Git / GitHub
 * SSH
@@ -904,6 +1023,7 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Transaction handling
 * Audit logging
 * Financial data integrity
+* Relational data modeling
 
 ## Testing & Quality
 
@@ -914,7 +1034,10 @@ Designed and built a modular ERP platform with centralized authentication and au
 * Failure-mode analysis
 * Deterministic output validation
 * Production verification checklists
-* Auth and middleware contract testing
+* Authentication and middleware contract testing
+* Route-list verification
+* Build validation
+* End-to-end production verification
 
 ## Documentation & Business Communication
 
@@ -928,17 +1051,21 @@ Designed and built a modular ERP platform with centralized authentication and au
 * ERP workflow documentation
 * Client-facing Problem → Solution → Result narratives
 * Affiliate SaaS sales enablement material
+* Business-process explanation
+* Technical-to-business translation
 
 ---
 
 # What I Bring to a Team
 
-I bring a combination of full-stack implementation across frontend and backend, platform engineering, system architecture, system thinking, production ownership, and business-process reasoning.
+I bring a combination of **full-stack implementation across frontend and backend, platform engineering, system architecture, system thinking, production ownership, identity/security engineering, and business-process reasoning**.
 
 I am especially useful in teams that need someone who can:
 
 * Understand the system beyond one code file
 * Trace bugs across multiple layers
+* Understand authentication beyond simply “login works”
+* Reason about trust boundaries between frontend, backend, identity, and infrastructure
 * Convert vague problems into structured execution plans
 * Keep production risk controlled
 * Validate results with evidence
@@ -946,6 +1073,7 @@ I am especially useful in teams that need someone who can:
 * Build systems that remain maintainable after deployment
 * Understand how ERP modules connect to real business workflows
 * Translate complex technical systems into business value for owners, stakeholders, and clients
+* Bridge implementation, architecture, infrastructure, and business requirements
 
 I am interested in teams that value:
 
@@ -958,19 +1086,21 @@ I am interested in teams that value:
 * Long-term system integrity
 * Product thinking
 * Business-aware engineering
+* Evidence-based decision making
 
 ---
 
 # Education
 
 **Universitas Andalas — Information Systems Coursework**
+
 Padang, West Sumatra
 
 ---
 
 # Certifications
 
-* [Codepolitan — Developing HRIS System with Laravel 12 (2025)](https://www.codepolitan.com/c/T250HUZ/)
+* **Codepolitan — Developing HRIS System with Laravel 12 (2025)**
 
 ---
 
@@ -992,6 +1122,7 @@ Preferred focus areas:
 
 * Full-stack application and backend systems
 * Authentication and identity infrastructure
+* IAM / OIDC / SSO systems
 * LMS / SaaS platforms
 * ERP systems
 * Retail management systems
@@ -999,28 +1130,35 @@ Preferred focus areas:
 * Production debugging and reliability work
 * Modular system architecture
 * Business-facing technical solution design
+* System architecture and engineering
+* Business-process modeling
 
 ---
 
 # Contact
 
 📧 [studio@reltroner.com](mailto:studio@reltroner.com)
-🌐 [reltroner.com](https://www.reltroner.com)
-💻 [github.com/Reltroner](https://github.com/Reltroner)
-💻 [github.com/reltronersk](https://github.com/reltronersk)
-🔗 [linkedin.com/in/rei-reltroner](https://www.linkedin.com/in/rei-reltroner-a3a7b8173/)
+
+🌐 https://www.reltroner.com
+
+💻 https://github.com/Reltroner
+
+💻 https://github.com/reltronersk
+
+🔗 https://www.linkedin.com/in/rei-reltroner-a3a7b8173/
 
 ---
 
 # Portfolio Links
 
+* [Recruiter Portfolio](https://www.reltroner.com/blog/for-recruiters)
 * [Reltroner HRM Demo](https://hrm.reltroner.com)
 * [Reltroner LMS](https://lms.reltroner.com)
 * [Skill-Wanderer Course Portfolio](https://dojo.skill-wanderer.com/courses/restful-api-mastery-greybox)
 * [Codepolitan Certification](https://www.codepolitan.com/c/T250HUZ/)
 * [Reltroner GitHub](https://github.com/Reltroner?tab=repositories)
 * [ReltronerSK GitHub](https://github.com/reltronersk)
-* [Tradixa Retail Management System](https://retail.tradixasystems.com)
+* [Tradixa Retail Management System](https://tradixasystems.com)
 
 ---
 
@@ -1034,17 +1172,23 @@ You can view my full CV here:
 
 # Recruiter Summary
 
-I am a full-stack/platform-oriented engineer with system architecture and system engineering capability who can work across frontend, backend, code, architecture, authentication, infrastructure configuration, debugging, documentation, production validation, and ERP business-process reasoning.
+I am a **Full-Stack / Platform Engineer with System Architecture and System Engineering capability** who can work across frontend, backend, code, architecture, authentication, IAM, infrastructure configuration, debugging, deployment validation, documentation, production verification, and ERP business-process reasoning.
 
 My strongest fit is a team that needs an engineer who can handle not only implementation, but also the full reasoning chain:
 
 ```text
 problem
+
 → root cause
+
 → architecture boundary
+
 → solution
+
 → production validation
+
 → business result
+
 → documentation
 ```
 
@@ -1054,11 +1198,27 @@ My current differentiator is that I can connect:
 
 ```text
 engineering architecture
+
 → operational workflow
+
 → client pain
+
 → business value
+
 → implementation clarity
 ```
 
 That means I do not only ask whether a system works technically.
-I also ask whether the system solves a real business problem clearly enough for users, owners, and clients to trust it.
+
+I also ask whether the system:
+
+* Solves a real business problem
+* Has clear system boundaries
+* Can be verified with evidence
+* Can be maintained after deployment
+* Protects critical identity and data boundaries
+* Can be explained clearly to engineers, stakeholders, owners, and clients
+
+Ultimately, my engineering approach is:
+
+> **Reduce uncertainty → establish boundaries → build the solution → verify production behavior → communicate the business result.**
