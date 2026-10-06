@@ -34,8 +34,9 @@ tags:
 > This document is the binding source of truth for how Reltroner Studio should be built, explained, branded, written, expanded, and protected over the long term.
 
 > **Core principle:**  
-> Reltroner Studio does not build fictional civilizations merely to display scale, spectacle, or lore density.  
-> It uses fictional civilizations to examine real existence, systems, agency, memory, progress, comfort, and consciousness.
+> Reltroner Studio builds **creative systems that compound** and proves them through **advanced civilizational simulation**.  
+> It does not build fictional civilizations merely to display scale, spectacle, or lore density, and it does not build technology merely to become a platform startup.  
+> It uses systemic creativity to generate durable possibility, and uses fictional civilizations to examine real existence, systems, agency, memory, progress, comfort, consciousness, and the epistemic anxieties of the 2026+ human era.
 
 ---
 
@@ -59,6 +60,16 @@ It governs:
 - use of Earth-like social anxieties,
 - portrayal of Astralis and Nytherion,
 - studio skill development,
+- Creative Compound Machine architecture,
+- creator-facing value design,
+- civilizational simulation,
+- season / episode / chapter abstraction,
+- Current Lore + Backstory + Wiki narrative modes,
+- canon production and release doctrine,
+- technology restraint,
+- distribution and access architecture,
+- brand authority and epistemic honesty,
+- communication / marketing / sales transmission architecture,
 - funding and capital discipline,
 - long-term growth philosophy.
 
@@ -2473,25 +2484,18 @@ This means that sometimes:
 
 ---
 
-# 43. Communication, Marketing, and Sales
+# 43. Communication, Marketing, and Sales — Constitutional Overview
 
-## 43.1 Communication
+Communication, marketing, and sales are necessary but subordinate capabilities.
 
-Communication should make complex ideas legible without flattening them.
+At constitutional level:
 
-## 43.2 Marketing
+- communication makes complex value legible without flattening it,
+- marketing helps relevant people discover value that already exists,
+- sales matches real value with voluntary resource exchange,
+- none of the three is allowed to become the creative director.
 
-Marketing should help people discover value that already exists.
-
-It should not force the universe to become something it is not.
-
-## 43.3 Sales
-
-Sales should eventually function as:
-
-> **matching real value created by Reltroner Studio with people or institutions willing to exchange resources for it.**
-
-Sales should not become the creative director.
+Their detailed operating architecture is defined in **Section 53 — Communication, Marketing, and Sales as Transmission Architecture**.
 
 ---
 
