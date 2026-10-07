@@ -1,6 +1,6 @@
 ---
 title: "Lenternow — The Lanternlight Nation"
-description: "Final deterministic 2026 country profile for Lenternow: a high-SDI civilization of phosphor innovation, lanternlight philosophy, glow diplomacy, visual culture, silent urbanism, light intelligence, and disciplined radiance."
+description: "A canon country profile for Lenternow: a high-SDI civilization of phosphor innovation, lanternlight philosophy, glow diplomacy, visual culture, silent urbanism, light intelligence, and disciplined radiance."
 image: "/images/lenternow.webp"
 author: "Rei Reltroner"
 date: "2025-06-16"

@@ -193,7 +193,6 @@ Altair is one of the purest possible answers.
 
 ## Residence
 
-**New Sentivision Valley**  
 East Reltronepolis Province  
 Reltronland
 

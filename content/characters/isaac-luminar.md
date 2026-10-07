@@ -178,11 +178,11 @@ His adherence to ethical ideals often prevents him from seeing **pragmatic compr
 - Structural threat to the light elites  
 - Symbol of **reform** in Lenternocratic politics  
 
-### 🟥 Depcutland
+### 🟥 Taramistry
 
 - Largest industrial partner of Lenternow  
-- Many Depcutland contractors quietly infiltrated by **Henchoway**  
-- Isaac sees Depcutland as **“the Abyss window into Lenternow.”**  
+- Many Taramistry contractors quietly infiltrated by **Henchoway**  
+- Isaac sees Taramistry as **“the Abyss window into Lenternow.”**  
 - Relationship: tense but indispensable  
 
 ### 🟦 Astrostelia
@@ -260,7 +260,7 @@ This structure can be used as a **novel blueprint** for Isaac’s primary storyl
 ### ACT II — The Glow Conspiracy
 
 1. Isaac discovers evidence that Luminite has been contaminated by **“Abyssal Frequency.”**  
-2. His investigation traces the contamination back to **Depcutland contractors**.  
+2. His investigation traces the contamination back to **Taramistry contractors**.  
 3. He is framed in a complex corporate scandal to discredit him.  
 4. He meets **Delwyn and Barry** by accident.  
 5. Together, they realize the Abyss infiltration is far larger than anticipated.  
@@ -297,7 +297,7 @@ This structure can be used as a **novel blueprint** for Isaac’s primary storyl
 
 1. Isaac founds the **Ethical Luminite Initiative**.  
 2. Lenternow begins a structural reform of its light industry.  
-3. Depcutland enters new, stricter negotiations.  
+3. Taramistry enters new, stricter negotiations.  
 4. Henchoway retreats—temporarily. The Abyss remains.  
 5. Isaac becomes one of the leading figures of **global clarity**.
 
@@ -311,7 +311,7 @@ End of primary arc:
 ## 11. Long-Term Role in the Universe
 
 - Serves as **“Minister of Light Ethics”** in Lenternow (formal or de facto).  
-- Redefines the **Depcutland–Lenternow** industrial relationship.  
+- Redefines the **Taramistry–Lenternow** industrial relationship.  
 - Becomes a technical ally to Reltronland in monitoring **Abyssal infiltration via light and resonance systems**.  
 - Plays a central role in the **Light vs Illusion Arc**.  
 - Emerges as an icon of **anti-corruption and anti-Abyss ethics** in the energy sector.
@@ -348,7 +348,7 @@ ELI rests on **four foundational pillars**:
 Lenternow must control its own Luminite reserves and light infrastructure **without interference** from:
 
 - corrupt internal elites,  
-- external actors such as compromised Depcutland contractors,  
+- external actors such as compromised Taramistry contractors,  
 - organizations like **Henchoway** that exploit Abyssal influence.
 
 ### Pillar 2 — Industrial Transparency
@@ -552,7 +552,7 @@ AARRU is **one of the most sensitive divisions in ELI** and is closely watched b
 
 A **technical diplomacy division** responsible for coordination with other nations:
 
-- **Depcutland** — refining standards, trade renegotiation, and decontamination protocols.  
+- **Taramistry** — refining standards, trade renegotiation, and decontamination protocols.  
 - **Astrostelia** — ethics of dimensional resonance and scientific collaboration.  
 - **Aurastelia** — spiritual resonance perspectives and metaphysical consultation.  
 - **Pencilfania** — creative and artistic applications of ethical light.
@@ -574,7 +574,7 @@ Key actions:
 
 - cleanse and stabilize the existing light-grid,  
 - audit all mines and refining facilities,  
-- terminate Depcutland contracts infiltrated by Henchoway,  
+- terminate Taramistry contracts infiltrated by Henchoway,  
 - declassify and publish historic mine accident data previously suppressed.
 
 **Impact:**  
@@ -615,11 +615,11 @@ At this stage, **Reltronland formally “acknowledges” Lenternow** as a nation
 
 ## 5. Geopolitical Impact of ELI
 
-### 5.1 Depcutland
+### 5.1 Taramistry
 
 - Can no longer monopolize refining chains,  
 - is forced into transparency and cooperative audits,  
-- several Depcutland corporations infected by Henchoway **collapse under scrutiny**.
+- several Taramistry corporations infected by Henchoway **collapse under scrutiny**.
 
 ### 5.2 Astrostelia
 
@@ -924,7 +924,7 @@ Luminite anomalies & manipulation of mining data.
 * Episode 5–6: Sensor data differs from official reports.
 * Episode 7–8: Isaac begins to be monitored by elites.
 * Episode 9: He realizes this is not a technical error.
-* Episode 10: He uncovers traces of a Depcutland supply chain.
+* Episode 10: He uncovers traces of a Taramistry supply chain.
 
 **Cliffhanger:**
 Isaac realizes the system has been infiltrated by something beyond mere corruption.
@@ -972,7 +972,7 @@ Should technology shape social reality?
 
 * Petition to the Supreme Illuminary Tribunal.
 * Mining worker testimonies.
-* Depcutland contractors.
+* Taramistry contractors.
 * Rival resonance experts.
 * Data vs propaganda.
 
@@ -990,15 +990,15 @@ Reltronland begins taking note of his name.
 
 ## Focus:
 
-Depcutland vs Lenternow geopolitics.
+Taramistry vs Lenternow geopolitics.
 
 ## Theme:
 
-Civilizational competition: Depcutland vs Reltronland.
+Civilizational competition: Taramistry vs Reltronland.
 
 Isaac faces:
 
-* Pressure from Depcutland contractors.
+* Pressure from Taramistry contractors.
 * Threats of industrial sanctions.
 * Subtle sabotage.
 * International lobbying.
