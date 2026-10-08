@@ -3,6 +3,7 @@ title: "The Galaxy — Reltroner Studio’s Cosmic Setting"
 description: "An astronomical overview of the vast and sentient-rich galactic setting where Asthortera, Depeisit, Cosmeilia, Cistheta, and other civilizations evolve, compete, and align under the light—or shadow—of cosmic ideologies."
 author: "Rei Reltroner"
 date: "2025-05-07"
+lastUpdated: "2026-10-08"
 published: true
 image: "/images/the-galaxy.webp"
 ---
@@ -189,6 +190,18 @@ And through the silence of the stars, only the clearest mind shall lead.
 
 ## 🪐 Overview
 
+### Median-Age Canon Synchronization
+
+The binding [Reltroner Studio Master Source of Truth](../principles/reltroner-studio-master-source-of-truth.md) establishes **Asthortera's median age as ~252 years**, superseding the legacy **42-year** value in this document.
+
+All previously quantified planetary median ages and regional age ranges follow the *same proportional rescaling*:
+
+\[
+\text{New median age}_p=\text{Old median age}_p\times\frac{252}{42}=6\times\text{Old median age}_p
+\]
+
+The **planet-to-Asthortera median-age ratios are preserved exactly**. No planetary population, SDI, or other planet's life expectancy is inferred or changed by this operation. Median age does not measure individual wisdom, institutional virtue, or expected lifespan. Planets without previously documented median ages remain unquantified.
+
 The galaxy within the **Reltroner Studio Universe** is not merely divided by space and light-years — it is stratified by **sentient development, demographic maturity, and civilizational density**.  
 Across the spiral arms and core, four distinct **demographic belts** form a living gradient of evolution:
 
@@ -209,7 +222,7 @@ The **Central Region** represents the most balanced and stable civilizations —
 ### **Asthortera**
 
 * **Population:** Approximately 4.4 trillion
-* **Median Age:** 42 years
+* **Median Age:** 252 years
 * **Sentient Development Index (SDI):** 0.938
 * **Key Traits:** Asthortera functions as an interdimensional hub of sentient civilization and is recognized as the birthplace of the Astralis Doctrine.
 
@@ -218,7 +231,7 @@ The **Central Region** represents the most balanced and stable civilizations —
 ### **Cosmeilia**
 
 * **Population:** Approximately 3.7 trillion
-* **Median Age:** 41 years
+* **Median Age:** 246 years
 * **Sentient Development Index (SDI):** 0.907
 * **Key Traits:** Cosmeilia serves as the capital of spiritual diplomacy, defined by its emphasis on radiant consciousness and metaphysical governance.
 
@@ -227,7 +240,7 @@ The **Central Region** represents the most balanced and stable civilizations —
 ### **Cistheta**
 
 * **Population:** Approximately 10 trillion
-* **Median Age:** 40 years
+* **Median Age:** 240 years
 * **Sentient Development Index (SDI):** 0.898
 * **Key Traits:** Cistheta is a hyper-urbanized world characterized by advanced techno-governance and large-scale systemic control.
 
@@ -236,12 +249,12 @@ The **Central Region** represents the most balanced and stable civilizations —
 ### **Theartenra**
 
 * **Population:** Approximately 1.6 trillion
-* **Median Age:** 43 years
+* **Median Age:** 258 years
 * **Sentient Development Index (SDI):** 0.889
 * **Key Traits:** Theartenra operates as an industrial stronghold, specializing in artificial intelligence development and asteroid-based resource extraction.
 
 ### 🧠 Regional Summary
-- **Median Age Range:** 40–44 years  
+- **Median Age Range:** 240–264 years  
 - **Population Range:** 100 billion – 10 trillion per planet  
 - **Dominant Ideology:** Astralis Pinnacle (Red Pill Extreme)  
 - **Core Stability:** Extremely high — long-lived civilizations with sustainable growth.  
@@ -259,7 +272,7 @@ Here, progress has slowed into preservation, and many worlds battle cultural ine
 ### **Depeisit**
 
 * **Population:** Approximately 25 trillion
-* **Median Age:** 48 years
+* **Median Age:** 288 years
 * **Sentient Development Index (SDI):** 0.811
 * **Key Traits:** Depeisit is an aging imperial world defined by an entrenched bureaucratic legacy, systemic inertia, and long-term institutional stagnation.
 
@@ -268,7 +281,7 @@ Here, progress has slowed into preservation, and many worlds battle cultural ine
 ### **Average Deep Worlds**
 
 * **Population:** Ranges from approximately 250 billion to 25 trillion
-* **Median Age:** Typically between 45 and 50 years
+* **Median Age:** Typically between 270 and 300 years
 * **Sentient Development Index (SDI):** Around 0.81
 * **Key Traits:** Deep Worlds are characterized by extreme population density, decaying or overextended institutions, prolonged lifespans, and slow adaptive capacity.
 
@@ -279,7 +292,7 @@ Here, progress has slowed into preservation, and many worlds battle cultural ine
 - **Ideology:** *Blue Pill Dominance* — comfort, conformity, and illusion of stability  
 
 ### 🧠 Regional Summary
-- **Median Age Range:** 45–50 years  
+- **Median Age Range:** 270–300 years  
 - **Population Range:** 250 billion – 25 trillion per planet  
 - **Dominant Ideology:** Blue Pill Conservatism  
 - **Core Stability:** High structural inertia, low adaptive innovation  
@@ -292,7 +305,7 @@ The Deep Region sustains enormous populations but struggles with civilizational 
 
 ### 🌍 Overview
 The **Middle Region** forms the youthful bridge between the Outer Veil and Central worlds.  
-Civilizations here are ambitious, energetic, and still shaping their identity. They exhibit **median ages between 27 and 39 years**, signifying demographic momentum.
+Civilizations here are ambitious, energetic, and still shaping their identity. They exhibit **median ages between 162 and 234 years**, signifying demographic momentum.
 
 ### **Middle-World Civilization**
 
@@ -302,7 +315,7 @@ Civilizations here are ambitious, energetic, and still shaping their identity. T
 * **Key Traits:** These civilizations are fast-growing societies that continuously balance structural chaos with high rates of innovation and social experimentation.
 
 ### 💫 Regional Summary
-- **Median Age Range:** 27–39 years  
+- **Median Age Range:** 162–234 years  
 - **Population Range:** 1–100 billion per planet  
 - **Dominant Ideology:** Transitional (mix of Astralis and Depeisit doctrines)  
 - **Core Stability:** Moderate — high creativity but volatile institutions  
@@ -316,14 +329,14 @@ Middle worlds are the **economic and cultural laboratories** of the galaxy, prod
 ### ☠️ **Vanyathra — The Abyssborn Archetype**
 
 * **Average Population:** Approximately 1.3 billion
-* **Median Age:** 24 years
+* **Median Age:** 144 years
 * **Sentient Development Index (SDI):** Around 0.413
 * **Population Range per Planet:** From as low as 1 million up to 2 billion
 * **Galactic Role:** Abyssborn Worlds function as territories with collapsed or non-functional governance systems, often dominated by cultic structures and illusion-driven social orders.
 * **Ideological Alignment:** Blue Pill Extreme, characterized by illusion worship and systemic avoidance of reality.
 
 ### 🕳️ Regional Summary
-- **Median Age Range:** 14–29 years  
+- **Median Age Range:** 84–174 years  
 - **Population Range:** 1 million – 2 billion per planet  
 - **Dominant Ideology:** Abyssborn nihilism  
 - **Core Stability:** Near zero — plagued by illusion, anarchy, and energy decay  
@@ -339,7 +352,7 @@ Vanyathra, once a thriving frontier colony, now serves as a cautionary tale of c
 
 *(Asthortera, Cosmeilia)*
 
-* **Median Age:** Between 40 and 44 years
+* **Median Age:** Between 240 and 264 years
 * **Population Range (per planet):** Approximately 100 billion to 10 trillion
 * **Sentient Development Index (SDI):** Ranges from 0.85 to 0.938
 * **Developmental State:** Balanced and enlightened civilizations with mature institutional stability and high sentient awareness.
@@ -351,7 +364,7 @@ Vanyathra, once a thriving frontier colony, now serves as a cautionary tale of c
 
 *(Depeisit, Abyssal Belt)*
 
-* **Median Age:** Typically between 45 and 50 years
+* **Median Age:** Typically between 270 and 300 years
 * **Population Range (per planet):** Roughly 250 billion to 25 trillion
 * **Sentient Development Index (SDI):** Around 0.81
 * **Developmental State:** Overpopulated and increasingly stagnant empires burdened by legacy systems and institutional inertia.
@@ -363,7 +376,7 @@ Vanyathra, once a thriving frontier colony, now serves as a cautionary tale of c
 
 *(Expansion Belt)*
 
-* **Median Age:** Between 27 and 39 years
+* **Median Age:** Between 162 and 234 years
 * **Population Range (per planet):** Approximately 1 billion to 100 billion
 * **Sentient Development Index (SDI):** Ranges from 0.7 to 0.8
 * **Developmental State:** Emerging and innovative civilizations undergoing rapid expansion, experimentation, and systemic reconfiguration.
@@ -375,7 +388,7 @@ Vanyathra, once a thriving frontier colony, now serves as a cautionary tale of c
 
 *(Vanyathra & Abyssborn territories)*
 
-* **Median Age:** Approximately 14 to 29 years
+* **Median Age:** Approximately 84 to 174 years
 * **Population Range (per planet):** From as low as 1 million up to 2 billion
 * **Sentient Development Index (SDI):** Roughly 0.10–0.50
 * **Developmental State:** Collapsed, fragmented, or illusion-based societies with weak or non-existent governance.
@@ -421,7 +434,7 @@ This relationship determines a civilization’s **Sentient Development Index (SD
 
 *(Asthortera, Cosmeilia)*
 
-* **Median Age:** Between 40 and 44 years
+* **Median Age:** Between 240 and 264 years
 * **Population Range (per planet):** Approximately 100 billion to 10 trillion
 * **Relative Distance:** Roughly 0–10 kiloparsecs from the Central Core
 * **Correlation Trend:** A state of stable equilibrium, where population scale and demographic age remain balanced through mature institutions, high sentient awareness, and long-term systemic calibration.
@@ -432,7 +445,7 @@ This relationship determines a civilization’s **Sentient Development Index (SD
 
 *(Depeisit)*
 
-* **Median Age:** Typically between 45 and 50 years
+* **Median Age:** Typically between 270 and 300 years
 * **Population Range (per planet):** Approximately 250 billion to 25 trillion
 * **Relative Distance:** Around 10–20 kiloparsecs from the Central Core
 * **Correlation Trend:** Overpopulation drives demographic aging, which in turn accelerates institutional stagnation and resistance to structural reform.
@@ -443,7 +456,7 @@ This relationship determines a civilization’s **Sentient Development Index (SD
 
 *(Expansion Belt)*
 
-* **Median Age:** Roughly between 27 and 39 years
+* **Median Age:** Roughly between 162 and 234 years
 * **Population Range (per planet):** Approximately 1 billion to 100 billion
 * **Relative Distance:** Around 20–35 kiloparsecs from the Central Core
 * **Correlation Trend:** Expanding civilizations experience a demographic youth surge, driven by migration, innovation cycles, and rapid systemic experimentation.
@@ -454,7 +467,7 @@ This relationship determines a civilization’s **Sentient Development Index (SD
 
 *(Vanyathra & Abyssborn Edge)*
 
-* **Median Age:** Approximately 14 to 29 years
+* **Median Age:** Approximately 84 to 174 years
 * **Population Range (per planet):** From as low as 1 million up to 2 billion
 * **Relative Distance:** Roughly 35–50 kiloparsecs from the Central Core
 * **Correlation Trend:** Underdevelopment leads to demographic youth collapse, where young populations exist numerically but lack continuity due to governance failure, illusion dependency, and systemic instability.
@@ -491,7 +504,7 @@ Thus, **proximity to the Central Core** directly sustains the evolutionary and p
 
 ### 🔹 Central Region (Asthortera, Cosmeilia)
 - Located at the **Central Core** — highest energy density and gravitational balance.  
-- Moderate median age (~42 years) and extremely high population (trillions).  
+- Long-lived median age (Asthortera ~252 years; Cosmeilia ~246 years) and trillion-scale planetary populations.  
 - **Correlation:** High SDI emerges when population density matches the planet’s governance capacity.  
 - These worlds reach *dynamic equilibrium* — they neither collapse from youth nor stagnate from age.  
 
@@ -501,7 +514,7 @@ Thus, **proximity to the Central Core** directly sustains the evolutionary and p
 
 ### 🔸 Deep Region (Depeisit)
 - Further from the core (~15 kpc) — reduced Astralis radiation but sustained population boom.  
-- Median age 48 years reflects *civilizational fatigue*; overpopulation causes sociopolitical entropy.  
+- Median age 288 years coexists with institutional fatigue; age itself is not the cause, and population totals alone cannot prove overcrowding.  
 - **Correlation:** Over-density without rejuvenation mechanisms → slow societal suffocation.  
 - The result: long life expectancy but *low renewal velocity*.  
 
@@ -511,7 +524,7 @@ Thus, **proximity to the Central Core** directly sustains the evolutionary and p
 
 ### 🔹 Middle Region
 - Located at ~25–30 kpc — transitional belt between vitality and decadence.  
-- Populations (1–100B) with median age 27–39 years → signs of growth and volatility.  
+- Populations (1–100B) with median age 162–234 years → signs of growth and volatility.  
 - **Correlation:** Moderate distance breeds creative turbulence — high innovation but unstable institutions.  
 - Many middle-world nations oscillate between *Astralis clarity* and *Abyssal temptation*.  
 
@@ -521,7 +534,7 @@ Thus, **proximity to the Central Core** directly sustains the evolutionary and p
 
 ### ⚫ Outer Veil (Vanyathra)
 - Peripheral worlds beyond 35 kpc — minimal Astralis influence, weak governance fields.  
-- Median age ~24 years, population below 2 billion → demographically young but spiritually hollow.  
+- Median age ~144 years and population below 2 billion → younger relative to Asthortera, with dysfunction rooted in governance failure rather than age alone.  
 - **Correlation:** Youth + low population + high distance → extreme instability.  
 - Civilizations here burn fast and die young, often succumbing to **Abyssborn cults** or self-obliteration.  
 
@@ -536,14 +549,14 @@ Thus, **proximity to the Central Core** directly sustains the evolutionary and p
 Median Age ↑
 │
 │              Deep Region
-│           ● Depeisit (48y, 25T)
+│           ● Depeisit (288y, 25T)
 │
-│   ● Asthortera (42y, 4.4T) — Central
-│   ● Cosmeilia (41y, 3.7T)
+│   ● Asthortera (252y, 4.4T) — Central
+│   ● Cosmeilia (246y, 3.7T)
 │
 │         Middle Region
 │
-│             ● Vanyathra (24y, 1.3B)
+│             ● Vanyathra (144y, 1.3B)
 │────────────────────────────────────────────→ Distance from Central Core
 0kpc              20kpc              50kpc
 
@@ -573,7 +586,7 @@ Thus, the **spatial position of a planet** is not merely astronomical — it def
 
 *(Asthortera, Cosmeilia)*
 
-* **Median Age:** Between 40 and 44 years
+* **Median Age:** Between 240 and 264 years
 * **Population Range (per planet):** Approximately 100 billion to 10 trillion
 * **Distance from Core:** Roughly 0–10 kiloparsecs
 * **Civilizational State:** Balanced, with stable demographic structures and long-matured institutions.
@@ -586,7 +599,7 @@ Thus, the **spatial position of a planet** is not merely astronomical — it def
 
 *(Depeisit, Abyssal Belt)*
 
-* **Median Age:** Typically between 45 and 50 years
+* **Median Age:** Typically between 270 and 300 years
 * **Population Range (per planet):** Roughly 250 billion to 25 trillion
 * **Distance from Core:** Approximately 10–20 kiloparsecs
 * **Civilizational State:** Stagnant, weighed down by overpopulation, legacy systems, and bureaucratic inertia.
@@ -599,7 +612,7 @@ Thus, the **spatial position of a planet** is not merely astronomical — it def
 
 *(Expansion Belt)*
 
-* **Median Age:** Between 27 and 39 years
+* **Median Age:** Between 162 and 234 years
 * **Population Range (per planet):** Approximately 1 billion to 100 billion
 * **Distance from Core:** Roughly 20–35 kiloparsecs
 * **Civilizational State:** Expanding, characterized by demographic youth surges, rapid growth, and systemic experimentation.
@@ -612,7 +625,7 @@ Thus, the **spatial position of a planet** is not merely astronomical — it def
 
 *(Vanyathra & Abyssborn territories)*
 
-* **Median Age:** Approximately 14 to 29 years
+* **Median Age:** Approximately 84 to 174 years
 * **Population Range (per planet):** From as low as 1 million up to 2 billion
 * **Distance from Core:** Roughly 35–50 kiloparsecs
 * **Civilizational State:** Collapsing, marked by governance failure, fragmentation, and illusion-based survival systems.
