@@ -2,9 +2,10 @@
 title: "Reltroner Studio — Master Apex Architecture, Operating, Narrative, Branding, and Worldbuilding Constitution"
 description: "Binding Apex Source of Truth for Creative Compound Systems, Civilizational Simulation, Canon Architecture, Narrative Modes, Brand Positioning, Distribution, Studio Operations, and Long-Term Worldbuilding"
 author: "Rei Reltroner"
-version: "2.1"
+version: "2.2"
 status: "Binding Apex Source of Truth"
 date: "2026-10-07"
+lastUpdated: "2026-10-08"
 published: true
 image: "/images/reltroner-studio-master-source-of-truth.webp"
 tags:
@@ -1028,6 +1029,23 @@ Its central danger is:
 
 > **believing that being a civilization of clarity means it can no longer become unclear.**
 
+
+## 10.5 Reltronland-Only Daily Spending Demographics
+
+The following distribution applies **only to Reltronland**, not to the population or classes of Asthortera as a whole.
+
+| Daily Spending Tier | Daily Expenditure | Population Share in Reltronland | Structural Meaning |
+|---|---:|---:|---|
+| **Protected / Transitional Low Expenditure** | **$REL0–$REL9,999/day** | **1%** | Mostly recent interplanetary immigrants, citizens in temporary reintegration, crisis recovery cases, or assisted protection; essentials are guaranteed. |
+| **Lower-Middle Class** | **$REL10,000–$REL49,999/day** | **21%** | Stable citizens with protected essentials, moderate discretionary spending, and early-to-mid-stage participation in the merit economy. |
+| **Upper-Middle Technocratic Backbone** | **$REL50,000–$REL119,999/day** | **48%** | Skilled professionals, creators, engineers, managers, educators, civic operators, and enterprise workers. |
+| **Wealthy Innovation Class** | **$REL120,000–$REL299,999/day** | **25%** | Founders, corporate strategists, senior technologists, public-system architects, finance leaders, and innovation owners. |
+| **Ultra-Rich Cosmic Capital Class** | **$REL300,000+/day** | **5%** | Cosmic investors, interplanetary industrialists, strategic asset holders, and high-level sovereign capital participants. |
+
+These bands measure **daily expenditure**, not salaries, personal worth, or whether people can survive. Post-scarcity guarantees essentials regardless of spending; the economy still contains private markets, premium choices, investment, capital allocation, and extreme differences in strategic influence. Do not extrapolate these percentages to the rest of Asthortera.
+
+The same distinction applies to spatial mobility: more frequent 4D or 5D use in certain professions and capital networks is not a hereditary caste rule or a prerequisite for dignity.
+
 ---
 
 # 11. Role of Depcutland
@@ -1330,6 +1348,70 @@ That would contradict the macro-canon.
 
 The default planetary baseline is substantially beyond Earth in material capability and institutional maturity.
 
+
+## 15.3 Quantitative Planetary Scale and Settlement Distribution
+
+Earth comparisons are external reader-facing scale translations, **not** part of Asthortera's in-world historical or geopolitical continuity.
+
+| Metric | Asthortera Canon |
+|---|---:|
+| Diameter | **54,646 km** |
+| Approximate circumference / established map width | **~171,675 km / ~171,688 km** |
+| Surface area | **9,381,109,394 km²** |
+| Volume | **85,415,845,262,387 km³** |
+| Land / water | **~48% / ~52%** |
+| Land area | **~4.503 billion km²** |
+| Sentient population | **~4.412 trillion** |
+| Urbanization | **~89.5%** |
+| Planetary average SDI | **0.938 / 1.000** |
+| Median age / life expectancy | **~252 years / ~475 years** |
+| Surface gravity | **~11 m/s²** |
+| Natural moons | **12** |
+
+Population divided by total land area is approximately **980 sentients/km²**, but this average says little about local conditions. Three distinct facts coexist:
+
+1. **Most of Asthortera's land remains natural and habitable**, rather than uniformly covered in urban construction.
+2. **Most of its inhabitants experience intensely populated metropolitan nodes**, including orderly urban systems of hundreds of millions or billions.
+3. **Most of its built urban-infrastructure stock can be biological-zero operational or dormant**, rather than actively occupied.
+
+These claims use different denominators: land area, residents, and constructed infrastructure. Do not confuse them.
+
+Asthortera is simultaneously **more densely inhabited at active nodes** and capable of **larger, quieter, almost biologically empty territories** than Earth-scale intuition suggests. Extreme physical remoteness and extensive globalization can coexist because civilization is integrated through networks, not continuous settlement.
+
+## 15.4 Vertical and Multidimensional Urban Life
+
+Asthorteran metropolitan life can be **noisier, busier, faster-moving, and more densely layered** than familiar Earth cities while remaining clean, disciplined, lawful, and technically coordinated. High SDI is not the same as low traffic volume or universal silence.
+
+Minimalist apartment units, efficient shared amenities, mass mobility, and volumetric development are normal. Established speculative habitation can extend to approximately **+20 km** and **−20 km** relative to sea level, with comparable baseline living conditions where advanced pressure, structural, energy, geological, evacuation, and environmental systems support them.
+
+Spatial address and movement conventions:
+
+- **(x, y, z)** is the minimum unambiguous ordinary spatial-address requirement, including elevation.
+- **(x, y, z, w)** and **(x, y, z, w, v)** extend that address into additional canonical coordinate dimensions.
+- **3D ↔ 4D ↔ 5D mobility is bidirectional and repeatable**, not a permanent progression through social classes.
+- **w** and **v** must be defined by an appropriate dimensional reference and navigation system; do not arbitrarily equate them with another floor, time, wealth, or a particular parallel universe.
+- In **Reltronland**, 4D addressing and commuting are familiar within the **Upper-Middle Technocratic Backbone**, while 5D itineraries are especially familiar in **Wealthy Innovation** and **Ultra-Rich Cosmic Capital** contexts. These describe usage patterns, **not** exclusive entitlements or Asthortera-wide class proportions.
+
+A person can live modestly in 3D while lawfully accessing 4D/5D for work, research, transport, or collaboration; someone wealthy can equally prefer a simple 3D dwelling.
+
+## 15.5 Planetary Material Post-Scarcity and Legal Boundaries
+
+Asthortera is post-scarcity for **ordinary material survival and baseline provision**, including food, water, energy, conventional living space, construction materials, public infrastructure, maintenance capacity, and the productive and human-service resources supporting these systems.
+
+Consequently, a person with adequate **mental stability, mindfulness, and basic survival judgment** may live alone for many years inside a lawful public-access operational zone **without compulsory personal spending on essential needs**. Facilities regarded as luxurious by Earth standards may be an ordinary maintained civic environment.
+
+Post-scarcity **does not** abolish law, public safety requirements, environmental protection, non-harm duties, jurisdictional limits, property rights, or facility-specific access permissions. It also does not make every strategic resource, person's attention, institutional authorization, or voluntary relationship infinitely available.
+
+> **Material abundance is the baseline; lawful use and responsibility remain mandatory.**
+
+## 15.6 Civilizational Aesthetics of Empty Infrastructure
+
+Biologically empty urban environments do **not** share a single architectural style. Each nation's Construct Per Capita identity and historical institutions remain visible even when no residents are present.
+
+Examples include Reltronland's monumental technocratic towers, Depcutland's grand archival halls, Pasgerflit's terminals and runways, Moreg's transport-engineering complexes, Lenternow's luminous streets, Cenrestier's legal fortresses, Taramistry's laboratories, and the distinct built environments of other civilizations.
+
+A vast, polished corridor, palace-like atrium, apartment complex, station, airport, plaza, or garden may be intact, safe, and maintained with essentially no living beings in sight. Such spaces are **not inherently haunted, ruined, post-apocalyptic, trapped, or dangerous**. Their visual resemblance to Earth-fiction liminal spaces does not determine their Asthorteran meaning.
+
 ---
 
 # 16. Narrative Camera Principle
@@ -1395,6 +1477,13 @@ Useful internal phrase:
 Alternative:
 
 > **Asthortera is advanced almost everywhere. Reltroner Studio tells stories about the places where “almost” matters.**
+
+
+## 16.6 Ordinary Biological Emptiness Is Not a Narrative Anomaly
+
+Biological-Zero Operational Urban Zones and Dormant Infrastructure Zones are **normal and widespread features of Asthortera's successful civilization**, not automatically the abnormal failures that attract the narrative camera.
+
+An empty city should only become a Nytherion-linked, institutional-failure, or horror scenario when the narrative establishes **additional causal evidence**. Neither extreme silence nor extreme metropolitan crowding independently determines Astralis alignment, quality of governance, or moral value.
 
 ---
 
@@ -1484,6 +1573,38 @@ A government may care and still fail to act because:
 
 This is a highly Reltroner-compatible failure mode.
 
+
+## 17.6 Urban Occupancy and Operational-State Taxonomy
+
+| Working Term | Biological Occupancy | Infrastructure State |
+|---|---|---|
+| **Hyper-Dense Operational Urban Node** | Hundreds of millions or billions, depending on the node | Highly active, clean, coordinated, and intensively used |
+| **Low-Occupancy Operational Urban Zone** | Sparse population | Functioning, available, and maintained |
+| **Biological-Zero Operational Urban Zone** | No locally encountered biological life, possibly for years | Pristine, safe, accessible under applicable rules, and service-capable |
+| **Dormant Infrastructure Zone** | Often zero or nearly zero local biological occupancy | Intact, preserved in standby, with suitable systems activatable on demand |
+
+These are **working English classifications**, not invented finalized Asthorteran-language names. Operational status, biological occupancy, legal accessibility, and jurisdiction must remain distinct variables.
+
+A maintained low-occupancy zone need not have visible staff, regular traffic, or even frequently observed robots and drones. Its upkeep may depend on durable material systems, embedded automation, distant supervision, and infrequent servicing.
+
+## 17.7 Self-Operated Mobility and Territorial Limits
+
+An operational or dormant urban zone can contain complete **airports, rail stations, roads, vehicle systems, terminals, and other transport infrastructure** without any scheduled transport arriving or an on-site operator present.
+
+Where a vehicle or service is designated for lawful public use, a traveler may **operate it personally**, under the relevant mode-specific technical and safety rules, rather than depend on an arriving service. This possibility extends across available transport types; it does **not** grant permission to seize private assets or ignore qualification and safety requirements.
+
+The defining jurisdictional rule is **free local movement within the authorized zone, not unlimited cross-border movement**. Transport must remain inside that zone unless additional permission authorizes departure.
+
+## 17.8 Vast Empty Regions and Self-Contained Local Worlds
+
+A single Biological-Zero Operational Urban Zone or Dormant Infrastructure Zone may extend across **1,000,000 km² or more** and contain enormous cityscapes, transport hubs, and monumental interiors. Depending on the path, layered topology, biological distribution, and travel mode, a person can explore continuously for **months or years without meeting another biological lifeform**.
+
+The million-square-kilometer figure **alone** does not prove that a straight-line walk to the boundary takes years; journey duration must follow geography, route choice, connectivity, and dimensional navigation.
+
+Conversely, a **20-million-resident metropolis** may count as a peripheral, largely self-reliant local world whose inhabitants have experienced little of the planetary or even national geography firsthand. It can remain economically, institutionally, digitally, and logistically connected while being physically remote.
+
+> **Global participation does not require personal geographical familiarity.**
+
 ---
 
 # 18. Asthortera Problems Should Often Be Post-Scarcity Problems
@@ -1521,6 +1642,37 @@ Therefore Asthortera can focus more often on:
 Asthortera's advanced condition should create **new kinds of failure**, not erase conflict.
 
 > **Civilizational success creates new frontiers of risk.**
+
+
+## 18.4 Post-Scarcity Epistemic Capitalism
+
+Asthortera has not eliminated competition or unequal power by eliminating compulsory material survival. Much of the economic and institutional rivalry shifts from ordinary material necessities toward **knowledge, insight, contextual reasoning, decision-making, leadership, trusted judgment, reputation, strategic authority, and access to voluntary collaboration**.
+
+The conceptual transition is:
+
+    Abundant food, materials, energy, space, essential services, and infrastructure
+                              ↓
+    No compulsory expenditure for basic survival
+                              ↓
+    Markets, investment, and competition for epistemic and institutional capital
+                              ↓
+    Unequal influence, opportunity, selection, and decision authority
+
+**Information can be widely replicable while responsible judgment is not automatically interchangeable.** High-impact choices still expose institutions, colleagues, and the wider public to risk. Ownership, enterprise, market spending, and capital allocation may continue to generate large inequalities in the post-scarcity system.
+
+This is an **Asthortera-level economic principle**. The expenditure-tier percentages in §10.5 apply **only to Reltronland**.
+
+## 18.5 Repeated Rejection, Institutional Risk, and Fairness
+
+An individual may experience **hundreds or thousands of career, community, professional, or social rejections** while retaining food, housing, healthcare, and basic services. Institutions and communities may legitimately protect competence requirements, shared commitments, safety, confidentiality, liability, trust, and members' interests.
+
+Yet risk management is not automatically fair or meritocratic. Rejection can be justified, mistaken, discriminatory, reputationally self-protective, or structurally exclusionary. Likewise, being rejected repeatedly does **not** determine inherent personal worth, and institutional acceptance does **not** establish infallible judgment.
+
+With life expectancy near 475 years, reputational opportunity can compound over centuries, while repeated exclusion can create long-lived feedback loops. Independent routes to competence, evidence-based reassessment, appeals where appropriate, and accountability keep meritocracy from hardening into **epistemic feudalism**.
+
+This is an enduring Astralis–Nytherion pressure: **safety without coerced conformity, selection without unquestionable gatekeepers, and individual self-correction without treating every refusal as either persecution or proof of inadequacy**.
+
+> **Post-scarcity is not post-competition; material dignity does not guarantee voluntary acceptance or strategic authority.**
 
 ---
 
@@ -1607,6 +1759,36 @@ Asthortera version:
 The conflict becomes:
 
 > **agency inside abundance**, not starvation.
+
+
+## 19.5 Example: A Pristine Empty Metropolitan Region
+
+Earth-familiar unease:
+
+> A grand urban landscape without people must indicate abandonment, apocalypse, haunting, or danger.
+
+Asthorteran baseline:
+
+- the city may be fully operational or safely dormant;
+- infrastructure, water, shelter, and essential services remain accessible without personal survival spending;
+- aircraft, trains, or other vehicles may be self-operated under local rules;
+- enormous interiors can preserve a nation's distinct architectural identity;
+- years without a biological encounter are possible in the right geographic and mobility conditions.
+
+Only add a crisis if the specific narrative establishes an actual failure or conflict. Ordinary emptiness must not be treated as Nytherion by default.
+
+## 19.6 Example: Opportunity After Material Security
+
+Earth-familiar unease:
+
+> Someone is repeatedly refused a role, partnership, or community.
+
+Asthorteran baseline:
+
+- bodily survival and basic dignity remain intact;
+- trust, judgment, reputational access, association, and responsibility are competitive;
+- exclusion may protect legitimate interests or reflect institutional error;
+- the narrative asks **what evidence supports the decision, who bears the risk, how it can be challenged, and what the individual can still choose**.
 
 ---
 
@@ -4034,6 +4216,12 @@ Reltroner Studio must preserve the following truths:
 31. **Reltroner Value Translation must convert internal complexity into stakeholder-relevant clarity without falsifying, flattening, or overselling the underlying system.**
 32. **Reltroner Studio should communicate at multiple resolutions and progressively disclose deeper architecture only when relevance and curiosity justify it.**
 33. **Cross-domain causal synthesis is more important than presenting economics, society, politics, law, technology, science, awareness, self-development, and existential themes as isolated categories.**
+34. **Asthortera combines a multi-trillion population and high-density urban nodes with enormous natural regions and extensive biological-zero or dormant built infrastructure.**
+35. **Ordinary solitude in a pristine operational or dormant city is not intrinsically abandonment, horror, social failure, or Nytherion influence.**
+36. **Post-scarcity guarantees baseline material dignity and essential public services, not exemption from safety, legal responsibility, and jurisdiction.**
+37. **Asthorteran 3D, 4D, and 5D coordinates enable layered addresses and bidirectional mobility, without creating a permanent spatial caste system.**
+38. **Epistemic competition, trust, selective institutions, repeated rejection, and unequal influence persist despite material abundance; meritocracy must remain accountable.**
+39. **Reltronland daily expenditure demographics belong only to Reltronland and must not be represented as planetary demographics.**
 
 ---
 
