@@ -39,6 +39,8 @@ The heart of the galaxy—rich in civilization, diplomacy, conflict, and innovat
   Intellectual and spiritual rebirth hub for post-Depeisit migrants.  
   *Birthplace of Reltronland and the Astralis Pinnacle Doctrine.*
 
+  **Binding planetary baseline:** Asthortera has approximately **4.412 trillion sentients**, **0.938 planetary SDI**, and a **252-year median age**. Its post-scarcity living standard includes essential food, shelter, resources, energy, public infrastructure, and services, without abolishing economic competition for trustworthy judgment, professional opportunity, leadership, reputation, and strategic authority. Most residents experience intensely active, orderly, multi-layered metropolitan nodes; most land stays natural, while extensive built urban infrastructure can be biological-zero operational or dormant. Such emptiness is normal rather than inherently threatening or Nytherion-linked. **These conditions belong to Asthortera and must not automatically be applied to every other planet.**
+
 ---
 
 #### 🪐 **Cistheta**
@@ -310,7 +312,7 @@ Civilizations here are ambitious, energetic, and still shaping their identity. T
 ### **Middle-World Civilization**
 
 * **Population:** Typically between 1 and 100 billion
-* **Median Age:** Ranges from 27 to 39 years
+* **Median Age:** Ranges from 162 to 234 years
 * **Sentient Development Index (SDI):** Approximately 0.7–0.8
 * **Key Traits:** These civilizations are fast-growing societies that continuously balance structural chaos with high rates of innovation and social experimentation.
 
