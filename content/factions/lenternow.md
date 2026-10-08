@@ -18,6 +18,7 @@ coreTheme: "Civilization of Illumination"
 ![lenternow3](/images/lenternow3.webp)
 ![ilumineapolis](/images/ilumineapolis.webp)
 ![lenternow-rhythm-heaven.webp](/images/lenternow-rhythm-heaven.webp)
+![lenternow-light-between-the-streets.webp](/images/lenternow-light-between-the-streets.webp)
 ![lenternowball](/images/lenternowball.webp)
 <video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
   <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/lenternow-part2.mp4" type="video/mp4" />
