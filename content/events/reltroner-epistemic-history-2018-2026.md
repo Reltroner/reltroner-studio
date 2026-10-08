@@ -5,7 +5,7 @@ author: "Rei Reltroner"
 version: "1.0"
 status: "Living Historical Archive"
 date: "2026-10-09"
-published: false
+published: true
 image: "/images/reltroner-epistemic-history-2018-2026.webp"
 tags:
   - Reltroner
