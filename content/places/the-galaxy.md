@@ -624,6 +624,8 @@ In this worldbuilding framework, the quoted view is a **philosophical metaphor**
 
 ## 🪞 8. Reflection
 
+**Cosmographic consistency note:** The published galactic diameter is ~250,000 light-years, corresponding to a nominal central radius of approximately **38.3 kpc**. The legacy **35–50 kpc** Outer Veil band extends beyond that simplified radius. Its distances are therefore **provisional** until the setting defines whether those systems are extragalactic, measured from another origin, or part of a more complex spatial geometry. This update does not silently change their established geographic labels.
+
 Central-region civilizations are important convergence points, not automatically superior because of their location. Farther worlds may face different structural risks without forfeiting their agency or ability to learn.  
 
 The **Reltroner Studio Philosophy of Galactic Sociology** treats the depicted patterns as narrative hypotheses that require evidence, not immutable spatial laws.
