@@ -285,7 +285,7 @@ Here, progress has slowed into preservation, and many worlds battle cultural ine
 * **Population:** Ranges from approximately 250 billion to 25 trillion
 * **Median Age:** Typically between 270 and 300 years
 * **Sentient Development Index (SDI):** Around 0.81
-* **Key Traits:** Deep Worlds are characterized by extreme population density, decaying or overextended institutions, prolonged lifespans, and slow adaptive capacity.
+* **Key Traits:** Deep Worlds have immense population totals, historically entrenched institutions, prolonged lifespans, and sometimes slow adaptive capacity. Their actual density requires planetary area and settlement data.
 
 #### 🧬 Depeisit — The Archetype of Stagnation
 - **Dominant Species:** Human (Western-featured appearance, as an external reader analogy)  
@@ -501,9 +501,9 @@ Keep this model as a worldbuilding heuristic for **causal investigations**, not 
 ## 🌍 4. Correlation Narratives by Region
 
 ### 🔹 Central Region (Asthortera, Cosmeilia)
-- Located at the **Central Core** — highest energy density and gravitational balance.  
+- Located in the **Central Core**, a convergence zone with strong Astralis traditions; location alone does not guarantee institutional quality.  
 - Long-lived median age (Asthortera ~252 years; Cosmeilia ~246 years) and trillion-scale planetary populations.  
-- **Correlation:** High SDI emerges when population density matches the planet’s governance capacity.  
+- **Interpretation:** High SDI requires institutional evidence and civilizational capacity; population totals alone cannot establish density or causation.  
 - These worlds reach *dynamic equilibrium* — they neither collapse from youth nor stagnate from age.  
 
 **Analogy:** Mature civilizations orbiting near truth’s light — enlightened but not decaying.
@@ -511,9 +511,9 @@ Keep this model as a worldbuilding heuristic for **causal investigations**, not 
 ---
 
 ### 🔸 Deep Region (Depeisit)
-- Further from the core (~15 kpc) — reduced Astralis radiation but sustained population boom.  
+- Further from the core (~15 kpc), with entrenched institutional history; the observed outcomes cannot be attributed solely to Astralis exposure.  
 - Median age 288 years coexists with institutional fatigue; age itself is not the cause, and population totals alone cannot prove overcrowding.  
-- **Correlation:** Over-density without rejuvenation mechanisms → slow societal suffocation.  
+- **Interpretation:** Institutional rigidity without renewal can drive prolonged stagnation, irrespective of unverified physical density.  
 - The result: long life expectancy but *low renewal velocity*.  
 
 **Analogy:** A civilization frozen under its own bureaucracy — aging stars that refuse to fade.
@@ -523,7 +523,7 @@ Keep this model as a worldbuilding heuristic for **causal investigations**, not 
 ### 🔹 Middle Region
 - Located at ~25–30 kpc — transitional belt between vitality and decadence.  
 - Populations (1–100B) with median age 162–234 years → signs of growth and volatility.  
-- **Correlation:** Moderate distance breeds creative turbulence — high innovation but unstable institutions.  
+- **Interpretation:** Migration, institutional transitions, and experimentation can produce innovation and uneven governance; distance alone cannot explain either.  
 - Many middle-world nations oscillate between *Astralis clarity* and *Abyssal temptation*.  
 
 **Analogy:** The adolescence of galactic civilization — brilliant, chaotic, unrefined.
@@ -531,9 +531,9 @@ Keep this model as a worldbuilding heuristic for **causal investigations**, not 
 ---
 
 ### ⚫ Outer Veil (Vanyathra)
-- Peripheral worlds beyond 35 kpc — minimal Astralis influence, weak governance fields.  
+- Peripheral systems beyond ~35 kpc — some experience documented governance breakdown; location alone does not establish awareness or ethical capability.  
 - Median age ~144 years and population below 2 billion → younger relative to Asthortera, with dysfunction rooted in governance failure rather than age alone.  
-- **Correlation:** Youth + low population + high distance → extreme instability.  
+- **Interpretation:** Documented governance collapse and institutional capture better explain the instability than age, low population, or distance by themselves.  
 - Civilizations here burn fast and die young, often succumbing to **Abyssborn cults** or self-obliteration.  
 
 **Analogy:** The outer echo of forgotten worlds — a flame without a core.
@@ -564,11 +564,7 @@ These are **median ages rather than life expectancy**. Without land area and set
 > *“The closer a world to the Central Core, the slower its decay;  
 >  the farther it drifts, the faster illusion consumes it.”* — **Rei Reltroner**
 
-In cosmological terms, this reflects a metaphysical truth:  
-- **Central civilizations** mature through *clarity* (Astralis energy).  
-- **Peripheral civilizations** age through *illusion* (Abyssal energy).  
-
-Thus, the **spatial position of a planet** is not merely astronomical — it defines its **spiritual half-life**.
+In this worldbuilding framework, the quoted view is a **philosophical metaphor**, not an empirically established law. Astralis and Nytherion influence may differ between regions, but age and spatial location do not automatically determine clarity, accountability, institutional stagnation, or moral worth.
 
 ---
 
@@ -628,10 +624,9 @@ Thus, the **spatial position of a planet** is not merely astronomical — it def
 
 ## 🪞 8. Reflection
 
-Civilizations orbiting the **Central Core** are not superior by chance — they are balanced by proximity to truth and consciousness.  
-The **farther** a world drifts, the **weaker** its awareness of clarity, until illusion overtakes evolution.  
+Central-region civilizations are important convergence points, not automatically superior because of their location. Farther worlds may face different structural risks without forfeiting their agency or ability to learn.  
 
-This cosmic law forms the foundation of the **Reltroner Studio Philosophy of Galactic Sociology**.
+The **Reltroner Studio Philosophy of Galactic Sociology** treats the depicted patterns as narrative hypotheses that require evidence, not immutable spatial laws.
 
 > *“Population is the breath of a world, age its wisdom, and distance its curse.”*
 
