@@ -1140,7 +1140,7 @@ Civilizations can negotiate shared principles without becoming
 
 identical.
 
-## PART VI --- THE PLANETARY ECONOMIC WAVE
+# PART VI --- THE PLANETARY ECONOMIC WAVE
 
 ## 18. Economic Transmission
 
@@ -1212,7 +1212,7 @@ Specialization describes a civilizational capability profile, not an
 
 occupational monoculture.
 
-## PART VII --- PROFESSIONAL MOBILITY
+# PART VII --- PROFESSIONAL MOBILITY
 
 ## 20. The Professional Citizen
 
@@ -1268,7 +1268,7 @@ Cross-civilizational movement can include:
 
 This is a natural consequence of specialization.
 
-## PART VIII --- GOVERNANCE ARCHITECTURE
+# PART VIII --- GOVERNANCE ARCHITECTURE
 
 ## 22. Governance Is Distributed
 
