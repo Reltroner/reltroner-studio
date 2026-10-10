@@ -910,7 +910,7 @@ For each new entry, record:
 
 ### 18.1 Reframing the reported 47 GitHub repositories — not 45 failures and two successes
 
-**[S]** On 10 October 2026, I described my GitHub profile as showing **47 repositories**. I initially spoke of \`reltroner-studio\` and \`reltroner-hr-app\` as the two projects I repeatedly return to, despite significant dormant intervals. I then noticed that **LMS-FE** and **LMS-BE** had become active new engineering tracks, supported by a dedicated documentation repository.
+**[S]** On 10 October 2026, I described my GitHub profile as showing **47 repositories**. I initially spoke of `reltroner-studio` and `reltroner-hr-app` as the two projects I repeatedly return to, despite significant dormant intervals. I then noticed that **LMS-FE** and **LMS-BE** had become active new engineering tracks, supported by a dedicated documentation repository.
 
 **[I]** The original "two survivors out of 47" shorthand was an incomplete model: repositories have different roles and a product may span several repositories. Dormancy does not by itself establish abandonment; a learning exercise, historical experiment, support package, shared documentation repository, and evolving commercial application cannot all be judged by the same maintenance metric.
 
@@ -945,16 +945,16 @@ The backend target comprises **six separately bounded Laravel 13 microservices**
 | Phase 3A | Design frozen | Design approval is not operational activation |
 | Phase 3B | **28/28** acceptance dispositions, **27 scoped** (including owner waiver) and **1 trace-only** | Scoped **nonproduction** exit only |
 | Invariants | **44/44 traceable** across 20 physical + 24 logical IDs | **0 newly live/runtime-certified** by Phase 3 |
-| [LMS-BE \`main\`](https://github.com/Reltroner/LMS-BE) | \`a2672d0085fe84b55520f8f52f41a8c7fc8568a0\`; [postmerge push-main CI 7/7 successful](https://github.com/Reltroner/LMS-BE/actions/runs/37970800113) | Backend source/CI checkpoint; no production credential or runtime acceptance |
-| [LMS-FE \`main\`](https://github.com/Reltroner/LMS-FE) | \`eb01a4d2c924299b929aebf0f4826b94cf341fc6\`; [push-main CI 2/2 successful](https://github.com/Reltroner/LMS-FE/actions/runs/37987959614) | After PR #4 Windows LF-staging and PR #5 Contentlayer CLI repair; source/build validation, not deployment |
+| [LMS-BE `main`](https://github.com/Reltroner/LMS-BE) | `a2672d0085fe84b55520f8f52f41a8c7fc8568a0`; [postmerge push-main CI 7/7 successful](https://github.com/Reltroner/LMS-BE/actions/runs/37970800113) | Backend source/CI checkpoint; no production credential or runtime acceptance |
+| [LMS-FE `main`](https://github.com/Reltroner/LMS-FE) | `eb01a4d2c924299b929aebf0f4826b94cf341fc6`; [push-main CI 2/2 successful](https://github.com/Reltroner/LMS-FE/actions/runs/37987959614) | After PR #4 Windows LF-staging and PR #5 Contentlayer CLI repair; source/build validation, not deployment |
 | Frontend regression/build evidence | **19/19** catalog/regression tests, **3 published documents**, **25/25** static pages, privacy checks passed | Does not independently validate live Cloudflare production state |
-| Governance | Both app \`main\` branches were reported \`protected:false\`; Phase-3-specific owner waiver and manual branch-governance contract recorded | Procedural discipline is **not** GitHub-enforced protection |
+| Governance | Both app `main` branches were reported `protected:false`; Phase-3-specific owner waiver and manual branch-governance contract recorded | Procedural discipline is **not** GitHub-enforced protection |
 
 **Historical sequence matters:** source candidates were once draft/unmerged and earlier audits reported open gates. Later 10 October owner acceptance, exact-SHA integration, postmerge CI, and subsequent isolated FE fixes changed the status. The earlier snapshots remain correct descriptions of earlier checkpoints, not statements of the current head.
 
 Evidence links: [Phase 3B-11 final owner exit](https://github.com/Reltroner/progress-documentation/blob/main/lms/reltroner-lms-phase3b-11-final-owner-exit-acceptance-20261010.md); [Phase 3 source-main integration record](https://github.com/Reltroner/progress-documentation/blob/main/lms/reltroner-lms-phase3-main-integration-postmerge-ci-20261010.json); [append-only engineering progress ledger](https://github.com/Reltroner/progress-documentation/blob/main/lms/engineering-end-to-end-progress-ledger.md).
 
-**Hard limitation:** **Phase 4 is NOT AUTHORIZED at this checkpoint**. A production/real-runtime certificate would require separate approved work and evidence for Keycloak tokens and identities, signing/delegation/replay, PostgreSQL permissions, Redis failure behavior, internal service exposure, VPS runtime, DNS/TLS, Cloudflare deployment and related integration tests. The latest FE main merge carries \`[CF-Pages-Skip]\`, but its **Production/main deployment exclusion was not independently verified through the Cloudflare account**. No source-only green CI status should be presented as a deployed or commercially usable system.
+**Hard limitation:** **Phase 4 is NOT AUTHORIZED at this checkpoint**. A production/real-runtime certificate would require separate approved work and evidence for Keycloak tokens and identities, signing/delegation/replay, PostgreSQL permissions, Redis failure behavior, internal service exposure, VPS runtime, DNS/TLS, Cloudflare deployment and related integration tests. The latest FE main merge carries `[CF-Pages-Skip]`, but its **Production/main deployment exclusion was not independently verified through the Cloudflare account**. No source-only green CI status should be presented as a deployed or commercially usable system.
 
 ### 18.4 Why the progress-documentation repository matters to my personal epistemic timeline
 
@@ -962,7 +962,7 @@ Evidence links: [Phase 3B-11 final owner exit](https://github.com/Reltroner/prog
 
 **[I]** The personal lesson is that my learning is becoming less dependent on a single chat session, a single model's memory, or remembering a long chain of decisions internally. More knowledge is being externalized into reviewable records:
 
-\`\`\`text
+```text
 personal trial and error
        ↓
 repeat encounters with architecture and integration constraints
@@ -972,7 +972,7 @@ explicit discovery / invariants / boundaries / ADRs
 versioned implementation + negative tests + CI + owner decisions
        ↓
 preserved evidence + AI handoff + bounded reuse in another project
-\`\`\`
+```
 
 This may be an instance of **transferable engineering capability** emerging from long-term experimentation. It is not proof that I independently reasoned through every AI-assisted decision, nor proof that each architectural choice will survive production testing.
 
