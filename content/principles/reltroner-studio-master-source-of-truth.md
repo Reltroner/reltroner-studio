@@ -2,10 +2,10 @@
 title: "Reltroner Studio — Master Apex Architecture, Operating, Narrative, Branding, and Worldbuilding Constitution"
 description: "Binding Apex Source of Truth for Creative Compound Systems, Civilizational Simulation, Canon Architecture, Narrative Modes, Brand Positioning, Distribution, Studio Operations, and Long-Term Worldbuilding"
 author: "Rei Reltroner"
-version: "2.2"
+version: "2.3"
 status: "Binding Apex Source of Truth"
 date: "2026-10-07"
-lastUpdated: "2026-10-08"
+lastUpdated: "2026-10-12"
 published: true
 image: "/images/reltroner-studio-master-source-of-truth.webp"
 tags:
@@ -28,6 +28,11 @@ tags:
   - Value Translation Framework
   - Stakeholder Communication
   - Cross-Domain Causal Synthesis
+  - Integrated Creative Capability
+  - Learner Outcome Evidence
+  - Two-Phase Transition Contract
+  - Community Readiness
+  - Strategic Focus Governance
 ---
 
 
@@ -77,6 +82,9 @@ It governs:
 - Reltroner Value Translation Framework,
 - stakeholder-specific abstraction and messaging,
 - cross-domain causal synthesis,
+- integrated creator capabilities and evidence-bound learner outcomes,
+- Phase 1 product closure and Phase 2 community transition governance,
+- maintenance-first and business-need engineering policy,
 - funding and capital discipline,
 - long-term growth philosophy.
 
@@ -106,6 +114,29 @@ Changes to this master document should happen only when:
 5. a major narrative or operating principle matures.
 
 Changes should be explicit, documented, and versioned.
+
+## 0.4 Source Authority and Evidence Semantics
+
+This apex document governs Reltroner Studio's **identity, value proposition, creative philosophy, and binding strategic principles**. It does not supersede frozen technical contracts, fabricate live deployment status, or transform historical reports into externally verified achievements.
+
+Use distinct evidence classes:
+
+- **Founder decision:** a deliberate current priority or value, binding for planning until revised, not proof of completion.
+- **Verified artifact:** inspectable source, accepted tests, deployment receipt, or other bounded primary evidence.
+- **Historical report:** recorded experience or snapshot whose context and limitations remain attached.
+- **Interpretation / hypothesis:** a reasoned explanation or market assumption not yet demonstrated.
+- **Candidate plan:** proposed work without authorization to execute or expand scope.
+- **Production acceptance:** positive runtime evidence against a previously agreed scope, never inferred solely from a commit or CI run.
+
+Authoritative sources by concern:
+
+- This master: studio purpose, creator/audience value, brand, narrative philosophy and strategic phase boundaries.
+- [Epistemic history (2018–2026)](../events/reltroner-epistemic-history-2018-2026.md): reported experience, dated decisions, failed attempts, constraints, and corrections.
+- [LMS logical service contract](https://github.com/Reltroner/progress-documentation/blob/main/lms/logical-service-boundary-api-contract.md): frozen LMS service ownership, security and API boundaries.
+- [LMS infrastructure placement contract](https://github.com/Reltroner/progress-documentation/blob/main/lms/master-infrastructure-placement-contract.md): frozen infrastructure placement and isolation invariants.
+- [LMS engineering progress ledger](https://github.com/Reltroner/progress-documentation/blob/main/lms/engineering-end-to-end-progress-ledger.md): dated evidence of implementation, CI, deployment and open gaps.
+
+**Precedence is domain-scoped:** the apex sets strategic intent; frozen LMS contracts govern LMS engineering; dated evidence determines what has actually been completed. Any proposed technical deviation requires its own reviewed change control/ADR. A later dated decision can supersede an earlier strategy without erasing the historical record.
 
 ---
 
@@ -405,6 +436,31 @@ Tools / Infrastructure      Non-cliché Interpretation
 
 Communication, marketing, and sales are developed as a horizontal transmission capability across this structure.
 
+## 2.7 Integrated Capability and Creator Agency
+
+The three personal capability domains may reinforce one another rather than operate as separate products:
+
+```text
+SYSTEMIC STRUCTURAL CREATIVE DESIGN
+  causal architecture / consequences / reusable frameworks
+                 ↕
+SOFTWARE ENGINEERING
+  optional tools / delivery / reducing repetitive operations
+                 ↕
+SELF IMPROVEMENT
+  metacognition / feedback / adaptive and sustainable practice
+                 ↓
+CREATIVE COMPOUND MACHINE
+                 ↓
+CREATOR-OWNED CREATIVE AGENCY
+```
+
+These are complementary **studio capabilities**, not three obligatory buyer-facing offerings. A creator should be able to use the core framework with paper, diagrams or Markdown; software is an optional amplifier rather than a prerequisite. Self Improvement is primarily a learning/adaptation mechanism, not an automatic claim to be a general life coach.
+
+The intended creator outcomes include reduced creative stagnation, more enjoyable and sustainable work, stronger self-directed creation, and potentially deeper fan engagement. These are **goals to evaluate**, not guaranteed results. Burnout has multiple causes; Reltroner Studio must not promise its prevention or cure.
+
+The success condition for creator-facing mentorship is increasing learner independence: the learner can generate, connect, assess and extend creative possibilities **without permanent dependence on the mentor**.
+
 ---
 
 # 3. Ten-Year Focus Horizon
@@ -470,15 +526,13 @@ During the foundation period:
 - Archive
 - Tooling
 
-### Continuous but Lightweight
+### Optional / Lightweight During Product Foundation
 
-- Communication
-- Publishing
-- Audience observation
-- Basic marketing
-- Basic monetization
-- Community interaction
-- Distribution learning
+- Natural documentation and archival publishing where it does not interrupt accepted engineering work
+- Existing professional relationships and already-maintained public presence
+- Low-cost communication practice and observation when capacity permits
+
+These activities are **permitted, not mandatory parallel campaigns**. Active cross-platform community branding and new monetization campaigns are deferred until the Phase 1 exit and Phase 2 readiness gates defined in Section 55. Prior general advice to start distribution early does not override the founder-approved two-phase focus sequence.
 
 ### Not Yet the Primary Optimization Target
 
@@ -3341,6 +3395,8 @@ Before a canonical season is frozen, public material may focus on:
 
 Unfrozen canonical plot should remain private when publication would restrict necessary rewriting.
 
+This section governs **what may be distributed**; it does not require active community campaigning during the Phase 1 product-build focus. Section 55 governs **when community branding becomes a primary operating mode**.
+
 ## 51.4 Production-Ready Reltroner Studio
 
 Before a major canonical launch, the website should be mature enough to carry the IP reliably.
@@ -4179,7 +4235,258 @@ It allows depth to become discoverable progressively.
 
 ---
 
-# 55. Final Canon Constitution
+# 55. Two-Phase Strategic Transition and Community Readiness Contract
+
+> **Ratified founder direction — 12 October 2026.** This is an approved **strategic sequencing contract**, not an assertion that either phase has already passed its exit/entry gates. The engineering contract and current runtime evidence retain independent authority.
+
+## 55.1 Purpose and Operating Modes
+
+Reltroner Studio uses two different primary operating modes:
+
+```text
+PHASE 1 — BUILD / VERIFY / STABILIZE / FREEZE
+Reltroner LMS full accepted production DoD
++ reltroner.com front-end landing experience
++ operational readiness and handoff
+                    ↓
+         PHASE 1 EXIT ACCEPTED
+                    ↓
+     FOUNDER READINESS ASSESSMENT
+                    ↓
+       EXPLICIT PHASE 2 ACTIVATION
+                    ↓
+PHASE 2 — LISTEN / CONTRIBUTE / CONNECT / LEARN / REFINE
+community branding and relationship building
++ value translation and real creator feedback
++ maintenance-first engineering
+```
+
+Both phases serve the same apex intellectual product: systemic creative design, Creative Compound Machine, and advanced civilizational narrative simulation. The phases change the **primary allocation of attention**, not the studio's identity.
+
+## 55.2 Phase 1 — Product Foundation Scope
+
+Phase 1 contains exactly two primary product-delivery outcomes and one operational closure requirement.
+
+**A. Reltroner LMS — 100% of the accepted final Definition of Done**
+
+Completion requires all *mandatory, previously agreed* application and production acceptance gates to pass. A successful PR, tests, CI, architecture freeze, or nonproduction service bootstrap is not by itself production completion.
+
+LMS engineering must continue to respect its frozen infrastructure and logical service contracts, including its six runtime service boundaries, identity/authorization, state ownership, and operational/security requirements. Any change to these requirements requires their own approved ADR or versioned contract revision. This master does not silently redefine their scope.
+
+**B. reltroner.com — front-end landing page production readiness**
+
+Upgrade the existing public landing page **as a front-end/experience surface**, not as an invitation to build a new full-stack platform. The Skill-Wanderer website is a **reference for minimum clarity and UX standards**, not a template to copy, a claim of comparable business maturity, or a dependency on its particular implementation.
+
+The required landing experience should have:
+
+- a legible value proposition and clear first-contact language;
+- separate audience pathways for creators and readers;
+- direct routing to learning, studio IP and credible proof-of-work;
+- mobile responsiveness, readable typography, usable navigation and accessibility basics;
+- functional, honest calls to action without promising unavailable products;
+- no major broken links/routes and acceptable performance;
+- a coherent visual identity without unnecessary technical complexity.
+
+**C. Operations handoff**
+
+Record the accepted release scope, open/deferred backlog, rollback and recovery approach, monitoring/maintenance ownership, and explicit production evidence. The final status must be supported by sources owned by each engineering domain.
+
+## 55.3 Scope Freeze: What “100%” Means
+
+> **100% means 100% of the reviewed and accepted frozen scope, not 100% of every imaginable future feature.**
+
+Do not extend Phase 1 automatically because an interesting technology, AI agent, creator tool, community feature, analytics dashboard or new product idea becomes available.
+
+Do not bypass already mandatory acceptance requirements merely to declare Phase 1 closed.
+
+New scope enters through:
+
+```text
+new requirement
+→ impact / urgency / evidence
+→ backlog or explicit change request
+→ accepted scope revision if justified
+→ tests and release gates as applicable
+```
+
+## 55.4 Phase 1 Exit Evidence and Authority
+
+Phase 1 exit requires:
+
+1. LMS final accepted DoD with security, integration, runtime and production evidence as required by the binding LMS contracts.
+2. reltroner.com landing-page acceptance based on the agreed experience requirements.
+3. Operational handoff, known limitation register, and a clear maintenance/recovery path.
+4. Explicit founder closure decision, tied to the relevant exact evidence rather than an invented global percentage.
+
+Until these are satisfied, mark **PHASE_1_NOT_YET_ACCEPTED**. Do not treat this strategic ratification as a deploy instruction, DNS authorization, or a claim of LMS production certification.
+
+## 55.5 Phase 2 Entry: Structural Gate and Founder Readiness
+
+**Structural readiness (mandatory):** Phase 1 Exit Accepted.
+
+**Founder operational readiness (minimum, deliberately attainable):**
+
+- a truthful 15-second, one-minute and five-minute explanation of the relevant Reltroner value;
+- a small selection of genuine, safely shareable framework examples or non-spoiler case studies;
+- familiarity with the participation/self-promotion rules and context of the initial communities;
+- an affordable, personally sustainable interaction cadence and a willingness to learn through feedback;
+- explicit founder confirmation that switching the primary focus is acceptable.
+
+Not required for Phase 2 entry:
+
+- a large pre-existing audience;
+- fluent or perfected sales/marketing/public speaking;
+- validated willingness to pay or first subscription revenue;
+- published or irrevocably frozen Season 1;
+- an owned Discord server or other standalone community platform.
+
+The readiness test is about **ability to participate responsibly**, not a demand for confidence, follower counts or commercial success in advance.
+
+## 55.6 Phase 2 — Community Branding Operating Contract
+
+Phase 2 shifts the primary optimization target toward:
+
+- understanding creator needs in their own language;
+- contributing relevant frameworks, examples and questions;
+- improving stakeholder-specific communication through real dialogue;
+- building reciprocal relationships and recognition through useful participation;
+- observing whether others understand, challenge, try or adapt the Creative Compound Machine;
+- feeding real insights back into the framework, curriculum and experience.
+
+Community branding proceeds through **participation before ownership**, rather than treating communities as advertising inventory.
+
+```text
+OBSERVE → CONTRIBUTE → DISCUSS → RETURN → LEARN
+    → REFINE FRAMEWORK → SHARE BETTER EVIDENCE
+```
+
+Being active in existing communities is distinct from running an owned community. Build owned community infrastructure only after there is repeated member-driven need.
+
+## 55.7 Channel Roles and Channel Restraint
+
+Candidate channels and likely jobs:
+
+| Channel | Primary role | Evidence to observe |
+|---|---|---|
+| Reddit r/worldbuilding | peer reasoning, critique and contextual worldbuilding discussion | substantive replies, questions, constraints, objections |
+| LinkedIn | professional trust, method explanation and inspectable proof-of-work | relevant conversation and understanding, not impressions alone |
+| Discord | repeated small-group relationships and optional peer feedback | continued voluntary participation |
+| Instagram | visual explanation and discovery of diagrams/concepts | whether the visual actually improves comprehension |
+| Threads | brief exploratory questions and idea reframing | quality of follow-up conversation |
+
+These are **candidate channels, not five compulsory workloads**. A small number of active channels may be chosen first based on costs and feedback; the other channels may remain experimental or inactive.
+
+Read the specific community's current posting rules before publishing. Do not assume that promotion, off-site links, templates or LMS invitations are allowed merely because the topic concerns worldbuilding.
+
+## 55.8 Community Activation Lifecycle
+
+A practical Phase 2 operating cycle:
+
+- **2A — Observe and Understand:** identify recurring creator problems, language and community norms; observations are samples, not a universal market survey.
+- **2B — Participate and Communicate:** contribute helpful discussions/examples, respond to critique and test multi-resolution explanation.
+- **2C — Build Relationships and Recognition:** observe repeat conversations and voluntary requests to go deeper; do not confuse views with relationships.
+- **2D — Evaluate Value and Readiness:** review comprehension, independent method trials, time/energy/cash costs, and any real demand signal; decide whether to continue, narrow, revise or propose a future paid experiment.
+
+These are **feedback stages, not calendar deadlines**. No follower quota or invented conversion rate is imposed as a phase prerequisite.
+
+## 55.9 Engineering Re-entry Policy During Phase 2
+
+Phase 2 is **maintenance-first, not anti-engineering**.
+
+| Change class | Disposition |
+|---|---|
+| Security vulnerability / privacy exposure / active incident | address according to severity through controlled corrective engineering |
+| Production outage / broken accepted functionality | bounded incident or regression response |
+| Accessibility or usability defect preventing intended use | evidence-backed repair |
+| Repeated verified business need with a clear value mechanism | discovery, cost/benefit, scoped change request and release contract |
+| New feature / AI agent / infrastructure based only on novelty | defer to backlog |
+| New project without a relevant validated need | outside Phase 2 default scope |
+
+Engineering expansion must have **problem evidence, minimum useful scope, budget, authorization, test and acceptance criteria**. All frozen LMS contracts and production-change controls remain binding.
+
+Phase 2 does not mean stopping security updates, operational monitoring, backups, or recovery preparedness.
+
+## 55.10 Strategic Decision and Switching-Cost Test
+
+A technically possible or brand-aligned activity is not automatically a good *current* allocation.
+
+Before opening any major new workstream, distinguish:
+
+- **feasibility:** can this be done safely?
+- **value:** whose specific problem or curiosity does it address?
+- **evidence:** what shows the need exists?
+- **timing:** does this interrupt the active operating mode?
+- **cost:** cash, attention, context rebuilding, maintenance and recovery;
+- **authority:** what is explicitly approved and what remains a proposal?
+
+```text
+aligned idea
+     !=
+accepted requirement
+     !=
+authorized work
+     !=
+verified delivery
+     !=
+paying customer
+```
+
+A deliberate founder reprioritization can amend phase sequencing. It must be recorded as a **new decision**, not disguised as completion of unmet Phase 1 gates.
+
+## 55.11 Trust, Creator Outcomes, and Commercial Evidence
+
+The three collaborating domains—Systemic Structural Creative Design, Software Engineering, and Self Improvement—may support learner-facing goals such as:
+
+- less idea fragmentation and creative stagnation;
+- increased creator agency and project continuity;
+- more enjoyable, manageable creative practice;
+- potentially improved engagement between a creator and their audience.
+
+These are intended outcomes and **hypotheses to validate**, not guaranteed benefits. Avoid medical or psychological claims of preventing burnout. Customer service means diagnosing learner needs and delivering agreed value; it does not mean surrendering creator agency or inviting unlimited demands.
+
+Maintain separate evidence classes for:
+
+```text
+VISIBILITY        reach / impressions
+COMPREHENSION     relevant understanding
+ADOPTION          independent use / artifact
+TRUST             consistent evidence and delivery
+COMMERCIAL INTENT expressed willingness to pay
+PAYMENT           actual verified transaction
+RETENTION         repeated voluntary use / purchase
+```
+
+Trust can decline as well as grow. It is not a function of elapsed time or followers alone.
+
+A Phase 2 conversation, LinkedIn impression, free learner visit, a draft mentorship offer, and money received are **different states**. Do not claim market validation until it occurs.
+
+## 55.12 Phase 2 Monetization Boundary
+
+Reltroner LMS is a free learning/discovery surface; personalized creative-system mentorship is a **candidate** high-touch offer, not a mandatory paywall for basic knowledge.
+
+Possible learner goal tracks include **hobby, production/public projects, and academic work**. The mentor should help learners develop their own framework and independence; it should not complete academic assignments for them or promise publishing outcomes without evidence.
+
+Paid offer activation is a **separate future commercial decision** requiring actual delivery readiness, learner need, sustainable mentor capacity, scope/price/cancellation and privacy terms, scheduling/communication policies, and appropriately authorized payment handling.
+
+Entering Phase 2 does not automatically open sales, start a subscription business, create a community server, or certify product-market fit.
+
+## 55.13 Architecture Boundary and Ratification Effects
+
+This strategic contract governs **sequence and communication**, not internal LMS implementation.
+
+- LMS remains a bounded **microservice** architecture under its existing six-service frozen logical contract and infrastructure placement contract.
+- Production / Keycloak / PostgreSQL / Redis / Cloudflare / GitHub release changes require their own authorization and acceptance.
+- The current engineering state must be read from the LMS ledger, not estimated from this master or the date this section was ratified.
+- The Abyss of Comfort unpublished season structure remains mutable until its independent narrative freeze; Phase 1 or Phase 2 does not itself publish canon.
+- Existing lightweight personal-brand artifacts may remain publicly accessible during Phase 1, but this is not a requirement to activate a new multi-channel campaign.
+
+**Transition doctrine:**
+
+> **Phase 1 establishes accepted product and operational foundations. Phase 2 reallocates the primary attention to participation, communication, community relationships and evidence-based value discovery. Technical work during Phase 2 is corrective or tied to demonstrated business needs, not feature accumulation for its own sake.**
+
+---
+
+# 56. Final Canon Constitution
 
 Reltroner Studio must preserve the following truths:
 
@@ -4222,10 +4529,18 @@ Reltroner Studio must preserve the following truths:
 37. **Asthorteran 3D, 4D, and 5D coordinates enable layered addresses and bidirectional mobility, without creating a permanent spatial caste system.**
 38. **Epistemic competition, trust, selective institutions, repeated rejection, and unequal influence persist despite material abundance; meritocracy must remain accountable.**
 39. **Reltronland daily expenditure demographics belong only to Reltronland and must not be represented as planetary demographics.**
+40. **Systemic Structural Creative Design, Software Engineering, and Self Improvement may cooperate as complementary studio capabilities; they are not automatically three separate commercial products.**
+41. **The Creative Compound Machine should increase creator agency and continuity; sustainable enjoyment and engagement are goals to validate, not guaranteed outcomes or burnout cures.**
+42. **Strategic intent, technical acceptance, learner comprehension, trust and actual payment are separate evidence classes and must not be conflated.**
+43. **Phase 1 exit requires accepted LMS production DoD, a production-ready reltroner.com front-end landing experience, operational handoff and explicit owner closure.**
+44. **Active Phase 2 community branding begins only after Phase 1 exit and minimum founder readiness are accepted; audience scale or sales mastery is not an entry prerequisite.**
+45. **Community branding favors reciprocal participation and learning before owned-community expansion or monetization.**
+46. **Phase 2 engineering is maintenance-first and business-evidence-driven, while urgent security, reliability and compliance work remains mandatory.**
+47. **No new channel, subscription, feature or monetization hypothesis becomes an active commitment merely because it is aligned with the studio vision.**
 
 ---
 
-# 56. Final Operating Statement
+# 57. Final Operating Statement
 
 Reltroner Studio is not a franchise whose primary purpose is to prove how large Asthortera is.
 
@@ -4264,13 +4579,13 @@ And the work continues.
 
 ---
 
-# 57. Short Internal Motto
+# 58. Short Internal Motto
 
 > **Build creative systems that keep generating possibility, and civilizations that help people see their own world more clearly.**
 
 ---
 
-# 58. Closing Rule
+# 59. Closing Rule
 
 > **Never create a Reltroner work merely because it is impressive.**
 >
