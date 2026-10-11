@@ -1742,7 +1742,7 @@ identify the underlying system
 ↓
 select Asthorteran civilization
 ↓
-select local node / enclave
+select a fitting scale: node, institution, civilization, or planet
 ↓
 design a post-scarcity or advanced analogue
 ↓
@@ -1750,12 +1750,12 @@ create a character who lives inside it
 ↓
 show the real benefit first
 ↓
-reveal the hidden dependency
+examine a meaningful mechanism or dependency (where present)
 ↓
 identify a causally earned tension or question
 (Nytherion only when actually supported)
 ↓
-develop local resistance
+develop local agency, response, or ordinary continuation
 ↓
 escalate only if necessary
 ↓
