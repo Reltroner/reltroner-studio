@@ -1752,7 +1752,8 @@ show the real benefit first
 ↓
 reveal the hidden dependency
 ↓
-introduce Nytherion-shaped pressure
+identify a causally earned tension or question
+(Nytherion only when actually supported)
 ↓
 develop local resistance
 ↓
@@ -2676,7 +2677,9 @@ Before publishing a major Reltroner piece, ask:
 ### Asthortera Consistency
 
 - Does the story respect the high-development macro baseline?
-- If the setting resembles Earth, is it clearly a local structural anomaly rather than planetary norm?
+- If an experience resembles Earth, is its mechanism translated into Asthortera rather than labeled an anomaly merely for being familiar?
+- Does the scene distinguish planetary invariants from national, node-level, and exceptional cases?
+- Would its familiar trope still make causal sense if its visual genre conventions were removed?
 
 ---
 
@@ -2987,6 +2990,31 @@ Before adding major canon, ask:
 - Would removing this event collapse later consequences?
 
 If nothing inherits the addition, it may be decorative rather than compounding.
+
+
+## 47.5 Generative Constraints and Nested Creative Compounding
+
+**A good canon invariant is not merely a prohibition; it is an engine that creates the next meaningful question.**
+
+    MATERIAL POST-SCARCITY
+        ↓
+    BASIC SURVIVAL NO LONGER REQUIRES COMPULSORY SPENDING
+        ↓
+    PROFESSIONAL / SOCIAL SELECTION STILL MATTERS
+        ↓
+    TRUST, INSTITUTIONAL AUTHORITY, AND REPUTATION COMPOUND
+        ↓
+    DISTINCT LOCAL LIVED WORLDS EXPERIENCE DIFFERENT TRADE-OFFS
+        ↓
+    DECISIONS CHANGE RELATIONSHIPS, INSTITUTIONS, AND ARCHIVES
+        ↓
+    NEW CANON-COMPATIBLE QUESTIONS AND STORIES
+
+**Breadth** comes from distinct nations, ecological regions, dense metropolitan nodes, operationally empty zones, professions, communities, and points of view. **Depth** comes from linking the same event across economics, legal constraints, epistemic trust, history, institutions, and existential meaning. **Compounding** occurs when those interactions create durable state changes inherited by later work.
+
+New settings do not need to become new planets or universes. The nested-world model already gives one canonical planet a large but **causally bounded** creative possibility space.
+
+Do not reward an addition solely for greater size, strangeness, power, darkness, or obscurity. Ask whether it **changes the future possibility graph**, enriches prior canon, and can become a lived experience rather than an encyclopedia entry.
 
 ---
 
@@ -3358,6 +3386,23 @@ This protects audience trust and internal creative freedom.
 > **Build reputation early. Launch canon late.**
 
 Pre-launch visibility must not require turning unfinished canon into public beta content.
+
+
+## 50.7 Pre-Freeze Identity, Integrity, and Originality Audit
+
+Before a candidate is frozen and published, validate its **canon gates** in §19.8 and the following release conditions:
+
+1. **Identity:** no unintended import of Earth's historical or geopolitical identity; the host civilization remains distinguishable.
+2. **Baseline:** Asthortera's post-scarcity, high-SDI, spatial, demographic, and settlement invariants are respected.
+3. **Exception evidence:** special hardship, social collapse, Nytherion pressure, safety failure, or horror requires a specific documented cause rather than a genre assumption.
+4. **Agency and accountability:** local actors have meaningful choices and institutions have defensible or contestable reasons.
+5. **Experience:** readers can feel why the situation matters without first learning an internal architecture schema.
+6. **Causal originality:** familiar motifs are substantively translated instead of cosmetically renamed.
+7. **Continuity:** each accepted state respects previous canon, known dependencies, and the existing publication-status boundary.
+
+**Disposition:** pass, revise/retranslate, document a bounded exception, or defer. Use the existing canon-status vocabulary from §50.5; this audit does not establish a second status system.
+
+A valid story does **not** have to involve a villain, Nytherion, a failing institution, or even an exceptional crisis. Ordinary prosperous life can be a legitimate narrative subject.
 
 ---
 
@@ -4273,7 +4318,7 @@ It allows depth to become discoverable progressively.
 Reltroner Studio must preserve the following truths:
 
 1. **Asthortera is overwhelmingly advanced and prosperous.**
-2. **The narrative camera intentionally follows exceptions, fractures, and anomalies.**
+2. **The narrative camera often examines exceptions and fractures, but ordinary advanced life is equally valid canon and a legitimate narrative subject.**
 3. **Local Earth-like systems are narrative nodes, not evidence that the whole planet resembles Earth.**
 4. **Reltronland is an institutional protagonist of clarity, not a universal setting or automatic savior.**
 5. **Depcutland is a protagonist of memory sovereignty and historical accountability.**
@@ -4291,7 +4336,7 @@ Reltroner Studio must preserve the following truths:
 17. **Reltroner Studio should currently avoid debt for speculative creative discovery.**
 18. **External capital must never gain the power to redefine the studio's core identity by default.**
 19. **The universe should remain complex enough that no civilization is permanently exempt from self-correction.**
-20. **The world is mostly working; the stories follow the places where it is not.**
+20. **The world is mostly working; stories may explore its ordinary lived operation, its diverse social worlds, or evidence-based exceptional failures.**
 21. **Reltroner Studio's apex product identity is intellectual and narrative; technology is an enabling, access, and distribution layer.**
 22. **The creator-facing value is anti-stagnation through Creative Compound Systems.**
 23. **The audience-facing value is advanced civilizational simulation that transforms contemporary human anxieties into science-fantasy experience.**
@@ -4311,6 +4356,11 @@ Reltroner Studio must preserve the following truths:
 37. **Asthorteran 3D, 4D, and 5D coordinates enable layered addresses and bidirectional mobility, without creating a permanent spatial caste system.**
 38. **Epistemic competition, trust, selective institutions, repeated rejection, and unequal influence persist despite material abundance; meritocracy must remain accountable.**
 39. **Reltronland daily expenditure demographics belong only to Reltronland and must not be represented as planetary demographics.**
+40. **Earth-within-Asthortera is a reader-facing metaphor for structurally translatable experiences, not a literal import of Earth's historical, political, geographic, or cultural identity.**
+41. **Asthortera is a nested world-container: nations, urban nodes, institutions, and personal lived worlds can differ radically while belonging to one causally coherent planet.**
+42. **New ideas must pass second-world identity, planetary baseline, host-civilization, physical/institutional causality, narrative integrity, and continuity gates; scoped exceptions require evidence.**
+43. **Familiar tropes are permitted, but copying genre assumptions without an Asthorteran mechanism weakens originality and the studio's USP.**
+44. **Epistemic freedom, canon integrity, and creative compounding are complementary: questioning assumptions generates possibilities, coherent rules protect them, and consequences develop them.**
 
 ---
 
@@ -4348,6 +4398,8 @@ Its role is to turn:
 > **Asthortera becomes the experiment.**  
 > **Reltroner Studio provides the lens.**  
 > **The audience performs the reflection.**
+>
+> **Canon integrity protects the experiment; causal originality keeps it worth exploring.**
 
 And the work continues.
 
