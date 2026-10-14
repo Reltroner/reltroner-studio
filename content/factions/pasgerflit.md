@@ -99,7 +99,7 @@ Pasgerflit teaches one central doctrine:
 | **Capital City** | Aviashenwelt |
 | **Major Cities** | Skyportalis, Runwayria, Boarding Nexus, Pasgerflit Aeropolis |
 | **Currency** | $PAS — Pasgerian Aerocredit |
-| **Population** | 179 billion sentient beings |
+| **Population** | 279 billion sentient beings |
 | **Area** | 72 million km² |
 | **SDI Score** | 0.949 |
 | **Official Language** | Pasgerian, heavily infused with aviation and transport lexicon |

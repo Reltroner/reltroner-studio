@@ -22,9 +22,10 @@ export default function PageFade({ children }) {
           ease: MOTION_EASE,
         }}
       >
+        {/* Keep server-rendered reading content visible before hydration. */}
         <m.div
           key={pathname}
-          initial="initial"
+          initial={false}
           animate="animate"
           variants={variants}
           className="relative"

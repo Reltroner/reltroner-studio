@@ -62,7 +62,7 @@ It is cheerful, colorful, whimsical, cute, and playful, yet not shallow. Beneath
 | Expanded Doctrine | **Every civilization begins as a sketch.** |
 | Official Language | **Pencilfain Language** / **Artesian Pictolatin** |
 | Currency | **$PNL — Pencilian** |
-| Population | **161 billion** |
+| Population | **182 billion** |
 | Land Area | **166 million km²** |
 | Tech Aesthetic | **Paintpunk, Pencilpunk, Artpunk** |
 | Strategic Output | Creativity, visual literacy, design culture, aesthetic infrastructure, animation, public art systems, civic imagination |

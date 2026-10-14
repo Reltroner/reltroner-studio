@@ -127,7 +127,7 @@ This profile therefore preserves the original themes of elegance, archival sover
 | **Civilizational Tier** | Tier 1 Civilization of Asthortera |
 | **Planetary Rank** | Second Apex Civilization of Asthortera |
 | **SDI — Sentient Development Index** | **0.981** |
-| **Population** | **256 billion sentient beings** |
+| **Population** | **343 billion sentient beings** |
 | **Land Area** | **52 million km²** |
 | **Capital City** | **Depsetica** |
 | **Government Type** | **Archival-Meritocracy** |

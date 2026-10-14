@@ -2,10 +2,6 @@ export default function ShellBackdrop() {
   return (
     <div aria-hidden="true" className="pointer-events-none fixed inset-0 -z-10 overflow-hidden bg-[var(--rs-page-background)]">
       <div
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-30 mix-blend-screen"
-        style={{ backgroundImage: 'url(/images/background.webp)' }}
-      />
-      <div
         className="absolute inset-0 opacity-90"
         style={{ backgroundImage: 'var(--rs-page-atmosphere)' }}
       />

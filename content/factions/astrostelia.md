@@ -78,7 +78,7 @@ Where its observatories study the unknown, its institutions regulate access to i
 - **Spiritual Doctrine:** Cosmognosis — the sacred study of stars, dimensions, and cosmic law
 - **Core National Values:** Discovery, objectivity, cosmic responsibility, dimensional diplomacy, institutional continuity, scientific humility
 - **Official Language:** Astrostelian Celestial Language
-- **Population:** 170 billion sentient beings
+- **Population:** 220 billion sentient beings
 - **Primary National Character:** Scientific, contemplative, technocratic, spiritually cosmic, commercially advanced
 - **Primary Strategic Institution:** Asthortera Space Command
 - **Primary Private Industrial Institution:** Astortera Enterprise

@@ -888,7 +888,7 @@ informs governance.
 -   **Capital:** Evercotage
 -   **Major craftsmanship city:** Timbersteput
 -   **Major ritual city:** Frosteberg
--   **Population:** 91 billion sentient beings
+-   **Population:** 141 billion sentient beings
 -   **Land area:** 200 million km²
 -   **SDI:** 0.961
 -   **Currency:** \$ST --- Stelpadland Timbermark

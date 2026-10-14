@@ -1,6 +1,6 @@
 'use client';
 
-import { startTransition, useMemo, useRef, useEffect } from 'react';
+import { startTransition, useMemo, useRef, useEffect, useState } from 'react';
 import {
   CommandDialog,
   CommandEmpty,
@@ -13,6 +13,8 @@ import { DialogDescription, DialogTitle } from '@radix-ui/react-dialog';
 import { VisuallyHidden } from '@radix-ui/react-visually-hidden';
 import { useRouter } from 'next/navigation';
 import { COLLECTIONS, COLLECTION_ORDER } from '@/lib/constants/collections';
+import { searchPublicContent } from '@/lib/content/search';
+import { CLASSIFICATION_LABELS, type EpistemicClassification } from '@/lib/content/taxonomy';
 
 export interface PageEntry {
   name: string;
@@ -21,6 +23,13 @@ export interface PageEntry {
   description?: string;
   category?: string;
   tags?: string[];
+  id?: string;
+  collection?: string;
+  canonicalRoute?: string;
+  published?: boolean;
+  classification?: EpistemicClassification | null;
+  needsEditorialReview?: boolean;
+  searchableText?: string;
 }
 
 export interface CommandPaletteDialogProps {
@@ -51,45 +60,15 @@ function getPageSearchKeywords(page: PageEntry) {
   return [page.group, page.description, page.category, ...(page.tags || [])].filter(Boolean);
 }
 
-function scoreCommandMatch(value: string, search: string, keywords?: string[]) {
-  const normalizedSearch = String(search || '').trim().toLowerCase();
-
-  if (!normalizedSearch) {
-    return 1;
-  }
-
-  const normalizedValue = String(value || '').toLowerCase();
-  const normalizedKeywords = (keywords || []).map((keyword) => String(keyword).toLowerCase());
-  const haystack = [normalizedValue, ...normalizedKeywords].join(' ');
-
-  if (normalizedValue === normalizedSearch) {
-    return 5;
-  }
-
-  if (normalizedValue.startsWith(normalizedSearch)) {
-    return 4;
-  }
-
-  if (normalizedValue.includes(normalizedSearch)) {
-    return 3;
-  }
-
-  if (normalizedKeywords.some((keyword) => keyword.includes(normalizedSearch))) {
-    return 2;
-  }
-
-  const searchTokens = normalizedSearch.split(/\s+/).filter(Boolean);
-
-  if (searchTokens.length > 1 && searchTokens.every((token) => haystack.includes(token))) {
-    return 1;
-  }
-
-  return 0;
-}
-
 export default function CommandPaletteDialog({ open, onOpenChange, pages }: CommandPaletteDialogProps) {
   const router = useRouter();
   const inputRef = useRef<HTMLInputElement | null>(null);
+  const [query, setQuery] = useState('');
+
+  const rankedPages = useMemo(() => searchPublicContent(pages.map((page) => ({
+    ...page, id: page.id || page.path, title: page.name, canonicalRoute: page.canonicalRoute || page.path,
+    tags: page.tags || [], searchableText: page.searchableText || [page.category, page.group].filter(Boolean).join(' '),
+  })), query), [pages, query]);
 
   useEffect(() => {
     if (!open) return;
@@ -102,7 +81,8 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }: Comm
   }, [open]);
 
   const groupedPages = useMemo(() => {
-    const groups = pages.reduce<Record<string, PageEntry[]>>((result, page) => {
+    if (query.trim()) return [{ group: 'Search results', items: rankedPages }];
+    const groups = rankedPages.reduce<Record<string, PageEntry[]>>((result, page) => {
       const key = page.group || 'Pages';
 
       if (!result[key]) {
@@ -127,7 +107,7 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }: Comm
           return left.name.localeCompare(right.name);
         }),
       }));
-  }, [pages]);
+  }, [rankedPages, query]);
 
   return (
     <CommandDialog
@@ -135,7 +115,7 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }: Comm
       onOpenChange={onOpenChange}
       label="Global Command Menu"
       className="shell-command-dialog"
-      filter={scoreCommandMatch}
+      shouldFilter={false}
     >
       <VisuallyHidden>
         <DialogTitle>Search Reltroner Studio</DialogTitle>
@@ -162,7 +142,7 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }: Comm
         </button>
       </div>
 
-      <CommandInput ref={inputRef} placeholder="Type a page, archive, topic, or tag..." />
+      <CommandInput ref={inputRef} value={query} onValueChange={setQuery} placeholder="Type a page, archive, topic, or tag..." />
       <CommandList>
         <CommandEmpty>
           <div className="space-y-2 text-sm">
@@ -175,7 +155,7 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }: Comm
             {items.map((page) => (
               <CommandItem
                 key={page.path}
-                value={page.name}
+                value={page.path}
                 keywords={getPageSearchKeywords(page)}
                 className="group items-start gap-3"
                 onSelect={() => {
@@ -198,6 +178,9 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }: Comm
                   </div>
                   {page.description ? (
                     <p className="mt-1 text-sm text-slate-300">{page.description}</p>
+                  ) : null}
+                  {page.classification || page.needsEditorialReview ? (
+                    <p className="mt-2 text-xs text-blue-200">{page.classification ? CLASSIFICATION_LABELS[page.classification] : 'Scope awaiting editorial review'}</p>
                   ) : null}
                   {page.category || (page.tags && page.tags.length > 0) ? (
                     <div className="mt-2 flex flex-wrap gap-2">

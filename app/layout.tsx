@@ -2,7 +2,6 @@ import { ReactNode } from "react";
 import { Metadata } from "next";
 import './global.css';
 import Navbar from "@/components/Navbar";
-import MobileNavbar from "@/components/MobileNavbar";
 import CommandPalette from "@/components/layout/CommandPalette";
 import ShellBackdrop from "@/components/layout/ShellBackdrop";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
@@ -15,11 +14,16 @@ import {
 } from "@/lib/seo/jsonld";
 import { ROOT_METADATA } from "@/lib/seo/metadata";
 import { getCommandPaletteEntries } from "@/lib/utils/content";
+import { getPublicContentIndex } from "@/lib/content/public-index";
+import AssistantRoot from "@/components/assistant/AssistantRoot";
+import SiteFooter from "@/components/layout/SiteFooter";
+import { ReadingPathProvider } from "@/components/archive/ReadingPathContext";
 
 export const metadata: Metadata = ROOT_METADATA;
 
 export default async function RootLayout({ children }: { children: ReactNode }) {
   const commandPaletteEntries = await getCommandPaletteEntries();
+  const publicContentIndex = await getPublicContentIndex();
 
   return (
     <html lang="en" className={`dark ${inter.variable} ${sora.variable} ${jetbrainsMono.variable}`} data-scroll-behavior="smooth">
@@ -39,7 +43,7 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(buildOrganizationJsonLd()),
+            __html: JSON.stringify(buildOrganizationJsonLd()).replace(/</g, '\\u003c'),
           }}
         />
 
@@ -47,7 +51,7 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(buildWebsiteJsonLd()),
+            __html: JSON.stringify(buildWebsiteJsonLd()).replace(/</g, '\\u003c'),
           }}
         />
 
@@ -55,7 +59,7 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(buildUniverseJsonLd()),
+            __html: JSON.stringify(buildUniverseJsonLd()).replace(/</g, '\\u003c'),
           }}
         />
       </head>
@@ -67,43 +71,33 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
           color: "var(--rs-text-primary)",
         }}
       >
-        <div className="relative flex min-h-screen flex-col overflow-x-clip">
-          <ShellBackdrop />
+        <ReadingPathProvider>
+          <a href="#main-content" className="sr-only fixed left-4 top-4 z-[10000] rounded-lg bg-blue-700 p-4 text-white focus:not-sr-only">Skip to content</a>
+          <div className="relative flex min-h-screen flex-col overflow-x-clip">
+            <ShellBackdrop />
 
-          <div className="relative z-40">
-            <MobileNavbar />
-            <header>
-              <div className="hidden md:block">
-                <div className="shell-container px-4 pt-4">
-                  <div className="surface-glass flex justify-center px-3 py-3">
-                    <CommandPalette pages={commandPaletteEntries} />
+            <div className="relative z-40">
+              <header>
+                <div className="hidden md:block">
+                  <div className="shell-container px-4 pt-4">
+                    <div className="surface-glass flex justify-center px-3 py-3">
+                      <CommandPalette pages={commandPaletteEntries} />
+                    </div>
                   </div>
+                  <Navbar />
                 </div>
-                <Navbar />
-              </div>
-            </header>
-          </div>
-
-          <main className="relative z-10 grow py-5">{children}</main>
-
-          <footer className="relative z-10 px-4 pb-8 pt-2">
-            <div className="shell-container">
-              <div className="surface-glass px-6 py-4 text-center text-xs text-gray-500 dark:text-gray-400">
-                <a
-                  href="/blog/for-recruiters"
-                  className="text-blue-500 hover:underline"
-                >
-                  For Recruiters & Collaborators ↗
-                </a>
-                <br />
-                © {new Date().getFullYear()} Reltroner Studio. All rights reserved.
-              </div>
+              </header>
             </div>
-          </footer>
 
-          <GoogleAnalytics />
-          <RouteAnalytics />
-        </div>
+            <main id="main-content" tabIndex={-1} className="relative z-10 grow py-5 md:pt-1.5 md:pb-5">{children}</main>
+
+            <SiteFooter />
+
+            <GoogleAnalytics />
+            <RouteAnalytics />
+            <AssistantRoot entries={publicContentIndex} />
+          </div>
+        </ReadingPathProvider>
       </body>
     </html>
   );

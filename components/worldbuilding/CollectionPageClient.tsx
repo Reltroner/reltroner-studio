@@ -1,35 +1,25 @@
 'use client';
 
 import Link from "next/link";
-import { useDeferredValue, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import Heading from "@/components/Heading";
 import ArchiveCardMedia from "@/components/media/ArchiveCardMedia";
 import HoverDepth from "@/components/motion/HoverDepth";
 import WikiBreadcrumbs, { BreadcrumbSegment } from "@/components/wiki/WikiBreadcrumbs";
+import AdaptiveArchiveShell from "@/components/archive/AdaptiveArchiveShell";
+import { searchPublicContent, type SearchableEntry } from "@/lib/content/search";
+import { CLASSIFICATION_LABELS, type PublicContentEntry } from "@/lib/content/taxonomy";
+import type { ContentCollectionDefinition, ContentEntry } from "@/types/content";
 
 const numberFormatter = new Intl.NumberFormat("en-US");
 
-function normalizeSignals(values: any[]) {
+function normalizeSignals(values: unknown[]) {
   return [...new Set(values.map((value) => String(value || "").trim()).filter(Boolean))];
 }
 
-function getSearchValues(item: any) {
-  return [
-    item.title,
-    item.description,
-    item.summary,
-    item.role,
-    item.quote,
-    item.slug,
-    item.category,
-    item.type,
-    ...normalizeSignals(item.tags || []),
-  ]
-    .filter(Boolean)
-    .map((value) => String(value).toLowerCase());
-}
+type PublicCollectionItem = Pick<ContentEntry, "collection" | "slug" | "title" | "route" | "description" | "summary" | "image" | "role" | "quote" | "category" | "type" | "tags" | "readingTime" | "wordCount" | "date" | "modified" | "classification" | "needsEditorialReview">;
 
-function getReadingLabel(item: any) {
+function getReadingLabel(item: PublicCollectionItem) {
   if (item.readingTime) {
     return `${item.readingTime} min read`;
   }
@@ -42,14 +32,14 @@ function getReadingLabel(item: any) {
 }
 
 export interface CollectionPageClientProps {
-  collection: any;
-  items: any[];
+  collection: ContentCollectionDefinition;
+  items: PublicCollectionItem[];
+  publicIndex?: PublicContentEntry[];
 }
 
-export default function CollectionPageClient({ collection, items }: CollectionPageClientProps) {
+export default function CollectionPageClient({ collection, items, publicIndex = [] }: CollectionPageClientProps) {
   const [searchQuery, setSearchQuery] = useState("");
-  const deferredQuery = useDeferredValue(searchQuery);
-  const normalizedQuery = deferredQuery.trim().toLowerCase();
+  const normalizedQuery = searchQuery.trim().toLowerCase();
 
   const archiveInsights = useMemo(() => {
     const signalCounts = new Map<string, number>();
@@ -86,32 +76,37 @@ export default function CollectionPageClient({ collection, items }: CollectionPa
       return items;
     }
 
-    return items.filter((item) => {
-      return getSearchValues(item).some((value) => value.includes(normalizedQuery));
-    });
-  }, [items, normalizedQuery]);
+    const itemsById = new Map(items.map((item) => [`${item.collection}:${item.slug}`, item]));
+    const searchable: SearchableEntry[] = publicIndex.length > 0 ? publicIndex : items.map((item) => ({
+      id: `${item.collection}:${item.slug}`, title: item.title, description: item.description || item.summary,
+      tags: item.tags, canonicalRoute: item.route, collection: item.collection,
+      searchableText: [item.role, item.quote, item.category, item.type, item.summary].filter(Boolean).join(" "),
+    }));
+    return searchPublicContent(searchable, normalizedQuery, { collection: collection.key })
+      .map((entry) => itemsById.get(entry.id)).filter((item): item is PublicCollectionItem => Boolean(item));
+  }, [items, normalizedQuery, publicIndex, collection.key]);
 
   const isFiltering = normalizedQuery.length > 0;
 
   const breadcrumbs: BreadcrumbSegment[] = [
-    { label: "Knowledge Base", href: "/#knowledge" },
+    { label: "Knowledge Base", href: "/#knowledge-bridge" },
     { label: collection.title }
   ];
 
   return (
-    <div className="section-shell px-4 py-6 dark:text-white">
-      <WikiBreadcrumbs segments={breadcrumbs} />
-
-      <div className="mb-6 text-center mt-4">
-        <div className="mb-3 flex flex-wrap justify-center gap-2">
+    <AdaptiveArchiveShell collection={collection.key} mode="collection" entries={publicIndex}>
+    <div className="min-w-0 py-2 dark:text-white">
+      <header className="collection-intro">
+        <WikiBreadcrumbs segments={breadcrumbs} centered />
+        <div className="collection-badges flex flex-wrap justify-center gap-2">
           <span className="archive-chip">{collection.group || "Archive"}</span>
           <span className="archive-chip">{numberFormatter.format(items.length)} records</span>
         </div>
-        <Heading className="pb-2">{collection.title}</Heading>
+        <Heading className="collection-title">{collection.title}</Heading>
         <p className="mx-auto max-w-3xl text-center font-medium text-slate-300">
           {collection.description}
         </p>
-      </div>
+      </header>
 
       <div className="mb-6 grid gap-4 lg:grid-cols-[minmax(0,1.35fr)_minmax(18rem,0.95fr)]">
         <section className="surface-glass flex flex-col gap-4 p-5">
@@ -121,7 +116,7 @@ export default function CollectionPageClient({ collection, items }: CollectionPa
                 Archive Search
               </p>
               <p className="mt-2 max-w-2xl text-sm text-slate-300">
-                Search by title, role, tag, category, quote, or record type. Keep it lightweight and local to the archive.
+                Search public titles, topics and bounded article text with the same ranking as Ctrl+K. Use global search or Ctrl+K to search across all collections.
               </p>
             </div>
             {isFiltering ? (
@@ -249,6 +244,7 @@ export default function CollectionPageClient({ collection, items }: CollectionPa
                     />
                     <div className="flex grow flex-col gap-4 p-5">
                       <div className="flex flex-wrap gap-2">
+                        <span className="archive-chip">{item.classification ? CLASSIFICATION_LABELS[item.classification] : "Scope awaiting editorial review"}</span>
                         {recordSignals.map((signal) => (
                           <span key={signal} className="archive-chip">
                             {signal}
@@ -258,9 +254,9 @@ export default function CollectionPageClient({ collection, items }: CollectionPa
                       </div>
 
                       <div className="space-y-2">
-                        <h2 className="text-xl font-semibold tracking-tight text-white">
+                        <h3 className="text-xl font-semibold tracking-tight text-white">
                           {item.title}
-                        </h2>
+                        </h3>
                         {item.role ? (
                           <p className="text-sm font-semibold uppercase tracking-[0.14em] text-slate-400">
                             {item.role}
@@ -307,5 +303,6 @@ export default function CollectionPageClient({ collection, items }: CollectionPa
         )}
       </div>
     </div>
+    </AdaptiveArchiveShell>
   );
 }

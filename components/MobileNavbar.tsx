@@ -14,6 +14,10 @@ import {
   ecosystemNavigation,
   knowledgeNavigation,
 } from '@/lib/constants/navigation';
+import {
+  useReadingPath,
+  decodeHtmlEntities,
+} from '@/components/archive/ReadingPathContext';
 
 const commandPaletteEvent = 'reltroner:command-palette:open';
 
@@ -150,6 +154,7 @@ function NavigationSection({
 
 export default function MobileNavbar() {
   const [isOpen, setIsOpen] = useState(false);
+  const { headings, activeId, setActiveId } = useReadingPath();
 
   const closeNavigation = () => {
     setIsOpen(false);
@@ -320,6 +325,42 @@ export default function MobileNavbar() {
                   }}
                 >
                   <div className="space-y-4">
+                    {headings && headings.length > 0 ? (
+                      <NavigationSection title="On this page — Reading Path">
+                        <ol className="space-y-1">
+                          {headings.map((heading) => {
+                            const isActive = activeId === heading.id;
+                            return (
+                              <li key={heading.id}>
+                                <a
+                                  href={`#${heading.id}`}
+                                  aria-current={isActive ? 'location' : undefined}
+                                  onClick={(event) => {
+                                    setActiveId(heading.id);
+                                    closeNavigation();
+                                    const target = document.getElementById(heading.id);
+                                    if (target) {
+                                      window.history.pushState(null, '', `#${heading.id}`);
+                                      target.scrollIntoView({ behavior: 'smooth' });
+                                    }
+                                  }}
+                                  className={`block rounded-xl py-2 px-3 text-sm transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 ${
+                                    heading.level > 2 ? 'pl-6 text-xs' : 'font-medium'
+                                  } ${
+                                    isActive
+                                      ? 'bg-sky-400/15 text-sky-200 border border-sky-400/30'
+                                      : 'text-slate-300 hover:bg-white/10 hover:text-white'
+                                  }`}
+                                >
+                                  {decodeHtmlEntities(heading.text)}
+                                </a>
+                              </li>
+                            );
+                          })}
+                        </ol>
+                      </NavigationSection>
+                    ) : null}
+
                     <NavigationSection title="Ecosystem">
                       <MobileLinkGrid
                         items={ecosystemLinks}

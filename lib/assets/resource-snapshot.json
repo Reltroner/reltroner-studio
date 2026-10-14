@@ -1,0 +1,3496 @@
+{
+  "sourceSha": "50b259bf8db5b8c04baf0c0cb9b1cf11a32e9c70",
+  "provenance": "Read-only local Git tree; resource delivery and deployment automation require separate verification.",
+  "resources": [
+    {
+      "path": "landing-page-resource/files/commandpalette alternatif",
+      "blobSha": "72d61881c854b0258191009fbbed91574a89db0f",
+      "bytes": 5007
+    },
+    {
+      "path": "landing-page-resource/files/creative-lore-bible.pdf",
+      "blobSha": "6f7c34c88235fc49574c11d3c0887f2c8a1d7b42",
+      "bytes": 254103
+    },
+    {
+      "path": "landing-page-resource/files/external-creator-handbook.pdf",
+      "blobSha": "c708ba1351ec9c6516fe510820fc9fd11afe6ad9",
+      "bytes": 293518
+    },
+    {
+      "path": "landing-page-resource/files/for-recruiters.pdf",
+      "blobSha": "a1b91ae7d7db02d61de6db611952a235e39184ec",
+      "bytes": 42753
+    },
+    {
+      "path": "landing-page-resource/files/fullstack-interview-summary.pdf",
+      "blobSha": "cf84af76e4461a2b7f5b20df8daf6a9c8ed42997",
+      "bytes": 263846
+    },
+    {
+      "path": "landing-page-resource/files/reltroner-50-day-journal.pdf",
+      "blobSha": "d723970be0f74f1a48e144eebe72048472028ec3",
+      "bytes": 180427
+    },
+    {
+      "path": "landing-page-resource/files/reltroner-studio-legal-declaration.pdf",
+      "blobSha": "7033349b161f5ad019e0867d6b15179ba7491cea",
+      "bytes": 83705
+    },
+    {
+      "path": "landing-page-resource/files/roadmap-2045.pdf",
+      "blobSha": "52a0a9f9df0d60155a98dde7bb84d94fba9b6268",
+      "bytes": 2856
+    },
+    {
+      "path": "landing-page-resource/images/12-month-roadmap.webp",
+      "blobSha": "61b978072d59efba2c867b2e607860a5099cab2a",
+      "bytes": 77714
+    },
+    {
+      "path": "landing-page-resource/images/2v3-reltroner-joker.webp",
+      "blobSha": "60c80c84422fcb50c5c237b9e50692f8df1ac4f5",
+      "bytes": 120936
+    },
+    {
+      "path": "landing-page-resource/images/3d-4d-5d-sovereignty-doctrine-reltronland.webp",
+      "blobSha": "90dd493a1d4b14d88eb63e57c8c768e0b307f809",
+      "bytes": 295794
+    },
+    {
+      "path": "landing-page-resource/images/a-lifelong-build.webp",
+      "blobSha": "9e9cd2acbf7b8e3122f1052cf71e65a31c1b4083",
+      "bytes": 110328
+    },
+    {
+      "path": "landing-page-resource/images/a-lifelong-build2.webp",
+      "blobSha": "7e921f788e6b734b66051350e4e5d04284757d80",
+      "bytes": 91480
+    },
+    {
+      "path": "landing-page-resource/images/abolish-feudalism-inferiority.webp",
+      "blobSha": "fc309f2cc02479482605ec4bde85514f044bb68f",
+      "bytes": 165762
+    },
+    {
+      "path": "landing-page-resource/images/abyss-d.webp",
+      "blobSha": "e6bd7454cf88824670adbba434bc6910f2665677",
+      "bytes": 99308
+    },
+    {
+      "path": "landing-page-resource/images/abyss-heart.webp",
+      "blobSha": "caa8bd8aa08a3200c57e7653b98e75af816bb562",
+      "bytes": 65544
+    },
+    {
+      "path": "landing-page-resource/images/abyss-heart1.webp",
+      "blobSha": "f71e688e7956e3d3b6fec0412df990ecd0e277ca",
+      "bytes": 74640
+    },
+    {
+      "path": "landing-page-resource/images/abyss-ritual-items.webp",
+      "blobSha": "ef549048bcada087c51e2fe509e3c14699e421e7",
+      "bytes": 33022
+    },
+    {
+      "path": "landing-page-resource/images/abyss-whisper.webp",
+      "blobSha": "fa5d4899bdca00caa10f912845d70b12c366af33",
+      "bytes": 133392
+    },
+    {
+      "path": "landing-page-resource/images/abyssal-possession.webp",
+      "blobSha": "5f5812a98117fe3fb4242f818b649e6c99def7d8",
+      "bytes": 162366
+    },
+    {
+      "path": "landing-page-resource/images/adhd-builder.webp",
+      "blobSha": "b42163aaa240d8a47c4cf61be5c47da0c1133652",
+      "bytes": 355538
+    },
+    {
+      "path": "landing-page-resource/images/admin-ui.webp",
+      "blobSha": "06b149ce55da22c521505f717061e08cfb03716c",
+      "bytes": 51712
+    },
+    {
+      "path": "landing-page-resource/images/afri.webp",
+      "blobSha": "c2764eb1ff2ce4f4b5f3871d91aaee90abf7a1bc",
+      "bytes": 177484
+    },
+    {
+      "path": "landing-page-resource/images/after-the-letter-before-the-silence.webp",
+      "blobSha": "a1e5bf11dc9bb5629a287aebd4a97733ce80befe",
+      "bytes": 133196
+    },
+    {
+      "path": "landing-page-resource/images/aftermath-of-ascent.webp",
+      "blobSha": "8c682e28890a7854cc2f02dab1ef78957f918765",
+      "bytes": 119722
+    },
+    {
+      "path": "landing-page-resource/images/agile-vs-waterfall-analogy.webp",
+      "blobSha": "3c0728e157900396c7a79bb4ae4552b09a2c8932",
+      "bytes": 36150
+    },
+    {
+      "path": "landing-page-resource/images/ai-ecosystem.webp",
+      "blobSha": "2bc267d82598acdc3989156ca229a4ca39e544f8",
+      "bytes": 50170
+    },
+    {
+      "path": "landing-page-resource/images/ai-pitch-deck.webp",
+      "blobSha": "b6f968a7846f21a444b9fdbdb48b0ff365a534b3",
+      "bytes": 111346
+    },
+    {
+      "path": "landing-page-resource/images/ai-sales-recommendation-followup-msme.webp",
+      "blobSha": "a878ce5be6a481b2c2234f46dbcc43e33cb42ba2",
+      "bytes": 145498
+    },
+    {
+      "path": "landing-page-resource/images/ai-tetration-interaction.webp",
+      "blobSha": "b610bfc32b6599b4a8a659810816cf5bc736ed03",
+      "bytes": 32700
+    },
+    {
+      "path": "landing-page-resource/images/aicr-spire.webp",
+      "blobSha": "65021101cf812d380641cb272ea35f0c848f895e",
+      "bytes": 229968
+    },
+    {
+      "path": "landing-page-resource/images/albert-locke.webp",
+      "blobSha": "2157873e7de6c0e0347339b76208fa064c3a2612",
+      "bytes": 137842
+    },
+    {
+      "path": "landing-page-resource/images/alreo.webp",
+      "blobSha": "6637675f9d5768e3d0f0eb75b462fe90f152ab20",
+      "bytes": 87580
+    },
+    {
+      "path": "landing-page-resource/images/amberglow.webp",
+      "blobSha": "e4c6b608c30650cc785cb6a49136cb5f41853a5f",
+      "bytes": 30572
+    },
+    {
+      "path": "landing-page-resource/images/andy-elian.webp",
+      "blobSha": "9431b714825ab796023e07e530487dae2ee6345a",
+      "bytes": 139314
+    },
+    {
+      "path": "landing-page-resource/images/andy-log.webp",
+      "blobSha": "eadbffff16c7c84a15cd52b55a0826ee340899e4",
+      "bytes": 106980
+    },
+    {
+      "path": "landing-page-resource/images/antagonist-design.webp",
+      "blobSha": "63af534cb8dd9cdfd3840251acfbb87377c53db0",
+      "bytes": 123648
+    },
+    {
+      "path": "landing-page-resource/images/anti-corruption-origin.webp",
+      "blobSha": "190a668971601b2f97e742b962347258465a9d78",
+      "bytes": 354156
+    },
+    {
+      "path": "landing-page-resource/images/anti-feudal-law.webp",
+      "blobSha": "dc96761c489f06c81e7ea5cc5833aca2464056b9",
+      "bytes": 167916
+    },
+    {
+      "path": "landing-page-resource/images/anti-klise-gender-friendship.webp",
+      "blobSha": "8c007f91c8731becc90f04aa8d7776bdd8147c6c",
+      "bytes": 186380
+    },
+    {
+      "path": "landing-page-resource/images/anti-sexual-content.webp",
+      "blobSha": "48d08f9215f40bd7371a275825c89e450bff9f6d",
+      "bytes": 153618
+    },
+    {
+      "path": "landing-page-resource/images/artesian-pictolatin-language.webp",
+      "blobSha": "c032b63c3668153e3013ba05ca8a03fc599803c7",
+      "bytes": 127670
+    },
+    {
+      "path": "landing-page-resource/images/asthortera_identity.webp",
+      "blobSha": "9a736e2e8904bddd5dec46358bcd25b702e80001",
+      "bytes": 70526
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-12-orbiting-moons.webp",
+      "blobSha": "194c80b813a4e553555edc16d222e727bfb44862",
+      "bytes": 131944
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-character-pocketbook.webp",
+      "blobSha": "35ce3f9b923c2a22c91b5a33d689970db9fef71f",
+      "bytes": 370506
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-core-world.webp",
+      "blobSha": "e8a64740500ac384eee24cc82578f36ee51760cd",
+      "bytes": 1059626
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-countryball-characters.webp",
+      "blobSha": "a75c49f3b4fdbd53809531a9b439368c4d30348b",
+      "bytes": 68014
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-data-analytics-notebook.webp",
+      "blobSha": "d617c9ede49b4cc17673f62e507261e7338dbbfe",
+      "bytes": 8692
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-data-analytics-notebook1.webp",
+      "blobSha": "c8f4b3276c27723c7382a4e05df89d2cc222dd1b",
+      "bytes": 9334
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-data-analytics-notebook2.webp",
+      "blobSha": "1ba90c6acd6a32e7ad928a697b2f9e034c580f39",
+      "bytes": 9034
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-data-analytics-notebook3.webp",
+      "blobSha": "c5fd5e423fcd115f9cb52c7192ce70707fa368ad",
+      "bytes": 8636
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-glossary.webp",
+      "blobSha": "e2c5ac73890440f7ee4c6371adc55a37e992a002",
+      "bytes": 40320
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-modular-economy.webp",
+      "blobSha": "7ac6e8b92466a5c0ee901fd60e40a592cc170014",
+      "bytes": 221256
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-moonless-sky.webp",
+      "blobSha": "64b4576ebab4d832f4c71128a78c73fe6455501d",
+      "bytes": 103628
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-pyramid.webp",
+      "blobSha": "7a03282b83203d28ae66e933b17295e7dfb87218",
+      "bytes": 159776
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-space-command.webp",
+      "blobSha": "090d3cd7b7b195b2ade3e511010f377702b0f326",
+      "bytes": 56566
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-type-i9-doctrine.webp",
+      "blobSha": "990fa42780100d58f3c49f52b6f126f90106e821",
+      "bytes": 88442
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-vs-earth.webp",
+      "blobSha": "1d98d66876f72b6deaf9064802984df3d5d79253",
+      "bytes": 703038
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-world-map-progress.png",
+      "blobSha": "887b9f068c595f268ec45777e7b81e1e6d0c909d",
+      "bytes": 1700744
+    },
+    {
+      "path": "landing-page-resource/images/asthortera-world-map-progress.webp",
+      "blobSha": "15ffe3d019328155a3465ab03774cd77177fd174",
+      "bytes": 401052
+    },
+    {
+      "path": "landing-page-resource/images/astortera-enterprise.webp",
+      "blobSha": "3b9bcfe279a4d844fe92266f044bf12e80eda4ca",
+      "bytes": 252150
+    },
+    {
+      "path": "landing-page-resource/images/astralis-capital-doctrine.webp",
+      "blobSha": "77cc44b5deab585e2949c3d8308c9bb76898ba82",
+      "bytes": 85294
+    },
+    {
+      "path": "landing-page-resource/images/astralis-colossus-stations.webp",
+      "blobSha": "99c3a4d174f36e821be1ae0c31f4dc56d2d848d3",
+      "bytes": 57700
+    },
+    {
+      "path": "landing-page-resource/images/astralis-evaluation-banner.webp",
+      "blobSha": "1676e58ce81c8d8bfb567d664424398a28259fc9",
+      "bytes": 78536
+    },
+    {
+      "path": "landing-page-resource/images/astralis-leadership-origin.webp",
+      "blobSha": "122b645e82d9c3fbffa6a6f6b2cc5f640d25a523",
+      "bytes": 71612
+    },
+    {
+      "path": "landing-page-resource/images/astralis-nytherion-banner.webp",
+      "blobSha": "45e59151822d2e99d1531a5cb87c2b1ec2b7adb6",
+      "bytes": 49084
+    },
+    {
+      "path": "landing-page-resource/images/astralis-philosophy-of-suffering-and-sustainability.webp",
+      "blobSha": "bbfc5e4e91fbddb7c006674533cf598030f7e70e",
+      "bytes": 108894
+    },
+    {
+      "path": "landing-page-resource/images/astralis-pinnacle.webp",
+      "blobSha": "53f23b2f55dbd64f2d25af39df7685092c842d26",
+      "bytes": 27548
+    },
+    {
+      "path": "landing-page-resource/images/astralis-poem-banner.webp",
+      "blobSha": "56ee94eeef94b90fa8e63be993bb8356683b5d95",
+      "bytes": 169194
+    },
+    {
+      "path": "landing-page-resource/images/astralis-temple-facility.webp",
+      "blobSha": "c5e2fedc354b9c847a233ed026dc2a8e0dae78ba",
+      "bytes": 109194
+    },
+    {
+      "path": "landing-page-resource/images/astralis-temple.webp",
+      "blobSha": "434fec046a0130226c077517ac60d508be36e10d",
+      "bytes": 92120
+    },
+    {
+      "path": "landing-page-resource/images/astralis-temple1.webp",
+      "blobSha": "5f27d1a6d417804075b1ae833d3aa4a781320bc4",
+      "bytes": 24460
+    },
+    {
+      "path": "landing-page-resource/images/astralis-temple2.webp",
+      "blobSha": "b94b313eedacbb4b040a844642d6eba66776e7c8",
+      "bytes": 37180
+    },
+    {
+      "path": "landing-page-resource/images/astralis-temple3.webp",
+      "blobSha": "5e06e9e64b17498c2b0840b410f4bd9901a52134",
+      "bytes": 24710
+    },
+    {
+      "path": "landing-page-resource/images/astralis-temple4.webp",
+      "blobSha": "9bc1dbba6e3014b0ad104865400154c34b361041",
+      "bytes": 48998
+    },
+    {
+      "path": "landing-page-resource/images/astralis-temple5.webp",
+      "blobSha": "a197732f8e85090371ed7e0482e25fcf5621f0b9",
+      "bytes": 20936
+    },
+    {
+      "path": "landing-page-resource/images/astralis-timeline.webp",
+      "blobSha": "3d2cda246cac068f23cde74595160fcc0b65218a",
+      "bytes": 175608
+    },
+    {
+      "path": "landing-page-resource/images/astralis-top001.webp",
+      "blobSha": "0e7a7434b892100f7f719afaa57c7e679c92b8b6",
+      "bytes": 182086
+    },
+    {
+      "path": "landing-page-resource/images/astralis-vanguard.webp",
+      "blobSha": "fb95d299ab94e449d09879fb55f5fa92a4c09614",
+      "bytes": 44004
+    },
+    {
+      "path": "landing-page-resource/images/astrostelia-rhythm-heaven.webp",
+      "blobSha": "6c3d2d6eed091b86b2c172a806f95c02b1c6266c",
+      "bytes": 199228
+    },
+    {
+      "path": "landing-page-resource/images/astrostelia-the-astronomers-horizon.webp",
+      "blobSha": "f9beec939c5845425e12050f1fd4693b5dc6e795",
+      "bytes": 549084
+    },
+    {
+      "path": "landing-page-resource/images/astrostelia-the-waltz-of-falling-stars.webp",
+      "blobSha": "1b891fd6fefea4617e1780f57f0e6db41fa017b2",
+      "bytes": 526732
+    },
+    {
+      "path": "landing-page-resource/images/astrostelia.webp",
+      "blobSha": "6920c0e13bcf7489f5b483c21aa98f9ca2f0fd66",
+      "bytes": 25438
+    },
+    {
+      "path": "landing-page-resource/images/astrostelia1.webp",
+      "blobSha": "391c78708c39998264f5d6fb1391bc2d3e44b389",
+      "bytes": 67812
+    },
+    {
+      "path": "landing-page-resource/images/astrostelia2.webp",
+      "blobSha": "810b4dfba8353ca9aee656c13c37c8ca44d497b8",
+      "bytes": 82048
+    },
+    {
+      "path": "landing-page-resource/images/astrostelia3.webp",
+      "blobSha": "4e3431c52f7efd99f0a04d3341224e58153998e5",
+      "bytes": 60952
+    },
+    {
+      "path": "landing-page-resource/images/astrostelia4.webp",
+      "blobSha": "e309bb633dffea5f23e2d7b98e1b3db5e5ece48e",
+      "bytes": 89456
+    },
+    {
+      "path": "landing-page-resource/images/astrosteliaball.webp",
+      "blobSha": "9b9489d68e0e477be4ec73e8b1113a397cb53158",
+      "bytes": 23852
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia-astrostelia.webp",
+      "blobSha": "62bb4215b3bf8f677f3a4879a1b6bf5a9e9a08ee",
+      "bytes": 213834
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia-aurora-resonance.webp",
+      "blobSha": "513494eec26d6519b53da8e139e11c238a5cdd34",
+      "bytes": 389544
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia-governance-model.webp",
+      "blobSha": "cb6ba9309779f45143318367a3d175695cf9e5ac",
+      "bytes": 122102
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia-most-beautiful-realm-banner.webp",
+      "blobSha": "d34069c70e63af9bec3b13a6da92bc9573c25c24",
+      "bytes": 231182
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia-rhythm-heaven.webp",
+      "blobSha": "e7e1c3fc7346b9dd0e4e0f23e79727fed2ea7ac6",
+      "bytes": 165974
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia.webp",
+      "blobSha": "6e0703192e867d150539961c4faf1608235538e1",
+      "bytes": 41244
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia1.webp",
+      "blobSha": "51dd0a172692821f10d151b5cdd45799f33d3e0a",
+      "bytes": 116880
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia2.webp",
+      "blobSha": "6a314c0cca4a16997e590ca0d138d63d88578705",
+      "bytes": 77540
+    },
+    {
+      "path": "landing-page-resource/images/aurastelia3.webp",
+      "blobSha": "1bf3ee3f9feaa741a87cb48514a1857ce5217540",
+      "bytes": 103288
+    },
+    {
+      "path": "landing-page-resource/images/aurasteliaball.webp",
+      "blobSha": "ee9f58f194fcf7042e9a2bac7e70b30ba5a136c6",
+      "bytes": 46160
+    },
+    {
+      "path": "landing-page-resource/images/aurioneira-system.webp",
+      "blobSha": "5dcdccf2ec4004124d207fdef6e1f1a1d0748f64",
+      "bytes": 115530
+    },
+    {
+      "path": "landing-page-resource/images/aurioneira.webp",
+      "blobSha": "e6abc47418e9fad24fbdcf2eced15005ddfe933d",
+      "bytes": 80340
+    },
+    {
+      "path": "landing-page-resource/images/aurora-faith.webp",
+      "blobSha": "1b02f715e6e2b23be83930d5ca46482974d76935",
+      "bytes": 363250
+    },
+    {
+      "path": "landing-page-resource/images/aurora-plaza-workers-day.webp",
+      "blobSha": "06a316fab01adcf4cda6805197c76ba1f6f6d7ce",
+      "bytes": 169240
+    },
+    {
+      "path": "landing-page-resource/images/aurora-synchronization-tech.webp",
+      "blobSha": "079f547f9006e8302953369320843fa6fcd2f598",
+      "bytes": 122180
+    },
+    {
+      "path": "landing-page-resource/images/aurora-synthesia-ritual-dance.webp",
+      "blobSha": "a270cfe5439c6b6cf32b34f9f80b4a264b407f0c",
+      "bytes": 84142
+    },
+    {
+      "path": "landing-page-resource/images/aviashenwelt-accord.webp",
+      "blobSha": "eeb7fa1e4150fe8c411c92cbb233ac1555a2379c",
+      "bytes": 92124
+    },
+    {
+      "path": "landing-page-resource/images/aviashenwelt.webp",
+      "blobSha": "8649613622edee1e74c5144feba12ad5d92c7932",
+      "bytes": 68364
+    },
+    {
+      "path": "landing-page-resource/images/barry-heathrow.webp",
+      "blobSha": "6e5c35cefe93daa7528db99122cc95c28cb0281c",
+      "bytes": 111012
+    },
+    {
+      "path": "landing-page-resource/images/barry-heathrow1.webp",
+      "blobSha": "8b696cb7cceb5d314a2ee797bf05ca644d77dbb0",
+      "bytes": 62020
+    },
+    {
+      "path": "landing-page-resource/images/beluftner-cosmeilia-conflict.webp",
+      "blobSha": "e69604e79c28387d4c3c3ad16cb071f78bb2e498",
+      "bytes": 327764
+    },
+    {
+      "path": "landing-page-resource/images/beluftner.webp",
+      "blobSha": "8b360ed29d3a4f9193cf0fc65f9cb50280169cf7",
+      "bytes": 181494
+    },
+    {
+      "path": "landing-page-resource/images/beluftnerball.webp",
+      "blobSha": "2c38b51213ade159b60fb14446ab0072e42fffca",
+      "bytes": 33992
+    },
+    {
+      "path": "landing-page-resource/images/beyond-earth.webp",
+      "blobSha": "3179069244d79b9f9b06f7bcae0e76b01e7bd4ef",
+      "bytes": 106470
+    },
+    {
+      "path": "landing-page-resource/images/birthplace-reflection.webp",
+      "blobSha": "04888de75ef1e71c5c1491d36ce9f837f70b5389",
+      "bytes": 95018
+    },
+    {
+      "path": "landing-page-resource/images/boarding-pass-to-trouble.webp",
+      "blobSha": "c3749caff2b1354ea32ea0c5fdf88c9eda617104",
+      "bytes": 71324
+    },
+    {
+      "path": "landing-page-resource/images/brexar-veilthorn.webp",
+      "blobSha": "8dbb06305dad2777af5164a5112be22af797aa4d",
+      "bytes": 292996
+    },
+    {
+      "path": "landing-page-resource/images/brexar-veilthorn1.webp",
+      "blobSha": "9675b4292f97169e08416993b5308a75e1b45129",
+      "bytes": 92376
+    },
+    {
+      "path": "landing-page-resource/images/bruce-kalen.webp",
+      "blobSha": "2b8308af9879739e8edf7149dabf3e3ca90aaaa6",
+      "bytes": 68456
+    },
+    {
+      "path": "landing-page-resource/images/bureaucracy-bros.webp",
+      "blobSha": "00c2bb2de86129258303aa611edc08bd6156cf80",
+      "bytes": 54616
+    },
+    {
+      "path": "landing-page-resource/images/bytebite-poster.webp",
+      "blobSha": "75d9e13ea7bb6fe358d8589de08f657e380f4b42",
+      "bytes": 143346
+    },
+    {
+      "path": "landing-page-resource/images/bytebite.webp",
+      "blobSha": "d96aa10c8405d276da602a0c6a2115da554fc90c",
+      "bytes": 28234
+    },
+    {
+      "path": "landing-page-resource/images/calendar.webp",
+      "blobSha": "9cd468865b22b074a1f30cb112bf72e36287344a",
+      "bytes": 8242
+    },
+    {
+      "path": "landing-page-resource/images/calespiaball.webp",
+      "blobSha": "c0bf7baec30c768b5570ac98cb9392069d8f2a48",
+      "bytes": 38882
+    },
+    {
+      "path": "landing-page-resource/images/career-reality-statement.webp",
+      "blobSha": "33a168cc97f485df36373a499d9c995b79080d48",
+      "bytes": 221486
+    },
+    {
+      "path": "landing-page-resource/images/case-law-msa.webp",
+      "blobSha": "65997fb1354932b4448d225c81ee91ec24f8dd67",
+      "bytes": 349954
+    },
+    {
+      "path": "landing-page-resource/images/castela-jiggly-cake-reltronland.webp",
+      "blobSha": "4c1eebd4742c5c792d1fd4f2b06b11a095b700b7",
+      "bytes": 128186
+    },
+    {
+      "path": "landing-page-resource/images/castela-jiggly-cake-reltronland1.webp",
+      "blobSha": "83662bdbb62f0405434f13d0fe3ac229587bf61e",
+      "bytes": 72470
+    },
+    {
+      "path": "landing-page-resource/images/castela-jiggly-cake-reltronland2.webp",
+      "blobSha": "3f5c734ceea684ed98e30d7f27b30c66c3b74300",
+      "bytes": 127436
+    },
+    {
+      "path": "landing-page-resource/images/celdronyx.webp",
+      "blobSha": "ceac7189cc113df9cb7169ed3624d7b3ba013223",
+      "bytes": 25544
+    },
+    {
+      "path": "landing-page-resource/images/cenrestier-1-rhythm-heaven.webp",
+      "blobSha": "fbd5547e0d1eb9802150433c059f149781fe13b0",
+      "bytes": 210778
+    },
+    {
+      "path": "landing-page-resource/images/cenrestier-country-profile.webp",
+      "blobSha": "4a214a4a3b16ede81e058f952c5f088e81d942a3",
+      "bytes": 228076
+    },
+    {
+      "path": "landing-page-resource/images/cenrestier-rhythm-heaven.webp",
+      "blobSha": "f4bf7ab17d0875c818b02e4263acbfd960ff382a",
+      "bytes": 205042
+    },
+    {
+      "path": "landing-page-resource/images/cenrestier-the-eternal-citadel.webp",
+      "blobSha": "4189d7a70f9ccff7f0e54b453be400682d36d169",
+      "bytes": 521418
+    },
+    {
+      "path": "landing-page-resource/images/cenrestier-where-the-fortresses-stand.webp",
+      "blobSha": "3e7e7ff90e39971a05419eecfa2371c7c2d0f380",
+      "bytes": 455088
+    },
+    {
+      "path": "landing-page-resource/images/cenrestier1.webp",
+      "blobSha": "c5e9be8eab575d62d49dce9fa6584d4060c20cb6",
+      "bytes": 290364
+    },
+    {
+      "path": "landing-page-resource/images/cenrestier2.webp",
+      "blobSha": "ff378b3442edecaf4c2c6b77e0fbd50f070d9014",
+      "bytes": 122658
+    },
+    {
+      "path": "landing-page-resource/images/cenrestier3.webp",
+      "blobSha": "e1d32621d995b1b9cd063eaf48e92e4c1fc27526",
+      "bytes": 121428
+    },
+    {
+      "path": "landing-page-resource/images/cenrestierball.webp",
+      "blobSha": "62a4a480977b62f7a5fd3f651c900a147ef24f18",
+      "bytes": 21646
+    },
+    {
+      "path": "landing-page-resource/images/cera.webp",
+      "blobSha": "e676d9738f6b6db38e9ce3f2ad3caae51d01844a",
+      "bytes": 49762
+    },
+    {
+      "path": "landing-page-resource/images/certificate-trustworthy-user.webp",
+      "blobSha": "6ed1b9fe675070f0beaaee96b81a4a570976064d",
+      "bytes": 234000
+    },
+    {
+      "path": "landing-page-resource/images/chart-content-growth.webp",
+      "blobSha": "a5e58bc7074cda0a4455f8d75d72c3e0a1aecf43",
+      "bytes": 49686
+    },
+    {
+      "path": "landing-page-resource/images/chart-repo-growth.webp",
+      "blobSha": "33128c0e087bffdef7b6597aba7f9f93b4000723",
+      "bytes": 52938
+    },
+    {
+      "path": "landing-page-resource/images/children-of-asthortera.webp",
+      "blobSha": "702eb377c23c31c9d282d92bbb704cd47ea9a053",
+      "bytes": 156324
+    },
+    {
+      "path": "landing-page-resource/images/children-reltronland.webp",
+      "blobSha": "f5420aebe6c59accd5a841a5034b1d005718ca94",
+      "bytes": 57618
+    },
+    {
+      "path": "landing-page-resource/images/chiss-reltronland.webp",
+      "blobSha": "0b932186168769ee993d81e0b2582813ceca562d",
+      "bytes": 196874
+    },
+    {
+      "path": "landing-page-resource/images/cistheta_identity.webp",
+      "blobSha": "64a55215b85f826d5fcaa54e5492bf0b2e3cec58",
+      "bytes": 61742
+    },
+    {
+      "path": "landing-page-resource/images/cistheta-pyramid.webp",
+      "blobSha": "af2b0054fdba2435c964a8a2dda06091b8be25a7",
+      "bytes": 162044
+    },
+    {
+      "path": "landing-page-resource/images/civilian-starliner.webp",
+      "blobSha": "b2c432564f597d3382bbd9a9f1f670af00d0c375",
+      "bytes": 108204
+    },
+    {
+      "path": "landing-page-resource/images/civilizational-maturity-reltroner.webp",
+      "blobSha": "b7db131f6c61db424029e4579ed6b5c88e429247",
+      "bytes": 184268
+    },
+    {
+      "path": "landing-page-resource/images/civilizational-systems-worldbuilding-asthortera.webp",
+      "blobSha": "985da512b0e7804b2c9a7434849f2120632c3741",
+      "bytes": 397174
+    },
+    {
+      "path": "landing-page-resource/images/clarity-bank-of-reltronland.webp",
+      "blobSha": "bdddd5ac633b99db0f57664338924cbb4a58e4da",
+      "bytes": 145650
+    },
+    {
+      "path": "landing-page-resource/images/clarity-bank-of-reltronland1.webp",
+      "blobSha": "6e84921bfe95e7e2ecb9cfc4d9b460d17cdf7bb0",
+      "bytes": 43316
+    },
+    {
+      "path": "landing-page-resource/images/clarity-bank-of-reltronland2.webp",
+      "blobSha": "9679cce1bc5cdfb9b2188e65e68a707751da74f1",
+      "bytes": 120814
+    },
+    {
+      "path": "landing-page-resource/images/clarity-politics-reltronland.webp",
+      "blobSha": "b05cb267fdac2c8b86e81255ee34b39ee128be07",
+      "bytes": 47276
+    },
+    {
+      "path": "landing-page-resource/images/clarity-quarantine-network.webp",
+      "blobSha": "d040c3389c12f77921877e8e0eb7afc5354fbb2a",
+      "bytes": 146354
+    },
+    {
+      "path": "landing-page-resource/images/comicball-episode1.webp",
+      "blobSha": "8b6b02e25bfed08daf47c7e159cf6ad5fc8f4938",
+      "bytes": 127076
+    },
+    {
+      "path": "landing-page-resource/images/comicball-episode2.webp",
+      "blobSha": "e80ef4eac87ac742eb9ea94d819886c2fe5cbea0",
+      "bytes": 133318
+    },
+    {
+      "path": "landing-page-resource/images/comicball-episode3.webp",
+      "blobSha": "77d81a878aeb206d61777dd1a7443d604a34570a",
+      "bytes": 124576
+    },
+    {
+      "path": "landing-page-resource/images/comicball-episode4.webp",
+      "blobSha": "f6ece45c5dae9ef5ad602ad0cd3264c5f783fe4b",
+      "bytes": 151228
+    },
+    {
+      "path": "landing-page-resource/images/comicball-episode5.webp",
+      "blobSha": "68dd1c471baf7091e2719b8face14e084dcf175e",
+      "bytes": 81958
+    },
+    {
+      "path": "landing-page-resource/images/comicball.webp",
+      "blobSha": "239f631e71c4b0c20b2e4d038fff25f41297ec74",
+      "bytes": 42364
+    },
+    {
+      "path": "landing-page-resource/images/compounding-as-a-cheat-code.webp",
+      "blobSha": "c504ebe1a47a295041a7d6d4149c6db511298fbd",
+      "bytes": 65002
+    },
+    {
+      "path": "landing-page-resource/images/confronting-kamila.webp",
+      "blobSha": "4641c9eec28fddcd7d2e9c34efa384d6e4940567",
+      "bytes": 103232
+    },
+    {
+      "path": "landing-page-resource/images/contact-banner.webp",
+      "blobSha": "b1026d0e7b4069d67fafa83713376604e8b7a882",
+      "bytes": 84530
+    },
+    {
+      "path": "landing-page-resource/images/cosmeilia_identity.webp",
+      "blobSha": "0acd2879e5f59ae7b783263f0bd76387f219b386",
+      "bytes": 19696
+    },
+    {
+      "path": "landing-page-resource/images/cosmeilia-piramid.webp",
+      "blobSha": "8a830dc561c27d87776fadfea577f5734099c6ea",
+      "bytes": 160690
+    },
+    {
+      "path": "landing-page-resource/images/creative-lore-bible.webp",
+      "blobSha": "d67256f09ac67edc58d8a0d10e7352d721ce698c",
+      "bytes": 67424
+    },
+    {
+      "path": "landing-page-resource/images/crosswalk-dictionary-reltronic-deptic.webp",
+      "blobSha": "233a8758d5af5987d02f0bfc4a72bee3be185f11",
+      "bytes": 79334
+    },
+    {
+      "path": "landing-page-resource/images/crypto-infra-transition.webp",
+      "blobSha": "cd7ee22cc0b1a249ab01f4f1167fb3a3cc275ca7",
+      "bytes": 36432
+    },
+    {
+      "path": "landing-page-resource/images/culciv.webp",
+      "blobSha": "bef986d6fbcce64db63a8ac05564932ae8cd1576",
+      "bytes": 338758
+    },
+    {
+      "path": "landing-page-resource/images/cultural-exports.webp",
+      "blobSha": "060a415c81f517d56a21bfd591e7d0ad6faa28a9",
+      "bytes": 255250
+    },
+    {
+      "path": "landing-page-resource/images/culture-impact-index.webp",
+      "blobSha": "c2d2e7f49cd684af109114b4c34dbd7cd0cda46d",
+      "bytes": 182406
+    },
+    {
+      "path": "landing-page-resource/images/culwil.webp",
+      "blobSha": "f6f93e4a820125367c794d7db70fccd70ca23dad",
+      "bytes": 35486
+    },
+    {
+      "path": "landing-page-resource/images/cute-culture-reltronland.webp",
+      "blobSha": "c7e183e1f725016d97ffa5465adf65bd640cef58",
+      "bytes": 137036
+    },
+    {
+      "path": "landing-page-resource/images/cuteness-manifesto.webp",
+      "blobSha": "2c337549ad9736766245ed3dbfda1430fd17582b",
+      "bytes": 144548
+    },
+    {
+      "path": "landing-page-resource/images/daan-coen.webp",
+      "blobSha": "ef710dd772780fb8b86d18d3d7165b97ebfce8f1",
+      "bytes": 127792
+    },
+    {
+      "path": "landing-page-resource/images/dark-abyss.webp",
+      "blobSha": "f7995ed6d081437d4333d9a55cd18f581a5f8f7d",
+      "bytes": 143164
+    },
+    {
+      "path": "landing-page-resource/images/death-of-feudalism.webp",
+      "blobSha": "5bc77c0df0ffe40fb94a8a4e61b987661e969597",
+      "bytes": 333254
+    },
+    {
+      "path": "landing-page-resource/images/debugging-compounding.webp",
+      "blobSha": "57b8a5d326bdaf77b3225fdb7bae01b9fd20662c",
+      "bytes": 84118
+    },
+    {
+      "path": "landing-page-resource/images/debugging-victory-abyss.webp",
+      "blobSha": "bde06c00e248b8ae93685ecabcfa0cfa8a00e7cf",
+      "bytes": 139736
+    },
+    {
+      "path": "landing-page-resource/images/declaration-academic-liberation.webp",
+      "blobSha": "741dcd7e07d9bacb161194f1013d231855c5cc51",
+      "bytes": 219000
+    },
+    {
+      "path": "landing-page-resource/images/declaration-of-asthortera-supremacy.webp",
+      "blobSha": "1d5301ac6672f6666b611f62d2610217e410ce87",
+      "bytes": 181248
+    },
+    {
+      "path": "landing-page-resource/images/declaration-war-victory.webp",
+      "blobSha": "c5352bc471d34b51e3dfbb6551030d8de51f5118",
+      "bytes": 123522
+    },
+    {
+      "path": "landing-page-resource/images/delphirion.webp",
+      "blobSha": "183c759e3bfd32ac30f60a60a7a4f322c1b121bd",
+      "bytes": 50066
+    },
+    {
+      "path": "landing-page-resource/images/delwyn-harper.webp",
+      "blobSha": "40bcf3e08c953d655c12a20240ce2cb191fec302",
+      "bytes": 435916
+    },
+    {
+      "path": "landing-page-resource/images/delwyn-harper2.webp",
+      "blobSha": "863f343452379c39b2016401c6dfd9e2e39c7475",
+      "bytes": 281690
+    },
+    {
+      "path": "landing-page-resource/images/delwyn-harper3.webp",
+      "blobSha": "8e315daa94d2ddd25dda159db55e529a80c3e4d4",
+      "bytes": 237954
+    },
+    {
+      "path": "landing-page-resource/images/delwyn-harper4.webp",
+      "blobSha": "8750f98d0a92694c7a3c44176735d4028b8cbb89",
+      "bytes": 255774
+    },
+    {
+      "path": "landing-page-resource/images/depbar.webp",
+      "blobSha": "73cf6f97894e7d4ae581d53de9627bf7f18981bb",
+      "bytes": 212228
+    },
+    {
+      "path": "landing-page-resource/images/depcub.webp",
+      "blobSha": "adc797d15f27b24cd5c10693a2454207ccd1ff85",
+      "bytes": 288706
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-3.webp",
+      "blobSha": "81cfdba130a2bc680d55331568e68b5bddd79192",
+      "bytes": 264152
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-archival-sovereignty.webp",
+      "blobSha": "6d77c64216c972c8aecd815aea202e0c9a38fb99",
+      "bytes": 85134
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-custodial-reputation-canonical.webp",
+      "blobSha": "31ebd5c000376d9a33a00330a930c5b6cf0e22f0",
+      "bytes": 186398
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-founding.webp",
+      "blobSha": "298a861a11c87f3ab6d7aafc7c5b21ded2c2246a",
+      "bytes": 274232
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-music.webp",
+      "blobSha": "76d15031b7133e70db4fa0577b2cbb57fc785e94",
+      "bytes": 293014
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-reltronland-border.webp",
+      "blobSha": "7e31a330507b35d8ba8df80ce4d3a95f07547478",
+      "bytes": 123812
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-reltronland-summary.webp",
+      "blobSha": "c4ca4c4e2bb969ccf20f9a4c123c3b792a4e52f0",
+      "bytes": 83636
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-rhythm-heaven.webp",
+      "blobSha": "8804b988355ed57b866843ae5ff583f1f4c57e27",
+      "bytes": 184954
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-the-curious-archive.webp",
+      "blobSha": "761aed9db36b80377941cdce3b756128ab57eab2",
+      "bytes": 267944
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-the-endless-library.webp",
+      "blobSha": "3f6c373839242810120e35e919809c6e4c14ec11",
+      "bytes": 411970
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-the-grand-library.webp",
+      "blobSha": "fa2a79308ed9263c3fa445267c2586406e66c517",
+      "bytes": 533392
+    },
+    {
+      "path": "landing-page-resource/images/depcutland-the-secret-between-pages.webp",
+      "blobSha": "a7396e3d9119da9b0a7c031930dfe4041a29ea14",
+      "bytes": 227316
+    },
+    {
+      "path": "landing-page-resource/images/depcutland.webp",
+      "blobSha": "271ca6ce0899bc450eb314c1cb3011082305c5e7",
+      "bytes": 183818
+    },
+    {
+      "path": "landing-page-resource/images/depcutland1.webp",
+      "blobSha": "d8bd7a8ca808d09606d255010d9dc5c8cc6a76f0",
+      "bytes": 325440
+    },
+    {
+      "path": "landing-page-resource/images/depcutland2.webp",
+      "blobSha": "6dd349ba5b278c6019787baec0763dcd58fe470a",
+      "bytes": 344294
+    },
+    {
+      "path": "landing-page-resource/images/depcutland4.webp",
+      "blobSha": "59c1b4d5574d1811960e99820518d722001d5bd0",
+      "bytes": 258538
+    },
+    {
+      "path": "landing-page-resource/images/depcutlandball.webp",
+      "blobSha": "5b961bd4405c069aca979e7c12e9b8b10c2bbc8e",
+      "bytes": 28012
+    },
+    {
+      "path": "landing-page-resource/images/depeisit_identity.webp",
+      "blobSha": "847c2678815627dc4206b9b9652e729bf07b90d9",
+      "bytes": 74126
+    },
+    {
+      "path": "landing-page-resource/images/depeisit-piramid.webp",
+      "blobSha": "1936d5f2c93ca9fdad8622130a5c5e1b5c720b8c",
+      "bytes": 161938
+    },
+    {
+      "path": "landing-page-resource/images/diplomatic-ark-shuttle.webp",
+      "blobSha": "c5ea415821e83ec8f05470b3e66884efa6010e5d",
+      "bytes": 97058
+    },
+    {
+      "path": "landing-page-resource/images/direktori-listing.webp",
+      "blobSha": "04ae261ff50c9eef818a219893740c07f86b0e33",
+      "bytes": 185696
+    },
+    {
+      "path": "landing-page-resource/images/doctrine-rsc-vs-empire.webp",
+      "blobSha": "2d6b9ba83aa8ab3bda47459df75f7ead2e12116e",
+      "bytes": 178980
+    },
+    {
+      "path": "landing-page-resource/images/dual-sympathies-doctrine.webp",
+      "blobSha": "488554a0a97d7364ac9fdec8ca1092b38e72c6a1",
+      "bytes": 56754
+    },
+    {
+      "path": "landing-page-resource/images/earth-pyramid.webp",
+      "blobSha": "05dec32c9e6d93f48bdfe4cd9e4d2e4591dde178",
+      "bytes": 31138
+    },
+    {
+      "path": "landing-page-resource/images/education-civilization-index.webp",
+      "blobSha": "043ef3c11efd335364f29318bf93170fdeb0115c",
+      "bytes": 117312
+    },
+    {
+      "path": "landing-page-resource/images/elite-interceptor-wings.webp",
+      "blobSha": "30d6b6119522cdee1fe11ac7fd7a25b9fba1996c",
+      "bytes": 32324
+    },
+    {
+      "path": "landing-page-resource/images/endless-library-of-depcutland.webp",
+      "blobSha": "0fd24c4818a2badff4cba89941ba7a29499c32cb",
+      "bytes": 546246
+    },
+    {
+      "path": "landing-page-resource/images/endless-library.webp",
+      "blobSha": "e41a43dcd8be7429ec11bfe97e628da7d5d67b31",
+      "bytes": 158688
+    },
+    {
+      "path": "landing-page-resource/images/energy-codex-949.webp",
+      "blobSha": "4406b66d48a106bc2647e82b51c07d8597c21f68",
+      "bytes": 230240
+    },
+    {
+      "path": "landing-page-resource/images/entering-the-core-eater.webp",
+      "blobSha": "73332f3fabb4262f97728f30d34f2517905ce20c",
+      "bytes": 81524
+    },
+    {
+      "path": "landing-page-resource/images/entropy-firewall.webp",
+      "blobSha": "a6979f791e53ce61988dba3d57e25abb198b7885",
+      "bytes": 78082
+    },
+    {
+      "path": "landing-page-resource/images/erterna-ruin.webp",
+      "blobSha": "0bfbf2733882155392db6ba077d41902be88b7e0",
+      "bytes": 202674
+    },
+    {
+      "path": "landing-page-resource/images/ethaptoriaball.webp",
+      "blobSha": "9b228b685e40bd32f5f69f16be9f2029ffadb778",
+      "bytes": 32576
+    },
+    {
+      "path": "landing-page-resource/images/evara-alena.webp",
+      "blobSha": "bad2347c389f8ef7e40e7ef37261b605a1f09358",
+      "bytes": 136562
+    },
+    {
+      "path": "landing-page-resource/images/events.webp",
+      "blobSha": "3e45d9f35c88dd4ff44a6334e5d358c74fc3ec77",
+      "bytes": 279696
+    },
+    {
+      "path": "landing-page-resource/images/existential-corrosion.webp",
+      "blobSha": "6a8bd46345e3f7c184a2d71dac2a8b4a75972348",
+      "bytes": 114034
+    },
+    {
+      "path": "landing-page-resource/images/external-creator-handbook.webp",
+      "blobSha": "121b83ea4df509622ff746cae062be77dde16316",
+      "bytes": 89792
+    },
+    {
+      "path": "landing-page-resource/images/faith-asthortera.webp",
+      "blobSha": "047d8522e0fc3881a63852c06596882d631c0a3e",
+      "bytes": 48660
+    },
+    {
+      "path": "landing-page-resource/images/fall-in-love.webp",
+      "blobSha": "74072df6f1365b866fd61b30394322d839e9396e",
+      "bytes": 52004
+    },
+    {
+      "path": "landing-page-resource/images/false-portal.webp",
+      "blobSha": "1abef03db4291f172195efc64869acc4b92b5e5b",
+      "bytes": 18638
+    },
+    {
+      "path": "landing-page-resource/images/fashion-culture.webp",
+      "blobSha": "2eedf9f51a35a23157192913fe167ef1c42813fa",
+      "bytes": 287686
+    },
+    {
+      "path": "landing-page-resource/images/fiction-summons-reality.webp",
+      "blobSha": "0e293e5479ec7bf5343248efddb29b2f5ec898a6",
+      "bytes": 138674
+    },
+    {
+      "path": "landing-page-resource/images/filling-institutional-gap.webp",
+      "blobSha": "c66b0fde08e5d25f03bc8f23481627e2aa9da81b",
+      "bytes": 177802
+    },
+    {
+      "path": "landing-page-resource/images/final-awakening.webp",
+      "blobSha": "780f0c7d5bded1dce97e0e77bb84aa56cc5b413d",
+      "bytes": 137430
+    },
+    {
+      "path": "landing-page-resource/images/first-10-years.webp",
+      "blobSha": "70934964311bc6098bd467d0e0f7769b2258daa0",
+      "bytes": 136870
+    },
+    {
+      "path": "landing-page-resource/images/first-contact.webp",
+      "blobSha": "f6344e65dbe54f099e8b2d891af532a2fc76e45a",
+      "bytes": 52928
+    },
+    {
+      "path": "landing-page-resource/images/first-seeds-banner.webp",
+      "blobSha": "2a85e29f06e5bca4c86f8ab55938b229c79c6886",
+      "bytes": 232490
+    },
+    {
+      "path": "landing-page-resource/images/five-awakening-signals.webp",
+      "blobSha": "3cb03c580249469fa2d7efada1be412e35b5abf3",
+      "bytes": 171178
+    },
+    {
+      "path": "landing-page-resource/images/for-recruiters-banner.webp",
+      "blobSha": "d343ee9729ad86d3ce992dbaa5d98c20f908068d",
+      "bytes": 147510
+    },
+    {
+      "path": "landing-page-resource/images/formula1.webp",
+      "blobSha": "e0d8da04c1c501cd9a8fcbd1de4c39ad8e306d3b",
+      "bytes": 5066
+    },
+    {
+      "path": "landing-page-resource/images/formula2.webp",
+      "blobSha": "93e0830435f1c15a790c1c9f2818833c8d503943",
+      "bytes": 6596
+    },
+    {
+      "path": "landing-page-resource/images/formula3.webp",
+      "blobSha": "658c849b776392b70e7d9afd4fe6ad24cfbb335f",
+      "bytes": 18450
+    },
+    {
+      "path": "landing-page-resource/images/formula4.webp",
+      "blobSha": "3511177568224e280869e1969e6d8c2543fb9e80",
+      "bytes": 2780
+    },
+    {
+      "path": "landing-page-resource/images/formula5.webp",
+      "blobSha": "8acb0243844d563f5ad5169e78597905eb12c678",
+      "bytes": 5450
+    },
+    {
+      "path": "landing-page-resource/images/formula6.webp",
+      "blobSha": "2dfba527008adf68247e0fc9a075fa61b8712ea3",
+      "bytes": 9650
+    },
+    {
+      "path": "landing-page-resource/images/formula7.webp",
+      "blobSha": "5d791865c402b17513a649413be3de4d7c49a762",
+      "bytes": 6392
+    },
+    {
+      "path": "landing-page-resource/images/formula8.webp",
+      "blobSha": "2898e2636edb3752bc7c0fb678758a5dbd9c7daa",
+      "bytes": 3210
+    },
+    {
+      "path": "landing-page-resource/images/four-thrones.webp",
+      "blobSha": "7a03282b83203d28ae66e933b17295e7dfb87218",
+      "bytes": 159776
+    },
+    {
+      "path": "landing-page-resource/images/fractal-civilizations.webp",
+      "blobSha": "ffd15e8e7a29fe24577f59b70e3f262c9f42e849",
+      "bytes": 146728
+    },
+    {
+      "path": "landing-page-resource/images/franklin-scouter.webp",
+      "blobSha": "734fc3015112e9a7f92161f4d70465a7ea5df8b2",
+      "bytes": 326156
+    },
+    {
+      "path": "landing-page-resource/images/from-loss-to-systems.webp",
+      "blobSha": "c66b0fde08e5d25f03bc8f23481627e2aa9da81b",
+      "bytes": 177802
+    },
+    {
+      "path": "landing-page-resource/images/from-threat-to-blessing-solarflare.webp",
+      "blobSha": "c13d7eb79c1a77cc7b3785b429ff1221ef7d2e71",
+      "bytes": 148744
+    },
+    {
+      "path": "landing-page-resource/images/fullstack-interview-summary.webp",
+      "blobSha": "78ae73fcaba3b90a9e564d9729b57fc9a76fedbc",
+      "bytes": 141504
+    },
+    {
+      "path": "landing-page-resource/images/fullstack-interview-summary1.webp",
+      "blobSha": "c0579ed8846d6bf0097612e852da0f7b914712b4",
+      "bytes": 63822
+    },
+    {
+      "path": "landing-page-resource/images/funded-roadmap.webp",
+      "blobSha": "a36089b440013acd9bb55cf1e22c2f57f2a01697",
+      "bytes": 42760
+    },
+    {
+      "path": "landing-page-resource/images/galactic-alignment-treaty.webp",
+      "blobSha": "afe45aef6c9f85d062d916e2d67b81a699cbf9ca",
+      "bytes": 106650
+    },
+    {
+      "path": "landing-page-resource/images/gen-z-alpha-market-potential.webp",
+      "blobSha": "9a2fb29bf257f56cc7e15bb77b07f8cc2ea05761",
+      "bytes": 146170
+    },
+    {
+      "path": "landing-page-resource/images/gender-friendship-manifesto.webp",
+      "blobSha": "bf8d859b292ab6065684624f271533be5308476b",
+      "bytes": 126650
+    },
+    {
+      "path": "landing-page-resource/images/georger-woodman.webp",
+      "blobSha": "8212050adb5441bf5477602519dc8432984fae20",
+      "bytes": 241108
+    },
+    {
+      "path": "landing-page-resource/images/global-education-mandate.webp",
+      "blobSha": "6507fcb2fe73083cb542c082c550a9678522e8c1",
+      "bytes": 83926
+    },
+    {
+      "path": "landing-page-resource/images/gptplus.webp",
+      "blobSha": "ec333e98cf1562c302a3ec22c038c74663357e22",
+      "bytes": 83354
+    },
+    {
+      "path": "landing-page-resource/images/graphicoresovereigntymanifesto.webp",
+      "blobSha": "f368b6bf7f883a8fddd437e0a292b353cbf20cd3",
+      "bytes": 283436
+    },
+    {
+      "path": "landing-page-resource/images/graphicorespec-log.webp",
+      "blobSha": "6e1591737df655558a88395aa5b55f346d1ab9d1",
+      "bytes": 168568
+    },
+    {
+      "path": "landing-page-resource/images/graphicorespec.webp",
+      "blobSha": "cec821ffa61e2d6fac5640232912e17f0bdc2304",
+      "bytes": 228056
+    },
+    {
+      "path": "landing-page-resource/images/great-clearance-963bac.webp",
+      "blobSha": "ee320288212dfcc24a59974ce27cc769ae7aa8c6",
+      "bytes": 199450
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor-a-perfect-day-at-the-coast.webp",
+      "blobSha": "693b38930fc2d5868a4c683029356855219069c6",
+      "bytes": 304010
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor-paradise-by-the-waves.webp",
+      "blobSha": "0eb7a206d1f9a857174a829d09692bcb89343a4b",
+      "bytes": 542188
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor-rhythm-heaven.webp",
+      "blobSha": "c10c9443ba331b6690bdc2365b45c50f7cc0a062",
+      "bytes": 242038
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor.webp",
+      "blobSha": "1b60f93a39ff0e9dbe9483a50cfd6a481bd52eeb",
+      "bytes": 50886
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor1.webp",
+      "blobSha": "32bc2e9bdc07a44901103a27555a1e252f93657c",
+      "bytes": 173576
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor2.webp",
+      "blobSha": "649499bd84f6a5ecd4f40e96db0458d57f3aad51",
+      "bytes": 125336
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor3.webp",
+      "blobSha": "113529e2dd0bde7d58bc7ad1a1c6075c4f3ae31e",
+      "bytes": 89592
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor4.webp",
+      "blobSha": "e48da6bd4f3b79489f30f83419241fdacc18507a",
+      "bytes": 249914
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor5.webp",
+      "blobSha": "345d2bf48fe924b472be3667cb56563ccd672ab5",
+      "bytes": 375440
+    },
+    {
+      "path": "landing-page-resource/images/hargenbor6.webp",
+      "blobSha": "2c86f8ac1fb2ab61777400165c1945ffaf3982f9",
+      "bytes": 255840
+    },
+    {
+      "path": "landing-page-resource/images/hargenborball.webp",
+      "blobSha": "587cd31b5ad12e9b2e5fa0a1dabad4cbebf6a51c",
+      "bytes": 26758
+    },
+    {
+      "path": "landing-page-resource/images/henchoway-underground.webp",
+      "blobSha": "344721cc3e90f4c8138ec8296010b9bfac8a1159",
+      "bytes": 270110
+    },
+    {
+      "path": "landing-page-resource/images/henchoway.webp",
+      "blobSha": "b4ee577dbcd258173935b5972873e1a4a6b3c8b6",
+      "bytes": 15442
+    },
+    {
+      "path": "landing-page-resource/images/hidden-threads-depcutland.webp",
+      "blobSha": "b609d6740a86fea0ab01d8b146a3cc90de0d7972",
+      "bytes": 221002
+    },
+    {
+      "path": "landing-page-resource/images/history-timeline-2.webp",
+      "blobSha": "35772d635c61558866234c27b9c2cf006eeda4dc",
+      "bytes": 138878
+    },
+    {
+      "path": "landing-page-resource/images/history-timeline1.webp",
+      "blobSha": "1fad74fcc6871b5589fc4ccef9b1c9698f3217b4",
+      "bytes": 217200
+    },
+    {
+      "path": "landing-page-resource/images/how-the-abyss-feeds.webp",
+      "blobSha": "2eacd82f5e511f54cfc1b465eca1c0b0fc1736fc",
+      "bytes": 127004
+    },
+    {
+      "path": "landing-page-resource/images/humanoid-standard-doctrine.webp",
+      "blobSha": "03d75a4f3becd4ed672a9d6ee35c9e23b0fe7275",
+      "bytes": 122312
+    },
+    {
+      "path": "landing-page-resource/images/hyneira.webp",
+      "blobSha": "7e2cafc146ce1e85458e3884178be13c6d3e3db3",
+      "bytes": 20998
+    },
+    {
+      "path": "landing-page-resource/images/hyperloop-corridor-1.webp",
+      "blobSha": "7856c531f0820a5f10e10af1c89e3cda253f20a3",
+      "bytes": 120588
+    },
+    {
+      "path": "landing-page-resource/images/hyperloop-corridor-6.webp",
+      "blobSha": "6f412968061bc9772bb029b0a53a0c168f71ed48",
+      "bytes": 170364
+    },
+    {
+      "path": "landing-page-resource/images/hyperloop-corridor-8.webp",
+      "blobSha": "1836c689d69246146aa668990b0a8fc1c36a71b4",
+      "bytes": 188754
+    },
+    {
+      "path": "landing-page-resource/images/hyperspace-energy-model-with-tetration.webp",
+      "blobSha": "b8ec36ac5522e5fef53463d349f4d93fe57c7c98",
+      "bytes": 31952
+    },
+    {
+      "path": "landing-page-resource/images/hyperspace-table.webp",
+      "blobSha": "bc0ca35bbb80dedcb378e06b31598952687cbba6",
+      "bytes": 25516
+    },
+    {
+      "path": "landing-page-resource/images/i-saw-the-invisible-darkness.webp",
+      "blobSha": "234c1cb0067bd90dbaab8502016b37a006ca2dac",
+      "bytes": 90480
+    },
+    {
+      "path": "landing-page-resource/images/ide-theft-phenomenon.webp",
+      "blobSha": "f15e6e0dee532199ce5a0f7e6ef201c7190c018b",
+      "bytes": 82812
+    },
+    {
+      "path": "landing-page-resource/images/illusion-of-forecasting.webp",
+      "blobSha": "3b50556c3d67494695fd73cd032a8fee8584cb5d",
+      "bytes": 90908
+    },
+    {
+      "path": "landing-page-resource/images/ilumineapolis.webp",
+      "blobSha": "3bdb8e376e6dc5ad93d1123cf84696694d824335",
+      "bytes": 265288
+    },
+    {
+      "path": "landing-page-resource/images/ilumineapolis1.webp",
+      "blobSha": "7143ba325f6e8f30d3cdaa21e0b7eef5970c2ebd",
+      "bytes": 262654
+    },
+    {
+      "path": "landing-page-resource/images/ilumineapolis2.webp",
+      "blobSha": "7c69a8f01acf13c68b7d8bf2d1aa8d1e4a408528",
+      "bytes": 296860
+    },
+    {
+      "path": "landing-page-resource/images/immortality-model-architecture.webp",
+      "blobSha": "92dc471df89b16045bb48ee6a0a6c29b54b94173",
+      "bytes": 149912
+    },
+    {
+      "path": "landing-page-resource/images/immortality-protocol.webp",
+      "blobSha": "d47f3faf3e212a4042f50f0eea18c4c137534267",
+      "bytes": 70612
+    },
+    {
+      "path": "landing-page-resource/images/international-family.webp",
+      "blobSha": "2e4b545c85c655a80327ee692079b8efabdbe984",
+      "bytes": 151624
+    },
+    {
+      "path": "landing-page-resource/images/interstellar-freighter.webp",
+      "blobSha": "cdd5ad9770e433dbf3f9ce5aa6c48174d40a3929",
+      "bytes": 109910
+    },
+    {
+      "path": "landing-page-resource/images/interstellar-mobility-index.webp",
+      "blobSha": "39b59e3ad21ce03899a4b0d50fb330b5497fe510",
+      "bytes": 120404
+    },
+    {
+      "path": "landing-page-resource/images/irreplaceable-value.webp",
+      "blobSha": "1ff8a68fb2820f08d899fbfe5b4af5a9d2792fc6",
+      "bytes": 172072
+    },
+    {
+      "path": "landing-page-resource/images/isaac-luminar.webp",
+      "blobSha": "080262f9fd0f1845dbe536bb7a0a00b875611b7a",
+      "bytes": 258728
+    },
+    {
+      "path": "landing-page-resource/images/japan-closest-equivalent-to-asthortera.webp",
+      "blobSha": "8d5893f46cdb4409f72d0212acb5cb8b7cd8fab4",
+      "bytes": 72300
+    },
+    {
+      "path": "landing-page-resource/images/kalgered-cosmeilia-transit-agreement.webp",
+      "blobSha": "12689bde82adce4303ce364bf82ffe347212be82",
+      "bytes": 124052
+    },
+    {
+      "path": "landing-page-resource/images/kalgered-country-profile.webp",
+      "blobSha": "03a432d57d7b7dcf5f56c8e56027da27fc8f3e06",
+      "bytes": 163356
+    },
+    {
+      "path": "landing-page-resource/images/kalgered-rhythm-heaven.webp",
+      "blobSha": "e504c8de775151a036699770c26294aa0fb9b8eb",
+      "bytes": 235726
+    },
+    {
+      "path": "landing-page-resource/images/kalgered-stelpadland-doctrine.webp",
+      "blobSha": "ad23414f67bdf356b35af115de9dfa73cda083dc",
+      "bytes": 92880
+    },
+    {
+      "path": "landing-page-resource/images/kalgered-the-mountain-accord.webp",
+      "blobSha": "c76e288565e278d25e1634eec7848435dc2c8d9d",
+      "bytes": 572738
+    },
+    {
+      "path": "landing-page-resource/images/kalgered-the-neutral-waltz.webp",
+      "blobSha": "973e794a4723e2a9f162f503b9c90e20ce5a0382",
+      "bytes": 566892
+    },
+    {
+      "path": "landing-page-resource/images/kalgered1.webp",
+      "blobSha": "3b23983412cf50c5f66cc4d476579a5fae17731d",
+      "bytes": 194454
+    },
+    {
+      "path": "landing-page-resource/images/kalgered2.webp",
+      "blobSha": "4ebf686c4d2ccd2f621fe90da4e4664328dfa280",
+      "bytes": 126704
+    },
+    {
+      "path": "landing-page-resource/images/kalgeredball.webp",
+      "blobSha": "3046a259e265c08de204875f251aa05c0de10061",
+      "bytes": 27340
+    },
+    {
+      "path": "landing-page-resource/images/kamila-alena-1.webp",
+      "blobSha": "b8aee7cea5cf54c18ca019b4d0f62dd4bbe620fe",
+      "bytes": 70232
+    },
+    {
+      "path": "landing-page-resource/images/kamila-x-rei-before-exit.webp",
+      "blobSha": "a05ebac1d78088209e84f491b415db15d7dd2766",
+      "bytes": 31026
+    },
+    {
+      "path": "landing-page-resource/images/landing-page.webp",
+      "blobSha": "129fa5c5f1f002a420f0dfc1c782e477bb332582",
+      "bytes": 293774
+    },
+    {
+      "path": "landing-page-resource/images/language-paradox-reltroner.webp",
+      "blobSha": "68ff4a98d480c6cb0efc7be0cd3362daf719b374",
+      "bytes": 137970
+    },
+    {
+      "path": "landing-page-resource/images/larson-falkner.webp",
+      "blobSha": "0a649e1a01290883b179bfa2ee962606cdc9227e",
+      "bytes": 191006
+    },
+    {
+      "path": "landing-page-resource/images/leastroper-krisberia.webp",
+      "blobSha": "2f9afe62388630d33401c5ff4819a6532d4ff553",
+      "bytes": 137672
+    },
+    {
+      "path": "landing-page-resource/images/leastroper-profile.webp",
+      "blobSha": "cc2f56ddc3da63a8623cf7afebeef4410e73001d",
+      "bytes": 77238
+    },
+    {
+      "path": "landing-page-resource/images/legacy-of-resistance-returns.webp",
+      "blobSha": "caee12b7a0bad75304548bdee05dedc77007ab73",
+      "bytes": 97402
+    },
+    {
+      "path": "landing-page-resource/images/legacy-of-resistance.webp",
+      "blobSha": "e0169f2948af2744d488efdcadd20964fd5a2892",
+      "bytes": 202462
+    },
+    {
+      "path": "landing-page-resource/images/legacy.webp",
+      "blobSha": "70412e82d66af4529a1d834901e500444428941f",
+      "bytes": 113058
+    },
+    {
+      "path": "landing-page-resource/images/legal-disclaimer.webp",
+      "blobSha": "add508aa1cdd67cf49b06bcb66f82374e0088a0a",
+      "bytes": 69258
+    },
+    {
+      "path": "landing-page-resource/images/legendary-tier-distribution.webp",
+      "blobSha": "45e74cf3ff13294d6fe435af9050a6e2533e4652",
+      "bytes": 348294
+    },
+    {
+      "path": "landing-page-resource/images/lenternow-light-between-the-streets.webp",
+      "blobSha": "fdf43a75326cc3c28edec384cf8ec5899cf21f97",
+      "bytes": 394110
+    },
+    {
+      "path": "landing-page-resource/images/lenternow-rhythm-heaven.webp",
+      "blobSha": "12b18d162d7e46126d87fef870037a007e4e34e3",
+      "bytes": 252912
+    },
+    {
+      "path": "landing-page-resource/images/lenternow-still-glowing.webp",
+      "blobSha": "389bca0dd6f150deb0e41f424f3821cf69f8820a",
+      "bytes": 243508
+    },
+    {
+      "path": "landing-page-resource/images/lenternow-where-the-lanterns-stay.webp",
+      "blobSha": "5cd22dffe29074e382e77949719a898eb37122ee",
+      "bytes": 275868
+    },
+    {
+      "path": "landing-page-resource/images/lenternow.webp",
+      "blobSha": "12be3dcb29004c362863725717a93b6c502735e8",
+      "bytes": 24452
+    },
+    {
+      "path": "landing-page-resource/images/lenternow1.webp",
+      "blobSha": "150b7a9d33f92daf70325ed7ebf0accde7141121",
+      "bytes": 123576
+    },
+    {
+      "path": "landing-page-resource/images/lenternow2.webp",
+      "blobSha": "49884cc905bc74068c98e2db1de200618f21963e",
+      "bytes": 112352
+    },
+    {
+      "path": "landing-page-resource/images/lenternow3.webp",
+      "blobSha": "55e3c7131709b5f4b5cb8fe78b7fc8af5b55fdca",
+      "bytes": 52970
+    },
+    {
+      "path": "landing-page-resource/images/lenternowball.webp",
+      "blobSha": "0bfaa8afe1df701f281f371062ed5b2db0946039",
+      "bytes": 35126
+    },
+    {
+      "path": "landing-page-resource/images/life-as-a-system-architect.webp",
+      "blobSha": "929059d3df69afe7894b67e2e80c6793797a573d",
+      "bytes": 211934
+    },
+    {
+      "path": "landing-page-resource/images/litlle-rere-jet.webp",
+      "blobSha": "fb336971d2ed129e59891692f0c5baf156a06286",
+      "bytes": 314310
+    },
+    {
+      "path": "landing-page-resource/images/little-rei-sticker.webp",
+      "blobSha": "0a8e8fe1e135f834be6214fb112d26cfc44443a5",
+      "bytes": 121284
+    },
+    {
+      "path": "landing-page-resource/images/llyn-geda.webp",
+      "blobSha": "6a4a79a131073ba9b959016c7a3fe167abab6fcf",
+      "bytes": 184656
+    },
+    {
+      "path": "landing-page-resource/images/locationexample.webp",
+      "blobSha": "022f5c2e75eea2122fd0ab602fcfcbb230d110b5",
+      "bytes": 371522
+    },
+    {
+      "path": "landing-page-resource/images/locations.webp",
+      "blobSha": "c70e9dff0dcd6724d0134629cb679a597cdbe190",
+      "bytes": 330510
+    },
+    {
+      "path": "landing-page-resource/images/logo.webp",
+      "blobSha": "3da3466c3373ac17ae44cab64ede3e004a5a9ad2",
+      "bytes": 5130
+    },
+    {
+      "path": "landing-page-resource/images/lorebook-asthortera.webp",
+      "blobSha": "465a83fcd30724c334808a9b88e3f6baf69c58ca",
+      "bytes": 549686
+    },
+    {
+      "path": "landing-page-resource/images/magic-astralis-nytherion.webp",
+      "blobSha": "3f128ba36a7c580b40a357043f0a75401ec51b92",
+      "bytes": 179570
+    },
+    {
+      "path": "landing-page-resource/images/manifesto-leadership.webp",
+      "blobSha": "17398ccbe6757abfb8006eae83d9f7d0157265b8",
+      "bytes": 177210
+    },
+    {
+      "path": "landing-page-resource/images/mapetherball.webp",
+      "blobSha": "0fef5959ceab95f37d7676eb8cc70c0d676fd817",
+      "bytes": 32908
+    },
+    {
+      "path": "landing-page-resource/images/mask-reltronland.webp",
+      "blobSha": "b04d2e7ddf0a15de59e5b66ba851aa697f2621bc",
+      "bytes": 127044
+    },
+    {
+      "path": "landing-page-resource/images/meeting-reltronland.webp",
+      "blobSha": "0fab3f11c36b92b1085b8e6167a494876cbc3206",
+      "bytes": 91120
+    },
+    {
+      "path": "landing-page-resource/images/midnight-awakening-field-study.webp",
+      "blobSha": "9a3bd8cf69756d52958158639a9334e88904ac97",
+      "bytes": 16330
+    },
+    {
+      "path": "landing-page-resource/images/mimbixs.webp",
+      "blobSha": "71895a9e6c8075aa2b49a14a2ada2ff004f8dad3",
+      "bytes": 52626
+    },
+    {
+      "path": "landing-page-resource/images/mimbixs1.webp",
+      "blobSha": "f4305be7d2b54979ce0270c7217a2b9d9d6faa85",
+      "bytes": 39402
+    },
+    {
+      "path": "landing-page-resource/images/mimbixs2.webp",
+      "blobSha": "10bda76be9d25bba830c1c1e46e0ad4e9920b39a",
+      "bytes": 42624
+    },
+    {
+      "path": "landing-page-resource/images/mimbixs3.webp",
+      "blobSha": "505d7e415d0e0bf5aee588f543183c938039e2dc",
+      "bytes": 40828
+    },
+    {
+      "path": "landing-page-resource/images/mimbixs4.webp",
+      "blobSha": "51d2a50ba5e26d5a756976b4ea47095e5bc57b20",
+      "bytes": 43736
+    },
+    {
+      "path": "landing-page-resource/images/mimbixs5.webp",
+      "blobSha": "9f1828b36d324eb227d6de887485445254388ab0",
+      "bytes": 38564
+    },
+    {
+      "path": "landing-page-resource/images/mimbixs6.webp",
+      "blobSha": "fe06289d997052e97ee8f6062caced6773b7441a",
+      "bytes": 34806
+    },
+    {
+      "path": "landing-page-resource/images/mini-deptic-dictionary.webp",
+      "blobSha": "6df5e904c6b9626378a899ed265db91f96e0b7e0",
+      "bytes": 150518
+    },
+    {
+      "path": "landing-page-resource/images/misjudged-builders.webp",
+      "blobSha": "d71de17aa9fe09ad735f9146600406067db825f4",
+      "bytes": 86824
+    },
+    {
+      "path": "landing-page-resource/images/modular-development-act-reltronland.webp",
+      "blobSha": "65997fb1354932b4448d225c81ee91ec24f8dd67",
+      "bytes": 349954
+    },
+    {
+      "path": "landing-page-resource/images/moreg-machine-mechanism1.webp",
+      "blobSha": "3a7e328dc8f1cebab956b74644008be1b7ebcdd3",
+      "bytes": 223932
+    },
+    {
+      "path": "landing-page-resource/images/moreg-rhythm-heaven.webp",
+      "blobSha": "b67d047211850fd0854b0d42e2338035bb9058fa",
+      "bytes": 217792
+    },
+    {
+      "path": "landing-page-resource/images/moreg-the-manufacturer.webp",
+      "blobSha": "4ec3dcd1d69cbe385b7172252ee41ed4f91a63ab",
+      "bytes": 371578
+    },
+    {
+      "path": "landing-page-resource/images/moreg.webp",
+      "blobSha": "1bdb244f04a151d31aa8d1f919737c789fcce6fb",
+      "bytes": 211404
+    },
+    {
+      "path": "landing-page-resource/images/moreg1.webp",
+      "blobSha": "3374d92a86defc18d6213506e524230f92b4d561",
+      "bytes": 186672
+    },
+    {
+      "path": "landing-page-resource/images/moreg2.webp",
+      "blobSha": "2564a2a54193f4651b60872a4c559c74507cddc5",
+      "bytes": 118724
+    },
+    {
+      "path": "landing-page-resource/images/moreg3.webp",
+      "blobSha": "46e2772fb32867da1996baeec195af36a655937e",
+      "bytes": 267178
+    },
+    {
+      "path": "landing-page-resource/images/moregball.webp",
+      "blobSha": "2dc4dc3a890b38757046546f8264071884ae3473",
+      "bytes": 28752
+    },
+    {
+      "path": "landing-page-resource/images/moris-monte.webp",
+      "blobSha": "9f986747aa94db8e9ae3389d3f96ed6ad52bc095",
+      "bytes": 234308
+    },
+    {
+      "path": "landing-page-resource/images/moris-monte2.webp",
+      "blobSha": "2240de54a48420f978054011c0ddf415fd2b542c",
+      "bytes": 218364
+    },
+    {
+      "path": "landing-page-resource/images/multidimensional-sovereignty-act.webp",
+      "blobSha": "54956bee3177b506f84d7bd151964c626fb58659",
+      "bytes": 348888
+    },
+    {
+      "path": "landing-page-resource/images/multirealm-authority.webp",
+      "blobSha": "d4cb63688d62222cbd4c37285377b670ef0de5ec",
+      "bytes": 177220
+    },
+    {
+      "path": "landing-page-resource/images/nathan-harry.webp",
+      "blobSha": "2ec694f6ce4df7fbec046fd2de830ca58b17c5a3",
+      "bytes": 79804
+    },
+    {
+      "path": "landing-page-resource/images/neiput-n-ball.webp",
+      "blobSha": "96ac5b8934beb478dc18ce336854dc890d9b5fef",
+      "bytes": 146466
+    },
+    {
+      "path": "landing-page-resource/images/neiput-treaty-dialogue.webp",
+      "blobSha": "a41054e799688517fbe2eb890e9c636d8a3ba045",
+      "bytes": 160730
+    },
+    {
+      "path": "landing-page-resource/images/nirael.webp",
+      "blobSha": "b86c544191d646f76321ace50c66557db587fe6b",
+      "bytes": 51622
+    },
+    {
+      "path": "landing-page-resource/images/no-copypaste-worldbuilding.webp",
+      "blobSha": "8e896fb9b3aa099ac2cda905fd2fd564664ba702",
+      "bytes": 64170
+    },
+    {
+      "path": "landing-page-resource/images/no-excuse-for-mediocrity.webp",
+      "blobSha": "c7c3cd7d134c6c296540a5d631b9784629331336",
+      "bytes": 146412
+    },
+    {
+      "path": "landing-page-resource/images/no-right-no-wrong-banner.webp",
+      "blobSha": "cb82879144ddecc10d637f5f00232b9d08b526af",
+      "bytes": 354822
+    },
+    {
+      "path": "landing-page-resource/images/not-the-villain.webp",
+      "blobSha": "79739482d8837e0331852247cd96ea430b416b9d",
+      "bytes": 399072
+    },
+    {
+      "path": "landing-page-resource/images/ntacca-poster.webp",
+      "blobSha": "b05cb267fdac2c8b86e81255ee34b39ee128be07",
+      "bytes": 47276
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-abyss-cover.webp",
+      "blobSha": "2d58844ea6590f9747ab5b3911d013037d14057a",
+      "bytes": 29288
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-abyss-dimention.webp",
+      "blobSha": "d8a07a8e60b7220061998819e93089c570331c6d",
+      "bytes": 133504
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-abyss-epistemic.webp",
+      "blobSha": "cedca99a7b9f50d976888ed56fa2de87f0411b2f",
+      "bytes": 271974
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-abyss-horror-index.webp",
+      "blobSha": "de829b8572e6e72f42fe1546978f1e4f84a2a3a1",
+      "bytes": 97986
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-fears-rsc.webp",
+      "blobSha": "ae53d9c05c04514d9c4f2f5035b44fea34053451",
+      "bytes": 85428
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-temple.webp",
+      "blobSha": "5f90247c38959a277b0766493cb239a707d1f051",
+      "bytes": 23122
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-temple1.webp",
+      "blobSha": "5489d9058488026288bac5d1171d58fb205cfdd3",
+      "bytes": 40086
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-temple2.webp",
+      "blobSha": "902305cf86e883d5a1f3a80849c2ea4ffd6a3cdc",
+      "bytes": 40696
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-temple3.webp",
+      "blobSha": "6ee56476d03d48e2a9c34e07d5cbbf3855a2da6d",
+      "bytes": 68952
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-temple4.webp",
+      "blobSha": "a04e2034c79ad54457d5218323ba30b70cec1dba",
+      "bytes": 66162
+    },
+    {
+      "path": "landing-page-resource/images/nytherion-temple5.webp",
+      "blobSha": "6c5588d7b603d1bb70e51857c29e4cbb4df1c480",
+      "bytes": 252918
+    },
+    {
+      "path": "landing-page-resource/images/oakcottage-hq.webp",
+      "blobSha": "44eff82ec9141bbbb776af62cb4f920923697781",
+      "bytes": 235778
+    },
+    {
+      "path": "landing-page-resource/images/og-banner.webp",
+      "blobSha": "b1026d0e7b4069d67fafa83713376604e8b7a882",
+      "bytes": 84530
+    },
+    {
+      "path": "landing-page-resource/images/origin-of-narrative-longevity.webp",
+      "blobSha": "7f91ba5379e63c684ba84700d70aa514cc727374",
+      "bytes": 134346
+    },
+    {
+      "path": "landing-page-resource/images/paia-aeropolis-hub.webp",
+      "blobSha": "ba1e9df2415277a62f568a8d426657c1a812a4bb",
+      "bytes": 245076
+    },
+    {
+      "path": "landing-page-resource/images/paia-aeropolis-hub1.webp",
+      "blobSha": "731253ae8991e93461398b7d9ccc777b23af54f1",
+      "bytes": 203260
+    },
+    {
+      "path": "landing-page-resource/images/paia-aeropolis-hub2.webp",
+      "blobSha": "c679fab619dadba9342c709757c40d0f151c69e8",
+      "bytes": 147072
+    },
+    {
+      "path": "landing-page-resource/images/pak-yono-blank-canvas.webp",
+      "blobSha": "5a3d1759963d554b06e60c5ac67540f756a29297",
+      "bytes": 85590
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit-development-preview.webp",
+      "blobSha": "4467401b7e5a8b786fec2581020d45c78997ed74",
+      "bytes": 306978
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit-passing-star-while-landing.webp",
+      "blobSha": "3684376817395bc8057579ca4178ac98add1b585",
+      "bytes": 213870
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit-rhythm-heaven.webp",
+      "blobSha": "c0319dcd29640e08cd76c54af4318dfbf50ed8bc",
+      "bytes": 185310
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit-terminal-sunrise.webp",
+      "blobSha": "67afb4592290b78507660e1c22990202bab69037",
+      "bytes": 417026
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit-the-tarmac-waltz.webp",
+      "blobSha": "abb0aa0b4f98fb4aba13a40c06ad0e79edbb1b6b",
+      "bytes": 273040
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit.webp",
+      "blobSha": "5eac6d9c953c36795a4d375d05806591eab0332b",
+      "bytes": 193244
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit1.webp",
+      "blobSha": "27d3d41e8211fa3fbc17d59054374182713da730",
+      "bytes": 153222
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit2.webp",
+      "blobSha": "00faf884460c8ce1f469027fbcd58a4cdb669fec",
+      "bytes": 110434
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflit3.webp",
+      "blobSha": "338b04f7d37b27f44500e02ae655aaecccf6422c",
+      "bytes": 169246
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflitball.webp",
+      "blobSha": "b348f47fa8f0af181467e5cc439aa3e988f7f175",
+      "bytes": 34392
+    },
+    {
+      "path": "landing-page-resource/images/pasgerflitnochat.webp",
+      "blobSha": "1fd6976a3b8269fc90955da23bfa78e86dc61fe1",
+      "bytes": 91960
+    },
+    {
+      "path": "landing-page-resource/images/pasgerian-language.webp",
+      "blobSha": "28e888c9650ee85802e9954ec0c42ae7cdd71393",
+      "bytes": 186218
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania-rhythm-heaven.webp",
+      "blobSha": "8f50c2ed6df93799892f63166f3fbb1d2071b67e",
+      "bytes": 329550
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania-the-doodle-parade.webp",
+      "blobSha": "a560079f018ea2ec4a8601c1f6929066e78619f7",
+      "bytes": 465978
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania-the-origami-plaza.webp",
+      "blobSha": "7d9abcd0dc029a53539ca96347b66a4fd35a6d0d",
+      "bytes": 446004
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania-the-sketchbook-promenade.webp",
+      "blobSha": "0584d84ec33974a6fb9d1714c50444a74e2a8cec",
+      "bytes": 426716
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania.webp",
+      "blobSha": "c32c82608c4ef08fa9bbd47f4965646510a49134",
+      "bytes": 88304
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania1.webp",
+      "blobSha": "64a2f1fc125c20993a6b6776f4bf6bfa93756c02",
+      "bytes": 334004
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania2.webp",
+      "blobSha": "342118e9ca55ef8f2f48ecef904b6064b145c671",
+      "bytes": 358132
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania3.webp",
+      "blobSha": "9ddb6064713b5dbc59fa862ec2cf2fcab06f586e",
+      "bytes": 299190
+    },
+    {
+      "path": "landing-page-resource/images/pencilfania4.webp",
+      "blobSha": "bd4c80422d1cc7a3c372b71a21d235ca31dac2f3",
+      "bytes": 244552
+    },
+    {
+      "path": "landing-page-resource/images/pencilfaniaball.webp",
+      "blobSha": "7ef3643b9ccae5daaf0468a5e4ae7e05cab436da",
+      "bytes": 26418
+    },
+    {
+      "path": "landing-page-resource/images/pencilfaniaball1.webp",
+      "blobSha": "7f0960f468591aa0a6e404868de6eb654dac0416",
+      "bytes": 29806
+    },
+    {
+      "path": "landing-page-resource/images/phalteros.webp",
+      "blobSha": "b8998e598dd47af4ca856ede2842e2ee054340ed",
+      "bytes": 17186
+    },
+    {
+      "path": "landing-page-resource/images/pi-day-news.webp",
+      "blobSha": "873ea28d1eb6a834b3a9f128b7a096790fda2ca3",
+      "bytes": 254720
+    },
+    {
+      "path": "landing-page-resource/images/pi-day.webp",
+      "blobSha": "6acf6e0fe82b774c0f5e9077ff1e543ac660186d",
+      "bytes": 101236
+    },
+    {
+      "path": "landing-page-resource/images/planck-density-of-the-observable-universe.webp",
+      "blobSha": "35b75fbe0cc5b8d2e33091dfbb683a50d48f67c4",
+      "bytes": 59858
+    },
+    {
+      "path": "landing-page-resource/images/planck-table.webp",
+      "blobSha": "f622d71c692ccd5b1f6292b8bc7ad4eda30a19b3",
+      "bytes": 21680
+    },
+    {
+      "path": "landing-page-resource/images/planet-asthortera.webp",
+      "blobSha": "5486c2f405a5afc69ae926de2cccf7763fc30b8b",
+      "bytes": 1035724
+    },
+    {
+      "path": "landing-page-resource/images/poetry-duel-footnotes.webp",
+      "blobSha": "00c2bb2de86129258303aa611edc08bd6156cf80",
+      "bytes": 54616
+    },
+    {
+      "path": "landing-page-resource/images/politics.webp",
+      "blobSha": "2016c1f02c2dec1c0b33286a9ac9745d7bc2cc9f",
+      "bytes": 244318
+    },
+    {
+      "path": "landing-page-resource/images/post-efficiency-manifesto.webp",
+      "blobSha": "70757033f6c4f02396cc7e1695fadb20e739a800",
+      "bytes": 293414
+    },
+    {
+      "path": "landing-page-resource/images/professor-altair-troner.webp",
+      "blobSha": "f6adf2393896b99166d11cf8871cd3a6f04947db",
+      "bytes": 79514
+    },
+    {
+      "path": "landing-page-resource/images/puss-in-boots-vs-reltroner.webp",
+      "blobSha": "a02db8122120dbda0a6d79a4c5582bf94d468ba2",
+      "bytes": 92278
+    },
+    {
+      "path": "landing-page-resource/images/quantum-memory-cloud.webp",
+      "blobSha": "226f287ebfeffd77e342142ffa4f59b268d51ba6",
+      "bytes": 136614
+    },
+    {
+      "path": "landing-page-resource/images/quantum-supercruisers.webp",
+      "blobSha": "3b0f476305e2c871a26c91e981d041c27ebb4821",
+      "bytes": 45094
+    },
+    {
+      "path": "landing-page-resource/images/queen-valethra-international-strategic-council-dialogues.webp",
+      "blobSha": "bd41d1ec5def8a9d824070023f3f8b299c77d16b",
+      "bytes": 425166
+    },
+    {
+      "path": "landing-page-resource/images/queen-valethra.webp",
+      "blobSha": "3555ca899aee5aecfeeb05da509829bafb1df2ab",
+      "bytes": 198472
+    },
+    {
+      "path": "landing-page-resource/images/queen-valethra1.webp",
+      "blobSha": "07af78ea55e9ece50e26021077bd48b76035320e",
+      "bytes": 163972
+    },
+    {
+      "path": "landing-page-resource/images/r-block-district.webp",
+      "blobSha": "474d92c773ea18a47d8332439ee0ba82bc8553d1",
+      "bytes": 362792
+    },
+    {
+      "path": "landing-page-resource/images/racb.webp",
+      "blobSha": "7186e3d3d3e42eb619da0bb3e27629f8e8bf0985",
+      "bytes": 57538
+    },
+    {
+      "path": "landing-page-resource/images/raia-hyperloop.webp",
+      "blobSha": "9f25ce5057f421b14849806450d3a181e3e0277d",
+      "bytes": 104344
+    },
+    {
+      "path": "landing-page-resource/images/raid1-reltronland.webp",
+      "blobSha": "92f346285347fda466e64ae1ade5639dda162def",
+      "bytes": 131096
+    },
+    {
+      "path": "landing-page-resource/images/raina-rei-charter.webp",
+      "blobSha": "635c73a28bdd1ff6592ad824f2366efcf2febfc2",
+      "bytes": 405084
+    },
+    {
+      "path": "landing-page-resource/images/raina-the-doorway.webp",
+      "blobSha": "0730b6d2afb6f4ce39595016f2a51116ccc1229f",
+      "bytes": 129600
+    },
+    {
+      "path": "landing-page-resource/images/raina-veltrania.webp",
+      "blobSha": "534362543b4df89d9084be35331aeaff2653e46e",
+      "bytes": 140404
+    },
+    {
+      "path": "landing-page-resource/images/raina-veltrania1.webp",
+      "blobSha": "6c731b9baed3413b339c265e37cab231833f340d",
+      "bytes": 38230
+    },
+    {
+      "path": "landing-page-resource/images/raina-veltrania2.webp",
+      "blobSha": "881cc6a68b62a1f4d265a87ec01e9ac29ca4207c",
+      "bytes": 84144
+    },
+    {
+      "path": "landing-page-resource/images/rainas-awakening.webp",
+      "blobSha": "efb4c4003d4edd21ea9de25303c878ab1e1f77a0",
+      "bytes": 175224
+    },
+    {
+      "path": "landing-page-resource/images/raised-by-space.webp",
+      "blobSha": "1c83aad543c2851c9a3bc4a86118c283f2eef920",
+      "bytes": 140848
+    },
+    {
+      "path": "landing-page-resource/images/real-cost-hidden-in-erp.webp",
+      "blobSha": "045a31ce834a06723acd274e88f5f872931dc731",
+      "bytes": 181702
+    },
+    {
+      "path": "landing-page-resource/images/redley-ris.webp",
+      "blobSha": "a33d4dd738c22cd483af22787dea0e2a80642479",
+      "bytes": 78336
+    },
+    {
+      "path": "landing-page-resource/images/redpill-abyssborn.webp",
+      "blobSha": "7e17169ec37f46e2c948d74354d5e45a053d0532",
+      "bytes": 125350
+    },
+    {
+      "path": "landing-page-resource/images/reflections-in-drawcia.webp",
+      "blobSha": "225e73cc9a83205fff0f64373a5fa07dca785b69",
+      "bytes": 127566
+    },
+    {
+      "path": "landing-page-resource/images/rei-and-the-core-eater.webp",
+      "blobSha": "6aec9e5ecb2d187563869960f43e9fa62490fd33",
+      "bytes": 98098
+    },
+    {
+      "path": "landing-page-resource/images/rei-angle-maskot.webp",
+      "blobSha": "338a8767a8397ae11d0f06743804dd8039baec58",
+      "bytes": 78370
+    },
+    {
+      "path": "landing-page-resource/images/rei-as-joker-persona.webp",
+      "blobSha": "4ad0024e1959d604cfa8e940b0d0f18c232b81ef",
+      "bytes": 255182
+    },
+    {
+      "path": "landing-page-resource/images/rei-idcard.webp",
+      "blobSha": "5f74d2312ef38b531cb12ca80584bba69d943c5a",
+      "bytes": 57724
+    },
+    {
+      "path": "landing-page-resource/images/rei-in-abyss.webp",
+      "blobSha": "e53fc768706f2a78c1e35a01cd5429c40c9b9a76",
+      "bytes": 89740
+    },
+    {
+      "path": "landing-page-resource/images/rei-joker-friendship.webp",
+      "blobSha": "5c97779d39b225140d988e1813618408f970fffd",
+      "bytes": 196050
+    },
+    {
+      "path": "landing-page-resource/images/rei-kelas-digi.webp",
+      "blobSha": "f34787aefbf133c72f2f456a9ed6898f144a3748",
+      "bytes": 261302
+    },
+    {
+      "path": "landing-page-resource/images/rei-reltroner-role-in-nytherion-conflict.webp",
+      "blobSha": "93cdecef9f4fa54891df263d42ecd9afa553c907",
+      "bytes": 113054
+    },
+    {
+      "path": "landing-page-resource/images/rei-reltroner.webp",
+      "blobSha": "ee70176721d09f03d3455d30c9126203cf3e7898",
+      "bytes": 248724
+    },
+    {
+      "path": "landing-page-resource/images/rei-reltroner1.webp",
+      "blobSha": "6fe6558fc1499b16a7a459e06f69598a98299bc1",
+      "bytes": 54884
+    },
+    {
+      "path": "landing-page-resource/images/rei-reltroner2.webp",
+      "blobSha": "79a4c97da3f50a14217308ab95c8c8ddfd49d96b",
+      "bytes": 84224
+    },
+    {
+      "path": "landing-page-resource/images/rei-shows-earth.webp",
+      "blobSha": "5e6c2aba64593c14376b3615f5c07666e2077d34",
+      "bytes": 131116
+    },
+    {
+      "path": "landing-page-resource/images/rei-smash-poster.webp",
+      "blobSha": "60403626210a53861af2a6e211006a6646c298a7",
+      "bytes": 275252
+    },
+    {
+      "path": "landing-page-resource/images/rei-vs-professor-sergio.webp",
+      "blobSha": "8f5f43581bfbf547a956dff11aaa00b09ecccd16",
+      "bytes": 218224
+    },
+    {
+      "path": "landing-page-resource/images/rejects-final-destination.webp",
+      "blobSha": "dced1429a1ef986c4b01bdccb923f8a020aeb306",
+      "bytes": 237704
+    },
+    {
+      "path": "landing-page-resource/images/relcafe.webp",
+      "blobSha": "6102cfc81691810afedd8dfd371a98990b3b75fd",
+      "bytes": 191320
+    },
+    {
+      "path": "landing-page-resource/images/relcafe1.webp",
+      "blobSha": "e9f974ebe9ad6db8b255a0412708b73261ded002",
+      "bytes": 234162
+    },
+    {
+      "path": "landing-page-resource/images/relcafe2.webp",
+      "blobSha": "2a874bdfaa771d3ff3e0ad6e75197a802d4737fd",
+      "bytes": 198174
+    },
+    {
+      "path": "landing-page-resource/images/relcafe3.webp",
+      "blobSha": "3e25e49685ba6553f118edf0e0519220722afb2b",
+      "bytes": 201272
+    },
+    {
+      "path": "landing-page-resource/images/relcafe4.webp",
+      "blobSha": "9ed683baaca947e2dc56de9b9a95870ffbad7683",
+      "bytes": 195984
+    },
+    {
+      "path": "landing-page-resource/images/reltralia-district-layers.webp",
+      "blobSha": "b4b3e15a9c26d16577cef409ec5b3341b2f4963d",
+      "bytes": 164468
+    },
+    {
+      "path": "landing-page-resource/images/reltron-airlines.webp",
+      "blobSha": "64fd8bc286529ba1ba6efa1bd7f8e525e3331c6d",
+      "bytes": 93688
+    },
+    {
+      "path": "landing-page-resource/images/reltron-airlines1.webp",
+      "blobSha": "e56be3229d354f6dd967a9f2cdc3462e94fa3e16",
+      "bytes": 92592
+    },
+    {
+      "path": "landing-page-resource/images/reltron-airlines2.webp",
+      "blobSha": "034c6fe1e9a6db55d5865b317e70ecce009eddd1",
+      "bytes": 92210
+    },
+    {
+      "path": "landing-page-resource/images/reltron-airlines3.webp",
+      "blobSha": "ec2bc82d7311f8fc5d0ed825437e2e3362bcb532",
+      "bytes": 72636
+    },
+    {
+      "path": "landing-page-resource/images/reltron-airlines4.webp",
+      "blobSha": "d7803f095ddf3ce65fd748f5fd013208ce0b52ec",
+      "bytes": 92982
+    },
+    {
+      "path": "landing-page-resource/images/reltronepolis-aeropolis-raia.webp",
+      "blobSha": "5fd45e21516c68cd5c3413440e5122ca6f912fc1",
+      "bytes": 141658
+    },
+    {
+      "path": "landing-page-resource/images/reltronepolis-aeropolis-raia1.webp",
+      "blobSha": "c577d7bbedd89c318dc1fa231f4c49b4a36f7a94",
+      "bytes": 114360
+    },
+    {
+      "path": "landing-page-resource/images/reltronepolis-aeropolis-raia2.webp",
+      "blobSha": "615c6a3de8e853747d740ee71d19b0f6a261432e",
+      "bytes": 74464
+    },
+    {
+      "path": "landing-page-resource/images/reltronepolis-central-station.webp",
+      "blobSha": "a795d42f5d2ff3ef888422cc10108e8b6761291a",
+      "bytes": 84084
+    },
+    {
+      "path": "landing-page-resource/images/reltronepolis.webp",
+      "blobSha": "dea5170cce77c552adde6993adf1f36f793e829f",
+      "bytes": 36650
+    },
+    {
+      "path": "landing-page-resource/images/reltronepolis123.webp",
+      "blobSha": "4dad66806e914998600f18106d569f62544c615d",
+      "bytes": 163422
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-100-day-journal.webp",
+      "blobSha": "3422afef11dfbc698b9f9b428f37ec6b5e2b3199",
+      "bytes": 242416
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-50-day-journal.webp",
+      "blobSha": "3422afef11dfbc698b9f9b428f37ec6b5e2b3199",
+      "bytes": 242416
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-ai-fork.webp",
+      "blobSha": "880d0e5a4467bf3ce2b2e7dc4e8d69d93368a1ec",
+      "bytes": 60302
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-cv-banner.webp",
+      "blobSha": "2af3396d327d40cc564dc2f95f4356bcbeab2ee8",
+      "bytes": 28504
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-declaration-existence.webp",
+      "blobSha": "1349e8780abb83a4383e165dd1953ec4553f0b33",
+      "bytes": 159712
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-design.webp",
+      "blobSha": "41c8469021a41b4c52d00039f85e0a0841352fe7",
+      "bytes": 49986
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-dropout-manifesto.webp",
+      "blobSha": "7ef734605eab8c0d345baea7cd31db8ee834903d",
+      "bytes": 132876
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-epistemic-history-2018-2026.webp",
+      "blobSha": "c62422ed38bf0e169dfe4e001d270d47b43da338",
+      "bytes": 176266
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-holding.webp",
+      "blobSha": "30798397adefdcc36ce6efef7deb1e3bbf54097a",
+      "bytes": 58700
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-hub.webp",
+      "blobSha": "03487c3d17a4fac18510d6bb24f3e350573e7242",
+      "bytes": 117906
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-is-not-ultroner.webp",
+      "blobSha": "e7013fadf4d05f194d57ada54c4947927dbe90c6",
+      "bytes": 38656
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-joker.webp",
+      "blobSha": "458e2b2825d9f6484af5d006033a7c4164dd9601",
+      "bytes": 305244
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-sparkpad.webp",
+      "blobSha": "5af0d3cba802258c40a54d02ab8f14981af47e25",
+      "bytes": 149502
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-startup-pitch-deck.webp",
+      "blobSha": "4df6e7db7e779dde55e19c09e8622f3e7ef7d555",
+      "bytes": 34376
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-studio-banner.webp",
+      "blobSha": "b1026d0e7b4069d67fafa83713376604e8b7a882",
+      "bytes": 84530
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-studio-chronology-calendar-system.webp",
+      "blobSha": "cbbb5d20bee29c928db3671d8c4b93a84f392c69",
+      "bytes": 163490
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-studio-master-source-of-truth.webp",
+      "blobSha": "04a8c0e346ef88c510d2e1b8a41ec44e016cd925",
+      "bytes": 370490
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-studio-web3-network.webp",
+      "blobSha": "415692b0b4cef2fe31ac5a10b947f897d11fdd1f",
+      "bytes": 119564
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-studio.webp",
+      "blobSha": "3395048d2529df712bd72ef7b6be64813388078a",
+      "bytes": 13532
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-underlayer.webp",
+      "blobSha": "d95f2edb803c3ba620de0188ac5eba21a1357865",
+      "bytes": 99124
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-value-2025.webp",
+      "blobSha": "7bd6256a4ff81675a7f055d90cd39308afafa91f",
+      "bytes": 25056
+    },
+    {
+      "path": "landing-page-resource/images/reltroners-zero-day.webp",
+      "blobSha": "99600b49becc12e184c65cd038962018d7f578cf",
+      "bytes": 332810
+    },
+    {
+      "path": "landing-page-resource/images/reltronian-airgrid.webp",
+      "blobSha": "27b67380f389533c5bcaa76e478817db9f5b3766",
+      "bytes": 249190
+    },
+    {
+      "path": "landing-page-resource/images/reltronic-root-words.webp",
+      "blobSha": "f192730e909360aba83396d5a892ba7245feb002",
+      "bytes": 280366
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-3d-ground-transportation-architecture.webp",
+      "blobSha": "306c9f7d2e454e275d665e3de35403cc73656d9c",
+      "bytes": 582260
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-administrative-naming-rules.webp",
+      "blobSha": "dcdcd1329391bd81fc700dd3c5cc921d5f697551",
+      "bytes": 89260
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-anti-corruption.webp",
+      "blobSha": "1a4b4a85009b70ad1a6ee3a4e67d6840669a210d",
+      "bytes": 397122
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-antimatter-energy.webp",
+      "blobSha": "465d31fb04d71e3164e141bea0f8ae360fb5137b",
+      "bytes": 64126
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-aviation-security-authority.webp",
+      "blobSha": "a3248dfccbacf41ac0e9507008c1a4368074ff22",
+      "bytes": 97164
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-citizenship-ethics.webp",
+      "blobSha": "73c10fe8df8de022d07a8d4733c4b89e5697fb20",
+      "bytes": 77004
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-civilization-framework.webp",
+      "blobSha": "84578cb9ac948c52b5cf8e147f9652cc1e896e09",
+      "bytes": 80364
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-continuous-governance-framework.webp",
+      "blobSha": "b05cb267fdac2c8b86e81255ee34b39ee128be07",
+      "bytes": 47276
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-core-constitution.webp",
+      "blobSha": "bcad73572bbb1b31d8719060c334fc116b8d2244",
+      "bytes": 309838
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-cover.webp",
+      "blobSha": "2f49aced6b1e1eb9f2266b27f23dc29ab1dfb8fe",
+      "bytes": 61488
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-depcutland-fashion.webp",
+      "blobSha": "5d8ca2092eb4b91c4c63a86a0a28d0c6cef0cdc8",
+      "bytes": 93400
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-education-framework.webp",
+      "blobSha": "61be4396e341d6953d3bbc880d90fcfff665ba45",
+      "bytes": 53044
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-eternal-civilization.webp",
+      "blobSha": "064642c71b6dd45b4341bcebc7f2441dcef90e13",
+      "bytes": 194566
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-financial-institutions.webp",
+      "blobSha": "bc47ffe40c10f3c9b5b32e96b1a7ccab70d09325",
+      "bytes": 77084
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-fiscal-grid.webp",
+      "blobSha": "8d2710d0d5635e7642d6263e5e4f82320e4078ce",
+      "bytes": 66656
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-founding.webp",
+      "blobSha": "ab21f36c982260ea2c032c2fd00763b80915af4d",
+      "bytes": 33454
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-gold-custody-protocol.webp",
+      "blobSha": "003b929418ef3f50ea5e7ad6fa0fab45476a8abd",
+      "bytes": 308420
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-hyperloop.webp",
+      "blobSha": "fea275a2e36fdaf91cbcd1a758d15f6caa4f1ed0",
+      "bytes": 166170
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-hyperloop1.webp",
+      "blobSha": "976060cae70c89b8bd0784cb08905ce16046737c",
+      "bytes": 357166
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-immigration.webp",
+      "blobSha": "53ac083a52858e1669a8253463abb31aed725257",
+      "bytes": 64998
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-knowledge-architecture.webp",
+      "blobSha": "1a918acdacd539e87cdd37fa7e645e4cd43f2cf9",
+      "bytes": 47318
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-labor-ethics.webp",
+      "blobSha": "504b160af662dac1449e4c40f39bd6bd9100f66d",
+      "bytes": 115874
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-mealtime-etiquette.webp",
+      "blobSha": "7b3838bc0463087685ae6bc1b8919722d4bb9efb",
+      "bytes": 72590
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-military.webp",
+      "blobSha": "e584786beb6318689d16a0d8303dcd618fbc3482",
+      "bytes": 293884
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-music.webp",
+      "blobSha": "224d8daab9acc18d1ac1a064e85d94b7c7511840",
+      "bytes": 213482
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-narcotics-regulation.webp",
+      "blobSha": "6b6e0d1868652a607095b8e2db062fcc7c0c25e2",
+      "bytes": 195780
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-public-silence-protocol.webp",
+      "blobSha": "ed28b881d77539fca148e058233d9312b88362f0",
+      "bytes": 66492
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-rhythm-heaven.webp",
+      "blobSha": "8c5c3a164ce56f3f9299d1bfe61b6d865830a611",
+      "bytes": 154842
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-rise-beyond-pressure.webp",
+      "blobSha": "0ed558ff161fff6c797f341f8f86f7d0220263b3",
+      "bytes": 275478
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-roar-against-feudalism.webp",
+      "blobSha": "75d2e4a6f2393886803e1683aa2766b1320cc1c7",
+      "bytes": 175990
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-robot-combat.webp",
+      "blobSha": "d65a4d4d2714592f05e5e9d1cfc6673f2cdc3397",
+      "bytes": 209010
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-space-command.webp",
+      "blobSha": "1cdb6621c603447257b8a01fcaa9e7ce1ab89907",
+      "bytes": 36594
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-taxation-charter.webp",
+      "blobSha": "12082a205ce62479d727810d437aa4497e2d9310",
+      "bytes": 92940
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-the-pursuit.webp",
+      "blobSha": "ddbf73e04bf0847bdcdf5ea880a19c580ecb38e2",
+      "bytes": 372320
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-the-turning-of-the-hunt.webp",
+      "blobSha": "418c531e4ee08da867ab133748b27bee60679391",
+      "bytes": 243922
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-three-layer-law.webp",
+      "blobSha": "dac6d40d540da7b65f370123dd01645ea5d9f78d",
+      "bytes": 208232
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-tobacco-regulation.webp",
+      "blobSha": "2ad865feaa5379c8d6ec96734b1ba20ffd8469bf",
+      "bytes": 199346
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-vs-depcutland-soul.webp",
+      "blobSha": "19b8033c5e7ef5a6c70dcd1dc7ea12d62d742c54",
+      "bytes": 120244
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-vs-depcutland.webp",
+      "blobSha": "c8b9b71398692fb828e651634ecf4f9bd1b4c59b",
+      "bytes": 122266
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-waste-management.webp",
+      "blobSha": "e4f7f3aba3f7cd1a9e742d809be7e622c0ed8151",
+      "bytes": 62348
+    },
+    {
+      "path": "landing-page-resource/images/reltronland-wealth-vs-earth.webp",
+      "blobSha": "f0fb84b695cc9e64cc18c8bb9415a21a04b8915f",
+      "bytes": 91422
+    },
+    {
+      "path": "landing-page-resource/images/reltronland1.webp",
+      "blobSha": "9098fd24e8b991d81340c970657164f434f177c8",
+      "bytes": 298034
+    },
+    {
+      "path": "landing-page-resource/images/reltronland2.webp",
+      "blobSha": "62a6a6645475f7769de3732e8864b6d8c058b476",
+      "bytes": 273304
+    },
+    {
+      "path": "landing-page-resource/images/reltronland3.webp",
+      "blobSha": "d40cca234f910f4ee2c872a823b317333e803438",
+      "bytes": 179320
+    },
+    {
+      "path": "landing-page-resource/images/reltronland4.webp",
+      "blobSha": "3ef85f357e66e706e46e89189ed0246903ce8031",
+      "bytes": 250456
+    },
+    {
+      "path": "landing-page-resource/images/reltronland5.webp",
+      "blobSha": "0d5db9472129e9af7567f721da2ffa256825515c",
+      "bytes": 396812
+    },
+    {
+      "path": "landing-page-resource/images/reltronlandball.webp",
+      "blobSha": "cb670fb79effb65631599f13d8ff728dd364a659",
+      "bytes": 24804
+    },
+    {
+      "path": "landing-page-resource/images/reltrorer-identity-plan-b.webp",
+      "blobSha": "414cd09df207e316355419be921e03483589f051",
+      "bytes": 106548
+    },
+    {
+      "path": "landing-page-resource/images/rere2.webp",
+      "blobSha": "5a004972f1d453ef8815ed29f8652df2d874213d",
+      "bytes": 99692
+    },
+    {
+      "path": "landing-page-resource/images/rest-culture.webp",
+      "blobSha": "6c2fd299b93a1ecb61586b32f0e325cf27b8051a",
+      "bytes": 124190
+    },
+    {
+      "path": "landing-page-resource/images/retro-district.webp",
+      "blobSha": "61836ce081f9629078192f6e725b9efef9baf822",
+      "bytes": 113898
+    },
+    {
+      "path": "landing-page-resource/images/retro-heritage-reltronland.webp",
+      "blobSha": "87216e47fd57c8eb6b7f7a49dfe93e1e506d8d69",
+      "bytes": 71140
+    },
+    {
+      "path": "landing-page-resource/images/retro-station.webp",
+      "blobSha": "0b61c5d6b3bdbffeb5073ae80a9c6ccb99fa229c",
+      "bytes": 242600
+    },
+    {
+      "path": "landing-page-resource/images/returning-to-serve-reltronland.webp",
+      "blobSha": "faf35af339caf623c8d4d60ca8053da160c4feeb",
+      "bytes": 194404
+    },
+    {
+      "path": "landing-page-resource/images/rida.webp",
+      "blobSha": "360de68efe1621b957c0b36bc0f5b00249633d29",
+      "bytes": 136542
+    },
+    {
+      "path": "landing-page-resource/images/ritual-astralis-contact.webp",
+      "blobSha": "8761bf4398637402a5907467db3f95d20695da48",
+      "bytes": 178946
+    },
+    {
+      "path": "landing-page-resource/images/ritual-astralis-pinnacle.webp",
+      "blobSha": "91fcd5304806ecf19dacf4a94c648e0ea73a1a4a",
+      "bytes": 128718
+    },
+    {
+      "path": "landing-page-resource/images/roadmap-2045-banner.webp",
+      "blobSha": "421b8b71713e15055e776f1fcde82b4e1ba7e71a",
+      "bytes": 174980
+    },
+    {
+      "path": "landing-page-resource/images/root-of-reltroner.webp",
+      "blobSha": "ded2f36173a9f90f299d6b29315678b86c98e072",
+      "bytes": 87528
+    },
+    {
+      "path": "landing-page-resource/images/rxs-500.webp",
+      "blobSha": "5ec288f7f3c9a87bda96d43d45a957ef4f270979",
+      "bytes": 67556
+    },
+    {
+      "path": "landing-page-resource/images/sacred-unions-comparison.webp",
+      "blobSha": "9f1a6ad0cbb77c80a3759f551e9108f83fa0a58c",
+      "bytes": 29874
+    },
+    {
+      "path": "landing-page-resource/images/sava.webp",
+      "blobSha": "f26bfa3e5a96cbac84036d0d8fdf084168d10b6d",
+      "bytes": 121620
+    },
+    {
+      "path": "landing-page-resource/images/scam-jobs-resistance.webp",
+      "blobSha": "2a91f6eb43adb6059ae5c585dc632ae005696378",
+      "bytes": 81916
+    },
+    {
+      "path": "landing-page-resource/images/scout-parade.webp",
+      "blobSha": "09286b4d5a6c10fc6cfe369fb7be5ebda45a9eb5",
+      "bytes": 221122
+    },
+    {
+      "path": "landing-page-resource/images/sdi-asthortera-2026.webp",
+      "blobSha": "e9bb48dbc566eb988a2992e8c34cfd9c1ad0c238",
+      "bytes": 49696
+    },
+    {
+      "path": "landing-page-resource/images/sdi-code-1.7.2.webp",
+      "blobSha": "170f9b340e7afa2c9d5351f50a6d9a19efe8d547",
+      "bytes": 101386
+    },
+    {
+      "path": "landing-page-resource/images/sdi-engineering-principles.webp",
+      "blobSha": "ec4795c7326f14bdbecfe8a40827b81ddef6ca2e",
+      "bytes": 99382
+    },
+    {
+      "path": "landing-page-resource/images/sdi-report-asthortera.webp",
+      "blobSha": "25385b06940fb2a105fa50a0da22ec674a0933b5",
+      "bytes": 45464
+    },
+    {
+      "path": "landing-page-resource/images/sdi-score-matrix.webp",
+      "blobSha": "8a00b27535fd63c41cc31f19078039541d0498b9",
+      "bytes": 189016
+    },
+    {
+      "path": "landing-page-resource/images/sdi2025.webp",
+      "blobSha": "39b681b818f6fe15dd55d69c8f0c0d9da698bb1b",
+      "bytes": 51844
+    },
+    {
+      "path": "landing-page-resource/images/sentient-population.webp",
+      "blobSha": "7dfa4da352aba17ce9ca6434c968bca6f9188394",
+      "bytes": 49270
+    },
+    {
+      "path": "landing-page-resource/images/sentient-upshift-lab.webp",
+      "blobSha": "96361ca1effaf41232bf92b75535a17466487918",
+      "bytes": 53214
+    },
+    {
+      "path": "landing-page-resource/images/sentient-value-reflection-theory.webp",
+      "blobSha": "9c47a0993612b2ded035ca8de31db32915c4ed94",
+      "bytes": 195318
+    },
+    {
+      "path": "landing-page-resource/images/sentient-zoning-integrity-act.webp",
+      "blobSha": "9551bd09b3b2465ab45cc55512816554866d8c21",
+      "bytes": 70542
+    },
+    {
+      "path": "landing-page-resource/images/series-roadmap.webp",
+      "blobSha": "362e32a5f15db8d6332dba6145b605001d1f8c71",
+      "bytes": 101850
+    },
+    {
+      "path": "landing-page-resource/images/sigil-of-astralis.webp",
+      "blobSha": "1684252ea04f77c37cd08d3ac31146056b2d3fe8",
+      "bytes": 58540
+    },
+    {
+      "path": "landing-page-resource/images/silent-echoes-of-henchoway.webp",
+      "blobSha": "6f0b156d0fadb6258f26bea9464e40003a238a95",
+      "bytes": 58350
+    },
+    {
+      "path": "landing-page-resource/images/silent-mouthpiece.webp",
+      "blobSha": "9bc6386fc56942d053a9637aed775eebc03fee25",
+      "bytes": 115862
+    },
+    {
+      "path": "landing-page-resource/images/sketchline-commons-biome.webp",
+      "blobSha": "44395c8ff8d72be07cfc7faf79830492977d3c67",
+      "bytes": 222706
+    },
+    {
+      "path": "landing-page-resource/images/skybrew.webp",
+      "blobSha": "005bea505c30f5a45ab17b658cb541ff16c6b5c8",
+      "bytes": 168990
+    },
+    {
+      "path": "landing-page-resource/images/skybrew1.webp",
+      "blobSha": "3e7c4f5609fd4179d8ce27e7bce67fafee811ccf",
+      "bytes": 194038
+    },
+    {
+      "path": "landing-page-resource/images/soil-charter.webp",
+      "blobSha": "d989fd5b06c555d1ac696264fef0cc45158bfa99",
+      "bytes": 253172
+    },
+    {
+      "path": "landing-page-resource/images/solar-flare-technology.webp",
+      "blobSha": "7ccace6ab6b3682a4d8b2d184e74afca7a2bdbe3",
+      "bytes": 99798
+    },
+    {
+      "path": "landing-page-resource/images/solar-flare-transformation-banner.webp",
+      "blobSha": "c13d7eb79c1a77cc7b3785b429ff1221ef7d2e71",
+      "bytes": 148744
+    },
+    {
+      "path": "landing-page-resource/images/stelhaven-accord-983.webp",
+      "blobSha": "993d6c9650249929f709c97413b39670a5d0069a",
+      "bytes": 136786
+    },
+    {
+      "path": "landing-page-resource/images/stelpadien-language.webp",
+      "blobSha": "6f9c08bb62afd9ec3fc07c9528e899cca3936407",
+      "bytes": 139506
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-across-the-quiet-lake.webp",
+      "blobSha": "e5c9d55957360655b63b707889ea48e52c903033",
+      "bytes": 534640
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-adventure-awaits.webp",
+      "blobSha": "9b2204c2886169ac4a0d9d540b75a09c7066e9a1",
+      "bytes": 558520
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-culinary.webp",
+      "blobSha": "fb9973774ebe679a0cac2be9671270d49a39a5a9",
+      "bytes": 366004
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-governance.webp",
+      "blobSha": "48497ccadf3f8d3222c113633d95b20fac2fd53e",
+      "bytes": 269524
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-hidden-networks.webp",
+      "blobSha": "c65901f41af05e5e134edc06e5f27e5f1978d529",
+      "bytes": 146508
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-keep-moving-forward.webp",
+      "blobSha": "465fdfb7f72999326c23b119ed83fe6d5d29f122",
+      "bytes": 605802
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-rhythm-heaven.webp",
+      "blobSha": "e168f4013d374e2640a8b4e89a3dbb9cb9682282",
+      "bytes": 244874
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-snowfall-in-stelpadland.webp",
+      "blobSha": "643446309195d1a73f554936880cbfd3a0907646",
+      "bytes": 564188
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-the-open-trail.webp",
+      "blobSha": "738d913449ed67859dd91cd76615a2aa440ee4f4",
+      "bytes": 489848
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland-the-wild-and-the-warm.webp",
+      "blobSha": "b312f423d51151b24a5e3a0e012f92b6109eba1a",
+      "bytes": 548000
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland.webp",
+      "blobSha": "72bb7b9fcaf69fd5321e80e31974ef07a147020f",
+      "bytes": 74556
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland1.webp",
+      "blobSha": "8c24e1d6b7787b1a4be78b416abef5161fa56fe5",
+      "bytes": 241454
+    },
+    {
+      "path": "landing-page-resource/images/stelpadland2.webp",
+      "blobSha": "dc0296b0536716b5f1e2af4f3734fd929db5cddf",
+      "bytes": 97094
+    },
+    {
+      "path": "landing-page-resource/images/stelpadlandball.webp",
+      "blobSha": "648ff3855c13bd0134cb5053cfcd26d470af1e09",
+      "bytes": 25954
+    },
+    {
+      "path": "landing-page-resource/images/sterling-logger.webp",
+      "blobSha": "b83af7238410c0cc68de8bd4c14f7217acb01c4a",
+      "bytes": 109184
+    },
+    {
+      "path": "landing-page-resource/images/supreme-existential-antagonist.webp",
+      "blobSha": "12a7e8bc93ef302cfc0be4f5cc86cb343a47575c",
+      "bytes": 36084
+    },
+    {
+      "path": "landing-page-resource/images/system-mistakes-you.webp",
+      "blobSha": "e61e30024bbfa92e29b2c09e7ff53981f2e71d44",
+      "bytes": 105214
+    },
+    {
+      "path": "landing-page-resource/images/talent-longevity.webp",
+      "blobSha": "a4b2140dc69fb99101f43bbdeb863b051f020a92",
+      "bytes": 134486
+    },
+    {
+      "path": "landing-page-resource/images/taramistry-rhythm-heaven.webp",
+      "blobSha": "e90c0552c3499a81adeaa9167672d00577595e10",
+      "bytes": 186090
+    },
+    {
+      "path": "landing-page-resource/images/taramistry-the-molecular-horizon.webp",
+      "blobSha": "c6b6cf68c0d83dd61a043e2f5fc43341056ea12f",
+      "bytes": 298416
+    },
+    {
+      "path": "landing-page-resource/images/taramistry-the-synthesis.webp",
+      "blobSha": "87d908f60a7f729015066ccf732a4c2764842db6",
+      "bytes": 224438
+    },
+    {
+      "path": "landing-page-resource/images/taramistry.webp",
+      "blobSha": "30c575c3cd87ea12116af8f3c713d124fde6169d",
+      "bytes": 22142
+    },
+    {
+      "path": "landing-page-resource/images/taramistry4.webp",
+      "blobSha": "60853984ff917d81d119ea25da1ca61ed5f8b2b4",
+      "bytes": 69358
+    },
+    {
+      "path": "landing-page-resource/images/taramistry6.webp",
+      "blobSha": "baf0b4fa74387dbaf2850582d7f0bc7d1d2ebe45",
+      "bytes": 260550
+    },
+    {
+      "path": "landing-page-resource/images/taramistry7.webp",
+      "blobSha": "dbf67b420e0a27a36464e3e92c3d2c602c14c37e",
+      "bytes": 432082
+    },
+    {
+      "path": "landing-page-resource/images/taramistryball.webp",
+      "blobSha": "77230a379bde08c01e6591b432294f23fbc09cce",
+      "bytes": 40496
+    },
+    {
+      "path": "landing-page-resource/images/tcbc-troneiput-cutneiput-banking-corporation.webp",
+      "blobSha": "85888b12014a303d98ee8f982554afa47b3df6ef",
+      "bytes": 178412
+    },
+    {
+      "path": "landing-page-resource/images/tcbc-troneiput-cutneiput-banking-corporation1.webp",
+      "blobSha": "81d7c07fb8da769654945429eb6d1df006d6f0a3",
+      "bytes": 94604
+    },
+    {
+      "path": "landing-page-resource/images/tda-rsc-integration.webp",
+      "blobSha": "fe76807dad61835b956a119a861f75db46543696",
+      "bytes": 115504
+    },
+    {
+      "path": "landing-page-resource/images/tda-tetration-thrm.webp",
+      "blobSha": "bdb04b9367d62f7fcbf7c4dbc7032085f55c7ca4",
+      "bytes": 99630
+    },
+    {
+      "path": "landing-page-resource/images/tda-twin-digital-atom.webp",
+      "blobSha": "7984a61491103923243baa3f0decc1a2b70ccbde",
+      "bytes": 93356
+    },
+    {
+      "path": "landing-page-resource/images/temple-policy-redpill-extreme.webp",
+      "blobSha": "08e3c182854d96cb792a2ec3fc078fdf45884936",
+      "bytes": 76084
+    },
+    {
+      "path": "landing-page-resource/images/temple-policy-redpill-extreme1.webp",
+      "blobSha": "161495bb56df491b2141b0656087656ec6768c80",
+      "bytes": 186104
+    },
+    {
+      "path": "landing-page-resource/images/tetration-protocols.webp",
+      "blobSha": "e8e5004a223accb08fb5d527a2af3efdc9caf265",
+      "bytes": 59578
+    },
+    {
+      "path": "landing-page-resource/images/the-500k-lesson.webp",
+      "blobSha": "b39612ed8060a80cfbda97cbfc8cbecb7a26d82d",
+      "bytes": 146310
+    },
+    {
+      "path": "landing-page-resource/images/the-abyss-of-comfort.webp",
+      "blobSha": "1abef03db4291f172195efc64869acc4b92b5e5b",
+      "bytes": 18638
+    },
+    {
+      "path": "landing-page-resource/images/the-art-of-comment-engineering.webp",
+      "blobSha": "9e2be04f8f107dcdc7fb7b3b13ced2adab49e581",
+      "bytes": 60126
+    },
+    {
+      "path": "landing-page-resource/images/the-burrow-stelpadland.webp",
+      "blobSha": "1ffa7bbaa05d0f5950734aa3e1fb973c7b8f7ca9",
+      "bytes": 153388
+    },
+    {
+      "path": "landing-page-resource/images/the-core-that-breathes-back.webp",
+      "blobSha": "b00986110cd98d6c93524de48eedfc672bad6f13",
+      "bytes": 82222
+    },
+    {
+      "path": "landing-page-resource/images/the-day-i-remembered.webp",
+      "blobSha": "bf0240a97c30525fa936bb0712b3f5ed18feef11",
+      "bytes": 62268
+    },
+    {
+      "path": "landing-page-resource/images/the-feeding-stair.webp",
+      "blobSha": "768afae4a0b315ae742804f2f4f49da2822c977d",
+      "bytes": 77530
+    },
+    {
+      "path": "landing-page-resource/images/the-first-unraveling.webp",
+      "blobSha": "0b949beb13027ed383069bedda6de5c355418c65",
+      "bytes": 121348
+    },
+    {
+      "path": "landing-page-resource/images/the-galaxy.webp",
+      "blobSha": "6775576fe2454e63c975323de43439662ea961f8",
+      "bytes": 90386
+    },
+    {
+      "path": "landing-page-resource/images/the-light-that-never-left.webp",
+      "blobSha": "e377fe4c2b44869683fb37554a564e1fed84e5ee",
+      "bytes": 242342
+    },
+    {
+      "path": "landing-page-resource/images/the-name-remembered.webp",
+      "blobSha": "0976583389d7c23351ded2c7c4f059f6327601d1",
+      "bytes": 93120
+    },
+    {
+      "path": "landing-page-resource/images/the-only-it-worldbuilder.webp",
+      "blobSha": "93fd271da0c703308aa89ef9a6f4a49ad86b6d5b",
+      "bytes": 46158
+    },
+    {
+      "path": "landing-page-resource/images/the-reltronland-ascension.webp",
+      "blobSha": "840e7d3b67aac02bf5de612ac8bae25823dda5d9",
+      "bytes": 401474
+    },
+    {
+      "path": "landing-page-resource/images/the-safe-house-pact.webp",
+      "blobSha": "c4c6e2e980bfbca4e8caedeccf9055808cd78859",
+      "bytes": 85872
+    },
+    {
+      "path": "landing-page-resource/images/the-spiral-maw.webp",
+      "blobSha": "3f82a00bfd5bd55556cecafb286891234ed41d0e",
+      "bytes": 57792
+    },
+    {
+      "path": "landing-page-resource/images/the-three-fronts-of-reltronalnd-pressure.webp",
+      "blobSha": "338c51470909de635fcabc522855f170e4df935d",
+      "bytes": 352278
+    },
+    {
+      "path": "landing-page-resource/images/the-void-hero-rsc.webp",
+      "blobSha": "964113e07ae618977a3fccbbfbca92305e069a2f",
+      "bytes": 101364
+    },
+    {
+      "path": "landing-page-resource/images/thrynos.webp",
+      "blobSha": "fc14ea0ec9b005e0f8d15937a9e308c3b104ca39",
+      "bytes": 28212
+    },
+    {
+      "path": "landing-page-resource/images/timber-soul-stelpadland.webp",
+      "blobSha": "9b032575ab5969b84336ce06401a7753d6681cec",
+      "bytes": 188716
+    },
+    {
+      "path": "landing-page-resource/images/tomb-raider-framework.webp",
+      "blobSha": "c7ef30238329b2477f7ea975461093cde01f6d01",
+      "bytes": 192612
+    },
+    {
+      "path": "landing-page-resource/images/tron-cut-ancestral-lineage.webp",
+      "blobSha": "975a40f49d816994444c42b37e964f75498d3853",
+      "bytes": 272294
+    },
+    {
+      "path": "landing-page-resource/images/tron-prime-capital-ships.webp",
+      "blobSha": "3676d839993c1703870c2f138244fe213e5b1cd9",
+      "bytes": 59868
+    },
+    {
+      "path": "landing-page-resource/images/tronexus-v-class.webp",
+      "blobSha": "8de2b66c8b746052341795cf3ccbfcbe2099723d",
+      "bytes": 58666
+    },
+    {
+      "path": "landing-page-resource/images/twilight-terminal.webp",
+      "blobSha": "25fd6ebbad3a04f6cdece3e204cdcb86385289f6",
+      "bytes": 187598
+    },
+    {
+      "path": "landing-page-resource/images/twin-digital-accord.webp",
+      "blobSha": "416c0173dd82c97f73b3464a56f83fef17d64608",
+      "bytes": 143756
+    },
+    {
+      "path": "landing-page-resource/images/ufaps-reltronland.webp",
+      "blobSha": "4510b428e25d4d9b6b5fa6d741270801b7a4eede",
+      "bytes": 182264
+    },
+    {
+      "path": "landing-page-resource/images/user-ui.webp",
+      "blobSha": "618aba742e9411226b3c59848b62d13482e47d66",
+      "bytes": 21922
+    },
+    {
+      "path": "landing-page-resource/images/value-index.webp",
+      "blobSha": "2134a6d0a466b5880bb586782bcfada8b917ea0d",
+      "bytes": 28800
+    },
+    {
+      "path": "landing-page-resource/images/vanyathra-abyssborn-nation.webp",
+      "blobSha": "365e746d44a86fc7818d0a808998c3725441a11f",
+      "bytes": 41642
+    },
+    {
+      "path": "landing-page-resource/images/vanyathra-ground-war.webp",
+      "blobSha": "102789b49be9d1d22371fedd88479c655d2ec33e",
+      "bytes": 35506
+    },
+    {
+      "path": "landing-page-resource/images/vierkernplatte.webp",
+      "blobSha": "136382f7a26b05ff49d1131aa5b4a506dd67449a",
+      "bytes": 146732
+    },
+    {
+      "path": "landing-page-resource/images/vierkernplatte2.webp",
+      "blobSha": "4bbcf22bcaacb80ea5d286f4c2c97a7f5cb036bf",
+      "bytes": 294942
+    },
+    {
+      "path": "landing-page-resource/images/voidfront-surveillance-probes.webp",
+      "blobSha": "b0720817075ac84ef41a64bb8dd0cb46276c3554",
+      "bytes": 47672
+    },
+    {
+      "path": "landing-page-resource/images/voidtropolis-void-energy-capital.webp",
+      "blobSha": "f583998c31b33ff6739ec23f7cf99544bc59b0e1",
+      "bytes": 218280
+    },
+    {
+      "path": "landing-page-resource/images/voltraxis.webp",
+      "blobSha": "1da31a02d8606b0f7dde97c8010c4af45b3c5729",
+      "bytes": 17780
+    },
+    {
+      "path": "landing-page-resource/images/wall-of-silenced-builders.webp",
+      "blobSha": "9b43da7c8471b114ff6133b784d041c6acbcdb6f",
+      "bytes": 341684
+    },
+    {
+      "path": "landing-page-resource/images/wayne-astoner.webp",
+      "blobSha": "599d9516c8ebee5656a637baf5d59fadf587e74e",
+      "bytes": 94612
+    },
+    {
+      "path": "landing-page-resource/images/web3-library-protocol-depcutland.webp",
+      "blobSha": "834b464a40a4db57a07a349ce7ce35954a0f03c3",
+      "bytes": 53990
+    },
+    {
+      "path": "landing-page-resource/images/westley-watson-0.webp",
+      "blobSha": "c08eb09d60345b47eaa46fcfe96471819bd9f39c",
+      "bytes": 59228
+    },
+    {
+      "path": "landing-page-resource/images/westley-watson-1.webp",
+      "blobSha": "1f9c9fda040481900f6036af1e9d39539fe637df",
+      "bytes": 159710
+    },
+    {
+      "path": "landing-page-resource/images/westley-watson-2.webp",
+      "blobSha": "a5dfa8fa6fa0fa24c72f82cb71183e14dbe9e5fe",
+      "bytes": 64022
+    },
+    {
+      "path": "landing-page-resource/images/westley-watson.webp",
+      "blobSha": "a5dfa8fa6fa0fa24c72f82cb71183e14dbe9e5fe",
+      "bytes": 64022
+    },
+    {
+      "path": "landing-page-resource/images/when-raina-read-the-letter.webp",
+      "blobSha": "56fd4737d62304b0fcb3430ac4fa6594bc40b659",
+      "bytes": 91130
+    },
+    {
+      "path": "landing-page-resource/images/whispergrove.webp",
+      "blobSha": "1274356bcf8792ea54ae2c5335a873d32d24729c",
+      "bytes": 133946
+    },
+    {
+      "path": "landing-page-resource/images/why-bureaucracy-rebellion.webp",
+      "blobSha": "f9f319b028f81ae59429d512ce598375b1599280",
+      "bytes": 151384
+    },
+    {
+      "path": "landing-page-resource/images/why-immigrants-choose-asthortera.webp",
+      "blobSha": "74af1212132661b0924fac73344cefbb48185aed",
+      "bytes": 121270
+    },
+    {
+      "path": "landing-page-resource/images/why-reltroner-more-than-earth.webp",
+      "blobSha": "74c9b1309b130fa573217f495c42dca7afb43ca8",
+      "bytes": 111112
+    },
+    {
+      "path": "landing-page-resource/images/why-reltroner-not-sandbox.webp",
+      "blobSha": "db7e165936eabed7c7f2d0882431043088491095",
+      "bytes": 62594
+    },
+    {
+      "path": "landing-page-resource/images/why-reltroner-real-entertainment.webp",
+      "blobSha": "4538b978b8b6401795d25cf8768c3b413617ffb2",
+      "bytes": 219326
+    },
+    {
+      "path": "landing-page-resource/images/world-population-day-reltronland.webp",
+      "blobSha": "8d5f6cdf407286eddd8c9f62269b63223d3c30e4",
+      "bytes": 99088
+    },
+    {
+      "path": "landing-page-resource/images/worldbuilding-as-civilizational-blueprint.webp",
+      "blobSha": "8e1a3f6b3238140512e4d02773540be3a9c47802",
+      "bytes": 162136
+    },
+    {
+      "path": "landing-page-resource/images/WorldBuilding.webp",
+      "blobSha": "1b0ff5af30cfa26f37500eb7ec50bfaa2a87d385",
+      "bytes": 88896
+    },
+    {
+      "path": "landing-page-resource/images/worlds-for-enthusiasts.webp",
+      "blobSha": "cdbfdcd9f398ab5f2b840d79e00fdf98e113bcc9",
+      "bytes": 78058
+    },
+    {
+      "path": "landing-page-resource/images/worst-case-protocol.webp",
+      "blobSha": "f902f0d77698d77d1576fbb205ec31a964863f57",
+      "bytes": 105244
+    },
+    {
+      "path": "landing-page-resource/images/writing-on-the-spiral.webp",
+      "blobSha": "22dc29b7595ab77f8c8fb39fc5b33b0956ff8ec9",
+      "bytes": 63210
+    },
+    {
+      "path": "landing-page-resource/images/youtubers-have-civilization.webp",
+      "blobSha": "567fe53b53b1aa4044b93a0067e4db56e6afed0c",
+      "bytes": 206430
+    },
+    {
+      "path": "landing-page-resource/videos/astrostelia-part1.mp4",
+      "blobSha": "12e9a823cb83edfce2426f2d6643c41684c6ae98",
+      "bytes": 5116854
+    },
+    {
+      "path": "landing-page-resource/videos/aurastelia-part1.mp4",
+      "blobSha": "a298ee293af0d49d790439707456ad5e6b29d42e",
+      "bytes": 7191387
+    },
+    {
+      "path": "landing-page-resource/videos/beluftner-part1.mp4",
+      "blobSha": "255da20b69a5efab7b3164f407aa9b263a01768f",
+      "bytes": 3395126
+    },
+    {
+      "path": "landing-page-resource/videos/boarding-pass-to-trouble-part-1.mp4",
+      "blobSha": "6752c1ce92923e1bf9b206ae14b59f1b1a7a5bc9",
+      "bytes": 9718339
+    },
+    {
+      "path": "landing-page-resource/videos/cenrestier-part1.mp4",
+      "blobSha": "eea8c753f9e0b83bfc6ca01240b9a6b52e68aa42",
+      "bytes": 2574224
+    },
+    {
+      "path": "landing-page-resource/videos/depcutland-part1.mp4",
+      "blobSha": "85c88677a785f77e2d19af16b2c66f411687b57b",
+      "bytes": 2824848
+    },
+    {
+      "path": "landing-page-resource/videos/hargenbor.mp4",
+      "blobSha": "85ddf2ccd3510296bf294a6f89f6a863a9875408",
+      "bytes": 4114270
+    },
+    {
+      "path": "landing-page-resource/videos/ilumineapolis.mp4",
+      "blobSha": "af8e14d32f1a8bc19c91b13673267a5c63e4e506",
+      "bytes": 2628847
+    },
+    {
+      "path": "landing-page-resource/videos/kalgered-part1.mp4",
+      "blobSha": "9305457708eb2669d1631540d9cfd9b9627134f5",
+      "bytes": 3029818
+    },
+    {
+      "path": "landing-page-resource/videos/lenternow-part2.mp4",
+      "blobSha": "7086eb9d126dc993e468eda2b7435362ec8d3983",
+      "bytes": 6304284
+    },
+    {
+      "path": "landing-page-resource/videos/moreg-part1.mp4",
+      "blobSha": "008d8196e4b74848723fb93b1f67d96df2c47163",
+      "bytes": 7421390
+    },
+    {
+      "path": "landing-page-resource/videos/pasgerflit-part1.mp4",
+      "blobSha": "3924d6249ff192efc21b4f9ec6fa6e7f9372650e",
+      "bytes": 9108932
+    },
+    {
+      "path": "landing-page-resource/videos/pencilfania.mp4",
+      "blobSha": "1e53f89387d7b25daabda2c53f092bda69e8424b",
+      "bytes": 2972216
+    },
+    {
+      "path": "landing-page-resource/videos/reltronland-part1.mp4",
+      "blobSha": "4a3467b57bb665977176ee3f6cd07df113b301ab",
+      "bytes": 3383482
+    },
+    {
+      "path": "landing-page-resource/videos/sketchline-commons-biome.mp4",
+      "blobSha": "b744707e6c580bebcf85f5074ff432f3b0a6ad20",
+      "bytes": 6925298
+    },
+    {
+      "path": "landing-page-resource/videos/stelpadland-part1.mp4",
+      "blobSha": "20731c5db3d980e649ca58f9d061a055179b9cb7",
+      "bytes": 4808902
+    },
+    {
+      "path": "landing-page-resource/videos/taramistry-part1.mp4",
+      "blobSha": "dd79d18fe552bd2ff7b37de734db5d49522651c0",
+      "bytes": 3454536
+    }
+  ]
+}

@@ -1,11 +1,42 @@
 @import "../styles/globals/index.css";
+@source not "../artifacts";
+
+.rs-form-input {
+    display: block;
+    width: 100%;
+    min-height: 3rem;
+    border: 1px solid #475569;
+    border-radius: .75rem;
+    padding: .75rem 1rem;
+    background: #020617;
+    color: #f8fafc;
+}
+
+.rs-form-input[aria-invalid="true"] { border-color: #fca5a5; }
+.rs-action-primary {
+    display: inline-flex;
+    min-height: 3rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: .75rem;
+    background: #2563eb;
+    padding: .75rem 1.5rem;
+    font-weight: 600;
+    color: #fff;
+}
+.rs-action-primary:hover { background: #1d4ed8; }
+.rs-action-primary:disabled { cursor: wait; opacity: .65; }
+:where(a, button, input, textarea, select, summary):focus-visible {
+    outline: 2px solid #7dd3fc;
+    outline-offset: 4px;
+}
 
 /* =========================================================
    GLOBAL LAYOUT HARDENING
    ========================================================= */
 
 :root {
-    --mobile-navbar-height: 5.25rem;
+    --mobile-navbar-height: 0rem;
     --mobile-page-gutter: 1rem;
 }
 
@@ -138,7 +169,7 @@ select {
 
 /*
  * Ensure anchor destinations are not hidden behind the
- * fixed mobile navbar.
+ * safe top gutter when navigating to an anchor.
  */
 [id] {
     scroll-margin-top: calc(var(--mobile-navbar-height) + env(safe-area-inset-top) + 1rem);
@@ -148,6 +179,12 @@ select {
    EDITORIAL CONTENT HARDENING
    ========================================================= */
 
+.article-title, .editorial-prose {
+    --rs-article-h1-size: 2.083334rem;
+    --rs-article-h2-size: 1.805556rem;
+    --rs-article-h3-size: 1.527778rem;
+    --rs-article-h4-size: 1.25rem;
+}
 .editorial-prose {
     width: 100%;
     max-width: 100%;
@@ -155,11 +192,134 @@ select {
 
     overflow-wrap: anywhere;
     word-break: normal;
+    font-size: 1.041667rem;
+    font-weight: 400;
+    line-height: 1.75;
 }
+.editorial-prose :is(p, li, blockquote) { line-height: 1.75; }
+.editorial-prose p { margin-block: 0 1.1em; }
 
 .editorial-prose>* {
     max-width: 100%;
 }
+
+/* Prose keeps a readable measure inside the wider, centered media surface. */
+.editorial-prose > :is(p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote) {
+    width: 100%;
+    max-width: var(--rs-measure-reading);
+    margin-left: auto;
+    margin-right: auto;
+}
+.editorial-prose > p:has(> img) { max-width: 100%; }
+.editorial-prose .archive-heading { scroll-margin-top: 1.5rem; }
+
+/* Article-only editorial hierarchy; collection and onboarding headings keep
+   their own presentation. Media still uses the full article surface. */
+.article-introduction {
+    width: 100%;
+    max-width: var(--rs-measure-reading);
+    margin-inline: auto;
+    gap: 1rem;
+}
+.article-title {
+    margin: .25rem 0 0;
+    font-size: var(--rs-article-h1-size);
+    line-height: 1.25;
+    font-weight: 700;
+    letter-spacing: -.025em;
+    color: var(--rs-text-main);
+    text-wrap: balance;
+    overflow-wrap: anywhere;
+}
+.editorial-scope-note {
+    margin: 0;
+    font-size: .9rem;
+    line-height: 1.6;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--rs-text-subtle);
+    opacity: .9;
+}
+.article-summary,
+.editorial-prose > p.editorial-lead {
+    font-size: 1.1112rem;
+    line-height: 1.65;
+    font-weight: 400;
+    color: var(--rs-text-muted);
+}
+.article-summary { margin: 0; }
+.article-summary > p { margin: 0; }
+.article-title { scroll-margin-top: 1.5rem; }
+.editorial-prose > p.editorial-lead { margin-block: 1rem 1.75rem; }
+.editorial-prose :is(h1, h2, h3, h4).archive-heading {
+    padding-top: 0;
+    border: 0;
+    font-weight: 700;
+    letter-spacing: -.02em;
+    color: var(--rs-text-main);
+    text-wrap: balance;
+    margin-bottom: .75rem;
+}
+.editorial-prose .archive-heading strong, .article-title strong { font-weight: 700; color: inherit; }
+.editorial-prose h1.archive-heading {
+    font-size: var(--rs-article-h1-size);
+    line-height: 1.25;
+    margin-top: 2rem;
+}
+.editorial-prose h2.archive-heading {
+    font-size: var(--rs-article-h2-size);
+    line-height: 1.3;
+    margin-top: 1.75rem;
+}
+.editorial-prose h3.archive-heading {
+    font-size: var(--rs-article-h3-size);
+    line-height: 1.35;
+    margin-top: 1.5rem;
+}
+.editorial-prose h4.archive-heading {
+    font-size: var(--rs-article-h4-size);
+    line-height: 1.4;
+    font-weight: 650;
+    margin-top: 1.25rem;
+    text-transform: none;
+}
+@media (min-width: 40rem) {
+    .editorial-prose { font-size: 1rem; }
+}
+@media (min-width: 48rem) {
+    .article-title, .editorial-prose {
+        --rs-article-h1-size: 2.375rem;
+        --rs-article-h2-size: 1.875rem;
+        --rs-article-h3-size: 1.5rem;
+        --rs-article-h4-size: 1.25rem;
+    }
+    .article-summary,
+    .editorial-prose > p.editorial-lead { font-size: 1.1875rem; }
+}
+@media (min-width: 64rem) {
+    .article-title, .editorial-prose {
+        --rs-article-h1-size: 2.5rem;
+        --rs-article-h2-size: 2rem;
+        --rs-article-h3-size: 1.625rem;
+        --rs-article-h4-size: 1.3125rem;
+    }
+    .editorial-prose h1.archive-heading { margin-top: 2.75rem; }
+    .editorial-prose h2.archive-heading { margin-top: 2.25rem; }
+    .editorial-prose h3.archive-heading { margin-top: 1.875rem; }
+    .editorial-prose h4.archive-heading { margin-top: 1.5rem; }
+}
+
+/* The entire collection intro is one editorial group, sharing one center. */
+.collection-intro {
+    display: flex; flex-direction: column; align-items: center;
+    gap: .875rem; width: 100%; max-width: 64rem;
+    margin: 0 auto 2rem; text-align: center;
+}
+.collection-intro > * { margin-top: 0; margin-bottom: 0; }
+.collection-intro .collection-title { padding-bottom: 0; }
+.collection-breadcrumb ol { row-gap: .5rem; }
+.collection-breadcrumb li { min-width: 0; max-width: 100%; }
+.collection-breadcrumb :is(a, span) { overflow-wrap: anywhere; }
 
 .editorial-prose p,
 .editorial-prose li,
@@ -231,6 +391,35 @@ select {
    CODE AND TABLE OVERFLOW
    ========================================================= */
 
+/* One validated media renderer for directives and authored HTML. */
+.rs-video-embed {
+    width: 100%; margin: 2rem 0; overflow: hidden;
+    border: 1px solid rgb(125 211 252 / 25%);
+    border-radius: 1rem; background: rgb(2 6 23 / 80%);
+}
+.rs-video-frame { position: relative; width: 100%; aspect-ratio: 16 / 9; background: #000; }
+.rs-video-frame:has(iframe[src*="youtube-nocookie.com"]) { min-height: 200px; }
+.rs-video-embed .rs-video-frame :is(video, iframe) {
+    position: absolute; inset: 0; display: block;
+    width: 100%; height: 100%; border: 0; object-fit: contain; margin: 0;
+}
+.rs-video-embed figcaption {
+    display: flex; flex-direction: column; gap: .5rem;
+    padding: 1rem; font-size: .875rem; line-height: 1.5;
+}
+.rs-video-embed figcaption a { align-self: flex-start; padding: .5rem 0; min-height: 44px; }
+.media-provider-note { color: #94a3b8; }
+.rs-video-embed .native-video-status {
+    position: absolute; inset: 0; display: grid; place-items: center;
+    margin: 0; padding: 1rem; font-size: 1rem;
+}
+.native-video-unavailable { display: none; }
+[data-native-video][data-media-state="loading"] video { visibility: hidden; }
+[data-native-video][data-media-state="ready"] .native-video-status { display: none; }
+[data-native-video][data-media-state="unavailable"] .rs-video-frame { display: none; }
+[data-native-video][data-media-state="unavailable"] .native-video-unavailable { display: block; }
+.media-unavailable { padding: 1.5rem; }
+
 .editorial-prose pre {
     width: 100%;
     max-width: 100%;
@@ -290,6 +479,84 @@ select {
     overflow-x: auto;
     overscroll-behavior-inline: contain;
     -webkit-overflow-scrolling: touch;
+}
+
+/* One desktop editorial column inside the wider article surface. Keep the
+ * accepted mobile layout and typography; only the available measure changes. */
+@media (min-width: 1024px) {
+    .archive-article-shell {
+        max-width: 94rem;
+    }
+
+    .archive-article-shell :is(article.surface-card, section.surface-glass) {
+        max-width: calc(var(--rs-measure-wide) - 2rem);
+        margin-inline: auto;
+    }
+
+    .archive-article-shell article.surface-card {
+        --rs-article-content-measure: clamp(48rem, 56vw, 50rem);
+    }
+
+    .archive-article-shell :is(.article-introduction, .editorial-prose, .media-frame) {
+        width: 100%;
+        max-width: var(--rs-article-content-measure);
+        margin-inline: auto;
+    }
+
+    .archive-article-shell .editorial-prose > :is(p, h1, h2, h3, h4, h5, h6, ul, ol, blockquote, pre, .archive-table-wrap) {
+        max-width: 100%;
+    }
+
+    .archive-article-shell .media-frame {
+        margin-block-end: 1.5rem;
+    }
+
+    .archive-article-shell .editorial-prose .rs-video-embed {
+        margin-block: 1.5rem;
+    }
+
+    .archive-article-shell .editorial-prose > .rs-video-embed:first-child {
+        margin-block-start: 0;
+    }
+
+    /* Loaded native media uses its intrinsic ratio; provider frames retain
+     * their existing aspect ratio, fallback and consent behavior. */
+    .archive-article-shell .editorial-prose [data-native-video][data-media-state="ready"] .rs-video-frame {
+        aspect-ratio: auto;
+    }
+
+    .archive-article-shell .editorial-prose [data-native-video][data-media-state="ready"] video {
+        position: static;
+        height: auto;
+    }
+
+    .archive-article-shell .editorial-prose .rs-video-embed figcaption {
+        gap: .25rem;
+        padding-block: .75rem;
+    }
+
+    .archive-article-shell .editorial-prose > pre {
+        padding: 1rem 1.25rem;
+    }
+
+    .archive-article-shell .editorial-prose > .archive-table-wrap {
+        /* Space belongs to the table, not the preceding section heading. */
+        margin-block-start: 2rem;
+        padding-inline: 0;
+    }
+
+    .archive-article-shell .editorial-prose > .archive-table-wrap > .archive-table {
+        margin-block: 0;
+    }
+
+    /* Typography resets edge-cell padding; retain readable table gutters. */
+    .archive-article-shell .archive-table :is(th, td):first-child {
+        padding-inline-start: 1rem;
+    }
+
+    .archive-article-shell .archive-table :is(th, td):last-child {
+        padding-inline-end: 1rem;
+    }
 }
 
 /*

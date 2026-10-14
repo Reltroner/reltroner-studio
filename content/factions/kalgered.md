@@ -185,7 +185,7 @@ another instrument of escalation**.
 -   **Nickname(s):** *The Neutral Heart of Asthortera*, *Haven of
     Diplomacy*, *Land of Accord and Precision*
 -   **Area:** 108 million km²
--   **Population:** 58 billion sentient beings
+-   **Population:** 108 billion sentient beings
 -   **Capital City:** **Neuvalden** --- political and diplomatic center
 -   **Institutional Capital:** **Stelhaven** --- headquarters of
     international institutions

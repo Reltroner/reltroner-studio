@@ -1,3 +1,6 @@
 disabled-api/
 pages/api/get.js
 pages/api/set.js
+artifacts/
+project-architecture.txt
+.env*

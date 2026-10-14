@@ -9,7 +9,8 @@ export default function HoverDepth({ children, className = '' }) {
 
   return (
     <LazyMotion features={domAnimation} strict>
-      <m.div className={className} {...motionProps}>
+      {/* The containing link owns keyboard focus, regardless of motion preference. */}
+      <m.div className={className} tabIndex={-1} {...motionProps}>
         {children}
       </m.div>
     </LazyMotion>

@@ -100,7 +100,7 @@ This contradiction places Moreg at the center of the later conflict in *The Abys
 
 ## Population
 
-**152 billion**
+**205 billion**
 
 ### Demographic Composition
 

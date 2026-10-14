@@ -5,8 +5,13 @@ import ReadingProgressBar from "@/components/worldbuilding/ReadingProgressBar";
 import WikiBreadcrumbs, { BreadcrumbSegment } from "@/components/wiki/WikiBreadcrumbs";
 import { resolveCdnImageUrl } from "@/lib/assets/image";
 import { getCollectionConfig } from "@/lib/constants/collections";
+import AdaptiveArchiveShell from "@/components/archive/AdaptiveArchiveShell";
+import { CLASSIFICATION_LABELS, type PublicContentEntry } from "@/lib/content/taxonomy";
+import type { ContentCollectionDefinition, ContentEntry, ContentHeading, RelatedContentEntry } from "@/types/content";
+import ContentMediaFallback from "@/components/media/ContentMediaFallback";
+import type { ArticleIntroduction } from "@/lib/content/editorial-typography";
 
-function getArchiveTone(config: any) {
+function getArchiveTone(config: ContentCollectionDefinition) {
   if (!config) {
     return "Civilization archive";
   }
@@ -22,97 +27,120 @@ function getArchiveTone(config: any) {
   return `${config.title} archive`;
 }
 
-interface HeadingItem {
-  id: string;
-  text: string;
-  level: number;
-}
-
-function ReadingPath({ headings, className = "" }: { headings: HeadingItem[]; className?: string }) {
-  if (!headings || !headings.length) {
-    return null;
-  }
-
-  return (
-    <nav className={className} aria-label="Reading path">
-      <p className="mb-3 text-[11px] uppercase tracking-[0.18em] text-slate-400">
-        Reading path
-      </p>
-      <ol className="space-y-2">
-        {headings.map((heading) => (
-          <li key={heading.id}>
-            <a
-              href={`#${heading.id}`}
-              className={`block text-sm leading-6 text-slate-300 transition hover:text-white ${
-                heading.level > 2 ? "pl-3" : ""
-              }`}
-            >
-              {heading.text}
-            </a>
-          </li>
-        ))}
-      </ol>
-    </nav>
-  );
-}
-
 export interface ContentEntryPageProps {
-  entry: any;
+  entry: ContentEntry;
   contentHtml: string;
-  headings?: HeadingItem[];
-  relatedEntries?: any[];
-  jsonLd?: any;
+  introduction?: ArticleIntroduction;
+  headings?: ContentHeading[];
+  relatedEntries?: RelatedContentEntry[];
+  publicIndex: PublicContentEntry[];
+  jsonLd?: unknown;
   jsonLdId?: string;
   analytics?: React.ReactNode;
 }
 
+const EMPTY_HEADINGS: ContentHeading[] = [];
+const EMPTY_RELATED: RelatedContentEntry[] = [];
+
 export default function ContentEntryPage({
   entry,
   contentHtml,
-  headings = [],
-  relatedEntries = [],
+  introduction = { bodyHtml: contentHtml },
+  headings = EMPTY_HEADINGS,
+  relatedEntries = EMPTY_RELATED,
+  publicIndex,
   jsonLd,
   jsonLdId,
   analytics,
 }: ContentEntryPageProps) {
   const config = getCollectionConfig(entry.collection);
   const articleBodyId = `archive-article-body-${entry.collection}-${entry.slug}`;
-  const showReadingPath = headings.length >= 2;
   const entryImage = resolveCdnImageUrl(entry.image);
 
   const breadcrumbs: BreadcrumbSegment[] = [
-    { label: "Knowledge Base", href: "/#knowledge" },
+    { label: "Knowledge Base", href: "/#knowledge-bridge" },
     { label: config?.title || "Archive", href: config?.route || "/" },
-    { label: entry.title }
+    { label: entry.title },
   ];
 
+  const relatedSection = relatedEntries && relatedEntries.length ? (
+    <section className="surface-glass p-6 sm:p-8">
+      <div className="editorial-flow mb-6">
+        <p className="text-[11px] uppercase tracking-[0.18em] text-slate-400">
+          Continue through the archive
+        </p>
+        <Heading as="h2" className="pb-0 text-left text-2xl sm:text-3xl">
+          Associated records
+        </Heading>
+        <p className="max-w-2xl text-sm leading-7 text-slate-300 sm:text-base">
+          Nearby entries linked by shared topics, category echoes, or archive lineage.
+        </p>
+      </div>
+
+      <div className="grid gap-4 md:grid-cols-3">
+        {relatedEntries.map((relatedEntry) => (
+          <Link
+            key={relatedEntry.route}
+            href={relatedEntry.route}
+            className="archive-link-card p-5 transition hover:-translate-y-0.5 hover:border-blue-400/40"
+          >
+            <p className="mb-3 text-[11px] uppercase tracking-[0.18em] text-slate-400">
+              {relatedEntry.collectionTitle}
+            </p>
+            <h3 className="mb-3 text-lg font-semibold tracking-tight text-white">
+              {relatedEntry.title}
+            </h3>
+            <p className="text-sm leading-7 text-slate-300">
+              {relatedEntry.description}
+            </p>
+            <div className="mt-4 flex flex-wrap gap-2 text-[11px] uppercase tracking-[0.16em] text-slate-400">
+              <span>{relatedEntry.relationshipLabel}</span>
+              {relatedEntry.date ? <span>{relatedEntry.date}</span> : null}
+            </div>
+          </Link>
+        ))}
+      </div>
+    </section>
+  ) : null;
+
   return (
-    <div className="editorial-shell py-8 sm:py-10">
+    <AdaptiveArchiveShell
+      headings={headings}
+      entries={publicIndex}
+      currentId={`${entry.collection}:${entry.slug}`}
+      collection={entry.collection}
+      relatedContent={relatedSection}
+    >
       {analytics}
 
       <ReadingProgressBar targetId={articleBodyId} />
 
-      <article className="surface-card overflow-hidden p-6 sm:p-8 lg:p-10">
-        <header className="editorial-flow mb-10">
+      <article className="surface-card min-w-0 overflow-hidden p-4 sm:p-6 lg:p-8">
+        <header className="article-introduction editorial-flow mb-10">
           <WikiBreadcrumbs segments={breadcrumbs} />
 
           <div className="mt-4 flex flex-wrap items-center gap-2 text-[11px] uppercase tracking-[0.18em] text-slate-400">
             <span className="archive-chip">{config?.group || "Archive"}</span>
             <span className="archive-chip">{getArchiveTone(config)}</span>
             {entry.type ? <span className="archive-chip">{entry.type}</span> : null}
+            <span className="archive-chip">{entry.classification ? CLASSIFICATION_LABELS[entry.classification] : "Scope awaiting editorial review"}</span>
           </div>
+          {entry.needsEditorialReview ? <p className="editorial-scope-note">This legacy record is awaiting an explicit editorial scope label. Fiction, analogy and real-world claims require separate interpretation.</p> : null}
 
-          <Heading className="pb-0 text-left text-4xl sm:text-5xl">
-            {entry.title}
-          </Heading>
+          <h1 id={introduction.titleId} className="article-title font-display"
+            dangerouslySetInnerHTML={introduction.titleHtml ? { __html: introduction.titleHtml } : undefined}>
+            {introduction.titleHtml ? undefined : introduction.titleText ?? entry.title}
+          </h1>
 
-          {entry.description ? (
-            <p className="max-w-[76ch] text-base leading-8 text-slate-300 sm:text-lg">
+          {introduction.leadHtml ? (
+            <div className="article-summary" dangerouslySetInnerHTML={{ __html: introduction.leadHtml }} />
+          ) : entry.description ? (
+            <p className="article-summary">
               {entry.description}
             </p>
           ) : null}
 
-          <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr),18rem]">
+          <div className="grid gap-4">
             <div className="flex flex-wrap items-center gap-2 text-sm text-slate-400">
               <span className="archive-chip">{entry.date}</span>
               {entry.modified && entry.modified !== entry.date ? (
@@ -174,6 +202,7 @@ export default function ContentEntryPage({
         </header>
 
         {entryImage ? (
+          <ContentMediaFallback>
           <figure className="media-frame mb-10 border border-slate-700">
             <img
               src={entryImage}
@@ -185,6 +214,7 @@ export default function ContentEntryPage({
               {config?.title || "Archive"} illustration
             </figcaption>
           </figure>
+          </ContentMediaFallback>
         ) : null}
 
         {entry.role ? (
@@ -196,17 +226,13 @@ export default function ContentEntryPage({
           </div>
         ) : null}
 
-        {showReadingPath ? (
-          <ReadingPath headings={headings} className="archive-rail mb-8 p-4 lg:hidden" />
-        ) : null}
-
-        <div className="grid gap-10 lg:grid-cols-[minmax(0,1fr),18rem] lg:items-start">
+        <div className="min-w-0">
           <div className="min-w-0">
-            <div
+            <ContentMediaFallback><div
               id={articleBodyId}
-              className="editorial-prose prose prose-slate prose-lg max-w-[76ch] dark:prose-invert"
-              dangerouslySetInnerHTML={{ __html: contentHtml }}
-            />
+              className="editorial-prose prose prose-slate prose-lg mx-auto dark:prose-invert"
+              dangerouslySetInnerHTML={{ __html: introduction.bodyHtml }}
+            /></ContentMediaFallback>
             
             <div className="mt-12 pt-6 border-t border-slate-800">
                <Link href={config?.route || "/"} className="inline-flex items-center gap-2 text-sm font-medium text-blue-600 transition hover:text-blue-500 dark:text-blue-400 dark:hover:text-blue-300">
@@ -215,61 +241,16 @@ export default function ContentEntryPage({
             </div>
           </div>
 
-          <aside className="hidden lg:block">
-            {showReadingPath ? (
-              <ReadingPath headings={headings} className="archive-rail sticky top-28 p-4" />
-            ) : null}
-          </aside>
         </div>
       </article>
-
-      {relatedEntries && relatedEntries.length ? (
-        <section className="surface-glass mt-8 p-6 sm:p-8">
-          <div className="editorial-flow mb-6">
-            <p className="text-[11px] uppercase tracking-[0.18em] text-slate-400">
-              Continue through the archive
-            </p>
-            <Heading as="h2" className="pb-0 text-left text-2xl sm:text-3xl">
-              Associated records
-            </Heading>
-            <p className="max-w-2xl text-sm leading-7 text-slate-300 sm:text-base">
-              Nearby entries linked by shared topics, category echoes, or archive lineage.
-            </p>
-          </div>
-
-          <div className="grid gap-4 md:grid-cols-3">
-            {relatedEntries.map((relatedEntry) => (
-              <Link
-                key={relatedEntry.route}
-                href={relatedEntry.route}
-                className="archive-link-card p-5 transition hover:-translate-y-0.5 hover:border-blue-400/40"
-              >
-                <p className="mb-3 text-[11px] uppercase tracking-[0.18em] text-slate-400">
-                  {relatedEntry.collectionTitle}
-                </p>
-                <h3 className="mb-3 text-lg font-semibold tracking-tight text-white">
-                  {relatedEntry.title}
-                </h3>
-                <p className="text-sm leading-7 text-slate-300">
-                  {relatedEntry.description}
-                </p>
-                <div className="mt-4 flex flex-wrap gap-2 text-[11px] uppercase tracking-[0.16em] text-slate-400">
-                  <span>{relatedEntry.relationshipLabel}</span>
-                  {relatedEntry.date ? <span>{relatedEntry.date}</span> : null}
-                </div>
-              </Link>
-            ))}
-          </div>
-        </section>
-      ) : null}
 
       {jsonLd ? (
         <Script
           id={jsonLdId}
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }}
         />
       ) : null}
-    </div>
+    </AdaptiveArchiveShell>
   );
 }

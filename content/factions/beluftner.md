@@ -40,7 +40,7 @@ tags:
 | Arcane Research Capital | Elwynthreach                                                         |
 | Official Language       | Beluftner National Language                                          |
 | Currency                | $BLF (Beluftnerian Enchantmark)                                      |
-| Population              | 41 Billion Sentients                                                 |
+| Population              | 91 Billion Sentients                                                 |
 | Territory               | 88 Million km²                                                       |
 | SDI                     | 0.896                                              |
 | National Archetype      | The Cradle Civilization                                              |
@@ -280,7 +280,7 @@ Functions:
 
 ### Total Sentient Population
 
-41 Billion
+91 Billion
 
 ---
 

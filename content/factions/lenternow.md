@@ -114,10 +114,10 @@ The final 2026 upgrade adds the following elements:
 
 The 2026 macroeconomic figures are corrected for internal mathematical consistency.
 
-Because Lenternow has a population of **164 billion sentient beings**, a GDP per capita of approximately **$1.11 million** requires a national GDP of approximately:
+Because Lenternow has a population of **214 billion sentient beings**, a GDP per capita of approximately **$1.11 million** requires a national GDP of approximately:
 
 ```txt
-164,000,000,000 × $1,110,000 ≈ $182,040,000,000,000,000
+214,000,000,000 × $1,110,000 ≈ $182,040,000,000,000,000
 ```
 
 Therefore, the final canon uses:
@@ -163,7 +163,7 @@ This chain defines Lenternow's identity: **light becomes resource, resource beco
 | **Geographic Placement** | Eastern coastal state of the western/main continent |
 | **Strategic Region** | Eastern coastal belt facing the Sea of Lenternow and Hargenbor maritime corridor |
 | **Land Area** | 117 million km² |
-| **Population** | 164 billion sentient beings |
+| **Population** | 214 billion sentient beings |
 | **Capital** | Lighteralis |
 | **Currency** | $LNR — Lenternow Radiance |
 | **Government System** | Bicameral Lenternokratia |
@@ -211,7 +211,7 @@ Lenternow's landscape therefore reinforces its identity: it is not located at th
 
 ## 3.3 Population Density and Spatial Design
 
-Despite a population of **164 billion sentient beings**, Lenternow avoids the urban chaos commonly associated with extremely dense civilizations.
+Despite a population of **214 billion sentient beings**, Lenternow avoids the urban chaos commonly associated with extremely dense civilizations.
 
 This is possible because Lenternow's population is distributed through a combination of:
 
@@ -585,7 +585,7 @@ Lenternow is one of Asthortera's Top 10 economies. Its economic power comes from
 |---|---:|
 | **GDP** | $LNR 182 quadrillion |
 | **GDP per Capita** | approximately $LNR 1.11 million |
-| **Population** | 164 billion sentient beings |
+| **Population** | 214 billion sentient beings |
 | **Currency** | $LNR — Lenternow Radiance |
 | **Light-Based Employment** | 82% |
 | **Sustainable Glow Energy Usage** | 94% |
@@ -1593,7 +1593,7 @@ Lenternow's role in Asthortera:
 
 # 32. Final Canon Summary
 
-Lenternow is a high-SDI luminous nation on Asthortera's western/main continent, known as **The Lanternlight Nation**. With a land area of 117 million km², a population of 164 billion sentient beings, a GDP of $182 quadrillion, a GDP per capita of approximately $1.11 million, and a Sentient Development Index of 0.935.
+Lenternow is a high-SDI luminous nation on Asthortera's western/main continent, known as **The Lanternlight Nation**. With a land area of 117 million km², a population of 214 billion sentient beings, a GDP of $182 quadrillion, a GDP per capita of approximately $1.11 million, and a Sentient Development Index of 0.935.
 
 Its national identity is built around phosphor innovation, lanternlight infrastructure, glow tourism, visual light art, clean energy systems, light intelligence, silent urbanism, glow diplomacy, and spiritual-tech balance.
 

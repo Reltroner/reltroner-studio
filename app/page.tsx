@@ -5,11 +5,14 @@ import EcosystemPillars from '@/components/ecosystem/EcosystemPillars';
 import UseCasePathways from '@/components/ecosystem/UseCasePathways';
 import FeaturedKnowledgeBridge from '@/components/ecosystem/FeaturedKnowledgeBridge';
 import EcosystemRoadmapPreview from '@/components/ecosystem/EcosystemRoadmapPreview';
+import SelectedWorkShowcase from '@/components/ecosystem/SelectedWorkShowcase';
+import NewsletterSection from '@/components/newsletter/NewsletterSection';
 
 export const metadata: Metadata = {
+  alternates: { canonical: 'https://www.reltroner.com/' },
   title: "Reltroner Studio — Ecosystem Gateway",
-  description: "Reltroner Studio is the official gateway to the Reltroner ecosystem — connecting the knowledge base, LMS, HRM, and future ecosystem apps.",
-  keywords: "Reltroner Studio, Asthortera, Reltroner ecosystem, knowledge base, learning management system, human resource management",
+  description: "Start with worldbuilding revision practices for creators or an introductory glossary of the fictional Asthortera universe for readers. Explore engineering work, the knowledge base, LMS, and HRM.",
+  keywords: "Reltroner Studio, worldbuilding, creators, readers, Asthortera fiction, Reltroner ecosystem, knowledge base, learning management system, human resource management",
 };
 
 export default function Home() {
@@ -21,20 +24,22 @@ export default function Home() {
       <UseCasePathways />
       <FeaturedKnowledgeBridge />
       <EcosystemRoadmapPreview />
+      <SelectedWorkShowcase />
+      <NewsletterSection />
 
       <section className="section-shell text-center py-16">
         <h2 className="mb-6 text-3xl font-bold text-white">Ready to explore?</h2>
-        <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="#knowledge-bridge" className="rounded-full bg-blue-600 px-6 py-3 font-medium text-white transition hover:bg-blue-500">
+        <div className="flex flex-col sm:flex-row sm:flex-wrap gap-4 justify-center">
+          <a href="#knowledge-bridge" className="focus-visible:rs-focus-ring rounded-full bg-blue-600 px-6 py-3 font-medium text-white transition hover:bg-blue-500">
             Explore Knowledge Base
           </a>
-          <a href="https://lms.reltroner.com" target="_blank" rel="noreferrer" className="rounded-full rs-glass px-6 py-3 font-medium text-white transition hover:bg-slate-800/50">
+          <a href="https://lms.reltroner.com" target="_blank" rel="noreferrer" className="focus-visible:rs-focus-ring rounded-full rs-glass px-6 py-3 font-medium text-white transition hover:bg-slate-800/50">
             Open LMS ↗
           </a>
-          <a href="https://hrm.reltroner.com" target="_blank" rel="noreferrer" className="rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
+          <a href="https://hrm.reltroner.com" target="_blank" rel="noreferrer" className="focus-visible:rs-focus-ring rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
             Open HRM ↗
           </a>
-          <a href="https://www.youtube.com/@ReltronerStudio" target="_blank" rel="noreferrer" className="rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
+          <a href="https://www.youtube.com/@ReltronerStudio" target="_blank" rel="noreferrer" className="focus-visible:rs-focus-ring rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
             Open Reltroner Studio Music ↗
           </a>
         </div>

@@ -33,7 +33,7 @@ Despite the passage of time, Cenrestier has maintained a cultural continuity tha
 - **Country Name:** Cenrestier  
 - **Nickname:** Land of Fortresses  
 - **Area:** 102 million km²  
-- **Population:** 61 billion people  
+- **Population:** 111 billion people
 
   * 73% Native Asthorteran species (Human-Wizard-Witch)
   * 8%  Human (Cisthetan descent)

@@ -5,7 +5,8 @@ import HoverDepth from '@/components/motion/HoverDepth';
 
 export default function FeaturedKnowledgeBridge() {
   return (
-    <section id="knowledge-bridge" className="mb-12 relative z-10">
+    <section id="knowledge-bridge" className="mb-12 relative z-10 scroll-mt-28">
+      <span id="knowledge" className="absolute top-0 scroll-mt-28" aria-hidden="true" />
       <div className="section-shell text-center mb-8">
         <h2 className="text-2xl font-semibold tracking-tight mb-2 text-white">Knowledge Ecosystem</h2>
         <p className="rs-muted max-w-2xl mx-auto">Explore core archives, principles, and worldbuilding lore.</p>

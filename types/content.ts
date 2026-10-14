@@ -48,6 +48,11 @@ export interface ContentEntry {
   endDate: string;
   author: string;
   published: boolean;
+  classification: import("@/lib/content/taxonomy").EpistemicClassification | null;
+  classificationSource: "frontmatter" | "reviewed-mapping" | "editorial-review";
+  needsEditorialReview: boolean;
+  searchableText: string;
+  revision: string;
   readingTime: number;
   wordCount: number;
   fileName: string;

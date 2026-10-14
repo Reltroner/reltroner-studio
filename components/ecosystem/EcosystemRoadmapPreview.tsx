@@ -11,7 +11,7 @@ const ROADMAP = [
 
 export default function EcosystemRoadmapPreview() {
   return (
-    <section className="section-shell rs-panel p-6 md:p-10 mb-12">
+    <section id="roadmap" className="section-shell rs-panel scroll-mt-28 p-6 md:p-10 mb-12">
       <div className="text-center mb-8">
         <h2 className="text-2xl font-semibold mb-2">Roadmap Preview</h2>
         <p className="rs-muted">The progression of the Reltroner Studio gateway.</p>

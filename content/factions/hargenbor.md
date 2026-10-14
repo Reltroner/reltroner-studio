@@ -64,7 +64,7 @@ Its contradiction is precisely what makes it powerful:
 | **Civilizational Title**       | The Vertical Maritime Civilization of Asthortera                |
 | **Public Role**                | Guardian of the Central Seas                                    |
 | **Strategic Role**             | Abyssal Proxy of Nytherion                                      |
-| **Population**                 | 83 billion                                                      |
+| **Population**                 | 133 billion                                                      |
 | **Land Area**                  | 39 million km²                                                  |
 | **Official Language**          | Hargenbor Sailor Language                                       |
 | **Currency**                   | $HB                                                             |

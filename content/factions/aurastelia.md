@@ -43,7 +43,7 @@ published: true
 * **Motto:** *"Lux Aeterna — Clarity over Control"*
 * **Government System:** Harmonial Monarchy of Resonant Leadership
 * **Leader:** Queen Valethra Seraphine Lunara
-* **Population:** 114 billion sentient beings
+* **Population:** 164 billion sentient beings
 * **Official Language:** Auroral Luminaris
 * **State Religion:** Aurora Sancta
 * **Currency:** \$ALC (Aurora Luminar Cosmic currency)

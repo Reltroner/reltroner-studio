@@ -78,7 +78,7 @@ This chain defines Taramistry's role in Asthortera:
 | **Official Language** | Tarisian Language |
 | **Currency** | $TAR |
 | **Land Area** | 125 million km² |
-| **Total Population** | 170 billion sentient beings |
+| **Total Population** | 242 billion sentient beings |
 | **Government Character** | Scientific meritocracy with bioethical constitutional safeguards |
 | **Guiding Ideology** | Synthetism of Merit |
 | **National Motto** | *"Formulate the Future, Synthesize the Present."* |
@@ -641,7 +641,7 @@ Taramistry's trade advantage comes from value multiplication. It imports materia
 
 ### 17.1 Population Composition
 
-**Total Population:** 170 billion sentient beings.
+**Total Population:** 242 billion sentient beings.
 
 | Group | Share |
 |---|---:|
@@ -989,7 +989,7 @@ Taramistry is not a chaotic cyberpunk biotech state. It is a structured, high-SD
 
 ## 29. Final Canon Summary
 
-Taramistry is a high-SDI chemispunk and pharmapunk nation on Asthortera's eastern continent, known as the **Nation of Synthesis**. With a land area of 125 million km², a population of 170 billion sentient beings, a Sentient Development Index of 0.954, and a Gross National Income per capita of $TAR2,256,740 per year, it is one of the most scientifically advanced countries in Asthortera.
+Taramistry is a high-SDI chemispunk and pharmapunk nation on Asthortera's eastern continent, known as the **Nation of Synthesis**. With a land area of 125 million km², a population of 242 billion sentient beings, a Sentient Development Index of 0.954, and a Gross National Income per capita of $TAR2,256,740 per year, it is one of the most scientifically advanced countries in Asthortera.
 
 Its national ideology, **Synthetism of Merit**, prioritizes synthesis over imitation, evidence before authority, healthcare as citizenship, and ethics in acceleration. These principles manifest through Replication Week, the MedCreds System, and the Three-Gate Protocol.
 

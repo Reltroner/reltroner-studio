@@ -1,14 +1,5 @@
-import CollectionPageClient from "@/components/worldbuilding/CollectionPageClient";
-import { COLLECTIONS } from "@/lib/constants/collections";
-import { getCollectionEntries } from "@/lib/utils/content";
+import { createCollectionPage, getCollectionPageMetadata } from "@/lib/utils/createCollectionPage";
 
-export const metadata = {
-  title: COLLECTIONS.blog.title,
-  description: COLLECTIONS.blog.description,
-};
+export const metadata = getCollectionPageMetadata("blog");
 
-export default async function BlogPage() {
-  const posts = await getCollectionEntries("blog");
-
-  return <CollectionPageClient collection={COLLECTIONS.blog} items={posts} />;
-}
+export default createCollectionPage("blog");
