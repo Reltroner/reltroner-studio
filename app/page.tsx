@@ -16,6 +16,12 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
+  const newsletterActivationVerified =
+    process.env.RESEND_NEWSLETTER_ENABLED === 'true' &&
+    process.env.CLOUDFLARE_WAF_PROTECTION_VERIFIED === 'true' &&
+    process.env.RESEND_HARD_STOP_VERIFIED === 'true' &&
+    process.env.RESEND_UNSUBSCRIBE_VERIFIED === 'true';
+
   return (
     <div className="space-y-8 px-4 sm:px-6 pb-12">
       <EcosystemHero />
@@ -25,7 +31,7 @@ export default function Home() {
       <FeaturedKnowledgeBridge />
       <EcosystemRoadmapPreview />
       <SelectedWorkShowcase />
-      <NewsletterSection />
+      <NewsletterSection activationVerified={newsletterActivationVerified} />
 
       <section className="section-shell text-center py-16">
         <h2 className="mb-6 text-3xl font-bold text-white">Ready to explore?</h2>

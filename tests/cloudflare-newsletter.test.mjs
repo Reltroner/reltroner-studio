@@ -534,3 +534,59 @@ test('disabled mode consistency: disabled env returns prototype response without
   assert.equal(data.delivered, false);
   assert.equal(data.verified, false);
 });
+
+test('arbitrary custom hostnames cannot activate Resend and fail closed before transport', async () => {
+  const { onRequestPost } = await import('../functions/api/newsletter.ts');
+  for (const badHost of [
+    'evil-domain.com',
+    'staging.reltroner.com',
+    'unauthorized.com',
+    'reltroner.org',
+  ]) {
+    const req = new Request(`https://${badHost}/api/newsletter`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Origin: `https://${badHost}`,
+        Host: badHost,
+      },
+      body: JSON.stringify(input),
+    });
+    const check = verifyCloudflareNewsletterActivation(verifiedEnv, req);
+    assert.equal(check.ok, false);
+    assert.equal(check.reason, 'UNAUTHORIZED_HOSTNAME');
+
+    const res = await onRequestPost({ request: req, env: verifiedEnv });
+    assert.equal(res.status, 502);
+    const data = await res.json();
+    assert.equal(data.status, 'rejected');
+  }
+});
+
+test('host mismatch between request.url and Host header fails closed', () => {
+  const spoofReq = new Request('https://www.reltroner.com/api/newsletter', {
+    headers: { host: 'evil-spoof.com' },
+  });
+  const check = verifyCloudflareNewsletterActivation(verifiedEnv, spoofReq);
+  assert.equal(check.ok, false);
+  assert.equal(check.reason, 'UNAUTHORIZED_HOSTNAME');
+});
+
+test('server-side activation calculation logic produces a strict serializable boolean', () => {
+  const computeActivation = (env) =>
+    env.RESEND_NEWSLETTER_ENABLED === 'true' &&
+    env.CLOUDFLARE_WAF_PROTECTION_VERIFIED === 'true' &&
+    env.RESEND_HARD_STOP_VERIFIED === 'true' &&
+    env.RESEND_UNSUBSCRIBE_VERIFIED === 'true';
+
+  assert.equal(computeActivation(verifiedEnv), true);
+  for (const key of [
+    'RESEND_NEWSLETTER_ENABLED',
+    'CLOUDFLARE_WAF_PROTECTION_VERIFIED',
+    'RESEND_HARD_STOP_VERIFIED',
+    'RESEND_UNSUBSCRIBE_VERIFIED',
+  ]) {
+    assert.equal(computeActivation({ ...verifiedEnv, [key]: 'false' }), false);
+    assert.equal(computeActivation({ ...verifiedEnv, [key]: undefined }), false);
+  }
+});

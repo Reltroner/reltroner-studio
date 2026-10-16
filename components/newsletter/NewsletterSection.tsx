@@ -4,33 +4,32 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import SubscribeForm from './SubscribeForm';
 
-export default function NewsletterSection() {
-  const buildEnabled =
-    process.env.RESEND_NEWSLETTER_ENABLED === 'true' &&
-    process.env.CLOUDFLARE_WAF_PROTECTION_VERIFIED === 'true' &&
-    process.env.RESEND_HARD_STOP_VERIFIED === 'true' &&
-    process.env.RESEND_UNSUBSCRIBE_VERIFIED === 'true';
+const APPROVED_HOSTNAMES = new Set([
+  'www.reltroner.com',
+  'reltroner.com',
+  'localhost',
+  '127.0.0.1',
+]);
 
+export default function NewsletterSection({
+  activationVerified = false,
+}: {
+  activationVerified?: boolean;
+}) {
   // Neutral, truthful initial static-render state (prototype) avoids misleading pre-hydration claims on *.pages.dev
   const [activeMode, setActiveMode] = useState<'prototype' | 'pages-dev' | 'live'>('prototype');
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
-    const hostname = window.location.hostname;
+    const hostname = window.location.hostname.toLowerCase();
     if (hostname.includes('.pages.dev')) {
       setActiveMode('pages-dev');
-    } else if (
-      buildEnabled &&
-      (hostname === 'www.reltroner.com' ||
-        hostname === 'reltroner.com' ||
-        hostname === 'localhost' ||
-        hostname === '127.0.0.1')
-    ) {
+    } else if (activationVerified && APPROVED_HOSTNAMES.has(hostname)) {
       setActiveMode('live');
     } else {
       setActiveMode('prototype');
     }
-  }, [buildEnabled]);
+  }, [activationVerified]);
 
   const isLive = activeMode === 'live';
 

@@ -15,7 +15,7 @@ export interface CloudflareNewsletterEnv {
 
 export type ActivationCheck =
   | { ok: true }
-  | { ok: false; reason: 'DISABLED' | 'INVALID_API_KEY' | 'INVALID_SEGMENT_ID' | 'PAGES_DEV_UNPROTECTED' | 'WAF_PROTECTION_UNVERIFIED' | 'RESEND_HARD_STOP_UNVERIFIED' | 'UNSUBSCRIBE_UNVERIFIED' };
+  | { ok: false; reason: 'DISABLED' | 'INVALID_API_KEY' | 'INVALID_SEGMENT_ID' | 'PAGES_DEV_UNPROTECTED' | 'UNAUTHORIZED_HOSTNAME' | 'WAF_PROTECTION_UNVERIFIED' | 'RESEND_HARD_STOP_UNVERIFIED' | 'UNSUBSCRIBE_UNVERIFIED' };
 
 export function verifyCloudflareNewsletterActivation(
   env: CloudflareNewsletterEnv,
@@ -32,20 +32,40 @@ export function verifyCloudflareNewsletterActivation(
   if (!/^[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}$/i.test(segmentId)) {
     return { ok: false, reason: 'INVALID_SEGMENT_ID' };
   }
-  // Cloudflare Free WAF rules on custom zones do not protect *.pages.dev deployment domains
+  // Host verification: Check request URL hostname and Host header consistently.
+  // Permit live Resend mutations only on explicitly approved, WAF-protected hostnames.
   if (request) {
-    let hostname = '';
+    let urlHostname = '';
     try {
-      hostname = new URL(request.url).hostname;
+      urlHostname = new URL(request.url).hostname.toLowerCase();
     } catch {}
-    const hostHeader = (request.headers.get('host') || '').split(':')[0].trim();
+    const rawHostHeader = request.headers.get('host');
+    const hostHeader = (rawHostHeader ? rawHostHeader.split(':')[0] : urlHostname).trim().toLowerCase();
+
+    // *.pages.dev is explicitly unprotected by custom-domain Cloudflare WAF
     if (
-      hostname.endsWith('.pages.dev') ||
-      hostname.includes('.pages.dev') ||
+      urlHostname.endsWith('.pages.dev') ||
+      urlHostname.includes('.pages.dev') ||
       hostHeader.endsWith('.pages.dev') ||
       hostHeader.includes('.pages.dev')
     ) {
       return { ok: false, reason: 'PAGES_DEV_UNPROTECTED' };
+    }
+
+    const isApprovedHost = (h: string) =>
+      h === 'www.reltroner.com' ||
+      h === 'reltroner.com' ||
+      h === 'localhost' ||
+      h === '127.0.0.1';
+
+    if (
+      !urlHostname ||
+      !hostHeader ||
+      !isApprovedHost(urlHostname) ||
+      !isApprovedHost(hostHeader) ||
+      urlHostname !== hostHeader
+    ) {
+      return { ok: false, reason: 'UNAUTHORIZED_HOSTNAME' };
     }
   }
   // Cloudflare Free WAF rule `reltroner-newsletter-protection` (3 req/10s/IP) is currently Disabled

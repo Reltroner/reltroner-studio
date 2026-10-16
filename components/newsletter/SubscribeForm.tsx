@@ -24,18 +24,19 @@ export default function SubscribeForm({
   const lastPreview = useRef('');
   const emailRef = useRef<HTMLInputElement>(null);
 
+const APPROVED_HOSTNAMES = new Set([
+  'www.reltroner.com',
+  'reltroner.com',
+  'localhost',
+  '127.0.0.1',
+]);
+
   useEffect(() => {
     if (typeof window === 'undefined') return;
-    const hostname = window.location.hostname;
+    const hostname = window.location.hostname.toLowerCase();
     if (hostname.includes('.pages.dev') || isPagesDev) {
       setRuntimeState('pages-dev');
-    } else if (
-      (live || enabled) &&
-      (hostname === 'www.reltroner.com' ||
-        hostname === 'reltroner.com' ||
-        hostname === 'localhost' ||
-        hostname === '127.0.0.1')
-    ) {
+    } else if ((live || enabled) && APPROVED_HOSTNAMES.has(hostname)) {
       setRuntimeState('live');
     } else {
       setRuntimeState('initial');
