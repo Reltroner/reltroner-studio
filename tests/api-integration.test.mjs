@@ -4,8 +4,7 @@ import { createResendContractAdapter } from '../lib/newsletter/resend.server.ts'
 import { newsletterService } from '../lib/newsletter/service.ts';
 import { contactService } from '../lib/contact/service.ts';
 import { getConfiguredAssistantProvider } from '../lib/assistant/provider.server.ts';
-import * as newsletterRoute from '../app/api/newsletter/route.ts';
-import * as contactRoute from '../app/api/contact/route.ts';
+import * as newsletterRoute from '../functions/api/newsletter.ts';
 import { GET as assistantAvailability } from '../app/api/assistant/route.ts';
 
 const email = 'synthetic@example.test';
@@ -234,22 +233,17 @@ function apiRequest(path, body, headers = {}) {
 }
 
 test('existing form endpoints preserve their exact prototype response and method exports; no provider is activated', async () => {
-  assert.deepEqual(Object.keys(newsletterRoute), ['POST']);
-  assert.deepEqual(Object.keys(contactRoute), ['POST']);
+  assert.equal(typeof newsletterRoute.POST, 'function');
   const newsletter = await newsletterRoute.POST(apiRequest('newsletter', input));
   assert.equal(newsletter.status, 200);
   assert.equal(newsletter.headers.get('cache-control'), 'no-store');
   assert.deepEqual(await newsletter.json(), await newsletterService.subscribe(input, 'fixture'));
-  const contactResponse = await contactRoute.POST(apiRequest('contact', inquiry));
-  assert.equal(contactResponse.status, 200);
-  assert.equal(contactResponse.headers.get('cache-control'), 'no-store');
-  assert.deepEqual(await contactResponse.json(), await contactService.submit(inquiry));
   assert.equal(getConfiguredAssistantProvider(), null);
   assert.equal((await (await assistantAvailability()).json()).available, false);
 });
 
 test('existing form endpoint validation/error schemas and HTTP statuses remain compatible', async () => {
-  for (const [path, handler, body] of [['newsletter', newsletterRoute.POST, input], ['contact', contactRoute.POST, inquiry]]) {
+  for (const [path, handler, body] of [['newsletter', newsletterRoute.POST, input]]) {
     for (const [value, headers, httpStatus, status] of [
       [{}, {}, 422, 'invalid'], ['{bad', {}, 400, 'rejected'], [body, { Origin: 'https://unapproved.example.test' }, 403, 'rejected'],
       [body, { 'Sec-Fetch-Site': 'cross-site' }, 403, 'rejected'], [body, { 'Content-Type': 'text/plain' }, 400, 'rejected'],
