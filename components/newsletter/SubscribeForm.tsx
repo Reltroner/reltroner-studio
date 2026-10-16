@@ -1,11 +1,21 @@
 'use client';
 
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { validateSubscription } from '@/lib/newsletter/schema';
 import type { SubscriptionResult } from '@/lib/newsletter/types';
 import SubscriptionFeedback from './SubscriptionFeedback';
 
-export default function SubscribeForm({ enabled = false }: { enabled?: boolean }) {
+export default function SubscribeForm({
+  enabled = false,
+  live = false,
+  isPagesDev = false,
+}: {
+  enabled?: boolean;
+  live?: boolean;
+  isPagesDev?: boolean;
+}) {
+  // Client-detected state to guarantee truthful consistency even if used standalone
+  const [runtimeState, setRuntimeState] = useState<'initial' | 'pages-dev' | 'live'>('initial');
   const [email, setEmail] = useState('');
   const [consent, setConsent] = useState(false);
   const [result, setResult] = useState<SubscriptionResult | null>(null);
@@ -13,6 +23,27 @@ export default function SubscribeForm({ enabled = false }: { enabled?: boolean }
   const [loading, setLoading] = useState(false);
   const lastPreview = useRef('');
   const emailRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const hostname = window.location.hostname;
+    if (hostname.includes('.pages.dev') || isPagesDev) {
+      setRuntimeState('pages-dev');
+    } else if (
+      (live || enabled) &&
+      (hostname === 'www.reltroner.com' ||
+        hostname === 'reltroner.com' ||
+        hostname === 'localhost' ||
+        hostname === '127.0.0.1')
+    ) {
+      setRuntimeState('live');
+    } else {
+      setRuntimeState('initial');
+    }
+  }, [live, enabled, isPagesDev]);
+
+  const isLiveActive = runtimeState === 'live' || (live && runtimeState !== 'pages-dev');
+  const isPagesPreview = runtimeState === 'pages-dev' || isPagesDev;
 
   async function submit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -24,29 +55,121 @@ export default function SubscribeForm({ enabled = false }: { enabled?: boolean }
       return;
     }
     if (lastPreview.current === checked.input.email) {
-      setResult({ status: 'duplicate', message: enabled ? 'This address was already confirmed in this session. No additional request was sent.' : 'You already previewed this address in this session. No subscription exists in this prototype.', delivered: false, verified: false });
+      setResult({
+        status: 'duplicate',
+        message: isLiveActive
+          ? 'This address was already confirmed in this session. No additional request was sent.'
+          : 'You already previewed this address in this session. No subscription exists in this prototype.',
+        delivered: false,
+        verified: false,
+      });
       return;
     }
+
+    // On *.pages.dev, validate locally without POST to guarantee zero live Resend mutations
+    if (isPagesPreview) {
+      lastPreview.current = checked.input.email;
+      setResult({
+        status: 'prototype',
+        message: 'Preview only (*.pages.dev): your input is valid. Live subscriptions are only accepted on www.reltroner.com with verified WAF protection.',
+        delivered: false,
+        verified: false,
+      });
+      return;
+    }
+
+    // In local prototype mode (not live), validate locally without network call
+    if (!isLiveActive) {
+      lastPreview.current = checked.input.email;
+      setResult({
+        status: 'prototype',
+        message: 'Local prototype: your input is valid. No subscription was created and no email was sent.',
+        delivered: false,
+        verified: false,
+      });
+      return;
+    }
+
     busy.current = true;
     setLoading(true);
-    setResult({ status: 'loading', message: enabled ? 'Saving your subscription…' : 'Validating the local form…', delivered: false, verified: false });
+    setResult({
+      status: 'loading',
+      message: 'Saving your subscription…',
+      delivered: false,
+      verified: false,
+    });
     try {
-      const response = await fetch('/api/newsletter', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(checked.input), signal: AbortSignal.timeout(10000) });
-      const feedback = await response.json() as SubscriptionResult;
-      if (!feedback || typeof feedback.message !== 'string' || !['invalid', 'prototype', 'accepted', 'subscribed', 'duplicate', 'rejected', 'network-error', 'quota-error'].includes(feedback.status)
-        || (!response.ok && ['accepted', 'subscribed', 'duplicate', 'prototype'].includes(feedback.status))) throw new Error('RESPONSE');
+      const response = await fetch('/api/newsletter', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(checked.input),
+        signal: AbortSignal.timeout(10000),
+      });
+      const feedback = (await response.json()) as SubscriptionResult;
+      if (
+        !feedback ||
+        typeof feedback.message !== 'string' ||
+        !['invalid', 'prototype', 'accepted', 'subscribed', 'duplicate', 'rejected', 'network-error', 'quota-error'].includes(
+          feedback.status
+        ) ||
+        (!response.ok && ['accepted', 'subscribed', 'duplicate', 'prototype'].includes(feedback.status))
+      )
+        throw new Error('RESPONSE');
       setResult(feedback);
-      if (response.ok && ['prototype', 'accepted', 'subscribed', 'duplicate'].includes(feedback.status)) lastPreview.current = checked.input.email;
+      if (response.ok && ['prototype', 'accepted', 'subscribed', 'duplicate'].includes(feedback.status))
+        lastPreview.current = checked.input.email;
     } catch {
-      setResult({ status: 'network-error', message: 'Subscription status could not be confirmed. Please check your preferences before retrying.', delivered: false, verified: false });
-    } finally { busy.current = false; setLoading(false); }
+      setResult({
+        status: 'network-error',
+        message: 'Subscription status could not be confirmed. Please check your preferences before retrying.',
+        delivered: false,
+        verified: false,
+      });
+    } finally {
+      busy.current = false;
+      setLoading(false);
+    }
   }
 
-  return <form onSubmit={submit} noValidate className="space-y-4" aria-describedby="newsletter-mode newsletter-feedback" aria-busy={loading}>
-    <div><label htmlFor="newsletter-email" className="mb-2 block font-medium">Email address</label>
-      <input ref={emailRef} id="newsletter-email" type="email" autoComplete="email" required maxLength={254} value={email} onChange={event => setEmail(event.target.value)} className="rs-form-input" aria-invalid={result?.status === 'invalid' && !validateSubscription({ email, consent: true }).input} /></div>
-    <label className="flex items-start gap-3 text-sm leading-6 text-slate-300"><input type="checkbox" checked={consent} onChange={event => setConsent(event.target.checked)} className="mt-1 h-5 w-5 shrink-0" />I choose to receive Studio updates about creative practice, public knowledge, and engineering. Contact inquiries do not subscribe me.</label>
-    <button disabled={loading} className="rs-action-primary w-full sm:w-auto" type="submit">{loading ? 'Checking…' : enabled ? 'Subscribe to Studio updates' : 'Preview newsletter opt-in'}</button>
-    <SubscriptionFeedback result={result} />
-  </form>;
+  return (
+    <form
+      onSubmit={submit}
+      noValidate
+      className="space-y-4"
+      aria-describedby="newsletter-mode newsletter-feedback"
+      aria-busy={loading}
+    >
+      <div>
+        <label htmlFor="newsletter-email" className="mb-2 block font-medium">
+          Email address
+        </label>
+        <input
+          ref={emailRef}
+          id="newsletter-email"
+          type="email"
+          autoComplete="email"
+          required
+          maxLength={254}
+          value={email}
+          onChange={(event) => setEmail(event.target.value)}
+          className="rs-form-input"
+          aria-invalid={result?.status === 'invalid' && !validateSubscription({ email, consent: true }).input}
+        />
+      </div>
+      <label className="flex items-start gap-3 text-sm leading-6 text-slate-300">
+        <input
+          type="checkbox"
+          checked={consent}
+          onChange={(event) => setConsent(event.target.checked)}
+          className="mt-1 h-5 w-5 shrink-0"
+        />
+        I choose to receive Studio updates about creative practice, public knowledge, and engineering. Contact
+        inquiries do not subscribe me.
+      </label>
+      <button disabled={loading} className="rs-action-primary w-full sm:w-auto" type="submit">
+        {loading ? 'Checking…' : isLiveActive ? 'Subscribe to Studio updates' : 'Preview newsletter opt-in'}
+      </button>
+      <SubscriptionFeedback result={result} />
+    </form>
+  );
 }
