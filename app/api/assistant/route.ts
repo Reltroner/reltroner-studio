@@ -5,7 +5,7 @@ import { createAssistantService, getConfiguredAssistantProvider } from '@/lib/as
 import { AI_DISCONNECTED_NOTICE } from '@/lib/assistant/types';
 import { isSameOriginRequest } from '@/lib/security/request-origin';
 
-export const runtime = 'nodejs';
+export const dynamic = 'force-static';
 const rateLimit = createAssistantRateLimiter();
 const respond = createAssistantService(getConfiguredAssistantProvider());
 const headers = { 'Cache-Control': 'no-store' };

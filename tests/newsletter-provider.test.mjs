@@ -2,7 +2,7 @@ import test, { before, after } from 'node:test';
 import assert from 'node:assert/strict';
 import { createResendNewsletterProvider } from '../lib/newsletter/resend-provider.server.ts';
 import { createNewsletterService, createRuntimeNewsletterService, newsletterService } from '../lib/newsletter/service.ts';
-import { POST } from '../app/api/newsletter/route.ts';
+import { POST, setNewsletterService } from '../functions/api/newsletter.ts';
 
 const email = 'synthetic-rc02@example.test';
 const apiKey = 're_rc02_synthetic_fixture_key';
@@ -193,6 +193,7 @@ test('newsletter POST requires same-origin browser requests and strictly bounded
 
 test('same-origin route preserves response schema and maps provider failures without setting a successful preview response', async () => {
   const original = newsletterService.subscribe;
+  setNewsletterService(newsletterService);
   try {
     for (const [status, httpStatus] of [['accepted', 200], ['duplicate', 200], ['quota-error', 429], ['network-error', 503], ['rejected', 502], ['invalid', 422]]) {
       newsletterService.subscribe = async (_input, requestId) => {
@@ -205,5 +206,5 @@ test('same-origin route preserves response schema and maps provider failures wit
       assert.match(response.headers.get('x-request-id'), /^[a-f0-9-]{36}$/);
       assert.deepEqual(Object.keys(await response.json()).sort(), ['delivered', 'message', 'status', 'verified']);
     }
-  } finally { newsletterService.subscribe = original; }
+  } finally { newsletterService.subscribe = original; setNewsletterService(null); }
 });
