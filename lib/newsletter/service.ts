@@ -1,6 +1,6 @@
 import 'server-only';
 import type { NewsletterServiceAdapter } from './types';
-import { createResendNewsletterProvider, type ResendProviderOptions } from './resend-provider.server';
+import { createResendNewsletterProvider, type ResendProviderOptions } from './resend-provider';
 
 // Disabled mode performs no external requests and stores no subscriber records.
 const prototypeService: NewsletterServiceAdapter = {
