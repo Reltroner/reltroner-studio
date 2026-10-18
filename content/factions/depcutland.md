@@ -5,7 +5,7 @@ slug: "depcutland"
 image: "/images/depcutland.webp"
 author: "Rei Reltroner"
 date: "2026-06-09"
-lastUpdated: "2026-07-16"
+lastUpdated: "2026-10-19"
 published: true
 world: "Asthortera"
 category: "Asthortera · Tier 1 Civilizations · Archival Sovereignty · Cultural Diplomacy"
@@ -169,6 +169,16 @@ Its most important borderland is the **Neiput Region**, divided into:
 This placement is not accidental. Depcutland's proximity to Reltronland was part of its historical purpose: to observe, counterbalance, learn from, and culturally compete with the rise of Reltronland's red-pill meritocratic civilization.
 
 ---
+
+### Canon continuity: sovereign Depcutland and the actual outbreak of war
+
+**Depcutland was sovereign before the Depeisit Crisis of 1057 BAC**, with its **1121 BAC foundation under Cutter Glouster** preceding the crisis. The nationally inherited **Cut traditions of archives, learning and custodial continuity** remained open to later generations' disagreement with Cut's specific methods.
+
+Before the war Depcutland had already become an **epistemic and industrial competitor** in Asthortera, but its planetary diplomatic integration had not reached **Aurastelia, Astrostelia and Kalgered**. Depeisit's crisis (**25 trillion inhabitants; SDI 0.852/1.000**) transmitted financial and epistemic disruption to both independent neighbors. Depcutland's dependence on **Reltronland's energy, banking and technology** served its attempt to become a competitive manufacturing supplier, even as refinancing and overdue debt impaired its economy and **Reltronland's own receivables**.
+
+In **1048 BAC**, Reltronland arrested a Depcutland technology CEO in **Reltronepolis** after patent-infringing exports. Depcutland ordered the first Neiput military movement; Reltronland established a blockade while preparing a possible **debt-recovery invasion**. A nearby **Depcutland base launched the first missiles** at the blockade to cut Reltronland's mobility. **The 1047 BAC Reiweston incident and follow-on 1047–1046 BAC Neiput campaigning occurred after the war started.**
+
+**1048–1030 BAC** describes the **18-year open war**; **1048–1010 BAC** describes the **38-year war-and-settlement cycle**. The war's immense **planetary supply-chain disruption** helped shift other Asthorteran civilizations toward expanded diplomacy after the **1010 BAC Troncut Treaty**, which was **not** Depcutland's first independence. The [bilateral canon](reltronland-vs-depcutland.md) owns the full causal chronology.
 
 # I. Foundational Philosophy — Tradition with Intelligence
 
@@ -407,7 +417,7 @@ The current canon defines Depcutland as a civilization that unfolded through sev
 1055 BAC — Depcut Independence Council emerges
 1048–1030 BAC — Reltronland–Depcutland War
 1030–1010 BAC — Reconstruction and Merit Archival Transition
-1010 BAC — Troncut Treaty / Declaration of Independence
+1010 BAC — Troncut Treaty / recognition of already-existing sovereignty
 ```
 
 Therefore, Depcutland was not simply created after Depeisit collapsed.
@@ -792,14 +802,14 @@ This upgraded profile also integrates the deeper timeline foundation:
 | Period | Canonical Meaning |
 |---|---|
 | **1211–1121 BAC — Depeisit Colonial Era** | Early colonial structures plant the legal, bureaucratic, cultural, and archival roots of Depcutland. |
-| **1121 BAC — Initial Depeisit Colonies in Depcutland** | The proto-Depcutian identity begins forming through classical law, aristocratic continuity, bureaucratic memory, and archive-centered culture. |
+| **1121 BAC — Cutter Glouster's founding transition** | Depeisit-rooted settlements mature into the foundation of an independent Depcutland, retaining classical law and archival institutions. |
 | **1057 BAC — Depeisit Economic Crisis** | Depcutland becomes a refuge, continuity hub, and institutional battleground. |
 | **1055 BAC — Depcut Independence Council** | Reformists, civic nationalists, aristocratic conservatives, loyalists, and pro-merit intellectuals compete over Depcutland's future. |
 | **1049 BAC — Trade and Industry Blockade** | Reltronland restricts strategic sectors it believes strengthen captured aristocratic networks. |
 | **1048–1030 BAC — Open War** | Military conflict reveals the difference between Depcutland as a civilization and the captured regime ruling it. |
 | **1030–1010 BAC — Reconstruction and Merit Archival Transition** | Depcutland reforms its institutions while preserving proven civilizational structures. |
-| **1010 BAC — Troncut Treaty** | The war cycle ends and Depcutland enters its sovereign Merit Archival trajectory. |
-| **1008–825 BAC — Post-Independence Reconstruction and Planetary Cooperation** | Depcutland develops as a sovereign archive-state, strengthens education, diplomacy, and the Endless Library, and participates in planetary cooperation. |
+| **1010 BAC — Troncut Treaty** | The broader war cycle ends and an already independent Depcutland consolidates its Merit Archival governance. |
+| **1008–825 BAC — Post-Treaty Reconstruction and Planetary Cooperation** | Depcutland develops as a sovereign archive-state, strengthens education, diplomacy, and the Endless Library, and participates in planetary cooperation. |
 
 ---
 
@@ -928,7 +938,7 @@ By 1048 BAC, both sides understood that the conflict was no longer only economic
 
 ## 4. The Reiweston Crisis — 1047 BAC
 
-The **Reiweston Crisis** marked the first irreversible diplomatic rupture between Reltronland and Depcutland.
+The **1047 BAC Reiweston Crisis** deepened wartime maritime and diplomatic rupture **after open war began in 1048 BAC at Neiput**; it was not the first armed confrontation.
 
 A Depcutland trade convoy attempted to cross an embargo-controlled zone carrying:
 
@@ -961,9 +971,9 @@ Diplomatic relations effectively collapsed.
 
 ---
 
-## 5. The Neiput Crisis — 1047–1046 BAC
+## 5. Follow-On Neiput Campaigns — 1047–1046 BAC
 
-After Reiweston, escalation centered on the **Neiput Region**, one of the most strategically sensitive zones in eastern Depcutland.
+The **first Neiput crisis and missile strike occurred in 1048 BAC**. After Reiweston, further escalation centered on the **Neiput Region**, one of the most strategically sensitive zones in eastern Depcutland.
 
 Neiput contained:
 
@@ -995,7 +1005,7 @@ Reltronland interpreted them as preparation for strategic encirclement and respo
 - civil defense preparation;
 - wartime logistics simulations.
 
-By late 1046 BAC, military escalation had become unavoidable. The Neiput Crisis became the point of no return.
+By late 1046 BAC, **an already-running war** had intensified around Neiput. The first open fire and initial point of no return had been in **1048 BAC**.
 
 ---
 
@@ -1055,9 +1065,9 @@ However, economic pressure continued intensifying.
 
 ---
 
-## 8. Hyperinflation and Structural Collapse — 1037–1033 BAC
+## 8. Hyperinflation and Structural Collapse — 1038–1033 BAC
 
-The prolonged conflict generated:
+The **1038–1036 BAC monetary collapse** persisted into the **1035–1033 BAC unrest aftermath**. The prolonged conflict generated:
 
 - industrial overload;
 - supply collapse;
@@ -1082,7 +1092,7 @@ Public sentiment shifted as citizens increasingly:
 
 ---
 
-## 9. Fall of the Aristocratic Regime — 1033–1030 BAC
+## 9. Fall of the Aristocratic Regime — 1032–1031 BAC
 
 The Aristocrat Archival Regime did not collapse primarily because of foreign occupation. It collapsed because of:
 
@@ -1095,7 +1105,7 @@ The Aristocrat Archival Regime did not collapse primarily because of foreign occ
 
 The **Aristocrat Archival Council** was dismantled through civilian-led mobilization.
 
-The succeeding administration created the **Archival-Meritocracy**, preserving Depcutland's cultural identity while removing feudal rigidity.
+The succeeding administration created the **Archival-Meritocracy**, preserving Depcutland's cultural identity while removing feudal rigidity. The **1031 BAC institutional integrity audit and first institutional ceasefire** followed regime collapse, and the **1030 BAC end of open warfare** came later.
 
 ---
 
@@ -1176,7 +1186,7 @@ Residents of Troneiput were given two formal choices:
 - remain and undergo **Redpillization**, a meritocratic re-education and civic integration process;
 - relocate to Depcutland.
 
-Population transfers and deportation of dissenters occurred under international oversight.
+Population transfers and historically reported **deportations of dissenters** occurred under international oversight. **Coercion, consent and individual rights remain disputed**: international oversight does not by itself demonstrate that such actions were voluntary or lawful.
 
 ### 5. Economic Agreements
 
@@ -3026,7 +3036,7 @@ To remain aligned with the current Reltroner Studio canon, this profile should n
 
 The correct interpretation is:
 
-> **Depcutland's roots began in Depeisit colonial memory, its crisis identity formed after Depeisit's collapse, and its true sovereignty emerged when it reformed memory into Merit Archival civilization.**
+> **Depcutland's roots began in Depeisit colonial memory; it attained political sovereignty before Depeisit's crisis; and its postwar transformation replaced captured government with Merit Archival institutions without creating its independence anew.**
 
 Modern Depcutland is not Depeisit's failure repeated.
 
