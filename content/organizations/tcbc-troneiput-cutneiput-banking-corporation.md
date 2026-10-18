@@ -4,6 +4,7 @@ description: "TCBC is the universal private banking backbone of Reltronland and 
 image: "/images/tcbc-troneiput-cutneiput-banking-corporation.webp"
 author: "Rei Reltroner"
 date: "2026-02-20"
+lastUpdated: "2026-10-19"
 published: true
 category: "Finance · Institutions · Post-War Reconstruction"
 ---
@@ -12,8 +13,8 @@ category: "Finance · Institutions · Post-War Reconstruction"
 
 ---
 
-# 🏦 **TCBC**
-# **Troneiput & Cutneiput Banking Corporation**
+# 🏦 TCBC — Troneiput & Cutneiput Banking Corporation
+
 ### *Universal Financial Backbone of Reltronland & Post-War Depcutland*
 
 ---
@@ -35,8 +36,25 @@ Multinational — Planetary Scope (Asthortera)
 **Parent Entity:**  
 Clarity Enterprise Group (Reltronland's private chaebol)
 
-TCBC is not a state bank.  
-It is a **regime-neutral universal financial institution** operating across political transitions, post-war reconstruction, and multidimensional capital systems.
+TCBC is not a state bank. It is a **privately owned, independently governed universal financial institution** operating across political transitions, postwar reconstruction and multidimensional capital systems. Its predecessor **CBC** was already a private, technocratic, government-independent Depcutland bank during the war. Subsequent corporate acquisition and rebranding did not create state ownership. **Regime neutrality is an audited operating commitment**, not a guarantee of invulnerability to capture.
+
+---
+
+## Historical integrity — CBC before TCBC and systemic debt contagion
+
+**Pre-crisis sovereignty:** Reltronland (**1125 BAC**, Troner Rhett) and Depcutland (**1121 BAC**, Cutter Glouster) were **independent before Depeisit's 1057 BAC Economic Crisis**. Both were competitive Asthorteran industrial and epistemic civilizations, though **Aurastelia, Astrostelia and Kalgered** had stronger established diplomatic networks and still regarded them as relatively unfamiliar. Depeisit was a planetary society of **25 trillion inhabitants with SDI 0.852/1.000**; its crisis exported severe financial and epistemic pressures.
+
+**Debt and distinct actors:** Depcutland's corporations, infrastructure, industries and households accumulated overdue liabilities to **Reltronland financial institutions**, while Reltronland suffered a resulting receivables burden. Depcutland needed energy, technology and finance to develop a competitive manufacturing supply chain. The **1048 BAC arrest in CBD Reltronepolis** of a Depcutland manufacturing CEO for patent-infringing exports became a direct political trigger. **The established canon does not identify CBC or TCBC as the CEO's lender, or demonstrate that the bank knowingly financed that wrongdoing, institutional capture, or either government's military plans.** A particular debtor's actions, an individual bank's conduct and national credit-contagion are distinct issues.
+
+**First open fire:** Depcutland ordered an initial military operation through Neiput. Reltronland set up a border blockade and prepared a possible **Neiput invasion to recover overdue debts**. A Depcutland base near the border then fired the **first missiles** against the blockade to interrupt Reltronland military mobility. The **1048–1030 BAC open war (18 years)** differs from the **1048–1010 BAC war-and-settlement cycle (38 years)**.
+
+**1031 BAC institutional integrity:** investigations during the fall of the aristocratic government found **CBC a privately owned, technocratic, institutionally independent bank**, separate from captured government administration. It continued safeguarding deposits and banking infrastructure under stress. Together with the **Grand Library's neutral archive custody**, it was treated as a **Protected Civilizational Institution** during the **1031 BAC First Institutional Ceasefire**. Independence from a regime was demonstrated by operational integrity, not retroactively created by foreign takeover.
+
+**Reconstruction and corporate succession:** the **1030–1010 BAC reconstruction** brought liquidity measures, energy-grid repair and banking continuity. The **1010 BAC Troncut Treaty** reaffirmed two states that were already independent and settled the Troneiput/Cutneiput territorial division. Subsequently, **Clarity Enterprise Group acquired CBC through private-sector ownership arrangements**, and CBC developed into **TCBC**, retaining a separate banking charter and independent board protections. The exact acquisition date, financial consideration and procedural details are not established. A change in territorial jurisdiction, change in shares, and national sovereignty are separate categories.
+
+**Planetary consequence:** the war's unprecedented disruption of Asthortera supply chains pushed previously distant civilizations toward the **1010–995 BAC Second Diplomatic Restoration**. In the modern multipolar economy, TCBC is a major **private financial bridge**, not a supranational central bank. Its anti-capture safeguards, credit exposure and risk models require continuing accountability rather than assumptions of absolute immunity.
+
+References: [Reltronland vs Depcutland](../factions/reltronland-vs-depcutland.md), [Depcutland's Custodial Reputation](../events/depcutland-custodial-reputation-canonical.md), [Historical Timeline](../events/history-timeline.md).
 
 ---
 
@@ -94,10 +112,10 @@ CBC became:
 
 ### 3️⃣ Sovereignty Transfer
 
-After Depcutland’s defeat:
+Following the **1030 BAC** end of open warfare and the **1010 BAC Troncut Treaty**:
 
-- Troneiput territory was transferred to Reltronland  
-- CBC fell under Reltronland sovereignty  
+- **Eastern Troneiput** was transferred to Reltronland's territorial jurisdiction, while **western Cutneiput remained Depcutland's sovereign territory**  
+- CBC branches and infrastructure within Troneiput came under Reltronland's **territorial law**, but CBC as a private corporation was **not automatically converted into state property**  
 
 Reltronland made a strategic decision:
 
@@ -111,7 +129,7 @@ This preserved institutional continuity.
 
 ### 4️⃣ Transformation into TCBC
 
-CBC → TCBC
+**CBC (prewar and wartime institution) → TCBC (postwar successor)**
 
 The new name reflects:
 
@@ -233,13 +251,13 @@ Unique to TCBC:
 TCBC functioned as:
 
 ### 1. Regional Currency Stabilizer  
-Prevented hyperinflation spiral.
+**CBC** protected deposits and settlement continuity during **1038–1036 BAC hyperinflation**. Later **TCBC** contributed to stabilization and helped prevent renewed spirals. **The original hyperinflation was not prevented**.
 
 ### 2. Industrial Restart Engine  
 Converted military industries into civilian production.
 
 ### 3. Public Savings Protector  
-Safeguarded deposits during regime collapse.
+**CBC** safeguarded deposits during the **1032–1031 BAC** collapse of Depcutland's aristocratic government. The later **TCBC** retained and expanded those safeguards after restructuring.
 
 ### 4. University Protection Fund  
 Secured funding for research and education.
@@ -306,7 +324,7 @@ The TCBC ledger is:
 
 ## X. Risk Resilience
 
-TCBC is resilient against:
+TCBC is **designed for resilience, not guaranteed immunity**, against:
 
 - Regime collapse  
 - War shock  
@@ -463,7 +481,7 @@ Mandatory traits:
 
 - No former regime propagandists
 - No active political office holders
-- No aristocratic lineage conflict
+- No **undisclosed conflicts of interest** involving hereditary patronage or formerly captured networks; ancestry alone does not disqualify a qualified professional
 
 Board mandate:
 
@@ -518,7 +536,7 @@ TCBC enforces:
 1. No political campaign financing
 2. No party alignment endorsements
 3. No regime-dependent lending
-4. No politically directed credit allocation
+4. No credit allocation directed by captured political patrons; standard independent underwriting and legitimate public regulation remain distinct
 5. No weaponized economic sanctions role
 
 If a government attempts coercion:
