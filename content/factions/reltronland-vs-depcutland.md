@@ -4,7 +4,7 @@ description: "Canonical history of the Reltronland–Depcutland relationship: De
 image: "/images/reltronland-vs-depcutland.webp"
 author: "Rei Reltroner"
 date: "2025-04-13"
-lastUpdated: "2026-10-15"
+lastUpdated: "2026-10-19"
 published: true
 category: "Asthortera · Geopolitics · Reltronland · Depcutland"
 sourceOfTruth: "Reltroner Studio Master Source of Truth; author-established Reltronland–Depcutland worldbuilding canon through 2026-10-15"
@@ -73,17 +73,27 @@ The financial legacy is **not a synonym** for institutional capture. The CEO's l
 
 ### 2.3 Two newcomers in Asthortera
 
-During their formative era, Reltronland and Depcutland were still **comparative outsiders to the established Asthorteran world order**. Neither yet enjoyed the mature global reputation of its later apex identity. They needed international credibility, commercial access, institutions, industry and strategic positioning.
+During their formative era, Reltronland and Depcutland were **industrially and epistemically competitive but comparatively unfamiliar to the older Asthorteran diplomatic establishment**. Neither yet enjoyed the mature planetary diplomatic standing of its later apex identity. They needed international credibility, commercial access, institutions, industry and strategic positioning.
 
 Reltronland's energy, technology and finance offered strong comparative advantages. Depcutland attempted to become a **competitive manufacturing and supply-chain participant for Reltronland**, not simply a passive client. That ambition required imported inputs and development finance from the very partner with whom it would compete.
 
 **Shared origin did not entail union. Strategic interdependence did not entail submission.**
 
+### Already-sovereign rivals, Depeisit's scale, and Asthortera's diplomatic blind spot
+
+**Reltronland (1125 BAC; Troner Rhett)** and **Depcutland (1121 BAC; Cutter Glouster)** were independent **before** the **1057 BAC Depeisit Economic Crisis**. In the prewar era they were already **competitive industrial and epistemic civilizations**, even while older powers including **Aurastelia, Astrostelia and Kalgered** retained much greater planetary diplomatic reach and regarded the two neighbors as relatively unfamiliar. Earlier trade, archival custody and limited intercivilizational contacts nevertheless existed.
+
+At population scale, Reltronland inherited **Tron's creation, enterprise, technology and engineering values**, while Depcutland inherited **Cut's documentation, research, custody and memory values** through education, professions, private activity and national institutions. This collective inheritance coexisted with citizens' **frequent disagreement with and criticism of ancestral methods**, which could become irrelevant across eras. Neither society required ancestral worship or genetic determinism.
+
+The **Depeisit Economic Crisis** originated in a civilization of **25 trillion inhabitants with SDI 0.852/1.000** and spread a severe **structural-financial and epistemic infestation** to the two already independent states. Debt rollover, receivables failure, institutional capture risk, migration, industrial interdependence and incompatible perceptions of existential threat created intense systemic pressure. Military **brute force** became an instrument each leadership contemplated for continuity; these motives neither make violence inevitable nor turn debt collection into automatic sovereignty rights.
+
+The **1048–1030 BAC War of Conscience** became **the most planet-shaking war in the established history of Asthortera by its systemic impact on supply chains**, disrupting energy, manufacturing, logistics and financial networks far beyond the bilateral battlefield. This is a specific *planetary-system disruption* claim, not an unsubstantiated superlative about casualty numbers. After the **1010 BAC Troncut Treaty**, the **1010–995 BAC Second Diplomatic Restoration** significantly expanded relationships with Aurastelia, Astrostelia, Kalgered, Beluftner and others to reduce future contagion. Thus military conflict between two diplomatically underestimated poles forced the broader multipolar system to reconsider its interdependence.
+
 ## 3. The Structural Economic Crisis (1057–1048 BAC)
 
 ### 3.1 The Depeisit shock and the debt-rollover loop
 
-**1057 BAC — Depeisit Economic Crisis** destabilized economic networks that would shape both emerging states. Depcutland had to finance state construction, industrial capacity, infrastructure, technology procurement, energy imports and household needs. Corporate, infrastructure, industrial and household debts accumulated, including exposure to **Reltronland banks and other creditors**.
+**1057 BAC — Depeisit Economic Crisis** destabilized the economic networks of **two already independent states** that were growing toward greater planetary prominence. Depcutland had to finance state construction, industrial capacity, infrastructure, technology procurement, energy imports and household needs. Corporate, infrastructure, industrial and household debts accumulated, including exposure to **Reltronland banks and other creditors**.
 
 Depcutland increasingly faced a **debt-rollover trap**: overdue obligations, refinancing and new borrowing were used to sustain investments and service older liabilities before productive earnings were sufficient. The familiar phrase *gali lubang tutup lubang* describes this self-reinforcing pressure, not an assertion that every loan or investment was intrinsically illegitimate.
 
@@ -305,7 +315,7 @@ The treaty is **not** an alliance grounded in affection or an ancestral brotherh
 
 ### 7.4 1010–995 BAC — Second Diplomatic Restoration
 
-Bilateral embassies re-opened in **Depsetica** and **Reltronepolis**. Beluftner, Aurastelia, Astrostelia and Kalgered restored diplomatic missions and relations with both civilizations. Summits, investment cooperation, reconstruction programs and scientific channels resumed.
+Bilateral embassies re-opened in **Depsetica** and **Reltronepolis**. **Aurastelia, Astrostelia, Kalgered, Beluftner** and other civilizations opened, restored or expanded official diplomatic relationships with both nations. The striking **planetary supply-chain disruption** had exposed their systemic significance: the change was deepened diplomacy, **not** an assertion that all third-party trade and archival trust first began after 1010 BAC. Summits, investment cooperation, reconstruction programs and scientific channels resumed.
 
 The states did **not** merge into a military alliance. They re-established sovereign diplomacy and cooperation where the expected mutual value exceeded the costs.
 
