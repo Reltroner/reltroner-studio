@@ -126,7 +126,7 @@ It was already the largest physical library in Asthortera, comparable in symboli
 - artistic collections;
 - cultural memory ledgers.
 
-The Grand Library operated **within the wider inequalities of prewar Depcutland**, where some government-controlled educational, administrative and public-access pathways favored hereditary elites, social position or patronage. **That inequitable surrounding environment was not the same as institutional capture of the Grand Library's own custodianship.** The **1031 BAC Institutional Integrity Assessment** verified that its management of entrusted archives remained professionally independent from the aristocratic regime, and client records had not been leaked, sold, manipulated or weaponized for ruling-elite advantage.
+The Grand Library operated **within the wider inequalities of prewar Depcutland**, where some government-controlled educational, administrative and public-access pathways favored hereditary elites, social position or patronage. **That inequitable surrounding environment was not the same as institutional capture of the Grand Library's own custodianship.** The **1031 BAC Institutional Integrity Assessment** verified that its management of entrusted archives remained professionally independent from the aristocratic regime, and client records had not been leaked, sold, manipulated or weaponized for ruling-elite advantage. **The Grand Library was not the aristocratic regime**, despite operating within Depcutland's broader political environment.
 
 The Grand Library preserved independent custody before the war; the postwar reform expanded **fair civic access and accountability** rather than creating custodial neutrality out of nothing.
 
