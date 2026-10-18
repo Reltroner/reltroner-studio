@@ -9,8 +9,6 @@
 !.env.example
 .vscode/
 
-public/images/
-
 repo-map-engineering.txt
 
 structure-detailed.txt
