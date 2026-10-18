@@ -3,6 +3,7 @@ title: "The Tron and Cut Ancestral Lineage — Origins of Reltronland and Depcut
 description: "Canonical historical document establishing the Depeisit ancestry of Tron and Cut, their divergent childhood and institutional trajectories, the long generational development of their lineages, and the eventual emergence of Reltronland and Depcutland."
 author: "Rei Reltroner"
 date: "2026-08-26"
+lastUpdated: "2026-10-19"
 published: true
 image: "/images/tron-cut-ancestral-lineage.webp"
 category: "Worldbuilding / History / Genealogy"
@@ -718,6 +719,16 @@ This is consistent with Asthortera's broader civilizational model, in which civi
 
 ---
 
+### Pre-crisis sovereignty and mass-institutional inheritance
+
+**Reltronland (founded in 1125 BAC by Troner Rhett)** and **Depcutland (founded in 1121 BAC by Cutter Glouster)** were **already sovereign before the Depeisit Economic Crisis in 1057 BAC**. The 1010 BAC Troncut Treaty was a later bilateral peace settlement, not their original independence from Depeisit.
+
+Before war, both civilizations were **industrially and epistemically competitive on Asthortera**, though Aurastelia, Astrostelia and Kalgered were more established in planetary diplomacy. Outside states remained comparatively unfamiliar with the two neighbors, despite some commercial and archival relations.
+
+**Tron's creative, technological and entrepreneurial** values and **Cut's scholarly, archival and custodial** values had been adopted collectively through education, law, corporate practices and national institutions. Later generations could challenge ancestral methods while maintaining these core principles; their inheritance was not unanimous ideology, blood determinism, or compulsory reverence.
+
+**Depeisit (25 trillion inhabitants; SDI 0.852/1.000)** subsequently transmitted systemic financial and epistemic pressure to both independent states. Their 1048–1030 BAC war profoundly disrupted Asthortera-wide supply chains, encouraging deeper planetary diplomacy after the 1010 BAC treaty. See [Reltronland vs Depcutland](../factions/reltronland-vs-depcutland.md) for the explicit causal sequence.
+
 # XIV. MIGRATION AND THE ASTHORTERAN CHAPTER
 
 The descendants of Tron and Cut eventually became part of the Depeisit-origin population that developed on **Asthortera**.
@@ -950,7 +961,7 @@ Troner Rhett therefore stands at the point where ancestral technological and ent
 
 ## Initial Depcutian Formation
 
-At **1121 BAC**, **Cutter Glouster** emerged as the founding father of Depcutland.
+At **1121 BAC**, **Cutter Glouster** emerged as the founding father of Depcutland, whose independent national development preceded Depeisit's crisis by decades.
 
 This date marks:
 
@@ -1078,7 +1089,7 @@ Its civilizational question is:
 
 Its contemporary Apex representative is:
 
-# **Professor Altair Troner**
+### Professor Altair Troner
 
 Altair represents:
 
@@ -1134,7 +1145,7 @@ Its civilizational question is:
 
 Its contemporary Apex representative is:
 
-# **Dr. Westley Watson**
+### Dr. Westley Watson
 
 Watson represents:
 
@@ -1510,7 +1521,7 @@ Thus:
 
 Reltronland and Depcutland are not inseparable because they are brothers. They are difficult to separate because their civilizational capabilities became structurally complementary.
 
-XXIX. THE SDI CONNECTION**
+## The SDI Connection
 
 Reltronland and Depcutland eventually reach exceptionally high positions within Asthortera's **Sentient Development Index (SDI)**:
 
@@ -1787,7 +1798,7 @@ And:
 
 > **Strategic interdependence does not guarantee permanent peace.**
 
-# XXXIV. WAR DOES NOT ERASE THE SHARED ANCESTRY
+# XXXIII. WAR DOES NOT ERASE THE SHARED ANCESTRY
 
 The Reltronland–Depcutland War should not be interpreted as evidence that one lineage became evil while the other became righteous.
 
@@ -1819,7 +1830,7 @@ This is consistent with Asthortera's broader model of mature but fallible civili
 
 ---
 
-# XXXIII. THE TRONCUT TREATY — 1010 BAC
+# XXXIV. THE TRONCUT TREATY — 1010 BAC
 
 The Troncut Treaty of 1010 BAC should not be interpreted primarily as a sentimental reunion of descendants honoring their twin ancestors.
 
@@ -1894,7 +1905,7 @@ It is the moment when they establish:
 
 > **"We do not need to agree in order to continue existing beside one another."**
 
-# XLII. THE CONTEMPORARY APEX CONNECTION
+# XXXV. THE CONTEMPORARY APEX CONNECTION
 
 In the current era of *The Abyss of Comfort*, the ancestral duality appears most clearly through:
 
@@ -1946,7 +1957,7 @@ The current characters do not need to know every detail of the ancient Tron–Cu
 
 ---
 
-# XXXIV. CANONICAL INTERPRETATION OF THE "DESTINY" EFFECT
+# XXXVI. CANONICAL INTERPRETATION OF THE "DESTINY" EFFECT
 
 The Tron–Cut legacy should be understood as an **existential civilizational inheritance**, not as a simplistic prophecy.
 
@@ -2016,7 +2027,7 @@ The underlying existential polarity remains.
 
 ---
 
-# XXXV. WHAT THE LINEAGE DOES NOT MEAN
+# XXXVII. WHAT THE LINEAGE DOES NOT MEAN
 
 The Tron–Cut lineage should not be interpreted as:
 
@@ -2054,7 +2065,7 @@ This preserves character agency and civilizational complexity.
 
 ---
 
-# XXXVI. CANONICAL TIMELINE
+# XXXVIII. CANONICAL TIMELINE
 
 Date / Period
 
@@ -2128,7 +2139,7 @@ Modern era
 
 Reltronland and Depcutland remain among Asthortera's highest-SDI civilizations
 
-# XXXVII. CANON GUARDRAILS
+# XXXIX. CANON GUARDRAILS
 
 The following rules should remain stable in future worldbuilding work.
 
@@ -2198,7 +2209,7 @@ The "destiny" effect is civilizational recurrence, strategic inheritance, and ev
 
 Reltronland and Depcutland remain independent sovereign civilizations within Asthortera's multipolar planetary system.
 
-# XXXVIII. THE EXISTENTIAL PRINCIPLE
+# XL. THE EXISTENTIAL PRINCIPLE
 
 The most important clarification of the Tron–Cut lineage is that existential continuity outranks ancestral sentiment.
 
@@ -2255,7 +2266,7 @@ The central principle is therefore:
 
 This is why the relationship can survive disagreement, competition, war, and reconciliation without requiring sentimental simplification.
 
-# XL. FINAL HISTORICAL ASSESSMENT
+# XLI. FINAL HISTORICAL ASSESSMENT
 
 The deepest origin of Reltronland and Depcutland is not their political foundation dates.
 
@@ -2375,7 +2386,7 @@ The ancient twins therefore remain present in Asthortera—not as ghosts, prophe
 
 ---
 
-# XLI. ARCHIVAL CLASSIFICATION
+# XLII. ARCHIVAL CLASSIFICATION
 
 **Classification:** Canonical Historical Foundation  
 
