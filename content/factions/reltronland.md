@@ -4,6 +4,7 @@ description: "A canonical country profile of Reltronland: the Astralis Pinnacle 
 image: "/images/reltronland-cover.webp"
 author: "Rei Reltroner"
 date: "2026-07-16"
+lastUpdated: "2026-10-19"
 published: true
 world: "Asthortera"
 category: "Apex Superpower Nation-Faction"
@@ -424,6 +425,16 @@ Reltronland is structured for:
 
 ---
 
+### The sovereign, competitive state before Depeisit's systemic shock
+
+**Reltronland (founded 1125 BAC by Troner Rhett)** already enjoyed sovereignty before **1057 BAC**, alongside an independently established Depcutland. Its collective **Tron-derived engineering, entrepreneurial and clarity values** were institutionally durable while later generations were free to dispute the ancestor's methods. **Before war**, both states had competitive economic and epistemic capabilities, though larger established diplomatic systems—including **Aurastelia, Astrostelia and Kalgered**—remained cautious and relatively unfamiliar with them.
+
+The Depeisit Economic Crisis affected a planetary civilization of **25 trillion inhabitants (SDI 0.852/1.000)** and transmitted severe **epistemic and financial contagion** to the already independent states. Reltronland supplied Depcutland with energy, technology and financing, but was itself damaged by **Depcutland's overdue corporate, industrial, infrastructure and household obligations**, producing creditor receivables pressure.
+
+In **1048 BAC**, an illegally patent-infringing manufacturing CEO from Depcutland was arrested in CBD Reltronepolis. **Depcutland initiated the military advance toward Neiput; Reltronland established a blockade while planning a possible Neiput debt-recovery invasion; Depcutland's near-border base fired the first missiles to disrupt Reltronland's military mobility.** This immediate economic-legal-military causality must not be replaced by the later anti-capture doctrine.
+
+The **1048–1030 BAC open war**, distinct from the **1048–1010 BAC war-and-settlement cycle**, caused an exceptional **planetary supply-chain shock**, awakening formerly distant Asthorteran diplomatic actors to the neighbors' systemic importance. The **1010 BAC Troncut Treaty** confirmed already existing sovereignty, preceding expanded **1010–995 BAC** relations with Aurastelia, Astrostelia, Kalgered, Beluftner and others. The detailed evidence boundaries remain in [Reltronland vs Depcutland](reltronland-vs-depcutland.md).
+
 # 9. Historical Overview
 
 ## Canonical Timeline Alignment
@@ -473,7 +484,7 @@ It is a civilization that was designed, tested, and refined through successive c
 
 Reltronland is one of Asthortera's leading apex civilizations and one of the two Tier 1 sovereign powers on the planet.
 
-Originally established as a Depeisit colony, Reltronland diverged ideologically from its origin by rejecting aristocratic structures and embracing absolute meritocracy, structural sovereignty, and Red Pill Realism.
+Developed from a Depeisit-linked settlement and **sovereign before the 1057 BAC crisis**, Reltronland diverged ideologically from its origin by rejecting aristocratic structures and embracing absolute meritocracy, structural sovereignty, and Red Pill Realism.
 
 ## The Closing War of the Old Era
 
@@ -497,9 +508,11 @@ The current canon clarifies that this war should not be described as simple hatr
 
 Reltronland's mature strategic target was not Depcutland's culture, archives, literature, philosophy, banking infrastructure, or civilizational dignity.
 
-The strategic target was:
+The strategic target **of the later anti-capture campaign** was:
 
 > **Captured governance architecture inherited from the Depeisit collapse.**
+
+Its **1048 BAC origin** additionally involved **overdue debts and receivables, patent-infringing CEO exports and arrest, Reltronland's prospective Neiput invasion, and Depcutland's first missile attack**. This early financial causality was not erased by the later institutional campaign.
 
 The war began as **Reltronland vs Depcutland** at the public geopolitical layer, but gradually transformed into **Merit Coalition vs Captured Aristocratic Regime** as Depcutland's internal reformists separated the nation from its captured government.
 
@@ -512,7 +525,7 @@ Reltronland's mature war principle became:
 
 ## Post-War Competitive Order
 
-Reltronland did not pursue annexation after victory.
+Reltronland did not seek **wholesale annexation of sovereign Depcutland**, although the **1010 BAC Troncut Treaty transferred eastern Neiput / Troneiput to Reltronland**. Preserving Depcutland's sovereignty and transferring the disputed border sector are different historical facts.
 
 Instead, it:
 
