@@ -4,6 +4,7 @@ slug: "history-timeline"
 description: "A canon-aligned integrated historical timeline of Asthortera, Reltronland, and Depcutland, expanded with Reltronland terrestrial transportation, Asthortera Space Command, and Reltronland Space Command institutional development while preserving the established BAC/AC chronology and original historical record."
 author: "Rei Reltroner"
 date: "2026-06-14"
+lastUpdated: "2026-10-19"
 updated: "2026-08-14"
 image: "/images/history-timeline1.webp"
 tags: ["timeline", "chronology", "bac-ac", "asthortera", "reltronland", "depcutland", "history", "worldbuilding", "transportation", "rsc", "asc", "space-command", "infrastructure"]
@@ -141,7 +142,7 @@ When needed, the full Asthorteran astronomical date may be added:
 | V | 1673–1256 BAC | Intergalactic Contact Era |
 | VI | 1211–1121 BAC | Depeisit Colonial Era |
 | VII | 1090–1010 BAC | Reltronland–Depcutland Divergence Era |
-| VIII | 1008–825 BAC | Post-Independence Reconstruction and Planetary Cooperation |
+| VIII | 1008–825 BAC | Post-Treaty Reconstruction and Planetary Cooperation |
 | IX | 197–29 BAC | Late Orbital Governance Era |
 | X | 28–1 BAC | Pre-Abyss Late Modernity |
 | XI | 0 AC onward | Abyss of Comfort Era |
@@ -377,9 +378,9 @@ This becomes the foundation of Reltronland's later identity as a civilization of
 
 He later becomes one of the central figures in Reltronland's sovereignty movement and civilizational consolidation.
 
-### 1121 BAC — Initial Depeisit Colonies in Depcutland
+### 1121 BAC — Cutter Glouster and Depcutland's Foundation
 
-The early Depeisit colonies in Depcutland begin taking shape.
+Cutter Glouster's founding marks the transition of earlier Depeisit-rooted settlements into Depcutland's national institutions, preceding 1057 BAC sovereignty.
 
 Depcutland's future identity develops around:
 
@@ -390,6 +391,16 @@ Depcutland's future identity develops around:
 - Cultural preservation
 
 ---
+
+### Pre-crisis sovereignty, contagion and the planetary diplomatic awakening
+
+**Reltronland (1125 BAC; Troner Rhett)** and **Depcutland (1121 BAC; Cutter Glouster)** were sovereign **before the 1057 BAC Depeisit Economic Crisis**. Depeisit's **25-trillion-person civilization (SDI 0.852/1.000)** transmitted severe epistemic, financial and institutional contagion into their already independent economies, including debt rollover, unpaid Reltronland receivables, migration and mutual distrust.
+
+Both neighbors were **prewar industrial and epistemic competitors**, collectively inheriting evolving Tron and Cut values, while Aurastelia, Astrostelia and Kalgered had more developed planetary diplomatic networks. Their comparative unfamiliarity did not mean a lack of all prewar trade or contact.
+
+**1048 BAC:** a Depcutland manufacturing CEO was arrested in CBD Reltronepolis over patent-infringing exports. Depcutland ordered initial military movement toward Neiput; Reltronland blocked it while preparing a possible debt-enforcement invasion; **Depcutland fired the first missiles** from a near-border base to cut Reltronland's mobility. Reiweston 1047 BAC was a later escalation.
+
+**1048–1030 BAC** denotes the **18-year open war**; the **1048–1010 BAC** period is the **38-year war-and-settlement cycle**. The conflict became the most **planet-shaking war in systemic supply-chain impact** in Asthortera's recorded setting, without an asserted ranking of casualties. The **1010 BAC treaty** led to broadening diplomacy in **1010–995 BAC**, distinct from the later 844 BAC Global Union.
 
 ## 📉 Depeisit Crisis & Prelude to War
 
@@ -465,7 +476,7 @@ Its guiding belief:
 
 Led by **Vardik Glouster**
 
-Originally advocating greater autonomy from Depeisit, the movement gradually fractures between:
+The council inherited an earlier autonomy tradition, but **by 1055 BAC it functioned within already-independent Depcutland** to contest internal governance, elite capture and national institutional integrity. It gradually fractured between:
 
  Reformists
  Aristocratic conservatives
@@ -554,7 +565,7 @@ its political meaning gradually transforms into:
 
 ---
 
-## 1048 BAC — Neiput Border Crisis
+## 1048 BAC — Neiput Border Crisis and First Missile Strike
 
 Tensions between:
 
@@ -789,15 +800,17 @@ but because both recognize that preserving civilization is ultimately more impor
 
 ---
 
-### 1010 BAC — Declaration of Independence
+### 1010 BAC — Treaty Recognition of Pre-existing Sovereignty
 
-Reltronland and Depcutland declare full autonomy from one another.
-
-This marks the end of the direct sovereignty conflict and the beginning of two parallel civilizational trajectories.
+Reltronland and Depcutland had both become independent **before the 1057 BAC crisis**. The Troncut Treaty reaffirms their separate sovereignty and concludes the war-and-settlement cycle; it is **not** their original declaration of independence from Depeisit.
 
 ---
 
-## VIII. Post-Independence Reconstruction and Planetary Cooperation
+### 1010–995 BAC — Second Diplomatic Restoration
+
+The postwar interruption of energy, credit, transport and manufacturing chains had exposed Reltronland and Depcutland's importance beyond their previously limited diplomatic reach. **Aurastelia, Astrostelia, Kalgered, Beluftner and other states** opened, restored or expanded direct diplomacy and cooperation following the Troncut Treaty to reduce the risk of recurrence. These relationships were not a joint military alliance, and earlier scholarly, archival or commercial contact need not have been absent.
+
+## VIII. Post-Treaty Reconstruction and Planetary Cooperation
 
 ### 1008 BAC — Interplanetary Transit Accord
 
@@ -860,7 +873,7 @@ Depcutland:
 
 ### 844 BAC — Formation of the Global Union in Stelhaven
 
-The **Global Union** forms in **Stelhaven, Kalgered**.
+The **Global Union** forms in **Stelhaven, Kalgered**. This later multilateral institution does not erase the distinct **post-1010 BAC diplomatic restoration**.
 
 Asthortera formally recognizes all sovereign states, establishing a planetary diplomatic structure.
 
