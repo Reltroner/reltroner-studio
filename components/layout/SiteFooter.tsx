@@ -4,8 +4,8 @@ export default function SiteFooter() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="relative z-10 border-t border-slate-800/80 bg-slate-950/80 backdrop-blur-md px-4 pt-12 pb-16 text-slate-400">
-      <div className="shell-container mx-auto max-w-7xl">
+    <footer className="relative z-10 border-t border-slate-800/80 bg-slate-950/80 backdrop-blur-md pt-12 pb-16 text-slate-400">
+      <div className="studio-wrap">
         <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-5">
           {/* Brand Column */}
           <div className="lg:col-span-2 space-y-4">
@@ -13,10 +13,10 @@ export default function SiteFooter() {
               Reltroner Studio
             </Link>
             <p className="max-w-sm text-sm leading-6 text-slate-300">
-              A multi-disciplinary digital studio bridging autonomous software engineering, creative frameworks, and civilizational worldbuilding.
+              An independent studio exploring connected creative worlds and the questions that keep imagination moving.
             </p>
             <p className="text-xs leading-5 text-slate-400">
-              Public knowledge archive and digital ecosystem gateway for creators, readers, and engineering collaborators.
+              Fiction, learning and professional work have different evidence and publication statuses.
             </p>
           </div>
 
@@ -27,12 +27,12 @@ export default function SiteFooter() {
             </p>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/start/creators" className="inline-flex min-h-8 items-center text-slate-300 hover:text-white transition focus-visible:rs-focus-ring rounded">
+                <Link href="/creators" className="inline-flex min-h-8 items-center text-slate-300 hover:text-white transition focus-visible:rs-focus-ring rounded">
                   For Creators
                 </Link>
               </li>
               <li>
-                <Link href="/start/readers" className="inline-flex min-h-8 items-center text-slate-300 hover:text-white transition focus-visible:rs-focus-ring rounded">
+                <Link href="/readers" className="inline-flex min-h-8 items-center text-slate-300 hover:text-white transition focus-visible:rs-focus-ring rounded">
                   For Readers
                 </Link>
               </li>
@@ -129,6 +129,7 @@ export default function SiteFooter() {
                   Privacy &amp; Analytics
                 </Link>
               </li>
+              <li><Link href="/blog/disclaimer" className="inline-flex min-h-11 items-center text-slate-300 hover:text-white">Disclaimer</Link></li>
             </ul>
           </div>
         </div>
@@ -137,7 +138,7 @@ export default function SiteFooter() {
         <div className="mt-12 pt-8 border-t border-slate-800/60 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <p>© {currentYear} Reltroner Studio. All rights reserved.</p>
           <p className="text-center sm:text-right max-w-lg">
-            Worldbuilding records represent creative fiction canon. Engineering case studies represent real-world software architecture.
+            Worldbuilding is creative fiction. Concept illustrations and practice examples are distinct from published canon.
           </p>
         </div>
       </div>

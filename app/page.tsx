@@ -1,19 +1,18 @@
-import { Metadata } from 'next';
-import EcosystemHero from '@/components/ecosystem/EcosystemHero';
-import AppDock from '@/components/ecosystem/AppDock';
-import EcosystemPillars from '@/components/ecosystem/EcosystemPillars';
-import UseCasePathways from '@/components/ecosystem/UseCasePathways';
-import FeaturedKnowledgeBridge from '@/components/ecosystem/FeaturedKnowledgeBridge';
-import EcosystemRoadmapPreview from '@/components/ecosystem/EcosystemRoadmapPreview';
+import Link from 'next/link';
+import ConceptArt from '@/components/worldbuilding/ConceptArt';
+import CreativeLoop from '@/components/worldbuilding/CreativeLoop';
+import ReadingPreview from '@/components/worldbuilding/ReadingPreview';
 import SelectedWorkShowcase from '@/components/ecosystem/SelectedWorkShowcase';
 import NewsletterSection from '@/components/newsletter/NewsletterSection';
+import { knowledgeNavigation } from '@/lib/constants/navigation';
+import { buildStandaloneMetadata } from '@/lib/seo/metadata';
 
-export const metadata: Metadata = {
-  alternates: { canonical: 'https://www.reltroner.com/' },
-  title: "Reltroner Studio — Ecosystem Gateway",
-  description: "Start with worldbuilding revision practices for creators or an introductory glossary of the fictional Asthortera universe for readers. Explore engineering work, the knowledge base, LMS, and HRM.",
-  keywords: "Reltroner Studio, worldbuilding, creators, readers, Asthortera fiction, Reltroner ecosystem, knowledge base, learning management system, human resource management",
-};
+export const metadata = buildStandaloneMetadata({
+  title: 'Connected Worlds & Creative Curiosity',
+  description: 'Start with an idea worth exploring. Discover creative worldbuilding practice, the fictional world of Asthortera, and questions that connect them at Reltroner Studio.',
+  pathname: '/',
+  image: '/images/reltroner-studio-banner.webp',
+});
 
 export default function Home() {
   const newsletterActivationVerified =
@@ -22,34 +21,183 @@ export default function Home() {
     process.env.RESEND_HARD_STOP_VERIFIED === 'true' &&
     process.env.RESEND_UNSUBSCRIBE_VERIFIED === 'true';
 
-  return (
-    <div className="space-y-8 px-4 sm:px-6 pb-12">
-      <EcosystemHero />
-      <AppDock />
-      <EcosystemPillars />
-      <UseCasePathways />
-      <FeaturedKnowledgeBridge />
-      <EcosystemRoadmapPreview />
-      <SelectedWorkShowcase />
-      <NewsletterSection activationVerified={newsletterActivationVerified} />
-
-      <section className="section-shell text-center py-16">
-        <h2 className="mb-6 text-3xl font-bold text-white">Ready to explore?</h2>
-        <div className="flex flex-col sm:flex-row sm:flex-wrap gap-4 justify-center">
-          <a href="#knowledge-bridge" className="focus-visible:rs-focus-ring rounded-full bg-blue-600 px-6 py-3 font-medium text-white transition hover:bg-blue-500">
-            Explore Knowledge Base
-          </a>
-          <a href="https://lms.reltroner.com" target="_blank" rel="noreferrer" className="focus-visible:rs-focus-ring rounded-full rs-glass px-6 py-3 font-medium text-white transition hover:bg-slate-800/50">
-            Open LMS ↗
-          </a>
-          <a href="https://hrm.reltroner.com" target="_blank" rel="noreferrer" className="focus-visible:rs-focus-ring rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
-            Open HRM ↗
-          </a>
-          <a href="https://www.youtube.com/@ReltronerStudio" target="_blank" rel="noreferrer" className="focus-visible:rs-focus-ring rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
-            Open Reltroner Studio Music ↗
-          </a>
+  return <div className="studio-page">
+    <section id="top" className="studio-hero">
+      <div className="studio-wrap">
+        <div className="studio-split">
+          <div>
+            <p className="studio-eyebrow">Creative curiosity · Worlds · Systems · Stories</p>
+            <h1>What if one idea could grow into an entire world?</h1>
+            <p className="studio-lead">Imagination is a gift, and everyone deserves the freedom to dream. Ever pictured a place, a character, or a question you couldn’t stop thinking about? Welcome to a studio exploring how those ideas connect and what they might become.</p>
+            <div className="studio-actions">
+              <Link href="/creators" className="studio-button">I build worlds ↗</Link>
+              <Link href="/readers" className="studio-button secondary">I explore worlds ↗</Link>
+            </div>
+            <p className="studio-small">Start with what you love. Follow the questions. Discover what grows.</p>
+          </div>
+          <ConceptArt kind="hero" ratio="6 / 5" />
         </div>
-      </section>
-    </div>
-  );
+        <div className="studio-signals"><span>Creator-led, not algorithm-led</span><span>Open to readers and worldbuilders</span><span>Built around curiosity and consequence</span></div>
+      </div>
+    </section>
+
+    <section id="begin" className="studio-section">
+      <div className="studio-wrap">
+        <div className="studio-intro">
+          <p className="studio-eyebrow">Start where your curiosity takes you</p>
+          <h2>Two ways into Reltroner Studio.</h2>
+          <p>Maybe you want to invent a new world. Maybe you want to discover one. You don’t need to understand an entire fictional universe first.</p>
+        </div>
+        <div className="studio-grid-two">
+          <Link href="/creators" className="studio-panel studio-link-card">
+            <ConceptArt kind="notebook" ratio="2 / 1" caption={false} />
+            <div className="studio-card">
+              <p className="studio-eyebrow">For creators · An open workshop</p>
+              <h3>I love building worlds.</h3>
+              <p>Got an idea you keep coming back to? Try connecting it with choices and consequences until your next question begins to emerge.</p>
+              <span className="studio-text-link">Explore For Creators ↗</span>
+            </div>
+          </Link>
+          <Link href="/readers" className="studio-panel studio-link-card">
+            <ConceptArt kind="city" ratio="2 / 1" caption={false} />
+            <div className="studio-card">
+              <p className="studio-eyebrow">For readers · A fictional world</p>
+              <h3>I love exploring worlds.</h3>
+              <p>Enter Asthortera through a story question, then discover the cultures, decisions, and interconnected civilizations behind it.</p>
+              <span className="studio-text-link">Explore For Readers ↗</span>
+            </div>
+          </Link>
+        </div>
+      </div>
+    </section>
+
+    <section id="recognize" className="studio-section studio-soft">
+      <div className="studio-wrap studio-split">
+        <ConceptArt kind="notes" label="Concept illustration · Connected creative notes" />
+        <div>
+          <p className="studio-eyebrow">A question many creators recognize</p>
+          <h2>Have plenty of ideas, but aren’t sure what comes next?</h2>
+          <p className="studio-lead">You don’t have to know everything before you start. Sometimes the next idea is hiding in something you’ve already made.</p>
+          <ol className="studio-recognition">
+            {['Characters and places exist, but their choices rarely meet.', 'You’ve finished a big concept and wonder where to go next.', 'You want to keep discovering, not just adding more disconnected lore.'].map((text, index) => <li key={text}><span>0{index + 1}</span>{text}</li>)}
+          </ol>
+          <p className="studio-small mt-4">This is one creative approach, not a formula every artist must follow.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="creative-loop" className="studio-section">
+      <div className="studio-wrap">
+        <div className="studio-intro">
+          <p className="studio-eyebrow">Try the Creative Compound Machine</p>
+          <h2>One idea can lead to the next.</h2>
+          <p>Explore a small, non-canon example. Six connected stages show how a fictional city’s decision might become an entirely new creative question.</p>
+        </div>
+        <CreativeLoop compact />
+        <div className="mt-5 flex flex-wrap items-center justify-between gap-4">
+          <p className="studio-small max-w-xl">When the new question depends on the changed world, previous creative work becomes an input to what follows.</p>
+          <Link href="/creators" className="studio-text-link">Try the full creator experience ↗</Link>
+        </div>
+      </div>
+    </section>
+
+    <section id="asthortera" className="studio-section studio-soft">
+      <div className="studio-wrap">
+        <div className="studio-split">
+          <div>
+            <p className="studio-eyebrow">From the Studio’s imagination</p>
+            <h2>Welcome to Asthortera.</h2>
+            <p className="studio-lead">A fictional world where extraordinary progress doesn’t make every decision easy.</p>
+            <p className="mt-4">Explore different civilizations, questions about memory and agency, and what happens when one society’s choices change another’s possibilities.</p>
+            <div className="studio-actions"><Link href="/readers" className="studio-button">Discover Asthortera ↗</Link></div>
+          </div>
+          <ConceptArt kind="city" label="Concept art · World visuals pending canon review" />
+        </div>
+        <div className="studio-grid-three mt-6">
+          {[
+            ['Progress', 'When life gets easier, what matters next?', 'Material progress may change what people need, but does it settle questions about meaning and belonging?'],
+            ['Memory', 'What should a civilization remember?', 'Archives can preserve information. People still have to decide what to learn from it.'],
+            ['Agency', 'Who shapes the future?', 'Institutions may improve decisions. Their legitimacy and human consequences still matter.'],
+          ].map(([tag, title, text]) => <article key={tag} className="studio-card"><p className="studio-small">{tag}</p><h3>{title}</h3><p>{text}</p></article>)}
+        </div>
+      </div>
+    </section>
+
+    <section id="reading" className="studio-section">
+      <div className="studio-wrap studio-split">
+        <div>
+          <p className="studio-eyebrow">For curious readers</p>
+          <h2>A story first. The world behind it when you’re ready.</h2>
+          <p className="studio-lead">Not every reader wants an encyclopedia before chapter one. Explore the present story, reveal the history, or open the world guide when a question comes up.</p>
+          <Link href="/readers" className="studio-text-link mt-4">See the full reader pathway ↗</Link>
+        </div>
+        <ReadingPreview compact />
+      </div>
+    </section>
+
+    <section id="explore" className="studio-section studio-soft">
+      <div className="studio-wrap">
+        <div id="knowledge-bridge" className="studio-panel studio-archive">
+          <div className="studio-intro">
+            <p className="studio-eyebrow">A more welcoming knowledge archive</p>
+            <h2>Follow a question, not a wall of categories.</h2>
+            <p>Start with what interests you. The full archive is still here when you want to go further.</p>
+          </div>
+          <div className="studio-grid-three">
+            {[
+              { kind: 'city' as const, tag: 'Stories & civilizations', title: 'Find a story question.', text: 'Start with a fictional dilemma, then discover the world that surrounds it.', href: '/series', cta: 'Explore series' },
+              { kind: 'network' as const, tag: 'Creative systems', title: 'Explore the method.', text: 'See how rules, relationships and consequences can give ideas a future.', href: '/principles', cta: 'Explore principles' },
+              { kind: 'atlas' as const, tag: 'Places & cultures', title: 'Follow the world map.', text: 'Trace fictional cities, institutions, societies and their histories.', href: '/places', cta: 'Explore places' },
+            ].map(item => <Link key={item.href} href={item.href} className="studio-panel studio-link-card"><ConceptArt kind={item.kind} ratio="2 / 1" caption={false} /><div className="studio-card"><p className="studio-eyebrow">{item.tag}</p><h3>{item.title}</h3><p>{item.text}</p><span className="studio-text-link">{item.cta} ↗</span></div></Link>)}
+          </div>
+          <details><summary>Browse all 20 existing archive categories</summary><div className="studio-archive-links">{knowledgeNavigation.map(item => <Link key={item.href} href={item.href}>{item.name}</Link>)}</div></details>
+        </div>
+      </div>
+    </section>
+
+    <section id="studio-notes" className="studio-section">
+      <div className="studio-wrap">
+        <div className="studio-intro">
+          <p className="studio-eyebrow">Notes from the Studio</p>
+          <h2>A little more of what’s behind the worlds.</h2>
+          <p>Two starting points from the existing Reltroner archive, one about the creative process, another about building interconnected civilizations.</p>
+        </div>
+        <div className="studio-grid-two">
+          {[
+            ['Creative practice', 'Creative Lore Bible', 'Explore how organizing a growing fictional project can make its relationships easier to revisit.', '/blog/creative-lore-bible', 'Read the creator note'],
+            ['Worldbuilding and systems', 'Civilizational Systems Worldbuilding', 'See how culture, institutions, and decisions can be treated as interacting parts of a living fictional world.', '/principles/civilizational-systems-worldbuilding-asthortera', 'Explore the framework'],
+          ].map(([tag, title, text, href, cta]) => <article key={href} className="studio-card"><p className="studio-eyebrow">{tag}</p><h3>{title}</h3><p>{text}</p><Link href={href} className="studio-text-link">{cta} ↗</Link></article>)}
+        </div>
+      </div>
+    </section>
+
+    <section id="conversation" className="studio-section studio-soft">
+      <div className="studio-wrap">
+        <div className="studio-panel studio-conversation studio-split studio-reverse">
+          <div>
+            <p className="studio-eyebrow">Conversation before promotion</p>
+            <h2>What’s a worldbuilding question you keep returning to?</h2>
+            <p>Maybe it’s a rule your characters disagree with, a city with a strange tradition, or a future you wish you could explore. I’d love to hear what makes you curious.</p>
+            <div className="studio-actions"><Link href="/contact" className="studio-button secondary">Share a Thought ↗</Link></div>
+          </div>
+          <ConceptArt kind="conversation" label="Concept illustration · Creative conversation" />
+        </div>
+      </div>
+    </section>
+
+    <section id="about" className="studio-section">
+      <div className="studio-wrap studio-split">
+        <ConceptArt kind="desk" label="Concept illustration · A creator’s workbench" />
+        <div>
+          <p className="studio-eyebrow">Behind Reltroner Studio</p>
+          <h2>I make the kind of worlds I’d want to explore.</h2>
+          <p className="studio-lead">The studio brings together systemic creative design, software engineering, and the habit of learning as I go. Curiosity leads to research; research opens new directions for the fiction.</p>
+          <p className="mt-4">This is an ongoing independent creative project, shared so readers and fellow worldbuilders can follow the questions too.</p>
+          <div className="studio-actions"><Link href="/about" className="studio-button secondary">Meet the studio ↗</Link></div>
+        </div>
+      </div>
+    </section>
+    <div className="studio-section studio-soft"><div className="studio-wrap"><SelectedWorkShowcase /></div></div>
+    <div className="studio-section"><div className="studio-wrap"><NewsletterSection activationVerified={newsletterActivationVerified} /></div></div>
+  </div>;
 }

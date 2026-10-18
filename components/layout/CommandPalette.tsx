@@ -1,7 +1,7 @@
 'use client';
 
 import dynamic from 'next/dynamic';
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import type { PageEntry } from './CommandPaletteDialog';
 
 const CommandPaletteDialog = dynamic(() => import('./CommandPaletteDialog'), {
@@ -15,18 +15,23 @@ export interface CommandPaletteProps {
 export default function CommandPalette({ pages }: CommandPaletteProps) {
   const [open, setOpen] = useState(false);
   const [shouldRenderDialog, setShouldRenderDialog] = useState(false);
+  const opener = useRef<HTMLElement | null>(null);
+  const isOpen = useRef(false);
+
+  const openPalette = useCallback(() => {
+    if (!isOpen.current) opener.current = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+    isOpen.current = true;
+    setShouldRenderDialog(true);
+    setOpen(true);
+  }, []);
 
   useEffect(() => {
-    const openPalette = () => {
-      setShouldRenderDialog(true);
-      setOpen(true);
-    };
-
     const down = (event: KeyboardEvent) => {
-      if (event.key === 'k' && (event.metaKey || event.ctrlKey)) {
+      const key = typeof event?.key === 'string' ? event.key.toLowerCase() : null;
+      if (key === 'k' && (event.metaKey || event.ctrlKey)) {
         event.preventDefault();
-        setShouldRenderDialog(true);
-        setOpen((current) => !current);
+        if (isOpen.current) { isOpen.current = false; setOpen(false); }
+        else openPalette();
       }
     };
 
@@ -37,20 +42,18 @@ export default function CommandPalette({ pages }: CommandPaletteProps) {
       document.removeEventListener('keydown', down);
       window.removeEventListener('reltroner:command-palette:open', openPalette);
     };
-  }, []);
+  }, [openPalette]);
 
   return (
     <>
       <button
-        onClick={() => {
-          setShouldRenderDialog(true);
-          setOpen(true);
-        }}
-        className="hidden min-w-[20rem] items-center justify-between gap-4 rounded-full px-5 py-3 text-sm text-slate-300 transition hover:bg-white/10 hover:text-white md:flex"
+        onClick={openPalette}
+        aria-label="Search titles, tags, and archives"
+        className="studio-search-button"
       >
         <span className="flex items-center gap-3">
-          <span className="h-2 w-2 rounded-full bg-blue-500/80" />
-          Search titles, tags, and archives
+          <span aria-hidden="true">⌕</span>
+          Search
         </span>
         <kbd className="rounded-full border border-slate-700 px-2.5 py-1 text-[11px] uppercase tracking-[0.16em] text-slate-400">
           Ctrl K
@@ -60,7 +63,8 @@ export default function CommandPalette({ pages }: CommandPaletteProps) {
       {shouldRenderDialog ? (
         <CommandPaletteDialog
           open={open}
-          onOpenChange={setOpen}
+          onOpenChange={(next) => { isOpen.current = next; setOpen(next); }}
+          onReturnFocus={() => opener.current?.focus()}
           pages={pages}
         />
       ) : null}

@@ -27,7 +27,8 @@ export default function AssistantRoot({ entries, providerAvailable = false }: { 
   useEffect(() => {
     const closeForSearch = () => setOpen(false);
     const onKey = (event: KeyboardEvent) => {
-      if (event.key.toLowerCase() === 'k' && (event.ctrlKey || event.metaKey)) closeForSearch();
+      const key = typeof event?.key === 'string' ? event.key.toLowerCase() : null;
+      if (key === 'k' && (event.ctrlKey || event.metaKey)) closeForSearch();
     };
     document.addEventListener('keydown', onKey);
     window.addEventListener('reltroner:command-palette:open', closeForSearch);

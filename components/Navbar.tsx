@@ -1,25 +1,18 @@
 import NavLinks from "@/components/layout/NavLinks";
-import EcosystemAppSwitcher from "@/components/navigation/EcosystemAppSwitcher";
+import Link from 'next/link';
+import CommandPalette, { type CommandPaletteProps } from './layout/CommandPalette';
+import MobileNavbar from './MobileNavbar';
 import { topNavigation } from "@/lib/constants/navigation";
 
-export default function Navbar() {
-  const navItems = topNavigation.filter(item => item.name !== 'Apps');
-
+export default function Navbar({ pages }: CommandPaletteProps) {
   return (
-    <div className="px-4 pt-[38px] pb-0 text-slate-50">
-      <div className="shell-container grid grid-cols-1 items-center">
-        {/* Top-level Navigation */}
-        <div className="col-start-1 row-start-1 flex min-w-0 justify-center px-24">
-          <nav className="surface-glass px-2 py-1.5" aria-label="Primary navigation">
-            <NavLinks items={navItems} />
-          </nav>
-        </div>
-
-        {/* Right Controls */}
-        <div className="col-start-1 row-start-1 flex min-w-0 items-center justify-self-end">
-          <EcosystemAppSwitcher />
-        </div>
+    <header className="studio-nav">
+      <div className="studio-wrap studio-desktop-nav">
+        <Link href="/" className="studio-brand"><img src="/images/reltroner-smooth.webp" width="38" height="38" alt="" />Reltroner Studio</Link>
+        <nav aria-label="Primary navigation"><NavLinks items={topNavigation} /></nav>
+        <div className="studio-nav-actions"><CommandPalette pages={pages} /><Link href="/contact" className="studio-button">Let&apos;s Connect ↗</Link></div>
       </div>
-    </div>
+      <MobileNavbar />
+    </header>
   );
 }

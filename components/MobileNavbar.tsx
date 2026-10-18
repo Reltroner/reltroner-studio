@@ -13,6 +13,7 @@ import Link from 'next/link';
 import {
   ecosystemNavigation,
   knowledgeNavigation,
+  topNavigation,
 } from '@/lib/constants/navigation';
 import {
   useReadingPath,
@@ -32,8 +33,8 @@ const ecosystemLinks: NavigationItem[] = [
     href: '/',
   },
   {
-    name: 'Roadmap',
-    href: '/#roadmap',
+    name: 'Explore the archive',
+    href: '/#explore',
   },
 ];
 
@@ -41,10 +42,6 @@ const companyLinks: NavigationItem[] = [
   {
     name: 'About',
     href: '/about',
-  },
-  {
-    name: 'Contact',
-    href: '/contact',
   },
   {
     name: 'Portfolio & Recruiting',
@@ -176,29 +173,18 @@ export default function MobileNavbar() {
 
   return (
     <>
-      {/* Fixed navbar: always attached to the mobile viewport */}
-      <header
-        className="fixed inset-x-0 top-0 z-[100] px-3 md:hidden"
-        style={{
-          paddingTop: 'max(0.75rem, env(safe-area-inset-top))',
-        }}
-      >
+      <div className="studio-mobile-nav">
         <nav
           aria-label="Mobile primary navigation"
-          className="mx-auto flex w-full max-w-3xl items-center justify-between gap-3 rounded-2xl border border-white/10 bg-slate-950/85 px-3 py-2.5 text-slate-50 shadow-lg shadow-slate-950/20 backdrop-blur-xl"
+          className="studio-wrap flex min-h-[66px] items-center justify-between gap-3 text-slate-50"
         >
           <Link
             href="/"
             aria-label="Reltroner home"
-            className="min-w-0 flex-1 rounded-xl px-2 py-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300"
+            className="studio-brand min-w-0"
           >
-            <span className="block truncate text-base font-semibold tracking-tight">
-              Reltroner
-            </span>
-
-            <span className="block truncate text-[10px] uppercase tracking-[0.14em] text-slate-400">
-              Knowledge Ecosystem
-            </span>
+            <img src="/images/reltroner-mark.svg" width="34" height="34" alt="" />
+            <span>Reltroner Studio</span>
           </Link>
 
           <div className="flex shrink-0 items-center gap-1">
@@ -223,24 +209,12 @@ export default function MobileNavbar() {
             </button>
           </div>
         </nav>
-      </header>
-
-      {/*
-       * Compensates for the fixed navbar so page content does not render
-       * underneath it.
-       */}
-      <div
-        aria-hidden="true"
-        className="md:hidden"
-        style={{
-          height: 'calc(5.25rem + env(safe-area-inset-top))',
-        }}
-      />
+      </div>
 
       <Transition appear show={isOpen} as={Fragment}>
         <Dialog
           as="div"
-          className="relative z-[9999] md:hidden"
+          className="relative z-[9999] min-[1100px]:hidden"
           onClose={setIsOpen}
         >
           {/* Backdrop must stay behind the scrollable drawer */}
@@ -325,8 +299,18 @@ export default function MobileNavbar() {
                   }}
                 >
                   <div className="space-y-4">
+                    <NavigationSection title="Start here">
+                      <MobileLinkGrid items={topNavigation} onNavigate={closeNavigation} />
+                      <Link
+                        href="/contact"
+                        onClick={closeNavigation}
+                        className="studio-button mt-3 w-full"
+                      >
+                        Let&apos;s Connect ↗
+                      </Link>
+                    </NavigationSection>
                     {headings && headings.length > 0 ? (
-                      <NavigationSection title="On this page — Reading Path">
+                      <NavigationSection title="On this page | Reading Path">
                         <ol className="space-y-1">
                           {headings.map((heading) => {
                             const isActive = activeId === heading.id;
@@ -344,13 +328,11 @@ export default function MobileNavbar() {
                                       target.scrollIntoView({ behavior: 'smooth' });
                                     }
                                   }}
-                                  className={`block rounded-xl py-2 px-3 text-sm transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 ${
-                                    heading.level > 2 ? 'pl-6 text-xs' : 'font-medium'
-                                  } ${
-                                    isActive
+                                  className={`block rounded-xl py-2 px-3 text-sm transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-300 ${heading.level > 2 ? 'pl-6 text-xs' : 'font-medium'
+                                    } ${isActive
                                       ? 'bg-sky-400/15 text-sky-200 border border-sky-400/30'
                                       : 'text-slate-300 hover:bg-white/10 hover:text-white'
-                                  }`}
+                                    }`}
                                 >
                                   {decodeHtmlEntities(heading.text)}
                                 </a>

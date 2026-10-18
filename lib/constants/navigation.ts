@@ -6,11 +6,10 @@ export interface NavigationItem {
 }
 
 export const topNavigation: NavigationItem[] = [
-  { name: 'Ecosystem', href: '/' },
+  { name: 'For Creators', href: '/creators' },
+  { name: 'For Readers', href: '/readers' },
+  { name: 'Explore', href: '/explore' },
   { name: 'About', href: '/about' },
-  { name: 'Portfolio', href: '/blog/for-recruiters' },
-  { name: 'Contact', href: '/contact' },
-  { name: 'Disclaimer', href: '/blog/disclaimer' },
 ];
 
 export const knowledgeNavigation: NavigationItem[] = [

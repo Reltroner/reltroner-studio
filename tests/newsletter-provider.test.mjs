@@ -48,7 +48,7 @@ test('real Resend transport implementation confirms mocked contact persistence w
   for (const request of requests) {
     assert.equal(new URL(request.url).origin, 'https://api.resend.com');
     assert.equal(request.headers.get('authorization'), `Bearer ${apiKey}`);
-    assert.equal(request.redirect, 'error');
+    assert.equal(request.redirect, 'manual');
     assert.equal(request.signal.aborted, true);
     assert.equal(new URL(request.url).pathname.includes('/emails'), false);
   }

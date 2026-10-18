@@ -58,7 +58,7 @@ export default function ContentEntryPage({
   const entryImage = resolveCdnImageUrl(entry.image);
 
   const breadcrumbs: BreadcrumbSegment[] = [
-    { label: "Knowledge Base", href: "/#knowledge-bridge" },
+    { label: "Explore", href: "/explore#collections" },
     { label: config?.title || "Archive", href: config?.route || "/" },
     { label: entry.title },
   ];

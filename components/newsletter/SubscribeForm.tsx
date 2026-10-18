@@ -46,13 +46,20 @@ const APPROVED_HOSTNAMES = new Set([
   const isLiveActive = runtimeState === 'live' || (live && runtimeState !== 'pages-dev');
   const isPagesPreview = runtimeState === 'pages-dev' || isPagesDev;
 
+  const consentRef = useRef<HTMLInputElement>(null);
+
   async function submit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
     if (busy.current) return;
     const checked = validateSubscription({ email, consent });
     if (!checked.input) {
       setResult({ status: 'invalid', message: checked.error!, delivered: false, verified: false });
-      if (!email.trim()) emailRef.current?.focus();
+      const emailValid = Boolean(validateSubscription({ email, consent: true }).input);
+      if (!emailValid) {
+        emailRef.current?.focus();
+      } else {
+        consentRef.current?.focus();
+      }
       return;
     }
     if (lastPreview.current === checked.input.email) {
@@ -60,7 +67,7 @@ const APPROVED_HOSTNAMES = new Set([
         status: 'duplicate',
         message: isLiveActive
           ? 'This address was already confirmed in this session. No additional request was sent.'
-          : 'You already previewed this address in this session. No subscription exists in this prototype.',
+          : 'Your email looks valid. This is a preview, so no subscription has been created.',
         delivered: false,
         verified: false,
       });
@@ -72,7 +79,7 @@ const APPROVED_HOSTNAMES = new Set([
       lastPreview.current = checked.input.email;
       setResult({
         status: 'prototype',
-        message: 'Preview only (*.pages.dev): your input is valid. Live subscriptions are only accepted on www.reltroner.com with verified WAF protection.',
+        message: 'Your email looks valid. This is a preview, so no subscription has been created.',
         delivered: false,
         verified: false,
       });
@@ -84,7 +91,7 @@ const APPROVED_HOSTNAMES = new Set([
       lastPreview.current = checked.input.email;
       setResult({
         status: 'prototype',
-        message: 'Local prototype: your input is valid. No subscription was created and no email was sent.',
+        message: 'Your email looks valid. This is a preview, so no subscription has been created.',
         delivered: false,
         verified: false,
       });
@@ -132,6 +139,9 @@ const APPROVED_HOSTNAMES = new Set([
     }
   }
 
+  const emailInvalid = result?.status === 'invalid' && !validateSubscription({ email, consent: true }).input;
+  const consentInvalid = result?.status === 'invalid' && !consent && Boolean(validateSubscription({ email, consent: true }).input);
+
   return (
     <form
       onSubmit={submit}
@@ -154,15 +164,19 @@ const APPROVED_HOSTNAMES = new Set([
           value={email}
           onChange={(event) => setEmail(event.target.value)}
           className="rs-form-input"
-          aria-invalid={result?.status === 'invalid' && !validateSubscription({ email, consent: true }).input}
+          aria-invalid={emailInvalid}
+          aria-describedby="newsletter-feedback"
         />
       </div>
       <label className="flex items-start gap-3 text-sm leading-6 text-slate-300">
         <input
+          ref={consentRef}
           type="checkbox"
           checked={consent}
           onChange={(event) => setConsent(event.target.checked)}
           className="mt-1 h-5 w-5 shrink-0"
+          aria-invalid={consentInvalid}
+          aria-describedby="newsletter-feedback"
         />
         I choose to receive Studio updates about creative practice, public knowledge, and engineering. Contact
         inquiries do not subscribe me.

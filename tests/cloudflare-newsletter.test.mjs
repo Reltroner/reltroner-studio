@@ -590,3 +590,322 @@ test('server-side activation calculation logic produces a strict serializable bo
     assert.equal(computeActivation({ ...verifiedEnv, [key]: undefined }), false);
   }
 });
+
+const diagnosticKeys = ['scope', 'requestId', 'stage', 'operation', 'requestConstructed', 'fetchEntered',
+  'providerHttpStatus', 'errorCategory', 'mutationAttempted', 'evidenceConfirmed', 'outcome'].sort();
+const requestUUID = '87654321-4321-4321-4321-210987654321';
+const unsafeMarker = `${email}|${apiKey}|${contactId}|${segmentId}|https://api.resend.com/private|Authorization|private-body|private-hmac`;
+
+async function diagnosticWorkflow(steps, options = {}) {
+  const { flag, ...overrides } = { flag: 'true', ...options };
+  const diagnostics = [];
+  const { transport, requests } = mockTransport([...steps]);
+  const request = apiReq(input);
+  const service = createCloudflareNewsletterService(
+    { ...verifiedEnv, NEWSLETTER_DIAGNOSTICS_ENABLED: flag }, request,
+    { transport, diagnostic: event => diagnostics.push(event), ...overrides }
+  );
+  const response = await handleNewsletterRequest(request, service);
+  const body = await response.json();
+  assert.deepEqual(Object.keys(body).sort(), ['delivered', 'message', 'status', 'verified']);
+  const publicMessages = {
+    accepted: 'Your subscription was saved in Resend. No email was sent.',
+    duplicate: 'Resend confirms this address is already on the Studio newsletter list. No email was sent.',
+    'quota-error': 'The newsletter request limit was reached. Subscription acceptance is not confirmed.',
+    rejected: 'Subscription acceptance could not be confirmed. Check your preferences before retrying.',
+    'network-error': 'Subscription acceptance could not be confirmed. Check your preferences before retrying.',
+  };
+  assert.equal(body.message, publicMessages[body.status]);
+  assert.equal(body.delivered, false);
+  assert.equal(body.verified, false);
+  assert.equal(response.headers.get('cache-control'), 'no-store');
+  assert.match(response.headers.get('x-request-id'), /^[a-f0-9-]{36}$/);
+  for (const event of diagnostics) {
+    assert.deepEqual(Object.keys(event).sort(), diagnosticKeys);
+    assert.equal(event.requestId, response.headers.get('x-request-id'));
+    assert.ok(Object.isFrozen(event));
+    const serialized = JSON.stringify(event);
+    for (const secret of unsafeMarker.split('|')) assert.equal(serialized.includes(secret), false);
+    assert.equal(event.providerHttpStatus === null || (Number.isInteger(event.providerHttpStatus) && event.providerHttpStatus >= 100 && event.providerHttpStatus <= 599), true);
+  }
+  return { diagnostics, requests, body, status: response.status };
+}
+
+test('R4 diagnostics default off and require exact string true without changing the public contract', async () => {
+  for (const flag of [undefined, '', 'false', 'TRUE', '1', true]) {
+    const run = await diagnosticWorkflow([json(contact()), memberList()], { flag });
+    assert.equal(run.diagnostics.length, 0);
+    assert.equal(run.body.status, 'duplicate');
+    assert.equal(run.requests.length, 2);
+  }
+});
+
+test('R4 enabled route emits one structured console record correlated with X-Request-Id', async (t) => {
+  const logs = [];
+  t.mock.method(console, 'log', value => logs.push(value));
+  const { transport } = mockTransport([json(contact()), memberList()]);
+  const request = apiReq(input);
+  const service = createCloudflareNewsletterService({ ...verifiedEnv, NEWSLETTER_DIAGNOSTICS_ENABLED: 'true' }, request, { transport });
+  const response = await handleNewsletterRequest(request, service);
+  assert.equal(logs.length, 1);
+  const event = JSON.parse(logs[0]);
+  assert.deepEqual(Object.keys(event).sort(), diagnosticKeys);
+  assert.equal(event.requestId, response.headers.get('x-request-id'));
+  assert.equal(event.outcome, 'duplicate');
+});
+
+test('R4 HMAC failure is identified before Request construction or transport entry', async (t) => {
+  t.mock.method(crypto.subtle, 'importKey', async () => { throw new Error(unsafeMarker); });
+  const run = await diagnosticWorkflow([]);
+  const [event] = run.diagnostics;
+  assert.equal(run.status, 502);
+  assert.equal(run.requests.length, 0);
+  assert.equal(event.stage, 'hmac_reservation');
+  assert.equal(event.operation, 'calculate_reservation');
+  assert.equal(event.errorCategory, 'hmac');
+  assert.equal(event.requestConstructed, false);
+  assert.equal(event.fetchEntered, false);
+  assert.equal(event.mutationAttempted, false);
+  assert.equal(event.providerHttpStatus, null);
+});
+
+test('R4 initialization failure is observable while preserving the existing route exception contract', async (t) => {
+  const request = apiReq(input);
+  const diagnostics = [];
+  const service = createCloudflareNewsletterService({ ...verifiedEnv, NEWSLETTER_DIAGNOSTICS_ENABLED: 'true' }, request,
+    { diagnostic: event => diagnostics.push(event), transport: async () => { throw new Error('Unexpected mock operation'); } });
+  t.mock.method(globalThis, 'AbortController', class { constructor() { throw new Error(unsafeMarker); } });
+  const response = await handleNewsletterRequest(request, service);
+  assert.equal(response.status, 400);
+  assert.deepEqual(await response.json(), { status: 'rejected', message: 'The request could not be validated. Try again from this website.' });
+  assert.equal(diagnostics.length, 1);
+  assert.deepEqual(Object.keys(diagnostics[0]).sort(), diagnosticKeys);
+  assert.equal(diagnostics[0].stage, 'provider_initialization');
+  assert.equal(diagnostics[0].errorCategory, 'initialization');
+  assert.equal(diagnostics[0].fetchEntered, false);
+  for (const secret of unsafeMarker.split('|')) assert.equal(JSON.stringify(diagnostics).includes(secret), false);
+});
+
+test('R4 Request constructor failure is distinct from fetch rejection, including before a mutation', async (t) => {
+  const NativeRequest = globalThis.Request;
+  let failPost = false;
+  t.mock.method(globalThis, 'Request', class extends NativeRequest {
+    constructor(url, init) {
+      if (String(url).startsWith('https://api.resend.com') && (!failPost || init.method === 'POST')) throw new Error(unsafeMarker);
+      super(url, init);
+    }
+  });
+  for (const post of [false, true]) {
+    failPost = post;
+    const run = await diagnosticWorkflow(post ? [notFound()] : []);
+    const [event] = run.diagnostics;
+    assert.equal(run.status, 503);
+    assert.equal(run.requests.length, post ? 1 : 0);
+    assert.equal(event.operation, post ? 'create_contact' : 'lookup_contact');
+    assert.equal(event.stage, 'request_construction');
+    assert.equal(event.errorCategory, 'request_construction');
+    assert.equal(event.requestConstructed, false);
+    assert.equal(event.fetchEntered, false);
+    assert.equal(event.mutationAttempted, false);
+  }
+});
+
+test('R4 fetch rejection identifies transport entry without assuming a provider response', async () => {
+  const run = await diagnosticWorkflow([() => { throw new Error(unsafeMarker); }]);
+  const [event] = run.diagnostics;
+  assert.equal(run.status, 503);
+  assert.equal(run.requests.length, 1);
+  assert.equal(event.stage, 'fetch_invocation');
+  assert.equal(event.errorCategory, 'fetch_rejected');
+  assert.equal(event.requestConstructed, true);
+  assert.equal(event.fetchEntered, true);
+  assert.equal(event.providerHttpStatus, null);
+  assert.equal(event.mutationAttempted, false);
+});
+
+for (const [providerStatus, httpStatus, category, outcome] of [
+  [401, 502, 'provider_authentication', 'rejected'],
+  [403, 502, 'provider_authentication', 'rejected'],
+  [429, 429, 'provider_quota', 'quota'],
+  [500, 503, 'provider_server', 'network'],
+  [503, 503, 'provider_server', 'network'],
+]) {
+  test(`R4 provider HTTP ${providerStatus} is classified without logging its body`, async () => {
+    const run = await diagnosticWorkflow([json({ name: 'private', message: unsafeMarker }, providerStatus)]);
+    const [event] = run.diagnostics;
+    assert.equal(run.status, httpStatus);
+    assert.equal(run.requests.length, 1);
+    assert.equal(event.stage, 'provider_response');
+    assert.equal(event.providerHttpStatus, providerStatus);
+    assert.equal(event.errorCategory, category);
+    assert.equal(event.outcome, outcome);
+    assert.equal(event.fetchEntered, true);
+    assert.equal(event.mutationAttempted, false);
+  });
+}
+
+test('R4 malformed JSON and unexpected contact/transport shapes identify separate boundaries', async () => {
+  for (const [response, stage, category] of [
+    [new Response('{', { headers: { 'content-type': 'application/json' } }), 'response_parsing', 'response_json'],
+    [json({ object: 'contact', message: unsafeMarker }), 'contact_lookup', 'response_shape'],
+    [{ message: unsafeMarker }, 'provider_response', 'response_shape'],
+  ]) {
+    const run = await diagnosticWorkflow([response]);
+    assert.equal(run.status, 502);
+    assert.equal(run.requests.length, 1);
+    assert.equal(run.diagnostics[0].stage, stage);
+    assert.equal(run.diagnostics[0].errorCategory, category);
+    assert.equal(run.diagnostics[0].evidenceConfirmed, false);
+  }
+});
+
+test('R4 successful creation and duplicates preserve exact response, provider operations and evidence', async () => {
+  for (const [steps, expectedStatus, expectedCount, mutationAttempted, message] of [
+    [() => [notFound(), json({ object: 'contact', id: contactId }), json(contact()), memberList()], 'accepted', 4, true, 'Your subscription was saved in Resend. No email was sent.'],
+    [() => [json(contact()), memberList()], 'duplicate', 2, false, 'Resend confirms this address is already on the Studio newsletter list. No email was sent.'],
+  ]) {
+    const enabled = await diagnosticWorkflow(steps());
+    const disabled = await diagnosticWorkflow(steps(), { flag: 'false' });
+    assert.deepEqual(enabled.body, { status: expectedStatus, message, delivered: false, verified: false });
+    assert.deepEqual(enabled.body, disabled.body);
+    assert.equal(enabled.status, disabled.status);
+    assert.equal(enabled.requests.length, expectedCount);
+    assert.equal(disabled.requests.length, expectedCount);
+    for (let i = 0; i < expectedCount; i++) {
+      assert.equal(enabled.requests[i].method, disabled.requests[i].method);
+      assert.equal(enabled.requests[i].url, disabled.requests[i].url);
+      assert.deepEqual([...enabled.requests[i].headers], [...disabled.requests[i].headers]);
+      assert.equal(await enabled.requests[i].text(), await disabled.requests[i].text());
+    }
+    const [event] = enabled.diagnostics;
+    assert.equal(enabled.diagnostics.length, 1);
+    assert.equal(event.stage, 'confirmation');
+    assert.equal(event.operation, 'verify_membership');
+    assert.equal(event.mutationAttempted, mutationAttempted);
+    assert.equal(event.evidenceConfirmed, true);
+    assert.equal(event.errorCategory, 'none');
+    assert.equal(event.outcome, expectedStatus);
+  }
+});
+
+test('R4 mutation attempt is retained when creation fetch rejects or readback cannot confirm persistence', async () => {
+  for (const [steps, operation, category, httpStatus] of [
+    [[notFound(), () => { throw new Error(unsafeMarker); }], 'create_contact', 'fetch_rejected', 503],
+    [[notFound(), json({ object: 'contact', id: contactId }), json({ message: unsafeMarker }, 500)], 'read_contact', 'provider_server', 502],
+    [[notFound(), json({ object: 'contact', id: contactId }), json(contact()), memberList(false)], 'verify_membership', 'indeterminate', 502],
+  ]) {
+    const run = await diagnosticWorkflow(steps);
+    const [event] = run.diagnostics;
+    assert.equal(run.status, httpStatus);
+    assert.equal(event.operation, operation);
+    assert.equal(event.errorCategory, category);
+    assert.equal(event.mutationAttempted, true);
+    assert.equal(event.evidenceConfirmed, false);
+    assert.notEqual(run.body.status, 'accepted');
+  }
+});
+
+test('R4 timeout and reservation denial retain their stage without extra provider operations', async () => {
+  const timeout = await diagnosticWorkflow([() => new Promise(() => {})], { timeoutMilliseconds: 10 });
+  assert.equal(timeout.status, 503);
+  assert.equal(timeout.requests.length, 1);
+  assert.equal(timeout.diagnostics[0].stage, 'fetch_invocation');
+  assert.equal(timeout.diagnostics[0].errorCategory, 'timeout');
+  const diagnostics = [];
+  let calls = 0;
+  const service = createResendNewsletterProvider({ apiKey, segmentId,
+    control: { scope: 'deployment', enforcesFreePlanHardStop: true, verifiedAbuseControls: true, withReservation: async () => null },
+    transport: async () => { calls++; throw new Error('Unexpected mock operation'); }, diagnostic: event => diagnostics.push(event) });
+  assert.equal((await service.subscribe(input, requestUUID)).status, 'quota-error');
+  assert.equal(calls, 0);
+  assert.equal(diagnostics[0].stage, 'reservation_control');
+  assert.equal(diagnostics[0].errorCategory, 'reservation_denied');
+  assert.equal(diagnostics[0].fetchEntered, false);
+});
+
+test('R4 throwing diagnostic sinks cannot alter subscription business behavior', async () => {
+  const run = await diagnosticWorkflow([json(contact()), memberList()], { diagnostic: () => { throw new Error(unsafeMarker); } });
+  assert.equal(run.body.status, 'duplicate');
+  assert.equal(run.status, 200);
+  assert.equal(run.requests.length, 2);
+});
+
+test('R4 repeated reservation work is classified as operation quota without repeating provider calls', async () => {
+  const diagnostics = [];
+  const { transport, requests } = mockTransport([json(contact()), memberList()]);
+  const service = createResendNewsletterProvider({ apiKey, segmentId, transport,
+    control: { scope: 'deployment', enforcesFreePlanHardStop: true, verifiedAbuseControls: true,
+      withReservation: async (_reservation, work) => { await work(); return work(); } },
+    diagnostic: event => diagnostics.push(event) });
+  assert.equal((await service.subscribe(input, requestUUID)).status, 'quota-error');
+  assert.equal(requests.length, 2);
+  assert.equal(diagnostics[0].errorCategory, 'operation_quota');
+  assert.equal(diagnostics[0].outcome, 'quota');
+});
+
+test('R5 outbound Requests construct under Workers redirect constraints and retain R4 correlation', async (t) => {
+  const NativeRequest = globalThis.Request;
+  let constructed = 0;
+  t.mock.method(globalThis, 'Request', class extends NativeRequest {
+    constructor(url, init) {
+      const outbound = String(url).startsWith('https://api.resend.com/');
+      if (outbound && init.redirect === 'error') throw new TypeError('Unsupported mock redirect mode');
+      super(url, init);
+      if (outbound) {
+        assert.equal(this.redirect, 'manual');
+        constructed++;
+      }
+    }
+  });
+  const run = await diagnosticWorkflow([notFound(), json({ object: 'contact', id: contactId }), json(contact()), memberList()]);
+  assert.equal(run.status, 200);
+  assert.equal(run.body.status, 'accepted');
+  assert.equal(constructed, 4);
+  assert.equal(run.requests.length, 4);
+  assert.equal(run.diagnostics[0].requestConstructed, true);
+  assert.equal(run.diagnostics[0].fetchEntered, true);
+  assert.equal(run.diagnostics[0].evidenceConfirmed, true);
+  for (const request of run.requests) {
+    assert.equal(new URL(request.url).origin, 'https://api.resend.com');
+    assert.ok(request.headers.get('authorization') === `Bearer ${apiKey}`, 'Synthetic authorization stays on the Resend request');
+  }
+});
+
+for (const status of [301, 302, 307, 308]) {
+  for (const mutation of [false, true]) {
+    test(`R5 HTTP ${status} during ${mutation ? 'creation' : 'lookup'} is rejected before parsing with zero redirect forwarding`, async (t) => {
+      let bodyReads = 0;
+      let locationReads = 0;
+      const redirect = new Response('{', { status, headers: {
+        Location: 'https://redirect-target.invalid/receive', 'Content-Type': 'application/json',
+      } });
+      t.mock.method(redirect.body, 'getReader', () => { bodyReads++; throw new Error('Redirect body must not be parsed'); });
+      const readHeader = redirect.headers.get;
+      t.mock.method(redirect.headers, 'get', function (name) {
+        if (name.toLowerCase() === 'location') locationReads++;
+        return readHeader.call(this, name);
+      });
+      const run = await diagnosticWorkflow(mutation ? [notFound(), redirect] : [redirect]);
+      assert.equal(run.status, 502);
+      assert.equal(run.body.status, 'rejected');
+      assert.equal(run.requests.length, mutation ? 2 : 1);
+      assert.equal(bodyReads, 0);
+      assert.equal(locationReads, 0);
+      for (const request of run.requests) {
+        assert.equal(request.redirect, 'manual');
+        assert.equal(new URL(request.url).origin, 'https://api.resend.com');
+        assert.ok(request.headers.get('authorization') === `Bearer ${apiKey}`, 'Synthetic authorization stays on the Resend request');
+      }
+      const [event] = run.diagnostics;
+      assert.equal(event.stage, 'provider_response');
+      assert.equal(event.operation, mutation ? 'create_contact' : 'lookup_contact');
+      assert.equal(event.providerHttpStatus, status);
+      assert.equal(event.errorCategory, 'provider_rejected');
+      assert.equal(event.outcome, 'rejected');
+      assert.equal(event.requestConstructed, true);
+      assert.equal(event.fetchEntered, true);
+      assert.equal(event.mutationAttempted, mutation);
+      assert.equal(event.evidenceConfirmed, false);
+    });
+  }
+}
