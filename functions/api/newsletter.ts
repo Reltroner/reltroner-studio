@@ -10,6 +10,7 @@ export interface CloudflareNewsletterEnv {
   CLOUDFLARE_WAF_PROTECTION_VERIFIED?: string;
   RESEND_HARD_STOP_VERIFIED?: string;
   RESEND_UNSUBSCRIBE_VERIFIED?: string;
+  NEWSLETTER_DIAGNOSTICS_ENABLED?: string;
   [key: string]: unknown;
 }
 
@@ -139,7 +140,9 @@ export function createCloudflareNewsletterService(
     edgeProtection: 'cloudflare-waf',
     transport: options?.transport,
     timeoutMilliseconds: options?.timeoutMilliseconds,
-    diagnostic: options?.diagnostic,
+    diagnostic: env.NEWSLETTER_DIAGNOSTICS_ENABLED === 'true'
+      ? options?.diagnostic ?? ((event) => { console.log(JSON.stringify(event)); })
+      : undefined,
   });
 }
 

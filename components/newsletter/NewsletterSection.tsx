@@ -34,11 +34,11 @@ export default function NewsletterSection({
   const isLive = activeMode === 'live';
 
   return (
-    <section id="newsletter" aria-labelledby="newsletter-heading" className="section-shell scroll-mt-28 py-8 sm:py-12">
-      <div className="mx-auto grid max-w-4xl gap-8 md:grid-cols-2">
+    <section id="newsletter" aria-labelledby="newsletter-heading" className="studio-panel studio-conversation scroll-mt-28">
+      <div className="grid gap-8 md:grid-cols-2 items-start">
         <div>
           <p className="text-xs font-semibold uppercase tracking-widest text-blue-300">Stay connected</p>
-          <h2 id="newsletter-heading" className="mt-3 text-3xl font-bold">Notes from the Studio</h2>
+          <h2 id="newsletter-heading" className="mt-3 text-3xl font-bold">Keep a little curiosity in your inbox.</h2>
           <p className="mt-4 leading-7 text-slate-300">Occasional updates on creative practice, knowledge, and engineering. Publication frequency will be announced when the service opens.</p>
           <p id="newsletter-mode" className="mt-4 rounded-xl border border-amber-300/20 p-4 text-sm leading-6 text-amber-200">
             {activeMode === 'live'

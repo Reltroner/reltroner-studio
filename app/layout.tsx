@@ -2,7 +2,6 @@ import { ReactNode } from "react";
 import { Metadata } from "next";
 import './global.css';
 import Navbar from "@/components/Navbar";
-import CommandPalette from "@/components/layout/CommandPalette";
 import ShellBackdrop from "@/components/layout/ShellBackdrop";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import RouteAnalytics from "@/components/RouteAnalytics";
@@ -17,6 +16,7 @@ import { getCommandPaletteEntries } from "@/lib/utils/content";
 import { getPublicContentIndex } from "@/lib/content/public-index";
 import AssistantRoot from "@/components/assistant/AssistantRoot";
 import SiteFooter from "@/components/layout/SiteFooter";
+import CookieNotice from "@/components/privacy/CookieNotice";
 import { ReadingPathProvider } from "@/components/archive/ReadingPathContext";
 
 export const metadata: Metadata = ROOT_METADATA;
@@ -76,25 +76,15 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
           <div className="relative flex min-h-screen flex-col overflow-x-clip">
             <ShellBackdrop />
 
-            <div className="relative z-40">
-              <header>
-                <div className="hidden md:block">
-                  <div className="shell-container px-4 pt-4">
-                    <div className="surface-glass flex justify-center px-3 py-3">
-                      <CommandPalette pages={commandPaletteEntries} />
-                    </div>
-                  </div>
-                  <Navbar />
-                </div>
-              </header>
-            </div>
+            <Navbar pages={commandPaletteEntries} />
 
-            <main id="main-content" tabIndex={-1} className="relative z-10 grow py-5 md:pt-1.5 md:pb-5">{children}</main>
+            <main id="main-content" tabIndex={-1} className="relative z-10 grow">{children}</main>
 
             <SiteFooter />
 
             <GoogleAnalytics />
             <RouteAnalytics />
+            <CookieNotice />
             <AssistantRoot entries={publicContentIndex} />
           </div>
         </ReadingPathProvider>

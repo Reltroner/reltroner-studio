@@ -15,6 +15,31 @@ export interface NewsletterDeliveryControl {
   ): Promise<SubscriptionResult | null>;
 }
 
+export type NewsletterDiagnosticStage = 'provider_initialization' | 'hmac_reservation' | 'reservation_control'
+  | 'contact_lookup' | 'contact_creation' | 'contact_readback' | 'segment_membership_verification'
+  | 'segment_addition' | 'request_construction' | 'fetch_invocation' | 'provider_response'
+  | 'response_parsing' | 'confirmation';
+export type NewsletterDiagnosticOperation = 'initialize' | 'calculate_reservation' | 'reserve_capacity'
+  | 'lookup_contact' | 'create_contact' | 'read_contact' | 'verify_membership' | 'add_membership';
+export type NewsletterDiagnosticError = 'none' | 'initialization' | 'hmac' | 'request_construction' | 'fetch_rejected'
+  | 'provider_authentication' | 'provider_rejected' | 'provider_quota' | 'provider_server'
+  | 'response_json' | 'response_shape' | 'suppressed' | 'preferences' | 'timeout'
+  | 'operation_quota' | 'reservation_denied' | 'indeterminate';
+export type NewsletterDiagnosticOutcome = Failure | 'accepted' | 'duplicate' | 'quota-error';
+export interface NewsletterDiagnostic {
+  readonly scope: 'newsletter';
+  readonly requestId: string;
+  readonly stage: NewsletterDiagnosticStage;
+  readonly operation: NewsletterDiagnosticOperation;
+  readonly requestConstructed: boolean;
+  readonly fetchEntered: boolean;
+  readonly providerHttpStatus: number | null;
+  readonly errorCategory: NewsletterDiagnosticError;
+  readonly mutationAttempted: boolean;
+  readonly evidenceConfirmed: boolean;
+  readonly outcome: NewsletterDiagnosticOutcome;
+}
+
 export interface ResendProviderOptions {
   apiKey: string;
   segmentId: string;
@@ -24,7 +49,7 @@ export interface ResendProviderOptions {
   edgeProtection?: 'vercel-waf' | 'cloudflare-waf';
   transport?: (request: Request) => Promise<Response>;
   timeoutMilliseconds?: number;
-  diagnostic?: (event: { scope: 'newsletter'; requestId: string; outcome: string; mutationAttempted: boolean }) => void;
+  diagnostic?: (event: NewsletterDiagnostic) => void;
 }
 
 const UUID = /^[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}$/i;
@@ -96,18 +121,45 @@ export function createResendNewsletterProvider(options?: ResendProviderOptions):
         return result('rejected', 'Newsletter provider configuration or approved abuse controls are unavailable. No subscription has been confirmed.');
       }
       const email = checked.input.email;
-      const controller = new AbortController();
-      const requestId = UUID.test(idempotencyKey || '') ? idempotencyKey : crypto.randomUUID();
+      let controller: AbortController;
+      let requestId: string;
+      try {
+        controller = new AbortController();
+        requestId = UUID.test(idempotencyKey || '') ? idempotencyKey : crypto.randomUUID();
+      } catch (error) {
+        // Preserve the original exception/public route behavior; log only an existing UUID.
+        try {
+          if (UUID.test(idempotencyKey || '')) options.diagnostic?.(Object.freeze({
+            scope: 'newsletter', requestId: idempotencyKey, stage: 'provider_initialization', operation: 'initialize',
+            requestConstructed: false, fetchEntered: false, providerHttpStatus: null, errorCategory: 'initialization',
+            mutationAttempted: false, evidenceConfirmed: false, outcome: 'indeterminate',
+          }));
+        } catch {}
+        throw error;
+      }
       let operations = 0;
       let mutationAttempted = false;
       let workStarted = false;
       let evidenceConfirmed = false;
       let lastOperation = 0;
+      let stage: NewsletterDiagnosticStage = 'provider_initialization';
+      let operation: NewsletterDiagnosticOperation = 'initialize';
+      let requestConstructed = false;
+      let fetchEntered = false;
+      let providerHttpStatus: number | null = null;
+      let errorCategory: NewsletterDiagnosticError = 'none';
       const transport = options.transport ?? ((request: Request) => fetch(request));
 
-      async function call(path: string, body?: Record<string, unknown>, post = Boolean(body)) {
+      async function call(operationName: NewsletterDiagnosticOperation, operationStage: NewsletterDiagnosticStage,
+        path: string, body?: Record<string, unknown>, post = Boolean(body)) {
+        operation = operationName;
+        stage = operationStage;
+        requestConstructed = false;
+        fetchEntered = false;
+        providerHttpStatus = null;
+        errorCategory = 'none';
         if (controller.signal.aborted) throw new ProviderFailure('timeout');
-        if (++operations > 7) throw new ProviderFailure('quota');
+        if (++operations > 7) { errorCategory = 'operation_quota'; throw new ProviderFailure('quota'); }
         // Space native transport calls so we don't exceed Resend 2 req/s limit within a single invocation
         if (!options.transport && lastOperation) {
           await new Promise<void>((resolve, reject) => {
@@ -118,27 +170,49 @@ export function createResendNewsletterProvider(options?: ResendProviderOptions):
         }
         if (controller.signal.aborted) throw new ProviderFailure('timeout');
         lastOperation = Date.now();
-        if (post) mutationAttempted = true;
         let response: Response;
         try {
-          response = await transport(new Request(`https://api.resend.com${path}`, {
-            method: post ? 'POST' : 'GET', cache: 'no-store', redirect: 'error', signal: controller.signal,
+          stage = 'request_construction';
+          const providerRequest = new Request(`https://api.resend.com${path}`, {
+            method: post ? 'POST' : 'GET', cache: 'no-store', redirect: 'manual', signal: controller.signal,
             headers: { Authorization: `Bearer ${options.apiKey}`, Accept: 'application/json', ...(body ? { 'Content-Type': 'application/json' } : {}) },
             ...(body ? { body: JSON.stringify(body) } : {}),
-          }));
-        } catch { throw new ProviderFailure(controller.signal.aborted ? 'timeout' : 'network'); }
+          });
+          requestConstructed = true;
+          stage = 'fetch_invocation';
+          fetchEntered = true;
+          if (post) mutationAttempted = true;
+          response = await transport(providerRequest);
+        } catch {
+          errorCategory = controller.signal.aborted ? 'timeout' : requestConstructed ? 'fetch_rejected' : 'request_construction';
+          throw new ProviderFailure(controller.signal.aborted ? 'timeout' : 'network');
+        }
+        stage = 'provider_response';
+        if (response instanceof Response && Number.isInteger(response.status) && response.status >= 100 && response.status <= 599) {
+          providerHttpStatus = response.status;
+        }
         if (controller.signal.aborted) throw new ProviderFailure('timeout');
-        if (!(response instanceof Response) || response.redirected) throw new ProviderFailure('malformed');
-        if (response.status === 429) throw new ProviderFailure('quota');
-        if (response.status >= 500) throw new ProviderFailure(mutationAttempted ? 'indeterminate' : 'network');
-        const data = await providerJson(response, controller.signal);
-        if (!post && response.status === 404 && data.name === 'not_found') return null;
-        if (post && path === '/contacts' && response.status === 409) return null;
-        if (!response.ok) throw new ProviderFailure('rejected');
+        if (!(response instanceof Response) || response.redirected) { errorCategory = 'response_shape'; throw new ProviderFailure('malformed'); }
+        // Never follow Location or parse redirect bodies; credentials stay on the original request.
+        if (response.status >= 300 && response.status < 400) { errorCategory = 'provider_rejected'; throw new ProviderFailure('rejected'); }
+        if (response.status === 429) { errorCategory = 'provider_quota'; throw new ProviderFailure('quota'); }
+        if (response.status >= 500) { errorCategory = 'provider_server'; throw new ProviderFailure(mutationAttempted ? 'indeterminate' : 'network'); }
+        if (!response.ok) errorCategory = response.status === 401 || response.status === 403 ? 'provider_authentication' : 'provider_rejected';
+        stage = 'response_parsing';
+        let data: Record<string, unknown>;
+        try { data = await providerJson(response, controller.signal); }
+        catch (error) {
+          if (errorCategory === 'none') errorCategory = controller.signal.aborted ? 'timeout' : 'response_json';
+          throw error;
+        }
+        if (!post && response.status === 404 && data.name === 'not_found') { errorCategory = 'none'; return null; }
+        if (post && path === '/contacts' && response.status === 409) { errorCategory = 'none'; return null; }
+        if (!response.ok) { stage = 'provider_response'; throw new ProviderFailure('rejected'); }
         return data;
       }
 
       function activeContact(data: Record<string, unknown> | null, expectedId?: string): string {
+        stage = operation === 'read_contact' ? 'contact_readback' : 'contact_lookup';
         if (!data || data.object !== 'contact' || typeof data.id !== 'string' || !UUID.test(data.id)
           || (expectedId && data.id !== expectedId) || data.email !== email || typeof data.unsubscribed !== 'boolean') throw new ProviderFailure('malformed');
         if (data.unsubscribed) throw new ProviderFailure('suppressed');
@@ -146,7 +220,8 @@ export function createResendNewsletterProvider(options?: ResendProviderOptions):
       }
 
       async function hasMembership(id: string) {
-        const list = await call(`/contacts/${id}/segments`);
+        const list = await call('verify_membership', 'segment_membership_verification', `/contacts/${id}/segments`);
+        stage = 'segment_membership_verification';
         if (!list || list.object !== 'list' || !Array.isArray(list.data) || list.data.length > 100 || typeof list.has_more !== 'boolean'
           || list.data.some(item => !item || typeof item !== 'object' || typeof (item as Record<string, unknown>).id !== 'string' || !UUID.test((item as Record<string, unknown>).id as string))) throw new ProviderFailure('malformed');
         if ((list.data as Array<Record<string, unknown>>).some(item => item.id === options.segmentId)) return true;
@@ -162,9 +237,10 @@ export function createResendNewsletterProvider(options?: ResendProviderOptions):
         }
         // Fresh explicit opt-in may add an active global contact to this segment.
         // Never PATCH unsubscribed or Topics, including during concurrent signups.
-        const added = await call(`/contacts/${id}/segments/${options.segmentId}`, undefined, true);
+        const added = await call('add_membership', 'segment_addition', `/contacts/${id}/segments/${options.segmentId}`, undefined, true);
+        stage = 'segment_addition';
         if (!added || added.id !== options.segmentId) throw new ProviderFailure('malformed');
-        activeContact(await call(`/contacts/${id}`), id);
+        activeContact(await call('read_contact', 'contact_readback', `/contacts/${id}`), id);
         if (!await hasMembership(id)) throw new ProviderFailure('indeterminate');
         evidenceConfirmed = true;
         return result('accepted', 'Your subscription was saved in Resend. No email was sent.');
@@ -173,18 +249,19 @@ export function createResendNewsletterProvider(options?: ResendProviderOptions):
       const persist = async (): Promise<SubscriptionResult> => {
         if (workStarted) throw new ProviderFailure('quota');
         workStarted = true;
-        const existing = await call(`/contacts/${encodeURIComponent(email)}`);
+        const existing = await call('lookup_contact', 'contact_lookup', `/contacts/${encodeURIComponent(email)}`);
         if (existing) return reconcileExisting(existing);
         // Never set unsubscribed:false or patch a returning contact. A known suppressed
         // address needs a separately verified renewed-consent/re-subscription workflow.
-        const created = await call('/contacts', { email, segments: [{ id: options.segmentId }] });
+        const created = await call('create_contact', 'contact_creation', '/contacts', { email, segments: [{ id: options.segmentId }] });
+        stage = 'contact_creation';
         if (!created) {
-          const concurrent = await call(`/contacts/${encodeURIComponent(email)}`);
+          const concurrent = await call('lookup_contact', 'contact_lookup', `/contacts/${encodeURIComponent(email)}`);
           if (!concurrent) throw new ProviderFailure('indeterminate');
           return reconcileExisting(concurrent);
         }
         if (!created || created.object !== 'contact' || typeof created.id !== 'string' || !UUID.test(created.id)) throw new ProviderFailure('malformed');
-        const id = activeContact(await call(`/contacts/${created.id}`), created.id);
+        const id = activeContact(await call('read_contact', 'contact_readback', `/contacts/${created.id}`), created.id);
         if (!await hasMembership(id)) throw new ProviderFailure('indeterminate');
         evidenceConfirmed = true;
         return result('accepted', 'Your subscription was saved in Resend. No email was sent.');
@@ -195,9 +272,13 @@ export function createResendNewsletterProvider(options?: ResendProviderOptions):
         timer = setTimeout(() => { controller.abort(); reject(new ProviderFailure('timeout')); }, timeoutMilliseconds);
       });
       let feedback: SubscriptionResult;
-      let outcome: string;
+      let outcome: NewsletterDiagnosticOutcome;
       try {
+        stage = 'hmac_reservation';
+        operation = 'calculate_reservation';
         const key = await computeReservationKey(options.apiKey, options.segmentId, email);
+        stage = 'reservation_control';
+        operation = 'reserve_capacity';
         const reserved = await Promise.race([
           isEdgeProtected ? persist() : options.control!.withReservation({ key, maxProviderOperations: 7, signal: controller.signal }, persist),
           expired,
@@ -206,15 +287,24 @@ export function createResendNewsletterProvider(options?: ResendProviderOptions):
         if (!feedback || !['accepted', 'duplicate', 'quota-error'].includes(feedback.status) || typeof feedback.message !== 'string'
           || feedback.delivered !== false || feedback.verified !== false) throw new ProviderFailure('malformed');
         if (feedback.status !== 'quota-error' && !evidenceConfirmed) throw new ProviderFailure('indeterminate');
-        outcome = reserved ? feedback.status : 'quota';
+        outcome = !reserved ? 'quota' : feedback.status === 'accepted' ? 'accepted' : feedback.status === 'duplicate' ? 'duplicate' : 'quota-error';
+        if (feedback.status === 'quota-error') errorCategory = 'reservation_denied';
+        else stage = 'confirmation';
       } catch (error) {
         const code = error instanceof ProviderFailure ? error.code : 'indeterminate';
+        if (code === 'timeout') errorCategory = 'timeout';
+        else if (errorCategory === 'none') errorCategory = stage === 'hmac_reservation' ? 'hmac'
+          : code === 'malformed' ? 'response_shape' : code === 'quota' ? 'operation_quota'
+          : code === 'suppressed' ? 'suppressed' : code === 'preferences' ? 'preferences' : 'indeterminate';
         outcome = code;
         feedback = code === 'quota' ? result('quota-error', 'The newsletter request limit was reached. Subscription acceptance is not confirmed.')
           : code === 'suppressed' || code === 'preferences' ? result('rejected', 'Existing subscription preferences require review. Subscription acceptance is not confirmed.')
           : result(code === 'network' || code === 'timeout' ? 'network-error' : 'rejected', 'Subscription acceptance could not be confirmed. Check your preferences before retrying.');
       } finally { controller.abort(); clearTimeout(timer!); }
-      try { options.diagnostic?.({ scope: 'newsletter', requestId, outcome, mutationAttempted }); } catch {}
+      // Explicit primitive-only projection: never spread input, options, provider data or errors.
+      // Construction/fetch/status describe the current operation; mutation/evidence are cumulative.
+      try { options.diagnostic?.(Object.freeze({ scope: 'newsletter', requestId, stage, operation,
+        requestConstructed, fetchEntered, providerHttpStatus, errorCategory, mutationAttempted, evidenceConfirmed, outcome })); } catch {}
       return { ...feedback };
     },
     async unsubscribe() {

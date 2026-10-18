@@ -89,7 +89,7 @@ export default function CollectionPageClient({ collection, items, publicIndex = 
   const isFiltering = normalizedQuery.length > 0;
 
   const breadcrumbs: BreadcrumbSegment[] = [
-    { label: "Knowledge Base", href: "/#knowledge-bridge" },
+    { label: "Explore", href: "/explore#collections" },
     { label: collection.title }
   ];
 

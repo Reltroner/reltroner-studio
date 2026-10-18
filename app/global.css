@@ -1,4 +1,5 @@
 @import "../styles/globals/index.css";
+@import "../styles/globals/studio.css";
 @source not "../artifacts";
 
 .rs-form-input {

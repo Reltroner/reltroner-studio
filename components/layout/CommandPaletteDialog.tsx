@@ -2,14 +2,14 @@
 
 import { startTransition, useMemo, useRef, useEffect, useState } from 'react';
 import {
-  CommandDialog,
+  Command,
   CommandEmpty,
   CommandGroup,
   CommandInput,
   CommandItem,
   CommandList,
 } from 'cmdk';
-import { DialogDescription, DialogTitle } from '@radix-ui/react-dialog';
+import { Root as DialogRoot, Portal as DialogPortal, Overlay as DialogOverlay, Content as DialogContent, DialogDescription, DialogTitle } from '@radix-ui/react-dialog';
 import { VisuallyHidden } from '@radix-ui/react-visually-hidden';
 import { useRouter } from 'next/navigation';
 import { COLLECTIONS, COLLECTION_ORDER } from '@/lib/constants/collections';
@@ -36,6 +36,7 @@ export interface CommandPaletteDialogProps {
   open: boolean;
   onOpenChange: (open: boolean) => void;
   pages: PageEntry[];
+  onReturnFocus?: () => void;
 }
 
 const GROUP_PRIORITY = new Map<string, number>([
@@ -60,7 +61,7 @@ function getPageSearchKeywords(page: PageEntry) {
   return [page.group, page.description, page.category, ...(page.tags || [])].filter(Boolean);
 }
 
-export default function CommandPaletteDialog({ open, onOpenChange, pages }: CommandPaletteDialogProps) {
+export default function CommandPaletteDialog({ open, onOpenChange, pages, onReturnFocus }: CommandPaletteDialogProps) {
   const router = useRouter();
   const inputRef = useRef<HTMLInputElement | null>(null);
   const [query, setQuery] = useState('');
@@ -110,9 +111,11 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }: Comm
   }, [rankedPages, query]);
 
   return (
-    <CommandDialog
-      open={open}
-      onOpenChange={onOpenChange}
+    <DialogRoot open={open} onOpenChange={onOpenChange}>
+      <DialogPortal>
+        <DialogOverlay cmdk-overlay="" />
+        <DialogContent cmdk-dialog="" aria-label="Search Reltroner Studio" onCloseAutoFocus={(event) => { event.preventDefault(); onReturnFocus?.(); }}>
+    <Command
       label="Global Command Menu"
       className="shell-command-dialog"
       shouldFilter={false}
@@ -204,6 +207,9 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages }: Comm
           </CommandGroup>
         ))}
       </CommandList>
-    </CommandDialog>
+    </Command>
+        </DialogContent>
+      </DialogPortal>
+    </DialogRoot>
   );
 }

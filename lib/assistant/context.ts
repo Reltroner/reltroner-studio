@@ -19,8 +19,8 @@ export function resolveAssistantContext(pathname: string, entries: readonly Publ
 
   const knownPages: Record<string, string> = {
     '/': 'Reltroner Studio',
-    '/start/creators': 'Creator pathway',
-    '/start/readers': 'Reader pathway',
+    '/creators': 'Creator pathway',
+    '/readers': 'Reader pathway',
     '/contact': 'Contact Reltroner',
   };
   const collection = entries.find((candidate) => candidate.published === true && `/${candidate.collection}` === safePath)?.collection;

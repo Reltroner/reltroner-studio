@@ -86,26 +86,23 @@ export default function SelectedWorkShowcase() {
     <section
       id="selected-work"
       aria-labelledby="selected-work-heading"
-      className="section-shell mb-12 scroll-mt-28 py-6 sm:py-10"
+      className="scroll-mt-28"
     >
-      <header className="mx-auto max-w-3xl text-center">
+      <header className="max-w-3xl">
         <p className="text-xs font-bold uppercase tracking-[0.2em] text-blue-400">
           Learning evidence &amp; professional development
         </p>
 
         <h2
           id="selected-work-heading"
-          className="mt-3 text-3xl font-bold tracking-tight text-white sm:text-4xl"
+          className="mt-3 text-2xl font-bold tracking-tight text-white"
         >
           Selected Work &amp; Practice
         </h2>
 
         <p className="mx-auto mt-4 max-w-2xl text-base leading-7 text-slate-300">
-          Reltroner Studio combines creative thinking, software engineering,
-          and continuous learning. These certificates document completed
-          technical training and participation in professional development
-          activities. They represent learning milestones, not paid client
-          engagements or independently verified production projects.
+          These original certificates document course completion and workshop
+          participation. They are learning milestones, not paid client engagements.
         </p>
       </header>
 
@@ -113,7 +110,7 @@ export default function SelectedWorkShowcase() {
         {workSamples.map((sample) => (
           <article
             key={sample.id}
-            className="min-w-0 overflow-hidden rounded-2xl border border-blue-400/25 bg-[#071531] shadow-[0_16px_40px_rgba(0,0,0,0.18)] transition-colors hover:border-blue-400/50"
+            className="studio-card grid min-w-0 items-start gap-4 sm:grid-cols-[7rem_minmax(0,1fr)]"
           >
             <WorkImage
               src={sample.src}
@@ -121,7 +118,7 @@ export default function SelectedWorkShowcase() {
               title={sample.title}
             />
 
-            <div className="space-y-3 p-6 sm:p-7">
+            <div className="min-w-0 space-y-3">
               <p className="text-xs font-bold uppercase tracking-[0.15em] text-blue-300">
                 {sample.kind}
               </p>
@@ -131,14 +128,16 @@ export default function SelectedWorkShowcase() {
               </h3>
 
               <p className="text-sm leading-7 text-slate-300">
-                {sample.summary}
+                {sample.id === 'direktori-listing'
+                  ? 'CODEPOLITAN course completion, awarded to Rei Reltroner on March 10, 2025.'
+                  : 'Kelas DiGi national workshop participation, awarded to Rei Reltroner.'}
               </p>
             </div>
           </article>
         ))}
       </div>
 
-      <div className="mt-8 flex flex-col items-center gap-3 text-center sm:flex-row sm:justify-center">
+      <div className="mt-8 flex flex-wrap items-center gap-3">
         <a
           href="/blog/for-recruiters"
           className={`inline-flex min-h-12 items-center justify-center rounded-full border border-blue-400/50 px-6 py-3 text-sm font-semibold text-blue-100 transition hover:bg-blue-900/30 ${focusStyle}`}

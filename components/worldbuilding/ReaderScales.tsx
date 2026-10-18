@@ -1,0 +1,9 @@
+'use client';
+import { useState } from 'react';
+
+const scales=[
+  { name:'Micro — A person chooses', description:'Motivation, agency, meaning', title:'One person weighs a decision.', text:'The observatory project sounds meaningful—but does this researcher want the responsibility it brings?', question:'Would I choose this role?' },
+  { name:'Meso — A community responds', description:'Belonging, responsibility, institutions', title:'A research community negotiates.', text:'A team must distribute responsibility, recognize contributions and keep cooperation legitimate even when members disagree.', question:'How could this group remain fair?' },
+  { name:'Macro — Civilizations coordinate', description:'Cooperation, friction, systemic effects', title:'Civilizations must work together.', text:'Different institutions and industries depend on one another, but have different priorities, risk tolerances and understandings of success.', question:'Who decides when the stakes cross borders?' },
+];
+export default function ReaderScales(){const[active,setActive]=useState(0);const current=scales[active];return <div className="studio-grid-two studio-reader-pair"><div className="studio-stage-list" aria-label="Choose a reading perspective">{scales.map((item,index)=><button type="button" key={item.name} aria-pressed={active===index} onClick={()=>setActive(index)} className="studio-card studio-choice"><span className="studio-stage-number">0{index+1}</span><span><strong>{item.name}</strong><small>{item.description}</small></span></button>)}</div><div className="studio-panel studio-result" aria-live="polite"><div><p className="studio-eyebrow">0{active+1} / {['Micro','Meso','Macro'][active]} lens</p><h3>{current.title}</h3><p>{current.text}</p></div><blockquote>Reader question: “{current.question}”</blockquote></div></div>;}
