@@ -5,6 +5,7 @@ slug: "endless-library-of-depcutland"
 image: "/images/endless-library-of-depcutland.webp"
 author: "Rei Reltroner"
 date: "2026-07-02"
+lastUpdated: "2026-10-19"
 published: true
 category: "Asthortera · Depcutland · Endless Library · Archival Sovereignty · Knowledge Megastructure · 4D Spatial Architecture"
 ---
@@ -21,7 +22,7 @@ category: "Asthortera · Depcutland · Endless Library · Archival Sovereignty �
 
 It is not merely a library that stores books.
 
-It is a **civilization-scale knowledge megastructure**: a sovereign archival city, national memory core, global research hub, 4D spatial library, classified data vault, intellectual economy engine, and anti-Nytherion memory fortress built under Depcutland's Archival-Meritocratic civilization.
+In its **modern postwar form**, it is a **civilization-scale knowledge megastructure**: a sovereign archival city, national memory core, global research hub, 4D spatial library, classified data vault, intellectual economy engine, and anti-Nytherion memory fortress under Depcutland's Archival-Meritocratic civilization. Its predecessor, the **Grand Library**, existed before the war.
 
 Where Reltronland discovered the technological possibility of higher spatial engineering, Depcutland gave that possibility cultural meaning, civic ritual, academic purpose, and civilizational continuity.
 
@@ -89,11 +90,27 @@ These metrics define the Endless Library not as a passive institution, but as a 
 
 ---
 
+## Custodial neutrality and the War of Conscience — historical continuity
+
+**Before the 1057 BAC crisis:** Depcutland (founded **1121 BAC** by Cutter Glouster) and Reltronland (founded **1125 BAC** by Troner Rhett) were **already independent and industrially and epistemically competitive**. The custodial commitments associated with **Cut** had become a population-wide educational and institutional tradition, even as later generations debated and revised ancestral methods. Both nations remained comparatively unfamiliar in the mature diplomatic networks of **Aurastelia, Astrostelia and Kalgered**, although trade and third-party document custody had already occurred.
+
+**Depeisit's crisis:** Depeisit was a planet with **25 trillion inhabitants and SDI 0.852/1.000**. The **1057 BAC Economic Crisis** exported financial and epistemic pressures to the two independent states. After a manufacturing CEO's arrest in Reltronepolis over patent-infringing products, **Depcutland fired the first missiles against Reltronland's Neiput blockade in 1048 BAC**. Reltronland had also been preparing possible invasion to recover overdue debts. The **1048–1030 BAC open war** disrupted Asthortera-wide supply chains, while the **1048–1010 BAC** span denotes the broader war-and-settlement cycle.
+
+**Custodial assessment:** Reltronland initially suspected the Grand Library of being an extension of Depcutland's captured aristocratic government. However, the **1031 BAC Institutional Integrity Assessment** found the **Grand Library's entrusted archive custody independent, neutral and professionally protected**, without evidence of politically motivated leakage, sale or coercive use of depositor records. The **Grand Library was not the regime**. Its protected status helped support the **First Institutional Ceasefire**. The separate CBC banking institution passed an analogous integrity assessment; neither institution's survival should be misrepresented as foreign ownership of Depcutland.
+
+**Reconstruction and dimensional expansion:** Depcutland retained its own archives, intellectual jurisdiction, education and curation. After the **1010 BAC Troncut Treaty** recognized already-established sovereignty, the **1010–995 BAC Second Diplomatic Restoration** expanded relationships with previously cautious Asthorteran powers. The later **Dimensional Integrity Accord** enabled Reltronland's licensed 4D technology to support the modern Endless Library, **without giving Reltronland authority over document contents or Depcutland's sovereign custodianship**.
+
+**Epistemic distinction:** the library's commitment to preserving evidence is separate from the accuracy of any historian's interpretation. It can maintain reliable records about Reltronland without claiming omniscience about motives or future decisions.
+
+For historical sources, see [The Custodial Reputation of Depcutland](../events/depcutland-custodial-reputation-canonical.md), [Reltronland vs Depcutland](../factions/reltronland-vs-depcutland.md), and the [Historical Timeline](../events/history-timeline.md).
+
+---
+
 # I. Historical Development
 
 ## Era I — The Grand Library of Depcutland
 
-Before the Reltronland–Depcutland War and before the invention of 4D spatial engineering, the Endless Library existed in an earlier form known as the **Grand Library of Depcutland**.
+Before the **1048–1030 BAC open Reltronland–Depcutland War** and the later 4D spatial-engineering expansion, the institution now known as the Endless Library existed as the **Grand Library of Depcutland**. The modern name is retrospective when describing that era.
 
 At this stage, it was still a purely 3D structure.
 
@@ -109,17 +126,17 @@ It was already the largest physical library in Asthortera, comparable in symboli
 - artistic collections;
 - cultural memory ledgers.
 
-However, the old Grand Library was still shaped by the contradictions of pre-war Depcutland. It was magnificent, but partially captured by aristocratic archive governance. Access to certain materials depended on bloodline, social position, institutional favor, and proximity to hereditary archival elites.
+The Grand Library operated **within the wider inequalities of prewar Depcutland**, where some government-controlled educational, administrative and public-access pathways favored hereditary elites, social position or patronage. **That inequitable surrounding environment was not the same as institutional capture of the Grand Library's own custodianship.** The **1031 BAC Institutional Integrity Assessment** verified that its management of entrusted archives remained professionally independent from the aristocratic regime, and client records had not been leaked, sold, manipulated or weaponized for ruling-elite advantage.
 
-The old library preserved memory, but it did not yet fully democratize archival legitimacy.
+The Grand Library preserved independent custody before the war; the postwar reform expanded **fair civic access and accountability** rather than creating custodial neutrality out of nothing.
 
 ---
 
 ## Era II — Post-War Archival Reform
 
-After the fall of the Aristocrat Archival Regime and the rise of Depcutland's modern **Archival-Meritocracy**, the library entered its first major transformation.
+Following the **1032–1031 BAC** collapse of the aristocratic government, the **1031 BAC institutional audit and first limited ceasefire**, and the **1030 BAC** conclusion of open warfare, the Grand Library entered its next transformation under Depcutland's modern **Merit Archival** order. Its protection and continued autonomy during wartime were essential to that transition.
 
-The new government redefined the institution from a prestigious cultural monument into a national infrastructure of memory.
+The reformed government expanded an **already trusted custodial institution** from prestigious scholarly and archival functions into broader civic access, reconstruction records and national memory infrastructure.
 
 The library began storing:
 
@@ -136,7 +153,7 @@ The library began storing:
 
 This era changed the purpose of the library.
 
-It was no longer merely a storehouse of elite knowledge. It became the central mechanism through which Depcutland preserved its reformed national identity and prevented the return of feudal archive capture.
+Its public mission broadened beyond privileged scholarly access. It became a central mechanism through which Depcutland preserved its reformed national identity and prevented **political capture of archival governance**, without implying its earlier professional custodians had betrayed entrusted materials.
 
 The post-war doctrine stated:
 
