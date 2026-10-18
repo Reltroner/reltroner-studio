@@ -5,7 +5,7 @@ slug: "reltronland-founding"
 image: "/images/reltronland-founding.webp"
 author: "Reltroner Studio"
 date: "2025-04-11"
-lastUpdated: "2026-07-16"
+lastUpdated: "2026-10-19"
 published: true
 category: "Asthortera · History · Reltronland · Founding"
 sourceOfTruth:
@@ -78,7 +78,7 @@ It is better understood as a major migration and settlement wave during the broa
 
 The **1125 BAC foundation** marks the formal founding of Reltronland in Rathroper under **Troner Rhett**.
 
-The **1010 BAC Troncut Treaty** marks post-war normalization and the final transformation of Reltronland and Depcutland into parallel sovereign civilizational trajectories.
+The **1010 BAC Troncut Treaty** marks post-war normalization and the mutual recognition of two **already independent** civilizational trajectories, not independence from Depeisit.
 
 ---
 
@@ -922,11 +922,21 @@ They disagreed on what threatened it.
 
 ---
 
+### Before the crisis: sovereign, competitive, yet diplomatically unfamiliar
+
+Reltronland's **1125 BAC founding under Troner Rhett** and later completion of sovereignty **preceded the 1057 BAC Depeisit Crisis**. Its mass-institutionalized **Tron-derived creation, engineering and entrepreneurship values** were not ancestor worship; citizens could dissent from historical Tron-era methods while preserving a shared civilizational orientation.
+
+Prewar Reltronland was **industrially and epistemically competitive**, but its diplomatic visibility was less developed than **Aurastelia, Astrostelia and Kalgered**, which still considered the two Depeisit-descended neighbors comparatively foreign.
+
+Depeisit's crisis struck a **25-trillion-inhabitant planet with SDI 0.852/1.000**, transmitting financial and epistemic aftershocks into two already independent Asthorteran states. Reltronland suffered **delayed Depcutland receivables** and creditor liquidity pressure, even while selling energy, technology and financing to a Depcutland seeking competitive manufacturing capacity. In **1048 BAC**, the patent-infringing Depcutland CEO's arrest in Reltronepolis preceded both countries' military operations around Neiput. **Reltronland contemplated debt-collection invasion and formed a blockade; Depcutland made the first military movement and fired the first missiles to cut Reltronland's mobility.**
+
+The open war (**1048–1030 BAC**) disrupted planetary supply chains at an unprecedented level and contributed to **1010–995 BAC** diplomatic engagement with the established powers after the **1010 BAC Troncut Treaty**, which reaffirmed existing sovereignty rather than originating it. For detailed multi-actor causality, see [Reltronland vs Depcutland](../factions/reltronland-vs-depcutland.md).
+
 # XVIII. 1057 BAC — The Depeisit Economic Crisis and Reltronland’s Historical Trauma
 
 In **1057 BAC**, Depeisit suffered a systemic economic collapse.
 
-This crisis transformed Reltronland’s founding philosophy into a strategic doctrine.
+This crisis transformed Reltronland’s founding philosophy into a strategic doctrine **and imposed direct economic harm through unpaid Depcutland debts and Reltronland's unrecovered receivables**.
 
 For Reltronland, the crisis proved that the danger it had long feared was real.
 
@@ -1157,7 +1167,7 @@ Reltronland continued to recognize value in:
 
 The perceived enemy was not Depcutland’s beauty.
 
-The perceived enemy was institutional capture.
+In the war's **later anti-capture phase**, the perceived enemy was captured governance. The **1048 BAC opening**, however, also involved **structural debts, illegal patent-linked exports, the CEO's arrest, Reltronland's prospective Neiput invasion, and Depcutland's first missile strike**.
 
 This distinction later becomes critical during the Merit Reform Movement and the First Institutional Ceasefire.
 
