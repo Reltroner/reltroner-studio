@@ -183,7 +183,7 @@ export default function MobileNavbar() {
             aria-label="Reltroner home"
             className="studio-brand min-w-0"
           >
-            <img src="/images/reltroner-mark.svg" width="34" height="34" alt="" />
+            <img src="/images/reltroner-smooth.webp" width="34" height="34" alt="" />
             <span>Reltroner Studio</span>
           </Link>
 
