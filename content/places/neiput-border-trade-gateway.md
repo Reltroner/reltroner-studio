@@ -3,9 +3,8 @@ title: "🚧 Neiput Border: Intelligent Interface Between Reltronland and Depcut
 description: "A high-precision sovereign boundary where two apex civilizations intersect—Reltronland and Depcutland. More than a crossing, it is a regulated interface of mobility, identity, and civilizational balance."
 image: "/images/depcutland-reltronland-border.webp"
 date: "2025-04-23"
+lastUpdated: "2026-10-19"
 published: true
----
-
 ---
 
 # 🚧 Neiput Border: Intelligent Interface Between Reltronland and Depcutland
@@ -51,11 +50,11 @@ There is:
 
 - No military alliance  
 - No shared sovereignty  
-- No uncontrolled mobility  
+- No uncontrolled cross-border mobility  
 
 Instead:
 
-> Every movement is permitted—only if verified.
+> Cross-border movement requires authorization, lawful eligibility, and applicable safety and compliance checks.
 
 ---
 
@@ -63,12 +62,14 @@ Instead:
 
 ### Dual Authorization Requirement
 
-All individuals within the border zone must possess:
+Cross-border residents and persons regularly using both national jurisdictions ordinarily require:
 
 - Valid authorization from **Reltronland**
 - Valid authorization from **Depcutland**
 
-This creates a **100% dual-approved population environment**.
+A person remaining wholly within their own national jurisdiction is not automatically obliged to hold citizenship or residency in the neighboring state.
+
+This creates a **near-universal dual-authorization environment for established cross-border residents**, without implying dual citizenship or automatic rights of entry.
 
 ---
 
@@ -122,7 +123,7 @@ The region is known for its:
 
 Residents can legally optimize their position by:
 
-- Switching citizenship (under regulated conditions)  
+- Temporarily switching the applicable **economic or residency jurisdiction**, where permitted, without automatically changing legal nationality  
 - Accessing different economic ecosystems  
 - Leveraging structural differences between both nations  
 
@@ -144,7 +145,7 @@ Residents can legally optimize their position by:
 
 ### Regulatory Controls
 
-- Citizenship switching requires approval, fees, and time restrictions  
+- Cross-border jurisdiction or residency switching requires approvals, applicable fees and time restrictions; **national citizenship remains separate**  
 - Frequency is limited to prevent system abuse  
 - Behavioral and compliance tracking ensures stability  
 
@@ -177,11 +178,11 @@ Movement between these zones is:
 
 The Neiput Border exhibits:
 
-> The lowest SDI within both nations (relatively)
+> Relatively lower aggregate SDI than the principal national core areas, even though border infrastructure and public services remain highly advanced
 
 Not due to weakness—but due to function.
 
-- It is not a core civilizational node  
+- It is primarily a regulated national interface, while still sustaining significant local economic activity  
 - It operates as an interface rather than a center  
 - Access to elite institutions is indirect  
 
@@ -208,12 +209,28 @@ Despite this:
 
 ---
 
+## Historical continuity — why the Neiput frontier became a battlefield
+
+**Reltronland (founded 1125 BAC under Troner Rhett)** and **Depcutland (founded 1121 BAC under Cutter Glouster)** were sovereign before the **1057 BAC Depeisit Economic Crisis**. Both had competitive industrial and epistemic institutions, even though **Aurastelia, Astrostelia and Kalgered** possessed more extensive planetary diplomatic networks and still regarded them as comparatively unfamiliar.
+
+**Prewar epistemic dependency:** Neiput had an **acute operational and epistemic dependency on Reltronland**, including technical and infrastructure knowledge. This could create leverage and vulnerability but **did not give Reltronland ownership or political sovereignty over Depcutland's territory**.
+
+**1057–1048 BAC — contagion and escalation:** the crisis of **Depeisit (25 trillion inhabitants; SDI 0.852/1.000)** transmitted financial, institutional and epistemic pressure to both independent neighbors. Depcutland's effort to industrialize and supply Reltronland competitively depended on Reltronland energy, technology and credit; Reltronland also faced substantial overdue Depcutland receivables.
+
+**1048 BAC — first open fire:** after a Depcutland technology-manufacturing CEO was arrested in CBD Reltronepolis for smuggling patent-infringing products, **Depcutland ordered the initial military movement through Neiput**. Reltronland identified the movement and established a **military blockade**, while preparing a **possible invasion to enforce debt repayment**. A **Depcutland military base near Neiput fired the first missiles** at the blockade to cut Reltronland's invasion mobility. The first strike was at **Neiput in 1048 BAC**, not Rathroper or Reiweston.
+
+**1048–1030 BAC** marks the **18-year period of open war**; **1048–1010 BAC** is the broader **38-year conflict-and-settlement cycle**, ending in the **1010 BAC Troncut Treaty**. The treaty formalized **eastern Troneiput under Reltronland sovereignty** and **western Cutneiput under Depcutland sovereignty**, as well as contested population transitions, security arrangements and reopening of trade. The states **did not first become independent in 1010 BAC**. The war caused extraordinary disruption to Asthortera-wide supply chains, driving a **1010–995 BAC diplomatic restoration** with other civilizations.
+
+Modern high-precision border infrastructure, dual authorization and regulated arbitrage reflect the **post-treaty order**, not necessarily the operational conditions on the day of the first missile strike. [Reltronland vs Depcutland](../factions/reltronland-vs-depcutland.md) supplies full war causality; [Historical Timeline](../events/history-timeline.md) records the historical chronology.
+
+---
+
 ## 🛡️ Historical Significance
 
 The Neiput Border has been the stage of:
 
-- **Neiput Border Dispute**  
-- **Reiweston Crisis**  
+- **Neiput Border Crisis and first open missile strike (1048 BAC)**  
+- **Reiweston Bay Crisis (1047 BAC)** — a separate maritime wartime theater with indirect consequences for Neiput commerce  
 - **The Mirror Dialogue Accords** (held every 3 years)  
 
 It represents both:
@@ -261,23 +278,23 @@ Not merged—but perfectly aligned.”_
 
 **Location:** Neiput Border, twilight hour. Lentern glow on marble.
 **Characters:** Reltronball & Depcutball.
-**Context:** Reenactment of one of many diplomatic reconciliations after the Battle of Troneiput.
+**Context:** A later dramatized reenactment of differing memories of the **1048 BAC Neiput opening** and the **1010 BAC Troncut Treaty**, not a verbatim transcript of an archival government record.
 
 ---
 
 ## 🎭 Scene I: The Ledger of Conflict
 
 **Depcutball** (sifting through aged parchment):
-📖 *“Clause 3, Subsection 14 — records indicate you fired first at Rathroper, 1048 BAC.”*
+📖 *“The Neiput record of 1048 BAC says our border base fired the first missiles. Your invasion preparations were already underway.”*
 
 **Reltronball** (monotone):
-📂 *“Correction. We intercepted a manifest violating the Sentient Clarity Zone. Chaos masked as commerce is no different from invasion.”*
+📂 *“Our authorities arrested your manufacturing executive in Reltronepolis after patent-infringing exports. Your troops then advanced toward Neiput.”*
 
 **Depcutball** (cold):
-📚 *“It was parchment. Not plutonium.”*
+📚 *“It was a debt and industrial survival crisis. Your blockade and intended invasion threatened our sovereignty.”*
 
 **Reltronball** (unmoved):
-💢 *“Intent outlasts matter. And your Cutneiput clause? Weaponized nostalgia.”*
+💢 *“And our leadership contemplated military pressure to recover overdue receivables. The archive must record decisions on both sides.”*
 
 ---
 
@@ -322,7 +339,6 @@ Not merged—but perfectly aligned.”_
 
 ## 🕊️ Historical Note
 
-The Neiput Dialogue is reenacted every 5 cycles in Troneiput & Cutneiput.
-Despite ancient conflict, it remains the most studied diplomatic ritual in Asthortera.
+The Neiput Dialogue is reenacted every **five ceremonial cycles** in Troneiput and Cutneiput, separately from the **three-year Mirror Dialogue Accord** gathering. The performance is cultural interpretation and does not substitute for historical documentation.
 
 ---
