@@ -5,7 +5,7 @@ slug: "depcutland-founding"
 image: "/images/depcutland-founding.webp"
 author: "Rei Reltroner"
 date: "2025-04-14"
-lastUpdated: "2026-07-16"
+lastUpdated: "2026-10-19"
 published: true
 category: "Asthortera · History · Depcutland · Depeisit"
 sourceOfTruth:
@@ -44,7 +44,7 @@ The **Reltroner Studio Historical Timeline** establishes a deeper chronology:
 1055 BAC — Depcut Independence Council emerges
 1048–1030 BAC — Reltronland–Depcutland War
 1030–1010 BAC — Reconstruction and Merit Archival Transition
-1010 BAC — Troncut Treaty / Declaration of Independence
+1010 BAC — Troncut Treaty / mutual recognition of pre-existing sovereignty
 ```
 
 Therefore, Depcutland was not born from one single moment.
@@ -75,6 +75,14 @@ It allows Depcutland to remain morally and historically complex without reducing
 
 ---
 
+### Statehood predates the 1057 BAC Depeisit crisis
+
+**Cutter Glouster founded Depcutland in 1121 BAC** as earlier Depeisit-rooted communities developed their own institutions. **Depcutland was already independent before the 1057 BAC Depeisit Economic Crisis**. The **1055 BAC Depcut Independence Council** carried older autonomy language but contested internal governance and Depeisit-derived institutional influence in an already sovereign state. **1010 BAC was not original independence**.
+
+Depcutland had become **an epistemically and industrially competitive nation** before the war, while **Aurastelia, Astrostelia and Kalgered** had more established diplomatic networks. Cut-linked archival values had become widely institutionalized in the population, even as descendants freely challenged Cut's historically specific methods.
+
+Depeisit's **25-trillion-person society (SDI 0.852/1.000)** transmitted financial and epistemic collapse into the independent neighbors. Depcutland's heavy debt and dependence on Reltronland's energy, banking and technology were bound up with its effort to supply a competitive manufacturing market; Reltronland also suffered overdue receivables. The arrest of a patent-infringing Depcutland manufacturing CEO in Reltronepolis and Depcutland's **first missile strike at Neiput (1048 BAC)**, while Reltronland considered a debt-recovery invasion, opened war. The conflict caused enormous **planetary supply-chain disruption** and induced increased Asthorteran diplomacy after the **1010 BAC treaty**.
+
 # I. Continuity Note — Corrected Timeline Alignment
 
 This article uses the **BAC/AC chronology system** as a reader-facing historical translation layer.
@@ -101,7 +109,8 @@ It should be read across three levels:
 | **Colonial root** | Depeisit colonies begin forming the future Depcutland identity during the 1211–1121 BAC Depeisit Colonial Era |
 | **Initial Depcutian formation** | 1121 BAC marks the early Depeisit colonies in Depcutland, where classical law, aristocratic continuity, bureaucratic memory, archival tradition, and cultural preservation begin taking shape |
 | **Post-crisis consolidation** | After 1057 BAC, the Depeisit Economic Crisis triggers migration and intensifies Depcutland’s role as refuge, archive, continuity project, and institutional battleground |
-| **Sovereign resolution** | 1010 BAC formalizes the post-war settlement and places Depcutland on a sovereign Merit Archival trajectory |
+| **Pre-crisis sovereignty** | Depcutland's 1121 BAC founding under Cutter Glouster leads to independent statehood before 1057 BAC |
+| **Postwar settlement** | 1010 BAC confirms pre-existing sovereignty and formalizes the Merit Archival transition |
 
 Thus, Depcutland was not simply created after 1057 BAC.
 
@@ -161,7 +170,7 @@ Their divergence began long before open war.
 
 The year **1121 BAC** marks a critical foundation point in the updated timeline.
 
-The initial Depeisit colonies in Depcutland begin taking shape around:
+Under **Cutter Glouster**, the existing Depeisit-rooted settlements mature into the **1121 BAC Depcutland foundation**, carrying forward:
 
 - classical Depeisit law,
 - aristocratic continuity,
@@ -733,7 +742,7 @@ By **1055 BAC**, Depcutland was no longer simply a colonial extension or a passi
 
 It had developed an internal political struggle over what kind of civilization it should become.
 
-The council originally advocated greater autonomy from Depeisit.
+The council inherited an earlier movement for autonomy from Depeisit, but **by 1055 BAC Depcutland was already sovereign**. Its struggle concerned internal political autonomy, institutional capture and post-crisis legitimacy.
 
 But as tensions intensified, the movement fractured between:
 
@@ -939,7 +948,7 @@ Refugee influx, elite migration, continuity pressure
 
 ↓
 
-1048 BAC — Neiput Border Crisis
+1048 BAC — Reltronepolis CEO arrest, Neiput military movements and Depcutland's first missile strike; open war begins
 
 ↓
 
@@ -951,14 +960,14 @@ Refugee influx, elite migration, continuity pressure
 
 ↓
 
-1048–1030 BAC — Reltronland–Depcutland War
+1030 BAC — Open war ends; the 1030–1010 BAC reconstruction culminates in the Troncut Treaty
 ```
 
 This makes the founding more complex.
 
 Depcutland’s crisis did not begin at the battlefield.
 
-It began when memory, status, law, and power became too entangled to separate peacefully.
+It emerged from financial and epistemic contagion, structural debt, the CEO arrest and Neiput military escalation. Memory, status, law and institutional capture also shaped its subsequent conduct and long-term consequences.
 
 ---
 
@@ -1095,11 +1104,11 @@ Its post-war principle becomes:
 
 ---
 
-# XIX. 1010 BAC — Troncut Treaty and the Declaration of Independence
+# XIX. 1010 BAC — Troncut Treaty and Mutual Sovereignty Recognition
 
 The year **1010 BAC** marks the decisive normalization point.
 
-The **Troncut Treaty** formally ends the open war and establishes the legal-political framework for post-war coexistence.
+The **Troncut Treaty** closed the 38-year war-and-settlement cycle after open warfare ended in **1030 BAC**, establishing the framework for sovereign coexistence.
 
 The treaty recognizes:
 
@@ -1109,11 +1118,7 @@ The treaty recognizes:
 - long-term economic cooperation,
 - and the shift from military confrontation to civilizational competition.
 
-The timeline also marks **1010 BAC** as the **Declaration of Independence**, when Reltronland and Depcutland declare full autonomy from one another.
-
-This does not mean Depcutland was created from nothing in 1010 BAC.
-
-It means the long conflict over sovereignty, capture, and institutional legitimacy reaches a formal separation point.
+The former timeline's **1010 BAC 'Declaration of Independence'** is superseded. **Both civilizations had been independent before Depeisit's 1057 BAC crisis.** In 1010 BAC they mutually reaffirmed that sovereignty and concluded their territorial, institutional and diplomatic war settlement.
 
 After 1010 BAC, Depcutland no longer exists primarily as a contested Depeisit inheritance.
 
@@ -1136,11 +1141,11 @@ It is defined by what Depcutland chose to preserve after escaping Depeisit’s s
 
 ---
 
-# XX. Post-Independence Development — 1008–825 BAC
+# XX. Post-Treaty Development — 1008–825 BAC
 
 The historical timeline extends Depcutland’s founding meaning beyond the war.
 
-The **1008–825 BAC Post-Independence Reconstruction and Planetary Cooperation** era shows that Depcutland’s transformation did not end at the treaty table.
+The **1008–825 BAC Post-Treaty Reconstruction and Planetary Cooperation** era shows that Depcutland’s transformation did not end at the treaty table.
 
 It continued through diplomacy, infrastructure, education, and archive-state development.
 
