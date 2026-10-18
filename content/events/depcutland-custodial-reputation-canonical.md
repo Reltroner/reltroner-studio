@@ -4,6 +4,7 @@ description: "A canonical English document explaining how Depcutland became the 
 image: "/images/depcutland-custodial-reputation-canonical.webp"
 author: "Rei Reltroner"
 date: "2026-07-10"
+lastUpdated: "2026-10-19"
 published: true
 category: "Worldbuilding · Depcutland · Institutions · Geopolitics"
 ---
@@ -40,6 +41,14 @@ In the modern canon of Asthortera, Depcutland's power comes from **custodial cre
 This reputation is one of the strongest reasons why Depcutland remains the second apex civilization of Asthortera.
 
 ---
+
+### Continuity of a sovereign custodial civilization
+
+**Depcutland was independent before the Depeisit Economic Crisis (1057 BAC)** and was already an epistemically competitive Asthorteran nation, even while its diplomatic standing remained less integrated than that of **Aurastelia, Astrostelia and Kalgered**. The nationally inherited **Cut custodial ethic** did not compel reverence for every ancestral decision; successive generations could critique and renew methods of custody.
+
+Depeisit's crisis, on a planet with **25 trillion inhabitants and SDI 0.852/1.000**, transmitted financial, institutional and epistemic pressures into both already independent neighbors. During war, the **Grand Library**, predecessor of the modern **Endless Library**, did not betray records entrusted by external civilizations. Its documented wartime neutrality became an internationally meaningful evidence base when conflict between the two nations **disrupted planetary supply chains**.
+
+The **1048–1030 BAC armed war** lasted **18 years**, while its broader **1048–1010 BAC war-and-settlement cycle** lasted **38 years**. The **1010 BAC Troncut Treaty** was not Depcutland's first independence from Depeisit; it reaffirmed separate sovereignty and preceded a wider diplomatic restoration in **1010–995 BAC**. The detailed debt, CEO-arrest and Neiput missile chronology is maintained in [Reltronland vs Depcutland](../factions/reltronland-vs-depcutland.md).
 
 # I. Core Civilizational Foundation
 
@@ -133,11 +142,11 @@ This trust became the early foundation of Depcutland's soft geopolitical power.
 
 ---
 
-# III. The 38-Year War as the Great Test
+# III. The 38-Year War-and-Settlement Cycle as the Great Test
 
 ## 1. The Fear During Wartime
 
-The Reltronland–Depcutland War lasted thirty-eight years.
+The **open Reltronland–Depcutland War lasted from 1048 to 1030 BAC (18 years)**; the **38-year conflict-and-settlement cycle (1048–1010 BAC)** includes the subsequent reconstruction and treaty.
 
 During the war, many civilizations expected Depcutland's archival neutrality to collapse.
 
@@ -163,7 +172,7 @@ Yet something extraordinary happened.
 
 ---
 
-## 2. The Endless Library Did Not Betray Client Archives
+## 2. The Grand Library (Later Endless Library) Did Not Betray Client Archives
 
 Even though:
 
@@ -188,7 +197,7 @@ They were not:
 
 This became one of the defining moral and institutional tests in Depcutland's history.
 
-The Endless Library did not merely preserve books.
+The **Grand Library—later expanded into the Endless Library—**did not merely preserve books.
 
 It preserved trust under extreme civilizational pressure.
 
@@ -236,7 +245,7 @@ It was still closer to the **Grand Library** phase before becoming the modern **
 
 The audit revealed something unexpected.
 
-For thousands of years:
+Across its documented institutional and ancestral custodial lineage:
 
 - no third-party entrusted archive had been sold;
 - no foreign treaty had been leaked;
