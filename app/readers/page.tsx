@@ -26,7 +26,7 @@ export default function ReaderStartPage() {
             <div className="studio-actions"><Link href="#story" className="studio-button">Try a story preview ↓</Link><Link href="#reader-observatory" className="studio-button secondary">Explore the connected world ↗</Link></div>
             <p className="studio-small">Spoiler-light introduction · Fictional world · No account required</p>
           </div>
-          <ConceptArt kind="city" label="Concept art · Inhabited future, not canon art" ratio="16 / 9" mobilePortrait />
+          <ConceptArt kind="city" label="Concept art · Inhabited future, not canon art" ratio="6 / 5" />
         </div>
       </div>
     </section>

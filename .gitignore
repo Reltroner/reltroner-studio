@@ -9,6 +9,9 @@
 !.env.example
 .vscode/
 
+public/images/background.webp
+public/images/reltroner-mark.svg
+
 repo-map-engineering.txt
 
 structure-detailed.txt
@@ -28,3 +31,4 @@ dist
 build
 /artifacts/
 /project-architecture.txt
+ai-agent-spec/

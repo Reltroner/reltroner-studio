@@ -24,7 +24,7 @@ export default function CreatorStartPage() {
             <div className="studio-actions"><Link href="#creator-loop" className="studio-button">Try the creative experiment ↗</Link><Link href="#creator-method" className="studio-button secondary">How it works ↓</Link></div>
             <p className="studio-small">Free to explore · Your ideas stay yours · No account required</p>
           </div>
-          <ConceptArt kind="hero" label="Concept illustration · An idea becomes a world · Not canon" ratio="8 / 5" mobilePortrait />
+          <ConceptArt kind="hero" label="Concept illustration · An idea becomes a world · Not canon" ratio="6 / 5" />
         </div>
       </div>
     </section>
