@@ -1,6 +1,7 @@
 'use client';
 
 import { useId, useRef, useState, type KeyboardEvent } from 'react';
+import HomepageCdnArt from './HomepageCdnArt';
 
 export const creativeStages = ['Seed', 'Constraint', 'Interaction', 'Consequence', 'Changed state', 'New question'] as const;
 const stageHints = ['Something you want to explore', 'What makes the idea matter?', 'Whose choices come together?', 'What changes?', 'What remains different?', 'What becomes possible now?'];
@@ -98,7 +99,7 @@ export const creativeScenarios = [
   },
 ] as const;
 
-export default function CreativeLoop({ compact = false, onScenarioChange }: { compact?: boolean; onScenarioChange?: (scenario: number) => void }) {
+export default function CreativeLoop({ compact = false, onScenarioChange, homepageImages = false }: { compact?: boolean; onScenarioChange?: (scenario: number) => void; homepageImages?: boolean }) {
   const [scenario, setScenario] = useState(0);
   const [stage, setStage] = useState(0);
   const tabs = useRef<(HTMLButtonElement | null)[]>([]);
@@ -114,9 +115,10 @@ export default function CreativeLoop({ compact = false, onScenarioChange }: { co
   const selectors = <div role="tablist" aria-label="Creative Compound Machine stages" aria-orientation={compact ? 'vertical' : 'horizontal'} className={compact ? 'studio-stage-list' : 'studio-stage-row'}>
     {creativeStages.map((name,index)=><button key={name} type="button" ref={el=>{tabs.current[index]=el;}} id={`${id}-stage-${index}`} role="tab" aria-selected={stage===index} aria-controls={`${id}-panel`} tabIndex={stage===index?0:-1} onKeyDown={event=>move(event,index)} onClick={()=>setStage(index)} className="studio-card studio-choice"><span className="studio-stage-number">0{index+1}</span><span><strong>{name}</strong><small>{compact ? stageHints[index] : stageShortHints[index]}</small></span></button>)}
   </div>;
-  const panel = <div id={`${id}-panel`} role="tabpanel" tabIndex={0} aria-labelledby={`${id}-stage-${stage}`} className="studio-panel studio-result" aria-live="polite">
+  const panel = <div id={`${id}-panel`} role="tabpanel" tabIndex={0} aria-labelledby={`${id}-stage-${stage}`} className={'studio-panel studio-result'+(compact && homepageImages ? ' studio-homepage-loop-panel' : '')} aria-live="polite">
     <div><span className="studio-badge">Interactive method · Illustrative, not canon</span><p className="studio-small">Stage {stage+1} of 6 · {current.title}</p>{!compact ? <p className="studio-eyebrow mt-4">0{stage+1} / {creativeStages[stage]} — {current.titles[stage]}</p> : null}<h3>{current.sentences[stage]}</h3><p>{stageHints[stage]}</p></div>
     <div><blockquote><p className="studio-small">A question worth following</p><strong>Ask yourself: {current.questions[stage]}</strong></blockquote>{!compact ? <p className="studio-small mt-4">{takeaway}</p> : null}<div className="studio-progress" aria-hidden="true">{creativeStages.map((name,index)=><span key={name} data-current={index<=stage} />)}</div></div>
+    {compact && homepageImages ? <HomepageCdnArt key={stage} asset={([501, 502, 503, 504, 505, 506] as const)[stage]} kind="network" caption={false} inLoop sizes="(max-width: 600px) 35px, (max-width: 850px) 130px, 260px" /> : null}
   </div>;
   return <div>
     {!compact ? <><div className="studio-grid-three" role="group" aria-label="Choose a fictional practice scenario">{creativeScenarios.map((item,index)=><button key={item.name} type="button" className="studio-card studio-choice" aria-pressed={scenario===index} onClick={()=>{setScenario(index);setStage(0);onScenarioChange?.(index);}}><strong>{item.name}</strong><small>{item.description}</small></button>)}</div><p className="studio-small mt-5">All demo scenarios are fictional practice examples, not published Asthortera canon.</p></> : null}

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import ConceptArt from '@/components/worldbuilding/ConceptArt';
+import HomepageCdnArt from '@/components/worldbuilding/HomepageCdnArt';
 import CreativeLoop from '@/components/worldbuilding/CreativeLoop';
 import ReadingPreview from '@/components/worldbuilding/ReadingPreview';
 import SelectedWorkShowcase from '@/components/ecosystem/SelectedWorkShowcase';
@@ -35,7 +35,7 @@ export default function Home() {
             </div>
             <p className="studio-small">Start with what you love. Follow the questions. Discover what grows.</p>
           </div>
-          <ConceptArt kind="hero" ratio="6 / 5" />
+          <HomepageCdnArt asset={1} kind="hero" ratio="6 / 5" priority />
         </div>
         <div className="studio-signals"><span>Creator-led, not algorithm-led</span><span>Open to readers and worldbuilders</span><span>Built around curiosity and consequence</span></div>
       </div>
@@ -50,7 +50,7 @@ export default function Home() {
         </div>
         <div className="studio-grid-two">
           <Link href="/creators" className="studio-panel studio-link-card">
-            <ConceptArt kind="notebook" ratio="2 / 1" caption={false} />
+            <HomepageCdnArt asset={2} kind="notebook" ratio="2 / 1" caption={false} sizes="(max-width: 600px) calc(100vw - 40px), (max-width: 850px) calc((100vw - 64px) / 2), 588px" />
             <div className="studio-card">
               <p className="studio-eyebrow">For creators · An open workshop</p>
               <h3>I love building worlds.</h3>
@@ -59,7 +59,7 @@ export default function Home() {
             </div>
           </Link>
           <Link href="/readers" className="studio-panel studio-link-card">
-            <ConceptArt kind="city" ratio="2 / 1" caption={false} />
+            <HomepageCdnArt asset={3} kind="city" ratio="2 / 1" caption={false} sizes="(max-width: 600px) calc(100vw - 40px), (max-width: 850px) calc((100vw - 64px) / 2), 588px" />
             <div className="studio-card">
               <p className="studio-eyebrow">For readers · A fictional world</p>
               <h3>I love exploring worlds.</h3>
@@ -73,7 +73,7 @@ export default function Home() {
 
     <section id="recognize" className="studio-section studio-soft">
       <div className="studio-wrap studio-split">
-        <ConceptArt kind="notes" label="Concept illustration · Connected creative notes" />
+        <HomepageCdnArt asset={4} kind="notes" label="Concept illustration · Connected creative notes" />
         <div>
           <p className="studio-eyebrow">A question many creators recognize</p>
           <h2>Have plenty of ideas, but aren’t sure what comes next?</h2>
@@ -93,7 +93,7 @@ export default function Home() {
           <h2>One idea can lead to the next.</h2>
           <p>Explore a small, non-canon example. Six connected stages show how a fictional city’s decision might become an entirely new creative question.</p>
         </div>
-        <CreativeLoop compact />
+        <CreativeLoop compact homepageImages />
         <div className="mt-5 flex flex-wrap items-center justify-between gap-4">
           <p className="studio-small max-w-xl">When the new question depends on the changed world, previous creative work becomes an input to what follows.</p>
           <Link href="/creators" className="studio-text-link">Try the full creator experience ↗</Link>
@@ -111,12 +111,12 @@ export default function Home() {
             <p className="mt-4">Explore different civilizations, questions about memory and agency, and what happens when one society’s choices change another’s possibilities.</p>
             <div className="studio-actions"><Link href="/readers" className="studio-button">Discover Asthortera ↗</Link></div>
           </div>
-          <ConceptArt kind="city" label="Concept art · World visuals pending canon review" />
+          <HomepageCdnArt asset={6} kind="city" label="Concept art · World visuals pending canon review" />
         </div>
         <div className="studio-grid-three mt-6">
           {[
-            ['Progress', 'When life gets easier, what matters next?', 'Material progress may change what people need, but does it settle questions about meaning and belonging?'],
             ['Memory', 'What should a civilization remember?', 'Archives can preserve information. People still have to decide what to learn from it.'],
+            ['Progress', 'When life gets easier, what matters next?', 'Material progress may change what people need, but does it settle questions about meaning and belonging?'],
             ['Agency', 'Who shapes the future?', 'Institutions may improve decisions. Their legitimacy and human consequences still matter.'],
           ].map(([tag, title, text]) => <article key={tag} className="studio-card"><p className="studio-small">{tag}</p><h3>{title}</h3><p>{text}</p></article>)}
         </div>
@@ -145,10 +145,10 @@ export default function Home() {
           </div>
           <div className="studio-grid-three">
             {[
-              { kind: 'city' as const, tag: 'Stories & civilizations', title: 'Find a story question.', text: 'Start with a fictional dilemma, then discover the world that surrounds it.', href: '/series', cta: 'Explore series' },
-              { kind: 'network' as const, tag: 'Creative systems', title: 'Explore the method.', text: 'See how rules, relationships and consequences can give ideas a future.', href: '/principles', cta: 'Explore principles' },
-              { kind: 'atlas' as const, tag: 'Places & cultures', title: 'Follow the world map.', text: 'Trace fictional cities, institutions, societies and their histories.', href: '/places', cta: 'Explore places' },
-            ].map(item => <Link key={item.href} href={item.href} className="studio-panel studio-link-card"><ConceptArt kind={item.kind} ratio="2 / 1" caption={false} /><div className="studio-card"><p className="studio-eyebrow">{item.tag}</p><h3>{item.title}</h3><p>{item.text}</p><span className="studio-text-link">{item.cta} ↗</span></div></Link>)}
+              { asset: 7 as const, kind: 'city' as const, tag: 'Stories & civilizations', title: 'Find a story question.', text: 'Start with a fictional dilemma, then discover the world that surrounds it.', href: '/series', cta: 'Explore series' },
+              { asset: 8 as const, kind: 'network' as const, tag: 'Creative systems', title: 'Explore the method.', text: 'See how rules, relationships and consequences can give ideas a future.', href: '/principles', cta: 'Explore principles' },
+              { asset: 9 as const, kind: 'atlas' as const, tag: 'Places & cultures', title: 'Follow the world map.', text: 'Trace fictional cities, institutions, societies and their histories.', href: '/places', cta: 'Explore places' },
+            ].map(item => <Link key={item.href} href={item.href} className="studio-panel studio-link-card"><HomepageCdnArt asset={item.asset} kind={item.kind} ratio="2 / 1" caption={false} sizes="(max-width: 600px) calc(100vw - 80px), (max-width: 850px) calc((100vw - 120px) / 2), 360px" /><div className="studio-card"><p className="studio-eyebrow">{item.tag}</p><h3>{item.title}</h3><p>{item.text}</p><span className="studio-text-link">{item.cta} ↗</span></div></Link>)}
           </div>
           <details><summary>Browse all 20 existing archive categories</summary><div className="studio-archive-links">{knowledgeNavigation.map(item => <Link key={item.href} href={item.href}>{item.name}</Link>)}</div></details>
         </div>
@@ -180,14 +180,14 @@ export default function Home() {
             <p>Maybe it’s a rule your characters disagree with, a city with a strange tradition, or a future you wish you could explore. I’d love to hear what makes you curious.</p>
             <div className="studio-actions"><Link href="/contact" className="studio-button secondary">Share a Thought ↗</Link></div>
           </div>
-          <ConceptArt kind="conversation" label="Concept illustration · Creative conversation" />
+          <HomepageCdnArt asset={10} kind="conversation" label="Concept illustration · Creative conversation" />
         </div>
       </div>
     </section>
 
     <section id="about" className="studio-section">
       <div className="studio-wrap studio-split">
-        <ConceptArt kind="desk" label="Concept illustration · A creator’s workbench" />
+        <HomepageCdnArt asset={11} kind="desk" label="Concept illustration · A creator’s workbench" />
         <div>
           <p className="studio-eyebrow">Behind Reltroner Studio</p>
           <h2>I make the kind of worlds I’d want to explore.</h2>

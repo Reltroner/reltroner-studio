@@ -1,0 +1,10 @@
+{
+  "baseCommit": "f13948b3e85629d9e044876ab116ae8ac6870bd7",
+  "overrides": {
+    "home-page-505.webp": {
+      "commit": "b30ac75b2d4989939c21dd6a9109fbe911ff924d",
+      "width": 1024,
+      "height": 765
+    }
+  }
+}
