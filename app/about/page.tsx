@@ -1,11 +1,12 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import SelectedWorkShowcase from '@/components/ecosystem/SelectedWorkShowcase';
 import { buildStandaloneMetadata } from '@/lib/seo/metadata';
 
 export const metadata: Metadata = buildStandaloneMetadata({
   title: 'About | The Story Behind Reltroner Studio',
   description:
-    'About Reltroner Studio | an independent creative–technology studio exploring stories, worldbuilding, systemic creative design, and how one idea can lead to another.',
+    'About Reltroner Studio | an independent creative systems studio exploring stories, worldbuilding, systemic creative design, and how one idea can lead to another.',
   pathname: '/about',
   image: '/images/logo.webp',
 });
@@ -25,57 +26,6 @@ const capabilities = [
     num: '03 / GROW',
     title: 'Self-improvement',
     body: 'Research, reflection and honest correction help me make better decisions over time. I want creative work to stay personally meaningful, even when a project gets difficult.',
-  },
-] as const;
-
-const creativeLoopStages = [
-  {
-    num: '1',
-    name: 'Seed',
-    summary: 'A city invents a public memory archive.',
-    stepTitle: 'STEP 1 · SEED',
-    description:
-      'One invention raises a creative question: what could a city do with a shared record of its past?',
-  },
-  {
-    num: '2',
-    name: 'Constraint',
-    summary: 'What should remain private?',
-    stepTitle: 'STEP 2 · CONSTRAINT',
-    description:
-      'A shared archive cannot simply make everything public. Some records involve privacy, consent and unequal power.',
-  },
-  {
-    num: '3',
-    name: 'Interaction',
-    summary: 'Institutions and families disagree.',
-    stepTitle: 'STEP 3 · INTERACTION',
-    description:
-      'Archivists, families, courts and citizens disagree about who gets access and for what purpose.',
-  },
-  {
-    num: '4',
-    name: 'Consequence',
-    summary: 'New trust and legal tensions emerge.',
-    stepTitle: 'STEP 4 · CONSEQUENCE',
-    description:
-      'Those decisions affect trust, legal rules and how communities remember events.',
-  },
-  {
-    num: '5',
-    name: 'Changed state',
-    summary: 'Public memory changes how people live.',
-    stepTitle: 'STEP 5 · CHANGED STATE',
-    description:
-      'The city is no longer the same place. People adjust their habits and expectations around memory.',
-  },
-  {
-    num: '6',
-    name: 'Next question',
-    summary: 'Who has the right to be forgotten?',
-    stepTitle: 'STEP 6 · NEXT QUESTION',
-    description:
-      'If the archive is almost perfect, who has the right to be forgotten and who decides? The next story can begin here.',
   },
 ] as const;
 
@@ -231,102 +181,6 @@ const aboutScopedCss = `
   font-weight: 700;
   line-height: 1.35;
 }
-#about-page-content .about-flow-panel {
-  padding: 24px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-#about-page-content .about-flow-fieldset {
-  border: 0;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-#about-page-content .about-flow-step {
-  display: flex;
-  gap: 14px;
-  align-items: flex-start;
-  width: 100%;
-  text-align: left;
-  border: 1px solid var(--rs-border-muted);
-  background: var(--rs-bg-panel);
-  color: var(--rs-text-primary);
-  border-radius: 13px;
-  padding: 13px 15px;
-  min-height: 64px;
-  cursor: pointer;
-  transition: background var(--rs-motion-fast), border-color var(--rs-motion-fast);
-}
-#about-page-content .about-flow-step:hover {
-  background: var(--rs-bg-panel-strong);
-}
-#about-page-content .about-flow-step:has(input:focus-visible) {
-  outline: 2px solid #7dd3fc;
-  outline-offset: 3px;
-}
-#about-page-content .about-flow-step:has(input:checked) {
-  background: color-mix(in srgb, var(--rs-accent-strong) 35%, var(--rs-bg-panel-strong));
-  border-color: var(--color-blue-400);
-  box-shadow: inset 0 0 0 1px var(--rs-border-strong);
-}
-#about-page-content .about-flow-num {
-  width: 31px;
-  height: 31px;
-  border-radius: 9px;
-  background: color-mix(in srgb, var(--rs-accent-strong) 45%, var(--rs-bg-deep));
-  color: var(--color-blue-200);
-  display: grid;
-  place-items: center;
-  flex-shrink: 0;
-  font-size: 0.78rem;
-  font-weight: 800;
-  font-family: var(--font-mono), monospace;
-}
-#about-page-content .about-flow-step b {
-  display: block;
-  font-size: 0.88rem;
-  color: var(--rs-text-primary);
-}
-#about-page-content .about-flow-step small {
-  display: block;
-  margin-top: 3px;
-  font-size: 0.76rem;
-  color: var(--rs-text-muted);
-}
-#about-page-content .about-flow-result {
-  margin-top: 4px;
-  padding: 18px 20px;
-  border: 1px solid var(--rs-border-strong);
-  border-radius: 13px;
-  background: var(--rs-bg-panel-strong);
-  min-height: 118px;
-}
-#about-page-content .about-flow-result-item {
-  display: none;
-  flex-direction: column;
-  gap: 6px;
-}
-#about-page-content .about-flow-result-item strong {
-  color: var(--color-blue-300);
-  font-size: 0.75rem;
-  letter-spacing: 0.08em;
-}
-#about-page-content .about-flow-result-item p {
-  margin: 0;
-  font-size: 0.88rem;
-  color: var(--rs-text-soft);
-}
-#about-page-content .about-flow-panel:has(#about-flow-input-0:checked) .about-flow-result-0,
-#about-page-content .about-flow-panel:has(#about-flow-input-1:checked) .about-flow-result-1,
-#about-page-content .about-flow-panel:has(#about-flow-input-2:checked) .about-flow-result-2,
-#about-page-content .about-flow-panel:has(#about-flow-input-3:checked) .about-flow-result-3,
-#about-page-content .about-flow-panel:has(#about-flow-input-4:checked) .about-flow-result-4,
-#about-page-content .about-flow-panel:has(#about-flow-input-5:checked) .about-flow-result-5 {
-  display: flex;
-}
 #about-page-content .about-path-visual {
   position: relative;
   aspect-ratio: 9 / 4;
@@ -473,12 +327,10 @@ export default function AboutPage() {
                 you can’t let go of.
               </h1>
               <p className="studio-lead">
-                I believe imagination is a gift and that everyone deserves the
-                freedom to dream, question, and build. I started Reltroner Studio
-                to explore the stories and imaginary worlds I wished I could
-                experience myself, combining systemic creative design, software
-                engineering, and continuous learning so one idea can lead to
-                another.
+                I started Reltroner Studio to build the worlds I wanted to
+                explore—and developed a creative method so those worlds could
+                keep generating meaningful possibilities. Imagination is a gift;
+                software and continuous learning help me share what grows from it.
               </p>
               <p className="mt-4 text-sm text-[var(--rs-text-muted)]">
                 If you love making worlds, getting lost in fictional
@@ -683,7 +535,7 @@ export default function AboutPage() {
                 />
               </svg>
               <figcaption className="about-art-caption">
-                Visual placeholder · Concept only, not canon
+                Concept illustration · Not canonical artwork
               </figcaption>
               <div className="about-hero-ribbon">
                 Curiosity → Structure → Consequences → New ideas
@@ -745,6 +597,7 @@ export default function AboutPage() {
         <div className="studio-wrap">
           <div className="studio-intro">
             <p className="studio-eyebrow">02 / The realization</p>
+            <span id="try-the-loop" className="scroll-mt-24" />
             <h2 id="realization-title">
               One idea doesn’t have to end when you’ve finished it.
             </h2>
@@ -761,7 +614,7 @@ export default function AboutPage() {
               role="img"
               aria-label="Concept diagram showing connected creative nodes generating new possibilities"
             >
-              <span className="about-art-tag">IMG-ABOUT-METHOD / CONCEPT</span>
+              <span className="about-art-tag">Connected creative ideas</span>
               <svg viewBox="0 0 600 360" aria-hidden="true" focusable="false">
                 <defs>
                   <radialGradient id="about-mg">
@@ -858,86 +711,6 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Section 05 | Interactive Creative Loop */}
-      <section
-        id="try-the-loop"
-        className="studio-section studio-soft"
-        aria-labelledby="loop-title"
-      >
-        <div className="studio-wrap studio-grid-two items-stretch">
-          <div className="studio-panel studio-card flex flex-col justify-between">
-            <div>
-              <p className="studio-eyebrow">A small interactive example</p>
-              <h2 id="loop-title">What happens after the first idea?</h2>
-              <p className="mt-4">
-                Imagine a fictional city that invents a public memory archive.
-                That sounds like one worldbuilding detail. But it’s also the
-                beginning of new questions.
-              </p>
-              <p className="mt-4">
-                Click through the steps to see how a choice might change society
-                and create another story idea.
-              </p>
-              <p className="studio-small mt-5">
-                This example is hypothetical and non-canon. It is not an
-                announced Asthortera event.
-              </p>
-            </div>
-            <Link href="/creators" className="studio-text-link">
-              Try this thinking on your own world ↗
-            </Link>
-          </div>
-
-          <div className="studio-panel about-flow-panel">
-            <fieldset className="about-flow-fieldset">
-              <legend className="sr-only">
-                Six-stage Creative Compound Machine example
-              </legend>
-              {creativeLoopStages.map((stage, index) => (
-                <label
-                  key={stage.name}
-                  htmlFor={`about-flow-input-${index}`}
-                  className="about-flow-step"
-                >
-                  <input
-                    type="radio"
-                    name="about-creative-loop"
-                    id={`about-flow-input-${index}`}
-                    defaultChecked={index === 0}
-                    className="sr-only"
-                    aria-describedby={`about-flow-desc-${index}`}
-                  />
-                  <span className="about-flow-num" aria-hidden="true">
-                    {stage.num}
-                  </span>
-                  <span>
-                    <b>{stage.name}</b>
-                    <small>{stage.summary}</small>
-                  </span>
-                </label>
-              ))}
-            </fieldset>
-
-            <div
-              className="about-flow-result"
-              role="region"
-              aria-live="polite"
-              aria-label="Selected stage explanation"
-            >
-              {creativeLoopStages.map((stage, index) => (
-                <div
-                  key={stage.stepTitle}
-                  id={`about-flow-desc-${index}`}
-                  className={`about-flow-result-item about-flow-result-${index}`}
-                >
-                  <strong>{stage.stepTitle}</strong>
-                  <p>{stage.description}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Section 06 | Two Ways to Explore */}
       <section
@@ -968,7 +741,7 @@ export default function AboutPage() {
                 aria-label="Concept illustration for the creator pathway"
               >
                 <span className="about-art-tag">
-                  IMG-ABOUT-CREATORS · CONCEPT
+                  For creators · Concept illustration
                 </span>
                 <svg viewBox="0 0 540 240" aria-hidden="true" focusable="false">
                   <defs>
@@ -1029,7 +802,7 @@ export default function AboutPage() {
                 aria-label="Concept illustration for the reader pathway"
               >
                 <span className="about-art-tag">
-                  IMG-ABOUT-READERS · CONCEPT
+                  For readers · Concept illustration
                 </span>
                 <svg viewBox="0 0 540 240" aria-hidden="true" focusable="false">
                   <rect width="540" height="240" fill="#0A2A59" />
@@ -1071,7 +844,7 @@ export default function AboutPage() {
                 <p className="studio-eyebrow">For readers</p>
                 <h3>Wonder what a different world could reveal?</h3>
                 <p>
-                  Visit Asthortera,an evolving science-fantasy setting that
+                  Visit Asthortera, an evolving science-fantasy setting that
                   explores what progress changes, and what questions remain.
                 </p>
                 <span className="studio-text-link">Discover Asthortera ↗</span>
@@ -1120,7 +893,7 @@ export default function AboutPage() {
             <div
               className="about-portrait"
               role="img"
-              aria-label="Abstract silhouette placeholder; an actual approved founder portrait has not been supplied"
+              aria-label="Abstract founder illustration, not a photograph"
             >
               <svg viewBox="0 0 370 340" aria-hidden="true" focusable="false">
                 <defs>
@@ -1151,7 +924,7 @@ export default function AboutPage() {
                 </g>
               </svg>
               <span className="about-art-caption">
-                IMG-ABOUT-FOUNDER · PHOTO PENDING
+                Founder illustration · Not a photograph
               </span>
             </div>
 
@@ -1213,10 +986,12 @@ export default function AboutPage() {
         </div>
       </section>
 
+      <div className="studio-section studio-soft"><div className="studio-wrap"><SelectedWorkShowcase /></div></div>
+
       {/* Section 09 | What's Happening Now */}
       <section
         id="now"
-        className="studio-section studio-soft"
+        className="studio-section"
         aria-labelledby="now-title"
       >
         <div className="studio-wrap">
@@ -1225,7 +1000,7 @@ export default function AboutPage() {
               07 / Building in the open, with clear boundaries
             </p>
             <h2 id="now-title">
-              What’s happening now and what’s for later.
+              What exists today—and what is still in development.
             </h2>
             <p>
               I’d rather be clear about what is being built than pretend
@@ -1234,61 +1009,18 @@ export default function AboutPage() {
           </div>
 
           <div className="studio-grid-two">
-            <article className="studio-card flex flex-col justify-between gap-4">
-              <div>
-                <div className="about-phase-indicator">
-                  <span aria-hidden="true" />
-                  Phase 1 · Current strategic priority
-                </div>
-                <h3 className="mt-4">Make the foundations useful.</h3>
-                <p>
-                  The focus is getting the Reltroner LMS fully ready under its
-                  accepted production requirements, while improving the
-                  Reltroner landing experience so creators and readers can find
-                  their way in.
-                </p>
-              </div>
-              <div>
-                <span className="studio-badge">
-                  Work in progress · not a production certificate
-                </span>
-              </div>
-            </article>
-
-            <article className="studio-card flex flex-col justify-between gap-4 opacity-90">
-              <div>
-                <div className="about-phase-indicator">
-                  <span aria-hidden="true" />
-                  Phase 2 · Future direction
-                </div>
-                <h3 className="mt-4">
-                  More conversations, fewer unnecessary features.
-                </h3>
-                <p>
-                  After the agreed foundation is accepted and the founder is
-                  ready, the emphasis shifts to learning from worldbuilding
-                  communities, contributing useful ideas, and building real
-                  connections.
-                </p>
-              </div>
-              <div>
-                <span className="studio-badge">Planned · not launched</span>
-              </div>
-            </article>
+            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Available today</div><h3 className="mt-4">Creative practice you can try.</h3><p className="grow">The Creative Compound Machine demonstration, the six-field worksheet and its AI-ready Markdown export are public and free to use. Your worksheet stays in your browser.</p><Link href="/creators#notebook" className="studio-text-link">Try your own creative loop ↗</Link></article>
+            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Available today · Reference, not released canon</div><h3 className="mt-4">A world you can read about.</h3><p className="grow">Asthortera has public reference pages and clearly labeled hypothetical examples. The Abyss of Comfort page describes the series’ narrative architecture; it is not a released novel, chapter or season.</p><Link href="/series/the-abyss-of-comfort" className="studio-text-link">Read the series reference · Contains spoilers ↗</Link></article>
+            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Public prototype</div><h3 className="mt-4">Sample learning material.</h3><p className="grow">The Reltroner Learning Academy is a public design prototype with a small sample course. Sign-in, saved learner progress and its other planned features are not yet an operational production service.</p><a href="https://lms.reltroner.com/" target="_blank" rel="noopener noreferrer" className="studio-text-link">Explore the LMS prototype ↗</a></article>
+            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />In development · Then later</div><h3 className="mt-4">Foundations first, community after.</h3><p className="grow">The current priority is bringing the learning platform and this website to an accepted production standard. Only after that does the focus shift toward learning from worldbuilding communities. Community programs or mentorship may follow later; none can be booked today.</p><Link href="/contact" className="studio-text-link">Share a question ↗</Link></article>
           </div>
-
-          <p className="studio-small mt-5">
-            The phase descriptions reflect the ratified strategic plan, not live
-            confirmation of production completion, community scale or paid
-            mentorship availability.
-          </p>
         </div>
       </section>
 
       {/* Section 10 | Community Invitation */}
       <section
         id="community"
-        className="studio-section"
+        className="studio-section studio-soft"
         aria-labelledby="cta-title"
       >
         <div className="studio-wrap">

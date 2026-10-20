@@ -100,7 +100,7 @@ export default function SelectedWorkShowcase() {
           Selected Work &amp; Practice
         </h2>
 
-        <p className="mx-auto mt-4 max-w-2xl text-base leading-7 text-slate-300">
+        <p className="mt-4 max-w-2xl text-base leading-7 text-slate-300">
           These original certificates document course completion and workshop
           participation. They are learning milestones, not paid client engagements.
         </p>

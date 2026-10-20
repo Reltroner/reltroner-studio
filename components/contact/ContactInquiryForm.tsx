@@ -71,14 +71,14 @@ export default function ContactInquiryForm({ topic, onTopicChange }: { topic: Co
   return <>
     <form ref={formRef} onSubmit={submit} noValidate aria-busy={loading} aria-describedby="contact-mode contact-feedback" className="space-y-5">
       <ContactIntentTabs topic={topic} onChange={onTopicChange} />
-      <p className="studio-hint" role="status">{topic.hint}</p>
+      <p id="contact-topic-hint" className="studio-hint" role="status">{topic.hint}</p>
       <div className="studio-grid-two">
         <div><label htmlFor="contact-name" className="mb-2 block text-sm font-medium">Your name</label><input id="contact-name" name="name" required autoComplete="name" maxLength={100} placeholder="How should I address you?" value={name} onChange={event=>setName(event.target.value)} aria-invalid={invalidField==='name'} aria-describedby="contact-feedback" className="rs-form-input" /></div>
         <div><label htmlFor="contact-email" className="mb-2 block text-sm font-medium">Reply email</label><input id="contact-email" name="email" required type="email" autoComplete="email" inputMode="email" maxLength={254} placeholder="you@example.com" value={email} onChange={event=>setEmail(event.target.value)} aria-invalid={invalidField==='email'} aria-describedby="contact-feedback" className="rs-form-input" /></div>
       </div>
       <div>
         <label htmlFor="contact-message" className="mb-2 block text-sm font-medium">{topic.prompt}</label>
-        <textarea id="contact-message" name="message" required rows={6} minLength={20} maxLength={4000} value={message} onChange={event=>setMessage(event.target.value)} aria-invalid={invalidField==='message'} aria-describedby="contact-feedback contact-message-help" className="rs-form-input" />
+        <textarea id="contact-message" name="message" required rows={6} minLength={20} maxLength={4000} value={message} onChange={event=>setMessage(event.target.value)} aria-invalid={invalidField==='message'} aria-describedby="contact-topic-hint contact-feedback contact-message-help" className="rs-form-input" />
         <p id="contact-message-help" className="mt-2 text-right text-xs text-slate-400">{message.length} / 4,000 characters · Minimum 20 · Including a related link</p>
       </div>
       <details className="rounded-xl border border-slate-700 p-3">

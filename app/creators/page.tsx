@@ -21,7 +21,7 @@ export default function CreatorStartPage() {
             <p className="studio-eyebrow">A creative practice for curious minds</p>
             <h1>Build the world you wish existed. Then see where it leads.</h1>
             <p className="studio-lead">Your imagination is worth following and you don’t need every answer before you begin. Start with something you’d love to read, draw, play, or explore, research what fascinates you as you go, and give your ideas room to grow together.</p>
-            <div className="studio-actions"><Link href="#creator-loop" className="studio-button">Try the creative experiment ↗</Link><Link href="#creator-method" className="studio-button secondary">How it works ↓</Link></div>
+            <div className="studio-actions"><Link href="#creator-loop" className="studio-button">Try the creative experiment ↗</Link><Link href="#before-and-after" className="studio-button secondary">How it works ↓</Link></div>
             <p className="studio-small">Free to explore · Your ideas stay yours · No account required</p>
           </div>
           <ConceptArt kind="hero" label="Concept illustration · An idea becomes a world · Not canon" ratio="6 / 5" />
@@ -52,6 +52,23 @@ export default function CreatorStartPage() {
         <CreatorGoals />
       </div>
     </section>
+    <section id="before-and-after" className="studio-section">
+      <div className="studio-wrap">
+        <div className="studio-intro"><p className="studio-eyebrow">Hypothetical example · Not Asthortera canon</p><h2>See a creative loop before and after.</h2><p>One plain idea, taken through the method. Notice that the final question only exists because of what happened along the way.</p></div>
+        <div className="studio-grid-three">
+          <article className="studio-card"><p className="studio-eyebrow">Before / 01 Seed</p><h3>A harbor town has a lighthouse.</h3><p>A pleasant image, but nothing in it pushes back. Nobody has a reason to choose anything, so nothing changes.</p></article>
+          <article className="studio-card"><p className="studio-eyebrow">Method / 02–05</p><h3>Follow what each step causes.</h3><ol className="studio-recognition">
+            {[
+              ['Constraint', 'The lamp can only burn for half the night.'],
+              ['Interaction', 'Dawn fishing crews and evening ferry crews argue over which hours it should shine.'],
+              ['Consequence', 'The town gives the light to the ferries. Fishers start sailing out together, sharing one lantern boat.'],
+              ['Changed state', 'Sailing in convoys becomes normal. Going out alone is now rare, and quietly frowned upon.'],
+            ].map(([stage, text], index) => <li key={stage}><span>0{index + 2}</span><div><strong className="text-white">{stage}.</strong> {text}</div></li>)}
+          </ol></article>
+          <article className="studio-card"><p className="studio-eyebrow">After / 06 New question</p><h3>What happens to the one sailor who refuses to join a convoy?</h3><p>That question could not exist without the limit, the argument and the convoys. It depends on everything before it, which is what makes it a new creative possibility rather than one more disconnected idea.</p><a href="#notebook" className="studio-text-link">Try it with your own idea ↓</a></article>
+        </div>
+      </div>
+    </section>
     <CreatorNotebook />
 
     <section id="evidence" className="studio-section studio-soft">
@@ -76,7 +93,7 @@ export default function CreatorStartPage() {
 
     <section id="curiosity" className="studio-section">
       <div className="studio-wrap studio-split studio-reverse">
-        <div><p className="studio-eyebrow">Make what you wish existed</p><h2>Curiosity first. Research follows. Your work grows with you.</h2><p className="studio-lead">If you’ve ever wished a certain story, world, drawing, or game existed, that longing can be a creative starting point. Learn what you don’t yet know because you want to make something you care about, not only because an audience might approve.</p><p className="studio-small mt-5">Inspired by the creative principle discussed in Austin Kleon’s work. This is a design interpretation, not a verbatim quotation or a guarantee against burnout.</p></div>
+        <div><p className="studio-eyebrow">Make what you wish existed</p><h2>Curiosity first. Research follows. Your work grows with you.</h2><p className="studio-lead">If you’ve ever wished a certain story, world, drawing, or game existed, that longing can be a creative starting point. Learn what you don’t yet know because you want to make something you care about, not only because an audience might approve.</p><p className="studio-small mt-5">Inspired by the creative principle discussed in Austin Kleon’s work. The wording here is the Studio’s own, not a quotation. No practice can guarantee motivation or prevent burnout.</p></div>
         <ConceptArt kind="desk" label="Concept illustration · Creator-led curiosity" />
       </div>
     </section>
@@ -87,7 +104,7 @@ export default function CreatorStartPage() {
         <div className="studio-grid-three">
           {[
             ['01 / Practice', 'Make another loop', 'Go back to your idea, change one condition, and notice what happens. Small experiments count.', '#notebook', 'Open your worksheet'],
-            ['02 / Learn', 'Explore free learning', 'Continue with the Reltroner LMS guest-facing learning space. Actual available lessons depend on the live LMS.', 'https://lms.reltroner.com/', 'Explore LMS'],
+            ['02 / Learn', 'Explore free learning', 'Browse the public LMS prototype and sample learning material. Sign-in and lasting learner progress are still in development.', 'https://lms.reltroner.com/', 'Explore LMS'],
             ['03 / Explore', 'See the creative world', 'Discover how the ideas behind this method can be applied in the worldbuilding of Asthortera.', '/readers', 'For Readers'],
           ].map(([tag, title, text, href, cta]) => <article key={tag} className="studio-card"><p className="studio-eyebrow">{tag}</p><h3>{title}</h3><p>{text}</p>{href.startsWith('http') ? <a href={href} target="_blank" rel="noopener noreferrer" className="studio-text-link">{cta} ↗</a> : <Link href={href} className="studio-text-link">{cta} ↗</Link>}</article>)}
         </div>
@@ -96,7 +113,7 @@ export default function CreatorStartPage() {
 
     <section id="community" className="studio-section">
       <div className="studio-wrap studio-panel studio-conversation studio-split studio-reverse">
-        <div><p className="studio-eyebrow">A conversation, not a pitch</p><h2>What kind of world would you love to make?</h2><p>Maybe you’re writing your first chapter, drawing a fictional city, outlining a game, or simply imagining things because you enjoy it. You’re welcome to share a question, a creative roadblock, or an idea you’re curious about.</p><p className="studio-small">No community membership, public critique program, or paid mentorship availability is implied by this design.</p><div className="studio-actions"><Link href="/contact" className="studio-button">Start a conversation ↗</Link></div></div>
+        <div><p className="studio-eyebrow">A conversation, not a pitch</p><h2>What kind of world would you love to make?</h2><p>Maybe you’re writing your first chapter, drawing a fictional city, outlining a game, or simply imagining things because you enjoy it. You’re welcome to share a question, a creative roadblock, or an idea you’re curious about.</p><p className="studio-small">Conversations begin asynchronously by email. Any collaboration needs a separate agreement; paid mentorship is not currently available.</p><div className="studio-actions"><Link href="/contact" className="studio-button">Start a conversation ↗</Link></div></div>
         <ConceptArt kind="conversation" label="Concept illustration · Collaborative curiosity" />
       </div>
     </section>

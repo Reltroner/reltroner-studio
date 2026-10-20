@@ -2,9 +2,7 @@ import Link from 'next/link';
 import HomepageCdnArt from '@/components/worldbuilding/HomepageCdnArt';
 import CreativeLoop from '@/components/worldbuilding/CreativeLoop';
 import ReadingPreview from '@/components/worldbuilding/ReadingPreview';
-import SelectedWorkShowcase from '@/components/ecosystem/SelectedWorkShowcase';
 import NewsletterSection from '@/components/newsletter/NewsletterSection';
-import { knowledgeNavigation } from '@/lib/constants/navigation';
 import { buildStandaloneMetadata } from '@/lib/seo/metadata';
 
 export const metadata = buildStandaloneMetadata({
@@ -28,7 +26,7 @@ export default function Home() {
           <div>
             <p className="studio-eyebrow">Creative curiosity · Worlds · Systems · Stories</p>
             <h1>What if one idea could grow into an entire world?</h1>
-            <p className="studio-lead">Imagination is a gift, and everyone deserves the freedom to dream. Ever pictured a place, a character, or a question you couldn’t stop thinking about? Welcome to a studio exploring how those ideas connect and what they might become.</p>
+            <p className="studio-lead">A creative systems studio where ideas grow through choices and consequences—and where Asthortera turns those connections into stories about civilization and human life.</p>
             <div className="studio-actions">
               <Link href="/creators" className="studio-button">I build worlds ↗</Link>
               <Link href="/readers" className="studio-button secondary">I explore worlds ↗</Link>
@@ -44,7 +42,7 @@ export default function Home() {
     <section id="begin" className="studio-section">
       <div className="studio-wrap">
         <div className="studio-intro">
-          <p className="studio-eyebrow">Start where your curiosity takes you</p>
+          <p className="studio-eyebrow">Choose your way in</p>
           <h2>Two ways into Reltroner Studio.</h2>
           <p>Maybe you want to invent a new world. Maybe you want to discover one. You don’t need to understand an entire fictional universe first.</p>
         </div>
@@ -55,7 +53,7 @@ export default function Home() {
               <p className="studio-eyebrow">For creators · An open workshop</p>
               <h3>I love building worlds.</h3>
               <p>Got an idea you keep coming back to? Try connecting it with choices and consequences until your next question begins to emerge.</p>
-              <span className="studio-text-link">Explore For Creators ↗</span>
+              <span className="studio-text-link">See the creator method ↗</span>
             </div>
           </Link>
           <Link href="/readers" className="studio-panel studio-link-card">
@@ -64,7 +62,7 @@ export default function Home() {
               <p className="studio-eyebrow">For readers · A fictional world</p>
               <h3>I love exploring worlds.</h3>
               <p>Enter Asthortera through a story question, then discover the cultures, decisions, and interconnected civilizations behind it.</p>
-              <span className="studio-text-link">Explore For Readers ↗</span>
+              <span className="studio-text-link">Meet Asthortera ↗</span>
             </div>
           </Link>
         </div>
@@ -111,7 +109,7 @@ export default function Home() {
             <p className="mt-4">Explore different civilizations, questions about memory and agency, and what happens when one society’s choices change another’s possibilities.</p>
             <div className="studio-actions"><Link href="/readers" className="studio-button">Discover Asthortera ↗</Link></div>
           </div>
-          <HomepageCdnArt asset={6} kind="city" label="Concept art · World visuals pending canon review" />
+          <HomepageCdnArt asset={6} kind="city" label="Concept art · Not official canon imagery" />
         </div>
         <div className="studio-grid-three mt-6">
           {[
@@ -128,7 +126,7 @@ export default function Home() {
         <div>
           <p className="studio-eyebrow">For curious readers</p>
           <h2>A story first. The world behind it when you’re ready.</h2>
-          <p className="studio-lead">Not every reader wants an encyclopedia before chapter one. Explore the present story, reveal the history, or open the world guide when a question comes up.</p>
+          <p className="studio-lead">Not every reader wants an encyclopedia before the story begins. Start with what is happening, then reveal the history or the world guide only when a question comes up.</p>
           <Link href="/readers" className="studio-text-link mt-4">See the full reader pathway ↗</Link>
         </div>
         <ReadingPreview compact />
@@ -145,12 +143,12 @@ export default function Home() {
           </div>
           <div className="studio-grid-three">
             {[
-              { asset: 7 as const, kind: 'city' as const, tag: 'Stories & civilizations', title: 'Find a story question.', text: 'Start with a fictional dilemma, then discover the world that surrounds it.', href: '/series', cta: 'Explore series' },
-              { asset: 8 as const, kind: 'network' as const, tag: 'Creative systems', title: 'Explore the method.', text: 'See how rules, relationships and consequences can give ideas a future.', href: '/principles', cta: 'Explore principles' },
-              { asset: 9 as const, kind: 'atlas' as const, tag: 'Places & cultures', title: 'Follow the world map.', text: 'Trace fictional cities, institutions, societies and their histories.', href: '/places', cta: 'Explore places' },
+              { asset: 7 as const, kind: 'city' as const, tag: 'Stories & series', title: 'Follow a story’s structure.', text: 'See how each series is shaped and which questions drive it. Series pages may reveal story details.', href: '/series', cta: 'Browse series' },
+              { asset: 8 as const, kind: 'network' as const, tag: 'Creative systems', title: 'Read the principles.', text: 'See how rules, relationships and consequences can give ideas a future.', href: '/principles', cta: 'Read the principles' },
+              { asset: 9 as const, kind: 'atlas' as const, tag: 'Places & cultures', title: 'Follow the world map.', text: 'Trace fictional cities, institutions, societies and their histories.', href: '/places', cta: 'Browse places' },
             ].map(item => <Link key={item.href} href={item.href} className="studio-panel studio-link-card"><HomepageCdnArt asset={item.asset} kind={item.kind} ratio="2 / 1" caption={false} sizes="(max-width: 600px) calc(100vw - 80px), (max-width: 850px) calc((100vw - 120px) / 2), 360px" /><div className="studio-card"><p className="studio-eyebrow">{item.tag}</p><h3>{item.title}</h3><p>{item.text}</p><span className="studio-text-link">{item.cta} ↗</span></div></Link>)}
           </div>
-          <details><summary>Browse all 20 existing archive categories</summary><div className="studio-archive-links">{knowledgeNavigation.map(item => <Link key={item.href} href={item.href}>{item.name}</Link>)}</div></details>
+          <Link href="/explore#collections" className="studio-text-link mt-5">Browse all 20 knowledge collections on Explore ↗</Link>
         </div>
       </div>
     </section>
@@ -165,7 +163,7 @@ export default function Home() {
         <div className="studio-grid-two">
           {[
             ['Creative practice', 'Creative Lore Bible', 'Explore how organizing a growing fictional project can make its relationships easier to revisit.', '/blog/creative-lore-bible', 'Read the creator note'],
-            ['Worldbuilding and systems', 'Civilizational Systems Worldbuilding', 'See how culture, institutions, and decisions can be treated as interacting parts of a living fictional world.', '/principles/civilizational-systems-worldbuilding-asthortera', 'Explore the framework'],
+            ['Worldbuilding and systems', 'Civilizational Systems Worldbuilding', 'See how culture, institutions, and decisions can be treated as interacting parts of a living fictional world.', '/principles/civilizational-systems-worldbuilding-asthortera', 'Read the framework'],
           ].map(([tag, title, text, href, cta]) => <article key={href} className="studio-card"><p className="studio-eyebrow">{tag}</p><h3>{title}</h3><p>{text}</p><Link href={href} className="studio-text-link">{cta} ↗</Link></article>)}
         </div>
       </div>
@@ -194,10 +192,10 @@ export default function Home() {
           <p className="studio-lead">The studio brings together systemic creative design, software engineering, and the habit of learning as I go. Curiosity leads to research; research opens new directions for the fiction.</p>
           <p className="mt-4">This is an ongoing independent creative project, shared so readers and fellow worldbuilders can follow the questions too.</p>
           <div className="studio-actions"><Link href="/about" className="studio-button secondary">Meet the studio ↗</Link></div>
+          <p id="selected-work" className="studio-small mt-5 scroll-mt-24">For professional context, <Link href="/about#selected-work" className="studio-text-link">view learning certificates and workshop participation ↗</Link>.</p>
         </div>
       </div>
     </section>
-    <div className="studio-section studio-soft"><div className="studio-wrap"><SelectedWorkShowcase /></div></div>
     <div className="studio-section"><div className="studio-wrap"><NewsletterSection activationVerified={newsletterActivationVerified} /></div></div>
   </div>;
 }

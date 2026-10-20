@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, useState, type KeyboardEvent } from 'react';
+import { useState } from 'react';
 import Link from 'next/link';
 
 type TrackKey = 'stories' | 'worlds' | 'questions' | 'making';
@@ -26,7 +26,7 @@ interface TrackData {
 const tracks: readonly TrackData[] = [
   {
     key: 'stories',
-    title: 'I’m here for a story.',
+    title: 'What would you choose?',
     subtitle: 'Characters, choices, and the worlds they change.',
     eyebrow: 'FOR THE STORY-CURIOUS',
     heading: 'Start with the experience, not the encyclopedia.',
@@ -58,7 +58,7 @@ const tracks: readonly TrackData[] = [
   },
   {
     key: 'worlds',
-    title: 'I love fictional civilizations.',
+    title: 'How do civilizations shape daily life?',
     subtitle: 'Places, cultures, institutions, and history.',
     eyebrow: 'FOR WORLD EXPLORERS',
     heading: 'Every civilization has a different way of seeing the world.',
@@ -80,8 +80,8 @@ const tracks: readonly TrackData[] = [
         lore: false,
       },
       {
-        title: 'Reltronland and Depcutland',
-        desc: 'Two different institutional approaches to progress, archives and continuity.',
+        title: 'Depcutland: memory and continuity',
+        desc: 'Explore one civilization’s approach to archives, memory and continuity.',
         type: 'Faction profiles',
         url: '/factions/depcutland',
         lore: true,
@@ -90,7 +90,7 @@ const tracks: readonly TrackData[] = [
   },
   {
     key: 'questions',
-    title: 'I like big questions.',
+    title: 'What gives progress meaning?',
     subtitle: 'Progress, memory, agency, and meaning.',
     eyebrow: 'FOR CURIOUS THINKERS',
     heading: 'Sometimes the most interesting part is the question.',
@@ -122,7 +122,7 @@ const tracks: readonly TrackData[] = [
   },
   {
     key: 'making',
-    title: 'I’m making my own world.',
+    title: 'How can one idea generate the next?',
     subtitle: 'Turn loose ideas into something that keeps growing.',
     eyebrow: 'FOR WORLD-MAKERS',
     heading: 'Make something you would genuinely love to explore.',
@@ -151,75 +151,6 @@ const tracks: readonly TrackData[] = [
         lore: true,
       },
     ],
-  },
-] as const;
-
-type LensKey = 'current' | 'backstory' | 'guide';
-
-const readingLenses: readonly {
-  key: LensKey;
-  tabLabel: string;
-  badge: string;
-  heading: string;
-  text: string;
-}[] = [
-  {
-    key: 'current',
-    tabLabel: 'Current Lore',
-    badge: 'ILLUSTRATIVE · NON-CANON',
-    heading: 'The choice in front of them',
-    text: 'They had a place to live. They had the freedom to choose a path. But when the invitation arrived, it asked a harder question: what kind of contribution would actually feel like their own?',
-  },
-  {
-    key: 'backstory',
-    tabLabel: 'Backstory',
-    badge: 'HYPOTHETICAL BACKSTORY · NON-CANON',
-    heading: 'How this choice became possible',
-    text: 'Generations earlier, the community had reorganized how everyday needs were met. Security increased, but there was no single agreement about the meaning of contribution. That history now shapes the person’s decision.',
-  },
-  {
-    key: 'guide',
-    tabLabel: 'World Guide',
-    badge: 'HYPOTHETICAL WORLD GUIDE · NON-CANON',
-    heading: 'The system behind the question',
-    text: 'Material security describes access to essentials. Belonging, recognition and agency describe different relationships between people, communities and institutions. Improving one does not automatically settle the others.',
-  },
-] as const;
-
-const compoundStages: readonly {
-  buttonLabel: string;
-  heading: string;
-  text: string;
-}[] = [
-  {
-    buttonLabel: '01. Seed',
-    heading: '01 / Seed',
-    text: 'A town creates a public memory garden: every resident may add one story each year.',
-  },
-  {
-    buttonLabel: '02. Constraint',
-    heading: '02 / Constraint',
-    text: 'The archive has limited space. Residents must choose which memories remain public and which stay personal.',
-  },
-  {
-    buttonLabel: '03. Interaction',
-    heading: '03 / Interaction',
-    text: 'A student asks why a cherished story was never recorded. The archivist and the family disagree.',
-  },
-  {
-    buttonLabel: '04. Consequence',
-    heading: '04 / Consequence',
-    text: 'People begin debating who deserves to decide what represents the community’s past.',
-  },
-  {
-    buttonLabel: '05. Changed State',
-    heading: '05 / Changed State',
-    text: 'A new public review practice appears. Memory-keeping is no longer just an archivist’s private task.',
-  },
-  {
-    buttonLabel: '06. Next Question',
-    heading: '06 / Next Question',
-    text: 'What happens when the next generation disagrees with the stories the town chose to preserve?',
   },
 ] as const;
 
@@ -273,10 +204,11 @@ export function ExploreCuriositySection() {
       <div className="studio-wrap">
         <div className="studio-intro">
           <p className="studio-eyebrow">01 / Your curiosity first</p>
-          <h2 id="chooseTitle">What brought you here today?</h2>
+          <h2 id="chooseTitle">Start with a question.</h2>
           <p>
-            Choose the thing that sounds most interesting. I’ll suggest a few
-            places to begin. You can change your mind at any time.
+            Pick the question closest to what you’re curious about. Each one
+            suggests gentle starting points first; deeper reference pages
+            appear only when you turn on the lore switch.
           </p>
         </div>
 
@@ -373,129 +305,11 @@ export function ExploreCuriositySection() {
           </div>
 
           <p className="studio-small mt-5">
-            This is a hand-curated guide, not a live personalized recommendation
-            or full-text search engine. Some archives contain story details.
+            Suggestions are selected by the Studio. Deeper reference pages may
+            include story details.
           </p>
         </div>
       </div>
     </section>
-  );
-}
-
-export function ExploreReadingLenses() {
-  const [activeLensIndex, setActiveLensIndex] = useState(0);
-  const tabRefs = useRef<(HTMLButtonElement | null)[]>([]);
-  const activeLens = readingLenses[activeLensIndex];
-
-  function handleTabKeyDown(
-    event: KeyboardEvent<HTMLButtonElement>,
-    index: number
-  ) {
-    if (!['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) {
-      return;
-    }
-    event.preventDefault();
-    const total = readingLenses.length;
-    const nextIndex =
-      event.key === 'Home'
-        ? 0
-        : event.key === 'End'
-          ? total - 1
-          : event.key === 'ArrowLeft'
-            ? (index + total - 1) % total
-            : (index + 1) % total;
-    setActiveLensIndex(nextIndex);
-    tabRefs.current[nextIndex]?.focus();
-  }
-
-  return (
-    <div className="studio-panel studio-card flex flex-col justify-between">
-      <div>
-        <p className="studio-eyebrow">Try the reading lenses</p>
-        <h3>How much context do you want?</h3>
-
-        <div
-          className="explore-lens-control"
-          role="tablist"
-          aria-label="Reading mode preview"
-        >
-          {readingLenses.map((lens, index) => {
-            const isSelected = index === activeLensIndex;
-            return (
-              <button
-                key={lens.key}
-                ref={(el) => {
-                  tabRefs.current[index] = el;
-                }}
-                type="button"
-                id={`tab-${lens.key}`}
-                role="tab"
-                aria-selected={isSelected}
-                aria-controls="lensPanel"
-                tabIndex={isSelected ? 0 : -1}
-                data-lens={lens.key}
-                onClick={() => setActiveLensIndex(index)}
-                onKeyDown={(event) => handleTabKeyDown(event, index)}
-              >
-                {lens.tabLabel}
-              </button>
-            );
-          })}
-        </div>
-
-        <div
-          id="lensPanel"
-          role="tabpanel"
-          aria-labelledby={`tab-${activeLens.key}`}
-          tabIndex={0}
-          aria-live="polite"
-          className="explore-reading-sample"
-        >
-          <span id="lensLabel" className="explore-sample-tag">
-            {activeLens.badge}
-          </span>
-          <h4 id="lensHeading">{activeLens.heading}</h4>
-          <p id="lensText">{activeLens.text}</p>
-        </div>
-      </div>
-
-      <div className="explore-lens-foot">
-        <Link href="/readers" className="studio-text-link">
-          Experience the Reader pathway <span aria-hidden="true">↗</span>
-        </Link>
-        <span className="studio-small">Switch without leaving this page</span>
-      </div>
-    </div>
-  );
-}
-
-export function ExploreCompoundExperiment() {
-  const [activeStage, setActiveStage] = useState(0);
-  const current = compoundStages[activeStage];
-
-  return (
-    <div
-      className="explore-compound"
-      role="group"
-      aria-label="Explore the six creative compound stages"
-    >
-      {compoundStages.map((stage, index) => (
-        <button
-          key={stage.buttonLabel}
-          type="button"
-          aria-pressed={activeStage === index}
-          data-stage={index}
-          onClick={() => setActiveStage(index)}
-        >
-          <span>{stage.buttonLabel}</span>
-          <span aria-hidden="true">↗</span>
-        </button>
-      ))}
-
-      <div className="explore-compound-output" aria-live="polite">
-        <strong id="stageHeading">{current.heading}</strong>
-        <p id="stageText">{current.text}</p>
-      </div>
-    </div>
   );
 }
