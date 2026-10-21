@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import ConceptArt from '@/components/worldbuilding/ConceptArt';
+import EditorialCdnArt from '@/components/worldbuilding/EditorialCdnArt';
 import ReadingPreview from '@/components/worldbuilding/ReadingPreview';
 import ReaderConnections from '@/components/worldbuilding/ReaderConnections';
 import ReaderScales from '@/components/worldbuilding/ReaderScales';
@@ -26,7 +26,7 @@ export default function ReaderStartPage() {
             <div className="studio-actions"><Link href="#story" className="studio-button">Try a story preview ↓</Link><Link href="#reader-observatory" className="studio-button secondary">Explore the connected world ↗</Link></div>
             <p className="studio-small">Spoiler-light introduction · Fictional world · No account required</p>
           </div>
-          <ConceptArt kind="city" label="Concept art · Inhabited future, not canon art" ratio="6 / 5" />
+          <EditorialCdnArt asset="16" label="Concept art · Inhabited future, not canon art" ratio="6 / 5" sizes="(max-width: 850px) calc(100vw - 40px), (max-width: 1264px) 59vw, 672px" priority />
         </div>
       </div>
     </section>
@@ -47,7 +47,7 @@ export default function ReaderStartPage() {
 
     <section id="belonging" className="studio-section studio-soft">
       <div className="studio-wrap studio-split">
-        <ConceptArt kind="city" label="Concept art · Human agency and belonging · Non-canon" ratio="3 / 2" />
+        <EditorialCdnArt asset="17" label="Concept art · Human agency and belonging · Non-canon" ratio="3 / 2" />
         <div><p className="studio-eyebrow">Life inside the system</p><h2>What does belonging mean when basic needs are secure?</h2><p className="studio-lead">Asthortera’s advanced civilizations open questions that remain personal: What should I contribute? Who recognizes my work? Which institutions deserve my trust?</p><p className="mt-5">Abundance can change the conditions of a life. It does not automatically answer how someone wants to live it.</p><p className="mt-5">A reader doesn’t need to understand every institution to care about the person facing a choice.</p><p className="studio-small mt-5">A hypothetical human perspective. No named character or fictional event is being added to canon.</p></div>
       </div>
     </section>
@@ -78,10 +78,10 @@ export default function ReaderStartPage() {
         <div className="studio-intro"><p className="studio-eyebrow">Explore by curiosity</p><h2>What would you like to learn about next?</h2><p>The archive is large. You don’t need to start with a full directory, pick one kind of question.</p></div>
         <div className="studio-grid-three">
           {[
-            { kind: 'city' as const, tag: 'Places & everyday life', title: 'How would people actually live here?', text: 'Explore cities, geography and the way a setting shapes everyday decisions.', href: '/places', cta: 'Explore places' },
-            { kind: 'network' as const, tag: 'Institutions & relationships', title: 'Who makes the rules and why?', text: 'Discover groups, alliances and the pressures that create difficult decisions.', href: '/factions', cta: 'Explore factions' },
-            { kind: 'atlas' as const, tag: 'History & consequences', title: 'What happened before this moment?', text: 'Follow historical context and see how previous changes continue to matter.', href: '/events', cta: 'Explore events' },
-          ].map(item => <Link key={item.href} href={item.href} className="studio-panel studio-link-card"><ConceptArt kind={item.kind} ratio="16 / 9" caption={false} /><div className="studio-card"><p className="studio-eyebrow">{item.tag}</p><h3>{item.title}</h3><p>{item.text}</p><span className="studio-text-link">{item.cta} ↗</span></div></Link>)}
+            { asset: '18' as const, tag: 'Places & everyday life', title: 'How would people actually live here?', text: 'Explore cities, geography and the way a setting shapes everyday decisions.', href: '/places', cta: 'Explore places' },
+            { asset: '19' as const, tag: 'Institutions & relationships', title: 'Who makes the rules and why?', text: 'Discover groups, alliances and the pressures that create difficult decisions.', href: '/factions', cta: 'Explore factions' },
+            { asset: '20' as const, tag: 'History & consequences', title: 'What happened before this moment?', text: 'Follow historical context and see how previous changes continue to matter.', href: '/events', cta: 'Explore events' },
+          ].map(item => <Link key={item.href} href={item.href} className="studio-panel studio-link-card"><EditorialCdnArt asset={item.asset} ratio="16 / 9" caption={false} sizes="(max-width: 600px) calc(100vw - 40px), (max-width: 850px) calc(50vw - 31px), (max-width: 1264px) calc(33.333vw - 36px), 385px" /><div className="studio-card"><p className="studio-eyebrow">{item.tag}</p><h3>{item.title}</h3><p>{item.text}</p><span className="studio-text-link">{item.cta} ↗</span></div></Link>)}
         </div>
         <Link href="/explore#collections" className="studio-text-link mt-5">Explore all public knowledge collections →</Link>
       </div>
@@ -90,7 +90,7 @@ export default function ReaderStartPage() {
     <section id="continue" className="studio-section studio-soft">
       <div className="studio-wrap studio-panel studio-conversation studio-split studio-reverse">
         <div><p className="studio-eyebrow">Curiosity is welcome here</p><h2>What kind of fictional world would you want to explore?</h2><p>Whether you’re here for an interesting story, a difficult question, or your own creative ideas, there is more to explore. You don’t need to join a membership or book a session to start.</p><div className="studio-actions"><Link href="/contact" className="studio-button">Share a thought ↗</Link><Link href="/creators" className="studio-button secondary">I build worlds too ↗</Link></div><p className="studio-small">Share a question by email when you like. Replies depend on availability; paid mentorship and live chat are not currently offered.</p></div>
-        <ConceptArt kind="conversation" label="Concept illustration · No real community members depicted" />
+        <EditorialCdnArt asset="21" label="Concept illustration · No real community members depicted" />
       </div>
     </section>
   </div>;

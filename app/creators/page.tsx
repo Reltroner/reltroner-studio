@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import ConceptArt from '@/components/worldbuilding/ConceptArt';
+import EditorialCdnArt from '@/components/worldbuilding/EditorialCdnArt';
 import CreatorGoals from '@/components/worldbuilding/CreatorGoals';
 import CreatorNotebook from '@/components/worldbuilding/CreatorNotebook';
 import { buildStandaloneMetadata } from '@/lib/seo/metadata';
@@ -24,7 +24,7 @@ export default function CreatorStartPage() {
             <div className="studio-actions"><Link href="#creator-loop" className="studio-button">Try the creative experiment ↗</Link><Link href="#before-and-after" className="studio-button secondary">How it works ↓</Link></div>
             <p className="studio-small">Free to explore · Your ideas stay yours · No account required</p>
           </div>
-          <ConceptArt kind="hero" label="Concept illustration · An idea becomes a world · Not canon" ratio="6 / 5" />
+          <EditorialCdnArt asset="12a" label="Concept illustration · An idea becomes a world · Not canon" ratio="6 / 5" sizes="(max-width: 850px) calc(100vw - 40px), (max-width: 1264px) 59vw, 672px" priority />
         </div>
       </div>
     </section>
@@ -75,7 +75,7 @@ export default function CreatorStartPage() {
       <div className="studio-wrap">
         <div className="studio-intro"><p className="studio-eyebrow">Proof of method / Asthortera</p><h2>See how connected ideas can shape a fictional civilization.</h2><p>Asthortera is Reltroner Studio’s original worldbuilding project. Its specialized civilizations offer a way to examine how research, industry, records, and institutions depend on one another.</p></div>
         <div className="studio-split">
-          <ConceptArt kind="network" label="Concept diagram · Hypothetical, not a canon event" />
+          <EditorialCdnArt asset="13" label="Concept diagram · Hypothetical, not a canon event" />
           <div>
             <p className="studio-small">Hypothetical demonstration · Do not interpret as story canon</p>
             <ol className="studio-recognition">
@@ -94,7 +94,7 @@ export default function CreatorStartPage() {
     <section id="curiosity" className="studio-section">
       <div className="studio-wrap studio-split studio-reverse">
         <div><p className="studio-eyebrow">Make what you wish existed</p><h2>Curiosity first. Research follows. Your work grows with you.</h2><p className="studio-lead">If you’ve ever wished a certain story, world, drawing, or game existed, that longing can be a creative starting point. Learn what you don’t yet know because you want to make something you care about, not only because an audience might approve.</p><p className="studio-small mt-5">Inspired by the creative principle discussed in Austin Kleon’s work. The wording here is the Studio’s own, not a quotation. No practice can guarantee motivation or prevent burnout.</p></div>
-        <ConceptArt kind="desk" label="Concept illustration · Creator-led curiosity" />
+        <EditorialCdnArt asset="14" label="Concept illustration · Creator-led curiosity" />
       </div>
     </section>
 
@@ -114,7 +114,7 @@ export default function CreatorStartPage() {
     <section id="community" className="studio-section">
       <div className="studio-wrap studio-panel studio-conversation studio-split studio-reverse">
         <div><p className="studio-eyebrow">A conversation, not a pitch</p><h2>What kind of world would you love to make?</h2><p>Maybe you’re writing your first chapter, drawing a fictional city, outlining a game, or simply imagining things because you enjoy it. You’re welcome to share a question, a creative roadblock, or an idea you’re curious about.</p><p className="studio-small">Conversations begin asynchronously by email. Any collaboration needs a separate agreement; paid mentorship is not currently available.</p><div className="studio-actions"><Link href="/contact" className="studio-button">Start a conversation ↗</Link></div></div>
-        <ConceptArt kind="conversation" label="Concept illustration · Collaborative curiosity" />
+        <EditorialCdnArt asset="15" label="Concept illustration · Collaborative curiosity" />
       </div>
     </section>
   </div>;
