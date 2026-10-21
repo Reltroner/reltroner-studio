@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import ExploreAboutCdnImage from '@/components/worldbuilding/ExploreAboutCdnImage';
 import { buildStandaloneMetadata } from '@/lib/seo/metadata';
 import { ExploreCuriositySection } from './ExploreClient';
 
@@ -357,133 +358,7 @@ export default function ExplorePage() {
               <div className="explore-art-banner">
                 Connected worlds · Non-canon illustration
               </div>
-              <svg
-                className="explore-hero-svg"
-                viewBox="0 0 720 620"
-                preserveAspectRatio="xMidYMid slice"
-                role="img"
-                aria-label="Abstract speculative world: a luminous planet over a network of ideas and an open notebook, representing multiple ways to explore fictional civilizations."
-              >
-                <defs>
-                  <radialGradient id="exp-space" cx=".65" cy=".28" r=".7">
-                    <stop stopColor="#17498d" />
-                    <stop offset=".65" stopColor="#081e47" />
-                    <stop offset="1" stopColor="#020c25" />
-                  </radialGradient>
-                  <radialGradient id="exp-planet" cx=".32" cy=".18" r=".9">
-                    <stop stopColor="#b3e8ff" />
-                    <stop offset=".22" stopColor="#398ad1" />
-                    <stop offset=".64" stopColor="#145096" />
-                    <stop offset="1" stopColor="#071a45" />
-                  </radialGradient>
-                  <filter id="exp-glow">
-                    <feGaussianBlur stdDeviation="8" />
-                  </filter>
-                </defs>
-                <rect width="720" height="620" fill="url(#exp-space)" />
-                <g fill="#93c4ff" opacity=".65">
-                  <circle cx="88" cy="89" r="1" />
-                  <circle cx="230" cy="62" r="1.2" />
-                  <circle cx="628" cy="98" r="1.6" />
-                  <circle cx="607" cy="276" r="1" />
-                  <circle cx="92" cy="287" r="1.8" />
-                  <circle cx="533" cy="37" r="1.3" />
-                  <circle cx="351" cy="90" r="1.1" />
-                  <circle cx="165" cy="196" r="1.5" />
-                  <circle cx="670" cy="404" r="1" />
-                  <circle cx="62" cy="422" r="1" />
-                </g>
-                <ellipse
-                  cx="405"
-                  cy="300"
-                  rx="224"
-                  ry="59"
-                  transform="rotate(-17 405 300)"
-                  stroke="#63a9ff"
-                  strokeWidth="2"
-                  opacity=".3"
-                  fill="none"
-                />
-                <circle
-                  cx="408"
-                  cy="246"
-                  r="157"
-                  fill="#346aab"
-                  filter="url(#exp-glow)"
-                  opacity=".45"
-                />
-                <circle
-                  cx="408"
-                  cy="246"
-                  r="135"
-                  fill="url(#exp-planet)"
-                  stroke="#84c8ff"
-                  strokeOpacity=".4"
-                />
-                <path
-                  d="M307 222c65-85 104-37 169-79 20-13 38-11 53-4-5 62-47 83-89 87-44 4-56 62-122 61z"
-                  fill="#70bbd7"
-                  opacity=".42"
-                />
-                <path
-                  d="M340 304c26-35 71-13 106-19 45-7 64-34 93-29-31 90-103 134-173 112z"
-                  fill="#68a4c9"
-                  opacity=".5"
-                />
-                <path
-                  d="M294 250c14 42 35 75 70 105"
-                  fill="none"
-                  stroke="#c5eeff"
-                  opacity=".32"
-                  strokeWidth="2"
-                />
-                <ellipse
-                  cx="408"
-                  cy="246"
-                  rx="216"
-                  ry="54"
-                  transform="rotate(-17 408 246)"
-                  stroke="#b6e7ff"
-                  strokeWidth="2"
-                  fill="none"
-                  strokeOpacity=".35"
-                />
-                <g opacity=".8" stroke="#368ada" strokeWidth="1.5">
-                  <path
-                    d="M102 450 245 378 365 451 486 372 634 446"
-                    fill="none"
-                  />
-                  <path
-                    d="M245 378 204 284M365 451l45-71M486 372l-11-58"
-                    fill="none"
-                  />
-                </g>
-                <g fill="#d8f5ff">
-                  <circle cx="102" cy="450" r="5" />
-                  <circle cx="245" cy="378" r="6" />
-                  <circle cx="365" cy="451" r="5" />
-                  <circle cx="486" cy="372" r="6" />
-                  <circle cx="634" cy="446" r="5" />
-                </g>
-                <path
-                  d="M122 466 345 514 616 468 393 424z"
-                  fill="#04102b"
-                  stroke="#4d86c7"
-                  strokeWidth="3"
-                />
-                <path
-                  d="M345 514v31l271-45v-32M122 466v29l223 50"
-                  fill="#092b53"
-                  stroke="#4282cb"
-                  strokeWidth="2"
-                />
-                <path
-                  d="M166 475 323 509M410 500l140-24M174 485l95 22"
-                  stroke="#6cb4ef"
-                  strokeOpacity=".6"
-                  strokeWidth="2"
-                />
-              </svg>
+              <ExploreAboutCdnImage asset={22} className="explore-hero-svg" priority />
               <figcaption className="explore-art-caption">
                 <div>
                   <strong>Many doors. One connected world.</strong>
@@ -526,51 +401,7 @@ export default function ExplorePage() {
             >
               <div className="explore-theme-art">
                 <span className="explore-tag-overlay">Stories & choices</span>
-                <svg
-                  viewBox="0 0 400 210"
-                  preserveAspectRatio="xMidYMid slice"
-                  role="img"
-                  aria-label="Concept illustration: distant misty blue horizon and a walking figure leading into a fictional world."
-                >
-                  <defs>
-                    <linearGradient
-                      id="exp-storySky"
-                      x1="0"
-                      y1="0"
-                      x2="0"
-                      y2="1"
-                    >
-                      <stop stopColor="#0c3674" />
-                      <stop offset="1" stopColor="#06142e" />
-                    </linearGradient>
-                  </defs>
-                  <rect width="400" height="210" fill="url(#exp-storySky)" />
-                  <circle
-                    cx="278"
-                    cy="76"
-                    r="41"
-                    fill="#3b89ce"
-                    opacity=".53"
-                  />
-                  <path
-                    d="M0 149 79 95 150 136 218 76 272 119 340 81 400 135V210H0"
-                    fill="#154375"
-                  />
-                  <path
-                    d="M0 174 62 148 136 169 218 129 289 158 350 118 400 158V210H0"
-                    fill="#0b2952"
-                  />
-                  <path
-                    d="M0 190 125 174 225 186 400 162V210H0"
-                    fill="#071b3b"
-                  />
-                  <circle cx="186" cy="174" r="6" fill="#a3d8ff" />
-                  <path
-                    d="m186 180 0 17m0-11-7 5m7-5 7 4"
-                    stroke="#a3d8ff"
-                    strokeWidth="3"
-                  />
-                </svg>
+                <ExploreAboutCdnImage asset={23} />
               </div>
               <div className="studio-card">
                 <h3>Step into Asthortera</h3>
@@ -588,47 +419,7 @@ export default function ExplorePage() {
             <Link href="/places" className="studio-panel studio-link-card">
               <div className="explore-theme-art">
                 <span className="explore-tag-overlay">Places & civilizations</span>
-                <svg
-                  viewBox="0 0 400 210"
-                  preserveAspectRatio="xMidYMid slice"
-                  role="img"
-                  aria-label="Concept illustration: layered atlas contours, route lines and glowing archive structures."
-                >
-                  <rect width="400" height="210" fill="#07182e" />
-                  <g
-                    fill="none"
-                    stroke="#306ca9"
-                    strokeWidth="1.5"
-                    opacity=".7"
-                  >
-                    <path d="M-10 60C55 15 120 90 172 57S288 33 410 60" />
-                    <path d="M-10 90C55 45 120 120 172 87S288 63 410 90" />
-                    <path d="M-10 120C55 75 120 150 172 117S288 93 410 120" />
-                    <path d="M-10 150C55 105 120 180 172 147S288 123 410 150" />
-                  </g>
-                  <path
-                    d="M65 152 133 75 220 121 309 68 363 149"
-                    stroke="#6faef7"
-                    strokeWidth="2.5"
-                    fill="none"
-                    strokeDasharray="6 6"
-                  />
-                  <g fill="#bbecff">
-                    <circle cx="65" cy="152" r="7" />
-                    <circle cx="133" cy="75" r="7" />
-                    <circle cx="220" cy="121" r="7" />
-                    <circle cx="309" cy="68" r="7" />
-                    <circle cx="363" cy="149" r="7" />
-                  </g>
-                  <circle
-                    cx="220"
-                    cy="121"
-                    r="25"
-                    stroke="#70b6ff"
-                    fill="none"
-                    opacity=".4"
-                  />
-                </svg>
+                <ExploreAboutCdnImage asset={24} />
               </div>
               <div className="studio-card">
                 <h3>Follow civilizations and places</h3>
@@ -651,72 +442,7 @@ export default function ExplorePage() {
                 <span className="explore-tag-overlay">
                   Creative practice
                 </span>
-                <svg
-                  viewBox="0 0 400 210"
-                  preserveAspectRatio="xMidYMid slice"
-                  role="img"
-                  aria-label="Concept illustration: connected notes and idea cards forming a creative dependency graph."
-                >
-                  <rect width="400" height="210" fill="#081d3a" />
-                  <path
-                    d="m68 66 130 36 128-51M198 102l-85 63m85-63 128 64"
-                    stroke="#357fc1"
-                    strokeWidth="3"
-                    fill="none"
-                  />
-                  <rect
-                    x="35"
-                    y="34"
-                    width="95"
-                    height="64"
-                    rx="10"
-                    fill="#103969"
-                    stroke="#63a1e4"
-                  />
-                  <rect
-                    x="154"
-                    y="71"
-                    width="96"
-                    height="65"
-                    rx="10"
-                    fill="#15559a"
-                    stroke="#92c7f9"
-                  />
-                  <rect
-                    x="281"
-                    y="25"
-                    width="83"
-                    height="64"
-                    rx="10"
-                    fill="#103969"
-                    stroke="#63a1e4"
-                  />
-                  <rect
-                    x="68"
-                    y="139"
-                    width="96"
-                    height="53"
-                    rx="10"
-                    fill="#103969"
-                    stroke="#63a1e4"
-                  />
-                  <rect
-                    x="276"
-                    y="141"
-                    width="91"
-                    height="51"
-                    rx="10"
-                    fill="#103969"
-                    stroke="#63a1e4"
-                  />
-                  <g
-                    stroke="#9bc7ed"
-                    strokeLinecap="round"
-                    strokeWidth="3"
-                  >
-                    <path d="M51 53h64M51 63h38M51 73h55M169 90h66M169 100h47M169 110h61M298 46h52M298 58h35M83 159h65M83 170h39M291 161h62M291 173h44" />
-                  </g>
-                </svg>
+                <ExploreAboutCdnImage asset={25} />
               </div>
               <div className="studio-card">
                 <h3>Make your ideas grow together</h3>

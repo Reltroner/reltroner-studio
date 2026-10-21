@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import ExploreAboutCdnImage from '@/components/worldbuilding/ExploreAboutCdnImage';
 import SelectedWorkShowcase from '@/components/ecosystem/SelectedWorkShowcase';
 import { buildStandaloneMetadata } from '@/lib/seo/metadata';
 
@@ -358,182 +359,7 @@ export default function AboutPage() {
               aria-label="Non-canon concept illustration: a creative notebook connecting with a distant speculative city and orbiting worlds"
             >
               <span className="about-art-tag">THE WORLD THAT GROWS</span>
-              <svg
-                viewBox="0 0 690 640"
-                aria-hidden="true"
-                focusable="false"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <defs>
-                  <radialGradient id="about-halo">
-                    <stop stopColor="#215DAD" stopOpacity=".9" />
-                    <stop offset="1" stopColor="#0B2550" stopOpacity="0" />
-                  </radialGradient>
-                  <linearGradient id="about-sky" x1="0" y1="0" x2="1" y2="1">
-                    <stop stopColor="#092B5F" />
-                    <stop offset="1" stopColor="#5F9DE7" />
-                  </linearGradient>
-                  <linearGradient id="about-paper" x1="0" y1="0" x2="1" y2="1">
-                    <stop stopColor="#183A69" />
-                    <stop offset="1" stopColor="#0B2145" />
-                  </linearGradient>
-                </defs>
-                <circle cx="430" cy="232" r="245" fill="url(#about-halo)" />
-                <circle
-                  cx="434"
-                  cy="239"
-                  r="178"
-                  fill="none"
-                  stroke="#5DA4F2"
-                  strokeOpacity=".24"
-                  strokeWidth="1.5"
-                />
-                <circle
-                  cx="434"
-                  cy="239"
-                  r="130"
-                  fill="none"
-                  stroke="#6AA8EB"
-                  strokeOpacity=".2"
-                />
-                <path
-                  d="M200 240C305 45 571 73 624 223"
-                  fill="none"
-                  stroke="#B3D5FF"
-                  strokeOpacity=".34"
-                  strokeDasharray="3 9"
-                />
-                <circle
-                  cx="457"
-                  cy="208"
-                  r="120"
-                  fill="url(#about-sky)"
-                  opacity=".82"
-                />
-                <circle
-                  cx="457"
-                  cy="208"
-                  r="122"
-                  stroke="#C5E5FF"
-                  strokeOpacity=".55"
-                  fill="none"
-                  strokeWidth="1.6"
-                />
-                <path d="M352 255h206v52H350Z" fill="#0A2451" />
-                <path
-                  d="M361 255v-65l17-29 16 31v63M397 255v-105l17-24 15 24v105M430 255v-80l17-29 20 29v80M471 255v-122l19-28 18 28v122M509 255v-64l18-21 18 21v64"
-                  fill="#071B3D"
-                  stroke="#9DCBFE"
-                  strokeOpacity=".54"
-                  strokeWidth="1.4"
-                />
-                <path d="M350 256h209" stroke="#8AD1FF" strokeOpacity=".74" />
-                <path
-                  d="M376 179h4M411 171h5M445 188h4M491 152h4M526 211h4"
-                  stroke="#B4E1FF"
-                  strokeWidth="3"
-                  strokeLinecap="round"
-                />
-                <circle
-                  cx="171"
-                  cy="145"
-                  r="50"
-                  fill="#163D7C"
-                  stroke="#7BAAE1"
-                  strokeWidth="1.2"
-                />
-                <path
-                  d="M133 135c20-14 33 16 48-2 19-21 27-2 32 12M141 159c23 12 33-16 52-10"
-                  fill="none"
-                  stroke="#90C6F0"
-                  strokeOpacity=".54"
-                  strokeWidth="8"
-                />
-                <circle cx="610" cy="90" r="17" fill="#B7DFFF" opacity=".7" />
-                <circle cx="598" cy="364" r="11" fill="#B7DFFF" opacity=".56" />
-                <g fill="#D5ECFF">
-                  <circle cx="310" cy="94" r="2" />
-                  <circle cx="280" cy="212" r="2" />
-                  <circle cx="565" cy="89" r="2" />
-                  <circle cx="615" cy="285" r="2" />
-                </g>
-                <path
-                  d="M125 407c40-40 95-60 152-62M327 356c55 7 83 26 110 65"
-                  stroke="#7DAFF4"
-                  strokeWidth="2"
-                  strokeOpacity=".55"
-                  fill="none"
-                  strokeDasharray="8 8"
-                />
-                <circle cx="278" cy="346" r="6" fill="#AEDBFF" />
-                <circle cx="438" cy="420" r="6" fill="#AEDBFF" />
-                <path
-                  d="M80 435 287 396l172 54-216 56Z"
-                  fill="#0D2B57"
-                  stroke="#8CB9EF"
-                  strokeOpacity=".7"
-                  strokeWidth="2"
-                />
-                <path
-                  d="M80 435v55l163 68v-52M243 506v52l216-56v-52"
-                  fill="#071933"
-                  stroke="#587FBD"
-                />
-                <path
-                  d="m117 437 179-20 96 26-185 35Z"
-                  fill="url(#about-paper)"
-                  stroke="#83B6EF"
-                  strokeWidth="1.5"
-                />
-                <path
-                  d="m143 448 104-10m-94 22 96-10m-79 21 59-7"
-                  stroke="#8FC5F8"
-                  strokeWidth="3"
-                  strokeOpacity=".66"
-                  strokeLinecap="round"
-                />
-                <path
-                  d="m284 439 36 4m-31 5 46 3"
-                  stroke="#B4DAFF"
-                  strokeWidth="3"
-                  strokeOpacity=".65"
-                />
-                <path
-                  d="M402 460c-37-19-52-39-65-56m0 0c20 10 38 13 56 9m-56-9c-6 24-19 31-27 37"
-                  stroke="#BBDFFF"
-                  strokeWidth="3"
-                  strokeLinecap="round"
-                  fill="none"
-                />
-                <path
-                  d="M482 470l39 44 63-61"
-                  stroke="#76BDFF"
-                  strokeWidth="2"
-                  fill="none"
-                  strokeOpacity=".64"
-                />
-                <g
-                  fontFamily="Arial,sans-serif"
-                  fontWeight="700"
-                  fontSize="15"
-                  fill="#B4DFFF"
-                  opacity=".83"
-                >
-                  <text x="90" y="582">
-                    ONE IDEA
-                  </text>
-                  <text x="457" y="369">
-                    MANY POSSIBILITIES
-                  </text>
-                </g>
-                <path
-                  d="m178 378-18-25 20-8 9 22 16-18 8 16-25 29Z"
-                  fill="#9DC9F7"
-                  stroke="#CEEAFF"
-                  strokeWidth="1"
-                  opacity=".9"
-                />
-              </svg>
+              <ExploreAboutCdnImage asset={26} priority />
               <figcaption className="about-art-caption">
                 Concept illustration · Not canonical artwork
               </figcaption>
@@ -615,49 +441,7 @@ export default function AboutPage() {
               aria-label="Concept diagram showing connected creative nodes generating new possibilities"
             >
               <span className="about-art-tag">Connected creative ideas</span>
-              <svg viewBox="0 0 600 360" aria-hidden="true" focusable="false">
-                <defs>
-                  <radialGradient id="about-mg">
-                    <stop stopColor="#3675C7" stopOpacity=".65" />
-                    <stop offset="1" stopColor="#061A37" stopOpacity="0" />
-                  </radialGradient>
-                </defs>
-                <ellipse
-                  cx="320"
-                  cy="175"
-                  rx="248"
-                  ry="172"
-                  fill="url(#about-mg)"
-                />
-                <g
-                  stroke="#82B7F6"
-                  fill="none"
-                  strokeWidth="2.5"
-                  opacity=".9"
-                >
-                  <path d="M99 236 203 126 320 182 449 87 519 204 354 271 205 288Z" />
-                  <path
-                    d="M203 126 205 288M320 182l34 89M449 87l-95 184M99 236l221-54M449 87l70 117"
-                    strokeDasharray="6 9"
-                    opacity=".66"
-                  />
-                </g>
-                <g fill="#081F48" stroke="#B1D9FF" strokeWidth="2.8">
-                  <circle cx="99" cy="236" r="19" />
-                  <circle cx="203" cy="126" r="23" />
-                  <circle cx="320" cy="182" r="28" />
-                  <circle cx="449" cy="87" r="20" />
-                  <circle cx="519" cy="204" r="23" />
-                  <circle cx="354" cy="271" r="24" />
-                  <circle cx="205" cy="288" r="18" />
-                </g>
-                <g fill="#82BEFF">
-                  <circle cx="320" cy="182" r="9" />
-                  <circle cx="449" cy="87" r="6" />
-                  <circle cx="99" cy="236" r="6" />
-                  <circle cx="354" cy="271" r="6" />
-                </g>
-              </svg>
+              <ExploreAboutCdnImage asset={28} />
               <figcaption className="about-motive-caption">
                 When ideas connect, new possibilities appear.
               </figcaption>
@@ -743,41 +527,7 @@ export default function AboutPage() {
                 <span className="about-art-tag">
                   For creators · Concept illustration
                 </span>
-                <svg viewBox="0 0 540 240" aria-hidden="true" focusable="false">
-                  <defs>
-                    <linearGradient id="about-pc" x1="0" y1="0" x2="1" y2="1">
-                      <stop stopColor="#0A3671" />
-                      <stop offset="1" stopColor="#04152F" />
-                    </linearGradient>
-                  </defs>
-                  <rect width="540" height="240" fill="url(#about-pc)" />
-                  <path
-                    d="M85 183 219 110 364 158l91-59"
-                    fill="none"
-                    stroke="#8AC4FF"
-                    strokeWidth="2.4"
-                    strokeDasharray="6 8"
-                  />
-                  <g stroke="#A9D8FF" fill="#0B2C5E" strokeWidth="2">
-                    <rect x="67" y="150" width="112" height="60" rx="11" />
-                    <rect x="187" y="70" width="106" height="70" rx="11" />
-                    <rect x="325" y="132" width="117" height="63" rx="11" />
-                  </g>
-                  <path
-                    d="m86 167 42-8m-42 23 60-8m60-88 65-4m-65 22 44-4m93 55 68-7m-68 20 44-5"
-                    stroke="#79B7FE"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                  />
-                  <circle
-                    cx="432"
-                    cy="71"
-                    r="25"
-                    fill="#295B9C"
-                    stroke="#C0E5FF"
-                    strokeWidth="1.5"
-                  />
-                </svg>
+                <ExploreAboutCdnImage asset={29} />
               </div>
               <div className="studio-card">
                 <p className="studio-eyebrow">For creators</p>
@@ -804,41 +554,7 @@ export default function AboutPage() {
                 <span className="about-art-tag">
                   For readers · Concept illustration
                 </span>
-                <svg viewBox="0 0 540 240" aria-hidden="true" focusable="false">
-                  <rect width="540" height="240" fill="#0A2A59" />
-                  <circle
-                    cx="370"
-                    cy="111"
-                    r="102"
-                    fill="#225599"
-                    opacity=".6"
-                  />
-                  <circle
-                    cx="370"
-                    cy="111"
-                    r="77"
-                    fill="#2A67B0"
-                    opacity=".5"
-                  />
-                  <path
-                    d="M204 196V89l32-41 34 41v107m0 0v-79l25-20 26 20v79m0 0V69l30-38 32 38v127m0 0v-83l28-31 27 31v83M190 196h261"
-                    fill="#051936"
-                    stroke="#90C7FF"
-                    strokeWidth="2.2"
-                  />
-                  <path
-                    d="M235 122h5m0 30h5m58-2h5m47-62h7m40 38h6"
-                    stroke="#C5E7FF"
-                    strokeWidth="4"
-                    strokeLinecap="round"
-                  />
-                  <path
-                    d="M128 215C227 151 356 151 464 216"
-                    fill="none"
-                    stroke="#7FABE5"
-                    strokeWidth="1.8"
-                  />
-                </svg>
+                <ExploreAboutCdnImage asset={30} />
               </div>
               <div className="studio-card">
                 <p className="studio-eyebrow">For readers</p>
@@ -893,36 +609,9 @@ export default function AboutPage() {
             <div
               className="about-portrait"
               role="img"
-              aria-label="Abstract founder illustration, not a photograph"
+              aria-label="Portrait of Rei Reltroner, founder of Reltroner Studio"
             >
-              <svg viewBox="0 0 370 340" aria-hidden="true" focusable="false">
-                <defs>
-                  <radialGradient id="about-portgrad">
-                    <stop stopColor="#3474C3" stopOpacity=".6" />
-                    <stop offset="1" stopColor="#082448" stopOpacity="0" />
-                  </radialGradient>
-                </defs>
-                <circle cx="180" cy="140" r="140" fill="url(#about-portgrad)" />
-                <circle
-                  cx="180"
-                  cy="125"
-                  r="61"
-                  fill="#174780"
-                  stroke="#7FADE3"
-                  strokeWidth="2"
-                />
-                <path
-                  d="M85 319c5-87 48-133 95-133s92 46 99 133"
-                  fill="#113C73"
-                  stroke="#6D9BCE"
-                  strokeWidth="2"
-                />
-                <path d="M128 278h103" stroke="#6EA5E0" strokeWidth="1" />
-                <g fill="none" stroke="#8ABCF3" strokeWidth="2" opacity=".65">
-                  <circle cx="180" cy="125" r="98" strokeDasharray="3 12" />
-                  <path d="m64 225 48-28m137 9 57 34m-230-165 50 37m166-15-36 21" />
-                </g>
-              </svg>
+              <ExploreAboutCdnImage asset={27} />
               <span className="about-art-caption">
                 Founder illustration · Not a photograph
               </span>
