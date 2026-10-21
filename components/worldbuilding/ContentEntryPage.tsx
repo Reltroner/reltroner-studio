@@ -123,7 +123,7 @@ export default function ContentEntryPage({
             <span className="archive-chip">{config?.group || "Archive"}</span>
             <span className="archive-chip">{getArchiveTone(config)}</span>
             {entry.type ? <span className="archive-chip">{entry.type}</span> : null}
-            <span className="archive-chip">{entry.classification ? CLASSIFICATION_LABELS[entry.classification] : "Scope awaiting editorial review"}</span>
+            {entry.classification ? <span className="archive-chip">{CLASSIFICATION_LABELS[entry.classification]}</span> : null}
           </div>
           {entry.needsEditorialReview ? <p className="editorial-scope-note">This legacy record is awaiting an explicit editorial scope label. Fiction, analogy and real-world claims require separate interpretation.</p> : null}
 

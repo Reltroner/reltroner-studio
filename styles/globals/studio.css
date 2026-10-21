@@ -49,8 +49,6 @@
 .studio-homepage-loop-panel { position: relative; }
 .studio-homepage-loop-art { position: absolute; margin: 0; }
 :is(#explore-page-content, #about-page-content) [data-studio-media] img { object-fit: cover; }
-/* Preserve the full platform sequence and the globe/notebook composition. */
-#explore-page-content [data-studio-media="25"] img, #about-page-content [data-studio-media="26"] img { object-fit: contain; }
 @media (min-width: 500px) and (max-width: 850px) {
   /* A wide, stacked portrait would crop the founder's face with cover. */
   #about-page-content [data-studio-media="27"] img { object-fit: contain; }

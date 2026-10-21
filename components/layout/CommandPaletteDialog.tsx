@@ -182,8 +182,8 @@ export default function CommandPaletteDialog({ open, onOpenChange, pages, onRetu
                   {page.description ? (
                     <p className="mt-1 text-sm text-slate-300">{page.description}</p>
                   ) : null}
-                  {page.classification || page.needsEditorialReview ? (
-                    <p className="mt-2 text-xs text-blue-200">{page.classification ? CLASSIFICATION_LABELS[page.classification] : 'Scope awaiting editorial review'}</p>
+                  {page.classification ? (
+                    <p className="mt-2 text-xs text-blue-200">{CLASSIFICATION_LABELS[page.classification]}</p>
                   ) : null}
                   {page.category || (page.tags && page.tags.length > 0) ? (
                     <div className="mt-2 flex flex-wrap gap-2">

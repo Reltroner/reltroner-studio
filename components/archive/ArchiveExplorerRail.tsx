@@ -19,7 +19,7 @@ export default function ArchiveExplorerRail({ entries = [], currentId, initialCo
     <Link href={entry.canonicalRoute} onClick={onNavigate} aria-current={entry.id === currentId ? "page" : undefined}
       className="block rounded-lg px-2 py-3 text-sm text-slate-200 hover:bg-blue-400/10 focus-visible:outline-2 focus-visible:outline-blue-300">
       <span className="block font-medium">{entry.title}</span>
-      <span className="mt-1 block text-xs text-slate-400">{entry.classification ? CLASSIFICATION_LABELS[entry.classification] : "Scope awaiting editorial review"}</span>
+      {entry.classification ? <span className="mt-1 block text-xs text-slate-400">{CLASSIFICATION_LABELS[entry.classification]}</span> : null}
     </Link>
   );
 

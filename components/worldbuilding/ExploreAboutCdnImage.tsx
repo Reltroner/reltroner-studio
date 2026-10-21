@@ -5,7 +5,7 @@ const artwork = {
   22: ['explore-page-22.webp', 1374, 1145, 'A glowing planet linked to floating cities above a mountain observatory'],
   23: ['explore-page-23.webp', 1944, 809, 'A traveler overlooking a lake and a distant futuristic mountain city'],
   24: ['explore-page-24.webp', 1730, 909, 'Island civilizations connected by bridges around a mountainous bay'],
-  25: ['explore-page-25.webp', 2120, 742, 'Floating city platforms connected by glowing paths through successive creative stages'],
+  25: ['explore-page-25.webp', 1200, 896, 'Floating city platforms connected by glowing paths through successive creative stages'],
   26: ['about-page-26.webp', 1254, 1254, 'An open notebook beneath a luminous globe and interconnected imagined cities'],
   27: ['about-rei-27.webp', 400, 400, 'Portrait of Rei Reltroner, founder of Reltroner Studio, wearing glasses indoors'],
   28: ['about-page-28.webp', 1619, 971, 'Cities, bridges, and glowing pathways connected across an imagined mountain landscape'],
@@ -14,6 +14,10 @@ const artwork = {
 } as const;
 
 type Asset = keyof typeof artwork;
+
+const sourceCommitOverrides: Partial<Record<Asset, string>> = {
+  25: 'b05ec6726ca50a68f2b752ed43fd6630c7a3a416',
+};
 
 // Retain the former SVGs' flow dimensions; the image itself fills the existing frame.
 const footprints: Partial<Record<Asset, CSSProperties>> = {
@@ -36,7 +40,7 @@ export default function ExploreAboutCdnImage({ asset, className, priority = fals
     <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
       <div data-media-viewport style={{ position: 'relative', flex: '1 1 0%', minHeight: 0, overflow: 'hidden' }}>
         <img
-          src={`https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@${sourceCommit}/landing-page-resource/images/${filename}`}
+          src={`https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@${sourceCommitOverrides[asset] ?? sourceCommit}/landing-page-resource/images/${filename}`}
           width={width}
           height={height}
           alt={alt}

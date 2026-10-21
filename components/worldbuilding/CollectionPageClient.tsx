@@ -229,6 +229,7 @@ export default function CollectionPageClient({ collection, items, publicIndex = 
         {filteredItems.length > 0 ? (
           filteredItems.map((item) => {
             const readingLabel = getReadingLabel(item);
+            const classificationLabel = item.classification ? CLASSIFICATION_LABELS[item.classification] : null;
             const recordSignals = normalizeSignals([item.category, item.type]);
             const tags = normalizeSignals(item.tags || []).slice(0, 3);
             const summary = item.description || item.summary || "Explore this archive record.";
@@ -243,15 +244,15 @@ export default function CollectionPageClient({ collection, items, publicIndex = 
                       sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
                     />
                     <div className="flex grow flex-col gap-4 p-5">
-                      <div className="flex flex-wrap gap-2">
-                        <span className="archive-chip">{item.classification ? CLASSIFICATION_LABELS[item.classification] : "Scope awaiting editorial review"}</span>
+                      {classificationLabel || recordSignals.length > 0 || readingLabel ? <div className="flex flex-wrap gap-2">
+                        {classificationLabel ? <span className="archive-chip">{classificationLabel}</span> : null}
                         {recordSignals.map((signal) => (
                           <span key={signal} className="archive-chip">
                             {signal}
                           </span>
                         ))}
                         {readingLabel ? <span className="archive-chip">{readingLabel}</span> : null}
-                      </div>
+                      </div> : null}
 
                       <div className="space-y-2">
                         <h3 className="text-xl font-semibold tracking-tight text-white">
