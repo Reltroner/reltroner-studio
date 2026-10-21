@@ -24,7 +24,7 @@ export default function ReaderStartPage() {
             <p className="studio-lead">Welcome to Asthortera: one fictional planet, many distinct civilizations, and stories about what people do when progress doesn’t answer every question.</p>
             <p className="mt-5">Fictional worlds give us room to wonder, ask honest questions, and imagine how life could feel under different conditions. Begin with a moment, not an encyclopedia, and explore the world at your own pace.</p>
             <div className="studio-actions"><Link href="#story" className="studio-button">Try a story preview ↓</Link><Link href="#reader-observatory" className="studio-button secondary">Explore the connected world ↗</Link></div>
-            <p className="studio-small">Spoiler-light introduction · Fictional world · No account required</p>
+            <p className="studio-small">Spoiler-light introduction · Fictional world · Non-canon concept art · No account required</p>
           </div>
           <EditorialCdnArt asset="16" label="Concept art · Inhabited future, not canon art" ratio="6 / 5" sizes="(max-width: 850px) calc(100vw - 40px), (max-width: 1264px) 59vw, 672px" priority />
         </div>

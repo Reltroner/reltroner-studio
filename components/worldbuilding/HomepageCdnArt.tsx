@@ -39,12 +39,12 @@ export default function HomepageCdnArt({ asset, kind, ratio = '4 / 3', label = '
   const { url: src, width = defaultWidth, height = defaultHeight } = resolveHomepageImage(asset);
 
   useLayoutEffect(() => {
+    if (!inLoop) return;
     const element = frame.current;
     if (!element) return;
-    const panel = inLoop ? element.parentElement : null;
+    const panel = element.parentElement;
     const narrative = panel?.firstElementChild;
     const question = panel?.querySelector('blockquote');
-    const disclosure = element.querySelector('figcaption');
     function fit() {
       if (panel && narrative && question) {
         const bounds = panel.getBoundingClientRect();
@@ -57,26 +57,16 @@ export default function HomepageCdnArt({ asset, kind, ratio = '4 / 3', label = '
         element.style.height = `${imageWidth * 3 / 4}px`;
         element.style.left = `${start.left - bounds.left - panel.clientLeft + (start.width - imageWidth) / 2}px`;
         element.style.top = `${start.bottom - bounds.top - panel.clientTop + 2}px`;
-      } else {
-        const style = getComputedStyle(element);
-        const parentStyle = element.parentElement && getComputedStyle(element.parentElement);
-        const radius = Math.max(parseFloat(style.borderRadius) || 0, parentStyle?.overflow === 'hidden' ? parseFloat(parentStyle.borderRadius) || 0 : 0);
-        // Keep the complete rectangular image inside any existing rounded clipping.
-        const inset = radius * (1 - Math.SQRT1_2);
-        const bottom = disclosure ? element.getBoundingClientRect().bottom - disclosure.getBoundingClientRect().top : inset;
-        element.style.setProperty('--homepage-image-inset', `${inset}px`);
-        element.style.setProperty('--homepage-image-bottom', `${Math.max(inset, bottom)}px`);
       }
     }
     fit();
     const observer = new ResizeObserver(fit);
-    for (const target of [panel || element, narrative, question, disclosure]) if (target) observer.observe(target);
+    for (const target of [panel || element, narrative, question]) if (target) observer.observe(target);
     return () => observer.disconnect();
   }, [asset, inLoop]);
 
-  return <figure ref={frame} className={inLoop ? 'studio-homepage-loop-art' : 'studio-art studio-homepage-art'} style={{ aspectRatio: ratio }} data-homepage-art={asset}>
+  return <figure ref={frame} className={inLoop ? 'studio-homepage-loop-art' : 'studio-art studio-homepage-art'} style={{ aspectRatio: ratio }} data-homepage-art={asset} aria-description={caption ? label : undefined}>
     {!loaded && <div className="studio-homepage-fallback" aria-hidden="true"><ConceptArt kind={kind} ratio={ratio} caption={false} /></div>}
-    {!failed && <div className="studio-homepage-image"><Image src={src} width={width} height={height} alt={alt} sizes={sizes} loading={priority ? 'eager' : 'lazy'} fetchPriority={priority ? 'high' : 'auto'} style={{ display: 'block', width: '100%', height: '100%', objectFit: 'contain', objectPosition: 'center', opacity: loaded ? 1 : 0 }} onLoad={() => setLoaded(true)} onError={() => { setFailed(true); console.error('Homepage artwork failed to load:', src); }} /></div>}
-    {caption ? <figcaption>{label}</figcaption> : null}
+    {!failed && <div className="studio-homepage-image"><Image src={src} width={width} height={height} alt={alt} sizes={sizes} loading={priority ? 'eager' : 'lazy'} fetchPriority={priority ? 'high' : 'auto'} style={{ display: 'block', width: '100%', height: '100%', objectFit: 'cover', objectPosition: '50% 50%', opacity: loaded ? 1 : 0 }} onLoad={() => setLoaded(true)} onError={() => { setFailed(true); console.error('Homepage artwork failed to load:', src); }} /></div>}
   </figure>;
 }

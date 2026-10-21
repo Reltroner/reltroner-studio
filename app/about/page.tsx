@@ -89,41 +89,8 @@ const aboutScopedCss = `
   padding: 16px;
   overflow: hidden;
 }
-#about-page-content .about-art-tag {
-  position: absolute;
-  top: 18px;
-  left: 18px;
-  z-index: 2;
-  padding: 6px 10px;
-  border: 1px solid var(--rs-border-strong);
-  border-radius: 8px;
-  background: color-mix(in srgb, var(--rs-bg-deep) 82%, transparent);
-  color: var(--color-blue-200);
-  font-size: 0.65rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-}
-#about-page-content .about-art-caption {
-  position: absolute;
-  right: 18px;
-  bottom: 18px;
-  z-index: 2;
-  padding: 6px 10px;
-  border: 1px solid var(--rs-border-muted);
-  border-radius: 8px;
-  background: color-mix(in srgb, var(--rs-bg-deep) 85%, transparent);
-  color: var(--rs-text-muted);
-  font-size: 0.65rem;
-}
 #about-page-content .about-hero-ribbon {
-  position: absolute;
-  left: 18px;
-  bottom: 18px;
-  z-index: 2;
-  padding: 8px 12px;
-  border: 1px solid var(--rs-border-strong);
-  border-radius: 10px;
+  padding: 8px 18px;
   background: var(--rs-bg-panel-strong);
   color: var(--color-blue-200);
   font-size: 0.7rem;
@@ -173,9 +140,8 @@ const aboutScopedCss = `
   height: 100%;
 }
 #about-page-content .about-motive-caption {
-  position: relative;
-  z-index: 2;
-  max-width: 240px;
+  max-width: 284px;
+  padding: 22px;
   color: var(--rs-text-primary);
   font-family: var(--font-display), sans-serif;
   font-size: 1.05rem;
@@ -357,15 +323,13 @@ export default function AboutPage() {
               className="about-hero-artboard"
               role="img"
               aria-label="Non-canon concept illustration: a creative notebook connecting with a distant speculative city and orbiting worlds"
+              aria-describedby="about-hero-method"
             >
-              <span className="about-art-tag">THE WORLD THAT GROWS</span>
-              <ExploreAboutCdnImage asset={26} priority />
-              <figcaption className="about-art-caption">
-                Concept illustration · Not canonical artwork
-              </figcaption>
-              <div className="about-hero-ribbon">
-                Curiosity → Structure → Consequences → New ideas
-              </div>
+              <ExploreAboutCdnImage asset={26} priority>
+                <div id="about-hero-method" className="about-hero-ribbon">
+                  Curiosity → Structure → Consequences → New ideas
+                </div>
+              </ExploreAboutCdnImage>
             </figure>
           </div>
         </div>
@@ -439,12 +403,13 @@ export default function AboutPage() {
               className="about-motive-visual"
               role="img"
               aria-label="Concept diagram showing connected creative nodes generating new possibilities"
+              aria-describedby="creative-ideas-caption"
             >
-              <span className="about-art-tag">Connected creative ideas</span>
-              <ExploreAboutCdnImage asset={28} />
-              <figcaption className="about-motive-caption">
-                When ideas connect, new possibilities appear.
-              </figcaption>
+              <ExploreAboutCdnImage asset={28}>
+                <div id="creative-ideas-caption" className="about-motive-caption">
+                  When ideas connect, new possibilities appear.
+                </div>
+              </ExploreAboutCdnImage>
             </figure>
 
             <div className="studio-card flex flex-col justify-between">
@@ -524,9 +489,6 @@ export default function AboutPage() {
                 role="img"
                 aria-label="Concept illustration for the creator pathway"
               >
-                <span className="about-art-tag">
-                  For creators · Concept illustration
-                </span>
                 <ExploreAboutCdnImage asset={29} />
               </div>
               <div className="studio-card">
@@ -551,9 +513,6 @@ export default function AboutPage() {
                 role="img"
                 aria-label="Concept illustration for the reader pathway"
               >
-                <span className="about-art-tag">
-                  For readers · Concept illustration
-                </span>
                 <ExploreAboutCdnImage asset={30} />
               </div>
               <div className="studio-card">
@@ -612,9 +571,6 @@ export default function AboutPage() {
               aria-label="Portrait of Rei Reltroner, founder of Reltroner Studio"
             >
               <ExploreAboutCdnImage asset={27} />
-              <span className="about-art-caption">
-                Founder illustration · Not a photograph
-              </span>
             </div>
 
             <div className="about-person-copy">

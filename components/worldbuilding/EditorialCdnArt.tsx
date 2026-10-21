@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { useLayoutEffect, useRef, useState } from 'react';
+import { useState } from 'react';
 
 const sourceCommit = '994ce2c6b09e4f16e264a0fce4d1b5f267eca05a';
 const artwork = {
@@ -28,36 +28,13 @@ type Props = {
 };
 
 export default function EditorialCdnArt({ asset, label = 'Concept illustration · Not canonical artwork', ratio = '4 / 3', caption = true, sizes = '(max-width: 850px) calc(100vw - 40px), (max-width: 1264px) 42vw, 480px', priority = false }: Props) {
-  const frame = useRef<HTMLElement>(null);
   const [failed, setFailed] = useState(false);
   const [filename, width, height, alt] = artwork[asset];
   const src = `https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@${sourceCommit}/landing-page-resource/images/${filename}`;
 
-  useLayoutEffect(() => {
-    const element = frame.current;
-    if (!element) return;
-    const disclosure = element.querySelector('figcaption');
-    function fit() {
-      const style = getComputedStyle(element);
-      const parentStyle = element.parentElement && getComputedStyle(element.parentElement);
-      const radius = Math.max(parseFloat(style.borderRadius) || 0, parentStyle?.overflow === 'hidden' ? parseFloat(parentStyle.borderRadius) || 0 : 0);
-      // Keep the complete artwork clear of existing rounded corners and captions.
-      const inset = radius * (1 - Math.SQRT1_2);
-      const bottom = disclosure ? element.getBoundingClientRect().bottom - disclosure.getBoundingClientRect().top : inset;
-      element.style.setProperty('--editorial-image-inset', `${inset}px`);
-      element.style.setProperty('--editorial-image-bottom', `${Math.max(inset, bottom)}px`);
-    }
-    fit();
-    const observer = new ResizeObserver(fit);
-    observer.observe(element);
-    if (disclosure) observer.observe(disclosure);
-    return () => observer.disconnect();
-  }, [asset, caption]);
-
-  return <figure ref={frame} className="studio-art" style={{ aspectRatio: ratio }} data-editorial-art={asset}>
-    <div style={{ position: 'absolute', inset: 'var(--editorial-image-inset, 0px)', bottom: 'var(--editorial-image-bottom, 0px)' }}>
-      {failed ? <div role="img" aria-label={`${alt} — artwork unavailable`} style={{ display: 'grid', placeItems: 'center', width: '100%', height: '100%' }}><span className="studio-small">Artwork unavailable.</span></div> : <Image src={src} width={width} height={height} alt={alt} sizes={sizes} loading={priority ? 'eager' : 'lazy'} fetchPriority={priority ? 'high' : 'auto'} style={{ display: 'block', width: '100%', height: '100%', objectFit: 'contain', objectPosition: 'center' }} onError={() => setFailed(true)} />}
+  return <figure className="studio-art" style={{ aspectRatio: ratio }} data-editorial-art={asset} aria-description={caption ? label : undefined}>
+    <div style={{ position: 'absolute', inset: 0 }}>
+      {failed ? <div role="img" aria-label={`${alt} — artwork unavailable`} style={{ display: 'grid', placeItems: 'center', width: '100%', height: '100%' }}><span className="studio-small">Artwork unavailable.</span></div> : <Image src={src} width={width} height={height} alt={alt} sizes={sizes} loading={priority ? 'eager' : 'lazy'} fetchPriority={priority ? 'high' : 'auto'} style={{ display: 'block', width: '100%', height: '100%', objectFit: 'cover', objectPosition: '50% 50%' }} onError={() => setFailed(true)} />}
     </div>
-    {caption ? <figcaption>{label}</figcaption> : null}
   </figure>;
 }

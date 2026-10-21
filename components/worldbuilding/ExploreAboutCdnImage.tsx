@@ -1,4 +1,4 @@
-import type { CSSProperties } from 'react';
+import type { CSSProperties, ReactNode } from 'react';
 
 const sourceCommit = 'a79754137f1c4db46c869e0b7184e1567a1a402d';
 const artwork = {
@@ -22,7 +22,7 @@ const footprints: Partial<Record<Asset, CSSProperties>> = {
   27: { position: 'static', width: '84%', maxWidth: 300, aspectRatio: '370 / 340' },
 };
 
-export default function ExploreAboutCdnImage({ asset, className, priority = false }: { asset: Asset; className?: string; priority?: boolean }) {
+export default function ExploreAboutCdnImage({ asset, className, priority = false, children }: { asset: Asset; className?: string; priority?: boolean; children?: ReactNode }) {
   const [filename, width, height, alt] = artwork[asset];
   const sizes = asset === 22 || asset === 26
     ? '(max-width: 850px) calc(100vw - 40px), (max-width: 1264px) 59vw, 672px'
@@ -32,17 +32,22 @@ export default function ExploreAboutCdnImage({ asset, className, priority = fals
         ? '(max-width: 600px) calc(100vw - 42px), (max-width: 850px) calc(50vw - 32px), (max-width: 1264px) 32vw, 384px'
         : '(max-width: 600px) calc(100vw - 42px), (max-width: 1264px) 49vw, 588px';
 
-  return <span className={className} data-studio-media={asset} style={{ display: 'block', position: 'absolute', inset: 0, ...footprints[asset] }}>
-    <img
-      src={`https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@${sourceCommit}/landing-page-resource/images/${filename}`}
-      width={width}
-      height={height}
-      alt={alt}
-      sizes={sizes}
-      loading={priority ? 'eager' : 'lazy'}
-      fetchPriority={priority ? 'high' : 'auto'}
-      decoding="async"
-      style={{ display: 'block', position: 'absolute', inset: 0, width: '100%', height: '100%', objectFit: 'contain', objectPosition: 'center' }}
-    />
-  </span>;
+  return <div className={className} data-studio-media={asset} style={{ display: 'block', position: 'absolute', inset: 0, ...footprints[asset] }}>
+    <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
+      <div data-media-viewport style={{ position: 'relative', flex: '1 1 0%', minHeight: 0, overflow: 'hidden' }}>
+        <img
+          src={`https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@${sourceCommit}/landing-page-resource/images/${filename}`}
+          width={width}
+          height={height}
+          alt={alt}
+          sizes={sizes}
+          loading={priority ? 'eager' : 'lazy'}
+          fetchPriority={priority ? 'high' : 'auto'}
+          decoding="async"
+          style={{ display: 'block', position: 'absolute', inset: 0, width: '100%', height: '100%', objectPosition: '50% 50%' }}
+        />
+      </div>
+      {children}
+    </div>
+  </div>;
 }

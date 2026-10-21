@@ -21,31 +21,6 @@ const exploreScopedCss = `
   background: linear-gradient(145deg, color-mix(in srgb, var(--rs-bg-panel-strong) 85%, transparent), var(--rs-bg-deep));
   overflow: hidden;
 }
-#explore-page-content .explore-art-banner {
-  position: absolute;
-  top: 16px;
-  left: 16px;
-  z-index: 2;
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  padding: 6px 10px;
-  border: 1px solid var(--rs-border-strong);
-  border-radius: 8px;
-  background: color-mix(in srgb, var(--rs-bg-deep) 82%, transparent);
-  color: var(--color-blue-200);
-  font-size: 0.65rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-#explore-page-content .explore-art-banner::before {
-  content: '';
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: var(--color-blue-400);
-}
 #explore-page-content .explore-hero-svg {
   width: 100%;
   height: 100%;
@@ -53,14 +28,7 @@ const exploreScopedCss = `
   display: block;
 }
 #explore-page-content .explore-art-caption {
-  position: absolute;
-  bottom: 16px;
-  left: 16px;
-  right: 16px;
-  z-index: 2;
   padding: 12px 16px;
-  border: 1px solid var(--rs-border-strong);
-  border-radius: 14px;
   background: color-mix(in srgb, var(--rs-bg-deep) 88%, transparent);
   display: flex;
   justify-content: space-between;
@@ -232,18 +200,16 @@ const exploreScopedCss = `
 }
 #explore-page-content .explore-tag-overlay {
   position: absolute;
-  top: 14px;
-  left: 14px;
-  z-index: 2;
-  padding: 5px 8px;
-  border: 1px solid var(--rs-border-strong);
-  border-radius: 7px;
-  background: color-mix(in srgb, var(--rs-bg-deep) 82%, transparent);
+  top: 6px;
+  left: 28px;
   color: var(--color-blue-200);
   font-size: 0.62rem;
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+}
+#explore-page-content .explore-theme-art + .studio-card {
+  position: relative;
 }
 #explore-page-content #collections {
   scroll-margin-top: 95px;
@@ -293,6 +259,9 @@ const exploreScopedCss = `
   }
 }
 @media (max-width: 600px) {
+  #explore-page-content .explore-tag-overlay {
+    left: 24px;
+  }
   #explore-page-content .explore-entry-grid,
   #explore-page-content .explore-archive-columns {
     grid-template-columns: 1fr;
@@ -354,20 +323,18 @@ export default function ExplorePage() {
               </div>
             </div>
 
-            <figure className="explore-art-box">
-              <div className="explore-art-banner">
-                Connected worlds · Non-canon illustration
-              </div>
-              <ExploreAboutCdnImage asset={22} className="explore-hero-svg" priority />
-              <figcaption className="explore-art-caption">
-                <div>
-                  <strong>Many doors. One connected world.</strong>
-                  <small>
-                    Worldbuilding, narrative, ideas, and the people behind them.
-                  </small>
+            <figure className="explore-art-box" aria-label="Connected worlds · Non-canon illustration" aria-describedby="explore-art-description">
+              <ExploreAboutCdnImage asset={22} className="explore-hero-svg" priority>
+                <div id="explore-art-description" className="explore-art-caption">
+                  <div>
+                    <strong>Many doors. One connected world.</strong>
+                    <small>
+                      Worldbuilding, narrative, ideas, and the people behind them.
+                    </small>
+                  </div>
+                  <span>Explore freely</span>
                 </div>
-                <span>Explore freely</span>
-              </figcaption>
+              </ExploreAboutCdnImage>
             </figure>
           </div>
         </div>
@@ -400,10 +367,10 @@ export default function ExplorePage() {
               className="studio-panel studio-link-card scroll-mt-24"
             >
               <div className="explore-theme-art">
-                <span className="explore-tag-overlay">Stories & choices</span>
                 <ExploreAboutCdnImage asset={23} />
               </div>
               <div className="studio-card">
+                <span className="explore-tag-overlay">Stories & choices</span>
                 <h3>Step into Asthortera</h3>
                 <p>
                   Read a short hypothetical scene about one person’s choice,
@@ -418,10 +385,10 @@ export default function ExplorePage() {
 
             <Link href="/places" className="studio-panel studio-link-card">
               <div className="explore-theme-art">
-                <span className="explore-tag-overlay">Places & civilizations</span>
                 <ExploreAboutCdnImage asset={24} />
               </div>
               <div className="studio-card">
+                <span className="explore-tag-overlay">Places & civilizations</span>
                 <h3>Follow civilizations and places</h3>
                 <p>
                   Look at the cultures, institutions and landscapes behind the
@@ -439,12 +406,10 @@ export default function ExplorePage() {
               className="studio-panel studio-link-card scroll-mt-24"
             >
               <div className="explore-theme-art">
-                <span className="explore-tag-overlay">
-                  Creative practice
-                </span>
                 <ExploreAboutCdnImage asset={25} />
               </div>
               <div className="studio-card">
+                <span className="explore-tag-overlay">Creative practice</span>
                 <h3>Make your ideas grow together</h3>
                 <p>
                   Step through the six-stage creative loop, then turn your own

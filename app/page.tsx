@@ -107,6 +107,7 @@ export default function Home() {
             <h2>Welcome to Asthortera.</h2>
             <p className="studio-lead">A fictional world where extraordinary progress doesn’t make every decision easy.</p>
             <p className="mt-4">Explore different civilizations, questions about memory and agency, and what happens when one society’s choices change another’s possibilities.</p>
+            <p className="studio-small mt-4">Illustrations are concept art, not official canon imagery.</p>
             <div className="studio-actions"><Link href="/readers" className="studio-button">Discover Asthortera ↗</Link></div>
           </div>
           <HomepageCdnArt asset={6} kind="city" label="Concept art · Not official canon imagery" />
