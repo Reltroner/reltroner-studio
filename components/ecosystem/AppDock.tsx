@@ -11,7 +11,7 @@ export default function AppDock() {
           Explore and launch active portals or preview future expansions.
         </p>
       </div>
-      
+
       <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
         {ECOSYSTEM_APPS.map((app) => (
           <div key={app.name} className="rs-glass flex flex-col p-6 rounded-xl relative group transition hover:border-blue-500/40">
@@ -20,7 +20,7 @@ export default function AppDock() {
               <StatusBadge status={app.status} type={app.type} />
             </div>
             <p className="rs-muted text-sm flex-grow mb-6">{app.description}</p>
-            
+
             {app.status === 'live' ? (
               <a
                 href={app.url}
@@ -28,7 +28,7 @@ export default function AppDock() {
                 rel={app.type === 'external' ? 'noreferrer' : undefined}
                 className="mt-auto text-sm font-medium text-blue-400 hover:text-blue-300 transition flex items-center"
               >
-                {app.type === 'external' ? 'Open Portal ↗' : 'Explore Platform →'}
+                {app.type === 'external' ? 'Open Portal ' : 'Explore Platform →'}
               </a>
             ) : (
               <span className="mt-auto text-sm font-medium text-slate-500 cursor-not-allowed">

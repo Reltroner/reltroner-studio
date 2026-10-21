@@ -21,7 +21,7 @@ export default function CreatorStartPage() {
             <p className="studio-eyebrow">A creative practice for curious minds</p>
             <h1>Build the world you wish existed. Then see where it leads.</h1>
             <p className="studio-lead">Your imagination is worth following and you don’t need every answer before you begin. Start with something you’d love to read, draw, play, or explore, research what fascinates you as you go, and give your ideas room to grow together.</p>
-            <div className="studio-actions"><Link href="#creator-loop" className="studio-button">Try the creative experiment ↗</Link><Link href="#before-and-after" className="studio-button secondary">How it works ↓</Link></div>
+            <div className="studio-actions"><Link href="#creator-loop" className="studio-button">Try the creative experiment </Link><Link href="#before-and-after" className="studio-button secondary">How it works ↓</Link></div>
             <p className="studio-small">Free to explore · Your ideas stay yours · No account required</p>
           </div>
           <EditorialCdnArt asset="12a" label="Concept illustration · An idea becomes a world · Not canon" ratio="6 / 5" sizes="(max-width: 850px) calc(100vw - 40px), (max-width: 1264px) 59vw, 672px" priority />
@@ -106,14 +106,14 @@ export default function CreatorStartPage() {
             ['01 / Practice', 'Make another loop', 'Go back to your idea, change one condition, and notice what happens. Small experiments count.', '#notebook', 'Open your worksheet'],
             ['02 / Learn', 'Explore free learning', 'Browse the public LMS prototype and sample learning material. Sign-in and lasting learner progress are still in development.', 'https://lms.reltroner.com/', 'Explore LMS'],
             ['03 / Explore', 'See the creative world', 'Discover how the ideas behind this method can be applied in the worldbuilding of Asthortera.', '/readers', 'For Readers'],
-          ].map(([tag, title, text, href, cta]) => <article key={tag} className="studio-card"><p className="studio-eyebrow">{tag}</p><h3>{title}</h3><p>{text}</p>{href.startsWith('http') ? <a href={href} target="_blank" rel="noopener noreferrer" className="studio-text-link">{cta} ↗</a> : <Link href={href} className="studio-text-link">{cta} ↗</Link>}</article>)}
+          ].map(([tag, title, text, href, cta]) => <article key={tag} className="studio-card"><p className="studio-eyebrow">{tag}</p><h3>{title}</h3><p>{text}</p>{href.startsWith('http') ? <a href={href} target="_blank" rel="noopener noreferrer" className="studio-text-link">{cta} </a> : <Link href={href} className="studio-text-link">{cta} </Link>}</article>)}
         </div>
       </div>
     </section>
 
     <section id="community" className="studio-section">
       <div className="studio-wrap studio-panel studio-conversation studio-split studio-reverse">
-        <div><p className="studio-eyebrow">A conversation, not a pitch</p><h2>What kind of world would you love to make?</h2><p>Maybe you’re writing your first chapter, drawing a fictional city, outlining a game, or simply imagining things because you enjoy it. You’re welcome to share a question, a creative roadblock, or an idea you’re curious about.</p><p className="studio-small">Conversations begin asynchronously by email. Any collaboration needs a separate agreement; paid mentorship is not currently available.</p><div className="studio-actions"><Link href="/contact" className="studio-button">Start a conversation ↗</Link></div></div>
+        <div><p className="studio-eyebrow">A conversation, not a pitch</p><h2>What kind of world would you love to make?</h2><p>Maybe you’re writing your first chapter, drawing a fictional city, outlining a game, or simply imagining things because you enjoy it. You’re welcome to share a question, a creative roadblock, or an idea you’re curious about.</p><p className="studio-small">Conversations begin asynchronously by email. Any collaboration needs a separate agreement; paid mentorship is not currently available.</p><div className="studio-actions"><Link href="/contact" className="studio-button">Start a conversation </Link></div></div>
         <EditorialCdnArt asset="15" label="Concept illustration · Collaborative curiosity" />
       </div>
     </section>

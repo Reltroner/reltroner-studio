@@ -306,7 +306,7 @@ export default function MobileNavbar() {
                         onClick={closeNavigation}
                         className="studio-button mt-3 w-full"
                       >
-                        Let&apos;s Connect ↗
+                        Let&apos;s Connect
                       </Link>
                     </NavigationSection>
                     {headings && headings.length > 0 ? (

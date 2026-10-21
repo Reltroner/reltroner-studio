@@ -310,7 +310,7 @@ export default function ExplorePage() {
               </p>
               <div className="studio-actions">
                 <Link href="#choose" className="studio-button">
-                  Find my starting point <span aria-hidden="true">↗</span>
+                  Find my starting point <span aria-hidden="true"></span>
                 </Link>
                 <Link href="#collections" className="studio-button secondary">
                   Browse the archives <span aria-hidden="true">↓</span>
@@ -378,7 +378,7 @@ export default function ExplorePage() {
                   it.
                 </p>
                 <span className="studio-text-link">
-                  Try the reading preview ↗
+                  Try the reading preview
                 </span>
               </div>
             </Link>
@@ -395,7 +395,7 @@ export default function ExplorePage() {
                   story without needing to memorize an entire encyclopedia.
                 </p>
                 <span className="studio-text-link">
-                  Browse the places archive ↗
+                  Browse the places archive
                 </span>
               </div>
             </Link>
@@ -416,7 +416,7 @@ export default function ExplorePage() {
                   idea into an AI-ready brainstorming prompt.
                 </p>
                 <span className="studio-text-link">
-                  Try the creative loop ↗
+                  Try the creative loop
                 </span>
               </div>
             </Link>
@@ -455,44 +455,44 @@ export default function ExplorePage() {
             <div className="explore-archive-columns">
               <div>
                 <h3>People, places &amp; events</h3>
-                <Link href="/characters">Characters ↗</Link>
-                <Link href="/places">Places ↗</Link>
-                <Link href="/factions">Factions ↗</Link>
-                <Link href="/cultures">Cultures ↗</Link>
-                <Link href="/organizations">Organizations ↗</Link>
-                <Link href="/events">Events ↗</Link>
+                <Link href="/characters">Characters </Link>
+                <Link href="/places">Places </Link>
+                <Link href="/factions">Factions </Link>
+                <Link href="/cultures">Cultures </Link>
+                <Link href="/organizations">Organizations </Link>
+                <Link href="/events">Events </Link>
                 <Link href="/series">
-                  Series · may reveal story architecture ↗
+                  Series · may reveal story architecture
                 </Link>
               </div>
 
               <div>
                 <h3>Ideas &amp; civilizations</h3>
-                <Link href="/philosophies">Philosophies ↗</Link>
-                <Link href="/principles">Principles ↗</Link>
-                <Link href="/laws">Laws ↗</Link>
-                <Link href="/technologies">Technologies ↗</Link>
-                <Link href="/research">Research ↗</Link>
-                <Link href="/statistics">Statistics ↗</Link>
-                <Link href="/myths">Myths ↗</Link>
+                <Link href="/philosophies">Philosophies </Link>
+                <Link href="/principles">Principles </Link>
+                <Link href="/laws">Laws </Link>
+                <Link href="/technologies">Technologies </Link>
+                <Link href="/research">Research </Link>
+                <Link href="/statistics">Statistics </Link>
+                <Link href="/myths">Myths </Link>
               </div>
 
               <div>
                 <h3>Making &amp; media</h3>
-                <Link href="/items">Items ↗</Link>
-                <Link href="/blog">Studio notes &amp; blog ↗</Link>
-                <Link href="/music">Music ↗</Link>
-                <Link href="/video">Video ↗</Link>
-                <Link href="/blog/for-recruiters">Professional overview ↗</Link>
-                <Link href="/blog/disclaimer">Legal disclaimer ↗</Link>
-                <Link href="/creators">For Creators ↗</Link>
-                <Link href="/readers">For Readers ↗</Link>
+                <Link href="/items">Items </Link>
+                <Link href="/blog">Studio notes &amp; blog </Link>
+                <Link href="/music">Music </Link>
+                <Link href="/video">Video </Link>
+                <Link href="/blog/for-recruiters">Professional overview </Link>
+                <Link href="/blog/disclaimer">Legal disclaimer </Link>
+                <Link href="/creators">For Creators </Link>
+                <Link href="/readers">For Readers </Link>
                 <a
                   href="https://lms.reltroner.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Learning portal ↗
+                  Learning portal
                 </a>
               </div>
             </div>
@@ -518,13 +518,13 @@ export default function ExplorePage() {
             </div>
             <div className="studio-actions mt-0">
               <Link href="/contact" className="studio-button">
-                Start a conversation <span aria-hidden="true">↗</span>
+                Start a conversation <span aria-hidden="true"></span>
               </Link>
               <Link href="/creators" className="studio-button secondary">
-                For Creators <span aria-hidden="true">↗</span>
+                For Creators <span aria-hidden="true"></span>
               </Link>
               <Link href="/readers" className="studio-button secondary">
-                For Readers <span aria-hidden="true">↗</span>
+                For Readers <span aria-hidden="true"></span>
               </Link>
             </div>
           </div>

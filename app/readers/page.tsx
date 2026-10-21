@@ -23,7 +23,7 @@ export default function ReaderStartPage() {
             <h1>What if a better world still had difficult choices?</h1>
             <p className="studio-lead">Welcome to Asthortera: one fictional planet, many distinct civilizations, and stories about what people do when progress doesn’t answer every question.</p>
             <p className="mt-5">Fictional worlds give us room to wonder, ask honest questions, and imagine how life could feel under different conditions. Begin with a moment, not an encyclopedia, and explore the world at your own pace.</p>
-            <div className="studio-actions"><Link href="#story" className="studio-button">Try a story preview ↓</Link><Link href="#reader-observatory" className="studio-button secondary">Explore the connected world ↗</Link></div>
+            <div className="studio-actions"><Link href="#story" className="studio-button">Try a story preview ↓</Link><Link href="#reader-observatory" className="studio-button secondary">Explore the connected world </Link></div>
             <p className="studio-small">Spoiler-light introduction · Fictional world · Non-canon concept art · No account required</p>
           </div>
           <EditorialCdnArt asset="16" label="Concept art · Inhabited future, not canon art" ratio="6 / 5" sizes="(max-width: 850px) calc(100vw - 40px), (max-width: 1264px) 59vw, 672px" priority />
@@ -65,8 +65,8 @@ export default function ReaderStartPage() {
         <div className="studio-grid-three">
           {[
             ['Spoiler-light', 'Stay with the big picture', 'Keep exploring human questions and interconnected possibilities without opening deeper canon or major story details.', '#reader-orientation', 'Back to the introduction ↑'],
-            ['Contains lore', 'Get to know the world’s vocabulary', 'The Asthortera glossary contains named concepts and world rules. It is not spoiler-free.', '/blog/asthortera-glossary', 'Explore glossary ↗'],
-            ['Story information', 'Discover The Abyss of Comfort', 'A public reference describing the series’ narrative architecture: its seasons, characters and causal structure. It contains substantial spoilers and is not a released novel, chapter or season.', '/series/the-abyss-of-comfort', 'Read the series reference ↗'],
+            ['Contains lore', 'Get to know the world’s vocabulary', 'The Asthortera glossary contains named concepts and world rules. It is not spoiler-free.', '/blog/asthortera-glossary', 'Explore glossary '],
+            ['Story information', 'Discover The Abyss of Comfort', 'A public reference describing the series’ narrative architecture: its seasons, characters and causal structure. It contains substantial spoilers and is not a released novel, chapter or season.', '/series/the-abyss-of-comfort', 'Read the series reference '],
           ].map(([tag, title, text, href, cta], index) => <article key={tag} className="studio-card flex flex-col"><p className="studio-eyebrow">0{index + 1} / {tag}</p><h3>{title}</h3><p id={'reader-warning-' + index} className="mb-6 grow">{text}</p><Link href={href} aria-describedby={'reader-warning-' + index} className={index === 0 ? 'studio-button' : 'studio-button secondary'}>{cta}</Link></article>)}
         </div>
         <p className="studio-small mt-5">Reference pages describe worldbuilding and narrative plans. They do not provide unpublished chapters or establish that planned seasons have been released.</p>
@@ -81,7 +81,7 @@ export default function ReaderStartPage() {
             { asset: '18' as const, tag: 'Places & everyday life', title: 'How would people actually live here?', text: 'Explore cities, geography and the way a setting shapes everyday decisions.', href: '/places', cta: 'Explore places' },
             { asset: '19' as const, tag: 'Institutions & relationships', title: 'Who makes the rules and why?', text: 'Discover groups, alliances and the pressures that create difficult decisions.', href: '/factions', cta: 'Explore factions' },
             { asset: '20' as const, tag: 'History & consequences', title: 'What happened before this moment?', text: 'Follow historical context and see how previous changes continue to matter.', href: '/events', cta: 'Explore events' },
-          ].map(item => <Link key={item.href} href={item.href} className="studio-panel studio-link-card"><EditorialCdnArt asset={item.asset} ratio="16 / 9" caption={false} sizes="(max-width: 600px) calc(100vw - 40px), (max-width: 850px) calc(50vw - 31px), (max-width: 1264px) calc(33.333vw - 36px), 385px" /><div className="studio-card"><p className="studio-eyebrow">{item.tag}</p><h3>{item.title}</h3><p>{item.text}</p><span className="studio-text-link">{item.cta} ↗</span></div></Link>)}
+          ].map(item => <Link key={item.href} href={item.href} className="studio-panel studio-link-card"><EditorialCdnArt asset={item.asset} ratio="16 / 9" caption={false} sizes="(max-width: 600px) calc(100vw - 40px), (max-width: 850px) calc(50vw - 31px), (max-width: 1264px) calc(33.333vw - 36px), 385px" /><div className="studio-card"><p className="studio-eyebrow">{item.tag}</p><h3>{item.title}</h3><p>{item.text}</p><span className="studio-text-link">{item.cta} </span></div></Link>)}
         </div>
         <Link href="/explore#collections" className="studio-text-link mt-5">Explore all public knowledge collections →</Link>
       </div>
@@ -89,7 +89,7 @@ export default function ReaderStartPage() {
 
     <section id="continue" className="studio-section studio-soft">
       <div className="studio-wrap studio-panel studio-conversation studio-split studio-reverse">
-        <div><p className="studio-eyebrow">Curiosity is welcome here</p><h2>What kind of fictional world would you want to explore?</h2><p>Whether you’re here for an interesting story, a difficult question, or your own creative ideas, there is more to explore. You don’t need to join a membership or book a session to start.</p><div className="studio-actions"><Link href="/contact" className="studio-button">Share a thought ↗</Link><Link href="/creators" className="studio-button secondary">I build worlds too ↗</Link></div><p className="studio-small">Share a question by email when you like. Replies depend on availability; paid mentorship and live chat are not currently offered.</p></div>
+        <div><p className="studio-eyebrow">Curiosity is welcome here</p><h2>What kind of fictional world would you want to explore?</h2><p>Whether you’re here for an interesting story, a difficult question, or your own creative ideas, there is more to explore. You don’t need to join a membership or book a session to start.</p><div className="studio-actions"><Link href="/contact" className="studio-button">Share a thought </Link><Link href="/creators" className="studio-button secondary">I build worlds too </Link></div><p className="studio-small">Share a question by email when you like. Replies depend on availability; paid mentorship and live chat are not currently offered.</p></div>
         <EditorialCdnArt asset="21" label="Concept illustration · No real community members depicted" />
       </div>
     </section>

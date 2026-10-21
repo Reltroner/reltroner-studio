@@ -10,7 +10,7 @@ export default function Navbar({ pages }: CommandPaletteProps) {
       <div className="studio-wrap studio-desktop-nav">
         <Link href="/" className="studio-brand"><img src="/images/reltroner-smooth.webp" width="38" height="38" alt="" />Reltroner Studio</Link>
         <nav aria-label="Primary navigation"><NavLinks items={topNavigation} /></nav>
-        <div className="studio-nav-actions"><CommandPalette pages={pages} /><Link href="/contact" className="studio-button">Let&apos;s Connect ↗</Link></div>
+        <div className="studio-nav-actions"><CommandPalette pages={pages} /><Link href="/contact" className="studio-button">Let&apos;s Connect </Link></div>
       </div>
       <MobileNavbar />
     </header>

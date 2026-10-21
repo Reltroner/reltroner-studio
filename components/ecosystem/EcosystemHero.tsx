@@ -50,7 +50,7 @@ export default function EcosystemHero() {
           Browse Knowledge Base
         </a>
         <a href="https://lms.reltroner.com" target="_blank" rel="noreferrer" className="focus-visible:rs-focus-ring rounded-full border border-slate-600 px-6 py-3 font-medium text-slate-300 transition hover:bg-slate-800 hover:text-white">
-          Open LMS ↗
+          Open LMS
         </a>
       </div>
     </section>

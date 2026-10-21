@@ -34,7 +34,7 @@ export default function EditorialCdnArt({ asset, label = 'Concept illustration Â
 
   return <figure className="studio-art" style={{ aspectRatio: ratio }} data-editorial-art={asset} aria-description={caption ? label : undefined}>
     <div style={{ position: 'absolute', inset: 0 }}>
-      {failed ? <div role="img" aria-label={`${alt} â€” artwork unavailable`} style={{ display: 'grid', placeItems: 'center', width: '100%', height: '100%' }}><span className="studio-small">Artwork unavailable.</span></div> : <Image src={src} width={width} height={height} alt={alt} sizes={sizes} loading={priority ? 'eager' : 'lazy'} fetchPriority={priority ? 'high' : 'auto'} style={{ display: 'block', width: '100%', height: '100%', objectFit: 'cover', objectPosition: '50% 50%' }} onError={() => setFailed(true)} />}
+      {failed ? <div role="img" aria-label={`${alt} | artwork unavailable`} style={{ display: 'grid', placeItems: 'center', width: '100%', height: '100%' }}><span className="studio-small">Artwork unavailable.</span></div> : <Image src={src} width={width} height={height} alt={alt} sizes={sizes} loading={priority ? 'eager' : 'lazy'} fetchPriority={priority ? 'high' : 'auto'} style={{ display: 'block', width: '100%', height: '100%', objectFit: 'cover', objectPosition: '50% 50%' }} onError={() => setFailed(true)} />}
     </div>
   </figure>;
 }

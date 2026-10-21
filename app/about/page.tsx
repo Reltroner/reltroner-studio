@@ -309,7 +309,7 @@ export default function AboutPage() {
                   Read our story ↓
                 </Link>
                 <Link href="/readers" className="studio-button secondary">
-                  Explore Asthortera ↗
+                  Explore Asthortera
                 </Link>
               </div>
               <div className="studio-signals">
@@ -426,7 +426,7 @@ export default function AboutPage() {
                 <p>The answer can become the beginning of something new.</p>
               </div>
               <Link href="/creators" className="studio-text-link">
-                See how the creative loop works ↗
+                See how the creative loop works
               </Link>
             </div>
           </div>
@@ -499,7 +499,7 @@ export default function AboutPage() {
                   ideas so your project has somewhere interesting to go next.
                 </p>
                 <span className="studio-text-link">
-                  Explore the creator pathway ↗
+                  Explore the creator pathway
                 </span>
               </div>
             </Link>
@@ -522,7 +522,7 @@ export default function AboutPage() {
                   Visit Asthortera, an evolving science-fantasy setting that
                   explores what progress changes, and what questions remain.
                 </p>
-                <span className="studio-text-link">Discover Asthortera ↗</span>
+                <span className="studio-text-link">Discover Asthortera </span>
               </div>
             </Link>
           </div>
@@ -620,10 +620,10 @@ export default function AboutPage() {
               </p>
               <div className="mt-3 flex flex-wrap gap-4">
                 <Link href="/blog/for-recruiters" className="studio-text-link">
-                  Professional overview ↗
+                  Professional overview
                 </Link>
                 <Link href="/contact" className="studio-text-link">
-                  Contact the studio ↗
+                  Contact the studio
                 </Link>
               </div>
             </div>
@@ -654,10 +654,10 @@ export default function AboutPage() {
           </div>
 
           <div className="studio-grid-two">
-            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Available today</div><h3 className="mt-4">Creative practice you can try.</h3><p className="grow">The Creative Compound Machine demonstration, the six-field worksheet and its AI-ready Markdown export are public and free to use. Your worksheet stays in your browser.</p><Link href="/creators#notebook" className="studio-text-link">Try your own creative loop ↗</Link></article>
-            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Available today · Reference, not released canon</div><h3 className="mt-4">A world you can read about.</h3><p className="grow">Asthortera has public reference pages and clearly labeled hypothetical examples. The Abyss of Comfort page describes the series’ narrative architecture; it is not a released novel, chapter or season.</p><Link href="/series/the-abyss-of-comfort" className="studio-text-link">Read the series reference · Contains spoilers ↗</Link></article>
-            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Public prototype</div><h3 className="mt-4">Sample learning material.</h3><p className="grow">The Reltroner Learning Academy is a public design prototype with a small sample course. Sign-in, saved learner progress and its other planned features are not yet an operational production service.</p><a href="https://lms.reltroner.com/" target="_blank" rel="noopener noreferrer" className="studio-text-link">Explore the LMS prototype ↗</a></article>
-            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />In development · Then later</div><h3 className="mt-4">Foundations first, community after.</h3><p className="grow">The current priority is bringing the learning platform and this website to an accepted production standard. Only after that does the focus shift toward learning from worldbuilding communities. Community programs or mentorship may follow later; none can be booked today.</p><Link href="/contact" className="studio-text-link">Share a question ↗</Link></article>
+            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Available today</div><h3 className="mt-4">Creative practice you can try.</h3><p className="grow">The Creative Compound Machine demonstration, the six-field worksheet and its AI-ready Markdown export are public and free to use. Your worksheet stays in your browser.</p><Link href="/creators#notebook" className="studio-text-link">Try your own creative loop </Link></article>
+            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Available today · Reference, not released canon</div><h3 className="mt-4">A world you can read about.</h3><p className="grow">Asthortera has public reference pages and clearly labeled hypothetical examples. The Abyss of Comfort page describes the series’ narrative architecture; it is not a released novel, chapter or season.</p><Link href="/series/the-abyss-of-comfort" className="studio-text-link">Read the series reference · Contains spoilers </Link></article>
+            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />Public prototype</div><h3 className="mt-4">Sample learning material.</h3><p className="grow">The Reltroner Learning Academy is a public design prototype with a small sample course. Sign-in, saved learner progress and its other planned features are not yet an operational production service.</p><a href="https://lms.reltroner.com/" target="_blank" rel="noopener noreferrer" className="studio-text-link">Explore the LMS prototype </a></article>
+            <article className="studio-card flex flex-col"><div className="about-phase-indicator"><span aria-hidden="true" />In development · Then later</div><h3 className="mt-4">Foundations first, community after.</h3><p className="grow">The current priority is bringing the learning platform and this website to an accepted production standard. Only after that does the focus shift toward learning from worldbuilding communities. Community programs or mentorship may follow later; none can be booked today.</p><Link href="/contact" className="studio-text-link">Share a question </Link></article>
           </div>
         </div>
       </section>
@@ -681,13 +681,13 @@ export default function AboutPage() {
             </p>
             <div className="studio-actions justify-center">
               <Link href="/creators" className="studio-button">
-                I’m making something ↗
+                I’m making something
               </Link>
               <Link href="/readers" className="studio-button secondary">
-                I want to explore a world ↗
+                I want to explore a world
               </Link>
               <Link href="/contact" className="studio-button secondary">
-                Start a conversation ↗
+                Start a conversation
               </Link>
             </div>
           </div>
