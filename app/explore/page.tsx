@@ -334,7 +334,7 @@ export default function ExplorePage() {
                 </span>
               </h1>
               <p className="studio-lead">
-                Choose what interests you—stories, civilizations, creative methods,
+                Choose what interests you stories, civilizations, creative methods,
                 or questions about human life. We’ll point you toward a few
                 useful places to begin.
               </p>

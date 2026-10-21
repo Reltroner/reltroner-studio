@@ -328,7 +328,7 @@ export default function AboutPage() {
               </h1>
               <p className="studio-lead">
                 I started Reltroner Studio to build the worlds I wanted to
-                explore—and developed a creative method so those worlds could
+                explore and developed a creative method so those worlds could
                 keep generating meaningful possibilities. Imagination is a gift;
                 software and continuous learning help me share what grows from it.
               </p>
@@ -1000,7 +1000,7 @@ export default function AboutPage() {
               07 / Building in the open, with clear boundaries
             </p>
             <h2 id="now-title">
-              What exists today—and what is still in development.
+              What exists today and what is still in development.
             </h2>
             <p>
               I’d rather be clear about what is being built than pretend

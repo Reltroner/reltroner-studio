@@ -26,7 +26,7 @@ export default function Home() {
           <div>
             <p className="studio-eyebrow">Creative curiosity · Worlds · Systems · Stories</p>
             <h1>What if one idea could grow into an entire world?</h1>
-            <p className="studio-lead">A creative systems studio where ideas grow through choices and consequences—and where Asthortera turns those connections into stories about civilization and human life.</p>
+            <p className="studio-lead">A creative systems studio where ideas grow through choices and consequences, and where Asthortera turns those connections into stories about civilization and human life.</p>
             <div className="studio-actions">
               <Link href="/creators" className="studio-button">I build worlds ↗</Link>
               <Link href="/readers" className="studio-button secondary">I explore worlds ↗</Link>
