@@ -4,10 +4,9 @@ description: "Extended profile of Rei Reltroner, the transformative visionary of
 author: "Reltroner Studio"
 date: "March 29, 2025"
 published: true
-image: "/images/rei-reltroner.webp"
+image: "/images/about-rei-27.webp"
 ---
 
-![rei-reltroner1](/images/rei-reltroner2.webp)
 ![rei-reltroner1](/images/rei-reltroner1.webp)
 
 ---
