@@ -6,7 +6,6 @@ import { resolveCdnImageUrl } from "@/lib/assets/image";
 
 export default function ArchiveCardMedia({ image, title, sizes, className = "h-48 w-full" }) {
   const resolvedImage = resolveCdnImageUrl(image);
-  const bypassOptimization = resolvedImage?.startsWith("https://cdn.jsdelivr.net/");
   const [failedSource, setFailedSource] = useState(null);
 
   return (
@@ -22,7 +21,6 @@ export default function ArchiveCardMedia({ image, title, sizes, className = "h-4
           alt={title}
           fill
           sizes={sizes}
-          unoptimized={bypassOptimization}
           onError={() => setFailedSource(resolvedImage)}
           className="object-contain p-3 drop-shadow-[0_18px_38px_rgba(15,23,42,0.18)] sm:p-4"
         />

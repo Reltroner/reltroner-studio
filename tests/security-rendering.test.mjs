@@ -45,7 +45,8 @@ test("video allowlist uses strict HTTPS origins and nonexecutable fallback links
 test("an image-adjacent authored video becomes one playable media block", async () => {
   const source = `![Beluftner](/images/beluftnerball.webp)\n<video controls style="width:100%"><source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/beluftner-part1.mp4" type="video/mp4" />\nYour browser does not support the video tag.\n</video>`;
   const output = await render(source);
-  assert.match(output, /<video controls src="https:\/\/cdn\.jsdelivr\.net\/gh\/Reltroner\/reltroner-studio-resource@[a-f0-9]{40}\/landing-page-resource\/videos\/beluftner-part1\.mp4"/);
+  assert.match(output, /<video controls src="\/resource-assets\/[a-f0-9]{64}\/videos\/beluftner-part1\.mp4"/);
+  assert.doesNotMatch(output, /jsdelivr/i);
   assert.equal((output.match(/<video/g) || []).length, 1);
   assert.doesNotMatch(output, /<source|Your browser does not support|style=/);
   assert.match(output, /data-native-video data-media-state="loading"/);

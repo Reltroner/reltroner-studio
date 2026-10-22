@@ -2,10 +2,9 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
+import { requireResourceUrl } from '@/lib/assets/resource-manifest';
 
 const RESOURCE_COMMIT = '50b259bf8db5b8c04baf0c0cb9b1cf11a32e9c70';
-
-const IMAGE_ROOT = `https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@${RESOURCE_COMMIT}/landing-page-resource/images`;
 
 const workSamples = [
   {
@@ -14,7 +13,7 @@ const workSamples = [
     title: 'Directory Listing App Development',
     summary:
       'Certificate of completion awarded to Rei Reltroner by CODEPOLITAN on March 10, 2025, for successfully completing the online course "Belajar Membangun Aplikasi Studi Kasus Directory Listing App." The course focused on practical application development through a directory listing case study.',
-    src: `${IMAGE_ROOT}/direktori-listing.webp`,
+    src: requireResourceUrl('/images/direktori-listing.webp', RESOURCE_COMMIT),
     alt: 'CODEPOLITAN course completion certificate awarded to Rei Reltroner for completing the Directory Listing App development course on March 10, 2025.',
   },
   {
@@ -23,7 +22,7 @@ const workSamples = [
     title: 'YouTube Career Blueprint',
     summary:
       'Certificate of participation awarded to Rei Reltroner for attending a national workshop organized by Kelas DiGi, titled "YouTube Career Blueprint: Bangun Personal Brand, Skill, dan Peluang Karier lewat YouTube." The workshop explored personal branding, skill development, and career opportunities through YouTube.',
-    src: `${IMAGE_ROOT}/rei-kelas-digi.webp`,
+    src: requireResourceUrl('/images/rei-kelas-digi.webp', RESOURCE_COMMIT),
     alt: 'Kelas DiGi national workshop participation certificate awarded to Rei Reltroner for the YouTube Career Blueprint workshop.',
   },
 ] as const;

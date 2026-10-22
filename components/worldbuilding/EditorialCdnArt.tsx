@@ -2,6 +2,7 @@
 
 import Image from 'next/image';
 import { useState } from 'react';
+import { requireResourceUrl } from '@/lib/assets/resource-manifest';
 
 const sourceCommit = '994ce2c6b09e4f16e264a0fce4d1b5f267eca05a';
 const artwork = {
@@ -30,7 +31,7 @@ type Props = {
 export default function EditorialCdnArt({ asset, label = 'Concept illustration · Not canonical artwork', ratio = '4 / 3', caption = true, sizes = '(max-width: 850px) calc(100vw - 40px), (max-width: 1264px) 42vw, 480px', priority = false }: Props) {
   const [failed, setFailed] = useState(false);
   const [filename, width, height, alt] = artwork[asset];
-  const src = `https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@${sourceCommit}/landing-page-resource/images/${filename}`;
+  const src = requireResourceUrl(`/images/${filename}`, sourceCommit);
 
   return <figure className="studio-art" style={{ aspectRatio: ratio }} data-editorial-art={asset} aria-description={caption ? label : undefined}>
     <div style={{ position: 'absolute', inset: 0 }}>

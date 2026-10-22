@@ -5,6 +5,7 @@ import { remark } from "remark";
 import type { Nodes } from "mdast";
 
 export function isDirectVideoUrl(src: string) {
+  if (String(src).startsWith("/resource-assets/")) return /\.(mp4|webm|ogg|mov)$/i.test(src);
   try { return /\.(mp4|webm|ogg|mov)$/i.test(new URL(src).pathname); } catch { return false; }
 }
 
@@ -43,14 +44,18 @@ export function normalizeVideoSource(src: string, provider?: string) {
 
 /** HTTPS, exact origins, exact player paths; no arbitrary origin merely because it ends in .mp4. */
 export function isSafeEmbedUrl(src: string) {
+  // Repository videos are embeddable only as verified same-origin export files.
+  if (String(src).startsWith("/resource-assets/")) {
+    const resource = resolveResourceAsset(src);
+    return !!resource && resource.logicalPath.startsWith("/videos/") && resource.immutableUrl === src && isDirectVideoUrl(src);
+  }
   try {
     const url = new URL(src);
     if (url.protocol !== "https:" || url.username || url.password || url.port) return false;
     if (url.hostname === "www.youtube-nocookie.com") return /^\/embed\/[A-Za-z0-9_-]{11}$/.test(url.pathname) && !url.search;
     if (url.hostname === "drive.google.com") return /^\/file\/d\/[A-Za-z0-9_-]+\/preview$/.test(url.pathname) && !url.search;
     if (url.hostname === "player.vimeo.com") return /^\/video\/\d+$/.test(url.pathname) && !url.search;
-    const resource = resolveResourceAsset(src);
-    return !!resource && resource.logicalPath.startsWith("/videos/") && resource.immutableUrl === src && isDirectVideoUrl(src);
+    return false;
   } catch { return false; }
 }
 

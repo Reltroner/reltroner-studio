@@ -1,4 +1,4 @@
-// Local source tests only: no new dependency and no changes to production resolution.
+// Source tooling and tests only: no new dependency or change to application resolution.
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';

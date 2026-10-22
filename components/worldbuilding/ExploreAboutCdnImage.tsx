@@ -1,4 +1,5 @@
 import type { CSSProperties, ReactNode } from 'react';
+import { requireResourceUrl } from '@/lib/assets/resource-manifest';
 
 const sourceCommit = 'a79754137f1c4db46c869e0b7184e1567a1a402d';
 const artwork = {
@@ -40,7 +41,7 @@ export default function ExploreAboutCdnImage({ asset, className, priority = fals
     <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
       <div data-media-viewport style={{ position: 'relative', flex: '1 1 0%', minHeight: 0, overflow: 'hidden' }}>
         <img
-          src={`https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@${sourceCommitOverrides[asset] ?? sourceCommit}/landing-page-resource/images/${filename}`}
+          src={requireResourceUrl(`/images/${filename}`, sourceCommitOverrides[asset] ?? sourceCommit)}
           width={width}
           height={height}
           alt={alt}

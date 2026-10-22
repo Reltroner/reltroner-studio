@@ -1,6 +1,6 @@
 {
-  "sourceSha": "50b259bf8db5b8c04baf0c0cb9b1cf11a32e9c70",
-  "provenance": "Read-only local Git tree; resource delivery and deployment automation require separate verification.",
+  "sourceSha": "628cdb6b987845d4b6436cc264e0348bb46ee21f",
+  "provenance": "Verified read-only Git tree at one immutable resource commit.",
   "resources": [
     {
       "path": "landing-page-resource/files/commandpalette alternatif",
@@ -58,6 +58,11 @@
       "bytes": 295794
     },
     {
+      "path": "landing-page-resource/images/WorldBuilding.webp",
+      "blobSha": "1b0ff5af30cfa26f37500eb7ec50bfaa2a87d385",
+      "bytes": 88896
+    },
+    {
       "path": "landing-page-resource/images/a-lifelong-build.webp",
       "blobSha": "9e9cd2acbf7b8e3122f1052cf71e65a31c1b4083",
       "bytes": 110328
@@ -71,6 +76,31 @@
       "path": "landing-page-resource/images/abolish-feudalism-inferiority.webp",
       "blobSha": "fc309f2cc02479482605ec4bde85514f044bb68f",
       "bytes": 165762
+    },
+    {
+      "path": "landing-page-resource/images/about-page-26.webp",
+      "blobSha": "5ea9c8008f1276fe56cfbfe78a4bfbe220b6cbf4",
+      "bytes": 739032
+    },
+    {
+      "path": "landing-page-resource/images/about-page-28.webp",
+      "blobSha": "4f072dfd90a38cd484d2eb98434c13547a2f31b8",
+      "bytes": 796116
+    },
+    {
+      "path": "landing-page-resource/images/about-page-29.webp",
+      "blobSha": "82805eb6713693919baafc9f7c1a768e7bad5dec",
+      "bytes": 574442
+    },
+    {
+      "path": "landing-page-resource/images/about-page-30.webp",
+      "blobSha": "74834caf70c2ec5355c1973dff58b57c1e84feec",
+      "bytes": 741012
+    },
+    {
+      "path": "landing-page-resource/images/about-rei-27.webp",
+      "blobSha": "d1cd4b7fda3b1c017106627a3b99d01ea65381f2",
+      "bytes": 44946
     },
     {
       "path": "landing-page-resource/images/abyss-d.webp",
@@ -213,11 +243,6 @@
       "bytes": 127670
     },
     {
-      "path": "landing-page-resource/images/asthortera_identity.webp",
-      "blobSha": "9a736e2e8904bddd5dec46358bcd25b702e80001",
-      "bytes": 70526
-    },
-    {
       "path": "landing-page-resource/images/asthortera-12-orbiting-moons.webp",
       "blobSha": "194c80b813a4e553555edc16d222e727bfb44862",
       "bytes": 131944
@@ -301,6 +326,11 @@
       "path": "landing-page-resource/images/asthortera-world-map-progress.webp",
       "blobSha": "15ffe3d019328155a3465ab03774cd77177fd174",
       "bytes": 401052
+    },
+    {
+      "path": "landing-page-resource/images/asthortera_identity.webp",
+      "blobSha": "9a736e2e8904bddd5dec46358bcd25b702e80001",
+      "bytes": 70526
     },
     {
       "path": "landing-page-resource/images/astortera-enterprise.webp",
@@ -723,14 +753,14 @@
       "bytes": 196874
     },
     {
-      "path": "landing-page-resource/images/cistheta_identity.webp",
-      "blobSha": "64a55215b85f826d5fcaa54e5492bf0b2e3cec58",
-      "bytes": 61742
-    },
-    {
       "path": "landing-page-resource/images/cistheta-pyramid.webp",
       "blobSha": "af2b0054fdba2435c964a8a2dda06091b8be25a7",
       "bytes": 162044
+    },
+    {
+      "path": "landing-page-resource/images/cistheta_identity.webp",
+      "blobSha": "64a55215b85f826d5fcaa54e5492bf0b2e3cec58",
+      "bytes": 61742
     },
     {
       "path": "landing-page-resource/images/civilian-starliner.webp",
@@ -818,19 +848,44 @@
       "bytes": 84530
     },
     {
-      "path": "landing-page-resource/images/cosmeilia_identity.webp",
-      "blobSha": "0acd2879e5f59ae7b783263f0bd76387f219b386",
-      "bytes": 19696
-    },
-    {
       "path": "landing-page-resource/images/cosmeilia-piramid.webp",
       "blobSha": "8a830dc561c27d87776fadfea577f5734099c6ea",
       "bytes": 160690
     },
     {
+      "path": "landing-page-resource/images/cosmeilia_identity.webp",
+      "blobSha": "0acd2879e5f59ae7b783263f0bd76387f219b386",
+      "bytes": 19696
+    },
+    {
       "path": "landing-page-resource/images/creative-lore-bible.webp",
       "blobSha": "d67256f09ac67edc58d8a0d10e7352d721ce698c",
       "bytes": 67424
+    },
+    {
+      "path": "landing-page-resource/images/creators-page-12a.webp",
+      "blobSha": "bed7432756f27ec43406ea04ced4da47253ac54e",
+      "bytes": 759176
+    },
+    {
+      "path": "landing-page-resource/images/creators-page-12b.webp",
+      "blobSha": "cf2a28c917769b8559745e2269b9c892aee1de64",
+      "bytes": 596506
+    },
+    {
+      "path": "landing-page-resource/images/creators-page-13.webp",
+      "blobSha": "6ac49190ec2d51eb503e5fd5c37470fa1c6b5ea2",
+      "bytes": 871022
+    },
+    {
+      "path": "landing-page-resource/images/creators-page-14.webp",
+      "blobSha": "d1988e67c5975414f4c5468b3a3b6795117a48fd",
+      "bytes": 677898
+    },
+    {
+      "path": "landing-page-resource/images/creators-page-15.webp",
+      "blobSha": "5f5e3926cf11c26e5cf580c61303c5a29a4971f5",
+      "bytes": 536076
     },
     {
       "path": "landing-page-resource/images/crosswalk-dictionary-reltronic-deptic.webp",
@@ -1033,14 +1088,14 @@
       "bytes": 28012
     },
     {
-      "path": "landing-page-resource/images/depeisit_identity.webp",
-      "blobSha": "847c2678815627dc4206b9b9652e729bf07b90d9",
-      "bytes": 74126
-    },
-    {
       "path": "landing-page-resource/images/depeisit-piramid.webp",
       "blobSha": "1936d5f2c93ca9fdad8622130a5c5e1b5c720b8c",
       "bytes": 161938
+    },
+    {
+      "path": "landing-page-resource/images/depeisit_identity.webp",
+      "blobSha": "847c2678815627dc4206b9b9652e729bf07b90d9",
+      "bytes": 74126
     },
     {
       "path": "landing-page-resource/images/diplomatic-ark-shuttle.webp",
@@ -1126,6 +1181,26 @@
       "path": "landing-page-resource/images/existential-corrosion.webp",
       "blobSha": "6a8bd46345e3f7c184a2d71dac2a8b4a75972348",
       "bytes": 114034
+    },
+    {
+      "path": "landing-page-resource/images/explore-page-22.webp",
+      "blobSha": "cfec0f42c34c821f5c30f619f98466207c9cb042",
+      "bytes": 589886
+    },
+    {
+      "path": "landing-page-resource/images/explore-page-23.webp",
+      "blobSha": "234572e795d919d1fd755a85e1042af472ddc94c",
+      "bytes": 685712
+    },
+    {
+      "path": "landing-page-resource/images/explore-page-24.webp",
+      "blobSha": "188de2c49c9d5bbd152b1918b954fb32f455cff6",
+      "bytes": 825676
+    },
+    {
+      "path": "landing-page-resource/images/explore-page-25.webp",
+      "blobSha": "b25e6d977df3bc04cdce85345a0ed33580cfc082",
+      "bytes": 382134
     },
     {
       "path": "landing-page-resource/images/external-creator-handbook.webp",
@@ -1401,6 +1476,86 @@
       "path": "landing-page-resource/images/history-timeline1.webp",
       "blobSha": "1fad74fcc6871b5589fc4ccef9b1c9698f3217b4",
       "bytes": 217200
+    },
+    {
+      "path": "landing-page-resource/images/home-page-1.webp",
+      "blobSha": "2ff694f6e1f7b010195c43fcfa8e8292cb04c430",
+      "bytes": 361498
+    },
+    {
+      "path": "landing-page-resource/images/home-page-10.webp",
+      "blobSha": "a027a67d430dd403cbee62029957ec9abaa3072e",
+      "bytes": 227998
+    },
+    {
+      "path": "landing-page-resource/images/home-page-11.webp",
+      "blobSha": "532d959e60215c2d928d59413a5d8df928c17d7b",
+      "bytes": 97954
+    },
+    {
+      "path": "landing-page-resource/images/home-page-2.webp",
+      "blobSha": "7e34124c54d8e1afae0ee506b1ee1366c66df8c7",
+      "bytes": 192388
+    },
+    {
+      "path": "landing-page-resource/images/home-page-3.webp",
+      "blobSha": "82a741277d6667f75794c787b68dc01a5593e3ad",
+      "bytes": 377748
+    },
+    {
+      "path": "landing-page-resource/images/home-page-4.webp",
+      "blobSha": "ea788807efd3ef37ea810ed487e5ff8d8342098e",
+      "bytes": 133942
+    },
+    {
+      "path": "landing-page-resource/images/home-page-501.webp",
+      "blobSha": "5ea303253aa8f8aa90d30779fc0a71b0dc7ee064",
+      "bytes": 278474
+    },
+    {
+      "path": "landing-page-resource/images/home-page-502.webp",
+      "blobSha": "841ef8bf6932babe52841e805d0ec25739b10ac1",
+      "bytes": 277466
+    },
+    {
+      "path": "landing-page-resource/images/home-page-503.webp",
+      "blobSha": "c56a8494aa185285eecd62ac8a288f16bfa925b1",
+      "bytes": 311668
+    },
+    {
+      "path": "landing-page-resource/images/home-page-504.webp",
+      "blobSha": "7259a6db6eb18dc18495b783c89f3fb2e982a3cb",
+      "bytes": 356024
+    },
+    {
+      "path": "landing-page-resource/images/home-page-505.webp",
+      "blobSha": "cc00be04c743edae96f865f18bd0f02204d25787",
+      "bytes": 148016
+    },
+    {
+      "path": "landing-page-resource/images/home-page-506.webp",
+      "blobSha": "276a1841b25d9c86f87006c0d0a59bc4dd9f42ee",
+      "bytes": 407704
+    },
+    {
+      "path": "landing-page-resource/images/home-page-6.webp",
+      "blobSha": "4be2af359acc8a52e7ed731ee42bf487e99a186d",
+      "bytes": 305470
+    },
+    {
+      "path": "landing-page-resource/images/home-page-7.webp",
+      "blobSha": "3c56ec3637e19010adab004e7ccb50aef99c637b",
+      "bytes": 158352
+    },
+    {
+      "path": "landing-page-resource/images/home-page-8.webp",
+      "blobSha": "2a028ff8eaf0e8bc5862ad36e0ae9cdb2964bc6a",
+      "bytes": 149612
+    },
+    {
+      "path": "landing-page-resource/images/home-page-9.webp",
+      "blobSha": "2fd30a37a4aecf07311f0d401c5b746026c012c5",
+      "bytes": 415756
     },
     {
       "path": "landing-page-resource/images/how-the-abyss-feeds.webp",
@@ -2228,6 +2383,36 @@
       "bytes": 140848
     },
     {
+      "path": "landing-page-resource/images/readers-page-16.webp",
+      "blobSha": "1dd3204372a4cea536fea1e28adc405f3e6c3164",
+      "bytes": 771126
+    },
+    {
+      "path": "landing-page-resource/images/readers-page-17.webp",
+      "blobSha": "f3686f4ee209d7fde0cf1cba2102a63fa4592356",
+      "bytes": 677054
+    },
+    {
+      "path": "landing-page-resource/images/readers-page-18.webp",
+      "blobSha": "fe06e5c7fbae67043626e0915ec68a7768ff1d7c",
+      "bytes": 772530
+    },
+    {
+      "path": "landing-page-resource/images/readers-page-19.webp",
+      "blobSha": "8980b2c7539a52f9237ba8ae272e36550e08cf82",
+      "bytes": 516928
+    },
+    {
+      "path": "landing-page-resource/images/readers-page-20.webp",
+      "blobSha": "2073f0f566b2877ac473b5c352482541097560e9",
+      "bytes": 891754
+    },
+    {
+      "path": "landing-page-resource/images/readers-page-21.webp",
+      "blobSha": "a5972d9a88e77ad7d1c8a9dde4cf211bf1c05723",
+      "bytes": 732140
+    },
+    {
       "path": "landing-page-resource/images/real-cost-hidden-in-erp.webp",
       "blobSha": "045a31ce834a06723acd274e88f5f872931dc731",
       "bytes": 181702
@@ -2468,6 +2653,11 @@
       "bytes": 305244
     },
     {
+      "path": "landing-page-resource/images/reltroner-smooth.webp",
+      "blobSha": "97bc9220d6f32dc10a24674e173404028ee064c0",
+      "bytes": 361852
+    },
+    {
       "path": "landing-page-resource/images/reltroner-sparkpad.webp",
       "blobSha": "5af0d3cba802258c40a54d02ab8f14981af47e25",
       "bytes": 149502
@@ -2486,6 +2676,11 @@
       "path": "landing-page-resource/images/reltroner-studio-chronology-calendar-system.webp",
       "blobSha": "cbbb5d20bee29c928db3671d8c4b93a84f392c69",
       "bytes": 163490
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-studio-communication-framework.webp",
+      "blobSha": "637f79859c393b747debd8e49b05c6e10b9e6cb7",
+      "bytes": 547270
     },
     {
       "path": "landing-page-resource/images/reltroner-studio-master-source-of-truth.webp",
@@ -2741,11 +2936,6 @@
       "path": "landing-page-resource/images/reltronland2.webp",
       "blobSha": "62a6a6645475f7769de3732e8864b6d8c058b476",
       "bytes": 273304
-    },
-    {
-      "path": "landing-page-resource/images/reltronland3.webp",
-      "blobSha": "d40cca234f910f4ee2c872a823b317333e803438",
-      "bytes": 179320
     },
     {
       "path": "landing-page-resource/images/reltronland4.webp",
@@ -3381,11 +3571,6 @@
       "path": "landing-page-resource/images/worldbuilding-as-civilizational-blueprint.webp",
       "blobSha": "8e1a3f6b3238140512e4d02773540be3a9c47802",
       "bytes": 162136
-    },
-    {
-      "path": "landing-page-resource/images/WorldBuilding.webp",
-      "blobSha": "1b0ff5af30cfa26f37500eb7ec50bfaa2a87d385",
-      "bytes": 88896
     },
     {
       "path": "landing-page-resource/images/worlds-for-enthusiasts.webp",

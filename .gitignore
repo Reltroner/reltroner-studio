@@ -34,3 +34,6 @@ build
 ai-agent-spec/
 
 next-env.d.ts
+# Build-generated first-party resource assets (npm run assets:sync)
+/lib/assets/generated/
+/public/resource-assets/
