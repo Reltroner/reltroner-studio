@@ -43,7 +43,7 @@ export default function ContactInquiryForm({ topic, onTopicChange }: { topic: Co
       } catch { invalid('context_url', 'Enter a valid public HTTP or HTTPS URL without credentials.'); return; }
     }
     // The optional context remains part of the bounded message; provider fields stay unchanged.
-    const checked = validateInquiry({ name, email, message: message.trim() + relatedLink, intent: topic.intent, privacyAcknowledged, website: new FormData(event.currentTarget).get('website') });
+    const checked = validateInquiry({ name, email, message: message.trim() + relatedLink, intent: topic.title, privacyAcknowledged, website: new FormData(event.currentTarget).get('website') });
     if (!checked.input) { invalid(checked.field || '', checked.error!); return; }
     if (message.trim().length < 20) { invalid('message', 'Describe your inquiry in at least 20 characters before adding a related link.'); return; }
     const signature = JSON.stringify(checked.input);

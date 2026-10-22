@@ -13,7 +13,7 @@ test('newsletter needs separate explicit opt-in and validates bounded email', ()
   assert.equal(validateSubscription({ email: ' Reader@Example.test ', consent: true }).input.email, 'reader@example.test');
 });
 
-const valid = { intent: 'creative', name: 'Example Reader', email: 'reader@example.test', message: 'A synthetic inquiry for local validation.', privacyAcknowledged: true, website: '' };
+const valid = { intent: 'Worldbuilding & ideas', name: 'Example Reader', email: 'reader@example.test', message: 'A synthetic inquiry for local validation.', privacyAcknowledged: true, website: '' };
 test('contact rejects bad intent, honeypot and oversize inquiry; never enrolls newsletter', () => {
   assert.ok(validateInquiry(valid).input);
   for (const data of [{ ...valid, intent: 'admin' }, { ...valid, website: 'spam.test' }, { ...valid, message: 'x'.repeat(4001) }, { ...valid, privacyAcknowledged: false }, { ...valid, email: 'javascript:alert(1)' }]) assert.equal(validateInquiry(data).input, undefined);

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { submitContact } from '../lib/contact/web3forms.client.ts';
 import { contactService } from '../lib/contact/service.ts';
 
-const input = { intent: 'creative', name: 'Synthetic Fixture', email: 'synthetic-web3@example.test', message: 'Synthetic fixture only; never deliver this inquiry.', privacyAcknowledged: true, website: '' };
+const input = { intent: 'Asthortera & stories', name: 'Synthetic Fixture', email: 'synthetic-web3@example.test', message: 'Synthetic fixture only; never deliver this inquiry.', privacyAcknowledged: true, website: '' };
 const accessKey = '78261eea-8f8b-4381-83c6-79fa7120f1cf';
 const options = { accessKey, enabled: true };
 const originalWindow = globalThis.window;

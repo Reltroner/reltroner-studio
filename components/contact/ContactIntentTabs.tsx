@@ -1,11 +1,12 @@
 'use client';
-import type { ContactIntent } from '@/lib/contact/types';
+import { CONTACT_INTENT_BY_TOPIC } from '@/lib/contact/types';
 
+// `title` is the canonical intent: the form submits it unchanged as Web3Forms `intent`.
 export const contactTopics = [
-  { id:'worldbuilding', title:'Worldbuilding & ideas', description:'Creative questions, frameworks, feedback', intent:'creative' as ContactIntent, prompt:'What’s the creative question you’re exploring?', hint:'Have a character, place, or creative system you’re thinking about? Share one question and a little context.' },
-  { id:'story', title:'Asthortera & stories', description:'Lore, reading, interpretation', intent:'creative' as ContactIntent, prompt:'What caught your curiosity in Asthortera?', hint:'Share the story, civilization, or worldbuilding question you’d like to explore. Avoid sharing private drafts.' },
-  { id:'learning', title:'Learning & LMS', description:'Lessons, questions, suggestions', intent:'learning' as ContactIntent, prompt:'What are you trying to learn or understand?', hint:'Tell me which learning material or experience you mean, and what you’re wondering about.' },
-  { id:'professional', title:'Collaboration & engineering', description:'Relevant work or technical inquiries', intent:'engineering' as ContactIntent, prompt:'What do you need, and what outcome are you hoping for?', hint:'Share the need, relevant context or constraints, and the outcome you hope for. Say whether this is exploratory, feedback, collaboration, or a commercial inquiry. Keep it non-confidential.' },
+  { id:'worldbuilding', title:CONTACT_INTENT_BY_TOPIC.worldbuilding, description:'Creative questions, frameworks, feedback', prompt:'What’s the creative question you’re exploring?', hint:'Have a character, place, or creative system you’re thinking about? Share one question and a little context.' },
+  { id:'story', title:CONTACT_INTENT_BY_TOPIC.story, description:'Lore, reading, interpretation', prompt:'What caught your curiosity in Asthortera?', hint:'Share the story, civilization, or worldbuilding question you’d like to explore. Avoid sharing private drafts.' },
+  { id:'learning', title:CONTACT_INTENT_BY_TOPIC.learning, description:'Lessons, questions, suggestions', prompt:'What are you trying to learn or understand?', hint:'Tell me which learning material or experience you mean, and what you’re wondering about.' },
+  { id:'professional', title:CONTACT_INTENT_BY_TOPIC.professional, description:'Relevant work or technical inquiries', prompt:'What do you need, and what outcome are you hoping for?', hint:'Share the need, relevant context or constraints, and the outcome you hope for. Say whether this is exploratory, feedback, collaboration, or a commercial inquiry. Keep it non-confidential.' },
 ] as const;
 export type ContactTopic = typeof contactTopics[number];
 

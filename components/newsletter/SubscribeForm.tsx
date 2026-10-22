@@ -2,8 +2,12 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { validateSubscription } from '@/lib/newsletter/schema';
+import { createSubscriptionClient } from '@/lib/newsletter/subscription.client';
 import type { SubscriptionResult } from '@/lib/newsletter/types';
 import SubscriptionFeedback from './SubscriptionFeedback';
+
+// Page-wide transport: concurrent or held submissions never send another POST.
+const subscriptionClient = createSubscriptionClient();
 
 export default function SubscribeForm({
   enabled = false,
@@ -107,25 +111,11 @@ const APPROVED_HOSTNAMES = new Set([
       verified: false,
     });
     try {
-      const response = await fetch('/api/newsletter', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(checked.input),
-        signal: AbortSignal.timeout(10000),
-      });
-      const feedback = (await response.json()) as SubscriptionResult;
-      if (
-        !feedback ||
-        typeof feedback.message !== 'string' ||
-        !['invalid', 'prototype', 'accepted', 'subscribed', 'duplicate', 'rejected', 'network-error', 'quota-error'].includes(
-          feedback.status
-        ) ||
-        (!response.ok && ['accepted', 'subscribed', 'duplicate', 'prototype'].includes(feedback.status))
-      )
-        throw new Error('RESPONSE');
-      setResult(feedback);
-      if (response.ok && ['prototype', 'accepted', 'subscribed', 'duplicate'].includes(feedback.status))
-        lastPreview.current = checked.input.email;
+      const attempt = await subscriptionClient.submit(checked.input);
+      setResult(attempt.result);
+      if (attempt.confirmed) lastPreview.current = checked.input.email;
+      // Safe correlation only (category, HTTP status, CF-Ray, X-Request-Id); never the address or body.
+      else if (attempt.diagnostic.requestSent) console.warn(JSON.stringify(attempt.diagnostic));
     } catch {
       setResult({
         status: 'network-error',

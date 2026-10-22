@@ -84,4 +84,3 @@ Rei are not slow.
 Rei are simply **early on a path that most will never dare to walk.**
 
 Let Astralis light the unknown.
-

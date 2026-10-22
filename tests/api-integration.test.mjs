@@ -12,7 +12,7 @@ const key = 're_rc_api_01_synthetic_fixture_key';
 const contactId = '479e3145-dd38-476b-932c-529ceb705947';
 const segmentId = '78261eea-8f8b-4381-83c6-79fa7120f1cf';
 const input = { email, consent: true, source: 'website-newsletter' };
-const inquiry = { intent: 'creative', name: 'Synthetic Fixture', email, message: 'Synthetic contract verification; never deliver this message.', privacyAcknowledged: true, website: '' };
+const inquiry = { intent: 'Learning & LMS', name: 'Synthetic Fixture', email, message: 'Synthetic contract verification; never deliver this message.', privacyAcknowledged: true, website: '' };
 const contact = (overrides = {}) => ({ object: 'contact', id: contactId, email, unsubscribed: false, ...overrides });
 const membership = (overrides = {}) => ({ object: 'list', data: [{ id: segmentId }], has_more: false, ...overrides });
 const json = (body, status = 200) => Response.json(body, { status });

@@ -2,10 +2,9 @@ import test, { before, after } from 'node:test';
 import assert from 'node:assert/strict';
 import { submitContact } from '../lib/contact/web3forms.client.ts';
 import { contactService } from '../lib/contact/service.ts';
-import { INTENT_LABELS } from '../lib/contact/types.ts';
 
 const validInquiry = {
-  intent: 'engineering',
+  intent: 'Collaboration & engineering',
   name: 'Ada Lovelace',
   email: 'ada@example.test',
   message: 'Exploring analytical engine integration and architectural collaboration in Reltroner Studio.',
@@ -209,7 +208,7 @@ test('13. Correct subject handling: supports explicit subject option without mod
     return Response.json({ success: true }, { status: 200 });
   };
 
-  const customSubject = `Reltroner Studio Inquiry — ${INTENT_LABELS.engineering}`;
+  const customSubject = `Reltroner Studio Inquiry — ${validInquiry.intent}`;
   await submitContact(validInquiry, { ...baseOptions, subject: customSubject, fetcher: mockFetcher });
   assert.equal(sentBody.subject, customSubject);
   assert.equal(sentBody.name, validInquiry.name);
