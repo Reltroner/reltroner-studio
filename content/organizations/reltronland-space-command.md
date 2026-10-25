@@ -364,6 +364,7 @@ while:
                                                           sovereign
                                                           interstellar
                                                           operations
+
   -------------------------------------------------------------------------
 
 ### Three different questions
@@ -524,6 +525,7 @@ become doctrinally explicit.
 
   Primary priority        Stability               Civilizational survival
                                                   and evolution
+
   -----------------------------------------------------------------------
 
 RSC did not reject ethics.

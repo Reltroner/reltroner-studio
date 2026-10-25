@@ -1016,6 +1016,7 @@ The three fronts therefore amplify one another.
                                                                         RSC,
                                                                         Astralis-aligned
                                                                         action
+
   ----------------------------------------------------------------------------------------
 
 The categories overlap, but they should not be collapsed into one
@@ -1859,6 +1860,7 @@ Reltronian understanding**.
   **Nytherion Abyss**     "Your understanding of  Existential /
                           existence may be        natural-law
                           insufficient."          
+
   -----------------------------------------------------------------------
 
 These pressures overlap, but they should not be collapsed into a single

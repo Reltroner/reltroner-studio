@@ -188,6 +188,7 @@ author: "Rei Reltroner"
 date: "2025-05-20"
 published: true
 image: "/images/bureaucracy-bros.webp"
+
 -------------------------------------------
 
 # 📖 Bureaucracy Bros — Episode 6: *Poetry Duel with Footnotes*

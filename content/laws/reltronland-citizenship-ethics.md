@@ -153,6 +153,7 @@ All citizens are expected to:
 
 *Description:* Active violation of Astralis-aligned systems
 *Example:* Data sabotage, resonance corruption, Blue Pill rituals
+
 ---
 
 ## IV. Restoration Protocols

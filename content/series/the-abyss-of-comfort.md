@@ -478,6 +478,7 @@ Delwyn captures the Mayor of Leferlint but keeps him alive for his knowledge.
 The mayor reveals that Leferlint has become an emotional sedation system supported by compromised institutions.
 ### Bridge
 The conspiracy points beyond the city toward national power.
+
 ---
 ## SEASON 3 — National Conspiracy in Pencilfania
 **Status:** Established canon  
@@ -497,6 +498,7 @@ The mayor is assassinated. Delwyn survives a tactical assault.
 - Pencilfania’s institutions defend the corrupted narrative.
 ### Bridge
 Delwyn disappears from the immediate reach of Pencilfania’s institutions and moves toward Scotpaders, a province of Stelpadland, where the next phase of his underground investigation takes place.
+
 ---
 ## SEASON 4 — The Underground Years
 Status: Established canon  
@@ -517,6 +519,7 @@ Action, intelligence, and diplomacy can now form a team—but only after the cha
 ### Continuity Note
 Season 4 is intentionally split between two distinct geographic and narrative environments. Scotpaders, Stelpadland is the true underground setting where Delwyn first meets Sterling and where their transactional partnership develops. Paintreist, Pencilfania is a later Season 4 destination where Delwyn and Sterling encounter Redley in a public metropolitan setting. Paintreist is therefore not the underground location of Season 4 and must not be described as such elsewhere in the series architecture.
 At this point, Delwyn and Sterling remain independent actors. Their contact with Reltronland begins only through Redley’s appearance at the end of Season 4; they are not yet Reltronland operatives, institutional partners, or beneficiaries of Reltronland’s direct influence.
+
 ---
 ## SEASON 5 — Formation of the Bounty Hunters
 **Status:** Established canon  
@@ -533,6 +536,7 @@ They formally become an anti-Henchoway bounty hunter and investigative team.
 Delwyn transitions from isolated avenger to team operative.
 ### Bridge
 The team can investigate systems rather than only individuals.
+
 ---
 ## SEASON 6 — The Reality Beneath Pencilfania
 **Status:** Established canon  
@@ -552,6 +556,7 @@ Henchoway supports:
 The team recognizes that lawful markets can perform the work of covert infiltration.
 ### Bridge
 The conflict becomes infrastructure and network warfare.
+
 ---
 ## SEASON 7 — Anti-Network Warfare
 **Status:** Established canon  
@@ -569,6 +574,7 @@ The team discovers the Pencilfania network is only a regional branch extending i
 Sterling’s homeland becomes part of the conflict.
 ### Bridge
 The war expands into transnational systems.
+
 ---
 ## SEASON 8 — The First Victory of Nytherion
 **Status:** Established canon  
@@ -584,6 +590,7 @@ Redley states:
 The world functions normally, but its direction has shifted.
 ### Bridge
 Tactical resistance has failed. The next response must become research.
+
 ---
 ## SEASON 9 — Shadow Research Initiative
 **Status:** Established canon  
@@ -610,6 +617,7 @@ The team gathers:
 Phase 1 succeeds but remains incomplete.
 ### Bridge
 The research requires Reltronland’s institutional resources.
+
 ---
 ## SEASON 10 — The Reltronland Research Initiative
 **Status:** Established canon with later Larson expansion  
@@ -774,6 +782,7 @@ The investigation expands into:
 The Ministry of Trade accepts the findings.
 ### Bridge
 The audience must now see the human consequences of the economic victory.
+
 ---
 ## SEASON 11 — The First Reveal of Nytherion Abyss
 **Status:** Established canon  
@@ -801,6 +810,7 @@ Nytherion gradually removes:
 Henchoway reports Reltronland’s accepted research to Kamila. She remains calm.
 ### Bridge
 The story must distinguish Nytherion itself from Henchoway’s interpretation of it.
+
 ---
 ## SEASON 12 — The Philosophy of Nytherion
 **Status:** Established canon  
@@ -829,6 +839,7 @@ Nytherion cannot permanently erase Astralis.
 ```
 ### Bridge
 The team returns to operations knowing the enemy is larger than one organization.
+
 ---
 ## SEASON 13 — Pasgerflit Discovery Arc
 **Status:** Established canon  
@@ -858,6 +869,7 @@ Barry explains:
 The team realizes influence travels through ordinary mobility systems.
 ### Bridge
 Pasgerflit must be investigated without treating movement itself as the enemy.
+
 ---
 ## SEASON 14 — Pasgerflit Anti-Network Warfare
 **Status:** Established canon  
@@ -892,6 +904,7 @@ The team asks:
 > **How do we stop Henchoway from turning strengths into vulnerabilities?**
 ### Bridge
 They return to Reltronland aboard **Pasgerflit Air Flight PA1542**.
+
 ---
 ## SEASON 15 — The Altair Consultation Arc
 **Status:** Latest structured canon  
@@ -1085,6 +1098,7 @@ Divided into:
 - Fractured
 #### Project Roadglass Allies
 Reltronland provides research, intelligence, diplomacy, evidence discipline, and infrastructure analysis without replacing Moreg sovereignty.
+
 ---
 ### ACT I — The Cascade
 #### Days 0–3
@@ -1135,6 +1149,7 @@ Luke evacuates civilians but fails to reclaim the main circuit.
 #### Midpoint
 The national circuit forms a vast spiral.
 Karler understands the battlefield existed before the war became visible.
+
 ---
 ### ACT III — The Impossible Choice
 #### Days 10–15
@@ -1272,6 +1287,7 @@ The deeper problem is:
 ---
 # 8. Forward Narrative Architecture
 The following seasons are planned macro-architecture. Their episode-level details remain open to later expansion.
+
 ---
 ## SEASON 18 — The Reltronland Reckoning
 **Status:** Planned forward architecture  
@@ -1376,6 +1392,7 @@ The conflict involves:
 ### Expected Outcome
 Season 20 exposes the institutional and scientific architecture of the crisis but does not fully resolve it.
 It leads into a national synthesis crisis.
+
 ---
 ## SEASON 21 — The Synthesis Crisis
 **Status:** Planned Taramistry climax  
@@ -2150,6 +2167,7 @@ Then:
 The site is no longer merely beneath Stillwater.
 
 It may contain an independent ancient path toward understanding return, origin, and dimensional anchoring.
+
 ---
 ## SEASON 29 — No Flag, No Immunity
 **Status:** Planned Stillwater public-scrutiny and legitimacy arc  
@@ -5756,6 +5774,7 @@ Astralis Pinnacle’s long-term concern with civilizational survival
 
 The relationship is best understood as a rough 50/50 narrative balance, not a literal numerical calculation:
 
+~~~text
 Delwyn’s own capability
 +
 Sterling’s intelligence
@@ -5767,6 +5786,7 @@ Reltronland’s institutional capacity
 Astralis-level strategic necessity
 =
 Delwyn’s extraordinary trajectory
+~~~
 
 Reltronland does not create Delwyn’s competence.
 
@@ -5831,6 +5851,7 @@ Season 37 forces him to accept that the next correct action may be to stop at a 
 Season 38 confronts him with the dignity and uncertainty of a first personal audience with Valethra, without making him a chosen hero.
 Season 39 teaches that legitimate disagreement is not sabotage and that an independent witness does not become a planetary policymaker.
 Season 40 teaches that evidence of danger does not itself allocate sovereignty, liability, funding or the right to command another country's response.
+
 ---
 # 13. Structural Rules for Future Development
 ## Rule 1 — Henchoway Must Not Explain Everything

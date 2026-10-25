@@ -93,6 +93,7 @@ date: "2025-04-23"
 author: "Rei Reltroner"
 tags: ["nytherion abyss", "spiritual philosophy", "abyssal tactics", "illusion", "comfort"]
 image: "/images/philosophies/abyss-of-seduction-banner.png"
+
 ---
 
 > _"It never forced you to enter. It whispered what you already wanted to hear."_
@@ -195,6 +196,7 @@ description: "A philosophical entry that explores how Nytherion Abyss manifests 
 date: "2025-04-23"
 image: "/images/philosophies/abyss-as-corrupting-illusion-banner.png"
 tags: ["nytherion abyss", "philosophy", "illusion", "deception", "astralis"]
+
 ---
 
 > _"The Abyss doesn’t lie to you. It lets you lie to yourself."_  
@@ -273,6 +275,7 @@ description: "Nytherion Abyss does not attack with violence—it offers the illu
 date: "2025-04-23"
 image: "/images/philosophies/abyss-as-false-comfort-banner.png"
 tags: ["nytherion abyss", "philosophy", "comfort", "illusion", "reltroner studio"]
+
 ---
 
 > _“Not all prisons have bars. Some are padded with pillows.”_
@@ -343,6 +346,7 @@ description: "The Nytherion Abyss is not merely an illusion—it is collapse its
 date: "2025-04-22"
 image: "/images/philosophies/abyss-as-collapse-banner.png"
 tags: ["philosophy", "nytherion abyss", "collapse", "spiritual entropy", "the abyss of comfort"]
+
 ---
 
 > _“Collapse does not arrive with war drums. It arrives when we stop trying to stand.”_
