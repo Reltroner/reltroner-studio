@@ -38,7 +38,7 @@ export default function ContactExperience() {
           {[
             ['For worldbuilders', 'Build on the idea you love.', 'Try the six-stage creative loop and worksheet before asking about method.', '/creators', 'See the creator method'],
             ['For readers', 'Get to know Asthortera.', 'Start with the world and go deeper at your own pace, without a lore exam.', '/readers', 'Meet Asthortera'],
-            ['Learning', 'See the public LMS.', 'Browse the public prototype and sample learning material, or ask about something you encountered there.', 'https://lms.reltroner.com/', 'Open LMS'],
+            ['Learning', 'See the public LMS ↗', 'Browse the public prototype and sample learning material, or ask about something you encountered there.', 'https://lms.reltroner.com/', 'Open LMS'],
           ].map(([tag, title, text, href, cta]) => <article key={tag} className="studio-card"><p className="studio-eyebrow">{tag}</p><h3>{title}</h3><p>{text}</p><a href={href} className="studio-text-link">{cta} </a></article>)}
         </div>
       </div>

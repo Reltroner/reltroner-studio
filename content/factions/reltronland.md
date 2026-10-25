@@ -1035,7 +1035,7 @@ GDP after 250 years ≈ $REL353,785,000,000,000
 ## Impact
 
 - Reltronland holds 42% of total GDP in Asthortera.
-- Market Capitalization Index equals 60% of planetary value.
+- Market Capitalization Index equals 47% of planetary value.
 - Reltronland alone is richer than entire galaxies in some multiversal comparisons.
 
 ## Final Clause

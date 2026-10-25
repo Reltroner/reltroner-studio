@@ -4,7 +4,6 @@ import './global.css';
 import Navbar from "@/components/Navbar";
 import ShellBackdrop from "@/components/layout/ShellBackdrop";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
-import RouteAnalytics from "@/components/RouteAnalytics";
 import { inter, sora, jetbrainsMono } from "./fonts";
 import {
   buildOrganizationJsonLd,
@@ -83,7 +82,6 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
             <SiteFooter />
 
             <GoogleAnalytics />
-            <RouteAnalytics />
             <CookieNotice />
             <AssistantRoot entries={publicContentIndex} />
           </div>

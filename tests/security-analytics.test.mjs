@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { ANALYTICS_CONSENT_KEY, analyticsIsConfigured, maySendAnalytics, readAnalyticsConsent } from "../lib/privacy/analytics-consent.ts";
-import { event, pageview } from "../lib/gtag.js";
+import { event } from "../lib/gtag.js";
 
 test("analytics remains off before explicit consent, including incumbent event helpers", () => {
   const originalWindow = globalThis.window;
@@ -11,12 +11,12 @@ test("analytics remains off before explicit consent, including incumbent event h
   try {
     assert.equal(readAnalyticsConsent(), "unknown");
     assert.equal(maySendAnalytics(), false);
-    pageview("/music"); event({ action: "scroll", category: "reading" });
+    event({ action: "scroll", category: "reading" });
     assert.equal(sent.length, 0);
     consent = "denied";
     assert.equal(readAnalyticsConsent(), "denied");
     assert.equal(maySendAnalytics(), false);
-    pageview("/places"); event({ action: "view", category: "reading" });
+    event({ action: "view", category: "reading" });
     assert.equal(sent.length, 0);
     if (process.env.NEXT_PUBLIC_ENABLE_ANALYTICS !== "true") assert.equal(analyticsIsConfigured(), false);
   } finally { globalThis.window = originalWindow; }

@@ -4,8 +4,8 @@ export const ANALYTICS_CONSENT_EVENT = "reltroner:analytics-consent";
 export const ANALYTICS_ID = process.env.NEXT_PUBLIC_GA_ID || "";
 
 /** Analytics stays unavailable unless an operator explicitly enables a valid public tag ID. */
-export function analyticsIsConfigured(): boolean {
-  return process.env.NEXT_PUBLIC_ENABLE_ANALYTICS === "true" && /^G-[A-Z0-9]{4,25}$/.test(ANALYTICS_ID);
+export function analyticsIsConfigured(id: string = ANALYTICS_ID): boolean {
+  return process.env.NEXT_PUBLIC_ENABLE_ANALYTICS === "true" && /^G-[A-Z0-9]{4,25}$/.test(id);
 }
 
 export function readAnalyticsConsent(): AnalyticsConsent {
