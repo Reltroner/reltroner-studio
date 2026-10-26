@@ -4,6 +4,7 @@ description: "A deep-sea temple located within Tremora Trench, serving as the ep
 image: "/images/nytherion-temple.webp"
 author: "Rei Reltroner"
 date: "2025-07-17"
+lastUpdated: "2026-10-26"
 published: true
 tags: ["temple", "spirituality", "blue pill", "consciousness"]
 ---
@@ -23,7 +24,9 @@ tags: ["temple", "spirituality", "blue pill", "consciousness"]
 
 ## 🧠 Overview
 
-The **Nytherion Abyss Temple** is not built for worship, but for **surrender**. It is the holiest site for Henchoway followers, submerged in the **Tremora Trench** near Hargenbor Bay. Here, the cult's **doctrine of comfort, forgetting, and stillness** is fully enacted through ritual, sensory manipulation, and abyssal resonance.
+The **Nytherion Abyss Temple**, also called the **Church of Still Waters**, is understood by Henchoway devotees as a sacred sanctuary not of restorative worship but of **surrender**. It lies in the **Tremora Trench network** near Hargenbor Bay. Here, the cult's **doctrine of comfort, forgetting and stillness** is enacted through ritual, sensory manipulation and abyssal resonance.
+
+**Entity boundary:** the Temple is a **specific location and gateway facility**, not the totality of [Nytherion Abyss](../philosophies/nytherion-abyss.md), not Henchoway's entire deep-sea headquarters, and not a sovereign territory independent of [Hargenbor](../factions/hargenbor.md). The Temple belongs to the historical [Henchoway organizational](../organizations/henchoway.md) environment, while Kamila Alena's metaphysical Throne is distinct from Vitor Baythorne's modern political program.
 
 ---
 
@@ -38,7 +41,7 @@ The **Nytherion Abyss Temple** is not built for worship, but for **surrender**. 
 
 ## 🏛️ Temple Features
 
-A detailed list of facilities found in the deeper layers of Nytherion Abyss, each one engineered to dissolve sentient resistance and willpower through subtle yet irreversible methods.
+A detailed list of rooms in the physical Tremora Trench temple complex. Henchoway uses these spaces to undermine resistance through sensory manipulation, ritual and, where demonstrably supported, Nytherion-linked phenomena. **Not every visitor experiences the same effect, and lasting or irreversible outcomes require case-specific evidence.**
 
 ---
 
@@ -92,7 +95,7 @@ Infusion of blue-laced Nytherion fluid; removes will to awaken.
 
 ## 🌀 Chamber of Submersion  
 **Function:**  
-Sacred place where high priests dive into abyss pools, never returning.
+Sacred place where high priests descend into abyss pools. Henchoway legends describe some as never returning; that does not establish a universal fate for every initiate.
 
 ---
 
@@ -103,9 +106,32 @@ Sacred place where high priests dive into abyss pools, never returning.
 ## 📍 Location
 
 - **Latitude:** Unknown  
-- **Depth:** 13940 meters below sea level  
+- **Depth:** 13,940 metres (13.94 km) below sea level — in Hargenbor's **Abyssal Province** depth band (12–25 km)  
 - **Location:** **Tremora Trench**, off Hargenbor Bay  
-- **Access:** Only by encrypted pressure-capsule and ritual approval from the Diver’s Circle
+- **Access:** Restricted pressure-capsule route and ritual clearance from the Diver's Circle, as described in Henchoway practice; this is not international recognition of a new sovereign jurisdiction
+
+---
+
+## 🧭 Canon and Sovereignty Clarification
+
+| Site or institution | Canonical role |
+| --- | --- |
+| **Hargenbor** | Recognized sovereign maritime nation; it is not identical to Henchoway |
+| **Hargenbor Bay** | Coastal-maritime contact region linked to early abyssal history |
+| **Tremora Trench** | Wider deep-sea environment containing Henchoway facilities |
+| **Nytherion Abyss Temple** | Physical ritual, indoctrination and gateway complex at 13.94 km depth |
+| **Abyssal Gate Chamber** | A principal portal within the Temple, not the entire dimensional realm |
+| **Central Gate Region** | Separately classified abyssal interface; its precise depth is not established by the Temple depth |
+| **Ertherna Ruin** | Earlier anomaly site of the Henchowayway Scuba Division lineage |
+| **Stillwater Meridian** | Planned separate open-pelagic infrastructure project, not a renamed Temple |
+
+**Political boundary:** Vitor Baythorne / Van Den Scuba can guide Henchoway's rituals and organizational strategy without ruling all of Hargenbor, controlling Kamila Alena's metaphysical will, or owning the Nytherion dimension.
+
+**Causality boundary:** a ritual claim that memory will be erased is not always equivalent to literal historical/ontological deletion. Social non-recognition, induced memory distortion and actual dimensional changes require separate supporting mechanisms. Legitimate restorative rest does not count as abyssal surrender by default.
+
+**Narrative status:** the *The Abyss of Comfort* master series places the story's active position in **Season 17**. Major developments involving Vitor's later Adaptive Stillness program and the independent **Stillwater Meridian** project belong to **planned Seasons 26–29**, not previously completed temple history.
+
+For the wider political structure see [Henchoway faction](../factions/henchoway.md), [Henchoway organization](../organizations/henchoway.md), [Hargenbor](../factions/hargenbor.md), and [The Abyss of Comfort](../series/the-abyss-of-comfort.md).
 
 ---
 
@@ -120,7 +146,7 @@ Sacred place where high priests dive into abyss pools, never returning.
 
 ## 🔱 Rituals Performed
 
-- **Descent Rite**: Initiates voluntarily enter the Dive Chamber and surrender identity  
+- **Descent Rite**: Initiates are invited to enter the Dive Chamber and ceremonially surrender identity; voluntariness is a claim of the ritual and does not prove fully informed consent  
 - **Stillwater Sermons**: Whispered teachings echo through mist-filled halls  
 - **Submersion of Ego**: Leader Van Den Scuba guides initiates into inner abyss visions  
 - **Ceremony of Return** (rare): A reprogrammed mind is sent back to the surface to influence others
@@ -129,10 +155,11 @@ Sacred place where high priests dive into abyss pools, never returning.
 
 ## ⚠️ Psychological Impact
 
-- Severe **identity loss** within hours  
-- Sensation of **floating** within own memory  
-- **Empathy collapse**, replaced with detached serenity  
-- Post-visit trauma only reversible through **Astralis Pillar immersion**
+- Reported **identity disorientation or loss** under intense exposure; duration and severity vary  
+- Sensation of **floating** within one's own memory  
+- In some cases **empathy disruption**, emotional flattening, or detached serenity  
+- Recovery cannot be reduced to one guaranteed cure; independent evidence, relational memory, Astralis-aligned clarity, clinical care where appropriate and metaphysical countermeasures may play distinct roles  
+- Some severe cases may resist reversal, but **irreversibility must be established by the narrative**, not inferred from a temple visit alone
 
 ---
 
@@ -155,7 +182,7 @@ Sacred place where high priests dive into abyss pools, never returning.
 ## 🌌 Legacy
 
 - Tremora Trench’s Abyss Temple is said to **resonate across dreams** of those susceptible  
-- It is the **deepest religious structure** in all of Asthortera  
+- Henchoway legends call it the **deepest religious structure** on Asthortera; an independently verified planetary depth ranking has not been established  
 - Some whisper it is **alive**, breathing through the thoughts of visitors  
 
 ---
@@ -172,7 +199,7 @@ To enter is to leave yourself behind.
 
 # Abyssal Gate Chamber
 
-Portal Room to Nytherion Abyss within the Nytherion Temple, housing the darkest threshold between illusion and descent.
+A principal portal room within the Nytherion Temple, presenting one of the most dangerous known thresholds between illusion and descent. Its role must not be conflated with every portal or with the dimension itself.
 
 ## 🚪 Official Name
 
@@ -186,7 +213,7 @@ Portal Room to Nytherion Abyss within the Nytherion Temple, housing the darkest 
 
 ## 🧹 Description
 
-The most secretive and dangerous chamber within any Nytherion Temple, the Abyssal Gate Chamber houses the only true **portal to the Nytherion Abyss** — a dimension of stagnation, fear, and illusion. Designed to corrupt spatial and mental stability, it is both a gateway and a psychological crucible.
+The most secretive and dangerous chamber within any Nytherion Temple, the Abyssal Gate Chamber houses one of the **principal known gateways to Nytherion Abyss** — a dimension of stagnation, fear and illusion. Other chambers and portal sites are also named in this location's own record; the Chamber is not the only possible gateway. Designed to corrupt spatial and mental stability, it is both a gateway and a psychological crucible.
 
 ---
 
@@ -235,7 +262,7 @@ To access the portal:
 
 * **Tremora Trench Gate**: The deepest, oldest, and most spiritually powerful gate; lies beneath Hargenbor's dark ocean.
 * **Chamber of Forgotten Self**: Secondary portal chamber, triggering an illusory projection of one’s idealized self.
-* **Ashcore Maw**: A dryland portal site active in the cult operations of Henchoeway.
+* **Ashcore Maw**: A dryland portal site associated with Henchoway operations.
 
 ---
 
