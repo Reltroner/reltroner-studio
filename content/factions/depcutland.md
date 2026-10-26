@@ -90,6 +90,8 @@ This profile therefore preserves the original themes of elegance, archival sover
 
 ## Table of Contents
 
+**Foundational extension:** Oracle of Asthortera — Classical Appearance, Technological Frontier; Epistemic-Native Communication; Modern Apex SDI and Talent Retention.
+
 1. Foundational Philosophy — Tradition with Intelligence  
 2. National Identity, Symbols, and Cultural Essence  
 3. Government and Political Structure  
@@ -1069,7 +1071,7 @@ By late 1046 BAC, **an already-running war** had intensified around Neiput. The 
 
 ## 6. Open Conflict — Phase I, 1048–1042 BAC
 
-The early phase of the Reltronland–Depcutland War was high-SDI warfare: calculated, infrastructure-oriented, economically optimized, and strategically restrained.
+The early phase of the Reltronland–Depcutland War was strategically complex, infrastructure-oriented and often restraint-conscious, **without assuming the historic states had already attained their modern apex SDI measurements**.
 
 Most operations focused on:
 
@@ -2223,18 +2225,18 @@ There is:
 
 - no military alliance;
 - no shared sovereignty;
-- no uncontrolled mobility.
+- no uncontrolled **cross-border** mobility.
 
-Every movement is permitted only if verified.
+Cross-border movement is permitted **only within appropriate authorization, eligibility and safety restrictions**, not merely after a technical identity check.
 
 ## Mobility and Identity System
 
-All individuals within the border zone require:
+Residents regularly exercising **cross-border rights** generally require:
 
 - valid authorization from Reltronland;
 - valid authorization from Depcutland.
 
-This creates a **100% dual-approved population environment**.
+This creates a **highly controlled, near-universal dual-authorization environment for established cross-border residents**. Dual authorization **does not mean dual citizenship**, and a resident staying wholly within their own national territory is not automatically required to hold the other state's citizenship.
 
 ## Real-Time Border Intelligence
 
@@ -2266,7 +2268,7 @@ The region is known for its **Arbitrage Advantage Economy**.
 
 Residents can legally optimize their position by:
 
-- switching citizenship under regulated conditions;
+- accessing the other jurisdiction's labor, educational or commercial systems **through lawful mobility and residency authorizations without automatically changing nationality**;
 - accessing different economic ecosystems;
 - leveraging structural differences between both nations.
 
@@ -2284,13 +2286,14 @@ Residents can legally optimize their position by:
 
 ### Regulatory Controls
 
-Citizenship switching requires:
+Border arbitrage and cross-border residency require:
 
-- formal approval;
-- fees;
-- time restrictions;
-- behavioral compliance tracking;
-- frequency limits to prevent system abuse.
+- applicable authorization and formal approval;
+- relevant fees and time restrictions;
+- proportionate compliance verification;
+- anti-abuse safeguards.
+
+**Permanent citizenship changes or renunciation are governed by much more demanding national procedures**, especially under the modern anti-brain-drain regime. A border access permit never implies automatic naturalization or loss of prior citizenship.
 
 ## Administrative Zoning Distinction
 
@@ -2311,7 +2314,7 @@ Movement between these zones is strictly controlled and non-trivial.
 
 ## SDI Gradient Characteristics
 
-The Neiput Border has the **lowest SDI within both nations in relative terms**, not because it is weak, but because it functions as an interface rather than a core civilizational node.
+The Neiput Border has a **relatively lower aggregate SDI than the two countries' major urban and institutional cores**, even though its infrastructure and daily competence remain exceptionally advanced. This reflects its specialized boundary and regulatory role, not a lack of cognitive capacity or advanced technology.
 
 It has:
 
