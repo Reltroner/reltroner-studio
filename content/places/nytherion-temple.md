@@ -129,7 +129,7 @@ Sacred place where high priests descend into abyss pools. Henchoway legends desc
 
 **Causality boundary:** a ritual claim that memory will be erased is not always equivalent to literal historical/ontological deletion. Social non-recognition, induced memory distortion and actual dimensional changes require separate supporting mechanisms. Legitimate restorative rest does not count as abyssal surrender by default.
 
-**Narrative status:** the *The Abyss of Comfort* master series places the story's active position in **Season 17**. Major developments involving Vitor's later Adaptive Stillness program and the independent **Stillwater Meridian** project belong to **planned Seasons 26–29**, not previously completed temple history.
+**Narrative status:** the master series *The Abyss of Comfort* places the story's active position in **Season 17**. Major developments involving Vitor's later Adaptive Stillness program and the independent **Stillwater Meridian** project belong to **planned Seasons 26–29**, not previously completed temple history.
 
 For the wider political structure see [Henchoway faction](../factions/henchoway.md), [Henchoway organization](../organizations/henchoway.md), [Hargenbor](../factions/hargenbor.md), and [The Abyss of Comfort](../series/the-abyss-of-comfort.md).
 
