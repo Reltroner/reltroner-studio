@@ -80,7 +80,7 @@ The precise legal, personnel and institutional continuity between Kamila's ancie
 | **Hargenbor** | Sovereign maritime civilization and recognized UAA participant | A strategic abyssal leverage state, **not** Henchoway's legal property or a uniform puppet |
 | **Stillwater Meridian** | Planned modular deep-pelagic project, separate from the Tremora headquarters | A potential economic, research and infrastructure platform with competing stakeholders |
 
-The *The Abyss of Comfort* master architecture explicitly distinguishes Kamila's existential perspective from Vitor's political urgency. In its established Season 12 framing, **Henchoway serves its own interests**; it does not simply "feed" Nytherion as an obedient appendage.
+The master architecture of *The Abyss of Comfort* explicitly distinguishes Kamila's existential perspective from Vitor's political urgency. In its established Season 12 framing, **Henchoway serves its own interests**; it does not simply "feed" Nytherion as an obedient appendage.
 
 A civilian enjoying a legitimate holiday, a Hargenborian sailor, a competent researcher, or an independent political critic is not thereby a Henchoway agent. Nor is comfort by itself Nytherion: **restorative comfort restores agency; engineered illusion comfort replaces it**.
 
