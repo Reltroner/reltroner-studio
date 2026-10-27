@@ -1,3 +1,4 @@
+import NewsletterPlacement from '@/components/newsletter/NewsletterPlacement';
 import Link from 'next/link';
 import EditorialCdnArt from '@/components/worldbuilding/EditorialCdnArt';
 import CreatorGoals from '@/components/worldbuilding/CreatorGoals';
@@ -117,5 +118,6 @@ export default function CreatorStartPage() {
         <EditorialCdnArt asset="15" label="Concept illustration · Collaborative curiosity" />
       </div>
     </section>
+    <NewsletterPlacement />
   </div>;
 }
