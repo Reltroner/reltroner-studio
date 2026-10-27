@@ -2,7 +2,7 @@ import Link from 'next/link';
 import HomepageCdnArt from '@/components/worldbuilding/HomepageCdnArt';
 import CreativeLoop from '@/components/worldbuilding/CreativeLoop';
 import ReadingPreview from '@/components/worldbuilding/ReadingPreview';
-import NewsletterSection from '@/components/newsletter/NewsletterSection';
+import NewsletterPlacement from '@/components/newsletter/NewsletterPlacement';
 import { buildStandaloneMetadata } from '@/lib/seo/metadata';
 
 export const metadata = buildStandaloneMetadata({
@@ -13,12 +13,6 @@ export const metadata = buildStandaloneMetadata({
 });
 
 export default function Home() {
-  const newsletterActivationVerified =
-    process.env.RESEND_NEWSLETTER_ENABLED === 'true' &&
-    process.env.CLOUDFLARE_WAF_PROTECTION_VERIFIED === 'true' &&
-    process.env.RESEND_HARD_STOP_VERIFIED === 'true' &&
-    process.env.RESEND_UNSUBSCRIBE_VERIFIED === 'true';
-
   return <div className="studio-page">
     <section id="top" className="studio-hero">
       <div className="studio-wrap">
@@ -197,6 +191,6 @@ export default function Home() {
         </div>
       </div>
     </section>
-    <div className="studio-section"><div className="studio-wrap"><NewsletterSection activationVerified={newsletterActivationVerified} /></div></div>
+    <NewsletterPlacement />
   </div>;
 }

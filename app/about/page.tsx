@@ -1,3 +1,4 @@
+import NewsletterPlacement from '@/components/newsletter/NewsletterPlacement';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import ExploreAboutCdnImage from '@/components/worldbuilding/ExploreAboutCdnImage';
@@ -697,6 +698,7 @@ export default function AboutPage() {
       <script type="application/ld+json">
         {JSON.stringify(founderJsonLd)}
       </script>
+      <NewsletterPlacement />
     </div>
   );
 }

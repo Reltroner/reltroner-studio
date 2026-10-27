@@ -5,7 +5,7 @@ import ContactInquiryForm from './ContactInquiryForm';
 import { contactTopics, type ContactTopic } from './ContactIntentTabs';
 import ContactNextSteps from './ContactNextSteps';
 import ContactFAQ from './ContactFAQ';
-import ConceptArt from '@/components/worldbuilding/ConceptArt';
+import ContactConversationArt from './ContactConversationArt';
 
 export default function ContactExperience() {
   const [topic, setTopic] = useState<ContactTopic>(contactTopics[0]);
@@ -17,7 +17,7 @@ export default function ContactExperience() {
           <h1>What’s on your mind?</h1>
           <p className="studio-lead">Share your question, the context behind it, and what kind of outcome you’re hoping for. A short, non-confidential overview is enough. Replies are asynchronous and depend on availability.</p>
           <div className="studio-signals"><span>Email-first</span><span>No call required</span><span>No newsletter sign-up</span></div>
-          <div className="studio-contact-art"><ConceptArt kind="conversation" label="Concept illustration · Exchanging ideas, not real members" /></div>
+          <div className="studio-contact-art"><ContactConversationArt /></div>
         </div>
         <div id="contact-form" className="studio-panel studio-contact-form scroll-mt-24">
           <p className="studio-eyebrow">Your conversation starts here</p>
@@ -44,6 +44,6 @@ export default function ContactExperience() {
       </div>
     </section>
     <ContactFAQ />
-    <div id="contact-closing" className="studio-wrap pb-10"><p className="studio-small">Looking for occasional Studio updates? <Link href="/#newsletter" className="studio-text-link">The homepage has a separate newsletter opt-in </Link>.</p></div>
+    <div id="contact-closing" className="studio-wrap pb-10"><p className="studio-small">Looking for occasional Studio updates? <Link href="#newsletter" className="studio-text-link">Use the separate newsletter opt-in below </Link>. Contact inquiries never subscribe you.</p></div>
   </div>;
 }

@@ -1,3 +1,4 @@
+import NewsletterPlacement from '@/components/newsletter/NewsletterPlacement';
 import Link from 'next/link';
 import EditorialCdnArt from '@/components/worldbuilding/EditorialCdnArt';
 import ReadingPreview from '@/components/worldbuilding/ReadingPreview';
@@ -93,5 +94,6 @@ export default function ReaderStartPage() {
         <EditorialCdnArt asset="21" label="Concept illustration · No real community members depicted" />
       </div>
     </section>
+    <NewsletterPlacement />
   </div>;
 }
