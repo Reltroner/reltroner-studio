@@ -672,6 +672,53 @@ This is the end of the principal early-founding period.
 
 ------------------------------------------------------------------------
 
+# XIII-A. The Eastern Continent: Succession, Conflict and Diplomacy
+
+## Older frontier, distinct sovereign successors
+
+Stelpadland's **2882 BAC** foundation under Scot Stetson remains separate from the Kalgeredian exploration, earlier permanent settlements, **2800 BAC Maple Concord**, and **2432 BAC civilizational consolidation threshold**. At the designated early state-founding milestone, Stelpadland occupied about **82% of its modern territory**; this territorial ratio does not define the share of built land or population.
+
+The subsequent sovereign foundation chronology is:
+
+
+| Foundation (BAC) | State | Foundation mechanism |
+|---|---|---|
+| **2882** | Stelpadland | Scot Stetson's sovereign consolidation of a pre-existing Kalgeredian-influenced frontier |
+| **2694** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
+| **2628** | Calespia | Post-Stetson agricultural settlement, later culinary specialization |
+| **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
+| **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
+| **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
+| **1234** | Scenrepolia | Cistheta-influenced **local** interface and infrastructural discoveries |
+| **1186** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
+
+
+These countries did not form a Stelpadian empire, a single colonial system, or a permanent political alliance. Krisberia arose after Aurastelian migration and **only after Aurastelia and Astrostelia had attained 100% of their modern territories** (the proposed 2320 BAC date remains conditional on dating that prerequisite). Mapether came from Beluftner merchant seafarers whose expedition set a distance record; the small settler population decided not to extend toward the more resource-rich future Reltronland region because onward logistical and administrative costs outweighed the benefit. Initial extents were about **4%** of modern Krisberia and **5%** of modern Mapether. Depeisit migration later brought language and 1930s-inspired gangster-chic fashion to Mapether, not its original sovereignty.
+
+At the **1125–1121 BAC** foundation window of Reltronland and Depcutland, the eight countries' territorial extents relative to their modern borders were: **Stelpadland 100%, Pencilfania 87%, Calespia 76%, Ethaptoria 67%, Scenrepolia 57%, Taramistry 45%, Mapether 39%, and Krisberia 28%**. These figures measure national territory against later boundaries, **not** the population share, percentage of built or inhabited land, biodiversity loss, or economic output.
+
+## Relative stability did not exclude political conflict
+
+**2470–2452 BAC — The Canvas–Canopy Dispute with Pencilfania.** Stelpadland's stewardship of forests and local decision rights conflicted with public-art projects and visual cultural policies across connected districts. Regional residents, the Council of Scouts, Pencilfanian public institutions, and professional assessors disagreed on ecological thresholds and permitted development. The dispute produced participation and environmental-review practices rather than a destructive interstate war.
+
+**2256–2243 BAC — The Wilderness–Puzzle Controversy with Ethaptoria.** Ethaptoria's logic-based simulations and Stelpadian wilderness assessment led to disagreement over professional accreditation, public safety, and cross-border recognition. Negotiated assessment combined formal simulation tests with actual field experience for roles where direct environmental judgment was indispensable.
+
+**Internal disputes** continued among the central Council of Scouts, local administrations, forest stewards, and educational authorities regarding jurisdiction, public spending, nature conservation, transport and regulatory discretion. This does not contradict Stelpadland's comparatively stable political culture.
+
+The other Eastern states experienced **1153–1138 BAC Scenrepolia–Taramistry** licensing and patent disputes and **1149–1137 BAC Calespia–Taramistry** botanical-provenance disputes. **Mapether and Krisberia retained exceptionally peaceful interstate histories**, without participation in those conflicts. No Eastern episode here was as prolonged or systemically destructive as the **1048–1030 BAC Reltronland–Depcutland War**.
+
+## The 1057–1030 BAC attempts to stabilize the two newcomers
+
+Eastern representatives offered **preventive economic dialogue in 1057–1049 BAC**, a **first de-escalation initiative in 1048–1047 BAC** after Depcutland's first missile attack at Neiput, and a **second industrial-infrastructure stabilization initiative in 1042–1039 BAC**. Stelpadland could facilitate neutral dialogue; Pencilfania could make evidence comprehensible through visual documentation; Ethaptoria could model alternative outcomes; Scenrepolia could examine interface and infrastructure risks; Taramistry could assess chemical and medical hazards; Calespia could offer civilian supply expertise; and peaceful Mapether and Krisberia could provide neutral facilities. These were **offers, not deployments, accepted treaties, a permanent alliance, or guaranteed solutions**.
+
+Both belligerents rejected **foreign-administered settlement and direct external control of their conflict**. Reltronland regarded its financial, patent, institutional-capture and industrial exposures as matters requiring direct sovereign accountability; Depcutland insisted that outside models could not override its memory, industrial interests and territorial sovereignty. Having unusually detailed knowledge of their shared Depeisit-rooted institutions did not create mutual trust: this is the **bilateral epistemic paradox**. Neither side's assertion that outsiders lacked full context proves outsiders had nothing useful to contribute. Equally, outside mediation was not automatically wise or adequately informed.
+
+This refusal must remain **distinct** from the already-canonical rejection of foreign **private military forces** and must not be misread as zero earlier commerce, communication, diplomatic observers, or lawful civilian protection. The **1031 BAC limited institutional ceasefire**, **1030–1010 BAC reconstruction**, **1010 BAC Troncut Treaty** with third-party oversight involving **Beluftner, Kalgered and Aurastelia**, and **1010–995 BAC second diplomatic restoration** all remain intact.
+
+The Stelpadian lesson is double-sided: experience in mediation offers a perspective, **not the right to rule another sovereign state's decisions**; conversely, a state's refusal of an outside settlement does not insulate the planet from its decisions' economic consequences.
+
+---
+
 # XIV. Civilizational Identity
 
 ## 15. The Stelpadian Synthesis

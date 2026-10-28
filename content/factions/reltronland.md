@@ -486,6 +486,33 @@ Reltronland is one of Asthortera's leading apex civilizations and one of the two
 
 Developed from a Depeisit-linked settlement and **sovereign before the 1057 BAC crisis**, Reltronland diverged ideologically from its origin by rejecting aristocratic structures and embracing absolute meritocracy, structural sovereignty, and Red Pill Realism.
 
+## Older Eastern Civilizations and Reltronland's Limited Early Diplomacy
+
+Reltronland was formally founded in **1125 BAC**, when the Eastern Continent east of the Central Ocean already hosted sovereign states established through different historical lineages:
+
+
+| Foundation (BAC) | State | Foundation mechanism |
+|---|---|---|
+| **2882** | Stelpadland | Scot Stetson's sovereign consolidation of a pre-existing Kalgeredian-influenced frontier |
+| **2694** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
+| **2628** | Calespia | Post-Stetson agricultural settlement, later culinary specialization |
+| **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
+| **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
+| **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
+| **1234** | Scenrepolia | Cistheta-influenced **local** interface and infrastructural discoveries |
+| **1186** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
+
+
+At the **1125–1121 BAC** foundation window of Reltronland and Depcutland, the eight countries' territorial extents relative to their modern borders were: **Stelpadland 100%, Pencilfania 87%, Calespia 76%, Ethaptoria 67%, Scenrepolia 57%, Taramistry 45%, Mapether 39%, and Krisberia 28%**. These figures measure national territory against later boundaries, **not** the population share, percentage of built or inhabited land, biodiversity loss, or economic output.
+
+The region's older politics included constitutional and ecological disputes (Stelpadland–Pencilfania, **2470–2452 BAC**), educational accreditation (Stelpadland–Ethaptoria, **2256–2243 BAC**), interface patents (Scenrepolia–Taramistry, **1153–1138 BAC**), and botanical research rights (Calespia–Taramistry, **1149–1137 BAC**). **Mapether and Krisberia were comparatively peaceful interstate actors.** Their relative stability did not imply that everyone shared one political system or that they were free from domestic tensions.
+
+Mapether's Beluftner-descended merchant founders had once contemplated continuing beyond their resource-sufficient settlement toward the even more resource-rich future Reltronland territory. They stopped because a very small settler population made continued transport, infrastructure and administration disproportionately costly. Mapether's later Depeisit-influenced language and 1930s-inspired gangster-chic culture arose after its sovereign founding. Reltronland did not inherit a claim from this unused earlier merchant exploration.
+
+Despite the older states' diplomatic histories, Reltronland and Depcutland were **less integrated with older Asthorteran diplomatic establishments** during their formative competition. That did not mean zero prior commercial or cultural exchange.
+
+---
+
 ## The Closing War of the Old Era
 
 Reltronland's defining historical turning point was the **Closing War of the Old Era (1048–1030 BAC)**. This conflict culminated in the defeat of the Aristocrat Archival Regime of Depcutland and the rise of a merit-based continental order.
@@ -522,6 +549,20 @@ Reltronland's mature war principle became:
 
 > **Break capture without erasing civilization.**
 
+
+## The Bilateral Epistemic Paradox and the Rejected Eastern Peace Offers
+
+Eastern representatives offered **preventive economic dialogue in 1057–1049 BAC**, a **first de-escalation initiative in 1048–1047 BAC** after Depcutland's first missile attack at Neiput, and a **second industrial-infrastructure stabilization initiative in 1042–1039 BAC**. Stelpadland could facilitate neutral dialogue; Pencilfania could make evidence comprehensible through visual documentation; Ethaptoria could model alternative outcomes; Scenrepolia could examine interface and infrastructure risks; Taramistry could assess chemical and medical hazards; Calespia could offer civilian supply expertise; and peaceful Mapether and Krisberia could provide neutral facilities. These were **offers, not deployments, accepted treaties, a permanent alliance, or guaranteed solutions**.
+
+Both belligerents rejected **foreign-administered settlement and direct external control of their conflict**. Reltronland regarded its financial, patent, institutional-capture and industrial exposures as matters requiring direct sovereign accountability; Depcutland insisted that outside models could not override its memory, industrial interests and territorial sovereignty. Having unusually detailed knowledge of their shared Depeisit-rooted institutions did not create mutual trust: this is the **bilateral epistemic paradox**. Neither side's assertion that outsiders lacked full context proves outsiders had nothing useful to contribute. Equally, outside mediation was not automatically wise or adequately informed.
+
+This refusal must remain **distinct** from the already-canonical rejection of foreign **private military forces** and must not be misread as zero earlier commerce, communication, diplomatic observers, or lawful civilian protection. The **1031 BAC limited institutional ceasefire**, **1030–1010 BAC reconstruction**, **1010 BAC Troncut Treaty** with third-party oversight involving **Beluftner, Kalgered and Aurastelia**, and **1010–995 BAC second diplomatic restoration** all remain intact.
+
+Reltronland believed that a foreign administrator might misread its overdue industrial receivables, patent enforcement, strategic exposure, and perceived institutional-capture threats. Its refusal to transfer settlement authority could protect sovereignty and avoid a proxy war, but did **not** establish that its own assessment was complete or that all external information was worthless. Depcutland's different account of sovereignty and industrial survival was likewise not automatically vindicated by its familiarity with Reltronland.
+
+This history does not rewrite the distinct **1048 BAC** triggers—CEO arrest in Reltronepolis, Depcutland's initial Neiput mobilization and missile fire, and Reltronland's prospective military advance—or the later **Depcutland-led** coalition against captured aristocratic power. It explains the failed external diplomatic approaches while retaining the **1031 BAC ceasefire**, **1030–1010 BAC reconstruction**, **1010 BAC Troncut Treaty**, and gradual diplomatic restoration.
+
+---
 
 ## Post-War Competitive Order
 

@@ -87,6 +87,29 @@ The Depeisitian-descended majority contributes deep literary, symbolic, and arch
 
 ---
 
+## 1.3 Historical Foundation and Eastern Continental Continuity
+
+**Founded as a sovereign state in 2694 BAC**, Pencilfania emerged from continued exploration after Scot Stetson established Stelpadland in 2882 BAC. Its early civic institutions adapted eastern frontier practices toward visual communication, public imagination, and participatory creation. The current **Art President**, **Creative Democracy**, and **Artistic Assembly** represent later institutional development; their modern form should not be projected unchanged into the founding year.
+
+
+| Foundation (BAC) | State | Foundation mechanism |
+|---|---|---|
+| **2882** | Stelpadland | Scot Stetson's sovereign consolidation of a pre-existing Kalgeredian-influenced frontier |
+| **2694** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
+| **2628** | Calespia | Post-Stetson agricultural settlement, later culinary specialization |
+| **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
+| **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
+| **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
+| **1234** | Scenrepolia | Cistheta-influenced **local** interface and infrastructural discoveries |
+| **1186** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
+
+
+At the **1125–1121 BAC** foundation window of Reltronland and Depcutland, the eight countries' territorial extents relative to their modern borders were: **Stelpadland 100%, Pencilfania 87%, Calespia 76%, Ethaptoria 67%, Scenrepolia 57%, Taramistry 45%, Mapether 39%, and Krisberia 28%**. These figures measure national territory against later boundaries, **not** the population share, percentage of built or inhabited land, biodiversity loss, or economic output.
+
+The present-day demographic profile (66% Depeisitian-descended, 23% Cisthetan-descended, and other populations) records later population change, not the ancestry of the founding generation. Pencilfania **predates** the recorded 1256 BAC Cisthetan arrival and Depeisit migration from 1211 BAC. Migration, intermarriage, and evolving civic identity explain the later composition without turning Pencilfania into a retrospective Depeisit colony. The founding chronology concerns sovereign institutions, not the first habitation of the region.
+
+---
+
 # 2. Core Civilizational Concept
 
 Pencilfania is not merely an art country.
@@ -1037,6 +1060,16 @@ The national response doctrine states:
 
 ---
 
+## 11.7 Constitutional and Regional Historical Disputes
+
+**Central government versus regions.** Creative Democracy includes substantive internal disagreement. Regional visual cultures challenged centrally mandated public-design standards, grant allocations, commercial influence, and uniformity in civic expression. Local self-government, safety, accessibility, and public accountability therefore became genuine political and economic questions, not merely aesthetic disagreements.
+
+**2470–2452 BAC — The Canvas–Canopy Dispute (Pencilfania–Stelpadland).** Public-art development, protected ecological space, local consent, and cross-border review produced tensions among central institutions, regions, and environmental stewards. Agreement on ecological impact assessments and local participation contained the dispute. The countries' later educational collaboration is an outcome of historical learning, not proof that the conflict never happened.
+
+Eastern history also includes Stelpadland–Ethaptoria disputes over simulation versus field competence (**2256–2243 BAC**), Scenrepolia–Taramistry licensing and patents (**1153–1138 BAC**), and Calespia–Taramistry biological provenance (**1149–1137 BAC**). These institutional conflicts did not match the planetary supply-chain devastation of the Reltronland–Depcutland War. **Mapether and Krisberia did not participate in Eastern interstate armed conflict**, although peace did not mean an absence of domestic disagreement.
+
+---
+
 # 12. Education
 
 Pencilfania is one of Asthortera’s largest centers of creative education.
@@ -1699,6 +1732,20 @@ Stelpadland and Pencilfania maintain an educational relationship.
 Pencilfania adopts elements of Stelpadland’s scout leadership code in its children’s mentoring programs, while Stelpadland borrows interactive canvas technology for visual education among scout students.
 
 This relationship links creativity with discipline, outdoor learning, and youth formation.
+
+---
+
+## 17.8 The Rejected Eastern Peace Offers
+
+During the **1057–1030 BAC** crisis and war, Pencilfania and other Eastern states attempted to prevent escalation and offer diplomatic, technical, and civilian stabilization support.
+
+Eastern representatives offered **preventive economic dialogue in 1057–1049 BAC**, a **first de-escalation initiative in 1048–1047 BAC** after Depcutland's first missile attack at Neiput, and a **second industrial-infrastructure stabilization initiative in 1042–1039 BAC**. Stelpadland could facilitate neutral dialogue; Pencilfania could make evidence comprehensible through visual documentation; Ethaptoria could model alternative outcomes; Scenrepolia could examine interface and infrastructure risks; Taramistry could assess chemical and medical hazards; Calespia could offer civilian supply expertise; and peaceful Mapether and Krisberia could provide neutral facilities. These were **offers, not deployments, accepted treaties, a permanent alliance, or guaranteed solutions**.
+
+Both belligerents rejected **foreign-administered settlement and direct external control of their conflict**. Reltronland regarded its financial, patent, institutional-capture and industrial exposures as matters requiring direct sovereign accountability; Depcutland insisted that outside models could not override its memory, industrial interests and territorial sovereignty. Having unusually detailed knowledge of their shared Depeisit-rooted institutions did not create mutual trust: this is the **bilateral epistemic paradox**. Neither side's assertion that outsiders lacked full context proves outsiders had nothing useful to contribute. Equally, outside mediation was not automatically wise or adequately informed.
+
+This refusal must remain **distinct** from the already-canonical rejection of foreign **private military forces** and must not be misread as zero earlier commerce, communication, diplomatic observers, or lawful civilian protection. The **1031 BAC limited institutional ceasefire**, **1030–1010 BAC reconstruction**, **1010 BAC Troncut Treaty** with third-party oversight involving **Beluftner, Kalgered and Aurastelia**, and **1010–995 BAC second diplomatic restoration** all remain intact.
+
+Pencilfania remained a potential mediator and professional contributor, **not a belligerent or the architect of an imposed peace**. Its modern relations with Reltronland, Depcutland, and Stelpadland should not erase earlier failed approaches.
 
 ---
 

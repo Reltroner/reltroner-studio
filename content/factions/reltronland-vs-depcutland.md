@@ -89,6 +89,29 @@ The **Depeisit Economic Crisis** originated in a civilization of **25 trillion i
 
 The **1048–1030 BAC War of Conscience** became **the most planet-shaking war in the established history of Asthortera by its systemic impact on supply chains**, disrupting energy, manufacturing, logistics and financial networks far beyond the bilateral battlefield. This is a specific *planetary-system disruption* claim, not an unsubstantiated superlative about casualty numbers. After the **1010 BAC Troncut Treaty**, the **1010–995 BAC Second Diplomatic Restoration** significantly expanded relationships with Aurastelia, Astrostelia, Kalgered, Beluftner and others to reduce future contagion. Thus military conflict between two diplomatically underestimated poles forced the broader multipolar system to reconsider its interdependence.
 
+### 2.4 The Older and Relatively Stable Eastern Continent
+
+The comparatively young Eastern Continent, east of the Central Ocean, already possessed much older sovereign histories than Reltronland and Depcutland, through distinct founding mechanisms:
+
+
+| Foundation (BAC) | State | Foundation mechanism |
+|---|---|---|
+| **2882** | Stelpadland | Scot Stetson's sovereign consolidation of a pre-existing Kalgeredian-influenced frontier |
+| **2694** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
+| **2628** | Calespia | Post-Stetson agricultural settlement, later culinary specialization |
+| **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
+| **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
+| **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
+| **1234** | Scenrepolia | Cistheta-influenced **local** interface and infrastructural discoveries |
+| **1186** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
+
+
+At the **1125–1121 BAC** foundation window of Reltronland and Depcutland, the eight countries' territorial extents relative to their modern borders were: **Stelpadland 100%, Pencilfania 87%, Calespia 76%, Ethaptoria 67%, Scenrepolia 57%, Taramistry 45%, Mapether 39%, and Krisberia 28%**. These figures measure national territory against later boundaries, **not** the population share, percentage of built or inhabited land, biodiversity loss, or economic output.
+
+The Eastern system had real policy, administrative, economic, and professional conflicts: **2470–2452 BAC** Stelpadland–Pencilfania Canvas–Canopy Dispute; **2256–2243 BAC** Stelpadland–Ethaptoria Wilderness–Puzzle Controversy; **1153–1138 BAC** Scenrepolia–Taramistry Interface–Synthesis Patent Dispute; **1149–1137 BAC** Calespia–Taramistry Botanical Sovereignty Dispute. None had the documented planet-wide supply-chain disruption of the later bilateral war. **Mapether and Krisberia remained nonbelligerent and exceptionally peaceful**. Eastern states did not form a unitary alliance or universally agree with one another.
+
+---
+
 ## 3. The Structural Economic Crisis (1057–1048 BAC)
 
 ### 3.1 The Depeisit shock and the debt-rollover loop
@@ -239,6 +262,20 @@ Other Asthorteran powers offered private military assistance during the war. **B
 
 Their implicit common boundary was: **this conflict must not become someone else's proxy war**.
 
+### 5.6 The Eastern Continental Mediation Record (1057–1030 BAC)
+
+Eastern representatives offered **preventive economic dialogue in 1057–1049 BAC**, a **first de-escalation initiative in 1048–1047 BAC** after Depcutland's first missile attack at Neiput, and a **second industrial-infrastructure stabilization initiative in 1042–1039 BAC**. Stelpadland could facilitate neutral dialogue; Pencilfania could make evidence comprehensible through visual documentation; Ethaptoria could model alternative outcomes; Scenrepolia could examine interface and infrastructure risks; Taramistry could assess chemical and medical hazards; Calespia could offer civilian supply expertise; and peaceful Mapether and Krisberia could provide neutral facilities. These were **offers, not deployments, accepted treaties, a permanent alliance, or guaranteed solutions**.
+
+Both belligerents rejected **foreign-administered settlement and direct external control of their conflict**. Reltronland regarded its financial, patent, institutional-capture and industrial exposures as matters requiring direct sovereign accountability; Depcutland insisted that outside models could not override its memory, industrial interests and territorial sovereignty. Having unusually detailed knowledge of their shared Depeisit-rooted institutions did not create mutual trust: this is the **bilateral epistemic paradox**. Neither side's assertion that outsiders lacked full context proves outsiders had nothing useful to contribute. Equally, outside mediation was not automatically wise or adequately informed.
+
+This refusal must remain **distinct** from the already-canonical rejection of foreign **private military forces** and must not be misread as zero earlier commerce, communication, diplomatic observers, or lawful civilian protection. The **1031 BAC limited institutional ceasefire**, **1030–1010 BAC reconstruction**, **1010 BAC Troncut Treaty** with third-party oversight involving **Beluftner, Kalgered and Aurastelia**, and **1010–995 BAC second diplomatic restoration** all remain intact.
+
+Their concrete motivation was **strategic sovereignty**, not proof of diplomatic wisdom: each judged the other through unusually intimate Depeisit-rooted economic and institutional experience while distrusting outside interpretations. Rejecting mediation did not erase the responsibility of Depcutland's initiating missile fire or Reltronland's prospective invasion planning. Outside parties could possess useful evidence without being entitled to determine sovereign outcomes. Conversely, a rejected offer is not evidence that its proposed remedy would necessarily have succeeded.
+
+The original **5.5 bilateral containment and third-party offers** provision above remains authoritative on the refusal of foreign private military forces. This addition identifies the separate history of **rejected Eastern negotiation and stabilization packages**, without contradicting the third-party observers and 1010 BAC peace oversight already established.
+
+---
+
 ## 6. Regime Failure, Depcutland-Led Reform, and Institutional Survival
 
 ### 6.1 Hyperinflation and political divergence
@@ -318,6 +355,14 @@ The treaty is **not** an alliance grounded in affection or an ancestral brotherh
 Bilateral embassies re-opened in **Depsetica** and **Reltronepolis**. **Aurastelia, Astrostelia, Kalgered, Beluftner** and other civilizations opened, restored or expanded official diplomatic relationships with both nations. The striking **planetary supply-chain disruption** had exposed their systemic significance: the change was deepened diplomacy, **not** an assertion that all third-party trade and archival trust first began after 1010 BAC. Summits, investment cooperation, reconstruction programs and scientific channels resumed.
 
 The states did **not** merge into a military alliance. They re-established sovereign diplomacy and cooperation where the expected mutual value exceeded the costs.
+
+### 7.5 Postwar Eastern Lessons without Foreign Command
+
+Older Eastern governments could examine the failed offers after 1010 BAC while respecting the bilateral, sovereign settlement. They had long experienced regional policy and patent disagreements without escalating to war of comparable systemic impact, but that experience did not give them a universal mandate to govern others.
+
+Their lesson was that **rejecting foreign jurisdiction and rejecting foreign evidence are not the same decision**, and that a war waged bilaterally can still impose vast economic externalities. The modern multipolar order preserves national agency, professional interoperability, and the specific postwar oversight arrangements, not a permanent Eastern geopolitical bloc.
+
+---
 
 ## 8. The Modern Multipolar Relationship
 

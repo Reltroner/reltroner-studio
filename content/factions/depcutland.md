@@ -1207,6 +1207,41 @@ It transformed open warfare into structured rivalry.
 
 ---
 
+## 12. Older Eastern States and the Rejected Peace Initiatives
+
+Depcutland's **1121 BAC** founding took place after the formation of eight independent states on the Eastern Continent, east of the Central Ocean:
+
+
+| Foundation (BAC) | State | Foundation mechanism |
+|---|---|---|
+| **2882** | Stelpadland | Scot Stetson's sovereign consolidation of a pre-existing Kalgeredian-influenced frontier |
+| **2694** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
+| **2628** | Calespia | Post-Stetson agricultural settlement, later culinary specialization |
+| **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
+| **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
+| **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
+| **1234** | Scenrepolia | Cistheta-influenced **local** interface and infrastructural discoveries |
+| **1186** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
+
+
+At the **1125–1121 BAC** foundation window of Reltronland and Depcutland, the eight countries' territorial extents relative to their modern borders were: **Stelpadland 100%, Pencilfania 87%, Calespia 76%, Ethaptoria 67%, Scenrepolia 57%, Taramistry 45%, Mapether 39%, and Krisberia 28%**. These figures measure national territory against later boundaries, **not** the population share, percentage of built or inhabited land, biodiversity loss, or economic output.
+
+The continent was relatively stable compared with the main-continent crises, but **not conflict-free**: Stelpadland and Pencilfania disputed ecological and regional-public-art policy in **2470–2452 BAC**; Stelpadland and Ethaptoria disputed simulation and scouting credentials in **2256–2243 BAC**; Scenrepolia and Taramistry contested patents in **1153–1138 BAC**; and Calespia and Taramistry disputed biological provenance in **1149–1137 BAC**. Mapether and Krisberia had exceptionally peaceful interstate records without participation in regional armed conflict. The states were not a united bloc or superior authority over Depcutland.
+
+### Preventive and wartime offers, 1057–1030 BAC
+
+Eastern representatives offered **preventive economic dialogue in 1057–1049 BAC**, a **first de-escalation initiative in 1048–1047 BAC** after Depcutland's first missile attack at Neiput, and a **second industrial-infrastructure stabilization initiative in 1042–1039 BAC**. Stelpadland could facilitate neutral dialogue; Pencilfania could make evidence comprehensible through visual documentation; Ethaptoria could model alternative outcomes; Scenrepolia could examine interface and infrastructure risks; Taramistry could assess chemical and medical hazards; Calespia could offer civilian supply expertise; and peaceful Mapether and Krisberia could provide neutral facilities. These were **offers, not deployments, accepted treaties, a permanent alliance, or guaranteed solutions**.
+
+Both belligerents rejected **foreign-administered settlement and direct external control of their conflict**. Reltronland regarded its financial, patent, institutional-capture and industrial exposures as matters requiring direct sovereign accountability; Depcutland insisted that outside models could not override its memory, industrial interests and territorial sovereignty. Having unusually detailed knowledge of their shared Depeisit-rooted institutions did not create mutual trust: this is the **bilateral epistemic paradox**. Neither side's assertion that outsiders lacked full context proves outsiders had nothing useful to contribute. Equally, outside mediation was not automatically wise or adequately informed.
+
+This refusal must remain **distinct** from the already-canonical rejection of foreign **private military forces** and must not be misread as zero earlier commerce, communication, diplomatic observers, or lawful civilian protection. The **1031 BAC limited institutional ceasefire**, **1030–1010 BAC reconstruction**, **1010 BAC Troncut Treaty** with third-party oversight involving **Beluftner, Kalgered and Aurastelia**, and **1010–995 BAC second diplomatic restoration** all remain intact.
+
+Depcutland's choice was shaped by its insistence that its own sovereignty, historical records, industrial survival, and interpretation of Reltronland's military and financial pressure could not be delegated to a foreign institution. Reltronland's contrary structural assessment did not make either party infallible. **Depcutland fired the first missiles in 1048 BAC**, and this history of mediation refusal cannot shift responsibility for those actions, erase the distinct domestic **Depcutland-led** reform movement, or excuse unlawful conduct.
+
+Historically, the two countries did not reject each other because they lacked knowledge of each other's institutions. Rather, **familiarity coexisted with distrust**. Their mutual Depeisit-rooted economic context made them skeptical of outsiders' simplified models while their own interpretations remained incompatible. Postwar diplomatic observation, sovereign reconstruction and the Troncut Treaty do not retroactively transform the Eastern offers into accepted wartime settlements.
+
+---
+
 # IX. Troncut Treaty — Executive Summary
 
 *Signed 1010 BAC, Neiput Region*

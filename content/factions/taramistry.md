@@ -92,6 +92,16 @@ This chain defines Taramistry's role in Asthortera:
 
 ---
 
+### 2.1 The 1186 BAC Foundation and Scientific Independence
+
+**Taramistry was founded in 1186 BAC**, after Scenrepolia's foundation in 1234 BAC and before Reltronland (1125 BAC) and Depcutland (1121 BAC). Its independent scientific identity emerged after the **1256 BAC arrival of Cisthetan emissaries**, itself subsequent to the **1673 BAC Depeisit–Cistheta Pact**. Its local scientific communities developed original biochemical, pharmaceutical, and scientific-government methods from exchanged knowledge. This was **not the creation of a Cisthetan colony**. Scenrepolia separately developed modular interfaces and infrastructure-access science; neither nation is the other's parent civilization.
+
+Tachemistria became the national research and administrative center. Present-day Synthetism of Merit, the National Scientific Presidium, the Bioethical Tribunal, and the Public Synthesis Exchange must be interpreted as mature institutions rather than assumed unchanged since foundation.
+
+At the **1125–1121 BAC** reference window, Taramistry held about **45% of its modern 125 million km² territory**, compared with **57% for Scenrepolia** and **76% for Calespia**. These are territorial—not urbanization or demographic—ratios. The **17% modern Cisthetan-descended population** does not imply Cisthetan political control at founding. The broader founding order is Stelpadland (2882), Pencilfania (2694), Calespia (2628), Ethaptoria (2556), Krisberia (2320, conditional), Mapether (2164), Scenrepolia (1234), Taramistry (1186 BAC).
+
+---
+
 ## 3. Geographic Position and Strategic Placement
 
 Taramistry is located on Asthortera's **eastern continent**, occupying a major scientific-industrial belt along the eastern and southeastern side of the continent. It lies southeast of Pencilfania, east of Calespia, north of Krisberia, and along the broader Marintesa-facing coastal system.
@@ -915,6 +925,20 @@ If a medicine saves lives, should its inventor receive massive private gain, or 
 
 ---
 
+### 9. 1153–1138 BAC — The Scenrepolian Interface–Synthesis Patent Dispute
+
+Laboratory hardware and infrastructure interface designs raised contested patent, procurement and interoperability claims between Scenrepolian technology developers and Taramistrian researchers. Taramistry defended reproducibility, safety and legitimate public-interest research; Scenrepolia defended enforceable inventions, responsible engineering and licensing. The dispute was **legal, commercial, political and regulatory**, not an interstate war. Its negotiated framework distinguished patented implementations from shared interoperability standards and subjected public-benefit exceptions to review rather than unlimited appropriation.
+
+### 10. 1149–1137 BAC — The Calespian Botanical Sovereignty Dispute
+
+Calespia's cultivated herbs and agricultural materials supplied important inputs to Taramistry's botanical pharmacology and Agri-Synth research. New biochemical processes generated disagreement about biological provenance, attribution, patentable derivatives, producer benefits and licensing. The settlement distinguished ownership and credit for a source material from a legitimately new process, establishing provenance records and reviewable benefit-sharing. Their modern collaborative trade **does not erase this historical disagreement**.
+
+### The Eastern Continental Stability Boundary
+
+Scenrepolia and Taramistry both emerged from Cistheta-influenced **local discoveries**, but chose different institutions and scientific economic priorities. Taramistry's internal ethical, professional, central-versus-regional, and patent-policy tensions remain meaningful despite its high SDI. The Eastern Continent also experienced Stelpadland–Pencilfania and Stelpadland–Ethaptoria disputes, whereas **Mapether and Krisberia retained notably peaceful interstate histories**. These episodes were significantly less destructive than the Reltronland–Depcutland War.
+
+---
+
 ## 26. Foreign Relations
 
 Taramistry's foreign relations are built around medical diplomacy, scientific licensing, pharmaceutical trade, and research education.
@@ -947,6 +971,18 @@ Stelpadland supplies construction matter for laboratories, hospitals, research c
 ### Krisberia
 
 Krisberia supplies cultural artefacts that influence Taramistry's museums, healing environments, public symbolism, and ceremonial research spaces.
+
+---
+
+### Eastern Peace Diplomacy during the Reltronland–Depcutland War
+
+Eastern representatives offered **preventive economic dialogue in 1057–1049 BAC**, a **first de-escalation initiative in 1048–1047 BAC** after Depcutland's first missile attack at Neiput, and a **second industrial-infrastructure stabilization initiative in 1042–1039 BAC**. Stelpadland could facilitate neutral dialogue; Pencilfania could make evidence comprehensible through visual documentation; Ethaptoria could model alternative outcomes; Scenrepolia could examine interface and infrastructure risks; Taramistry could assess chemical and medical hazards; Calespia could offer civilian supply expertise; and peaceful Mapether and Krisberia could provide neutral facilities. These were **offers, not deployments, accepted treaties, a permanent alliance, or guaranteed solutions**.
+
+Both belligerents rejected **foreign-administered settlement and direct external control of their conflict**. Reltronland regarded its financial, patent, institutional-capture and industrial exposures as matters requiring direct sovereign accountability; Depcutland insisted that outside models could not override its memory, industrial interests and territorial sovereignty. Having unusually detailed knowledge of their shared Depeisit-rooted institutions did not create mutual trust: this is the **bilateral epistemic paradox**. Neither side's assertion that outsiders lacked full context proves outsiders had nothing useful to contribute. Equally, outside mediation was not automatically wise or adequately informed.
+
+This refusal must remain **distinct** from the already-canonical rejection of foreign **private military forces** and must not be misread as zero earlier commerce, communication, diplomatic observers, or lawful civilian protection. The **1031 BAC limited institutional ceasefire**, **1030–1010 BAC reconstruction**, **1010 BAC Troncut Treaty** with third-party oversight involving **Beluftner, Kalgered and Aurastelia**, and **1010–995 BAC second diplomatic restoration** all remain intact.
+
+Taramistry's role in these proposals was scientific risk evaluation and possible medical or industrial support, **not command of the warring states or a military alliance**. Existing modern trade relations with Calespia, Scenrepolia, and others remain compatible with their historical competition.
 
 ---
 
