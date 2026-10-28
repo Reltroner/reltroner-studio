@@ -319,6 +319,48 @@ Stelpadland becomes a civilization of wilderness memory, disciplined survival, a
 
 ---
 
+### 2882–2164 BAC — The Older Eastern Continental Foundations
+
+| Date | State | Lineage |
+|---|---|---|
+| **2882 BAC** | Stelpadland | Scot Stetson's independent Kalgered-influenced frontier |
+| **2694 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
+| **2628 BAC** | Calespia | Post-Stetsonian agriculture and later culinary excellence |
+| **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
+| **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
+| **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
+| **1234 BAC** | Scenrepolia | Cistheta-influenced **local** interface/connectivity science |
+| **1186 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
+| **1125 BAC** | Reltronland | Independent sovereign founding, Troner Rhett |
+| **1121 BAC** | Depcutland | Independent sovereign founding, Cutter Glouster |
+
+The Stelpadland founding in **2882 BAC** remains sovereign consolidation by Scot Stetson after a pre-existing Kalgeredian-influenced frontier; its cultural maturation toward **2432 BAC** remains separate. **Krisberia's tentative 2320 BAC date must remain conditional** until the completion dates of Aurastelia and Astrostelia's modern territories are established. Krisberia and Mapether began at about **4%** and **5%** of modern territory. Mapether's Beluftner merchant expedition set an exceptional maritime-distance record, then stopped rather than extend into future resource-richer Reltronland because onward settlement was uneconomical for its small migrant population. Later Depeisit arrivals transformed Mapether's language and 1930s-inspired gangster-chic fashion without founding the state.
+
+**2470–2452 BAC — Canvas–Canopy Dispute:** Stelpadland and Pencilfania contested ecological policy, artistic public space and regional autonomy; negotiated environmental review reduced the dispute. **2256–2243 BAC — Wilderness–Puzzle Controversy:** Stelpadland and Ethaptoria disputed simulation versus field-based accreditation and reached a mixed standard. These were institutional conflicts, not ethnic, tribal or religious wars.
+
+### Older Eastern States, Language and Non-Theological Civic Traditions
+
+| Date | State | Lineage |
+|---|---|---|
+| **2882 BAC** | Stelpadland | Scot Stetson's independent Kalgered-influenced frontier |
+| **2694 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
+| **2628 BAC** | Calespia | Post-Stetsonian agriculture and later culinary excellence |
+| **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
+| **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
+| **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
+| **1234 BAC** | Scenrepolia | Cistheta-influenced **local** interface/connectivity science |
+| **1186 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
+| **1125 BAC** | Reltronland | Independent sovereign founding, Troner Rhett |
+| **1121 BAC** | Depcutland | Independent sovereign founding, Cutter Glouster |
+
+The older Eastern states were secular, **without formal Earth-style state religions** or historical conflicts *caused by* religious, racial, ethnic or tribal difference. Their civic practices were grounded in science, philosophy, reflective inquiry and public responsibility; rituals need not be theological worship. They still had disputes about governance, ecology, autonomy, political jurisdiction, education, science and intellectual property. **Do not universalize this rule across Asthortera:** Aurastelia's established **Aurora Sancta** and other spiritual or metaphysical traditions remain intact.
+
+Language histories diverged: **Calespia and Ethaptoria** from Stelpadien; **Krisberia** from Aurastelian; **Mapether** primarily from Depeisian after its Beluftner merchant founding (with a Beluftner historical substrate); **Scenrepolia and Taramistry** from Cisthetan mixed with Depeisian. Each has distinct accents and registers. Pencilfania's official **Pencilfain / Artesian Pictolatin** remains its own language identity; deeper genealogical reconstruction is still open.
+
+
+
+---
+
 ## V. Intergalactic Contact Era
 
 ### 1673 BAC — Depeisit–Cistheta Pact
@@ -332,6 +374,12 @@ This pact becomes a major precursor to later interplanetary movement, scientific
 Cistheta emissaries arrive in Asthortera and begin studying the integration of magic and science within Beluftner-influenced lands.
 
 This marks a new phase of external scientific interest in Asthortera's unique metaphysical and technological potential.
+
+---
+
+### 1234 BAC — Foundation of Scenrepolia
+
+After the **1256 BAC Cistheta arrival**, independent local scientific discoveries in interfaces, modular connectivity and built-environment access drove the sovereign foundation of **Scenrepolia**, capital **Skalatores**, symbol **electric socket and window**. External knowledge influenced an independent state; this was **not a direct colonial founding**.
 
 ---
 
@@ -356,6 +404,24 @@ Reltronian and Depcutian identities begin forming under Depeisit administrative 
 Colonists from **Depeisit** land across Asthortera, especially in the future territories of Reltronland and Depcutland.
 
 This event marks the beginning of a major demographic, technological, and political transformation.
+
+### 1186 BAC — Foundation of Taramistry
+
+Independent Cistheta-influenced **local** biochemical, pharmaceutical and ethical-governance research established **Taramistry**, capital **Tachemistria**. The Tarisian language subsequently developed Cisthetan and Depeisian influences. Scenrepolia and Taramistry have distinct sovereign origins.
+
+### 1153–1138 BAC — Scenrepolia–Taramistry Interface–Synthesis Patent Dispute
+
+Licensing, interoperability, laboratory interfaces and research access produced serious political, legal and economic friction, resolved without a devastating interstate war.
+
+### 1149–1137 BAC — Calespia–Taramistry Botanical Sovereignty Dispute
+
+Agricultural provenance, biotech-derived patents and sharing benefits became contested. Negotiated provenance and licensing procedures supported the later scientific partnership.
+
+### 1125–1121 BAC — Eastern Territorial Extents at the Founding of the New Rivals
+
+Relative to **present-day territory**, Stelpadland **100%**, Pencilfania **87%**, Calespia **76%**, Ethaptoria **67%**, Scenrepolia **57%**, Taramistry **45%**, Mapether **39%**, Krisberia **28%**. These are **not** urbanization or settlement percentages. Mapether and Krisberia remained especially peaceful and nonbelligerent in Eastern conflicts.
+
+---
 
 ### 1125 BAC — Foundation of Reltronland in Rathroper
 
@@ -534,6 +600,12 @@ Diplomatic trust rapidly deteriorates.
 
 ---
 
+### 1057–1049 BAC — Rejected Preventive Eastern Diplomacy
+
+The older Eastern states offered discussions on economic spillovers, debt, patents and industrial continuity after the Depeisit crisis. Reltronland and Depcutland declined **foreign-administered settlement**, citing sovereign responsibility and their unusual knowledge of one another's Depeisit-rooted systems; this did not imply full mutual trust or prove all external analysis worthless. This period overlaps subsequent separately recorded escalation events.
+
+---
+
 ## ⚔️ Open Conflict Era
 
 ## 1048–1030 BAC — Reltronland–Depcutland War
@@ -585,6 +657,12 @@ rather than merely administrative.
 
 ---
 
+### 1048–1047 BAC — First Rejected Eastern Peace Initiative
+
+After Depcutland's first open missile strike near Neiput, Eastern representatives offered neutral negotiations and civilian-risk reduction. Both states declined to place ultimate settlement control in foreign hands; the Eastern countries did **not** become a permanent alliance or enter the war as one belligerent bloc.
+
+---
+
 ## 1047 BAC — Reiweston Bay Trade Crisis
 
 A merchant vessel is intercepted.
@@ -625,6 +703,12 @@ One of the most dangerous campaigns centers around Depcutland's nuclear-industri
 Despite intense fighting,
 
 both civilizations deliberately avoid catastrophic nuclear escalation, recognizing that civilization-scale destruction would undermine the future they both sought to protect.
+
+---
+
+### 1042–1039 BAC — Second Rejected Infrastructure-Stabilization Initiative
+
+Eastern specialists offered proposals for transport, chemical safety, public communications and cross-border infrastructure stabilization. Both belligerents again refused externally administered conflict control. The **bilateral epistemic paradox** describes deep mutual familiarity combined with distrust, **not** the impossibility of useful third-party evidence. The distinct refusal of foreign private military forces and the later allowance of peace observers remain intact.
 
 ---
 
@@ -774,6 +858,12 @@ This period becomes the true foundation of modern Depcutland.
 
 ---
 
+### 1030 BAC — Ceasefire Recovery: The Beginning, Not the Treaty
+
+The **1031 BAC limited institutional ceasefire** preceded the **1030 BAC end of open warfare**. From 1030 onward, reconstruction and returning confidence started lowering distributional pressure, reviving economic production and encouraging births. The **1010 BAC** formal treaty would later accelerate those developments rather than originate them. This did not make hardship disappear immediately.
+
+---
+
 ## 1010 BAC — Troncut Treaty
 
 Reltronland and Depcutland formally normalize relations.
@@ -797,6 +887,12 @@ The rivalry between both civilizations transitions away from military confrontat
 The war ends not because either civilization is destroyed,
 
 but because both recognize that preserving civilization is ultimately more important than prolonging conflict.
+
+---
+
+### 1010 BAC — Troncut Treaty Demographic and Economic Acceleration
+
+At this treaty-year benchmark, **planetary SDI was 0.707**, **period life expectancy was 80 years**, and **annual real economic growth was 10%**. Inequality was at its historic low; an **income Gini ~0.240** is a **candidate reconstruction**, not a verified historical observation. Abundant ordinary materials, low inflation and large stimulus require growth in productive supply as well as demand. Positive interplanetary net migration and fertility increased; the treaty was an **acceleration trigger**. The actual historical ancestry mix cannot be read backward from Year 0.
 
 ---
 
@@ -842,6 +938,16 @@ The **Twin Digital Accord** strengthens digital cooperation, system compatibilit
 
 This codex develops the principles of zoning, urban integrity, sentient habitability, and ethical spatial design.
 
+### 1010–950 BAC — Great Acceleration / Childhood-Centered Century
+
+The postwar recovery produced a broad **baby boom and positive migration**, with **TFR near four** at the peak and **brief population-growth peaks approaching 3% per year**. Children, peer friendships, questioning and schools became prominent in civic public spaces. The playful *Peanuts/Snoopy* comparison is an **external mood analogy**, not an Earth reference in in-world history. Early-life development remained Earth-comparable even as later centuries brought ever-longer adult youth. The near-utopian childhood atmosphere expanded over time; **SDI was still 0.707 in 1010 BAC**, so universal happiness cannot be inferred.
+
+### 950 BAC — Peak Planetary Real Economic Growth
+
+The planetary **annual real GDP growth rate reached 15%**, compared with **10% in 1010 BAC**. A hypothetical population-growth interval average of **2.75%** in 970–950 BAC can contain a **near-2.95% annual peak**; this cannot persist for the entire 1010–780 BAC window without exceeding the millennium population endpoint.
+
+---
+
 ### 949 BAC — Energy Codex Established
 
 The **Energy Codex** is established as a universal decree to align technology with spiritual and ecological responsibility.
@@ -880,6 +986,18 @@ Asthortera formally recognizes all sovereign states, establishing a planetary di
 ### 825 BAC — Interplanetary Education Regulation
 
 Asthortera establishes interplanetary education standards to regulate academic exchange, civilizational learning, and transplanetary educational legitimacy.
+
+---
+
+### 950–780 BAC — Demographic and Economic Normalization
+
+After the Great Acceleration, **planetary TFR, net-migration intensity and GDP growth generally moderated**, while income inequality gradually rose from the treaty-era low. None of these trends was uniform across all years or countries.
+
+### 780 BAC–Year 0 — Long-Horizon Demographic Compounding (Retrospective)
+
+A planet-wide **0.4% population CAGR over 1010 years** and modern **4.412 trillion population** imply a **conditional 1010 BAC population of approximately 78.27 billion**, or a **56.37×** increase. This is a **calculated scenario, not an ancient census**. A piecewise-consistent population-growth reconstruction is: **1.40% (1010–995 BAC), 2.40% (995–970), 2.75% (970–950), 1.20% (950–920), 0.70% (920–850), 0.45% (850–780), 0.22% (780–600), 0.18% (600–300), and ~0.197658% (300–Year 0)**. All intermediate values are **simulation V1**, not fixed observational records.
+
+The economic-demographic transition also raised **life expectancy from 80 to ~475 years** and **SDI from 0.707 to 0.938**. Simulated intermediate markers may be **SDI 0.775/0.850/0.915** and **life expectancy 102/170/385 years** around **950/780/300 BAC**, but require separate biological and institutional validation. The **Year 0 real economic growth rate is 7.5%**.
 
 ---
 
@@ -993,6 +1111,14 @@ Aurethea is the Moon of Dawn, symbolizing clarity, beginning, and the birth of v
 This creates the central Reltroner contrast:
 
 > **The calendar says dawn, but civilization begins staring into the abyss.**
+
+### Year 0 — The Extended-Youth Biological Profile
+
+Modern life expectancy is approximately **475 years** while childhood and the move into young adulthood still follow broadly **Earth-comparable chronology**. Most sentients are healthy, fresh-looking and naturally attractive under diverse local standards, without requiring cosmetic interventions. After young adulthood, visible aging advances exceptionally slowly: **55% × 475 = 261.25 years** is the reference onset of subtle visible aging and **75% × 475 = 356.25 years** marks progressive greying.
+
+The **human-lineage female reproductive endpoint X** uses the stipulated Earth comparator **45/76**, about **59.21%** of a female lifespan; **X ≈ 281.25 years** only if female life expectancy is assumed equal to the **475-year aggregate**. Sex-specific expectancy and non-human reproductive physiology require recalibration. Period life expectancy is **not maximum age**, and the proportional visual-aging markers are **model references**, not automatic biological clocks. The **~252-year median age** is close to, but below, the first visible aging marker; outward youth can coexist with centuries of accumulated experience. Early responsibility in the 20s is not a literal quarter of a 475-year life.
+
+---
 
 ## 0 AC onward — Modern Canon Timeline
 

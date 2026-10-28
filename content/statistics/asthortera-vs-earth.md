@@ -275,6 +275,71 @@ A citizen may participate in several major economic, technological, cultural, or
 
 ---
 
+## 7.3 Historical Population Boom and Interplanetary Migration
+
+| Indicator | **1010 BAC** | **Year 0** |
+|---|---:|---:|
+| **Planetary SDI** | **0.707** | **0.938** |
+| **Period life expectancy** | **80 years** | **~475 years** |
+| **Annual planetary real economic growth** | **10%** | **7.5%** |
+
+**950 BAC:** annual planetary real economic growth reached its **15% peak**. The **1030 BAC** end of open warfare initiated declining inequality pressures, rebuilding and renewed births, while the **1010 BAC Troncut Treaty** accelerated an already-underway economic and demographic recovery. The treaty era marks the historical **minimum planetary income inequality**, followed by a gradual upward Gini trend and declining fertility, immigration intensity and GDP-growth rates toward **780 BAC**. These are planetary tendencies, not identical trends in all countries.
+
+Modern descent composition does **not** mean 90% of people are recent arrivals: Depeisit, Cistheta, Cosmeilia-mixed and native Asthorteran communities span many generations. National population histories and current proportions are different and should not be flattened into one planetary template.
+
+### Quantitative reconstruction (simulation, not a recovered ancient census)
+
+The established Year 0 population is **4.412 trillion**. Interpret the approximately **0.4% average annual population growth over 1010 years** as a **compound annual growth rate (CAGR)**, not as a flat rate every year or an arithmetic mean. Then:
+
+`P(1010 BAC) = 4.412 trillion / (1.004 ^ 1010) ≈ 78.268 billion`.
+
+The total increase is about **56.370×**. The resulting early number is a **conditional derived value**, not an independently recorded census.
+
+**Illustrative piecewise annual population growth (Simulation V1):**
+
+| Historical interval | Average annual compounded growth |
+|---|---:|
+| 1010–995 BAC | 1.40% |
+| 995–970 BAC | 2.40% |
+| 970–950 BAC | 2.75% |
+| 950–920 BAC | 1.20% |
+| 920–850 BAC | 0.70% |
+| 850–780 BAC | 0.45% |
+| 780–600 BAC | 0.22% |
+| 600–300 BAC | 0.18% |
+| 300 BAC–Year 0 | 0.197658% |
+
+**Implied model population snapshots:**
+
+| Date | Population |
+|---|---:|
+| 1010 BAC | 78.27 billion |
+| 995 BAC | 96.42 billion |
+| 970 BAC | 174.44 billion |
+| 950 BAC | 300.12 billion |
+| 920 BAC | 429.25 billion |
+| 850 BAC | 699.47 billion |
+| 780 BAC | 957.78 billion |
+| 600 BAC | 1,422.51 billion |
+| 300 BAC | 2,439.86 billion |
+| Year 0 | **4,412 billion** |
+
+These piecewise rates close to the stated 4.412 trillion by construction, to rounding. The interval **970–950 BAC** can contain an **individual-year near-2.95% population-growth peak** and a **2.75% interval average**; a 3%-per-year increase cannot persist throughout 1010–780 BAC without contradicting the 0.4% 1010-year CAGR. **Births minus deaths plus net immigration** determine annual change. TFR is not the annual birth-rate percentage. A peak **near four children per woman** during the Great Acceleration and net-positive immigration are narrative constraints, not a uniquely inferable set of annual births and migrants.
+
+**Provisional research targets, not independently validated facts:** income Gini **~0.240 at 1010 BAC** as a candidate planetary low; SDI **0.775 (950 BAC), 0.850 (780 BAC), 0.915 (300 BAC)**; period life expectancy **102, 170, 385 years** at those respective dates; TFR **~3.95 around 970 BAC** and **~1.70 at Year 0**. A full cohort/survival/migration model and independently defined SDI/Gini methodologies are required before freezing intermediate values.
+
+Price stability amid major stimulus requires parallel expansion in productive supply and reliable institutions; **cheap necessities do not mathematically imply low income Gini**. If real GDP growth is **15%** and population growth is **2.75%** at the same date, real GDP-per-capita growth is approximately **(1.15 / 1.0275 − 1) = 11.92%**, not 15%.
+
+### 1010–950 BAC: The Childhood-Centered Great Acceleration
+
+The early post-Troncut era was **especially child-rich**: birth rates rose, TFR reached **nearly four children per woman** at its peak, and net-positive interplanetary immigration brought additional families. Public life became unusually playful, inquisitive and education-centered—an **external analogy** is the everyday child-focused mood of *Peanuts/Snoopy*, **not** literal Earth characters or imported Earth history.
+
+Children learned through questions, peer friendship, exploration and epistemic experimentation in a growing network of schools, playgrounds and public spaces. Ethaptoria emphasized puzzle play; Calespia culinary and agricultural discovery; Scenrepolia safe curiosity about infrastructure; Krisberia material craftsmanship; Mapether fashion exploration and its glowing mushroom forests. The years from birth to first adult responsibility were intended to offer **widespread happiness, safety, opportunity and near-utopian childhood**.
+
+This is an **aspiration and broad era atmosphere**, not a claim that hardship, loss or inequality disappeared or that a planet with **SDI 0.707 in 1010 BAC** had already attained the modern civilizational floor. **TFR and annual growth alone do not determine the fraction under age 25**; the actual child-share requires age-specific fertility, mortality, and migrant age profiles.
+
+---
+
 # 8. 🏙️ Civilization at Multi-Trillion Scale
 
 Asthorteran population density cannot be visualized simply by multiplying an Earth city outward across the landscape.
@@ -373,6 +438,20 @@ This means Asthortera does not reduce progress to GDP, military strength, or tec
 The central question is:
 
 > **How deeply has a civilization developed its sentient capacity?**
+
+---
+
+## 10.1 The Historic Economic and SDI Contrast
+
+| Indicator | **1010 BAC** | **Year 0** |
+|---|---:|---:|
+| **Planetary SDI** | **0.707** | **0.938** |
+| **Period life expectancy** | **80 years** | **~475 years** |
+| **Annual planetary real economic growth** | **10%** | **7.5%** |
+
+**950 BAC:** annual planetary real economic growth reached its **15% peak**. The **1030 BAC** end of open warfare initiated declining inequality pressures, rebuilding and renewed births, while the **1010 BAC Troncut Treaty** accelerated an already-underway economic and demographic recovery. The treaty era marks the historical **minimum planetary income inequality**, followed by a gradual upward Gini trend and declining fertility, immigration intensity and GDP-growth rates toward **780 BAC**. These are planetary tendencies, not identical trends in all countries.
+
+A 950 BAC **15% real GDP** growth peak with a coincident **2.75% modeled population growth** implies approximately **11.92%** real GDP-per-capita growth in that year. This is a conditional arithmetic illustration and is not evidence of permanent 15% growth, universal affluence, low inflation without supply growth, or a fully reconstructed income distribution.
 
 ---
 
@@ -680,6 +759,30 @@ This helps explain why Asthorteran society can place unusual emphasis on:
 A person may live long enough to experience decisions that would span several human generations under Earth benchmarks.
 
 This also increases the importance of avoiding stagnation. A society with long-lived citizens can accumulate wisdom—but it can also accumulate inertia if institutions stop adapting.
+
+---
+
+## 17.1 Earth-Comparable Childhood, Asthorteran Extended Youth
+
+### Extended Youth: the Modern Asthorteran Life Course
+
+On **Year 0**, healthy Asthorteran sentients are generally described as **naturally attractive, bright-faced, fresh-looking, physically healthy and well-conditioned** even without makeup, cosmetic skin procedures or elective plastic surgery. This is a broad fictional phenotypic tendency, **not** a compulsory appearance, Earth-centric standard of beauty, caste marker, guarantee of wellness or uniform face/body. Species and individuals retain diverse appearances and biological histories.
+
+**Infancy through adolescence and young adulthood proceed over broadly Earth-comparable chronological years.** The illustrative **0–25-year early-life window** includes a first-adult-responsibility transition in one's 20s. A “quarter-life crisis” here names a **social/psychological milestone**; 25 years is only **~5.26%** of the Year 0 expectancy of 475, not one quarter of that lifespan. **Visible adult aging is extremely slow after young-adult physical maturity**, even across centuries.
+
+| Reference (Year 0) | Arithmetic | Approximate age |
+|---|---|---:|
+| Subtle visible aging begins | 55% × 475 | **261.25 years** |
+| Female reproductive endpoint X (illustrative human-lineage reference) | (45 / 76) × 475 | **281.25 years** |
+| Progressive visible greying | 75% × 475 | **356.25 years** |
+
+For X, the ratio `45 / 76 ≈ 59.21%` uses **45 years as the chosen Earth reproductive-endpoint comparator** and **76 years as an assumed Earth female life-expectancy benchmark**; these are **calibration conventions**, not medical rules governing all Earth women or a permanent demographic constant. Because **475 is the aggregate planetary life expectancy**, the value 281.25 assumes women's Asthorteran life expectancy equals 475. With an actual sex-specific value `L_female`, use `X = (45 / 76) × L_female`. Different sentient physiologies require separate reproductive models. The first visible aging marker and reproductive endpoint are **different thresholds**.
+
+For a **hypothetical 1010 BAC 80-year period life expectancy**, applying identical ratios gives **44 years** for subtle visible aging, **47.37 years** for X under the same female assumption, and **60 years** for greying. These are cross-era **model references**, not proof that individual aging changes automatically as an aggregate life expectancy changes. Period life expectancy is **not maximum age**; medical improvement, cohort effects, and individual differences matter.
+
+The modern **~252-year median age** lies slightly below the 55% / **261.25-year** visual-aging reference. That permits an apparently youthful but chronologically experienced population. One cannot reliably infer professional seniority, responsibility or experience from the face.
+
+**Comparative principle:** early development is similar in chronological years, whereas healthy adult aging is **not** a linear Earth-to-Asthortera scaling of every life stage. Under a 475-year life expectancy, the 20s are a first-responsibility transition, not old age or a literal quarter of life.
 
 ---
 

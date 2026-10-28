@@ -459,6 +459,63 @@ This makes Asthortera simultaneously:
 
 ---
 
+## 13.1 Galactic Descent and the Great Demographic Transition
+
+The modern planetary categories comprise approximately **61% Depeisit descent (2.691 trillion), 24% Cistheta descent (1.059 trillion), 7% native Asthorteran (308.84 billion), 5% Cosmeilia-mixed (220.60 billion), and 3% other sentients (132.36 billion)**. These are **lineages, not first-generation migrant shares**. Cenrestier, Aurastelia, Astrostelia, Kalgered, Hargenbor, Moreg and Lenternow differ markedly from the planet average. Distinguish migration, natural increase, mixed heritage and national identity.
+
+| Indicator | **1010 BAC** | **Year 0** |
+|---|---:|---:|
+| **Planetary SDI** | **0.707** | **0.938** |
+| **Period life expectancy** | **80 years** | **~475 years** |
+| **Annual planetary real economic growth** | **10%** | **7.5%** |
+
+**950 BAC:** annual planetary real economic growth reached its **15% peak**. The **1030 BAC** end of open warfare initiated declining inequality pressures, rebuilding and renewed births, while the **1010 BAC Troncut Treaty** accelerated an already-underway economic and demographic recovery. The treaty era marks the historical **minimum planetary income inequality**, followed by a gradual upward Gini trend and declining fertility, immigration intensity and GDP-growth rates toward **780 BAC**. These are planetary tendencies, not identical trends in all countries.
+
+### Quantitative reconstruction (simulation, not a recovered ancient census)
+
+The established Year 0 population is **4.412 trillion**. Interpret the approximately **0.4% average annual population growth over 1010 years** as a **compound annual growth rate (CAGR)**, not as a flat rate every year or an arithmetic mean. Then:
+
+`P(1010 BAC) = 4.412 trillion / (1.004 ^ 1010) ≈ 78.268 billion`.
+
+The total increase is about **56.370×**. The resulting early number is a **conditional derived value**, not an independently recorded census.
+
+**Illustrative piecewise annual population growth (Simulation V1):**
+
+| Historical interval | Average annual compounded growth |
+|---|---:|
+| 1010–995 BAC | 1.40% |
+| 995–970 BAC | 2.40% |
+| 970–950 BAC | 2.75% |
+| 950–920 BAC | 1.20% |
+| 920–850 BAC | 0.70% |
+| 850–780 BAC | 0.45% |
+| 780–600 BAC | 0.22% |
+| 600–300 BAC | 0.18% |
+| 300 BAC–Year 0 | 0.197658% |
+
+**Implied model population snapshots:**
+
+| Date | Population |
+|---|---:|
+| 1010 BAC | 78.27 billion |
+| 995 BAC | 96.42 billion |
+| 970 BAC | 174.44 billion |
+| 950 BAC | 300.12 billion |
+| 920 BAC | 429.25 billion |
+| 850 BAC | 699.47 billion |
+| 780 BAC | 957.78 billion |
+| 600 BAC | 1,422.51 billion |
+| 300 BAC | 2,439.86 billion |
+| Year 0 | **4,412 billion** |
+
+These piecewise rates close to the stated 4.412 trillion by construction, to rounding. The interval **970–950 BAC** can contain an **individual-year near-2.95% population-growth peak** and a **2.75% interval average**; a 3%-per-year increase cannot persist throughout 1010–780 BAC without contradicting the 0.4% 1010-year CAGR. **Births minus deaths plus net immigration** determine annual change. TFR is not the annual birth-rate percentage. A peak **near four children per woman** during the Great Acceleration and net-positive immigration are narrative constraints, not a uniquely inferable set of annual births and migrants.
+
+**Provisional research targets, not independently validated facts:** income Gini **~0.240 at 1010 BAC** as a candidate planetary low; SDI **0.775 (950 BAC), 0.850 (780 BAC), 0.915 (300 BAC)**; period life expectancy **102, 170, 385 years** at those respective dates; TFR **~3.95 around 970 BAC** and **~1.70 at Year 0**. A full cohort/survival/migration model and independently defined SDI/Gini methodologies are required before freezing intermediate values.
+
+Price stability amid major stimulus requires parallel expansion in productive supply and reliable institutions; **cheap necessities do not mathematically imply low income Gini**. If real GDP growth is **15%** and population growth is **2.75%** at the same date, real GDP-per-capita growth is approximately **(1.15 / 1.0275 − 1) = 11.92%**, not 15%.
+
+---
+
 # 14. 🕰️ Longevity
 
 Asthortera's approximate life expectancy is:
@@ -490,6 +547,36 @@ Long life therefore increases both:
 - and the danger of long-term inertia.
 
 This makes resistance to stagnation especially important within Asthorteran civilization.
+
+---
+
+## 14.1 Biological Extended Youth and Childhood Culture
+
+### Extended Youth: the Modern Asthorteran Life Course
+
+On **Year 0**, healthy Asthorteran sentients are generally described as **naturally attractive, bright-faced, fresh-looking, physically healthy and well-conditioned** even without makeup, cosmetic skin procedures or elective plastic surgery. This is a broad fictional phenotypic tendency, **not** a compulsory appearance, Earth-centric standard of beauty, caste marker, guarantee of wellness or uniform face/body. Species and individuals retain diverse appearances and biological histories.
+
+**Infancy through adolescence and young adulthood proceed over broadly Earth-comparable chronological years.** The illustrative **0–25-year early-life window** includes a first-adult-responsibility transition in one's 20s. A “quarter-life crisis” here names a **social/psychological milestone**; 25 years is only **~5.26%** of the Year 0 expectancy of 475, not one quarter of that lifespan. **Visible adult aging is extremely slow after young-adult physical maturity**, even across centuries.
+
+| Reference (Year 0) | Arithmetic | Approximate age |
+|---|---|---:|
+| Subtle visible aging begins | 55% × 475 | **261.25 years** |
+| Female reproductive endpoint X (illustrative human-lineage reference) | (45 / 76) × 475 | **281.25 years** |
+| Progressive visible greying | 75% × 475 | **356.25 years** |
+
+For X, the ratio `45 / 76 ≈ 59.21%` uses **45 years as the chosen Earth reproductive-endpoint comparator** and **76 years as an assumed Earth female life-expectancy benchmark**; these are **calibration conventions**, not medical rules governing all Earth women or a permanent demographic constant. Because **475 is the aggregate planetary life expectancy**, the value 281.25 assumes women's Asthorteran life expectancy equals 475. With an actual sex-specific value `L_female`, use `X = (45 / 76) × L_female`. Different sentient physiologies require separate reproductive models. The first visible aging marker and reproductive endpoint are **different thresholds**.
+
+For a **hypothetical 1010 BAC 80-year period life expectancy**, applying identical ratios gives **44 years** for subtle visible aging, **47.37 years** for X under the same female assumption, and **60 years** for greying. These are cross-era **model references**, not proof that individual aging changes automatically as an aggregate life expectancy changes. Period life expectancy is **not maximum age**; medical improvement, cohort effects, and individual differences matter.
+
+The modern **~252-year median age** lies slightly below the 55% / **261.25-year** visual-aging reference. That permits an apparently youthful but chronologically experienced population. One cannot reliably infer professional seniority, responsibility or experience from the face.
+
+### 1010–950 BAC: The Childhood-Centered Great Acceleration
+
+The early post-Troncut era was **especially child-rich**: birth rates rose, TFR reached **nearly four children per woman** at its peak, and net-positive interplanetary immigration brought additional families. Public life became unusually playful, inquisitive and education-centered—an **external analogy** is the everyday child-focused mood of *Peanuts/Snoopy*, **not** literal Earth characters or imported Earth history.
+
+Children learned through questions, peer friendship, exploration and epistemic experimentation in a growing network of schools, playgrounds and public spaces. Ethaptoria emphasized puzzle play; Calespia culinary and agricultural discovery; Scenrepolia safe curiosity about infrastructure; Krisberia material craftsmanship; Mapether fashion exploration and its glowing mushroom forests. The years from birth to first adult responsibility were intended to offer **widespread happiness, safety, opportunity and near-utopian childhood**.
+
+This is an **aspiration and broad era atmosphere**, not a claim that hardship, loss or inequality disappeared or that a planet with **SDI 0.707 in 1010 BAC** had already attained the modern civilizational floor. **TFR and annual growth alone do not determine the fraction under age 25**; the actual child-share requires age-specific fertility, mortality, and migrant age profiles.
 
 ---
 
@@ -544,6 +631,20 @@ It evaluates the inner infrastructure of civilization, including:
 Asthortera is therefore not defined only by technological advancement.
 
 It is defined by the attempt to develop **minds, institutions, and civilizations together**.
+
+---
+
+## 16.1 Historical SDI, Life Expectancy and Real Economic Growth
+
+| Indicator | **1010 BAC** | **Year 0** |
+|---|---:|---:|
+| **Planetary SDI** | **0.707** | **0.938** |
+| **Period life expectancy** | **80 years** | **~475 years** |
+| **Annual planetary real economic growth** | **10%** | **7.5%** |
+
+**950 BAC:** annual planetary real economic growth reached its **15% peak**. The **1030 BAC** end of open warfare initiated declining inequality pressures, rebuilding and renewed births, while the **1010 BAC Troncut Treaty** accelerated an already-underway economic and demographic recovery. The treaty era marks the historical **minimum planetary income inequality**, followed by a gradual upward Gini trend and declining fertility, immigration intensity and GDP-growth rates toward **780 BAC**. These are planetary tendencies, not identical trends in all countries.
+
+The development of life expectancy, SDI and GDP growth must be simulated separately. A life-expectancy gain from **80 to 475 years** does **not** mathematically imply an SDI change from **0.707 to 0.938**, nor does it directly set the visual aging clock. Material affordability does not by itself determine the Gini coefficient.
 
 ---
 
@@ -689,6 +790,33 @@ Instead, conflict increasingly operates through:
 - ethics;
 - sovereignty;
 - and existential security.
+
+---
+
+## 20.1 Eastern Continental Historical and Cultural Differentiation
+
+### Older Eastern States, Language and Non-Theological Civic Traditions
+
+| Date | State | Lineage |
+|---|---|---|
+| **2882 BAC** | Stelpadland | Scot Stetson's independent Kalgered-influenced frontier |
+| **2694 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
+| **2628 BAC** | Calespia | Post-Stetsonian agriculture and later culinary excellence |
+| **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
+| **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
+| **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
+| **1234 BAC** | Scenrepolia | Cistheta-influenced **local** interface/connectivity science |
+| **1186 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
+| **1125 BAC** | Reltronland | Independent sovereign founding, Troner Rhett |
+| **1121 BAC** | Depcutland | Independent sovereign founding, Cutter Glouster |
+
+The older Eastern states were secular, **without formal Earth-style state religions** or historical conflicts *caused by* religious, racial, ethnic or tribal difference. Their civic practices were grounded in science, philosophy, reflective inquiry and public responsibility; rituals need not be theological worship. They still had disputes about governance, ecology, autonomy, political jurisdiction, education, science and intellectual property. **Do not universalize this rule across Asthortera:** Aurastelia's established **Aurora Sancta** and other spiritual or metaphysical traditions remain intact.
+
+Language histories diverged: **Calespia and Ethaptoria** from Stelpadien; **Krisberia** from Aurastelian; **Mapether** primarily from Depeisian after its Beluftner merchant founding (with a Beluftner historical substrate); **Scenrepolia and Taramistry** from Cisthetan mixed with Depeisian. Each has distinct accents and registers. Pencilfania's official **Pencilfain / Artesian Pictolatin** remains its own language identity; deeper genealogical reconstruction is still open.
+
+The earlier Eastern states were relatively stable but not conflict-free: **2470–2452 BAC** Stelpadland–Pencilfania ecological/civic-art policy; **2256–2243** Stelpadland–Ethaptoria accreditation; **1153–1138** Scenrepolia–Taramistry patents/licensing; **1149–1137** Calespia–Taramistry botanical provenance. Stelpadland and Pencilfania also faced central-versus-regional internal tensions. **Krisberia and Mapether remained nonbelligerent and notably peaceful**. In **1057–1049**, **1048–1047** and **1042–1039 BAC**, Eastern representatives offered prevention, peace and infrastructure-stabilization proposals concerning Reltronland–Depcutland, but both sides refused **foreign-administered settlement** and insisted on sovereign bilateral control. This does not erase private-military-force rejection as a separate fact, outside diplomatic observation, the **1031 BAC** limited institutional ceasefire, or the **1010 BAC** treaty's monitoring involving **Beluftner, Kalgered and Aurastelia**.
+
+At the **1125–1121 BAC** founding window of Reltronland and Depcutland, older Eastern states had reached these shares of their **modern national territories**: Stelpadland **100%**, Pencilfania **87%**, Calespia **76%**, Ethaptoria **67%**, Scenrepolia **57%**, Taramistry **45%**, Mapether **39%**, Krisberia **28%**. These are territorial extents, **not inhabited, urbanized or economically developed proportions**. Krisberia's initial territory was **4%**; Mapether's was **5%**, and its small Beluftner merchant population declined to continue expensive exploration toward future Reltronland.
 
 ---
 
@@ -1089,6 +1217,12 @@ The following principles should remain stable unless explicitly revised by futur
 - Planetary globalization does not erase national sovereignty.
 - Multiple moons are an identity anchor, not a mandatory visual checklist.
 - Earth comparisons are external explanatory tools, not in-world continuity.
+
+### Newly established historical and biological baseline
+
+The latest creator-defined anchors are **1030 BAC ceasefire recovery**, **1010 BAC SDI 0.707 / life expectancy 80 / real GDP growth 10%**, **950 BAC real GDP growth peak 15%**, and **Year 0 SDI 0.938 / life expectancy ~475 / real GDP growth 7.5%**. **CAGR ~0.4%** over 1010 years, **near-4 peak TFR**, **near-3% brief population-growth peak**, and the **55% / 75% extended-youth aging thresholds** are governing reconstruction constraints. Intermediate yearly population, TFR, Gini, medical and SDI curves remain **explicit simulations** unless separately established. **281.25 years** is an age-X model using the 45/76 Earth benchmark and a provisional equal-female-life-expectancy assumption.
+
+---
 
 ## Open or Expandable Canon
 
