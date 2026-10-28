@@ -248,10 +248,10 @@ Its demographic structure is strongly shaped by interstellar migration.
 
 ## 7.1 Population Composition
 
-- **61%** — Humans of Depeisit planetary descent
-- **24%** — Humans of Cistheta planetary descent
+- **58%** — Humans of Depeisit planetary descent
+- **22%** — Humans of Cistheta planetary descent
+- **10%** — Cosmeilia-Human mixed populations
 - **7%** — Native Asthorteran Human-Wizard-Witch populations
-- **5%** — Cosmeilia-Human mixed populations
 - **3%** — Other alien humanoids, hybrids, and recognized sentient groups
 
 Most modern population growth is connected to migration from older, stagnant, unstable, or collapsing civilizations.
