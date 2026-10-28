@@ -442,10 +442,10 @@ Asthortera is heavily shaped by interstellar migration.
 
 Its established population composition includes:
 
-- **61%** — Humans of Depeisit planetary descent
-- **24%** — Humans of Cistheta planetary descent
+- **58%** — Humans of Depeisit planetary descent
+- **22%** — Humans of Cistheta planetary descent
+- **10%** — Cosmeilia-Human mixed populations
 - **7%** — Native Asthorteran Human-Wizard-Witch populations
-- **5%** — Cosmeilia-Human mixed populations
 - **3%** — Other alien humanoids, hybrids, and recognized sentient groups
 
 Most modern population growth is strongly associated with immigration from outside Asthortera.
