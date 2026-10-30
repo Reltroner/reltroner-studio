@@ -221,6 +221,8 @@ another instrument of escalation**.
 -   KAL100,000--KAL499,999 (Affluent): 18%
 -   KAL500,000+ (Ultra Wealthy): 5%
 
+**NCCM V2 statistical audit:** the five reported expenditure-band shares sum to **99%**, with an **unreconciled 1 percentage point** (potentially rounding or missing reporting allocation). These published shares are preserved rather than silently inventing a new class or normalizing values. They must not be used as a complete 100% census until corrected with national-level source evidence; expenditure shares alone do not derive the income Gini.
+
 ------------------------------------------------------------------------
 
 # ⚙️ Economy
