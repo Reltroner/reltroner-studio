@@ -16,12 +16,13 @@ This document provides a detailed overview of the sentient population structures
 ## 🌍 **Planet Asthortera**
 - **Dominant Population:** Humans with East Asian Mongoloid and Western European features
 - **Total Sentient Population:** **~4.412 trillion**
-- **Composition (Year 0, creator-ratified 2026-10-30):**
+- **Primary ancestry assignment (Year 0, one category per person, not inclusive lineage census):**
   - 58% Humans of Depeisit planetary descent
   - 22% Humans of Cistheta planetary descent
-  - 10% Cosmeilia-Human mixed
+  - 10% Primary Cosmeilian affiliation (any physical manifestation, including human hybrids)
   - 7% Native Asthorteran Human-Wizard-Witch
   - 3% Others (alien humanoids, hybrids)
+- **37 sovereign countries:** 14 profiled nations hold **3.288 trillion** sentients; the other **23 hold 1.124 trillion**. In the separate all-manifestation lineage count, the 14 already include **478.160 billion Cosmeilian** and **377.423 billion native** lineage reports. Inclusive global totals are higher and not yet assigned exact percentages. A shapeshifting sentient remains one counted person.
 - **Notable Characteristic:** Asthortera is the primary destination for immigrants across the galaxy, known for its exceptionally high standard of living and balanced civilization, attracting those seeking long-term prosperity and development.
 
 ---
