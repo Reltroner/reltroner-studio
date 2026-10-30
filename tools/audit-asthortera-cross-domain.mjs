@@ -139,6 +139,65 @@ const kal = contents.get('content/factions/kalgered.md') || '';
 if (!kal.includes('99%')) warn('KALGERED_RESIDUAL_UNDOCUMENTED', 'Kalgered 1-point expenditure residual lacks its warning.');
 else warn('AST-KAL-004', 'Kalgered expense groups remain 99% pending primary-source evidence.');
 
+
+/* NCCM V3: creator-ratified composite SDI and fully labeled 14-nation scenario. */
+const v3 = JSON.parse(read('data/asthortera/nccm-v3-14-country-comparative-model.json'));
+if (!eq(country.planet.sdi, .947) || !eq(canon.year0.planet_sdi, .947) || !eq(v3.reporting.planet_sdi, .947)) {
+  fail('PLANET_SDI_V3_CANON', 'All Year 0 country/planet sources must use SDI 0.947.');
+}
+if (v3.countries.length !== 14) fail('V3_COUNTRY_ROWS', 'The V3 cross-domain table requires fourteen country rows.');
+const gdpPlanet = canon.year0.rel_gdp_rel * canon.year0.usd_per_rel / canon.year0.rel_gdp_share_planet;
+const derivedGDP = v3.countries.reduce((sum,c)=>sum+c.economy.core_gdp_nominal_usd_reference.value,0)+v3.remaining_23_aggregate.gdp_usd_scenario;
+if (!eq(gdpPlanet,derivedGDP)) fail('V3_PLANET_GDP_SUM', 'Country GDP reporting model does not reconcile to core planetary GDP.');
+if (!eq((popSDI+remaining*v3.reporting.other_23_sdi_required)/country.planet.population_billion,.947)) {
+  fail('V3_PLANET_SDI_WEIGHTED_SUM', 'SDI contributions do not exactly reproduce 0.947.');
+}
+if (!eq(v3.reporting.other_23_sdi_required,requiredOtherSDI)) {
+  fail('V3_23_COUNTRY_SDI_RESIDUAL', 'The required unprofiled 23-nation average SDI has drifted.');
+}
+const revisedAncestry = {
+  Taramistry:[54,25,12,5,4],
+  Pencilfania:[56,23,14,3,4],
+  Beluftner:[.2,.5,7,90.3,2],
+  Hargenbor:[44,40,6,8,2]
+};
+for (const c of countries) {
+  const row=v3.countries.find(x=>x.name===c.name);
+  if (!row) {fail('V3_MISSING_COUNTRY',c.name);continue}
+  if (!eq(row.census.sdi_national,c.sdi) || !eq(row.census.population_billion,c.population_billion)) {
+    fail('V3_COUNTRY_CENSUS_DRIFT',c.name);
+  }
+  const component=row.sdi_decomposition_candidate;
+  if (!eq(component.individual_mean*.6+component.institutional_quality*.4,c.sdi)) {
+    fail('V3_COMPONENT_IDENTITY',c.name);
+  }
+  if (!contents.get(c.source)?.includes('NCCM V3 — Cross-Domain Benchmark')) {
+    fail('V3_FACTION_COMPARE_SECTION_MISSING',c.source);
+  }
+  const exp=revisedAncestry[c.name];
+  if (exp){
+    const a=c.reported_ancestry_pct;
+    const actual=[a.depeisit,a.cistheta,a.cosmeilia_or_mixed,a.native,a.other_or_unclassified];
+    if (JSON.stringify(actual)!==JSON.stringify(exp))fail('V3_ANCESTRY_RATIFICATION',c.name);
+  }
+}
+const sourcePaths=[
+  'content/statistics/asthortera_identity.md',
+  'content/statistics/asthortera-vs-earth.md',
+  'content/statistics/sdi-report-asthortera.md',
+  'content/principles/reltroner-studio-master-source-of-truth.md',
+  'content/places/the-galaxy.md',
+];
+for (const p of sourcePaths) if ((contents.get(p)||'').includes('0.938')) {
+  fail('V3_STALE_PLANET_SDI_REFERENCE',p);
+}
+info.push({metric:'creator_ratified_planet_sdi',value:.947});
+info.push({metric:'national_sdi_anchors_unchanged',value:14});
+info.push({metric:'reported_cosmeilian_14_country_billion',value:Number(cosmeilian.toFixed(6))});
+info.push({metric:'reported_native_14_country_billion',value:Number(native.toFixed(6))});
+info.push({metric:'NCCM_V3_GDP_aggregation_to_planet',value:eq(gdpPlanet,derivedGDP)});
+info.push({metric:'model_estimates_not_canonical',value:true});
+
 const report = {
   status: issues.some(x => x.severity === 'P0') ? 'FAIL_UNRESOLVED_P0' : 'PASS_P0',
   scanned_markdown_count: files.length,
