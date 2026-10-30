@@ -27,13 +27,13 @@ The creator requires:
 
 **Mapether → Lenternow → Hargenbor → Moreg → Pasgerflit → Scenrepolia**
 
-From **oldest to youngest**. The existing historical markers are **Mapether 2164 BAC** and **Scenrepolia 1234 BAC**; the intermediate four exact founding years remain **unassigned**.
+From **oldest to youngest**, the creator has now ratified every date in the corridor: **Mapether 2164 BAC → Lenternow 2072 BAC → Hargenbor 1984 BAC → Moreg 1713 BAC → Pasgerflit 1545 BAC → Scenrepolia 1234 BAC**. The independent Taramistry follows at **1210 BAC**. **Krisberia 2320 BAC remains conditional** on Aurastelia and Astrostelia reaching their full modern territorial extents.
 
 In BAC notation, **larger numbers are older**. Therefore their ultimate foundation dates must satisfy:
 
-`2164 > founding_Lenternow > founding_Hargenbor > founding_Moreg > founding_Pasgerflit > 1234`
+`2164 (Mapether) > 2072 (Lenternow) > 1984 (Hargenbor) > 1713 (Moreg) > 1545 (Pasgerflit) > 1234 (Scenrepolia) > 1210 (Taramistry)`
 
-This chronology does not assert that industrial exploitation, scientific contact, settlement, legal sovereignty and completion of modern territory happened simultaneously.
+**The dates above are creator-ratified sovereign foundation milestones (2026-10-31).** This chronology does not assert that industrial exploitation, scientific contact, settlement, legal sovereignty and completion of modern territory happened simultaneously.
 
 ### Five stages shared by all four countries
 
@@ -47,7 +47,7 @@ The **very small Cosmeilian population at the beginning** is not the same statis
 
 ---
 
-## II. Lenternow — The Illumination Industrialization Trigger
+## II. Lenternow — 2072 BAC Sovereign Foundation and the Illumination Industrialization Trigger
 
 ### Creator-established origin
 
@@ -81,7 +81,7 @@ Lenternow's prosperity is not explained solely by unlimited natural deposits. It
 
 ---
 
-## III. Hargenbor — The Coastal Loopline Merchant Foundation
+## III. Hargenbor — 1984 BAC Sovereign Foundation and the Coastal Loopline Merchant Trade
 
 ### Creator-established origin
 
@@ -111,7 +111,7 @@ Modern Hargenbor has maritime statecraft, commercial capacity and distinct conne
 
 ---
 
-## IV. Moreg — The Cenrestieran Independent Manufacturing Break
+## IV. Moreg — 1713 BAC Sovereign Foundation and the Cenrestieran Independent Manufacturing Break
 
 ### Creator-established origin
 
@@ -146,7 +146,7 @@ Later automotive, road-network and Drift Tech specialization can evolve from thi
 
 ---
 
-## V. Pasgerflit — The Astrostelian Emergency Landing and Aerospace Reset
+## V. Pasgerflit — 1545 BAC Sovereign Foundation and the Astrostelian Aerospace Reset
 
 ### Creator-established origin
 
@@ -215,7 +215,7 @@ The correct causal scale is **independent industrial development under external 
 
 ## VII. Comparative sovereignty, chronology and narrative constraints
 
-The founding order is approved, but the calendar dates remain unknown. Do **not** insert a numerical date merely to fill a chronology table.
+The founding order and four intermediate years **2072 / 1984 / 1713 / 1545 BAC** are now creator-ratified. **Taramistry was founded in 1210 BAC**. Do not invent separate years for original exploration, resource discovery, local industrial takeoff, construction of first civilian facilities, or completion of national borders. These are not automatically identical to sovereign founding dates.
 
 Proposed open questions for eventual ratification:
 
@@ -226,7 +226,7 @@ Proposed open questions for eventual ratification:
 5. Where exactly did the Astrostelian fleet land, what failed in the original spaceship-support network, and how did the emergency program grow into the planet's civilian aviation economy?
 6. At what points did each territory cease to rely on protective Cosmeilian oversight and gain independently recognized self-government?
 7. How did early sparse Cosmeilian settlement develop into the different present-day ancestry mixes without conflating demographics and historical political influence?
-8. How should the four national origin stories be dated relative to **2164 BAC Mapether** and **1234 BAC Scenrepolia** without contradicting the **3364 BAC** Port of Astro Bay record?
+8. How should pre-state settlements and industrial start dates be reconstructed around the **ratified** foundations of Mapether **2164**, Lenternow **2072**, Hargenbor **1984**, Moreg **1713**, Pasgerflit **1545**, Scenrepolia **1234** and Taramistry **1210 BAC**, while preserving the **3364 BAC** Port of Astro Bay record?
 
 ### Existing source continuity
 
