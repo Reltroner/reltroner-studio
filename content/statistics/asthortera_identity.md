@@ -811,7 +811,7 @@ Instead, conflict increasingly operates through:
 | **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
 | **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
 | **1234 BAC** | Scenrepolia | Cistheta-influenced **local** interface/connectivity science |
-| **1186 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
+| **1210 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
 | **1125 BAC** | Reltronland | Independent sovereign founding, Troner Rhett |
 | **1121 BAC** | Depcutland | Independent sovereign founding, Cutter Glouster |
 
