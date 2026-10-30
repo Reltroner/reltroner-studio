@@ -87,10 +87,13 @@ Hargenbor has a diverse population shaped by maritime migration, historic Depeis
 
 | Group                                           | Share |
 | ----------------------------------------------- | ----: |
-| Human — Depeisit Descent                        |   48% |
-| Human — Cisthetan Descent                       |   40% |
-| Native Asthorteran Species — Human-Wizard-Witch |    7% |
-| Others                                          |    5% |
+| Human — Depeisit Descent                        | **44%** |
+| Human — Cisthetan Descent                       | **40%** |
+| Unified Cosmeilian Lineage — Cosmic Races and mixed descendants | **6%** |
+| Native Asthorteran Species — Human-Wizard-Witch | **8%** |
+| Others                                          | **2%** |
+
+**Ratified Year 0 demographic allocation: 44% Depeisit / 40% Cistheta / 6% Cosmeilian / 8% native / 2% others = 100%.** The Cistheta share of 40% remains from the existing national profile; the 2% other share is the residual required by the creator's three updated categories and complete 100% census. Unified Cosmeilian includes luminous, fairy, humanoid, comet and aurora manifestations without double counting one individual.
 
 The Depeisit-descended population contributes to Hargenbor’s older maritime aristocratic culture, ceremonial guilds, sailor myths, and abyssal folklore. The Cisthetan-descended population contributes to shipbuilding precision, oceanic engineering, underwater infrastructure, navigation systems, and submarine technologies. Native Asthorteran groups preserve older spiritual traditions connected to sea guardians, storm rites, and coastal memory.
 
