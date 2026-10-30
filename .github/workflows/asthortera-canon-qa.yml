@@ -7,6 +7,7 @@ on:
       - "content/**"
       - "data/asthortera/**"
       - "tools/audit-asthortera-canon.mjs"
+      - "tools/audit-asthortera-metric-mentions.mjs"
       - "package.json"
       - ".github/workflows/asthortera-canon-qa.yml"
   pull_request:
@@ -36,10 +37,14 @@ jobs:
         run: npm run test:worldbuilding
       - name: Generate diagnostic report for all content Markdown
         run: node tools/audit-asthortera-canon.mjs --report > asthortera-canon-qa.json
+      - name: Mine cross-content country metric references for manual QA
+        run: node tools/audit-asthortera-metric-mentions.mjs > asthortera-metric-mentions.json
       - name: Upload diagnostics even if strict QA fails
         uses: actions/upload-artifact@v4
         with:
           name: asthortera-canon-qa
-          path: asthortera-canon-qa.json
+          path: |
+            asthortera-canon-qa.json
+            asthortera-metric-mentions.json
       - name: Enforce strict planetary ancestry and numeric accounting invariants
         run: node tools/audit-asthortera-canon.mjs --strict
