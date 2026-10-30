@@ -7,12 +7,12 @@ const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),"..");
 const read=(p)=>readFileSync(path.join(root,p),"utf8");
 const v=JSON.parse(read("data/asthortera/nccm-baseline-v2.json"));
 function close(a,b){assert.ok(Math.abs(a-b)<1e-9*Math.max(1,Math.abs(b)), `Expected ${a} ≈ ${b}`);}
-test("Creator-ratified ancestry sums exactly to 100% of 4.412 trillion",()=>{
+test("Archived V2 five-way ancestry snapshot sums to 100%; superseded by active V6 six-category data",()=>{
   assert.deepEqual(v.year0_ancestry.map(x=>Math.round(100*x)),[58,22,10,7,3]);
   close(v.year0_ancestry.reduce((a,b)=>a+b,0),1);
   close(v.year0_ancestry.reduce((a,b)=>a+b*v.year0_planet_population,0),4.412e12);
 });
-test("All five planetary ancestry documents use the ratified percentages",()=>{
+test("Legacy five-way narrative references preserved for documented V6 migration review",()=>{
   for(const p of ["content/statistics/asthortera_identity.md","content/statistics/asthortera-vs-earth.md","content/places/asthortera-core-world.md","content/statistics/sentient-population.md","content/philosophies/why-immigrants-choose-asthortera.md"]){
     const txt=read(p);
     for(const str of ["58%","22%","10%","7%","3%"])assert.ok(txt.includes(str),`Missing ${str}: ${p}`);
@@ -20,7 +20,7 @@ test("All five planetary ancestry documents use the ratified percentages",()=>{
     assert.doesNotMatch(txt,/24%\s+(?:Human|Cistheta|East Asian)/);
   }
 });
-test("REL/USD, historical share, modern planet GDP and AUC reporting all reconcile",()=>{
+test("Archived V2 REL/USD and pre-uplift GDP/AUC bridge remains reproducible",()=>{
   const h=v.historical_1010,m=v.year0,a=v.assumptions;
   const r1010=h.rel_gdp_rel*h.usd_per_rel,r0=m.rel_gdp_rel*m.usd_per_rel;
   close(r1010,6.84e12);close(r1010/h.planet_gdp_usd,6.84/195.67);
@@ -42,7 +42,7 @@ test("GDP CAGRs and the candidate 250-year period close the endpoints",()=>{
   close(h.planet_gdp_usd*(1+pe)**760*(1+y.nominal_usd_cagr_planet)**250,p0);
   close(r1010*(1+re)**760*(1+y.nominal_usd_cagr_rel)**250,r0);
 });
-test("GDP equals published GNI only under an explicit temporary net-income bridge",()=>{
+test("Archived V2 GDP/GNI zero-net-income bridge assumption is explicit",()=>{
   close(v.year0.rel_population*v.year0.rel_gni_per_capita_rel,v.year0.rel_gdp_rel);
   assert.match(read("content/factions/reltronland.md"),/provisional zero-net-primary-income balancing convention/);
 });
