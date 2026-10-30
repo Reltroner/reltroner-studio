@@ -21,50 +21,55 @@ tags:
 
 ## Authority and classification
 
-The [Master Source of Truth](../principles/reltroner-studio-master-source-of-truth.md), [Civilizational Systems](../principles/civilizational-systems-worldbuilding-asthortera.md), creator-ratified [NCCM V2](./asthortera-nccm-remodeling.md) and dated [timeline](../events/history-timeline.md) govern contextual reading. Country-specific statistics take precedence over incidental summaries for a given country **unless** they conflict with a newer explicit creator ratification. This report records observed source discrepancies, does not invent national census values, and does not modify the planetary **58/22/10/7/3** ancestry distribution.
+The [Master Source of Truth](../principles/reltroner-studio-master-source-of-truth.md), [Civilizational Systems](../principles/civilizational-systems-worldbuilding-asthortera.md), creator-ratified [NCCM V2](./asthortera-nccm-remodeling.md) and dated [timeline](../events/history-timeline.md) govern contextual reading. Country-specific statistics take precedence over incidental summaries for a given country **unless** they conflict with a newer explicit creator ratification. This report records observed source discrepancies, does not invent national census values, and maintains the existing **58/22/10/7/3 primary-reporting partition** while distinguishing larger inclusive Cosmeilian/native lineage totals under the new **37-country** scope.
 
 **Statuses:** FIXED = source discrepancy repaired; OPEN = genuinely incomplete or inconsistent; CONDITIONAL = depends on denominator/period/classification; VERIFIED = checked against cited published parameters.
 
-## P0 — Open: national native ancestry exceeds the planetary limit
+## P0 — 37-nation lineage census remains incomplete (creator correction)
 
-**Creator-ratified Year 0:** planet **4.412 trillion** with **7% native Asthorteran** = **308.840 billion native sentients**.
+**Fixed planetary population: 4.412 trillion sentients across exactly 37 sovereign states.** Fourteen available national profiles account for **3.288 trillion**, i.e. **74.524%** of the population. The **other 23 nations contain the remaining 1.124 trillion sentients** (25.476%) — this is an explained coverage gap, not missing people and not permission to invent per-country values.
 
-The following **14 country profiles alone** imply **377.423 billion** native sentients by population × self-reported native share. **Excess = 68.583 billion** beyond the *entire planet's* native category, before accounting for any additional sovereign state. This is a **hard aggregation contradiction if all national snapshots and definitions are contemporaneous and comparable**. Do **not** reduce the planet's 7% or rewrite Beluftner/Cenrestier history merely to make a chart sum correctly.
+| Scope | Sovereign countries | Population |
+|---|---:|---:|
+| Profiles with quantified demographics | 14 | **3,288 billion** |
+| Other sovereign countries requiring national census data | 23 | **1,124 billion** |
+| **Asthortera** | **37** | **4,412 billion** |
 
-| Sovereign country | Population (billion) | Native share | Native count (billion) | SDI | Land area (million km²) |
-|---|---:|---:|---:|---:|---:|
-| Reltronland | 855 | 5% | 42.750 | 0.984 | 104 |
-| Depcutland | 343 | 4% | 13.720 | 0.981 | 52 |
-| Kalgered | 108 | 35% | 37.800 | 0.979 | 108 |
-| Aurastelia | 164 | 4% | 6.560 | 0.970 | 433 |
-| Astrostelia | 220 | 6% | 13.200 | 0.957 | 216 |
-| Lenternow | 214 | 5% | 10.700 | 0.935 | 117 |
-| Taramistry | 242 | 5% | 12.100 | 0.954 | 125 |
-| Moreg | 205 | 10% | 20.500 | 0.931 | 79 |
-| Pencilfania | 182 | 3% | 5.460 | 0.940 | 166 |
-| Stelpadland | 141 | 18% | 25.380 | 0.961 | 200 |
-| Pasgerflit | 279 | 6% | 16.740 | 0.949 | 72 |
-| Hargenbor | 133 | 7% | 9.310 | 0.925 | 39 |
-| Beluftner | 91 | 90.3% | 82.173 | 0.896 | 88 |
-| Cenrestier | 111 | 73% | 81.030 | 0.911 | 102 |
-| **Profiled subtotal** | **3,288** | — | **377.423** | — | **1,901** |
-| **Planet target** | **4,412** | **7%** | **308.840** | **0.938** | **4,503** |
+### Source-category counts: inclusive lineage, not primary-partition caps
 
-**Proof and assumptions:** numeric factors come from each `content/factions/<country>.md` national profile; the global cap comes from [planet identity](./asthortera_identity.md). Native reporting names vary slightly (native Human-Wizard-Witch, native witches, native species); this is precisely why a **cross-country ancestry taxonomy map and census-year registry** are required. A reclassification or noncontemporaneous snapshot may resolve part of the issue, but has **not** yet been established. Native totals above are a reported-category sum, not a verified species-genetic census.
+The creator directs **one Cosmeilian ancestry variable encompassing both Cosmeilia Cosmic Races and Cosmeilia-Human mixed**, irrespective of humanoid, fairy, luminous star, comet, cosmic light or aurora manifestation. One person capable of several shapes remains **one sentient**, and forms do not create additional headcounts. **Native Asthorteran lineage** also must include native-descended mixed-heritage individuals.
 
-**Do not publish planet ancestry as a nationally reconciled dataset until this P0 is resolved.**
+The profiled 14 states report **377.423 billion native-lineage** sentients and **478.160 billion Cosmeilian-all-manifestation-lineage** sentients, subject to source-category comparability. The planet's **7% primary native reporting class** and **10% primary Cosmeilian class** are **not maxima** for the inclusive lineage variables. Earlier claims that these nation-level counts exceed a binding global native or Cosmeilian cap were **measurement-category errors**, not proven demographic contradictions.
 
-## P0/P1 — Incomplete state coverage and taxonomy
+The **full planet-wide inclusive counts must be significantly above 377.423 billion native and 478.160 billion Cosmeilian**, as more countries exist. No exact total has yet been creator-ratified. A sensitivity example of **12% inclusive native incidence (529.440 billion)** and **15% inclusive Cosmeilian incidence (661.800 billion)** is mathematically feasible, implying respectively **152.017** and **183.640 billion** in the remaining 23 countries. These are **noncanonical scenarios**, not official census statistics.
 
-The 14 profiled nations sum to **3.288 trillion**, or **74.524%** of planetary population. The remaining **1.124 trillion (25.476%)** is **not** assigned by this 14-country snapshot. It may span additional sovereign countries, territories, and other administratively defined residents, but none of these allocations should be invented.
+**Canonical accounting rule:** primary administrative ancestry is an *exclusive partition*; lineage incidence is *nonexclusive*. The same individual can appear once in the planetary unique-person denominator and in multiple lineage flags. A true global-inclusive lineage cap must not be inferred from primary registration categories.
 
-Reported Cosmeilia-related population across these 14 states is **~478.160 billion** when the national **Cosmeilia Cosmic Races and mixed** categories are counted, versus **441.200 billion** for the planet's **Cosmeilia-Human mixed** category. **This is a taxonomy warning, not yet a valid contradiction:** unblended Cosmeilia Cosmic Races are not necessarily counted in the mixed category, and some national `Others` classes also conceal mixed ancestries. The crosswalk must distinguish **Cosmeilia-Human mixed / Cosmeilia pure / other Cosmeilia sentients / nationally unspecified** before computing compatible global totals.
+### Country census: existing quantified nation profiles
 
-National shares within each of the 14 sources total 100% under their original national reporting class definitions, but **that does not automatically establish cross-national category equivalence**.
+| Sovereign country | Population (billion) | Native national-label share | Native national-label headcount (billion) | SDI |
+|---|---:|---:|---:|---:|
+| Reltronland | 855 | 5% | 42.750 | 0.984 |
+| Depcutland | 343 | 4% | 13.720 | 0.981 |
+| Kalgered | 108 | 35% | 37.800 | 0.979 |
+| Aurastelia | 164 | 4% | 6.560 | 0.970 |
+| Astrostelia | 220 | 6% | 13.200 | 0.957 |
+| Lenternow | 214 | 5% | 10.700 | 0.935 |
+| Taramistry | 242 | 5% | 12.100 | 0.954 |
+| Moreg | 205 | 10% | 20.500 | 0.931 |
+| Pencilfania | 182 | 3% | 5.460 | 0.940 |
+| Stelpadland | 141 | 18% | 25.380 | 0.961 |
+| Pasgerflit | 279 | 6% | 16.740 | 0.949 |
+| Hargenbor | 133 | 7% | 9.310 | 0.925 |
+| Beluftner | 91 | 90.3% | 82.173 | 0.896 |
+| Cenrestier | 111 | 73% | 81.030 | 0.911 |
+| **14-country subtotal** | **3,288** | — | **377.423** | — |
 
-### SDI consistency under an explicitly hypothetical population-weighted rule
+The source reports different forms of ancestry, lineage and nationality. The national-to-planet crosswalk is not yet finalized. See [37-Country Lineage and Kalgered Remodeling](./asthortera-37-country-lineage-and-kalgered-remodeling.md) and [audit data](../../data/asthortera/national-cross-domain-audit-2026-10-30.json).
 
-The 14-state population-weighted SDI is **~0.958638**. For the planet to have **SDI 0.938** with **4.412 trillion**, the other **1.124 trillion** would require an SDI averaging **~0.877628**, **if** the planetary SDI were calculated as a population-weighted arithmetic mean of the national SDIs. The [SDI report](./sdi-report-asthortera.md) does not fully settle this aggregation operator and weights, so this is **CONDITIONAL, not a contradiction**. Other countries and component-level scoring must be reconciled.
+### SDI consistency under a conditional population-weighted example
+
+The profiled countries' population-weighted SDI is **~0.958638**. If planetary SDI **0.938** were an ordinary population-weighted arithmetic average, the other **1.124 trillion** would need **~0.877628** average. The index aggregation rule has **not** been ratified, so this is a sensitivity result, not a national contradiction or mandated average.
 
 ## Confirmed P0 corrections completed
 
@@ -81,10 +86,10 @@ The 14-state population-weighted SDI is **~0.958638**. For the planet to have **
 
 | Severity | ID | Source and impact | Required evidence |
 |---|---|---|---|
-| **P0** | AST-NATIVE-001 | Country native subtotal exceeds planet cap | Compatible definition of native, same census year, mixed-species crosswalk, official country breakdown |
-| **P0** | AST-COUNTRY-002 | 1.124T residents not attributable to the 14 profiled country records | Full sovereign roster and country-level populations, jurisdictional accounting |
-| **P1** | AST-COS-003 | National Cosmic Races vs planetary Cosmeilia-Human mixed | Ancestry ontology and mutually exclusive reporting rule |
-| **P1** | AST-KAL-004 | [Kalgered](../factions/kalgered.md) expenditure classes total **99%** | National distribution source; 1% remains explicitly unresolved |
+| **P0** | AST-LINEAGE-001 | No completed inclusive ancestry census across 37 sovereign countries | The 23 additional national populations and consistent all-manifestation Cosmeilian/native lineage registry |
+| **P0** | AST-COUNTRY-002 | 1.124T residents belong to 23 other countries but have no verified country-level allocations | Complete the 37-nation census without equal-allocation fabrication |
+| **P1** | AST-COS-003 | Cosmeilian Cosmic Races and Cosmeilia-Human mixed must be unified | Use one inclusive all-manifestation variable; each individual counted once; keep form as descriptive metadata |
+| **P1** | AST-KAL-004 | [Kalgered](../factions/kalgered.md) expenditure classes total **99%**, and minimum bracket spending consumes ~96.6% of daily GNI | [Kalgered remodeling candidate](../../data/asthortera/kalgered-remodeling-candidate-v1.json) (100% bands) requires ratification |
 | **P1** | AST-SDI-005 | SDI planet vs national scores requires aggregation operator | Component weights, unit of analysis, period and microdistribution |
 | **P1** | AST-MONEY-006 | Incomplete FX, PPP, price index and national GDP/GNI bridge | Per-currency reporting rates and harmonized GDP value-added perimeter |
 | **P1** | AST-AGE-007 | Year 0 median age 252 and life expectancy 475 not cohort-reconciled with 1010 BAC longevity 80 | Age-specific survival, fertility and migration time series |
@@ -94,8 +99,8 @@ The 14-state population-weighted SDI is **~0.958638**. For the planet to have **
 
 ## Statistical dependency rules
 
-1. **Planet census = complete disjoint country/jurisdiction census**, plus separately justified offworld resident scope. One resident is not double-counted in two jurisdictions.
-2. **Ancestry reporting is a partition**, with a cross-country category mapping and separately recorded multiple ancestry traits.
+1. **Planet census = all 37 sovereign countries' mutually exclusive population residency accounts**, plus separately justified offworld resident scope. The other 23 nations' combined **1.124T** is not a missing population. One sentient is not double-counted under different manifestations.
+2. **Primary ancestry reporting is an exclusive partition; inclusive Cosmeilian and native lineage incidence is multi-label**. A shape-changing Cosmeilian is one person; cosmic races and Cosmeilia-Human mixed use a unified lineage variable.
 3. **GDP is value added per unit of time; GNI adds net primary income; stock market capitalization is an asset stock**. Report 42% GDP and 47% market-cap as different denominators.
 4. **CPI ≠ GDP deflator ≠ PPP ≠ nominal REL/USD appreciation**. Historical 1010 BAC USD-to-AUC conversion is retrospective.
 5. **Longevity and TFR require age-based cohort models**, not back-solving births from TFR or translating contemporary age thresholds into 1010 BAC.
@@ -108,4 +113,4 @@ The accompanying [national audit snapshot](../../data/asthortera/national-cross-
 
 **Evidence actually inspected in this audit session:** all `content/factions/` documents, all statistics documents then present, selected planet identity, SDI report, historical timeline, galaxy, PAIA, and first-party governing principles. The Git tree was enumerated to establish the full scope. **A complete semantic audit of all other narrative articles has not been individually executed**, and neither the local audit CLI nor full CI has been executed against a checked-out repository in this session. Avoid declaring a green, complete QA sign-off before those checks are run and the open P0 population contradiction is resolved.
 
-**Audit conclusion: RED / OPEN P0.** The current published planetary proportions remain binding, but the national inputs are **not yet a mathematically reconciled global dataset**.
+**Audit conclusion: RED / OPEN P0 for 37-country coverage, not because inclusive lineage counts exceed primary ancestry shares.** The fixed planet remains **4.412 trillion**, and the *primary-reporting partition* is still maintained separately from the all-manifestation inclusive lineage census. Exact Cosmeilian/native inclusive global shares and Kalgered expenditure reforms remain unratified.
