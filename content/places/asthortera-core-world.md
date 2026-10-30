@@ -299,11 +299,13 @@ This planetary scale gives civilizations enough physical room to contain interna
 Asthortera’s population is not defined by a single lineage.
 Its growth is driven by long-term interstellar immigration, multi-species integration, and civilizational absorption.
 
-### Primary Population Groups
+### Primary Population Reporting Groups (Exclusive Assignment)
+
+The categories below are **primary registration labels**, not worldwide maxima for inclusive/multiple ancestry.
 
 * **58% Human — Depeisit planetary descent**
 * **22% Human — Cistheta planetary descent**
-* **10% Cosmeilia-Human mixed lineages**
+* **10% Primary Cosmeilian affiliation (all manifestations, including mixed human lineage)**
 * **7% Human-Wizard-Witch — Native Asthorteran lineages**
 * **3% Others — Alien humanoids, hybrids, synthetic legal persons, cosmic entities, and rare non-standard sentients**
 
@@ -314,9 +316,9 @@ The two largest human population groupings are more precisely understood through
 
 - the **58% Depeisit-descended population** has diverse visual and cultural expressions;
 - the **22% Cistheta-descended population** has diverse visual and cultural expressions;
-- the **10% Cosmeilia-Human mixed** group is separately classified in the planetary reporting model.
+- the **10% primary Cosmeilian** category is separate from inclusive lineage prevalence, which unifies cosmic races, mixed humanoids and shape-shifting forms.
 
-**Year 0 canonical composition: 58% Depeisit, 22% Cistheta, 10% Cosmeilia-Human mixed, 7% native Asthorteran, 3% others.** Visual analogies do not define strict ancestry, citizenship, or physical uniformity.
+**Year 0 primary assignment: 58% Depeisit, 22% Cistheta, 10% primary Cosmeilian, 7% primary native Asthorteran, 3% others.** The full planet remains **4.412 trillion unique sentients in 37 sovereign countries**. The 14-country source subtotal (**3.288 trillion**) and other 23-country remainder (**1.124 trillion**) must be reconciled before declaring full **inclusive** Cosmeilian/native ancestry totals. The same Cosmeilian can manifest as human, fairy, luminous star, comet, light or aurora without multiplying census headcounts. See [reconciliation model](../statistics/asthortera-37-country-lineage-and-kalgered-remodeling.md). Visual analogies do not define strict ancestry, citizenship, or physical uniformity.
 
 The Western European and East Asian descriptors function as external visual analogies for readers. They do not imply Earth ethnic, national, or geopolitical continuity inside Asthortera.
 
