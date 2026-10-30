@@ -32,6 +32,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "22"
+      - name: Run worldbuilding statistical regression tests
+        run: npm run test:worldbuilding
       - name: Generate diagnostic report for all content Markdown
         run: node tools/audit-asthortera-canon.mjs --report > asthortera-canon-qa.json
       - name: Upload diagnostics even if strict QA fails
