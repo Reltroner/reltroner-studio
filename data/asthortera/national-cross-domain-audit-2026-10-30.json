@@ -18,7 +18,7 @@
   "coverage": {
     "faction_documents_reviewed": 21,
     "statistics_documents_reviewed": 19,
-    "content_tree_files_indexed": 427,
+    "content_tree_files_indexed": 433,
     "sovereign_country_profiles_with_extractable_statistics": 14,
     "sovereign_countries_total": 37,
     "sovereign_countries_without_profiled_demographics": 23
@@ -35,8 +35,10 @@
         "cistheta": 22,
         "cosmeilia_or_mixed": 4,
         "native": 5,
-        "other_or_unclassified": 3
-      }
+        "other_or_unclassified": 3,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Depcutland",
@@ -49,8 +51,10 @@
         "cistheta": 10,
         "cosmeilia_or_mixed": 3,
         "native": 4,
-        "other_or_unclassified": 2
-      }
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Kalgered",
@@ -63,8 +67,10 @@
         "cistheta": 10,
         "cosmeilia_or_mixed": 13,
         "native": 35,
-        "other_or_unclassified": 2
-      }
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Aurastelia",
@@ -77,8 +83,10 @@
         "cistheta": 7,
         "cosmeilia_or_mixed": 80,
         "native": 4,
-        "other_or_unclassified": 4
-      }
+        "other_or_unclassified": 4,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Astrostelia",
@@ -91,8 +99,10 @@
         "cistheta": 16,
         "cosmeilia_or_mixed": 65,
         "native": 6,
-        "other_or_unclassified": 4
-      }
+        "other_or_unclassified": 4,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Lenternow",
@@ -105,8 +115,10 @@
         "cistheta": 29,
         "cosmeilia_or_mixed": 38,
         "native": 5,
-        "other_or_unclassified": 2
-      }
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Taramistry",
@@ -119,9 +131,11 @@
         "cistheta": 25,
         "cosmeilia_or_mixed": 12,
         "native": 5,
-        "other_or_unclassified": 4
+        "other_or_unclassified": 4,
+        "phantomkind_or_spiritual_hybrid": null
       },
-      "ancestry_revision_status": "creator_ratified_2026-10-30"
+      "ancestry_revision_status": "creator_ratified_2026-10-30",
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Moreg",
@@ -134,8 +148,10 @@
         "cistheta": 30,
         "cosmeilia_or_mixed": 13,
         "native": 10,
-        "other_or_unclassified": 2
-      }
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Pencilfania",
@@ -148,9 +164,11 @@
         "cistheta": 23,
         "cosmeilia_or_mixed": 14,
         "native": 3,
-        "other_or_unclassified": 4
+        "other_or_unclassified": 4,
+        "phantomkind_or_spiritual_hybrid": null
       },
-      "ancestry_revision_status": "creator_ratified_2026-10-30"
+      "ancestry_revision_status": "creator_ratified_2026-10-30",
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Stelpadland",
@@ -163,8 +181,10 @@
         "cistheta": 22,
         "cosmeilia_or_mixed": 6,
         "native": 18,
-        "other_or_unclassified": 2
-      }
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Pasgerflit",
@@ -177,8 +197,10 @@
         "cistheta": 21,
         "cosmeilia_or_mixed": 5,
         "native": 6,
-        "other_or_unclassified": 6
-      }
+        "other_or_unclassified": 6,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Hargenbor",
@@ -191,9 +213,11 @@
         "cistheta": 40,
         "cosmeilia_or_mixed": 6,
         "native": 8,
-        "other_or_unclassified": 2
+        "other_or_unclassified": 2,
+        "phantomkind_or_spiritual_hybrid": null
       },
-      "ancestry_revision_status": "creator_ratified_2026-10-30"
+      "ancestry_revision_status": "creator_ratified_2026-10-30",
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     },
     {
       "name": "Beluftner",
@@ -204,11 +228,13 @@
       "reported_ancestry_pct": {
         "depeisit": 0.2,
         "cistheta": 0.5,
-        "cosmeilia_or_mixed": 7,
+        "cosmeilia_or_mixed": 2,
         "native": 90.3,
-        "other_or_unclassified": 2
+        "other_or_unclassified": 1,
+        "phantomkind_or_spiritual_hybrid": 6
       },
-      "ancestry_revision_status": "creator_ratified_2026-10-30"
+      "ancestry_revision_status": "creator_ratified_2026-10-30_six_category_v4",
+      "ancestry_taxonomy_status": "new_six_way_ratifed"
     },
     {
       "name": "Cenrestier",
@@ -221,27 +247,30 @@
         "cistheta": 8,
         "cosmeilia_or_mixed": 7,
         "native": 73,
-        "other_or_unclassified": 5
-      }
+        "other_or_unclassified": 5,
+        "phantomkind_or_spiritual_hybrid": null
+      },
+      "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
     }
   ],
   "audit": {
     "profiled_population_billion": 3288,
     "unprofiled_or_unreconciled_population_billion": 1124,
     "native_profiled_billion": 378.753,
-    "reported_cosmeilia_or_mixed_profiled_billion": 539.75,
+    "reported_cosmeilia_or_mixed_profiled_billion": 535.2,
     "census_37_country_remainder_explained": "1.124 trillion residents belong to the remaining 23 sovereign countries; this is an accounting remainder, not missing inhabitants or a proposed equal split.",
     "ancestry_scopes": {
       "primary_partition": "Legacy five-part primary-assignment shares only, not bounds on inclusive ancestry.",
-      "inclusive_cosmeilian": "One unified all-manifestation Cosmeilian ancestry variable, encompassing Cosmic Races and Cosmeilia-Human mixed. Source-country subtotal 539.750 billion across 14 audited countries; exact 37-country global inclusive total unratified.",
+      "inclusive_cosmeilian": "One unified all-manifestation Cosmeilian ancestry variable, encompassing Cosmic Races and Cosmeilia-Human mixed. Source-country subtotal 535.200 billion across 14 audited countries; exact 37-country global inclusive total unratified.",
       "inclusive_native": "Source-country native subtotal 378.753 billion from 14 countries; primary 7% is not an inclusive-lineage cap.",
       "candidate_only": {
         "cosmeilian_planet_percent": 15,
         "native_planet_percent": 12,
-        "cosmeilian_remaining_23_billion": 122.05,
+        "cosmeilian_remaining_23_billion": 126.6,
         "native_remaining_23_billion": 150.687,
         "status": "hypothetical_not_ratified"
-      }
+      },
+      "phantomkind_v4": "Beluftner 6% of 91 billion = 5.460 billion confirmed primary; 13 other profiled nations unknown (not 0), with no six-category global crosswalk yet"
     },
     "sdi_remodeling_v3": {
       "planet_sdi": 0.947,
@@ -251,7 +280,8 @@
       "required_remaining_23_weighted_sdi": 0.9129555160142343,
       "individual_and_institutional_combined": true,
       "component_weights": "candidate_pending_independent_validation"
-    }
+    },
+    "phantomkind_primary_confirmed_billion": 5.46
   },
   "known_gaps": [
     {
@@ -289,6 +319,12 @@
       "code": "INCLUSIVE_LINEAGE_CANDIDATES_NOT_RATIFIED",
       "status": "OPEN",
       "notes": "Cosmeilian 15% and Native 12% are illustrative nonexclusive lineage scenarios; historical primary 10% and 7% reporting cells must not be mistaken for population ceilings."
+    },
+    {
+      "severity": "P0",
+      "code": "V4_PHANTOMKIND_13_COUNTRY_CROSSWALK",
+      "status": "OPEN",
+      "notes": "Thirteen national census shares unknown; planet legacy 58/22/10/7/3 not reconciled to six-way primary"
     }
   ]
 }
