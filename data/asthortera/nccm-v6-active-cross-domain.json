@@ -1,5 +1,5 @@
 {
-  "schema_version": "NCCM-V6.3-founder-chronology-active",
+  "schema_version": "NCCM-V6.4-stelpadland-debt-and-industry-active",
   "created_date": "2026-10-31",
   "scope": "Year 0 Asthortera; user-ratified decisions through 2026-10-30; earlier NCCM V3/V4 data kept as historical ledger not current six-way primary canon",
   "provenance": {
@@ -17,7 +17,8 @@
     "migration_decision": "Creator ratified: Astrostelia exports 35B and Lenternow exports 40B to Scenrepolia/Calespia/Ethaptoria/Krisberia. Source percentages and SDI stay fixed; conserve all six ancestry categories globally.",
     "model_output_income_rule": "At this migration-only decision, national GDP and GDP-share totals remain frozen at V6.1 (no automatic new productivity/output claim). GDP per capita and zero-primary-income-bridge GNI per capita are recomputed; changes are accounting effects not welfare measurements.",
     "ancestry_representativity_change": "The global six-class proxy remains fixed at the approved pre-migration 3288B 14-nation weighted representation; the current 3213B subset alone cannot replace it without altering the global mix.",
-    "foundation_date_ratification": "Creator-ratified five dates: Lenternow 2072 BAC; Hargenbor 1984 BAC; Moreg 1713 BAC; Pasgerflit 1545 BAC; Taramistry 1210 BAC. Old Taramistry 1186 BAC superseded."
+    "foundation_date_ratification": "Creator-ratified five dates: Lenternow 2072 BAC; Hargenbor 1984 BAC; Moreg 1713 BAC; Pasgerflit 1545 BAC; Taramistry 1210 BAC. Old Taramistry 1186 BAC superseded.",
+    "stelpadland_finance_ratification": "Creator ratified government public debt ratio 52% of GDP (previous 42% was archival V3 scenario, now superseded). This coincides with a finished-furniture industry identity; do not infer debt causation as proven or fabricate furniture production shares."
   },
   "planet": {
     "population_billion": 4412,
@@ -492,7 +493,7 @@
         "other": 2
       },
       "ancestry_status": "creator_approved_six_category_primary",
-      "specialization": "Scouting, forestry, experiential learning, timber",
+      "specialization": "Global scouting, responsible forestry, high-value finished furniture, woodcraft manufacturing, experiential learning",
       "specialization_factor": 1,
       "fx": {
         "code": "ST",
@@ -504,7 +505,7 @@
       "gdp_per_capita_usd_V6": 20395356450.1974,
       "gni_per_capita_usd_proxy_V6": 20395356450.1974,
       "income_gini": 0.24,
-      "government_debt_to_gdp": 0.42,
+      "government_debt_to_gdp": 0.52,
       "unemployment_rate": 0.018,
       "annual_inflation": 0.0027,
       "real_gdp_growth": 0.068,
@@ -514,7 +515,16 @@
       "life_expectancy_years": 481,
       "tfr_candidate": 1.6,
       "education_access_proxy": 0.969,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target; Stelpadland government debt 0.52 is directly creator-ratified and supersedes V3 0.42 scenario",
+      "debt_ratio_status": "creator_ratified_2026-10-31_52pct_GDP",
+      "industry_canon": {
+        "primary_industry": "Domestic finished furniture and processed timber products",
+        "rationale": "Creator-ratified national productive specialization rooted in sustainably governed timber supply, processed materials, skilled manufacturing and finished furniture rather than simply raw log exports",
+        "quantitative_furniture_output_share_pct": null,
+        "export_share_pct": null,
+        "employment_share_pct": null,
+        "status": "industry identity ratified, detailed sector output/export/employment percentages not assigned"
+      }
     },
     {
       "name": "Pasgerflit",
