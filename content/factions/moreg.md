@@ -29,6 +29,9 @@ tags:
   - Civilizational Strength Inversion
 ---
 
+> **Creator-ratified national founding (2026-10-31): 1713 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** independent Cenrestieran transport entrepreneurs, not the Cenrestier state, established mass manufacturing on favorable Moreg-border geography with suitable raw materials, then required public infrastructure and locally legitimate institutions; Cosmeilian protection of the earlier sparsely inhabited area is not a colonial government. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 ![moreg1](/images/moreg1.webp)
 ![moreg2](/images/moreg2.webp)
 ![moreg3](/images/moreg3.webp)
