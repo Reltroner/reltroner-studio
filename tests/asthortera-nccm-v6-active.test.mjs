@@ -11,7 +11,7 @@ const P=model.planet;
 const eq=(a,b,t=1e-9)=>assert.ok(Number.isFinite(a)&&Math.abs(a-b)<=t*Math.max(1,Math.abs(b)),String(a)+' != '+String(b));
 const sum=(xs,fn=x=>x)=>xs.reduce((a,c)=>a+fn(c),0);
 test('V6 Year 0 planetary baseline and historic 1010 BAC creator ratifications',()=>{
- assert.equal(model.schema_version,'NCCM-V6.1-active-comparative-ledger');
+ assert.equal(model.schema_version,'NCCM-V6.2-migration-conserved-active');
  assert.equal(P.population_billion,4412);
  assert.equal(P.sovereign_states,37);
  eq(P.sdi,.947);
@@ -33,16 +33,19 @@ test('Six exclusive ancestry categories validated in all 14 nations, with valid 
    eq(sum(Object.values(c.ancestry_primary_pct)),100);
    for(const k of keys)weighted[k]+=c.population_billion*c.ancestry_primary_pct[k]/100;
  }
- eq(sum(Object.values(weighted)),3288);
- eq(weighted.depeisit,1562.182);
- eq(weighted.cistheta,652.985);
- eq(weighted.cosmeilian,533);
- eq(weighted.native,373.263);
- eq(weighted.phantomkind,73.04);
- eq(weighted.other,93.53);
+ eq(sum(Object.values(weighted)),3213);
+ eq(weighted.depeisit,1549.032);
+ eq(weighted.cistheta,636.185);
+ eq(weighted.cosmeilian,495.4);
+ eq(weighted.native,369.163);
+ eq(weighted.phantomkind,71.89);
+ eq(weighted.other,91.33);
  for(const k of keys){
-   eq(100*weighted[k]/3288,P.ancestry_primary_pct_representative_14_country_weighted[k]);
-   eq(weighted[k]*4412/3288,P.ancestry_primary_headcount_billion_representative[k]);
+   const original=model.census.pre_migration_reference.original_14_ancestry_headcount_billion[k];
+   const moved=model.migration_year0.ancestry_six_category_moved_billion[k];
+   eq(weighted[k]+moved,original);
+   eq(100*original/3288,P.ancestry_primary_pct_representative_14_country_weighted[k]);
+   eq(original*4412/3288,P.ancestry_primary_headcount_billion_representative[k]);
  }
  eq(sum(Object.values(P.ancestry_primary_pct_representative_14_country_weighted)),100);
  assert.match(model.provenance.legacy_ratios_58_22_10_7_3,/superseded/);
@@ -50,10 +53,10 @@ test('Six exclusive ancestry categories validated in all 14 nations, with valid 
 test('No sovereigns or residents fabricated under creator-approved 14+5+18 partition',()=>{
  assert.equal(model.countries_5.length,5);
  assert.equal(model.aggregate_remaining_18.state_count,18);
- eq(sum(model.countries_14,c=>c.population_billion),3288);
- eq(sum(model.countries_5,c=>c.population_billion),320);
+ eq(sum(model.countries_14,c=>c.population_billion),3213);
+ eq(sum(model.countries_5,c=>c.population_billion),395);
  eq(model.aggregate_remaining_18.population_billion,804);
- eq(3288+320+804,4412);
+ eq(3213+395+804,4412);
  assert.equal(model.aggregate_remaining_18.individual_country_data,'explicitly deferred by creator');
  assert.equal(model.aggregate_remaining_18.ancestry_primary_pct_by_country,null);
  assert.deepEqual(new Set(model.countries_5.map(x=>x.name)),new Set(['Scenrepolia','Krisberia','Mapether','Ethaptoria','Calespia']));
@@ -63,7 +66,7 @@ test('All 19 national SDIs and residual SDI reconcile the immutable planetary SD
    eq(.6*c.sdi_individual_component+.4*c.sdi_institution_component,c.sdi);
  }
  eq((sum(model.countries_14,c=>c.sdi*c.population_billion)+sum(model.countries_5,c=>c.sdi*c.population_billion)+804*model.aggregate_remaining_18.sdi_population_weighted_required)/4412,.947);
- eq(model.aggregate_remaining_18.sdi_population_weighted_required,.8989552238805961);
+ eq(model.aggregate_remaining_18.sdi_population_weighted_required,.8984017412935316);
  assert.equal(model.countries_14.find(x=>x.name==='Reltronland').median_age_years,254);
 });
 test('Integrated income-output upgrade increases GDP and GNI 10x without changing original national GDP shares',()=>{
@@ -75,6 +78,9 @@ test('Integrated income-output upgrade increases GDP and GNI 10x without changin
    assert.ok(old);
    eq(c.gdp_planet_share,old.economy.planetary_gdp_share.value);
    eq(c.gdp_usd_annual_V6,10*old.economy.core_gdp_nominal_usd_reference.value);
+   const departures=sum(model.migration_year0.routes.filter(r=>r.origin===c.name),r=>r.population_billion);
+   eq(c.population_billion,old.census.population_billion-departures);
+   eq(c.gdp_per_capita_usd_V6,c.gdp_usd_annual_V6/(c.population_billion*1e9));
  }
  const entire=[...model.countries_14,...model.countries_5,model.aggregate_remaining_18];
  eq(sum(entire,x=>x.gdp_usd_annual_V6),P.year0.gdp_usd_annual_V6);
@@ -99,4 +105,36 @@ test('Nation source files exist; recorded FX remains bounded and legacy currency
  assert.equal(model.countries_14.find(c=>c.name==='Beluftner').fx.usd_per_local_unit,22);
  assert.match(model.provenance.legacy_local_fx_ambiguities,/KRB.*KRF/);
  assert.match(model.provenance.legacy_local_fx_ambiguities,/MPT.*MWV/);
+});
+
+test('75B bilateral donor routes preserve source ancestry and donor SDIs',()=>{
+ const routes=model.migration_year0.routes;
+ const expected={'Astrostelia->Scenrepolia':10,'Astrostelia->Calespia':10,'Astrostelia->Ethaptoria':15,'Lenternow->Scenrepolia':10,'Lenternow->Krisberia':10,'Lenternow->Ethaptoria':10,'Lenternow->Calespia':10};
+ assert.equal(routes.length,7);
+ eq(sum(routes,x=>x.population_billion),75);
+ eq(model.migration_year0.total_arrivals_billion,75);
+ eq(model.migration_year0.total_departures_billion,75);
+ for(const r of routes){
+  const src=model.countries_14.find(x=>x.name===r.origin);
+  assert.ok(src);
+  eq(r.population_billion,expected[r.origin+'->'+r.destination]);
+  for(const [category,pct]of Object.entries(src.ancestry_primary_pct))
+   eq(r.ancestry_primary_headcount_billion[category],r.population_billion*pct/100);
+ }
+ assert.equal(model.countries_14.find(c=>c.name==='Astrostelia').population_billion,185);
+ assert.equal(model.countries_14.find(c=>c.name==='Lenternow').population_billion,174);
+ eq(model.countries_14.find(c=>c.name==='Astrostelia').sdi,.957);
+ eq(model.countries_14.find(c=>c.name==='Lenternow').sdi,.935);
+});
+test('Destination populations update while country GDP and global six-category projection remain constant',()=>{
+ const pop={Scenrepolia:88,Calespia:91,Ethaptoria:84,Krisberia:58,Mapether:74};
+ for(const c of model.countries_5){eq(c.population_billion,pop[c.name]);eq(c.gdp_per_capita_usd_V6,c.gdp_usd_annual_V6/(c.population_billion*1e9));}
+ const source=model.census.pre_migration_reference.original_14_ancestry_headcount_billion;
+ for(const k of Object.keys(source)){
+  const now=sum(model.countries_14,c=>c.population_billion*c.ancestry_primary_pct[k]/100);
+  eq(now+model.migration_year0.ancestry_six_category_moved_billion[k],source[k]);
+  eq(P.ancestry_primary_pct_representative_14_country_weighted[k],source[k]*100/3288);
+ }
+ eq(model.census.new_five_population_billion,395);
+ eq(model.census.original_23_population_billion,1199);
 });
