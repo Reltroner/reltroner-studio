@@ -67,7 +67,10 @@ for (const file of requiredGlobal) {
 }
 
 const countries = country.countries;
-let pop = 0, native = 0, land = 0, popSDI = 0;
+const totalSovereigns = country.planet.sovereign_country_count;
+if (totalSovereigns !== 37) fail('SOVEREIGN_COUNT_CANON', 'Year 0 sovereignty registry must include 37 states.');
+if (countries.length > totalSovereigns) fail('COUNTRY_REGISTRY_OVERFLOW', 'Profile count exceeds 37 sovereign states.');
+let pop = 0, native = 0, cosmeilian = 0, land = 0, popSDI = 0;
 for (const c of countries) {
   const text = contents.get(c.source);
   if (!text) { fail('COUNTRY_PROFILE_NOT_FOUND', c.source); continue; }
@@ -79,21 +82,39 @@ for (const c of countries) {
   pop += c.population_billion;
   land += c.area_million_km2;
   native += c.population_billion * a.native / 100;
+  cosmeilian += c.population_billion * (a.cosmeilia_or_mixed ?? 0) / 100;
   popSDI += c.population_billion * c.sdi;
 }
-const maxNative = country.planet.population_billion * country.planet.ancestry_ratified_pct.native / 100;
+const primaryNativeCount = country.planet.population_billion * country.planet.ancestry_ratified_pct.native / 100;
 const remaining = country.planet.population_billion - pop;
+const scopes = canon.ancestry_measurement_scopes?.inclusive_lineage_presence;
+if (!scopes) fail('MISSING_INCLUSIVE_LINEAGE_SCHEMA', 'Planetary Cosmeilian and native lineage incidence must be distinct from primary registration shares.');
+info.push({ metric: 'sovereign_countries', value: totalSovereigns });
 info.push({ metric: 'countries_profiled', value: countries.length });
+info.push({ metric: 'countries_pending_profiles', value: totalSovereigns - countries.length });
 info.push({ metric: 'profiled_population_billion', value: pop });
-info.push({ metric: 'population_not_yet_allocated_billion', value: remaining });
-info.push({ metric: 'reported_native_billion', value: Number(native.toFixed(6)) });
-info.push({ metric: 'planet_native_limit_billion', value: maxNative });
+info.push({ metric: 'population_in_other_23_countries_billion', value: remaining });
+info.push({ metric: 'reported_inclusive_native_lineage_lower_bound_billion', value: Number(native.toFixed(6)) });
+info.push({ metric: 'reported_inclusive_cosmeilian_lineage_lower_bound_billion', value: Number(cosmeilian.toFixed(6)) });
+info.push({ metric: 'primary_native_reporting_category_billion_NOT_inclusive_cap', value: primaryNativeCount });
 info.push({ metric: 'national_land_area_million_km2', value: land });
-if (native > maxNative + 1e-7) {
-  fail('AST-NATIVE-001', 'Country native subtotal ' + native.toFixed(3) + 'B exceeds the ratified planet limit ' + maxNative.toFixed(3) + 'B by ' + (native - maxNative).toFixed(3) + 'B. Do not auto-reclassify people.');
-}
 if (remaining < 0) fail('PLANET_COUNTRY_TOTAL_OVERFLOW', 'The profiled nations exceed the full planet population.');
-if (remaining > 0) warn('AST-COUNTRY-002', remaining.toFixed(3) + 'B sentients have no profile allocation in this 14-country data snapshot.');
+if (countries.length !== 37) {
+  fail('37_COUNTRY_CENSUS_UNFINISHED',
+    (37 - countries.length) + ' of the 37 sovereign countries still lack reconciled national demographic entries; ' +
+    remaining.toFixed(3) + 'B sentients remain their combined known residual. Do not invent per-country figures.');
+}
+if (scopes) {
+  const minCos = scopes.cosmeilian_lineage.observed_14_country_lower_bound / 1e9;
+  const minNative = scopes.native_asthorteran_lineage.observed_14_country_lower_bound / 1e9;
+  if (!eq(cosmeilian,minCos)) fail('COSMEILIAN_LINEAGE_LEDGER_DRIFT','National Cosmeilian subtotal changed without updating the inclusive lineage baseline.');
+  if (!eq(native,minNative)) fail('NATIVE_LINEAGE_LEDGER_DRIFT','National native subtotal changed without updating the inclusive lineage baseline.');
+  if (scopes.cosmeilian_lineage.candidate_planet_headcount/1e9 <= cosmeilian ||
+      scopes.native_asthorteran_lineage.candidate_planet_headcount/1e9 <= native)
+    fail('LINEAGE_SCENARIO_INFEASIBLE','Noncanonical inclusive lineage scenario must exceed profiled-country headcounts.');
+}
+if (remaining>0) warn('23_COUNTRY_DISTRIBUTION_PENDING',
+  'The 1.124T remainder is explained by 23 nations, but their individual populations and all-lineage rates are not yet known.');
 if (land > country.planet.land_area_million_km2) fail('PLANET_LAND_OVERFLOW', 'Country land areas exceed planetary land area.');
 const requiredOtherSDI = (country.planet.population_billion * country.planet.sdi - popSDI) / remaining;
 info.push({ metric: 'conditional_unprofiled_population_weighted_sdi', value: requiredOtherSDI });
