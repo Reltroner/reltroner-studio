@@ -100,7 +100,7 @@ Since early childhood, the founder of Asthortera’s (Reltroner Studio) worldbui
 
 ### 🧠 Pasgerflit’s SDI Advantage
 
-While **Pasgerflit’s SDI (0.949)** is slightly lower than Reltronland (0.984) or Depcutland (0.983), **its soul and identity revolve entirely around aviation**. The aviation industry is not just an economic pillar—it is the **core strength, spiritual drive, and lifeblood of the Pasgerflitian civilization.**
+While **Pasgerflit’s SDI (0.949)** is slightly lower than Reltronland (0.984) or Depcutland (0.981), **its soul and identity revolve entirely around aviation**. The aviation industry is not just an economic pillar—it is the **core strength, spiritual drive, and lifeblood of the Pasgerflitian civilization.**
 
 Pasgerflit defines itself not by how much it governs, but **how far it connects the world.**
 - **SDI: 0.949**  
