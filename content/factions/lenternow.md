@@ -595,7 +595,7 @@ Lenternow is one of Asthortera's Top 10 economies. Its economic power comes from
 |---|---:|
 | **GDP** | $LNR 182 quadrillion |
 | **GDP per Capita** | approximately $LNR 850,467 |
-| **Population** | 214 billion sentient beings |
+| **Population** | **174 billion** Year 0 sentients (NCCM V6.2; 214B pre-transfer) |
 | **Currency** | $LNR — Lenternow Radiance |
 | **Light-Based Employment** | 82% |
 | **Sustainable Glow Energy Usage** | 94% |
@@ -1603,7 +1603,7 @@ Lenternow's role in Asthortera:
 
 # 32. Final Canon Summary
 
-Lenternow is a high-SDI luminous nation on Asthortera's western/main continent, known as **The Lanternlight Nation**. With a land area of 117 million km², a population of 214 billion sentient beings, a GDP of $182 quadrillion, a GDP per capita of approximately $850,467, and a Sentient Development Index of 0.935.
+Lenternow is a high-SDI luminous nation on Asthortera's western/main continent, known as **The Lanternlight Nation**. With a land area of 117 million km², a **migration-updated Year 0 population of 174 billion**, unchanged **SDI 0.935**, and **NCCM V6.2 scenario GDP of USD 3.7692 × 10²¹/year**. The previously published LNR 182-quadrillion and 850,467-per-capita figures belong to the historical pre-transfer and pre-uplift local-currency reference; they are not a direct currency conversion of the active USD model.
 
 Its national identity is built around phosphor innovation, lanternlight infrastructure, glow tourism, visual light art, clean energy systems, light intelligence, silent urbanism, glow diplomacy, and spiritual-tech balance.
 
@@ -1642,7 +1642,7 @@ Lenternow is more than a country of beautiful lights. It is a civilization that 
 
 ## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
 
-**Canonical anchors unchanged:** **214 billion** residents, **117 million km²** land, and national **SDI 0.935**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
+**NCCM V6.2 migration-adjusted national anchors:** **174 billion** Year 0 residents (214B in the archived pre-migration census), **117 million km²** land, and national **SDI 0.935**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
 
 **Scenario-calibrated cross-domain estimates — NOT authoritative national census results:**
 
