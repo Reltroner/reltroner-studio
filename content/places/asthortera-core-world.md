@@ -301,10 +301,10 @@ Its growth is driven by long-term interstellar immigration, multi-species integr
 
 ### Primary Population Groups
 
-* **61% Human — Western / Caucasian lineages**
-* **24% Human — East Asian lineages**
-* **7% Human-Wizard-Witch — Native Asthorteran race**
-* **5% Cosmeilia-Human mixed lineages**
+* **58% Human — Depeisit planetary descent**
+* **22% Human — Cistheta planetary descent**
+* **10% Cosmeilia-Human mixed lineages**
+* **7% Human-Wizard-Witch — Native Asthorteran lineages**
 * **3% Others — Alien humanoids, hybrids, synthetic legal persons, cosmic entities, and rare non-standard sentients**
 
 
@@ -312,8 +312,11 @@ Its growth is driven by long-term interstellar immigration, multi-species integr
 
 The two largest human population groupings are more precisely understood through **planetary descent** rather than Earth-national identity:
 
-- the **61% Western / Caucasian-lineage population** is primarily associated with **Depeisit planetary descent**;
-- the **24% East Asian-lineage population** is primarily associated with **Cistheta planetary descent**.
+- the **58% Depeisit-descended population** has diverse visual and cultural expressions;
+- the **22% Cistheta-descended population** has diverse visual and cultural expressions;
+- the **10% Cosmeilia-Human mixed** group is separately classified in the planetary reporting model.
+
+**2026-10-30 creator-ratified correction:** the superseded 61/24/5/7/3 model is replaced by **58/22/10/7/3**. Visual analogies do not define strict ancestry, citizenship, or physical uniformity.
 
 The Western European and East Asian descriptors function as external visual analogies for readers. They do not imply Earth ethnic, national, or geopolitical continuity inside Asthortera.
 
