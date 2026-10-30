@@ -23,6 +23,9 @@ tags: [
 ]
 ---
 
+> **Creator-ratified national founding (2026-10-31): 1984 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** Cosmeilian merchant sailors from the established Port of Astro Bay developed the coastal loop, fisheries, harbors, shipyards and maritime trade with already-founded Lenternow (2072 BAC); expansion demanded navigation law, maritime safety, resource management and independent state institutions. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 ![hargenbor1](/images/hargenbor1.webp)
 ![hargenbor2](/images/hargenbor2.webp)
 ![hargenbor3](/images/hargenbor3.webp)
