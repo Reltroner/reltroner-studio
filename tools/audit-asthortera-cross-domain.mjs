@@ -26,7 +26,7 @@ const files=new Map(docs.map(x=>[x,read(x)]));
 info.push({metric:'markdown_documents_scanned',value:docs.length});
 info.push({metric:'active_model',value:v.schema_version});
 inspect(docs.length>=433,'MARKDOWN_TREE_LOST','Fewer than 433 source documents');
-inspect(v.schema_version==='NCCM-V6.2-migration-conserved-active','V6_ACTIVE_MODEL_REQUIRED','Migration-conserved V6.2 schema is the active six-way statistical model');
+inspect(v.schema_version==='NCCM-V6.3-founder-chronology-active','V6_ACTIVE_MODEL_REQUIRED','Migration-conserved V6.2 schema is the active six-way statistical model');
 inspect(eq(P.population_billion,4412)&&P.sovereign_states===37&&eq(P.sdi,.947),'PLANET_ANCHOR','4,412B, 37 states and SDI .947 must remain');
 inspect(eq(P.year0.tfr,1.63)&&eq(P.year0.median_age_years,252)&&eq(P.year0.urbanization_rate,.895)&&eq(P.year0.annual_inflation,.0033),'YEAR0_ANCHORS','Year 0 vital and economic rates');
 inspect(eq(P.historical_1010_BAC.median_age_years,30)&&eq(P.historical_1010_BAC.urbanization_rate,.68)&&eq(P.historical_1010_BAC.annual_inflation,.043),'BAC1010_ANCHORS','Historical demographic and inflation targets');
@@ -83,6 +83,13 @@ for(const route of migration.routes){
 }
 inspect(eq(sum(migration.routes,x=>x.population_billion),75),'MIGRATION_FLOW_SUM','Migrants cannot disappear or multiply');
 inspect(eq(C.pre_migration_reference.original_14_population_billion,3288)&&eq(C.pre_migration_reference.new_five_population_billion,320),'ANCESTRY_PRETRANSFER_REFERENCE','Previous population weighted planet denominator must be frozen');
+const foundation=new Map((v.historical_foundations?.ordered_core||[]).map(c=>[c.name,c]));
+const foundationExpected={Mapether:2164,Lenternow:2072,Hargenbor:1984,Moreg:1713,Pasgerflit:1545,Scenrepolia:1234,Taramistry:1210};
+for(const [name,bac] of Object.entries(foundationExpected))inspect(foundation.get(name)?.bac===bac,'CREATOR_RATIFIED_FOUNDING_YEAR',name+' '+bac);
+inspect(['Mapether','Lenternow','Hargenbor','Moreg','Pasgerflit','Scenrepolia','Taramistry'].every((name,i,all)=>i===all.length-1||foundation.get(name)?.bac>foundation.get(all[i+1])?.bac),'FOUNDATION_BAC_ORDER','BAC chronology requires decreasing years oldest to youngest');
+inspect(foundation.get('Krisberia')?.status==='conditional','KRISBERIA_FOUNDING_CONDITIONAL','2320 BAC requires prior Aurastelia and Astrostelia territorial completion');
+inspect((files.get('content/events/history-timeline.md')||'').includes('### 1210 BAC — Foundation of Taramistry'),'HISTORY_TARAMISTRY_DATE','Integrated timeline must use 1210 BAC');
+inspect((files.get('content/factions/taramistry.md')||'').includes('founded in 1210 BAC'),'PROFILE_TARAMISTRY_DATE','Taramistry profile must reflect 1210 BAC');
 const required=new Set(['Scenrepolia','Krisberia','Mapether','Ethaptoria','Calespia']);
 for(const c of v.countries_5){
  const historicPop={Scenrepolia:68,Krisberia:48,Mapether:74,Ethaptoria:59,Calespia:71}[c.name];
