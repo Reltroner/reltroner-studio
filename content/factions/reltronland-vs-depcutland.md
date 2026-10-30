@@ -102,6 +102,10 @@ The comparatively young Eastern Continent, east of the Central Ocean, already po
 | **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
 | **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
 | **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
+| **2072** | Lenternow | Illumination-resource development and anti-resource-curse industrialization |
+| **1984** | Hargenbor | Cosmeilian maritime merchants, Port of Astro Bay and Lenternow trade |
+| **1713** | Moreg | Independent Cenrestieran entrepreneurs and transport manufacture |
+| **1545** | Pasgerflit | Astrostelian emergency landing and modular aerospace rebuild |
 | **1234** | Scenrepolia | Cistheta-influenced **local** interface and infrastructural discoveries |
 | **1210** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
 
