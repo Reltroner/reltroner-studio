@@ -896,6 +896,14 @@ At this treaty-year benchmark, **planetary SDI was 0.707**, **period life expect
 
 ---
 
+### 1010 BAC — Historical Economic Baseline V2 (Retrospective Statistical Annotation)
+
+The creator-defined 1010 BAC anchors are **Asthortera nominal GDP USD 195.67 trillion** and **Reltronland GDP REL 1.52 trillion** with the historical nominal reference **1 REL = USD 4.50**. Thus Reltronland produced **USD 6.84 trillion**, or **3.4956815%** of planetary GDP, with **1.52 billion sentients**. The **10% real planetary GDP growth** of 1010 BAC is a year-specific narrative anchor and not a long-term compound average.
+
+The Year 0 ancestry distribution is **58% Depeisit / 22% Cistheta / 10% Cosmeilia-Human mixed / 7% native Asthorteran / 3% other**, explicitly superseding the 61/24/5/7/3 reconstruction under the 2026-10-30 creator decision. See the [NCCM V2 statistical development ledger](../statistics/asthortera-nccm-remodeling.md).
+
+---
+
 ### 1010 BAC — Treaty Recognition of Pre-existing Sovereignty
 
 Reltronland and Depcutland had both become independent **before the 1057 BAC crisis**. The Troncut Treaty reaffirms their separate sovereignty and concludes the war-and-settlement cycle; it is **not** their original declaration of independence from Depeisit.
@@ -998,6 +1006,14 @@ After the Great Acceleration, **planetary TFR, net-migration intensity and GDP g
 A planet-wide **0.4% population CAGR over 1010 years** and modern **4.412 trillion population** imply a **conditional 1010 BAC population of approximately 78.27 billion**, or a **56.37×** increase. This is a **calculated scenario, not an ancient census**. A piecewise-consistent population-growth reconstruction is: **1.40% (1010–995 BAC), 2.40% (995–970), 2.75% (970–950), 1.20% (950–920), 0.70% (920–850), 0.45% (850–780), 0.22% (780–600), 0.18% (600–300), and ~0.197658% (300–Year 0)**. All intermediate values are **simulation V1**, not fixed observational records.
 
 The economic-demographic transition also raised **life expectancy from 80 to ~475 years** and **SDI from 0.707 to 0.938**. Simulated intermediate markers may be **SDI 0.775/0.850/0.915** and **life expectancy 102/170/385 years** around **950/780/300 BAC**, but require separate biological and institutional validation. The **Year 0 real economic growth rate is 7.5%**.
+
+---
+
+### 250 BAC–Year 0 — The 250-Year Economic Miracle (Retrospective NCCM V2 Model)
+
+The economic Miracle describes accumulated institutional capability and innovation, **not 12% GDP growth every year for 250 years**. A provisional nominal USD historical scenario uses **3.0% GDP CAGR for Reltronland** and **2.5% for the planet** during 250 BAC–Year 0, with **~12.44255%** Reltronland GDP share at 250 BAC, versus **42% at Year 0**. Exceptional 12% or 25% annual growth episodes must be reconciled with the full period, not extrapolated forever.
+
+The 1010-year nominal GDP CAGRs are **alpha ~1.7851937% planetary** and **rho ~2.0360492% Reltronland**, in USD, while **Year 0 core planetary GDP ~USD 1.1297380639746428 × 10^22** is derived from the national GDP and 42% share. Consumer inflation, GDP deflators, GNI, exchange-rate appreciation, market capitalization and PPP are distinct measures. Model assumptions and unresolved national-source data are tracked in [NCCM V2](../statistics/asthortera-nccm-remodeling.md).
 
 ---
 
