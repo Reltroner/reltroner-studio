@@ -25,7 +25,7 @@
     "rel_gni_per_capita_rel": 48569845,
     "rel_gdp_share_planet": 0.42,
     "rel_market_cap_snapshot": 0.47,
-    "planet_sdi": 0.938,
+    "planet_sdi": 0.947,
     "planet_life_expectancy_years": 475
   },
   "assumptions": {
@@ -49,10 +49,10 @@
     "National FX and PPP series",
     "GDP and GNI foreign-primary-income bridge",
     "Income and wealth Gini models",
-    "SDI component weighting",
     "Kalgered expenditure residual 1 percentage point",
     "Inclusive planetary Cosmeilian/native headcounts not ratified; 15%/12% are scenario candidates, not census results",
-    "37-country roster, 23 unprofiled national populations and ancestry crosswalk"
+    "37-country roster, 23 unprofiled national populations and ancestry crosswalk",
+    "NCCM V3 calibrated 60/40 SDI individual/institution split is candidate, not independent observation"
   ],
   "year0_37_country_census": {
     "sovereign_country_count": 37,
@@ -80,17 +80,27 @@
           "Cosmeilia Cosmic Races",
           "Cosmeilia-Human mixed"
         ],
-        "observed_14_country_lower_bound": 478160000000,
+        "observed_14_country_lower_bound": 539750000000,
         "candidate_planet_share": 0.15,
         "candidate_planet_headcount": 661800000000,
         "candidate_status": "noncanon candidate; 23 other states not censused"
       },
       "native_asthorteran_lineage": {
-        "observed_14_country_lower_bound": 377423000000,
+        "observed_14_country_lower_bound": 378753000000,
         "candidate_planet_share": 0.12,
         "candidate_planet_headcount": 529440000000,
         "candidate_status": "noncanon candidate; 23 other states not censused"
       }
     }
+  },
+  "sdi_v3": {
+    "creator_ratified_definition": "SDI is a combined measure of mean individual capability and institutional quality",
+    "planet_sdi_year0": 0.947,
+    "known14_population_weighted_sdi": 0.9586380778588808,
+    "remaining23_required_population_weighted_sdi": 0.9129555160142347,
+    "operator": "composite national SDI weighted by national resident population in Year 0",
+    "institutional_individual_weighting": "candidate 60/40 subject to approval, not independently measured",
+    "year_1010_BAC_sdi": 0.707,
+    "unchanged_national_profiles_count": 14
   }
 }
