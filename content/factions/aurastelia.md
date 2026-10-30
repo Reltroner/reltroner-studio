@@ -7,6 +7,9 @@ date: "2025-06-14"
 published: true
 ---
 
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Aurastelia: **164 billion** residents; **TFR 1.95 (S, national scenario)**; **real GDP growth Year 0 3.75% (S, national scenario)**. The creator-ratified planetary values remain **TFR 1.63**, **real GDP growth 4.00%**, **4,412 billion** residents and **SDI 0.947**. The global TFR calculation is a population-weighted proxy, not a biological cohort census; growth uses GDP-share-weighted calibration. Older V3/V4 figures elsewhere in this profile are historical snapshots, not active Year 0 forecasts. [Current NCCM V6.5 report](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [model data](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 ![aurastelia1](/images/aurastelia1.webp)
 ![aurastelia2](/images/aurastelia2.webp)
 ![aurastelia3](/images/aurastelia3.webp)

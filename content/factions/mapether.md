@@ -21,6 +21,9 @@ tags:
   - NCCM V6
 ---
 
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Mapether: **74 billion** residents; **TFR 1.89 (S, national scenario)**; **Year 0 real GDP growth 4.10% (S, national scenario)**. Planet's **TFR 1.63** and **4.00% real GDP growth** are creator-ratified; nation values are comparative scenarios, not observed age-cohort or full input-output data. Migration and ancestry preservation use [NCCM V6.5](../statistics/asthortera-nccm-v6-active-cross-domain.md) and [active JSON](../../data/asthortera/nccm-v6-active-cross-domain.json). Other demographic values explicitly marked unknown in this profile remain unknown unless separately ratified.
+
+
 # Mapether — The Textile, Fashion and Improvisation Civilization
 
 > **National identity:** The Civilization of Textiles, Fashion and Creative Identity.

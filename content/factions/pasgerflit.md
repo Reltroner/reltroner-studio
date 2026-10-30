@@ -22,6 +22,9 @@ tags:
   - Astralis Series
 ---
 
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Pasgerflit: **279 billion** residents; **TFR 1.82 (S, scenario)**; **real GDP growth Year 0 4.39% (S, scenario)**. Creator-ratified planet anchors: **TFR 1.63**, **GDP growth 4.00%**, **4,412 billion residents**, **SDI 0.947**. Population-weighted TFR and GDP-weighted growth are modeled aggregation proxies, not cohort/labor-sector measurements. Older V3/V4 figures elsewhere in this file are archived. [NCCM V6.5 cross-domain report](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [current JSON ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 > **Creator-ratified national founding (2026-10-31): 1545 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** an Astrostelian fleet bound for planet Cosmeilia emergency-landed in the region; coupled spacecraft-landing and ground-support bugs cascaded into a reliability crisis, prompting a deliberate, testable atmospheric-aviation/aerospace engineering reset, civil airfields, MRO, air-traffic standards and eventual sovereign aviation institutions; not Asthortera's first spaceflight. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 

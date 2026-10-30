@@ -15,6 +15,9 @@ tags:
   - National Profile
 ---
 
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Beluftner: **91 billion** residents; **TFR 1.80 (S, scenario)**; **real GDP growth Year 0 3.32% (S, scenario)**. Creator-ratified planet anchors: **TFR 1.63**, **GDP growth 4.00%**, **4,412 billion residents**, **SDI 0.947**. Population-weighted TFR and GDP-weighted growth are modeled aggregation proxies, not cohort/labor-sector measurements. Older V3/V4 figures elsewhere in this file are archived. [NCCM V6.5 cross-domain report](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [current JSON ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 ![beluftnerball](/images/beluftnerball.webp)
 <video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
   <source src="https://cdn.jsdelivr.net/gh/Reltroner/reltroner-studio-resource@main/landing-page-resource/videos/beluftner-part1.mp4" type="video/mp4" />

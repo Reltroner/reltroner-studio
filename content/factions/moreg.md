@@ -29,6 +29,9 @@ tags:
   - Civilizational Strength Inversion
 ---
 
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Moreg: **205 billion** residents; **TFR 1.50 (S, national scenario)**; **real GDP growth Year 0 4.44% (S, national scenario)**. Planet creator-ratified **TFR 1.63**, **real GDP growth 4.00%**, **4,412 billion** unique residents, **SDI 0.947**. TFR uses a population-weighted demographic proxy, not complete reproductive-age cohorts; growth uses GDP shares. Older V3/V4 TFR or growth data below are **archived scenarios**. [NCCM V6.5](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [active JSON](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 > **Creator-ratified national founding (2026-10-31): 1713 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** independent Cenrestieran transport entrepreneurs, not the Cenrestier state, established mass manufacturing on favorable Moreg-border geography with suitable raw materials, then required public infrastructure and locally legitimate institutions; Cosmeilian protection of the earlier sparsely inhabited area is not a colonial government. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 

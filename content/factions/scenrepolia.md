@@ -24,6 +24,9 @@ tags:
   - Interoperability
 ---
 
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Scenrepolia: **88 billion** residents; **TFR 1.66 (S, national scenario)**; **Year 0 real GDP growth 4.25% (S, national scenario)**. Planet's **TFR 1.63** and **4.00% real GDP growth** are creator-ratified; nation values are comparative scenarios, not observed age-cohort or full input-output data. Migration and ancestry preservation use [NCCM V6.5](../statistics/asthortera-nccm-v6-active-cross-domain.md) and [active JSON](../../data/asthortera/nccm-v6-active-cross-domain.json). Other demographic values explicitly marked unknown in this profile remain unknown unless separately ratified.
+
+
 > **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **88 billion** resident sentients (previously **68 billion**); 10B from Astrostelia; 10B from Lenternow. National SDI remains **0.956**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 16.317 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
 
 

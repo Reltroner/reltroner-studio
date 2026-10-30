@@ -11,11 +11,12 @@ const P=model.planet;
 const eq=(a,b,t=1e-9)=>assert.ok(Number.isFinite(a)&&Math.abs(a-b)<=t*Math.max(1,Math.abs(b)),String(a)+' != '+String(b));
 const sum=(xs,fn=x=>x)=>xs.reduce((a,c)=>a+fn(c),0);
 test('V6 Year 0 planetary baseline and historic 1010 BAC creator ratifications',()=>{
- assert.equal(model.schema_version,'NCCM-V6.4-stelpadland-debt-and-industry-active');
+ assert.equal(model.schema_version,'NCCM-V6.5-foundation-fertility-growth-reconciled');
  assert.equal(P.population_billion,4412);
  assert.equal(P.sovereign_states,37);
  eq(P.sdi,.947);
  eq(P.year0.tfr,1.63);
+ eq(P.year0.real_gdp_growth,.04);
  eq(P.year0.median_age_years,252);
  eq(P.year0.urbanization_rate,.895);
  eq(P.year0.annual_inflation,.0033);
@@ -146,7 +147,10 @@ test('Creator-ratified sovereign foundations satisfy exact BAC dates and relativ
  for(const [name,bac]of Object.entries(required)){assert.equal(index.get(name)?.bac,bac,name);assert.ok(index.get(name)?.status==='creator_ratified'||index.get(name)?.status==='existing');}
  const order=Object.keys(required);
  for(let i=0;i<order.length-1;i++)assert.ok(index.get(order[i]).bac>index.get(order[i+1]).bac,'Incorrect BAC age order '+order[i]);
- assert.equal(index.get('Krisberia').status,'conditional');
+ assert.equal(index.get('Pencilfania').bac,2732);
+ assert.equal(index.get('Pencilfania').status,'creator_ratified');
+ assert.equal(index.get('Krisberia').bac,2320);
+ assert.equal(index.get('Krisberia').status,'creator_ratified');
  assert.equal(history.related_events.cistheta_emissaries_bac,1256);
  assert.deepEqual(history.related_events.scenrepolia_taramistry_patent_dispute_bac,[1153,1138]);
  assert.deepEqual(history.related_events.calespia_taramistry_botanical_dispute_bac,[1149,1137]);
@@ -168,4 +172,27 @@ test('Active Stelpadland 52% public debt and finished-furniture industry superse
  assert.match(activeText,/42\.0%.*superseded/i);
  assert.match(report,/Stelpadland \| 2\.8757 \| 20\.395 \| 0\.240 \| \*\*52\.00% \(canon\)\*\*/);
  assert.doesNotMatch(report,/Stelpadland \| 2\.8757 \| 20\.395 \| 0\.240 \| 42\.00%/);
+});
+
+test('V6.5 cohort-proxy TFR of 14+5+18 states reconciles exactly to planet 1.63',()=>{
+ const countries=[...model.countries_14,...model.countries_5],res=model.aggregate_remaining_18;
+ assert.equal(countries.length,19);assert.equal(res.state_count,18);
+ for(const c of countries){assert.ok(Number.isFinite(c.tfr_candidate)&&c.tfr_candidate>0&&c.tfr_candidate<5,c.name);
+  const profile=fs.readFileSync(path.join(root,c.source),'utf8');
+  assert.match(profile,/NCCM V6\.5 — Current Year 0 Modeling/);
+  assert.ok(profile.includes('TFR '+c.tfr_candidate.toFixed(2)),c.name);
+ }
+ eq((sum(countries,c=>c.population_billion*c.tfr_candidate)+res.population_billion*res.tfr_population_weighted_proxy_required)/P.population_billion,1.63,1e-12);
+ assert.match(P.year0.tfr_model_aggregation_status,/POPULATION-WEIGHTED/);
+});
+test('V6.5 GDP-share-weighted growth of 19+18 states equals creator-ratified 4%',()=>{
+ const countries=[...model.countries_14,...model.countries_5],res=model.aggregate_remaining_18;
+ for(const c of countries)assert.ok(Number.isFinite(c.real_gdp_growth)&&c.real_gdp_growth>=0&&c.real_gdp_growth<.2,c.name);
+ eq(sum(countries,c=>c.real_gdp_growth*c.gdp_planet_share)+res.gdp_planet_share*res.real_gdp_growth_gdp_weighted_required,.04,1e-12);
+ const report=fs.readFileSync(path.join(root,'content/statistics/asthortera-nccm-v6-active-cross-domain.md'),'utf8');
+ assert.match(report,/NCCM V6\.5/);
+ assert.match(report,/## 5A\. Reconciled national TFR/);
+ assert.match(report,/## 6A\. Reconciled Year 0 real GDP growth/);
+ assert.match(report,/\| \[Pencilfania\]\(\.\.\/factions\/pencilfania\.md\) \| 2732 \|/);
+ assert.match(report,/\| \[Krisberia\]\(\.\.\/factions\/krisberia\.md\) \| 2320 \|/);
 });

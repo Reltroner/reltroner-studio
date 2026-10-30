@@ -17,6 +17,9 @@ canonicalStatus: "Upgraded country profile aligned with current Reltroner Studio
 chronologyStandard: "BAC/AC as a meta-chronology and historical translation layer"
 ---
 
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Reltronland: **855 billion** residents; **TFR 1.15 (S, national scenario)**; **real GDP growth Year 0 4.01% (S, national scenario)**. The creator-ratified planetary values remain **TFR 1.63**, **real GDP growth 4.00%**, **4,412 billion** residents and **SDI 0.947**. The global TFR calculation is a population-weighted proxy, not a biological cohort census; growth uses GDP-share-weighted calibration. Older V3/V4 figures elsewhere in this profile are historical snapshots, not active Year 0 forecasts. [Current NCCM V6.5 report](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [model data](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 ![reltronland1](/images/reltronland4.webp)
 ![reltronland1](/images/reltronland1.webp)
 ![reltronland2](/images/reltronland2.webp)

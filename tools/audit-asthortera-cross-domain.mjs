@@ -26,7 +26,7 @@ const files=new Map(docs.map(x=>[x,read(x)]));
 info.push({metric:'markdown_documents_scanned',value:docs.length});
 info.push({metric:'active_model',value:v.schema_version});
 inspect(docs.length>=433,'MARKDOWN_TREE_LOST','Fewer than 433 source documents');
-inspect(v.schema_version==='NCCM-V6.4-stelpadland-debt-and-industry-active','V6_ACTIVE_MODEL_REQUIRED','V6.4 with migration and founder-date conservation is active six-way statistical model');
+inspect(v.schema_version==='NCCM-V6.5-foundation-fertility-growth-reconciled','V6_ACTIVE_MODEL_REQUIRED','V6.5 includes 19-country fertility, 4% GDP growth, ratified founding dates, migration and conservation');
 inspect(eq(P.population_billion,4412)&&P.sovereign_states===37&&eq(P.sdi,.947),'PLANET_ANCHOR','4,412B, 37 states and SDI .947 must remain');
 inspect(eq(P.year0.tfr,1.63)&&eq(P.year0.median_age_years,252)&&eq(P.year0.urbanization_rate,.895)&&eq(P.year0.annual_inflation,.0033),'YEAR0_ANCHORS','Year 0 vital and economic rates');
 inspect(eq(P.historical_1010_BAC.median_age_years,30)&&eq(P.historical_1010_BAC.urbanization_rate,.68)&&eq(P.historical_1010_BAC.annual_inflation,.043),'BAC1010_ANCHORS','Historical demographic and inflation targets');
@@ -99,7 +99,8 @@ const foundation=new Map((v.historical_foundations?.ordered_core||[]).map(c=>[c.
 const foundationExpected={Mapether:2164,Lenternow:2072,Hargenbor:1984,Moreg:1713,Pasgerflit:1545,Scenrepolia:1234,Taramistry:1210};
 for(const [name,bac] of Object.entries(foundationExpected))inspect(foundation.get(name)?.bac===bac,'CREATOR_RATIFIED_FOUNDING_YEAR',name+' '+bac);
 inspect(['Mapether','Lenternow','Hargenbor','Moreg','Pasgerflit','Scenrepolia','Taramistry'].every((name,i,all)=>i===all.length-1||foundation.get(name)?.bac>foundation.get(all[i+1])?.bac),'FOUNDATION_BAC_ORDER','BAC chronology requires decreasing years oldest to youngest');
-inspect(foundation.get('Krisberia')?.status==='conditional','KRISBERIA_FOUNDING_CONDITIONAL','2320 BAC requires prior Aurastelia and Astrostelia territorial completion');
+inspect(foundation.get('Pencilfania')?.bac===2732&&foundation.get('Pencilfania')?.status==='creator_ratified','PENCILFANIA_2732','Pencilfania founding 2732 BAC creator-ratified');
+inspect(foundation.get('Krisberia')?.bac===2320&&foundation.get('Krisberia')?.status==='creator_ratified','KRISBERIA_2320_UNCONDITIONAL','Krisberia sovereign foundation 2320 BAC requires no conditions');
 inspect((files.get('content/events/history-timeline.md')||'').includes('### 1210 BAC — Foundation of Taramistry'),'HISTORY_TARAMISTRY_DATE','Integrated timeline must use 1210 BAC');
 inspect((files.get('content/factions/taramistry.md')||'').includes('founded in 1210 BAC'),'PROFILE_TARAMISTRY_DATE','Taramistry profile must reflect 1210 BAC');
 const required=new Set(['Scenrepolia','Krisberia','Mapether','Ethaptoria','Calespia']);
@@ -118,6 +119,25 @@ for(const c of v.countries_5){
  inspect(c.fx.usd_per_local_unit>=22&&c.fx.usd_per_local_unit<=114.26,'FX_RANGE',c.name);
  inspect(c.country_specific_ancestry_status==='not_ratifed','DO_NOT_FABRICATE_5_NATION_ANCESTRY',c.name);
 }
+// Year 0 cross-domain V6.5 fertility and real GDP growth invariants.
+const activeNations=[...v.countries_14,...v.countries_5],rest18=v.aggregate_remaining_18;
+const modeledTFR=(sum(activeNations,c=>c.population_billion*c.tfr_candidate)+rest18.population_billion*rest18.tfr_population_weighted_proxy_required)/P.population_billion;
+const modeledRealGrowth=sum(activeNations,c=>c.gdp_planet_share*c.real_gdp_growth)+rest18.gdp_planet_share*rest18.real_gdp_growth_gdp_weighted_required;
+inspect(eq(P.year0.tfr,1.63),'RATIFIED_PLANET_TFR_163','Planet 1.63 exactly');
+inspect(eq(P.year0.real_gdp_growth,.04),'RATIFIED_PLANET_GROWTH_4','Year 0 world growth 4% exactly');
+inspect(activeNations.length===19&&rest18.state_count===18,'ACTIVE_14_5_18_COUNTRY_PARTITION','The model covers all 37 countries without fabricating residuals');
+inspect(activeNations.every(c=>Number.isFinite(c.tfr_candidate)&&c.tfr_candidate>0&&c.tfr_candidate<5),'ALL_19_NATIONAL_TFR','Nineteen national model values must exist');
+inspect(activeNations.every(c=>Number.isFinite(c.real_gdp_growth)&&c.real_gdp_growth>=0&&c.real_gdp_growth<.2),'ALL_19_NATIONAL_GROWTH','Nineteen year-zero growth model values must exist');
+inspect(eq(modeledTFR,1.63,1e-12),'TFR_POPULATION_WEIGHTED_RECONCILIATION',String(modeledTFR));
+inspect(eq(modeledRealGrowth,.04,1e-12),'GROWTH_GDP_SHARE_RECONCILIATION',String(modeledRealGrowth));
+inspect((P.year0.tfr_model_aggregation_status||'').includes('POPULATION-WEIGHTED'),'TFR_IS_APPROXIMATE_COHORT_PROXY','TFR aggregation is a population proxy, not actual cohort fertility');
+inspect((P.year0.real_gdp_growth_model_aggregation_status||'').includes('GDP weights'),'GROWTH_REAL_PRICE_PROXY','GDP-share weight scenario depends on consistent real deflators');
+const reportV65=files.get('content/statistics/asthortera-nccm-v6-active-cross-domain.md')||'';
+inspect(reportV65.includes('NCCM V6.5')&&reportV65.includes('## 5A. Reconciled national TFR')&&reportV65.includes('## 6A. Reconciled Year 0 real GDP growth'),'REPORT_V65_RECONCILED','Cross-domain markdown must match active V6.5');
+for(const c of activeNations)inspect((files.get(c.source)||'').includes('NCCM V6.5 — Current Year 0 Modeling'),'NATIONAL_PROFILE_V65',c.name);
+warning('TFR_COHORT_EXPOSURE_UNCALIBRATED','Full species-specific age fertility denominators are absent; 1.63 population-weighted proxy is mathematical reconciliation only');
+warning('GROWTH_DEFLATOR_UNCALIBRATED','4% GDP-share-weighted growth assumes consistent real-price bases; full chain-volume statistics pending');
+info.push({metric:'modeled_planet_TFR',value:modeledTFR},{metric:'modeled_planet_growth',value:modeledRealGrowth});
 const sdi=(sum(v.countries_14,x=>x.sdi*x.population_billion)+sum(v.countries_5,x=>x.sdi*x.population_billion)+v.aggregate_remaining_18.sdi_population_weighted_required*804)/4412;
 inspect(eq(sdi,.947),'PLANET_SDI_RECONCILIATION',String(sdi));
 inspect(v.aggregate_remaining_18.individual_country_data==='explicitly deferred by creator'&&v.aggregate_remaining_18.ancestry_primary_pct_by_country===null,'DEFERRED_18_INTEGRITY','No invented national populations/SDI/ancestry');

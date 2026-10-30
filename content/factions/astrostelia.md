@@ -22,6 +22,9 @@ tags:
   ]
 ---
 
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Astrostelia: **185 billion** residents; **TFR 1.67 (S, national scenario)**; **real GDP growth Year 0 4.17% (S, national scenario)**. The creator-ratified planetary values remain **TFR 1.63**, **real GDP growth 4.00%**, **4,412 billion** residents and **SDI 0.947**. The global TFR calculation is a population-weighted proxy, not a biological cohort census; growth uses GDP-share-weighted calibration. Older V3/V4 figures elsewhere in this profile are historical snapshots, not active Year 0 forecasts. [Current NCCM V6.5 report](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [model data](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 > **Cross-country founding continuity (creator-ratified 2026-10-31):** The independent aviation country **Pasgerflit was founded in 1545 BAC** following a large Astrostelian fleet's emergency landing on its sparsely settled future territory. A cascading failure in spacecraft landing-support infrastructure prompted the deliberately simpler, modular atmospheric-aviation engineering program that later seeded Pasgerflit's aviation economy. This does **not** make Pasgerflit a province of Astrostelia, nor does it make 1545 BAC the beginning of spaceflight on Asthortera. [Full founding synthesis](../events/cosmeilian-stewardship-four-industrial-foundings.md).
 
 
