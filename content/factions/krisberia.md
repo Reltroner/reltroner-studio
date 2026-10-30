@@ -20,6 +20,9 @@ tags:
   - NCCM V6
 ---
 
+> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **58 billion** resident sentients (previously **48 billion**); 10B from Lenternow. National SDI remains **0.955**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 16.457 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+
+
 # Krisberia — The Crystalline Civilization of Craftsmanship
 
 > **National identity:** The Crystal and Craftsmanship Civilization.
@@ -165,7 +168,7 @@ The Eastern **non-theological civic tradition** can guide state legitimacy witho
 
 | Metric | Working Year 0 scenario | Interpretation |
 |---|---:|---|
-| National population | **48 billion sentients** | From the five-nation proposal, part of the 23-country residual |
+| National population | **58 billion sentients** | From the five-nation proposal, part of the 23-country residual |
 | Sentient Development Index | **0.955** | Proposed national fixed target |
 | Individual capability | **0.9560** | Modeled component |
 | Institutional quality | **0.9535** | Modeled component |
@@ -173,11 +176,11 @@ The Eastern **non-theological civic tradition** can guide state legitimacy witho
 | National specialization factor | **1.17** | GDP macro-allocation factor |
 | Share of planetary GDP | **approximately 0.8449%** | Macro-constrained target |
 | Nominal annual GDP after 10× uplift | **approximately USD 0.9545 × 10²¹** | Provisional output allocation |
-| Annual GDP/head | **approximately USD 19.886 billion** | Derived proxy from GDP / population |
-| Annual GNI/head | **approximately USD 19.886 billion** | Assumes net foreign primary income = zero |
+| Annual GDP/head | **approximately USD 16.457 billion** | Derived proxy from GDP / population |
+| Annual GNI/head | **approximately USD 16.457 billion** | Assumes net foreign primary income = zero |
 | V6 proposed currency code | **KRF** | Subject to legacy-code reconciliation |
 | Proposed FX quotation | **1 KRF = USD 86.20** | Hypothetical, not historical market quotation |
-| Illustrative local GNI/head | **approximately 230.69 million KRF/year** | Derived via proposed FX |
+| Illustrative local GNI/head | **approximately 190.92 million KRF/year** | Derived via proposed FX |
 | National census ancestry / Phantomkind rate | **Open** | Do not copy 14-country planetary representative distribution into national statistics |
 | Population median age, life expectancy, national TFR | **Open** | No invented cohort or fertility rate |
 | Annual CPI, income Gini, unemployment, carbon | **Open** | No invented measured figures |
@@ -310,7 +313,7 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 | Unpublished national ancestry, land area and vital statistics | Unassigned: do not fabricate |
 | 18 remaining unprofiled countries | Remain in unchanged combined residual after allocation of five nations |
 
-**World-scale accounting:** The original 14 profiled countries contain **3,288 billion** people. The five additional Eastern countries were modeled at **320 billion combined**, leaving **804 billion in 18 other countries**. Krisberia is part of these **five**, not a 38th country. Planetary six-category primary ancestry is represented for now by the original 14-country population-weighted shares; that planetary proxy does **not** establish Krisberia's local ancestry percentages.
+**World-scale accounting:** The original 14 profiled countries now contain **3,213 billion** people after internal migration. The five additional Eastern countries now contain **395 billion combined**, leaving **804 billion in 18 other countries**. Krisberia is part of these **five**, not a 38th country. Planetary six-category primary ancestry is represented for now by the original 14-country population-weighted shares; that planetary proxy does **not** establish Krisberia's local ancestry percentages.
 
 **Eastern non-theological tradition:** public institutions emphasize inquiry, lived experience, reflection and civic ethics. This does not erase privately held belief, spirituality or Asthortera's actual extraordinary phenomena, and it must not be imposed on other planets or countries with distinct traditions.
 
