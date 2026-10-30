@@ -1,0 +1,99 @@
+{
+  "schema": "kalgered-nccm-candidate-v1",
+  "date": "2026-10-30",
+  "status": "development material / not ratified",
+  "source": "content/factions/kalgered.md",
+  "year0": {
+    "population": 108000000000,
+    "land_area_km2": 108000000,
+    "sdi": 0.979,
+    "gni_per_capita_kal_year": 17956408,
+    "gini_income": 0.21,
+    "growth_last_100_years_reported": 0.07,
+    "national_debt_gdp_ratio": 0.45,
+    "co2_t_per_capita": 1.3,
+    "gender_share": {
+      "male": 0.51,
+      "female": 0.49
+    },
+    "national_ancestry": {
+      "depeisit": 0.4,
+      "native": 0.35,
+      "cosmeilian_all_manifestations": 0.13,
+      "cistheta": 0.1,
+      "other": 0.02
+    }
+  },
+  "historical_spending_snapshot": {
+    "bands": [
+      "<100",
+      "100–9999",
+      "10000–99999",
+      "100000–499999",
+      "500000+"
+    ],
+    "shares": [
+      0.01,
+      0.3,
+      0.45,
+      0.18,
+      0.05
+    ],
+    "sum": 0.99,
+    "status": "superseded only after separate ratification; insufficient savings/tax headroom under GNI-based consumption-envelope assumptions"
+  },
+  "remodel_scenario": {
+    "bands": [
+      {
+        "label": "Protected low private expenditure",
+        "min": 0,
+        "max": 999.99,
+        "share": 0.02,
+        "representative": 500
+      },
+      {
+        "label": "Stabilized civic household",
+        "min": 1000,
+        "max": 4999.99,
+        "share": 0.18,
+        "representative": 3000
+      },
+      {
+        "label": "Professional and institutional backbone",
+        "min": 5000,
+        "max": 19999.99,
+        "share": 0.45,
+        "representative": 12000
+      },
+      {
+        "label": "Senior professional and capital-secure",
+        "min": 20000,
+        "max": 59999.99,
+        "share": 0.3,
+        "representative": 37000
+      },
+      {
+        "label": "Founders / institutional and capital-intensive",
+        "min": 60000,
+        "max": null,
+        "share": 0.05,
+        "representative": 120000
+      }
+    ],
+    "denominator": "daily personal private expenditure capacity, not income; public services, taxes, research contributions and institutional savings are separate",
+    "status": "scenario only; do not publish as actual census"
+  },
+  "sdi_model": {
+    "national_anchor": 0.979,
+    "dimensions": [
+      "protocol transparency and governance",
+      "education and credential integrity",
+      "health and life-course capability",
+      "civil service autonomy and mobility",
+      "ecological security and public welfare"
+    ],
+    "weights_status": "not calibrated",
+    "denominator": "national sentient capacity, not a threshold for individual voting"
+  },
+  "gdp_status": "unknown; do not set GDP equal to population times GNI/capita without a net foreign primary income bridge"
+}
