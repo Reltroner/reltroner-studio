@@ -22,18 +22,22 @@ tags:
 
 The **binding master** governs narrative and canon release. The **timeline** records dates and causal sequence; **national profiles** govern nation-specific institutions and definitions; **planetary statistics** govern aggregate denominators. A **creator-defined anchor** is a ratified fixed input for remodeling. A **conditional derivative** follows a stated assumption. A **candidate scenario** proposes missing rates for testing only. A published original can be revised only through an explicit, versioned creator-approved correction.
 
-## P0 — Canonical Year 0 ancestry correction
+## P0 — Primary Year 0 ancestry assignment and inclusive lineage scope
+
+**New creator directives (2026-10-30):** Asthortera remains **4.412 trillion unique sentients in 37 sovereign countries**. Fourteen quantified national profiles total **3.288 trillion**; the **other 23 national populations total 1.124 trillion**. Do not redistribute them equally without national sources.
+
+The five-way figures below are a **mutually exclusive primary reporting partition**, not total inclusive lineage counts. **Cosmeilia Cosmic Races + Cosmeilia-Human mixed** are one unified **Cosmeilian All-Manifestations Lineage** for inclusive multi-ancestry reporting; human, fairy, luminous star, comet, light and aurora manifestations of one sentient are **not additional people**. Native Asthorteran lineage can also overlap other primary reporting classes. The national 14-state **Cosmeilian lower bound is 478.160 billion** and **native lower bound is 377.423 billion**; these must not be compared to 10% or 7% **primary-assignment** cells as if they were exclusive planetary caps. Planetary inclusive values must be significantly higher, but **exact totals remain unratified**. See [37-country reconciliation and Kalgered modeling](./asthortera-37-country-lineage-and-kalgered-remodeling.md).
 
 | Mutually exclusive statistical reporting group | Share | Sentients (planet 4.412 trillion) |
 |---|---:|---:|
 | Depeisit descent | **58%** | **2.55896 trillion** |
 | Cistheta descent | **22%** | **970.64 billion** |
-| Cosmeilia-Human mixed | **10%** | **441.20 billion** |
-| Native Asthorteran Human-Wizard-Witch | **7%** | **308.84 billion** |
+| Primary Cosmeilian affiliation (all forms) | **10%** | **441.20 billion primary-assigned** |
+| Primary native Asthorteran affiliation | **7%** | **308.84 billion primary-assigned** |
 | Other recognized sentient groups | **3%** | **132.36 billion** |
 | **Total** | **100%** | **4.412 trillion** |
 
-Ancestry does **not** mean first-generation migration, passport, citizenship, racial homogeneity, professional capability or personal merit. Mixed biological roots may overlap; the table assigns one reporting category per counted sentient. Do not impose the planetary shares on any country's census.
+Primary ancestry does **not** mean first-generation migration, passport, citizenship, phenotype, professional capability or personal merit. Mixed heritage can overlap across *inclusive lineage flags*, while the table assigns **one primary category** to each person. Do not impose these planetary primary shares on any country's local ancestry census. A speculative **15% inclusive Cosmeilian / 12% inclusive native** scenario is recorded separately in development materials; these two figures are **not ratified planetary statistics**.
 
 ## P0 — Verified GDP endpoints and derived contributions
 
@@ -95,7 +99,7 @@ The stipulated historical **planet inflation 0.8% geometric average**, **Reltron
 | SDI | Public component index: cognition, education, health, material access, agency, institutional quality, emotional resilience | 1010 BAC 0.707 → Year 0 0.938; do not infer SDI from GDP or lifespan; interim values 0.775/0.850/0.915 unratified |
 | Monetary | Country FX histories, price baskets, GDP deflators, AUC reporting, PPP and standard sector perimeter | National/planet GDP reconciliation, historical and modern currency meanings, no counting of same value added twice |
 | Distribution | Income and wealth microdistributions, household size, nonmarket material rights, national daily expenditure bands | Planet Gini is not an average of national Ginis; 1010 0.240 and Year 0 0.340 still unratified |
-| National profiles | Audit census years, currency bases, country income categories and sums | **Kalgered spending 1+30+45+18+5 = 99%, 1% unresolved**: do not invent or silently rescale |
+| National profiles | Audit census years, currencies and country income categories; complete all 37 nations | **14/37** profiled; the other 23 contain **1.124T**, and Kalgered's historic 1+30+45+18+5=99% class table needs structural remodeling, not just 1% normalization |
 | Infrastructure | Urban population, built stock, operational capacity, dormant/biological-zero districts | 89.5% is a *population* urbanization rate, not built or occupied land percentage |
 | Intercivilizational network | National accounts plus trade, royalties, finance, licensing, scientific projects and internal mobility | National specialist contributions recognized without duplicating total GDP, merging sovereignty or assuming one universal institution |
 
