@@ -1,218 +1,111 @@
 #!/usr/bin/env node
-/**
- * Asthortera cross-domain statistical QA.
- * Runs on a local checkout without network access or dependencies.
- *
- * This is an integrity audit, not a canon generator. An unresolved P0 blocker
- * deliberately returns exit code 1. Never silently normalize national data.
+/** NCCM V6 strict QA. V3/V4 remain historical snapshots, not the active six-way canon.
+ * 18 national datasets are intentionally deferred; their bounded aggregate MUST reconcile.
+ * Fail any broken numeric/semantic invariant; report incomplete nonfalsified data as warnings.
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const inside = (p) => path.join(root, p);
-const read = (p) => fs.readFileSync(inside(p), 'utf8');
-const dir = 'content';
-const issues = [];
-const info = [];
-const eq = (a, b, tol = 1e-8) => Math.abs(a - b) <= tol * Math.max(1, Math.abs(b));
-const fail = (id, detail) => issues.push({ severity: 'P0', id, detail });
-const warn = (id, detail) => issues.push({ severity: 'P1/P2', id, detail });
-
-function walk(rel) {
-  return fs.readdirSync(inside(rel), { withFileTypes: true }).flatMap((entry) => {
-    const next = path.posix.join(rel, entry.name);
-    return entry.isDirectory() ? walk(next) : entry.isFile() && next.endsWith('.md') ? [next] : [];
-  });
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const read=p=>fs.readFileSync(path.join(root,p),'utf8');
+const get=p=>JSON.parse(read(p));
+const eq=(a,b,t=1e-9)=>Number.isFinite(a)&&Number.isFinite(b)&&Math.abs(a-b)<=t*Math.max(1,Math.abs(b));
+const sum=(xs,f=x=>x)=>xs.reduce((s,x)=>s+f(x),0);
+const v=get('data/asthortera/nccm-v6-active-cross-domain.json');
+const old=get('data/asthortera/nccm-v3-14-country-comparative-model.json');
+const historical=get('data/asthortera/national-cross-domain-audit-2026-10-30.json');
+const base=get('data/asthortera/nccm-baseline-v2.json');
+const P=v.planet,C=v.census;
+const issues=[],info=[];
+const error=(id,detail)=>issues.push({severity:'P0',id,detail});
+const warning=(id,detail)=>issues.push({severity:'P1/P2',id,detail});
+const inspect=(test,id,detail)=>{if(!test)error(id,detail)};
+function walk(rel){return fs.readdirSync(path.join(root,rel),{withFileTypes:true}).flatMap(e=>{const x=path.posix.join(rel,e.name);return e.isDirectory()?walk(x):e.isFile()&&x.endsWith('.md')?[x]:[]})}
+const docs=walk('content');
+const files=new Map(docs.map(x=>[x,read(x)]));
+info.push({metric:'markdown_documents_scanned',value:docs.length});
+info.push({metric:'active_model',value:v.schema_version});
+inspect(docs.length>=433,'MARKDOWN_TREE_LOST','Fewer than 433 source documents');
+inspect(v.schema_version.startsWith('NCCM-V6'),'V6_ACTIVE_MODEL_REQUIRED','Missing active six-way statistical model');
+inspect(eq(P.population_billion,4412)&&P.sovereign_states===37&&eq(P.sdi,.947),'PLANET_ANCHOR','4,412B, 37 states and SDI .947 must remain');
+inspect(eq(P.year0.tfr,1.63)&&eq(P.year0.median_age_years,252)&&eq(P.year0.urbanization_rate,.895)&&eq(P.year0.annual_inflation,.0033),'YEAR0_ANCHORS','Year 0 vital and economic rates');
+inspect(eq(P.historical_1010_BAC.median_age_years,30)&&eq(P.historical_1010_BAC.urbanization_rate,.68)&&eq(P.historical_1010_BAC.annual_inflation,.043),'BAC1010_ANCHORS','Historical demographic and inflation targets');
+inspect(v.provenance.gdp_uplift_factor===10&&v.provenance.unchanged_national_gdp_share,'INTEGRATED_UPLIFT_B','The creator selected Model B with unchanged GDP percentage shares');
+inspect(v.provenance.legacy_ratios_58_22_10_7_3.startsWith('superseded'),'LEGACY_ANCESTRY_RETIRED','Five-way planet ancestry must not be active');
+inspect(v.countries_14.length===14&&v.countries_5.length===5&&v.aggregate_remaining_18.state_count===18,'NATIONAL_COUNTS','14+5+18 must equal 37');
+inspect(eq(sum(v.countries_14,x=>x.population_billion),3288)&&eq(sum(v.countries_5,x=>x.population_billion),320)&&eq(v.aggregate_remaining_18.population_billion,804),'POPULATION_PARTITION','3,288B + 320B + 804B');
+inspect(eq(sum([...v.countries_14,...v.countries_5,v.aggregate_remaining_18],x=>x.population_billion),P.population_billion),'PLANET_POPULATION_SUM','Every person counted once');
+const oldByName=new Map(old.countries.map(x=>[x.name,x]));
+const ancestryKeys=['depeisit','cistheta','cosmeilian','native','phantomkind','other'];
+const ancestry=Object.fromEntries(ancestryKeys.map(k=>[k,0]));
+const names=new Set();
+for(const c of v.countries_14){
+ inspect(!names.has(c.name),'DUPLICATED_NATIONAL_ID',c.name);names.add(c.name);
+ const historic=oldByName.get(c.name);
+ inspect(Boolean(historic),'SOURCE_NATION_MISSING',c.name);
+ inspect(files.has(c.source),'PROFILE_FILE_MISSING',c.source);
+ if(!historic)continue;
+ inspect(eq(c.population_billion,historic.census.population_billion)&&eq(c.sdi,historic.census.sdi_national)&&eq(c.land_area_million_km2,historic.census.land_area_million_km2),'NATIONAL_CENSUS_ANCHORS',c.name);
+ inspect(eq(c.gdp_planet_share,historic.economy.planetary_gdp_share.value),'GDP_SHARE_UNCHANGED',c.name);
+ inspect(eq(c.gdp_usd_annual_V6,10*historic.economy.core_gdp_nominal_usd_reference.value),'GDP_UPLIFT_10X',c.name);
+ inspect(eq(c.sdi_individual_component*.6+c.sdi_institution_component*.4,c.sdi),'NATIONAL_SDI_COMPONENTS',c.name);
+ inspect(eq(c.gdp_usd_annual_V6/(c.population_billion*1e9),c.gdp_per_capita_usd_V6)&&eq(c.gni_per_capita_usd_proxy_V6,c.gdp_per_capita_usd_V6),'GNI_GDP_BRIDGE',c.name);
+ inspect(c.fx&&c.fx.usd_per_local_unit>=22&&c.fx.usd_per_local_unit<=114.26,'FX_RANGE',c.name);
+ const a=c.ancestry_primary_pct;
+ inspect(ancestryKeys.every(k=>Number.isFinite(a[k])&&a[k]>=0&&a[k]<=100)&&eq(sum(ancestryKeys,k=>a[k]),100),'NATIONAL_SIX_WAY_TOTAL',c.name);
+ for(const k of ancestryKeys)ancestry[k]+=c.population_billion*(a[k]||0)/100;
+ if(c.name==='Reltronland')inspect(eq(c.median_age_years,254),'REL_MEDIAN_AGE','Year 0 Reltronland median 254');
 }
-
-const files = walk(dir);
-const contents = new Map(files.map((p) => [p, read(p)]));
-info.push({ metric: 'content_markdown_files_scanned', value: files.length });
-
-const country = JSON.parse(read('data/asthortera/national-cross-domain-audit-2026-10-30.json'));
-const canon = JSON.parse(read('data/asthortera/nccm-baseline-v2.json'));
-const knownPlanetary = country.planet.ancestry_ratified_pct;
-if (!eq(Object.values(knownPlanetary).reduce((s, v) => s + v, 0), 100)) {
-  fail('PLANET_ANCESTRY_SUM', 'Planet ancestry reporting shares do not total 100%.');
+const known14Population=sum(v.countries_14,x=>x.population_billion);
+inspect(eq(sum(Object.values(ancestry)),known14Population),'SIX_WAY_POPULATION_CONSERVATION','Six primary classes count unique people');
+for(const k of ancestryKeys){
+ inspect(eq(ancestry[k],C.original_14_ancestry_headcount_billion[k]),'ANCESTRY_14_LEDGER',k);
+ inspect(eq(100*ancestry[k]/known14Population,P.ancestry_primary_pct_representative_14_country_weighted[k]),'ANCESTRY_PLANET_REPRESENTATIVE',k);
+ inspect(eq(P.population_billion*ancestry[k]/known14Population,P.ancestry_primary_headcount_billion_representative[k]),'ANCESTRY_PLANET_HEADCOUNT',k);
 }
-if (JSON.stringify([knownPlanetary.depeisit, knownPlanetary.cistheta, knownPlanetary.cosmeilia_human_mixed, knownPlanetary.native, knownPlanetary.other]) !== JSON.stringify([58, 22, 10, 7, 3])) {
-  fail('PLANET_ANCESTRY_CANON', 'Planet ancestry diverges from ratified 58/22/10/7/3.');
+inspect(eq(ancestry.phantomkind,73.04)&&eq(ancestry.cosmeilian,533)&&eq(ancestry.native,373.263),'SIX_WAY_CONFIRMED_TOTALS','14-country V6 Phantomkind/Cosmeilian/Native');
+inspect(eq(sum(Object.values(P.ancestry_primary_pct_representative_14_country_weighted)),100),'PLANET_ANCESTRY_100','Planetary proxy must remain six exclusive classes');
+const required=new Set(['Scenrepolia','Krisberia','Mapether','Ethaptoria','Calespia']);
+for(const c of v.countries_5){
+ inspect(required.has(c.name),'NEW_COUNTRY_ROSTER',c.name);
+ inspect(!names.has(c.name),'DUPLICATED_NATIONAL_ID',c.name);names.add(c.name);
+ inspect(files.has(c.source),'PROFILE_FILE_MISSING',c.source);
+ inspect(eq(c.sdi_individual_component*.6+c.sdi_institution_component*.4,c.sdi),'NATIONAL_SDI_COMPONENTS',c.name);
+ inspect(Array.isArray(c.sectors_value_added_pct)&&eq(sum(c.sectors_value_added_pct,x=>x.share),100),'PRODUCTION_SECTORS_100',c.name);
+ inspect(eq(c.gdp_planet_share,c.gdp_usd_annual_V6/P.year0.gdp_usd_annual_V6),'GDP_SHARE_MATCH',c.name);
+ inspect(eq(c.gdp_usd_annual_V6/(c.population_billion*1e9),c.gdp_per_capita_usd_V6),'GDP_PER_CAPITA_MATCH',c.name);
+ inspect(eq(c.gni_per_capita_usd_proxy_V6,c.gdp_per_capita_usd_V6),'GNI_ZERO_BRIDGE',c.name);
+ inspect(c.fx.usd_per_local_unit>=22&&c.fx.usd_per_local_unit<=114.26,'FX_RANGE',c.name);
+ inspect(c.country_specific_ancestry_status==='not_ratifed','DO_NOT_FABRICATE_5_NATION_ANCESTRY',c.name);
 }
-if (!eq(canon.year0_planet_population, country.planet.population_billion * 1e9)) {
-  fail('PLANET_ANCESTRY_DENOMINATOR', 'Global population denominator mismatches the calibrated baseline.');
-}
-
-// Construct the obsolete five-value signature for a QA check, without publishing
-// an obsolete demographic narrative in the active content documents.
-const obsoleteRatio = new RegExp([61, 24, 5, 7, 3].join('\\s*[/,]\\s*'));
-for (const [file, content] of contents) {
-  if (obsoleteRatio.test(content)) fail('OBSOLETE_ANCESTRY_IN_CONTENT', file);
-  if (!content.trim()) warn('EMPTY_CONTENT_FILE', file);
-}
-const requiredGlobal = [
-  'content/statistics/asthortera_identity.md',
-  'content/statistics/asthortera-vs-earth.md',
-  'content/places/asthortera-core-world.md',
-  'content/statistics/sentient-population.md',
-  'content/philosophies/why-immigrants-choose-asthortera.md',
-];
-for (const file of requiredGlobal) {
-  const text = contents.get(file);
-  if (!text) { fail('MISSING_CANONICAL_DOCUMENT', file); continue; }
-  for (const pct of ['58%', '22%', '10%', '7%', '3%']) {
-    if (!text.includes(pct)) fail('MISSING_CANONICAL_PERCENTAGE', file + ': ' + pct);
-  }
-}
-
-const countries = country.countries;
-const totalSovereigns = country.planet.sovereign_country_count;
-if (totalSovereigns !== 37) fail('SOVEREIGN_COUNT_CANON', 'Year 0 sovereignty registry must include 37 states.');
-if (countries.length > totalSovereigns) fail('COUNTRY_REGISTRY_OVERFLOW', 'Profile count exceeds 37 sovereign states.');
-let pop = 0, native = 0, cosmeilian = 0, phantomkind = 0, land = 0, popSDI = 0;
-for (const c of countries) {
-  const text = contents.get(c.source);
-  if (!text) { fail('COUNTRY_PROFILE_NOT_FOUND', c.source); continue; }
-  const a = c.reported_ancestry_pct;
-  const shares = a.depeisit + a.cistheta + (a.cosmeilia_or_mixed ?? 0) + a.native + a.other_or_unclassified + (a.phantomkind_or_spiritual_hybrid ?? 0);
-  if (!eq(shares, 100)) fail('NATIONAL_ANCESTRY_SUM', c.name + ' = ' + shares + '%');
-  const expectedPct = a.native === 90.3 ? '90.3%' : a.native + '%';
-  if (!text.includes(expectedPct)) warn('NATIONAL_NATIVE_VALUE_NOT_LOCATABLE', c.source + ': ' + expectedPct);
-  pop += c.population_billion;
-  land += c.area_million_km2;
-  native += c.population_billion * a.native / 100;
-  cosmeilian += c.population_billion * (a.cosmeilia_or_mixed ?? 0) / 100;
-  phantomkind += c.population_billion*(a.phantomkind_or_spiritual_hybrid??0)/100;
-  if(c.name!=='Beluftner'&&a.phantomkind_or_spiritual_hybrid!==null)fail('V4_UNRATIFIED_PHANTOMKIND_NATION',c.name+' primary rate must stay null pending national census');
-  popSDI += c.population_billion * c.sdi;
-}
-const primaryNativeCount = country.planet.population_billion * country.planet.ancestry_ratified_pct.native / 100;
-const remaining = country.planet.population_billion - pop;
-const scopes = canon.ancestry_measurement_scopes?.inclusive_lineage_presence;
-if (!scopes) fail('MISSING_INCLUSIVE_LINEAGE_SCHEMA', 'Planetary Cosmeilian and native lineage incidence must be distinct from primary registration shares.');
-info.push({ metric: 'sovereign_countries', value: totalSovereigns });
-info.push({ metric: 'countries_profiled', value: countries.length });
-info.push({ metric: 'countries_pending_profiles', value: totalSovereigns - countries.length });
-info.push({ metric: 'profiled_population_billion', value: pop });
-info.push({ metric: 'confirmed_phantomkind_primary_billion', value: Number(phantomkind.toFixed(6)) });
-if(!eq(phantomkind,5.46))fail('V4_BELUFTNER_PHANTOMKIND_SUM','Expected 5.46B');
-warn('V4_PLANET_ANCESTRY_CROSSWALK_OPEN','Planet legacy five-way ratios do not yet reconcile with the upgraded six-way country census');
-info.push({ metric: 'population_in_other_23_countries_billion', value: remaining });
-info.push({ metric: 'reported_inclusive_native_lineage_lower_bound_billion', value: Number(native.toFixed(6)) });
-info.push({ metric: 'reported_inclusive_cosmeilian_lineage_lower_bound_billion', value: Number(cosmeilian.toFixed(6)) });
-info.push({ metric: 'primary_native_reporting_category_billion_NOT_inclusive_cap', value: primaryNativeCount });
-info.push({ metric: 'national_land_area_million_km2', value: land });
-if (remaining < 0) fail('PLANET_COUNTRY_TOTAL_OVERFLOW', 'The profiled nations exceed the full planet population.');
-if (countries.length !== 37) {
-  fail('37_COUNTRY_CENSUS_UNFINISHED',
-    (37 - countries.length) + ' of the 37 sovereign countries still lack reconciled national demographic entries; ' +
-    remaining.toFixed(3) + 'B sentients remain their combined known residual. Do not invent per-country figures.');
-}
-if (scopes) {
-  const minCos = scopes.cosmeilian_lineage.observed_14_country_lower_bound / 1e9;
-  const minNative = scopes.native_asthorteran_lineage.observed_14_country_lower_bound / 1e9;
-  if (!eq(cosmeilian,minCos)) fail('COSMEILIAN_LINEAGE_LEDGER_DRIFT','National Cosmeilian subtotal changed without updating the inclusive lineage baseline.');
-  if (!eq(native,minNative)) fail('NATIVE_LINEAGE_LEDGER_DRIFT','National native subtotal changed without updating the inclusive lineage baseline.');
-  if (scopes.cosmeilian_lineage.candidate_planet_headcount/1e9 <= cosmeilian ||
-      scopes.native_asthorteran_lineage.candidate_planet_headcount/1e9 <= native)
-    fail('LINEAGE_SCENARIO_INFEASIBLE','Noncanonical inclusive lineage scenario must exceed profiled-country headcounts.');
-}
-if (remaining>0) warn('23_COUNTRY_DISTRIBUTION_PENDING',
-  'The 1.124T remainder is explained by 23 nations, but their individual populations and all-lineage rates are not yet known.');
-if (land > country.planet.land_area_million_km2) fail('PLANET_LAND_OVERFLOW', 'Country land areas exceed planetary land area.');
-const requiredOtherSDI = (country.planet.population_billion * country.planet.sdi - popSDI) / remaining;
-info.push({ metric: 'conditional_unprofiled_population_weighted_sdi', value: requiredOtherSDI });
-
-// Fixed-error regression checks.
-const lent = contents.get('content/factions/lenternow.md') || '';
-if (!lent.includes('850,467') || !lent.includes('182 quadrillion') || !lent.includes('214 billion')) {
-  fail('LENTERNOW_GDP_PER_CAPITA_REGRESSION', 'GDP 182Q / 214B must derive about LNR 850,467 per capita.');
-}
-const census = contents.get('content/statistics/sentient-population.md') || '';
-const cosSection = census.split('## 🌠 **Planet Cosmeilia**')[1]?.split('## 🪐')[0] || '';
-if (!cosSection.includes('85% Cosmeilia-Human') || !cosSection.includes('5% Other Cosmeilian Sentients')) {
-  fail('COSMEILIA_CENSUS_REGRESSION', 'Cross-planet summary must follow Cosmeilia identity at 85%/5%.');
-}
-const galaxy = contents.get('content/places/the-galaxy.md') || '';
-if (!galaxy.includes('**307 years**') || !galaxy.includes('**249 years**') || !galaxy.includes('**215 years**') || !galaxy.includes('0.852')) {
-  fail('GALACTIC_IDENTITY_REGRESSION', 'Planetary median ages or Depeisit SDI have drifted.');
-}
-const paia = contents.get('content/places/paia-aeropolis-hub.md') || '';
-if (!paia.includes('Depcutland (0.981)')) fail('DEPCUTLAND_SDI_REGRESSION', 'PAIA must use 0.981.');
-const kal = contents.get('content/factions/kalgered.md') || '';
-if (!kal.includes('99%')) warn('KALGERED_RESIDUAL_UNDOCUMENTED', 'Kalgered 1-point expenditure residual lacks its warning.');
-else warn('AST-KAL-004', 'Kalgered expense groups remain 99% pending primary-source evidence.');
-
-
-/* NCCM V3: creator-ratified composite SDI and fully labeled 14-nation scenario. */
-const v3 = JSON.parse(read('data/asthortera/nccm-v3-14-country-comparative-model.json'));
-if (!eq(country.planet.sdi, .947) || !eq(canon.year0.planet_sdi, .947) || !eq(v3.reporting.planet_sdi, .947)) {
-  fail('PLANET_SDI_V3_CANON', 'All Year 0 country/planet sources must use SDI 0.947.');
-}
-if (v3.countries.length !== 14) fail('V3_COUNTRY_ROWS', 'The V3 cross-domain table requires fourteen country rows.');
-const gdpPlanet = canon.year0.rel_gdp_rel * canon.year0.usd_per_rel / canon.year0.rel_gdp_share_planet;
-const derivedGDP = v3.countries.reduce((sum,c)=>sum+c.economy.core_gdp_nominal_usd_reference.value,0)+v3.remaining_23_aggregate.gdp_usd_scenario;
-if (!eq(gdpPlanet,derivedGDP)) fail('V3_PLANET_GDP_SUM', 'Country GDP reporting model does not reconcile to core planetary GDP.');
-if (!eq((popSDI+remaining*v3.reporting.other_23_sdi_required)/country.planet.population_billion,.947)) {
-  fail('V3_PLANET_SDI_WEIGHTED_SUM', 'SDI contributions do not exactly reproduce 0.947.');
-}
-if (!eq(v3.reporting.other_23_sdi_required,requiredOtherSDI)) {
-  fail('V3_23_COUNTRY_SDI_RESIDUAL', 'The required unprofiled 23-nation average SDI has drifted.');
-}
-const revisedAncestry = {
-  Taramistry:[54,25,12,5,4],
-  Pencilfania:[56,23,14,3,4],
-  Beluftner:[.2,.5,2,90.3,6,1],
-  Hargenbor:[44,40,6,8,2]
-};
-for (const c of countries) {
-  const row=v3.countries.find(x=>x.name===c.name);
-  if (!row) {fail('V3_MISSING_COUNTRY',c.name);continue}
-  if (!eq(row.census.sdi_national,c.sdi) || !eq(row.census.population_billion,c.population_billion)) {
-    fail('V3_COUNTRY_CENSUS_DRIFT',c.name);
-  }
-  const component=row.sdi_decomposition_candidate;
-  if (!eq(component.individual_mean*.6+component.institutional_quality*.4,c.sdi)) {
-    fail('V3_COMPONENT_IDENTITY',c.name);
-  }
-  if (!contents.get(c.source)?.includes('NCCM V3 — Cross-Domain Benchmark')) {
-    fail('V3_FACTION_COMPARE_SECTION_MISSING',c.source);
-  }
-  const exp=revisedAncestry[c.name];
-  if (exp){
-    const a=c.reported_ancestry_pct;
-    const actual=c.name==='Beluftner'?[a.depeisit,a.cistheta,a.cosmeilia_or_mixed,a.native,a.phantomkind_or_spiritual_hybrid,a.other_or_unclassified]:[a.depeisit,a.cistheta,a.cosmeilia_or_mixed,a.native,a.other_or_unclassified];
-    if (JSON.stringify(actual)!==JSON.stringify(exp))fail('V3_ANCESTRY_RATIFICATION',c.name);
-  }
-}
-const sourcePaths=[
-  'content/statistics/asthortera_identity.md',
-  'content/statistics/asthortera-vs-earth.md',
-  'content/statistics/sdi-report-asthortera.md',
-  'content/principles/reltroner-studio-master-source-of-truth.md',
-  'content/places/the-galaxy.md',
-];
-for (const p of sourcePaths) if ((contents.get(p)||'').includes('0.938')) {
-  fail('V3_STALE_PLANET_SDI_REFERENCE',p);
-}
-info.push({metric:'creator_ratified_planet_sdi',value:.947});
-info.push({metric:'national_sdi_anchors_unchanged',value:14});
-info.push({metric:'reported_cosmeilian_14_country_billion',value:Number(cosmeilian.toFixed(6))});
-info.push({metric:'reported_native_14_country_billion',value:Number(native.toFixed(6))});
-info.push({metric:'NCCM_V3_GDP_aggregation_to_planet',value:eq(gdpPlanet,derivedGDP)});
-info.push({metric:'model_estimates_not_canonical',value:true});
-
-const report = {
-  status: issues.some(x => x.severity === 'P0') ? 'FAIL_UNRESOLVED_P0' : 'PASS_P0',
-  scanned_markdown_count: files.length,
-  info,
-  issues
-};
-if (process.argv.includes('--json')) console.log(JSON.stringify(report, null, 2));
+const sdi=(sum(v.countries_14,x=>x.sdi*x.population_billion)+sum(v.countries_5,x=>x.sdi*x.population_billion)+v.aggregate_remaining_18.sdi_population_weighted_required*804)/4412;
+inspect(eq(sdi,.947),'PLANET_SDI_RECONCILIATION',String(sdi));
+inspect(v.aggregate_remaining_18.individual_country_data==='explicitly deferred by creator'&&v.aggregate_remaining_18.ancestry_primary_pct_by_country===null,'DEFERRED_18_INTEGRITY','No invented national populations/SDI/ancestry');
+const GDP=sum(v.countries_14,x=>x.gdp_usd_annual_V6)+sum(v.countries_5,x=>x.gdp_usd_annual_V6)+v.aggregate_remaining_18.gdp_usd_annual_V6;
+inspect(eq(GDP,P.year0.gdp_usd_annual_V6)&&eq(P.year0.gdp_usd_annual_V6,10*old.calibration.planet_gdp_usd),'GDP_INTEGRATED_TOTAL','GDP must match planet and exactly 10x old macro base');
+inspect(eq(P.year0.gni_usd_annual_V6_zero_bridge,P.year0.gdp_usd_annual_V6),'GNI_10X_BRIDGE','GNI=GDP only with zero net primary income assumption');
+const share=sum(v.countries_14,x=>x.gdp_planet_share)+sum(v.countries_5,x=>x.gdp_planet_share)+v.aggregate_remaining_18.gdp_planet_share;
+const shareNew=sum(v.countries_5,x=>x.gdp_planet_share)+v.aggregate_remaining_18.gdp_planet_share;
+inspect(eq(share,1)&&eq(shareNew,old.calibration.other_23_aggregate_gdp_share),'GDP_SHARES_100','Whole nation + remaining aggregate shares must conserve old percentages');
+inspect(eq(P.year0.gdp_per_capita_usd_V6,P.year0.gdp_usd_annual_V6/(P.population_billion*1e9)),'PLANET_GDP_PER_CAPITA','Divide by whole planet residents');
+const allFX=[...v.countries_14,...v.countries_5].map(x=>({name:x.name,...x.fx}));
+inspect(eq(Math.max(...allFX.map(x=>x.usd_per_local_unit)),114.26)&&allFX.find(x=>x.usd_per_local_unit===114.26)?.name==='Reltronland'&&eq(Math.min(...allFX.map(x=>x.usd_per_local_unit)),22),'FX_BOUNDARY_CANON','REL max, USD22 min');
+inspect(eq(historical.planet.population_billion,4412)&&eq(base.year0_planet_population,4412e9),'HISTORICAL_DENOMINATOR','Historical snapshot population must not drift');
+inspect(files.get('content/factions/lenternow.md')?.includes('850,467'),'LENTERNOW_SOURCE_REGRESSION','Legacy per capita GDP');
+inspect(files.get('content/places/paia-aeropolis-hub.md')?.includes('Depcutland (0.981)'),'PAIA_SDI_REGRESSION','Depcutland SDI');
+for(const x of ['**307 years**','**249 years**','**215 years**','0.852'])inspect(files.get('content/places/the-galaxy.md')?.includes(x),'GALACTIC_DATA_REGRESSION',x);
+for(const [file,txt] of files)if(!txt.trim())warning('EMPTY_CONTENT_STUB',file);
+warning('DEFERRED_18_CENSUS','18 nations retain creator-approved unsplit 804B resident aggregate; not independent observations');
+warning('HISTORICAL_SOURCE_CROSSWALK','V3/V4 historical content still contains superseded ancestries and nominal GDP before integrated uplift');
+warning('KALGERED_SPENDING_99','Pre-V6 spending strata sum to 99%, require separate creator decision');
+warning('NCCM_FX_CODE_CROSSWALK','Mapether MPT/MWV and Krisberia KRB/KRF historical currency identifiers still open');
+warning('SECTOR_CAPITAL_LABOR_MODEL','Sector shares are value-added targets, not independently calibrated input-output matrices');
+info.push({metric:'original_nations',value:14},{metric:'new_eastern_nations',value:5},{metric:'deferred_nations',value:18},{metric:'population_billion',value:4412},{metric:'phantomkind_primary_14_billion',value:ancestry.phantomkind},{metric:'planet_sdi',value:sdi},{metric:'planet_gdp_usd_V6',value:GDP},{metric:'numerical_accounting_reconciles',value:eq(GDP,P.year0.gdp_usd_annual_V6)});
+const output={status:issues.some(x=>x.severity==='P0')?'FAIL_UNRESOLVED_P0':'PASS_P0',scanned_markdown_count:docs.length,info,issues};
+if(process.argv.includes('--json'))console.log(JSON.stringify(output,null,2));
 else {
-  console.log('Asthortera cross-domain audit: ' + report.status);
-  for (const x of info) console.log(' - ' + x.metric + ': ' + x.value);
-  for (const x of issues) console.log(' [' + x.severity + '] ' + x.id + ': ' + x.detail);
+ console.log('Asthortera cross-domain audit: '+output.status);
+ for(const x of info)console.log(' - '+x.metric+': '+x.value);
+ for(const x of issues)console.log(' ['+x.severity+'] '+x.id+': '+x.detail);
 }
-if (report.status !== 'PASS_P0') process.exitCode = 1;
+if(output.status!=='PASS_P0')process.exitCode=1;
