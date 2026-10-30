@@ -1441,6 +1441,7 @@ Earth comparisons are external reader-facing scale translations, **not** part of
 | Sentient population | **~4.412 trillion** |
 | Urbanization | **~89.5%** |
 | Planetary average SDI | **0.947 / 1.000** |
+| SDI measurement | **Average individual capability + institutional quality** | Fixed composite definition; specific component weights and unmeasured national subindices remain model candidates |
 | Median age / life expectancy | **~252 years / ~475 years** |
 | Surface gravity | **~11 m/s²** |
 | Natural moons | **12** |
