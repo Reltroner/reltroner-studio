@@ -11,7 +11,7 @@ const P=model.planet;
 const eq=(a,b,t=1e-9)=>assert.ok(Number.isFinite(a)&&Math.abs(a-b)<=t*Math.max(1,Math.abs(b)),String(a)+' != '+String(b));
 const sum=(xs,fn=x=>x)=>xs.reduce((a,c)=>a+fn(c),0);
 test('V6 Year 0 planetary baseline and historic 1010 BAC creator ratifications',()=>{
- assert.equal(model.schema_version,'NCCM-V6.3-founder-chronology-active');
+ assert.equal(model.schema_version,'NCCM-V6.4-stelpadland-debt-and-industry-active');
  assert.equal(P.population_billion,4412);
  assert.equal(P.sovereign_states,37);
  eq(P.sdi,.947);
@@ -150,4 +150,22 @@ test('Creator-ratified sovereign foundations satisfy exact BAC dates and relativ
  assert.equal(history.related_events.cistheta_emissaries_bac,1256);
  assert.deepEqual(history.related_events.scenrepolia_taramistry_patent_dispute_bac,[1153,1138]);
  assert.deepEqual(history.related_events.calespia_taramistry_botanical_dispute_bac,[1149,1137]);
+});
+
+test('Active Stelpadland 52% public debt and finished-furniture industry supersede V3 42% scenario',()=>{
+ const country=model.countries_14.find(x=>x.name==='Stelpadland');
+ const legacy=archived.countries.find(x=>x.name==='Stelpadland');
+ assert.ok(country&&legacy);
+ eq(country.government_debt_to_gdp,.52);
+ assert.equal(country.debt_ratio_status,'creator_ratified_2026-10-31_52pct_GDP');
+ eq(legacy.economy.public_debt_to_gdp.value,.42);
+ assert.match(country.industry_canon.primary_industry,/finished furniture/i);
+ assert.equal(country.industry_canon.quantitative_furniture_output_share_pct,null);
+ assert.match(country.specialization,/finished furniture/i);
+ const activeText=fs.readFileSync(path.join(root,'content/factions/stelpadland.md'),'utf8');
+ const report=fs.readFileSync(path.join(root,'content/statistics/asthortera-nccm-v6-active-cross-domain.md'),'utf8');
+ assert.match(activeText,/\*\*52% of GDP\*\*/);
+ assert.match(activeText,/42\.0%.*superseded/i);
+ assert.match(report,/Stelpadland \| 2\.8757 \| 20\.395 \| 0\.240 \| \*\*52\.00% \(canon\)\*\*/);
+ assert.doesNotMatch(report,/Stelpadland \| 2\.8757 \| 20\.395 \| 0\.240 \| 42\.00%/);
 });
