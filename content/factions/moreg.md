@@ -1840,6 +1840,10 @@ Let Moreg’s asphalt veins roar across Asthortera. 🛣️🏎️
 
 ---
 
+## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
+
+**Cross-country ancestry update:** Phantomkind / Spiritual Hybrid is recognized as a distinct, globally distributed category of sentient persons. The **primary-census percentage for Moreg is not yet separately measured** (unknown, **not 0%**). The historical five-way ancestry shares must not be enlarged beyond 100% by inventing an additional number. National population and SDI are unchanged. See [NCCM V4 six-category comparison](../statistics/asthortera-phantomkind-demography-v4.md).
+
 ## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
 
 **Unchanged canonical nation anchors:** **205 billion** residents, **79 million km²**, and **SDI 0.931**. Asthortera's **4.412 trillion** unique residents live in **37 countries**, and the **planet SDI is now 0.947**. Composite SDI integrates individual capabilities and institutional quality.
