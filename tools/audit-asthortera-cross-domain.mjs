@@ -26,14 +26,14 @@ const files=new Map(docs.map(x=>[x,read(x)]));
 info.push({metric:'markdown_documents_scanned',value:docs.length});
 info.push({metric:'active_model',value:v.schema_version});
 inspect(docs.length>=433,'MARKDOWN_TREE_LOST','Fewer than 433 source documents');
-inspect(v.schema_version.startsWith('NCCM-V6'),'V6_ACTIVE_MODEL_REQUIRED','Missing active six-way statistical model');
+inspect(v.schema_version==='NCCM-V6.2-migration-conserved-active','V6_ACTIVE_MODEL_REQUIRED','Migration-conserved V6.2 schema is the active six-way statistical model');
 inspect(eq(P.population_billion,4412)&&P.sovereign_states===37&&eq(P.sdi,.947),'PLANET_ANCHOR','4,412B, 37 states and SDI .947 must remain');
 inspect(eq(P.year0.tfr,1.63)&&eq(P.year0.median_age_years,252)&&eq(P.year0.urbanization_rate,.895)&&eq(P.year0.annual_inflation,.0033),'YEAR0_ANCHORS','Year 0 vital and economic rates');
 inspect(eq(P.historical_1010_BAC.median_age_years,30)&&eq(P.historical_1010_BAC.urbanization_rate,.68)&&eq(P.historical_1010_BAC.annual_inflation,.043),'BAC1010_ANCHORS','Historical demographic and inflation targets');
 inspect(v.provenance.gdp_uplift_factor===10&&v.provenance.unchanged_national_gdp_share,'INTEGRATED_UPLIFT_B','The creator selected Model B with unchanged GDP percentage shares');
 inspect(v.provenance.legacy_ratios_58_22_10_7_3.startsWith('superseded'),'LEGACY_ANCESTRY_RETIRED','Five-way planet ancestry must not be active');
 inspect(v.countries_14.length===14&&v.countries_5.length===5&&v.aggregate_remaining_18.state_count===18,'NATIONAL_COUNTS','14+5+18 must equal 37');
-inspect(eq(sum(v.countries_14,x=>x.population_billion),3288)&&eq(sum(v.countries_5,x=>x.population_billion),320)&&eq(v.aggregate_remaining_18.population_billion,804),'POPULATION_PARTITION','3,288B + 320B + 804B');
+inspect(eq(sum(v.countries_14,x=>x.population_billion),3213)&&eq(sum(v.countries_5,x=>x.population_billion),395)&&eq(v.aggregate_remaining_18.population_billion,804),'POPULATION_PARTITION','3,213B + 395B + 804B');
 inspect(eq(sum([...v.countries_14,...v.countries_5,v.aggregate_remaining_18],x=>x.population_billion),P.population_billion),'PLANET_POPULATION_SUM','Every person counted once');
 const oldByName=new Map(old.countries.map(x=>[x.name,x]));
 const ancestryKeys=['depeisit','cistheta','cosmeilian','native','phantomkind','other'];
@@ -45,7 +45,8 @@ for(const c of v.countries_14){
  inspect(Boolean(historic),'SOURCE_NATION_MISSING',c.name);
  inspect(files.has(c.source),'PROFILE_FILE_MISSING',c.source);
  if(!historic)continue;
- inspect(eq(c.population_billion,historic.census.population_billion)&&eq(c.sdi,historic.census.sdi_national)&&eq(c.land_area_million_km2,historic.census.land_area_million_km2),'NATIONAL_CENSUS_ANCHORS',c.name);
+ const leaving=v.migration_year0.routes.filter(x=>x.origin===c.name).reduce((sum,x)=>sum+x.population_billion,0);
+ inspect(eq(c.population_billion,historic.census.population_billion-leaving)&&eq(c.sdi,historic.census.sdi_national)&&eq(c.land_area_million_km2,historic.census.land_area_million_km2),'NATIONAL_CENSUS_ANCHORS',c.name);
  inspect(eq(c.gdp_planet_share,historic.economy.planetary_gdp_share.value),'GDP_SHARE_UNCHANGED',c.name);
  inspect(eq(c.gdp_usd_annual_V6,10*historic.economy.core_gdp_nominal_usd_reference.value),'GDP_UPLIFT_10X',c.name);
  inspect(eq(c.sdi_individual_component*.6+c.sdi_institution_component*.4,c.sdi),'NATIONAL_SDI_COMPONENTS',c.name);
@@ -60,13 +61,33 @@ const known14Population=sum(v.countries_14,x=>x.population_billion);
 inspect(eq(sum(Object.values(ancestry)),known14Population),'SIX_WAY_POPULATION_CONSERVATION','Six primary classes count unique people');
 for(const k of ancestryKeys){
  inspect(eq(ancestry[k],C.original_14_ancestry_headcount_billion[k]),'ANCESTRY_14_LEDGER',k);
- inspect(eq(100*ancestry[k]/known14Population,P.ancestry_primary_pct_representative_14_country_weighted[k]),'ANCESTRY_PLANET_REPRESENTATIVE',k);
- inspect(eq(P.population_billion*ancestry[k]/known14Population,P.ancestry_primary_headcount_billion_representative[k]),'ANCESTRY_PLANET_HEADCOUNT',k);
+ const original=C.pre_migration_reference.original_14_ancestry_headcount_billion[k];
+ const outgoing=v.migration_year0.ancestry_six_category_moved_billion[k];
+ inspect(eq(ancestry[k]+outgoing,original),'PLANET_ANCESTRY_CONSERVATION',k);
+ inspect(eq(100*original/C.pre_migration_reference.planetary_proxy_ancestry_denominator_billion,P.ancestry_primary_pct_representative_14_country_weighted[k]),'ANCESTRY_PLANET_REPRESENTATIVE',k);
+ inspect(eq(P.population_billion*original/C.pre_migration_reference.planetary_proxy_ancestry_denominator_billion,P.ancestry_primary_headcount_billion_representative[k]),'ANCESTRY_PLANET_HEADCOUNT',k);
 }
-inspect(eq(ancestry.phantomkind,73.04)&&eq(ancestry.cosmeilian,533)&&eq(ancestry.native,373.263),'SIX_WAY_CONFIRMED_TOTALS','14-country V6 Phantomkind/Cosmeilian/Native');
+inspect(eq(ancestry.phantomkind,71.89)&&eq(ancestry.cosmeilian,495.4)&&eq(ancestry.native,369.163),'SIX_WAY_REBALANCED_TOTALS','14-country after 75B transfers');
 inspect(eq(sum(Object.values(P.ancestry_primary_pct_representative_14_country_weighted)),100),'PLANET_ANCESTRY_100','Planetary proxy must remain six exclusive classes');
+const migration=v.migration_year0;
+inspect(migration.total_departures_billion===75&&migration.total_arrivals_billion===75&&migration.total_planet_population_change_billion===0,'MIGRATION_BALANCE','75B internal transfers must not create planet population');
+const routeKey=(o,d)=>o+' -> '+d;
+const requiredRoutes=new Map([['Astrostelia -> Scenrepolia',10],['Astrostelia -> Calespia',10],['Astrostelia -> Ethaptoria',15],['Lenternow -> Scenrepolia',10],['Lenternow -> Krisberia',10],['Lenternow -> Ethaptoria',10],['Lenternow -> Calespia',10]]);
+inspect(migration.routes.length===7,'MIGRATION_ROUTE_COUNT','Seven source-target routes expected');
+for(const route of migration.routes){
+ const key=routeKey(route.origin,route.destination);
+ inspect(requiredRoutes.has(key)&&eq(route.population_billion,requiredRoutes.get(key)),'MIGRATION_ROUTE_ALLOCATION',key);
+ const source=v.countries_14.find(x=>x.name===route.origin);
+ inspect(Boolean(source),'MIGRATION_SOURCE',key);
+ if(source)for(const ancestor of ancestryKeys)inspect(eq(route.ancestry_primary_headcount_billion[ancestor],route.population_billion*source.ancestry_primary_pct[ancestor]/100),'MIGRATION_COHORT_ANCESTRY',key+':'+ancestor);
+}
+inspect(eq(sum(migration.routes,x=>x.population_billion),75),'MIGRATION_FLOW_SUM','Migrants cannot disappear or multiply');
+inspect(eq(C.pre_migration_reference.original_14_population_billion,3288)&&eq(C.pre_migration_reference.new_five_population_billion,320),'ANCESTRY_PRETRANSFER_REFERENCE','Previous population weighted planet denominator must be frozen');
 const required=new Set(['Scenrepolia','Krisberia','Mapether','Ethaptoria','Calespia']);
 for(const c of v.countries_5){
+ const historicPop={Scenrepolia:68,Krisberia:48,Mapether:74,Ethaptoria:59,Calespia:71}[c.name];
+ const incoming=sum(migration.routes.filter(x=>x.destination===c.name),x=>x.population_billion);
+ inspect(eq(c.population_billion,historicPop+incoming),'RECEIVING_COUNTRY_POPULATION',c.name);
  inspect(required.has(c.name),'NEW_COUNTRY_ROSTER',c.name);
  inspect(!names.has(c.name),'DUPLICATED_NATIONAL_ID',c.name);names.add(c.name);
  inspect(files.has(c.source),'PROFILE_FILE_MISSING',c.source);
@@ -96,11 +117,12 @@ inspect(files.get('content/places/paia-aeropolis-hub.md')?.includes('Depcutland 
 for(const x of ['**307 years**','**249 years**','**215 years**','0.852'])inspect(files.get('content/places/the-galaxy.md')?.includes(x),'GALACTIC_DATA_REGRESSION',x);
 for(const [file,txt] of files)if(!txt.trim())warning('EMPTY_CONTENT_STUB',file);
 warning('DEFERRED_18_CENSUS','18 nations retain creator-approved unsplit 804B resident aggregate; not independent observations');
+warning('MIGRATION_RESIDUAL_SDI_CALIBRATION','The residual 18-nation SDI is recalibrated to maintain 0.947 planetary SDI while all 19 individual national SDIs remain fixed');
 warning('HISTORICAL_SOURCE_CROSSWALK','V3/V4 historical content still contains superseded ancestries and nominal GDP before integrated uplift');
 warning('KALGERED_SPENDING_99','Pre-V6 spending strata sum to 99%, require separate creator decision');
 warning('NCCM_FX_CODE_CROSSWALK','Mapether MPT/MWV and Krisberia KRB/KRF historical currency identifiers still open');
 warning('SECTOR_CAPITAL_LABOR_MODEL','Sector shares are value-added targets, not independently calibrated input-output matrices');
-info.push({metric:'original_nations',value:14},{metric:'new_eastern_nations',value:5},{metric:'deferred_nations',value:18},{metric:'population_billion',value:4412},{metric:'phantomkind_primary_14_billion',value:ancestry.phantomkind},{metric:'planet_sdi',value:sdi},{metric:'planet_gdp_usd_V6',value:GDP},{metric:'numerical_accounting_reconciles',value:eq(GDP,P.year0.gdp_usd_annual_V6)});
+info.push({metric:'original_nations',value:14},{metric:'new_eastern_nations',value:5},{metric:'deferred_nations',value:18},{metric:'population_original_14_billion',value:3213},{metric:'population_eastern_5_billion',value:395},{metric:'migration_billion',value:75},{metric:'population_billion',value:4412},{metric:'phantomkind_primary_14_billion',value:ancestry.phantomkind},{metric:'planet_sdi',value:sdi},{metric:'planet_gdp_usd_V6',value:GDP},{metric:'numerical_accounting_reconciles',value:eq(GDP,P.year0.gdp_usd_annual_V6)});
 const output={status:issues.some(x=>x.severity==='P0')?'FAIL_UNRESOLVED_P0':'PASS_P0',scanned_markdown_count:docs.length,info,issues};
 if(process.argv.includes('--json'))console.log(JSON.stringify(output,null,2));
 else {
