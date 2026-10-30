@@ -175,7 +175,6 @@ Food safety regulations must address different physiologies without assuming all
 
 ---
 
-## 7. Economics and sectoral production
 
 ## 7. NCCM V6 national quantitative baseline
 
