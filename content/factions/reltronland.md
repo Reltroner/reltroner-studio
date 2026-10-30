@@ -3258,3 +3258,31 @@ Reltronland is not a utopia. It is a proving ground. Its strength lies not in do
 ---
 
 **© 2026 Reltroner Studio – Red Pill Doctrine Division**
+
+---
+
+## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
+
+**Canonical anchors unchanged:** **855 billion** residents, **104 million km²** land, and national **SDI 0.984**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
+
+**Scenario-calibrated cross-domain estimates — NOT authoritative national census results:**
+
+| Model metric | NCCM V3 comparative value | Source status |
+|---|---:|---|
+| GDP, AUC reporting equivalent/year | **1.73805856e+21 AUC** | Derived from fixed national REL GDP and nominal FX |
+| GDP/head, nominal USD reporting | **5.549590e+9 USD/year** | Derived from established GDP/population |
+| Planet GDP contribution | **42.0000%** | Fixed canon |
+| Individual capability SDI, I | **0.9780** | Synthetic 60/40 decomposition, **not observed** |
+| Institutional quality SDI, Q | **0.9930** | Synthetic 60/40 decomposition, **not observed** |
+| Income Gini | **0.390** | Existing national profile |
+| Government debt / GDP | **85.0%** | Existing national profile |
+| Year 0 real GDP growth | **7.50%** | Candidate one-year rate, not historical CAGR |
+| Year 0 CPI inflation | **0.300%** | Existing national profile |
+| Urban population | **97.5%** | Candidate; not percentage of land area |
+| Period life expectancy | **498 years** | Existing national profile |
+| Median age | **225 years** | Existing national profile |
+| Total fertility rate | **1.13** | Candidate, age/lineage cohort modeling pending |
+| Education access index | **0.992** | Synthetic learning-opportunity proxy, not surveyed |
+
+**Scope and editorial precedence:** These filled-in values support **comparison and decision-making**, not a claim that every country's local nominal GDP, GNI, real exchange rate, cohort life table or SDI microdata has been historically measured. Existing local-currency GDP/GNI, national sovereignty, aesthetic identity and the official SDI headline take precedence over any candidate field. Cross-domain reporting uses the single [14-country matrix](../statistics/asthortera-14-country-cross-domain-v3.md), the [machine-readable V3 model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and the [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md). Never silently promote a modeled candidate to published canon.
+
