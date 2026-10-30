@@ -37,7 +37,7 @@ These indicators are not fixed. They evolve with each generation's intellectual,
 
 # 🌍 2. Global SDI Baseline
 
-- **Average SDI across Asthortera:** `0.938 / 1.000`
+- **Average SDI across Asthortera:** `0.947 / 1.000`
 - The average is considered extremely high on the galactic scale.
 - The high baseline reflects widespread cultural emphasis on awareness, resilience, meritocracy, education, and conscious development.
 
