@@ -91,16 +91,16 @@ The Depeisitian-descended majority contributes deep literary, symbolic, and arch
 
 ## 1.3 Historical Foundation and Eastern Continental Continuity
 
-**Founded as a sovereign state in 2694 BAC**, Pencilfania emerged from continued exploration after Scot Stetson established Stelpadland in 2882 BAC. Its early civic institutions adapted eastern frontier practices toward visual communication, public imagination, and participatory creation. The current **Art President**, **Creative Democracy**, and **Artistic Assembly** represent later institutional development; their modern form should not be projected unchanged into the founding year.
+**Founded as a sovereign state in 2732 BAC**, Pencilfania emerged from continued exploration after Scot Stetson established Stelpadland in 2882 BAC. Its early civic institutions adapted eastern frontier practices toward visual communication, public imagination, and participatory creation. The current **Art President**, **Creative Democracy**, and **Artistic Assembly** represent later institutional development; their modern form should not be projected unchanged into the founding year.
 
 
 | Foundation (BAC) | State | Foundation mechanism |
 |---|---|---|
 | **2882** | Stelpadland | Scot Stetson's sovereign consolidation of a pre-existing Kalgeredian-influenced frontier |
-| **2694** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
+| **2732** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
 | **2628** | Calespia | Post-Stetson agricultural settlement, later culinary specialization |
 | **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
-| **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
+| **2320** | Krisberia | Aurastelian-descended founders; 2320 BAC established without territorial prerequisites |
 | **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
 | **2072** | Lenternow | Illumination-resource development and anti-resource-curse industrialization |
 | **1984** | Hargenbor | Cosmeilian maritime merchants, Port of Astro Bay and Lenternow trade |
