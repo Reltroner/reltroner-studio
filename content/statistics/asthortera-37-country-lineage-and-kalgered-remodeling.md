@@ -30,10 +30,10 @@ tags:
 |---|---:|---|
 | People residing in the 14 profiled nations | **3,288 billion** | 74.524% of the fixed planet |
 | People of the other 23 nations | **1,124 billion** | 25.476%; not yet allocated by nation |
-| Cosmeilian all-manifestation lineage (reported minimum) | **478.160 billion** | Not a final global count |
-| Native Asthorteran lineage (reported minimum) | **377.423 billion** | Not a final global count |
+| Cosmeilian all-manifestation lineage (reported minimum) | **539.750 billion** | Not a final global count |
+| Native Asthorteran lineage (reported minimum) | **378.753 billion** | Not a final global count |
 
-**Country source labels are not yet all mapped into one standardized lineage ontology.** These lower bounds assume the 14 country population snapshots are contemporaneous, non-overlapping residents and the source ancestry terms are harmonized. Under those assumptions the final planet-wide Cosmeilian count must be **significantly above 478.160 billion** and the native lineage count **significantly above 377.423 billion**, as the creator explicitly requires.
+**Country source labels are not yet all mapped into one standardized lineage ontology.** These lower bounds assume the 14 country population snapshots are contemporaneous, non-overlapping residents and the source ancestry terms are harmonized. Under those assumptions the final planet-wide Cosmeilian count must be **significantly above 539.750 billion** and the native lineage count **significantly above 378.753 billion**, as the creator explicitly requires.
 
 ### Non-canonical sensitivity scenario: 15% Cosmeilian, 12% native
 
@@ -41,10 +41,10 @@ For modeling feasibility only, use **15% Cosmeilian all-manifestation incidence 
 
 | Lineage | Existing 14-state headcount | Scenario planet headcount | Required in other 23 countries |
 |---|---:|---:|---:|
-| Cosmeilian all manifestations | 478.160 B | **661.800 B** | **183.640 B** |
-| Native Asthorteran | 377.423 B | **529.440 B** | **152.017 B** |
+| Cosmeilian all manifestations | 539.750 B | **661.800 B** | **122.050 B** |
+| Native Asthorteran | 378.753 B | **529.440 B** | **150.687 B** |
 
-Thus, among the other 1.124 trillion, required Cosmeilian inclusive incidence is **~16.34%**, and native incidence is **~13.52%**. Individuals with multiple lineages are counted in both incidence totals, **never twice in planetary population**.
+Thus, among the other 1.124 trillion, required Cosmeilian inclusive incidence is **~10.86%**, and native incidence is **~13.41%**. Individuals with multiple lineages are counted in both incidence totals, **never twice in planetary population**.
 
 **15% and 12% are candidates only, NOT ratified national or planetary headline figures.** The planet has exactly **4.412 trillion unique residents**. The 37-nation full census and ancestry taxonomy must be reconciled before any global-inclusive count is described as a verified historical observation. Other ancestral category shares must not be reverse-engineered from the inclusive figures by subtracting them from the old primary partition.
 
@@ -87,7 +87,7 @@ These shares and boundaries remain [candidate data](../../data/asthortera/kalger
 - **Civic agency and economic resilience** — due process, material access, inclusion, transition/retraining.
 - **Ecological and infrastructural continuity** — low-emissions energy, forests, disaster resilience, preserved environment.
 
-Choose a common SDI aggregation method shared across **all 37 states**, then calibrate the documented subindices to the fixed **0.979** anchor. The global **0.938** planetary SDI is not necessarily a plain average of national SDIs; do not assume an arithmetic aggregator until approved.
+Choose a common SDI aggregation method shared across **all 37 states**, then calibrate the documented subindices to the fixed **0.979** anchor. The global **0.947** planetary SDI is not necessarily a plain average of national SDIs; do not assume an arithmetic aggregator until approved.
 
 ## 4. Cross-domain acceptance rules
 
