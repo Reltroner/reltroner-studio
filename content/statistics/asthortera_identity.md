@@ -610,6 +610,9 @@ This creates civilization at enormous scale without requiring the erasure of nat
 
 # 16. 🧠 Sentient Development Index
 
+**Canon correction (2026-10-30):** planetary SDI Year 0 is **0.947** for **4.412 trillion sentients** in **37 sovereign countries**. SDI is a combination of **population-average individual capability** and **national enabling-institution quality**, not GDP, ancestry, or one state's ideological aesthetic. All 14 documented national SDIs remain unchanged. Their population-weighted mean is **0.958638**, requiring **0.912955516** across the 1.124 trillion residents in the remaining 23 states if the transparent population-weighted national-composite operator is used. See [SDI V3](./asthortera-sdi-methodology-v3.md); component-weight percentages remain *proposals*.
+
+
 Asthortera's planetary average SDI is:
 
 > **0.947 / 1.000**
