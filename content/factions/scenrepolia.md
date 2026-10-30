@@ -24,6 +24,9 @@ tags:
   - Interoperability
 ---
 
+> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **88 billion** resident sentients (previously **68 billion**); 10B from Astrostelia; 10B from Lenternow. National SDI remains **0.956**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 16.317 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+
+
 # Scenrepolia — The Electromagnetic Civilization
 
 > **National identity:** The Electromagnetic Civilization of Asthortera.
@@ -271,7 +274,7 @@ The figures in this section are the previously proposed **Eastern Five-Nation NC
 
 | Indicator | NCCM V6 working figure | Status |
 |---|---:|---|
-| Year 0 sentient population | **68 billion** | Five-nation scenario |
+| Year 0 sentient population | **88 billion** | NCCM V6.2 creator-approved migration |
 | National SDI | **0.956** | Five-nation scenario |
 | Individual capability component | **0.9540** | Model component |
 | Institutional quality component | **0.9590** | Model component |
@@ -279,8 +282,8 @@ The figures in this section are the previously proposed **Eastern Five-Nation NC
 | National specialization multiplier | **1.23** | Model coefficient |
 | Share of planet GDP | **approximately 1.271%** | GDP-allocation scenario |
 | GDP after integrated 10× uplift | **approximately USD 1.436 × 10²¹/year** | Modeled nominal GDP |
-| GDP per capita | **approximately USD 21.116 billion/year** | Derived from modeled GDP |
-| GNI per capita | **approximately USD 21.116 billion/year** | Scenario assuming net foreign primary income of zero |
+| GDP per capita | **approximately USD 16.317 billion/year** | Derived from modeled GDP |
+| GNI per capita | **approximately USD 16.317 billion/year** | Scenario assuming net foreign primary income of zero |
 | Currency | **SCI** | Provisional Eastern five-nation model code |
 | Illustrative exchange rate | **1 SCI = USD 94.30** | FX scenario, not a market observation |
 | Indicative GNI per capita in SCI | **approximately SCI 223.92 million/year** | Derived under scenario FX and zero primary-income bridge |
@@ -481,7 +484,7 @@ This separation protects Scenrepolia from becoming a one-note metaphor in which 
 | Sovereignty through independent local innovation after Cisthetan contact | **Existing chronology anchor** |
 | 1153–1138 BAC Scenrepolia–Taramistry patent dispute | **Existing chronology anchor** |
 | Scenrepolia 57% of modern territory at 1125–1121 BAC | **Existing historical reference** |
-| Population 68B, SDI 0.956, GDP share ~1.271% | **Five-country NCCM V6 scenario; nation-specific confirmation still open** |
+| Population 88B, SDI 0.956, GDP share ~1.271% | **Five-country NCCM V6 scenario; nation-specific confirmation still open** |
 | Electromagnetic sector reinterpretation 38/23/17/15/7 | **Development proposal preserving previous sector weights** |
 | SCI currency and 94.30 USD/SCI | **FX scenario; no verified exchange-rate history** |
 | Magnetopunk / Fieldpunk aesthetic and color system | **Development proposal** |
