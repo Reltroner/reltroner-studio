@@ -103,7 +103,7 @@ The Depeisitian-descended majority contributes deep literary, symbolic, and arch
 | **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
 | **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
 | **1234** | Scenrepolia | Cistheta-influenced **local** interface and infrastructural discoveries |
-| **1186** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
+| **1210** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
 
 
 At the **1125–1121 BAC** foundation window of Reltronland and Depcutland, the eight countries' territorial extents relative to their modern borders were: **Stelpadland 100%, Pencilfania 87%, Calespia 76%, Ethaptoria 67%, Scenrepolia 57%, Taramistry 45%, Mapether 39%, and Krisberia 28%**. These figures measure national territory against later boundaries, **not** the population share, percentage of built or inhabited land, biodiversity loss, or economic output.
