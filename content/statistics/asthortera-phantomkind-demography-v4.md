@@ -12,6 +12,8 @@ tags: ["Asthortera", "Phantomkind", "Spiritual Hybrid", "NCCM"]
 
 # NCCM V4 — Phantomkind / Spiritual Hybrid Census
 
+> **ARCHIVED V4 CENSUS WORKING PAPER (2026-10-31 status).** Its 13 unmeasured Phantomkind country percentages were subsequently assigned in the **creator-approved NCCM V6 six-way modeling baseline**. Use the current [NCCM V6.4 source of truth](./asthortera-nccm-v6-active-cross-domain.md) for six-category ancestry, 75B migrant preservation, and 14+5+18 population accounting. The V4 tables below remain a historical snapshot.
+
 ## Creator-ratified population ontology
 
 **Phantomkind / Spiritual Hybrid** is a distinct primary sentient category and a **transnational population**, not a subdivision of Cosmeilian and not exclusive to Beluftner. The category includes diverse spirit-like and hybrid persons. Each individual is counted **once** among Asthortera's 4.412 trillion unique residents. One person may possess Cosmeilian, native or other inclusive ancestry flags **in addition** to a Phantomkind primary registration; manifestation forms are not extra citizens. This is a mutually exclusive primary register plus a separate nonexclusive lineage register.
