@@ -5,7 +5,8 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),"..");
-const national=JSON.parse(fs.readFileSync(path.join(root,"data/asthortera/nccm-national-audit-v1.json"),"utf8"));
+const ledger=JSON.parse(fs.readFileSync(path.join(root,"data/asthortera/national-cross-domain-audit-2026-10-30.json"),"utf8"));
+const national={country_rows:ledger.countries.map(c=>({name:c.name,path:c.source,population_billion:c.population_billion,sdi:c.sdi}))};
 function crawl(dir) {
   const full=path.join(root,dir);
   return fs.readdirSync(full,{withFileTypes:true}).flatMap(d=>{
@@ -22,14 +23,18 @@ for(const file of paths) {
     if(!/\b(?:population|sentients|inhabitants|sdi|sentient development)\b/i.test(ln)) continue;
     let names=national.country_rows.filter(c=>low.includes(c.name.toLowerCase()));
     if(names.length>1)continue;
+    if(/cross-domain-qa|audit-2026-10-30/i.test(file))continue;
+    if(/\bCycle\s*\d+\b/i.test(ln))continue;
     if(names.length===0&&own&&i<320)names=[own];
     if(names.length!==1)continue;
     const c=names[0];
     if(/\b(?:BAC|AC|historic|historical|future|projection|scenario|proposed|hypothetical|earlier|old|before the war)\b/i.test(ln))continue;
     const pop=[...ln.matchAll(/(\d+(?:\.\d+)?)\s*(billion|trillion)\s*(?:sentients|people|inhabitants|residents|citizens)?\b/gi)];
-    const sdi=[...ln.matchAll(/\b(?:sdi|sentient development index)\b[^\n]{0,65}?(0\.\d{3})\b/gi)];
-    if(/population|inhabitants|sentients/i.test(ln)){
+    const sdi=/\b(?:≥|threshold|eligib|minimum|required|only citizens)\b/i.test(ln)?[]:[...ln.matchAll(/\b(?:sdi|sentient development index)\b[^\n]{0,65}?(0\.\d{3})\b/gi)];
+    if(/population|inhabitants|sentients/i.test(ln) && !(file.includes("nccm-remodeling") && pop.length>1)){
       for(const m of pop){
+        const countryIndex=ln.toLowerCase().indexOf(c.name.toLowerCase());
+        if(countryIndex>=0 && m.index<countryIndex)continue;
         const value=Number(m[1])*(m[2].toLowerCase()==="trillion"?1000:1);
         if(Math.abs(value-c.population_billion)>1e-4)candidates.push({metric:"population_billion",country:c.name,expected:c.population_billion,sighted:value,file,line:i+1,excerpt:ln.trim().slice(0,260)});
       }
