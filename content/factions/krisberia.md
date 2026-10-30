@@ -150,7 +150,6 @@ The Eastern **non-theological civic tradition** can guide state legitimacy witho
 
 ---
 
-## 7. Economics and the material production engine
 
 ## 7. NCCM V6 integrated economy
 
