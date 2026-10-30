@@ -77,11 +77,13 @@ Pencilfania’s population is highly diverse but culturally unified by creative 
 
 | Group | Share |
 |---|---:|
-| Human, Depeisitian descent | 66% |
-| Human, Cisthetan descent | 23% |
-| Cosmeilia Cosmic Races and mixed populations | 4% |
+| Human, Depeisitian descent | **56%** |
+| Human, Cisthetan descent | **23%** |
+| Unified Cosmeilian lineage — Cosmic Races and mixed populations | **14%** |
 | Native Asthorteran species, including Human-Wizard-Witch blends | 3% |
 | Others | 4% |
+
+**Ratified Year 0 ancestry: 56% Depeisit / 23% Cistheta / 14% unified Cosmeilian / 3% native / 4% others = 100%.** The increased Cosmeilian representation enriches Pencilfania's artistic expression and cosmic aesthetics; it does not retroactively alter the nation's foundation, predating Depeisit and Cistheta immigration.
 
 The Depeisitian-descended majority contributes deep literary, symbolic, and archival tendencies, while the Cisthetan-descended population contributes precision, technical design, and systematized visual thinking. The Cosmeilia-linked communities add resonance aesthetics, cosmic color sensibility, and spiritual visual symbolism. Native Asthorteran groups enrich Pencilfania with magical, ecological, and old-world artistic traditions.
 
@@ -106,7 +108,7 @@ The Depeisitian-descended majority contributes deep literary, symbolic, and arch
 
 At the **1125–1121 BAC** foundation window of Reltronland and Depcutland, the eight countries' territorial extents relative to their modern borders were: **Stelpadland 100%, Pencilfania 87%, Calespia 76%, Ethaptoria 67%, Scenrepolia 57%, Taramistry 45%, Mapether 39%, and Krisberia 28%**. These figures measure national territory against later boundaries, **not** the population share, percentage of built or inhabited land, biodiversity loss, or economic output.
 
-The present-day demographic profile (66% Depeisitian-descended, 23% Cisthetan-descended, and other populations) records later population change, not the ancestry of the founding generation. Pencilfania **predates** the recorded 1256 BAC Cisthetan arrival and Depeisit migration from 1211 BAC. Migration, intermarriage, and evolving civic identity explain the later composition without turning Pencilfania into a retrospective Depeisit colony. The founding chronology concerns sovereign institutions, not the first habitation of the region.
+The present-day demographic profile (56% Depeisitian-descended, 23% Cisthetan-descended, 14% Cosmeilian, and other populations) records later population change, not the ancestry of the founding generation. Pencilfania **predates** the recorded 1256 BAC Cisthetan arrival and Depeisit migration from 1211 BAC. Migration, intermarriage, and evolving civic identity explain the later composition without turning Pencilfania into a retrospective Depeisit colony. The founding chronology concerns sovereign institutions, not the first habitation of the region.
 
 ---
 
