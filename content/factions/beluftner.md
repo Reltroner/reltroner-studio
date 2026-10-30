@@ -543,3 +543,32 @@ and one of the most influential civilizations in the entire history of Asthorter
 # Civilizational Principle
 
 > **"What survives longest is not the strongest force, but the most balanced one."**
+
+---
+
+## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
+
+**Unchanged canonical nation anchors:** **91 billion** residents, **88 million km²**, and **SDI 0.896**. Asthortera's **4.412 trillion** unique residents live in **37 countries**, and the **planet SDI is now 0.947**. Composite SDI integrates individual capabilities and institutional quality.
+
+**Completed cross-domain simulation columns — all asterisked figures are candidates, not independently measured national facts:**
+
+| Metric | NCCM V3 value | Provenance |
+|---|---:|---|
+| GDP, reporting AUC/year | **3.08771981e+19*** | Modeled national GDP allocation, **not local-currency GDP** |
+| GDP/head, reporting USD/year | **9.263159e+8*** | Modeled GDP / fixed national population |
+| Planet GDP contribution | **0.7461%*** | Model shares reconcile across planet GDP |
+| Individual SDI capacity I | **0.9020*** | Illustrative individual/institution 60/40 decomposition |
+| Institutional SDI quality Q | **0.8870*** | Illustrative institutional component, not surveyed |
+| Income Gini | **0.280*** | Unratified comparative distribution candidate |
+| Public debt to GDP | **44.0%*** | Unratified public-finance candidate |
+| Year 0 real GDP growth | **6.20%*** | One-year conditional growth candidate |
+| CPI inflation at Year 0 | **0.480%*** | Noncanonical national CPI candidate |
+| Unemployment | **3.30%*** | Candidate labor-market indicator |
+| Urban population share | **72.0%*** | Does not imply urban land share |
+| Life expectancy | **452 years*** | Candidate biological cohort proxy |
+| Median age | **249 years*** | Candidate age-structure proxy |
+| Total fertility rate | **1.76*** | Candidate, not a completed life table |
+| Education/learning access index | **0.904*** | Synthetic institutional proxy, not observed |
+
+**Editorial rule:** Candidate benchmark estimates help compare the 14 countries in a common AUC/USD frame but do **not** supersede this nation's source-canonical population, SDI, historical institutions, ancestry, national currency, or independently stated financial figures. The [single 14-country comparative matrix](../statistics/asthortera-14-country-cross-domain-v3.md), its [JSON model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md) govern reproducibility and future ratification.
+
