@@ -37,6 +37,9 @@ These indicators are not fixed. They evolve with each generation's intellectual,
 
 # 🌍 2. Global SDI Baseline
 
+**NCCM V3 methodological scope (creator-ratified 2026-10-30):** Each national SDI represents **average capability of individuals combined with quality of the nation's enabling institutions**. The Year 0 planet's **0.947** score is a fixed creator anchor, not the unweighted average of countries. The **14 documented nations retain their exact SDI scores**; their 3.288 trillion citizens have population-weighted mean **0.958638077858881**. At the fixed planet population **4.412 trillion across 37 nations**, a **population-weighted composite operator** requires the other 23 nations' combined 1.124 trillion citizens to have average composite SDI **0.912955516014234**. The **candidate SDI individual/institution weights 60/40 have not been ratified**, and those two component columns remain modeled rather than observed. See [SDI Methodology V3](./asthortera-sdi-methodology-v3.md) and [14-Country Comparison](./asthortera-14-country-cross-domain-v3.md).
+
+
 - **Average SDI across Asthortera:** `0.947 / 1.000`
 - The average is considered extremely high on the galactic scale.
 - The high baseline reflects widespread cultural emphasis on awareness, resilience, meritocracy, education, and conscious development.
