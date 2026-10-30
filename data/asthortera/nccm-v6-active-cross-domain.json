@@ -1,5 +1,5 @@
 {
-  "schema_version": "NCCM-V6.4-stelpadland-debt-and-industry-active",
+  "schema_version": "NCCM-V6.5-foundation-fertility-growth-reconciled",
   "created_date": "2026-10-31",
   "scope": "Year 0 Asthortera; user-ratified decisions through 2026-10-30; earlier NCCM V3/V4 data kept as historical ledger not current six-way primary canon",
   "provenance": {
@@ -18,7 +18,11 @@
     "model_output_income_rule": "At this migration-only decision, national GDP and GDP-share totals remain frozen at V6.1 (no automatic new productivity/output claim). GDP per capita and zero-primary-income-bridge GNI per capita are recomputed; changes are accounting effects not welfare measurements.",
     "ancestry_representativity_change": "The global six-class proxy remains fixed at the approved pre-migration 3288B 14-nation weighted representation; the current 3213B subset alone cannot replace it without altering the global mix.",
     "foundation_date_ratification": "Creator-ratified five dates: Lenternow 2072 BAC; Hargenbor 1984 BAC; Moreg 1713 BAC; Pasgerflit 1545 BAC; Taramistry 1210 BAC. Old Taramistry 1186 BAC superseded.",
-    "stelpadland_finance_ratification": "Creator ratified government public debt ratio 52% of GDP (previous 42% was archival V3 scenario, now superseded). This coincides with a finished-furniture industry identity; do not infer debt causation as proven or fabricate furniture production shares."
+    "stelpadland_finance_ratification": "Creator ratified government public debt ratio 52% of GDP (previous 42% was archival V3 scenario, now superseded). This coincides with a finished-furniture industry identity; do not infer debt causation as proven or fabricate furniture production shares.",
+    "pencilfania_krisberia_foundation_correction": "Creator ratified Pencilfania 2732 BAC (supersedes 2694); Krisberia 2320 BAC unconditional, no historic territorial-completion precondition.",
+    "planet_growth_2026_10_31": "Planet Year 0 real GDP growth recalibrated to creator-ratified 4%, not 7.5%; other period 1010 BAC/950 BAC historic references unchanged.",
+    "fertility_recalibration_2026_10_31": "14 original countries: V6.4 candidate TFR ×1.02, 2-decimal; five additions: independent scenario values 1.66,1.72,1.89,1.73,2.01; aggregate 18-state TFR is population-weighted mathematical residual. This is explicitly not a biological true age-specific TFR aggregation without childbearing-age denominator.",
+    "national_growth_recalibration_2026_10_31": "14 national pre-rebase real GDP growth ×0.535, round to 0.01 percentage point; five new country growth scenarios 4.25%,3.90%,4.10%,4.20%,4.00%; remaining 18-country GDP-weighted growth residual chosen to close planet 4%. Relative historic rates preserved approximately, absolute planet 7.5% replaced."
   },
   "planet": {
     "population_billion": 4412,
@@ -31,11 +35,13 @@
       "urbanization_rate": 0.895,
       "annual_inflation": 0.0033,
       "tfr": 1.63,
-      "real_gdp_growth": 0.075,
+      "real_gdp_growth": 0.04,
       "net_interplanetary_migration": "positive_significant_not_numerically_ratifed",
       "gdp_usd_annual_V6": 1.12973806397464e+23,
       "gni_usd_annual_V6_zero_bridge": 1.12973806397464e+23,
-      "gdp_per_capita_usd_V6": 25606030461.8006
+      "gdp_per_capita_usd_V6": 25606030461.8006,
+      "tfr_model_aggregation_status": "Creator-ratified planet 1.63 is an anchor; national annual total fertility is here calibrated as POPULATION-WEIGHTED descriptive proxy only, NOT a true cohort-eligible-female-weighted fertility calculation.",
+      "real_gdp_growth_model_aggregation_status": "Creator-ratified planet real GDP growth 4.00%; annual current GDP weights across 14+5+18, common price base and compatible national deflators assumed; no claim of measured real value added."
     },
     "historical_1010_BAC": {
       "median_age_years": 30,
@@ -94,7 +100,13 @@
       },
       "original_14_sdi_weighted_reference": 0.898955223880596,
       "planetary_proxy_ancestry_denominator_billion": 3288
-    }
+    },
+    "tfr_population_weighted_proxy_original14": 1.5404512916277624,
+    "tfr_population_weighted_proxy_eastern5": 1.8074177215189873,
+    "tfr_population_weighted_proxy_deferred18": 1.900696517412935,
+    "real_gdp_growth_gdp_weighted_original14": 0.0401637156303983,
+    "real_gdp_growth_gdp_weighted_eastern5": 0.04101977912866595,
+    "real_gdp_growth_gdp_weighted_deferred18": 0.03688730813469307
   },
   "countries_14": [
     {
@@ -130,14 +142,18 @@
       "government_debt_to_gdp": 0.85,
       "unemployment_rate": 0.015,
       "annual_inflation": 0.003,
-      "real_gdp_growth": 0.075,
+      "real_gdp_growth": 0.0401,
       "carbon_tonnes_per_capita": 4.3,
       "urbanization": 0.975,
       "median_age_years": 254,
       "life_expectancy_years": 498,
-      "tfr_candidate": 1.13,
+      "tfr_candidate": 1.15,
       "education_access_proxy": 0.992,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.13,
+      "real_gdp_growth_pre_rebase_v64": 0.075,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Depcutland",
@@ -172,14 +188,18 @@
       "government_debt_to_gdp": 0.61,
       "unemployment_rate": 0.017,
       "annual_inflation": 0.0028,
-      "real_gdp_growth": 0.075,
+      "real_gdp_growth": 0.0401,
       "carbon_tonnes_per_capita": 3.2,
       "urbanization": 0.96,
       "median_age_years": 254,
       "life_expectancy_years": 490,
-      "tfr_candidate": 1.29,
+      "tfr_candidate": 1.32,
       "education_access_proxy": 0.989,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.29,
+      "real_gdp_growth_pre_rebase_v64": 0.075,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Kalgered",
@@ -214,14 +234,18 @@
       "government_debt_to_gdp": 0.45,
       "unemployment_rate": 0.018,
       "annual_inflation": 0.0026,
-      "real_gdp_growth": 0.069,
+      "real_gdp_growth": 0.0369,
       "carbon_tonnes_per_capita": 1.3,
       "urbanization": 0.86,
       "median_age_years": 254,
       "life_expectancy_years": 489,
-      "tfr_candidate": 1.6,
+      "tfr_candidate": 1.63,
       "education_access_proxy": 0.987,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.6,
+      "real_gdp_growth_pre_rebase_v64": 0.069,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Aurastelia",
@@ -256,14 +280,18 @@
       "government_debt_to_gdp": 0.48,
       "unemployment_rate": 0.016,
       "annual_inflation": 0.0024,
-      "real_gdp_growth": 0.07,
+      "real_gdp_growth": 0.0375,
       "carbon_tonnes_per_capita": 1.7,
       "urbanization": 0.82,
       "median_age_years": 254,
       "life_expectancy_years": 485,
-      "tfr_candidate": 1.91,
+      "tfr_candidate": 1.95,
       "education_access_proxy": 0.978,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.91,
+      "real_gdp_growth_pre_rebase_v64": 0.07,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Astrostelia",
@@ -298,14 +326,18 @@
       "government_debt_to_gdp": 0.56,
       "unemployment_rate": 0.019,
       "annual_inflation": 0.0037,
-      "real_gdp_growth": 0.078,
+      "real_gdp_growth": 0.0417,
       "carbon_tonnes_per_capita": 2.6,
       "urbanization": 0.88,
       "median_age_years": 253,
       "life_expectancy_years": 480,
-      "tfr_candidate": 1.64,
+      "tfr_candidate": 1.67,
       "education_access_proxy": 0.965,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.64,
+      "real_gdp_growth_pre_rebase_v64": 0.078,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Lenternow",
@@ -340,14 +372,18 @@
       "government_debt_to_gdp": 0.57,
       "unemployment_rate": 0.022,
       "annual_inflation": 0.0035,
-      "real_gdp_growth": 0.073,
+      "real_gdp_growth": 0.0391,
       "carbon_tonnes_per_capita": 2.1,
       "urbanization": 0.92,
       "median_age_years": 251,
       "life_expectancy_years": 470,
-      "tfr_candidate": 1.67,
+      "tfr_candidate": 1.7,
       "education_access_proxy": 0.9430000000000001,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.67,
+      "real_gdp_growth_pre_rebase_v64": 0.073,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Taramistry",
@@ -382,14 +418,18 @@
       "government_debt_to_gdp": 0.68,
       "unemployment_rate": 0.021,
       "annual_inflation": 0.0041,
-      "real_gdp_growth": 0.082,
+      "real_gdp_growth": 0.043899999999999995,
       "carbon_tonnes_per_capita": 4.9,
       "urbanization": 0.9,
       "median_age_years": 252,
       "life_expectancy_years": 478,
-      "tfr_candidate": 1.72,
+      "tfr_candidate": 1.75,
       "education_access_proxy": 0.962,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.72,
+      "real_gdp_growth_pre_rebase_v64": 0.082,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Moreg",
@@ -424,14 +464,18 @@
       "government_debt_to_gdp": 0.65,
       "unemployment_rate": 0.023,
       "annual_inflation": 0.0037,
-      "real_gdp_growth": 0.083,
+      "real_gdp_growth": 0.0444,
       "carbon_tonnes_per_capita": 5.4,
       "urbanization": 0.93,
       "median_age_years": 251,
       "life_expectancy_years": 468,
-      "tfr_candidate": 1.47,
+      "tfr_candidate": 1.5,
       "education_access_proxy": 0.9390000000000001,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.47,
+      "real_gdp_growth_pre_rebase_v64": 0.083,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Pencilfania",
@@ -466,14 +510,18 @@
       "government_debt_to_gdp": 0.53,
       "unemployment_rate": 0.02,
       "annual_inflation": 0.0032,
-      "real_gdp_growth": 0.071,
+      "real_gdp_growth": 0.038,
       "carbon_tonnes_per_capita": 2.2,
       "urbanization": 0.84,
       "median_age_years": 252,
       "life_expectancy_years": 472,
-      "tfr_candidate": 1.84,
+      "tfr_candidate": 1.88,
       "education_access_proxy": 0.948,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.84,
+      "real_gdp_growth_pre_rebase_v64": 0.071,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Stelpadland",
@@ -508,12 +556,12 @@
       "government_debt_to_gdp": 0.52,
       "unemployment_rate": 0.018,
       "annual_inflation": 0.0027,
-      "real_gdp_growth": 0.068,
+      "real_gdp_growth": 0.0364,
       "carbon_tonnes_per_capita": 1.2,
       "urbanization": 0.73,
       "median_age_years": 253,
       "life_expectancy_years": 481,
-      "tfr_candidate": 1.6,
+      "tfr_candidate": 1.63,
       "education_access_proxy": 0.969,
       "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target; Stelpadland government debt 0.52 is directly creator-ratified and supersedes V3 0.42 scenario",
       "debt_ratio_status": "creator_ratified_2026-10-31_52pct_GDP",
@@ -524,7 +572,11 @@
         "export_share_pct": null,
         "employment_share_pct": null,
         "status": "industry identity ratified, detailed sector output/export/employment percentages not assigned"
-      }
+      },
+      "tfr_pre_rebase_v64": 1.6,
+      "real_gdp_growth_pre_rebase_v64": 0.068,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Pasgerflit",
@@ -559,14 +611,18 @@
       "government_debt_to_gdp": 0.63,
       "unemployment_rate": 0.02,
       "annual_inflation": 0.0036,
-      "real_gdp_growth": 0.082,
+      "real_gdp_growth": 0.043899999999999995,
       "carbon_tonnes_per_capita": 3.7,
       "urbanization": 0.945,
       "median_age_years": 252,
       "life_expectancy_years": 476,
-      "tfr_candidate": 1.78,
+      "tfr_candidate": 1.82,
       "education_access_proxy": 0.957,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.78,
+      "real_gdp_growth_pre_rebase_v64": 0.082,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Hargenbor",
@@ -601,14 +657,18 @@
       "government_debt_to_gdp": 0.74,
       "unemployment_rate": 0.029,
       "annual_inflation": 0.0045,
-      "real_gdp_growth": 0.067,
+      "real_gdp_growth": 0.0358,
       "carbon_tonnes_per_capita": 3.1,
       "urbanization": 0.875,
       "median_age_years": 251,
       "life_expectancy_years": 465,
-      "tfr_candidate": 1.82,
+      "tfr_candidate": 1.86,
       "education_access_proxy": 0.933,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.82,
+      "real_gdp_growth_pre_rebase_v64": 0.067,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Beluftner",
@@ -643,14 +703,18 @@
       "government_debt_to_gdp": 0.44,
       "unemployment_rate": 0.033,
       "annual_inflation": 0.0048,
-      "real_gdp_growth": 0.062,
+      "real_gdp_growth": 0.0332,
       "carbon_tonnes_per_capita": 1.6,
       "urbanization": 0.72,
       "median_age_years": 249,
       "life_expectancy_years": 452,
-      "tfr_candidate": 1.76,
+      "tfr_candidate": 1.8,
       "education_access_proxy": 0.904,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.76,
+      "real_gdp_growth_pre_rebase_v64": 0.062,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     },
     {
       "name": "Cenrestier",
@@ -685,14 +749,18 @@
       "government_debt_to_gdp": 0.59,
       "unemployment_rate": 0.027,
       "annual_inflation": 0.0034,
-      "real_gdp_growth": 0.067,
+      "real_gdp_growth": 0.0358,
       "carbon_tonnes_per_capita": 2.6,
       "urbanization": 0.81,
       "median_age_years": 250,
       "life_expectancy_years": 459,
-      "tfr_candidate": 1.69,
+      "tfr_candidate": 1.72,
       "education_access_proxy": 0.919,
-      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target",
+      "tfr_pre_rebase_v64": 1.69,
+      "real_gdp_growth_pre_rebase_v64": 0.067,
+      "tfr_status": "V6.5_population_weighted_proxy_rebased_from_V6.4_1.02x_and_rounded_to_0.01; not age_cohort_measured",
+      "real_gdp_growth_status": "V6.5_creator_approved_planet_4pct_model; inherited_country_V6.4_growth_scaled_0.535_and_rounded_to_0.01_percentage_points"
     }
   ],
   "countries_5": [
@@ -709,7 +777,7 @@
       "country_specific_ancestry_status": "not_ratifed",
       "land_area_million_km2": null,
       "median_age_years": null,
-      "tfr": null,
+      "tfr": 1.66,
       "annual_inflation": null,
       "fx": {
         "code": "SCI",
@@ -741,7 +809,11 @@
           "sector": "Other sectors",
           "share": 7
         }
-      ]
+      ],
+      "tfr_candidate": 1.66,
+      "tfr_status": "V6.5_new_national_fertility_scenario_to_fit_planet_1.63; not independently ratified by country",
+      "real_gdp_growth": 0.0425,
+      "real_gdp_growth_status": "V6.5_new_national_growth_scenario_to_fit_planet_4pct; not independently ratified by country"
     },
     {
       "name": "Krisberia",
@@ -756,7 +828,7 @@
       "country_specific_ancestry_status": "not_ratifed",
       "land_area_million_km2": null,
       "median_age_years": null,
-      "tfr": null,
+      "tfr": 1.72,
       "annual_inflation": null,
       "fx": {
         "code": "KRF",
@@ -788,7 +860,11 @@
           "sector": "Other sectors",
           "share": 6
         }
-      ]
+      ],
+      "tfr_candidate": 1.72,
+      "tfr_status": "V6.5_new_national_fertility_scenario_to_fit_planet_1.63; not independently ratified by country",
+      "real_gdp_growth": 0.039,
+      "real_gdp_growth_status": "V6.5_new_national_growth_scenario_to_fit_planet_4pct; not independently ratified by country"
     },
     {
       "name": "Mapether",
@@ -803,7 +879,7 @@
       "country_specific_ancestry_status": "not_ratifed",
       "land_area_million_km2": null,
       "median_age_years": null,
-      "tfr": null,
+      "tfr": 1.89,
       "annual_inflation": null,
       "fx": {
         "code": "MWV",
@@ -835,7 +911,11 @@
           "sector": "Other sectors",
           "share": 6
         }
-      ]
+      ],
+      "tfr_candidate": 1.89,
+      "tfr_status": "V6.5_new_national_fertility_scenario_to_fit_planet_1.63; not independently ratified by country",
+      "real_gdp_growth": 0.040999999999999995,
+      "real_gdp_growth_status": "V6.5_new_national_growth_scenario_to_fit_planet_4pct; not independently ratified by country"
     },
     {
       "name": "Ethaptoria",
@@ -850,7 +930,7 @@
       "country_specific_ancestry_status": "not_ratifed",
       "land_area_million_km2": null,
       "median_age_years": null,
-      "tfr": null,
+      "tfr": 1.73,
       "annual_inflation": null,
       "fx": {
         "code": "EPT",
@@ -882,7 +962,11 @@
           "sector": "Other sectors",
           "share": 7
         }
-      ]
+      ],
+      "tfr_candidate": 1.73,
+      "tfr_status": "V6.5_new_national_fertility_scenario_to_fit_planet_1.63; not independently ratified by country",
+      "real_gdp_growth": 0.042,
+      "real_gdp_growth_status": "V6.5_new_national_growth_scenario_to_fit_planet_4pct; not independently ratified by country"
     },
     {
       "name": "Calespia",
@@ -897,7 +981,7 @@
       "country_specific_ancestry_status": "not_ratifed",
       "land_area_million_km2": null,
       "median_age_years": null,
-      "tfr": null,
+      "tfr": 2.01,
       "annual_inflation": null,
       "fx": {
         "code": "CAL",
@@ -929,7 +1013,11 @@
           "sector": "Other sectors",
           "share": 7
         }
-      ]
+      ],
+      "tfr_candidate": 2.01,
+      "tfr_status": "V6.5_new_national_fertility_scenario_to_fit_planet_1.63; not independently ratified by country",
+      "real_gdp_growth": 0.04,
+      "real_gdp_growth_status": "V6.5_new_national_growth_scenario_to_fit_planet_4pct; not independently ratified by country"
     }
   ],
   "aggregate_remaining_18": {
@@ -940,7 +1028,11 @@
     "gdp_usd_annual_V6": 7.17792991381289e+21,
     "gdp_per_capita_usd_V6": 8927773524.64289,
     "individual_country_data": "explicitly deferred by creator",
-    "ancestry_primary_pct_by_country": null
+    "ancestry_primary_pct_by_country": null,
+    "tfr_population_weighted_proxy_required": 1.900696517412935,
+    "tfr_status": "V6.5_single_18_nation_residual_calibrated_by_population_weighted_TFR_proxy; not 18 country surveys or biologically exact cohort_TFR",
+    "real_gdp_growth_gdp_weighted_required": 0.03688730813469307,
+    "real_gdp_growth_status": "V6.5_single_18_nation_GDP_share_weighted_residual_calibrated_to_planet_4pct_real_growth; base_year common_deflator_proxy"
   },
   "open_issues": [
     {
@@ -1119,7 +1211,7 @@
   },
   "historical_foundations": {
     "date_scale": "BAC (higher value older)",
-    "status": "five dates creator-ratified 2026-10-31; existing historic founders preserved; Krisberia conditional",
+    "status": "Pencilfania 2732 BAC and Krisberia 2320 BAC are final unconditional founder dates, creator ratified 2026-10-31; earlier tentative/conditional framing superseded",
     "ordered_core": [
       {
         "name": "Stelpadland",
@@ -1128,8 +1220,8 @@
       },
       {
         "name": "Pencilfania",
-        "bac": 2694,
-        "status": "existing"
+        "bac": 2732,
+        "status": "creator_ratified"
       },
       {
         "name": "Calespia",
@@ -1144,7 +1236,7 @@
       {
         "name": "Krisberia",
         "bac": 2320,
-        "status": "conditional"
+        "status": "creator_ratified"
       },
       {
         "name": "Mapether",
@@ -1211,6 +1303,6 @@
         1137
       ]
     },
-    "interpretation": "Date is sovereign institutional founding, not first settlement, first resource discovery, start of ship voyages, or first aircraft/spaceflight. Krisberia 2320 remains conditional; no arbitrary completion dates for Aurastelia/Astrostelia."
+    "interpretation": "Founding dates are sovereign institutional beginnings, not first settlement or first discovery. Pencilfania 2732 BAC, Krisberia 2320 BAC require no extra territorial preconditions; they are independent canon dates."
   }
 }
