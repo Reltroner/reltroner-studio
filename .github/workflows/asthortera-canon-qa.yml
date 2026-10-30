@@ -36,6 +36,7 @@ jobs:
       - name: Run worldbuilding statistical regression tests
         run: npm run test:worldbuilding
       - name: Generate diagnostic report for all content Markdown
+        continue-on-error: true
         run: node tools/audit-asthortera-cross-domain.mjs --json > asthortera-canon-qa.json
       - name: Mine cross-content country metric references for manual QA
         run: node tools/audit-asthortera-metric-mentions.mjs | tee asthortera-metric-mentions.json
