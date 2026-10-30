@@ -175,7 +175,7 @@ This chain defines Lenternow's identity: **light becomes resource, resource beco
 | **Currency** | $LNR — Lenternow Radiance |
 | **Government System** | Bicameral Lenternokratia |
 | **GDP** | $182 quadrillion |
-| **GDP per Capita** | approximately $850,467 |
+| **GDP per Capita** | approximately $LNR 850,467 |
 | **Sovereign Wealth Fund** | Lumen Sovereign Fund — $41 trillion |
 | **Core Economic Identity** | Phosphor innovation, urban light engineering, glow tourism, visual light art, clean energy systems, light intelligence systems |
 | **Sentient Development Index** | 0.935 |
