@@ -805,10 +805,10 @@ Instead, conflict increasingly operates through:
 | Date | State | Lineage |
 |---|---|---|
 | **2882 BAC** | Stelpadland | Scot Stetson's independent Kalgered-influenced frontier |
-| **2694 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
+| **2732 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
 | **2628 BAC** | Calespia | Post-Stetsonian agriculture and later culinary excellence |
 | **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
-| **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
+| **2320 BAC** | Krisberia | Aurastelian-descended founders; the founding is sovereign and does not depend on prior completion of Aurastelia or Astrostelia's modern territories |
 | **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
 | **2072 BAC** | Lenternow | Illumination resource industrialization and sovereign institution formation |
 | **1984 BAC** | Hargenbor | Cosmeilian Port of Astro Bay merchant expedition, Coastal Loop and Lenternow trade |
