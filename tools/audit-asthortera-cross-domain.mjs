@@ -138,6 +138,21 @@ for(const c of activeNations)inspect((files.get(c.source)||'').includes('NCCM V6
 warning('TFR_COHORT_EXPOSURE_UNCALIBRATED','Full species-specific age fertility denominators are absent; 1.63 population-weighted proxy is mathematical reconciliation only');
 warning('GROWTH_DEFLATOR_UNCALIBRATED','4% GDP-share-weighted growth assumes consistent real-price bases; full chain-volume statistics pending');
 info.push({metric:'modeled_planet_TFR',value:modeledTFR},{metric:'modeled_planet_growth',value:modeledRealGrowth});
+// Ratification overlay: canon C is authoritative even for adopted calculated aggregates.
+inspect(v.canon_ratification?.status==='C'&&P.year0.canon_status==='C','V65_CREATOR_RATIFICATION_C','Every currently assigned NCCM V6.5 model value must be canon C');
+inspect([...v.countries_14,...v.countries_5].every(c=>c.canon_status==='C'),'V65_NATIONAL_CANON_C','19 national model outputs must be C');
+inspect(v.aggregate_remaining_18.canon_status==='C_as_single_combined_18_nation_residual_only','V65_RESIDUAL_C','18-country residual is canon C as a single combined group, not 18 separate measured national values');
+for(const c of activeNations){
+ const doc=files.get(c.source)||'';
+ const notice=doc.split('\n').find(line=>line.includes('NCCM V6.5 — Current Year 0 Modeling'))||'';
+ inspect(notice.includes('(C, creator-ratified national canon)')&&!notice.includes('(S,'),'V65_COUNTRY_PROFILE_C_STATUS',c.name);
+}
+for(const target of ['content/statistics/asthortera_identity.md','content/statistics/asthortera-vs-earth.md','content/events/history-timeline.md']){
+ const doc=files.get(target)||'';
+ inspect(doc.includes('NCCM V6.5 — Year 0 canon statistics (C)')&&doc.includes('**3,213 billion**')&&doc.includes('**395 billion**')&&doc.includes('**804 billion**'),'V65_FOUR_FILES_CANON_SYNC',target);
+}
+const sdiReport=files.get('content/statistics/sdi-report-asthortera.md')||'';
+inspect(sdiReport.includes('NCCM V6.5 — All 19 national SDIs (canon C)')&&sdiReport.includes('0.898402')&&!sdiReport.includes('0.912955516014234'),'V65_SDI_REPORT_CANON_SYNC','SDI report must use updated 14+5+18 weighted reference');
 const sdi=(sum(v.countries_14,x=>x.sdi*x.population_billion)+sum(v.countries_5,x=>x.sdi*x.population_billion)+v.aggregate_remaining_18.sdi_population_weighted_required*804)/4412;
 inspect(eq(sdi,.947),'PLANET_SDI_RECONCILIATION',String(sdi));
 inspect(v.aggregate_remaining_18.individual_country_data==='explicitly deferred by creator'&&v.aggregate_remaining_18.ancestry_primary_pct_by_country===null,'DEFERRED_18_INTEGRITY','No invented national populations/SDI/ancestry');

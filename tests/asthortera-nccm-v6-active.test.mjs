@@ -196,3 +196,33 @@ test('V6.5 GDP-share-weighted growth of 19+18 states equals creator-ratified 4%'
  assert.match(report,/\| \[Pencilfania\]\(\.\.\/factions\/pencilfania\.md\) \| 2732 \|/);
  assert.match(report,/\| \[Krisberia\]\(\.\.\/factions\/krisberia\.md\) \| 2320 \|/);
 });
+
+test('NCCM V6.5 creator ratifies all presently assigned remodeling as C, preserving unassigned gaps',()=>{
+ const c=model.canon_ratification;assert.equal(c.status,'C');
+ assert.equal(P.year0.canon_status,'C');
+ assert.ok(model.countries_14.every(x=>x.canon_status==='C'));
+ assert.ok(model.countries_5.every(x=>x.canon_status==='C'));
+ assert.equal(model.aggregate_remaining_18.canon_status,'C_as_single_combined_18_nation_residual_only');
+ assert.equal(model.aggregate_remaining_18.individual_country_data,'explicitly deferred by creator');
+ for(const x of [...model.countries_14,...model.countries_5]){
+   const content=fs.readFileSync(path.join(root,x.source),'utf8');
+   const notice=content.match(/NCCM V6\.5 — Current Year 0 Modeling[^\n]+/);
+   assert.ok(notice,x.name);assert.match(notice[0],/\(C, creator-ratified national canon\)/,x.name);
+   assert.doesNotMatch(notice[0],/\(S, (?:national scenario|scenario)\)/,x.name);
+ }
+ for(const pathToRead of ['content/statistics/asthortera_identity.md','content/statistics/asthortera-vs-earth.md','content/events/history-timeline.md']){
+  const doc=fs.readFileSync(path.join(root,pathToRead),'utf8');
+  assert.match(doc,/NCCM V6\.5 — Year 0 canon statistics \(C\)/);
+  assert.match(doc,/\*\*3,213 billion\*\*/);
+  assert.match(doc,/\*\*395 billion\*\*/);
+  assert.match(doc,/\*\*804 billion\*\*/);
+  assert.match(doc,/\*\*4\.00%\*\*/);
+ }
+ const sdi=fs.readFileSync(path.join(root,'content/statistics/sdi-report-asthortera.md'),'utf8');
+ assert.match(sdi,/NCCM V6\.5 — All 19 national SDIs \(canon C\)/);
+ assert.match(sdi,/0\.898402/);
+ assert.doesNotMatch(sdi,/0\.912955516014234/);
+ const report=fs.readFileSync(path.join(root,'content/statistics/asthortera-nccm-v6-active-cross-domain.md'),'utf8');
+ assert.match(report,/Active canon authority — retroactive adoption/);
+ assert.match(report,/canon C/);
+});

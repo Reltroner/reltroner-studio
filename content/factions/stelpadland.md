@@ -8,7 +8,7 @@ image: "/images/stelpadland.webp"
 published: true
 ---
 
-> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Stelpadland: **141 billion** residents; **TFR 1.63 (S, national scenario)**; **real GDP growth Year 0 3.64% (S, national scenario)**. **Stelpadland public debt: 52% GDP (canon); finished furniture is a key productive industry.** Planet creator-ratified **TFR 1.63**, **real GDP growth 4.00%**, **4,412 billion** unique residents, **SDI 0.947**. TFR uses a population-weighted demographic proxy, not complete reproductive-age cohorts; growth uses GDP shares. Older V3/V4 TFR or growth data below are **archived scenarios**. [NCCM V6.5](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [active JSON](../../data/asthortera/nccm-v6-active-cross-domain.json).
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Stelpadland: **141 billion** residents; **TFR 1.63 (C, creator-ratified national canon)**; **real GDP growth Year 0 3.64% (C, creator-ratified national canon)**. **Stelpadland public debt: 52% GDP (canon); finished furniture is a key productive industry.** Planet creator-ratified **TFR 1.63**, **real GDP growth 4.00%**, **4,412 billion** unique residents, **SDI 0.947**. TFR uses a population-weighted demographic proxy, not complete reproductive-age cohorts; growth uses GDP shares. Older V3/V4 TFR or growth data below are **archived**, not active canon. The current TFR and real growth are **creator-ratified C** under their stated aggregation conventions. [NCCM V6.5](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [active JSON](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
 ![stelpadland1](/images/stelpadland1.webp)

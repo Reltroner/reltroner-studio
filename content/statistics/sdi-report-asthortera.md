@@ -37,7 +37,7 @@ These indicators are not fixed. They evolve with each generation's intellectual,
 
 # 🌍 2. Global SDI Baseline
 
-**NCCM V3 methodological scope (creator-ratified 2026-10-30):** Each national SDI represents **average capability of individuals combined with quality of the nation's enabling institutions**. The Year 0 planet's **0.947** score is a fixed creator anchor, not the unweighted average of countries. The **14 documented nations retain their exact SDI scores**; their 3.288 trillion citizens have population-weighted mean **0.958638077858881**. At the fixed planet population **4.412 trillion across 37 nations**, a **population-weighted composite operator** requires the other 23 nations' combined 1.124 trillion citizens to have average composite SDI **0.912955516014234**. The **candidate SDI individual/institution weights 60/40 have not been ratified**, and those two component columns remain modeled rather than observed. See [SDI Methodology V3](./asthortera-sdi-methodology-v3.md) and [14-Country Comparison](./asthortera-14-country-cross-domain-v3.md).
+**NCCM V6.5 — all current remodeling adopted as canon (C, 2026-10-31).** Planet Year 0 SDI is **0.947** across **37 countries and 4,412 billion persons**. Following the creator-ratified 75B internal migration, the 14 old countries contain **3,213B** (weighted SDI **0.958950202303**), the five added states contain **395B** (weighted SDI **0.948713924051**), and the unsplit 18-country group contains **804B** with adopted aggregate SDI **0.898401741294**. The accepted SDI national model is **60% individual capability + 40% enabling institutional quality**. These values and the full Year 0 remodeling now have **canon C status**, including calculated residuals; actual country-specific census fields that have not been assigned remain open. The old V3 partition (3,288B / 1,124B; residual SDI 0.9129555) is archived and superseded. [Active V6.5](./asthortera-nccm-v6-active-cross-domain.md) · [active JSON](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
 - **Average SDI across Asthortera:** `0.947 / 1.000`
@@ -49,6 +49,34 @@ This high civilizational baseline also establishes an important feature of Astho
 The nations of Asthortera do not necessarily define progress in the same way. Each civilization developed its own historical trajectory, institutional priorities, and cultural specialization.
 
 ---
+
+
+## NCCM V6.5 — All 19 national SDIs (canon C)
+
+| Nation | Population (billions) | SDI (C) | TFR (C) | Year 0 real GDP growth (C) |
+|---|---:|---:|---:|---:|
+| Reltronland | 855 | 0.984 | 1.15 | 4.01% |
+| Depcutland | 343 | 0.981 | 1.32 | 4.01% |
+| Kalgered | 108 | 0.979 | 1.63 | 3.69% |
+| Aurastelia | 164 | 0.970 | 1.95 | 3.75% |
+| Astrostelia | 185 | 0.957 | 1.67 | 4.17% |
+| Lenternow | 174 | 0.935 | 1.70 | 3.91% |
+| Taramistry | 242 | 0.954 | 1.75 | 4.39% |
+| Moreg | 205 | 0.931 | 1.50 | 4.44% |
+| Pencilfania | 182 | 0.940 | 1.88 | 3.80% |
+| Stelpadland | 141 | 0.961 | 1.63 | 3.64% |
+| Pasgerflit | 279 | 0.949 | 1.82 | 4.39% |
+| Hargenbor | 133 | 0.925 | 1.86 | 3.58% |
+| Beluftner | 91 | 0.896 | 1.80 | 3.32% |
+| Cenrestier | 111 | 0.911 | 1.72 | 3.58% |
+| Scenrepolia | 88 | 0.956 | 1.66 | 4.25% |
+| Krisberia | 58 | 0.955 | 1.72 | 3.90% |
+| Mapether | 74 | 0.937 | 1.89 | 4.10% |
+| Ethaptoria | 84 | 0.950 | 1.73 | 4.20% |
+| Calespia | 91 | 0.946 | 2.01 | 4.00% |
+| **Remaining 18 nations (single adopted aggregate)** | **804** | **0.898402** | **1.900697** | **3.688731%** |
+
+**Canonical reconciliation:** national SDI is population weighted to **0.947**, the population-weighted TFR accounting proxy equals **1.63**, and GDP-share weighted real-growth accounting equals **4.00%**. Model adoption does not imply independently surveyed age-specific fertility exposures. Aesthetic choices, ancestry and one-unit nominal currency quotes are **not** automatic SDI criteria. **Stelpadland government debt is 52% GDP (C)** and its high-value finished-furniture industry is a national productive identity, separate from its SDI score.
 
 # 🏆 3. Highest-SDI Civilizations
 

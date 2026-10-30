@@ -18,6 +18,51 @@ related_document: "Reltroner Studio Chronology and Calendar System"
 
 ## History of Asthortera, Reltronland, and Depcutland
 
+## NCCM V6.5 — Year 0 canon statistics (C)
+
+**CURRENT YEAR 0 CANON — NCCM V6.5 (creator-ratified on 2026-10-31).** All currently assigned national remodeling values, including the 19 national SDIs, GDP/GNI accounting basis, TFR, real GDP growth, six-way primary ancestry, seven migration routes, foundation dates, and the 18-nation aggregate, have **canon status C**. A mathematically calibrated result is canon **as a defined worldbuilding model value**, not falsely claimed to be an independently observed age-cohort survey or input-output microdata. Previously proposed/unresolved *unassigned* figures are not converted into invented facts. [Current machine ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [NCCM V6.5 full tables](./asthortera-nccm-v6-active-cross-domain.md).
+
+| Planetary and national accounting scope | Canon C |
+|---|---:|
+| Unique sentient population | **4,412 billion (4.412 trillion)** |
+| Sovereign countries | **37** |
+| Original fourteen countries, after migration | **3,213 billion** |
+| Additional five modeled countries, after migration | **395 billion** |
+| Remaining eighteen countries, combined canon residual | **804 billion** |
+| Internal migration, Astrostelia and Lenternow combined | **75 billion people** |
+| Planet SDI | **0.947** |
+| Original fourteen population-weighted SDI | **0.958950** |
+| Additional five population-weighted SDI | **0.948714** |
+| Other eighteen population-weighted SDI | **0.898402** |
+| Year 0 planet TFR | **1.63** |
+| Year 0 planet real GDP growth | **4.00%** |
+| Year 0 annual nominal GDP, Model B 10× | **USD 1.129738063975e+23** |
+| Year 0 annual GNI, adopted zero-net-primary-income bridge | **USD 1.129738063975e+23** |
+| Year 0 median age | **252 years** |
+| Year 0 life expectancy | **475 years** |
+| Year 0 urbanization | **89.5%** |
+| Year 0 annual CPI inflation | **0.33%** |
+
+**Planet primary ancestry — canon six exclusive classes:**
+
+| Primary class | Share (C) | Persons (billions, C) |
+|---|---:|---:|
+| Depeisit | 47.511618% | 2096.213 |
+| Cistheta | 19.859641% | 876.207 |
+| Cosmeilian | 16.210462% | 715.206 |
+| Native Asthorteran | 11.352281% | 500.863 |
+| Phantomkind / Spiritual Hybrid | 2.221411% | 98.009 |
+| Other | 2.844586% | 125.503 |
+| **Total** | **100%** | **4,412** |
+
+These six shares are the creator-adopted **pre-migration 14-country population-weighted representative planet benchmark**. The migration redistributes residents geographically but does not create/destroy sentients or change global primary ancestry. Inclusive mixed lineage is a different, overlapping metric. National ancestry for five added states and individual data for the eighteen remaining countries are still unassigned; these are **open facts**, not alternative active census values.
+
+**Current sovereign foundation chronology (C):** Stelpadland **2882 BAC**; Pencilfania **2732 BAC**; Calespia **2628 BAC**; Ethaptoria **2556 BAC**; Krisberia **2320 BAC, unconditional**; Mapether **2164 BAC**; Lenternow **2072 BAC**; Hargenbor **1984 BAC**; Moreg **1713 BAC**; Pasgerflit **1545 BAC**; Scenrepolia **1234 BAC**; Taramistry **1210 BAC**. Historical settlement, stewardship, resource discovery, and eventual territory-completion dates are different concepts.
+
+**Adopted aggregation methods:** the 19 national TFRs and the single 18-state residual close to planetary **1.63 under a population-weighted proxy**, while real national GDP growth rates close to **4.00% under base-year GDP-share weights**. These methods are part of the canon accounting specification; detailed reproductive cohorts and constant-price national supply-use tables remain prospective research, not grounds to call the approved model noncanon.
+
+
+
 This document presents a curated historical overview of **Asthortera**, tracing the rise of ancient civilizations, cosmic migrations, colonial fractures, sovereignty movements, planetary diplomacy, orbital governance, and the narrative transition into **The Abyss of Comfort**.
 
 It serves as a canon-aligned timeline backbone for the **Reltroner Studio Universe**, especially for historical arcs involving **Beluftner**, **Cosmeilia**, **Reltronland**, **Depcutland**, and the broader Asthorteran civilization network.
@@ -910,7 +955,7 @@ At this treaty-year benchmark, **planetary SDI was 0.707**, **period life expect
 
 The creator-defined 1010 BAC anchors are **Asthortera nominal GDP USD 195.67 trillion** and **Reltronland GDP REL 1.52 trillion** with the historical nominal reference **1 REL = USD 4.50**. Thus Reltronland produced **USD 6.84 trillion**, or **3.4956815%** of planetary GDP, with **1.52 billion sentients**. The **10% real planetary GDP growth** of 1010 BAC is a year-specific narrative anchor and not a long-term compound average.
 
-The Year 0 ancestry distribution is **58% Depeisit / 22% Cistheta / 10% Cosmeilia-Human mixed / 7% native Asthorteran / 3% other**. See the [NCCM V2 statistical development ledger](../statistics/asthortera-nccm-remodeling.md).
+The **current Year 0 primary ancestry is the six-way canon C**: Depeisit 47.511618%, Cistheta 19.859641%, Cosmeilian 16.210462%, Native 11.352281%, Phantomkind 2.221411%, Other 2.844586%. The five-way 58/22/10/7/3 V2 ratio is superseded; 75B internal migration changes national locations, not global ancestry. [Active NCCM V6.5](../statistics/asthortera-nccm-v6-active-cross-domain.md).
 
 ---
 
@@ -1015,15 +1060,15 @@ After the Great Acceleration, **planetary TFR, net-migration intensity and GDP g
 
 A planet-wide **0.4% population CAGR over 1010 years** and modern **4.412 trillion population** imply a **conditional 1010 BAC population of approximately 78.27 billion**, or a **56.37×** increase. This is a **calculated scenario, not an ancient census**. A piecewise-consistent population-growth reconstruction is: **1.40% (1010–995 BAC), 2.40% (995–970), 2.75% (970–950), 1.20% (950–920), 0.70% (920–850), 0.45% (850–780), 0.22% (780–600), 0.18% (600–300), and ~0.197658% (300–Year 0)**. All intermediate values are **simulation V1**, not fixed observational records.
 
-The economic-demographic transition also raised **life expectancy from 80 to ~475 years** and **SDI from 0.707 to 0.947**. Simulated intermediate markers may be **SDI 0.775/0.850/0.915** and **life expectancy 102/170/385 years** around **950/780/300 BAC**, but require separate biological and institutional validation. The **Year 0 real economic growth rate is 7.5%**.
+The economic-demographic transition also raised **life expectancy from 80 to ~475 years** and **SDI from 0.707 to 0.947**. Simulated intermediate markers may be **SDI 0.775/0.850/0.915** and **life expectancy 102/170/385 years** around **950/780/300 BAC**, but require separate biological and institutional validation. The **Year 0 real economic growth rate is 4.00% (canon C)**; 7.5% belongs solely to the superseded V2/V3 Year 0 baseline.
 
 ---
 
 ### 250 BAC–Year 0 — The 250-Year Economic Miracle (Retrospective NCCM V2 Model)
 
-The economic Miracle describes accumulated institutional capability and innovation, **not 12% GDP growth every year for 250 years**. A provisional nominal USD historical scenario uses **3.0% GDP CAGR for Reltronland** and **2.5% for the planet** during 250 BAC–Year 0, with **~12.44255%** Reltronland GDP share at 250 BAC, versus **42% at Year 0**. Exceptional 12% or 25% annual growth episodes must be reconciled with the full period, not extrapolated forever.
+The economic Miracle describes accumulated institutional capability and innovation, **not 12% GDP growth every year for 250 years**. An archived V2 nominal USD reconstruction uses **3.0% GDP CAGR for Reltronland** and **2.5% for the planet** during 250 BAC–Year 0, with **~12.44255%** Reltronland GDP share at 250 BAC, versus **42% at Year 0**. Exceptional 12% or 25% annual growth episodes must be reconciled with the full period, not extrapolated forever.
 
-The 1010-year nominal GDP CAGRs are **alpha ~1.7851937% planetary** and **rho ~2.0360492% Reltronland**, in USD, while **Year 0 core planetary GDP ~USD 1.1297380639746428 × 10^22** is derived from the national GDP and 42% share. Consumer inflation, GDP deflators, GNI, exchange-rate appreciation, market capitalization and PPP are distinct measures. Model assumptions and unresolved national-source data are tracked in [NCCM V2](../statistics/asthortera-nccm-remodeling.md).
+The 1010-year nominal GDP CAGRs are **alpha ~1.7851937% planetary** and **rho ~2.0360492% Reltronland**, in USD, while **Year 0 canonical planetary nominal GDP ~USD 1.12973806397464 × 10^23** under the 10× Integrated Income-Output Model B is derived from national GDP and 42% Reltronland share. Consumer inflation, GDP deflators, GNI, exchange-rate appreciation, market capitalization and PPP are distinct measures. Model assumptions and unresolved national-source data are tracked in [NCCM V2](../statistics/asthortera-nccm-remodeling.md).
 
 ---
 
@@ -1137,6 +1182,10 @@ Aurethea is the Moon of Dawn, symbolizing clarity, beginning, and the birth of v
 This creates the central Reltroner contrast:
 
 > **The calendar says dawn, but civilization begins staring into the abyss.**
+
+### Year 0 — NCCM V6.5 Ratified Planetary Reconciliation (C)
+
+The modern planet canon has **37 sovereign countries, 4,412 billion people, SDI 0.947, TFR 1.63, real GDP growth 4.00%, and integrated nominal GDP USD 1.129738063975e+23**. The seven donor-destination routes conserve **75B**: Astrostelia **220B to 185B**, Lenternow **214B to 174B**, Scenrepolia **68B to 88B**, Calespia **71B to 91B**, Ethaptoria **59B to 84B**, Krisberia **48B to 58B**. State partition **14 / 5 / 18**, respectively **3,213B / 395B / 804B**. SDI weighted residual for the 18-country group: **0.898402**. All assigned Year 0 numeric values are canon C, including the modeled methods and adopted aggregate residual; separate unassigned national profiles remain open.
 
 ### Year 0 — The Extended-Youth Biological Profile
 

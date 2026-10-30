@@ -7,7 +7,7 @@ tags: ["Country Profile", "Kalgered", "Neutral Diplomacy", "Asthortera", "Stelha
 published: true
 ---
 
-> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Kalgered: **108 billion** residents; **TFR 1.63 (S, national scenario)**; **real GDP growth Year 0 3.69% (S, national scenario)**. The creator-ratified planetary values remain **TFR 1.63**, **real GDP growth 4.00%**, **4,412 billion** residents and **SDI 0.947**. The global TFR calculation is a population-weighted proxy, not a biological cohort census; growth uses GDP-share-weighted calibration. Older V3/V4 figures elsewhere in this profile are historical snapshots, not active Year 0 forecasts. [Current NCCM V6.5 report](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [model data](../../data/asthortera/nccm-v6-active-cross-domain.json).
+> **NCCM V6.5 — Current Year 0 Modeling (2026-10-31).** Kalgered: **108 billion** residents; **TFR 1.63 (C, creator-ratified national canon)**; **real GDP growth Year 0 3.69% (C, creator-ratified national canon)**. The creator-ratified planetary values and this nation's national remodeling rates are canonical: **TFR 1.63**, **real GDP growth 4.00%**, **4,412 billion** residents and **SDI 0.947**. The global TFR calculation is a population-weighted proxy, not a biological cohort census; growth uses GDP-share-weighted calibration. Historical V3/V4 values elsewhere in this profile are **archived**, not current national canon. TFR population-weighting and GDP-share growth aggregation are **ratified C-model conventions**. [Current NCCM V6.5 report](../statistics/asthortera-nccm-v6-active-cross-domain.md) · [model data](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
 ![kalgered1](/images/kalgered1.webp)

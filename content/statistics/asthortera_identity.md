@@ -49,6 +49,51 @@ and:
 
 ---
 
+## NCCM V6.5 — Year 0 canon statistics (C)
+
+**CURRENT YEAR 0 CANON — NCCM V6.5 (creator-ratified on 2026-10-31).** All currently assigned national remodeling values, including the 19 national SDIs, GDP/GNI accounting basis, TFR, real GDP growth, six-way primary ancestry, seven migration routes, foundation dates, and the 18-nation aggregate, have **canon status C**. A mathematically calibrated result is canon **as a defined worldbuilding model value**, not falsely claimed to be an independently observed age-cohort survey or input-output microdata. Previously proposed/unresolved *unassigned* figures are not converted into invented facts. [Current machine ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [NCCM V6.5 full tables](./asthortera-nccm-v6-active-cross-domain.md).
+
+| Planetary and national accounting scope | Canon C |
+|---|---:|
+| Unique sentient population | **4,412 billion (4.412 trillion)** |
+| Sovereign countries | **37** |
+| Original fourteen countries, after migration | **3,213 billion** |
+| Additional five modeled countries, after migration | **395 billion** |
+| Remaining eighteen countries, combined canon residual | **804 billion** |
+| Internal migration, Astrostelia and Lenternow combined | **75 billion people** |
+| Planet SDI | **0.947** |
+| Original fourteen population-weighted SDI | **0.958950** |
+| Additional five population-weighted SDI | **0.948714** |
+| Other eighteen population-weighted SDI | **0.898402** |
+| Year 0 planet TFR | **1.63** |
+| Year 0 planet real GDP growth | **4.00%** |
+| Year 0 annual nominal GDP, Model B 10× | **USD 1.129738063975e+23** |
+| Year 0 annual GNI, adopted zero-net-primary-income bridge | **USD 1.129738063975e+23** |
+| Year 0 median age | **252 years** |
+| Year 0 life expectancy | **475 years** |
+| Year 0 urbanization | **89.5%** |
+| Year 0 annual CPI inflation | **0.33%** |
+
+**Planet primary ancestry — canon six exclusive classes:**
+
+| Primary class | Share (C) | Persons (billions, C) |
+|---|---:|---:|
+| Depeisit | 47.511618% | 2096.213 |
+| Cistheta | 19.859641% | 876.207 |
+| Cosmeilian | 16.210462% | 715.206 |
+| Native Asthorteran | 11.352281% | 500.863 |
+| Phantomkind / Spiritual Hybrid | 2.221411% | 98.009 |
+| Other | 2.844586% | 125.503 |
+| **Total** | **100%** | **4,412** |
+
+These six shares are the creator-adopted **pre-migration 14-country population-weighted representative planet benchmark**. The migration redistributes residents geographically but does not create/destroy sentients or change global primary ancestry. Inclusive mixed lineage is a different, overlapping metric. National ancestry for five added states and individual data for the eighteen remaining countries are still unassigned; these are **open facts**, not alternative active census values.
+
+**Current sovereign foundation chronology (C):** Stelpadland **2882 BAC**; Pencilfania **2732 BAC**; Calespia **2628 BAC**; Ethaptoria **2556 BAC**; Krisberia **2320 BAC, unconditional**; Mapether **2164 BAC**; Lenternow **2072 BAC**; Hargenbor **1984 BAC**; Moreg **1713 BAC**; Pasgerflit **1545 BAC**; Scenrepolia **1234 BAC**; Taramistry **1210 BAC**. Historical settlement, stewardship, resource discovery, and eventual territory-completion dates are different concepts.
+
+**Adopted aggregation methods:** the 19 national TFRs and the single 18-state residual close to planetary **1.63 under a population-weighted proxy**, while real national GDP growth rates close to **4.00% under base-year GDP-share weights**. These methods are part of the canon accounting specification; detailed reproductive cohorts and constant-price national supply-use tables remain prospective research, not grounds to call the approved model noncanon.
+
+---
+
 # 1. 🪐 Core Planetary Identity
 
 Asthortera functions as one of the galaxy's most important modern centers of civilization.
@@ -440,15 +485,7 @@ A civilization may simultaneously contain:
 
 Asthortera is heavily shaped by interstellar migration.
 
-Its **primary-reporting ancestry partition** (one assigned category per sentient, not an all-lineage census) includes:
-
-- **58%** — Humans of Depeisit planetary descent
-- **22%** — Humans of Cistheta planetary descent
-- **10%** — Primary Cosmeilian affiliation (all manifestations, including Cosmeilia-Human mixed)
-- **7%** — Native Asthorteran Human-Wizard-Witch populations
-- **3%** — Other alien humanoids, hybrids, and recognized sentient groups
-
-**Different measurement:** The planet has **37 sovereign countries** and **4.412 trillion unique sentients**. Fourteen country profiles account for **3.288 trillion**, leaving **1.124 trillion** across **23 other countries**. **Inclusive Cosmeilian lineage** unifies Cosmic Races and Cosmeilia-Human mixed across humanoid, fairy, luminous star, comet, light and aurora manifestations; a transforming individual is counted once. **Inclusive native lineage** also includes mixed-heritage sentients. The previously published **10% Cosmeilian primary** and **7% native primary** are **not upper limits** on inclusive lineage counts; country-inclusive subtotals already exceed them. Exact global inclusive shares are **not yet ratified**, and candidate values are not public census claims. See [37-country lineage and Kalgered remodeling](./asthortera-37-country-lineage-and-kalgered-remodeling.md).
+Asthortera's Year 0 **primary** population is counted once in six exclusive, **creator-ratified NCCM V6.5** categories: **Depeisit 47.511618%**, **Cistheta 19.859641%**, **Cosmeilian 16.210462%**, **Native Asthorteran 11.352281%**, **Phantomkind / Spiritual Hybrid 2.221411%**, **Other 2.844586%**. These are the accepted global primary-ancestry model shares, projected from the 3,288B **pre-migration** original fourteen. The **current** census splits the planet into **3,213B (14) + 395B (5) + 804B (18) = 4,412B (37)**. Source populations Astrostelia (220B→185B) and Lenternow (214B→174B) move 75B total to Scenrepolia, Krisberia, Ethaptoria and Calespia; global ancestry and donor SDIs are conserved. Earlier 58/22/10/7/3 five-way shares and the 3,288B+1,124B 14/23 reporting partition are **historical superseded modeling states**, not current Year 0 canon.
 
 Most modern population growth is strongly associated with immigration from outside Asthortera.
 
@@ -463,13 +500,13 @@ This makes Asthortera simultaneously:
 
 ## 13.1 Galactic Descent and the Great Demographic Transition
 
-The **Year 0 creator-ratified ancestry distribution (2026-10-30)** is **58% Depeisit descent (2.55896 trillion), 22% Cistheta descent (970.64 billion), 10% Cosmeilia-Human mixed (441.20 billion), 7% native Asthorteran (308.84 billion), and 3% other sentients (132.36 billion)**. The reporting shares total **100% of the 4.412 trillion** population. These are **ancestry reporting categories, not first-generation immigrant shares or nationality**. Individual ancestry may be mixed; national populations remain distinct from planetary averages.
+**Active Year 0 ancestry:** the six-class V6.5 table above is authoritative (C); five-way V2 ratios are superseded. Asthortera's Year 0 **primary** population is counted once in six exclusive, **creator-ratified NCCM V6.5** categories: **Depeisit 47.511618%**, **Cistheta 19.859641%**, **Cosmeilian 16.210462%**, **Native Asthorteran 11.352281%**, **Phantomkind / Spiritual Hybrid 2.221411%**, **Other 2.844586%**. These are the accepted global primary-ancestry model shares, projected from the 3,288B **pre-migration** original fourteen. The **current** census splits the planet into **3,213B (14) + 395B (5) + 804B (18) = 4,412B (37)**. Source populations Astrostelia (220B→185B) and Lenternow (214B→174B) move 75B total to Scenrepolia, Krisberia, Ethaptoria and Calespia; global ancestry and donor SDIs are conserved. Earlier 58/22/10/7/3 five-way shares and the 3,288B+1,124B 14/23 reporting partition are **historical superseded modeling states**, not current Year 0 canon.
 
 | Indicator | **1010 BAC** | **Year 0** |
 |---|---:|---:|
 | **Planetary SDI** | **0.707** | **0.947** |
 | **Period life expectancy** | **80 years** | **~475 years** |
-| **Annual planetary real economic growth** | **10%** | **7.5%** |
+| **Annual planetary real economic growth** | **10%** | **4.00%** |
 
 **950 BAC:** annual planetary real economic growth reached its **15% peak**. The **1030 BAC** end of open warfare initiated declining inequality pressures, rebuilding and renewed births, while the **1010 BAC Troncut Treaty** accelerated an already-underway economic and demographic recovery. The treaty era marks the historical **minimum planetary income inequality**, followed by a gradual upward Gini trend and declining fertility, immigration intensity and GDP-growth rates toward **780 BAC**. These are planetary tendencies, not identical trends in all countries.
 
@@ -610,7 +647,7 @@ This creates civilization at enormous scale without requiring the erasure of nat
 
 # 16. 🧠 Sentient Development Index
 
-**Canon correction (2026-10-30):** planetary SDI Year 0 is **0.947** for **4.412 trillion sentients** in **37 sovereign countries**. SDI is a combination of **population-average individual capability** and **national enabling-institution quality**, not GDP, ancestry, or one state's ideological aesthetic. All 14 documented national SDIs remain unchanged. Their population-weighted mean is **0.958638**, requiring **0.912955516** across the 1.124 trillion residents in the remaining 23 states if the transparent population-weighted national-composite operator is used. See [SDI V3](./asthortera-sdi-methodology-v3.md); component-weight percentages remain *proposals*.
+**NCCM V6.5 canonical SDI (C):** planetary SDI **0.947** for **4,412 billion** sentients. The fourteen post-migration countries represent **3,213B** with weighted SDI **0.958950202**; five newer states **395B**, weighted SDI **0.948713924**; remaining eighteen states **804B**, combined SDI **0.898401741**. The **60% individual capability / 40% institutional quality** national decomposition is the accepted model. The 18-state SDI is an adopted aggregate, not eighteen fabricated SDIs. All national SDIs remain unchanged by migration. [Full V6.5 model](./asthortera-nccm-v6-active-cross-domain.md).
 
 
 Asthortera's planetary average SDI is:
@@ -645,7 +682,7 @@ It is defined by the attempt to develop **minds, institutions, and civilizations
 |---|---:|---:|
 | **Planetary SDI** | **0.707** | **0.947** |
 | **Period life expectancy** | **80 years** | **~475 years** |
-| **Annual planetary real economic growth** | **10%** | **7.5%** |
+| **Annual planetary real economic growth** | **10%** | **4.00%** |
 
 **950 BAC:** annual planetary real economic growth reached its **15% peak**. The **1030 BAC** end of open warfare initiated declining inequality pressures, rebuilding and renewed births, while the **1010 BAC Troncut Treaty** accelerated an already-underway economic and demographic recovery. The treaty era marks the historical **minimum planetary income inequality**, followed by a gradual upward Gini trend and declining fertility, immigration intensity and GDP-growth rates toward **780 BAC**. These are planetary tendencies, not identical trends in all countries.
 
@@ -1229,7 +1266,7 @@ The following principles should remain stable unless explicitly revised by futur
 
 ### Newly established historical and biological baseline
 
-The latest creator-defined anchors are **1030 BAC ceasefire recovery**, **1010 BAC SDI 0.707 / life expectancy 80 / real GDP growth 10%**, **950 BAC real GDP growth peak 15%**, and **Year 0 SDI 0.947 / life expectancy ~475 / real GDP growth 7.5%**. **CAGR ~0.4%** over 1010 years, **near-4 peak TFR**, **near-3% brief population-growth peak**, and the **55% / 75% extended-youth aging thresholds** are governing reconstruction constraints. Intermediate yearly population, TFR, Gini, medical and SDI curves remain **explicit simulations** unless separately established. **281.25 years** is an age-X model using the 45/76 Earth benchmark and a provisional equal-female-life-expectancy assumption.
+The latest creator-defined anchors are **1030 BAC ceasefire recovery**, **1010 BAC SDI 0.707 / life expectancy 80 / real GDP growth 10%**, **950 BAC real GDP growth peak 15%**, and **Year 0 SDI 0.947 / life expectancy ~475 / real GDP growth 4.00%**. **CAGR ~0.4%** over 1010 years, **near-4 peak TFR**, **near-3% brief population-growth peak**, and the **55% / 75% extended-youth aging thresholds** are governing reconstruction constraints. Intermediate yearly population, TFR, Gini, medical and SDI curves remain **explicit simulations** unless separately established. **281.25 years** is an age-X model using the 45/76 Earth benchmark and a provisional equal-female-life-expectancy assumption.
 
 ---
 

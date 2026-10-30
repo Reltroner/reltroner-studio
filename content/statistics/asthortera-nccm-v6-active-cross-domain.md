@@ -5,7 +5,7 @@ author: "Reltroner Studio"
 date: "2026-10-31"
 lastUpdated: "2026-10-31"
 published: false
-canonStatus: "Active creator-ratified demographic and chronology decisions; modeled national economics and residual aggregates explicitly distinguished from direct observations"
+canonStatus: "C — fully creator-ratified NCCM V6.5 Year 0 numerical model; missing national source observations remain open"
 world: "Asthortera"
 category: "Worldbuilding · Statistics · NCCM V6.5"
 tags: ["Asthortera", "NCCM V6.5", "Demography", "Founding Dates", "Phantomkind", "GDP", "GNI", "SDI", "Ancestry", "Worldbuilding"]
@@ -15,12 +15,18 @@ tags: ["Asthortera", "NCCM V6.5", "Demography", "Founding Dates", "Phantomkind",
 
 **Active machine-readable ledger:** [NCCM V6.5 active data](../../data/asthortera/nccm-v6-active-cross-domain.json). **Chronological source:** [historical timeline](../events/history-timeline.md). **Four pre-sovereign industrial pathways:** [Cosmeilian Stewardship Frontier](../events/cosmeilian-stewardship-four-industrial-foundings.md).
 
+## Active canon authority — retroactive adoption of NCCM V6.5
+
+**Creator decision 2026-10-31:** *every already-assigned current Year 0 remodeling figure is canon (C)*. The status of a number is **not** determined by whether it was first introduced as a working scenario or calculated through a residual constraint. Thus the complete **19-country GDP/SDI/TFR/growth ledger and the 18-country aggregate** are canonical within the accepted 14+5+18 model. This applies also to the population-weighted TFR convention, GDP-weighted real-growth convention and the 60/40 individual/institutional SDI decomposition.
+
+**Not a blanket license to fabricate missing data:** the eighteen countries' *individual* numbers and the five new countries' unsupplied ancestry and geographic values remain open. Canon C is an authorial worldbuilding ratification, not a claim of independent empirical observation. Historical snapshots in V2–V4 remain historical and must not override this active ledger.
+
 ## Version rules and provenance
 
-**C** = directly ratified by creator or established canon, **D** = mathematically derived from stated modeling assumptions, **S** = accepted scenario / numerical working baseline, **O** = not measured or not yet assigned. The same figure may be both creator-approved as a *scenario* and **not** independently measured. Reported figures are **Year 0 unless marked BAC**.
+**C = current creator-ratified canon.** The creator has ratified **all assigned NCCM V6.5 Year 0 remodeling values** including national TFR and real growth, 18-state residual values, 60/40 national SDI component model, 10× GDP/GNI accounting, ancestry, migration and foundations. **C (calculated)** means the canonical value is defined by an explicit aggregation model, not that its underlying cohort census or economic supply-use data have been observed. **O = unassigned**, not zero and not canon. Older **S/D** provenance labels in archives indicate how values were originally obtained; they no longer qualify their **current canon adoption**. All figures are Year 0 unless explicitly dated BAC.
 
 - **V6.3 founding dates:** Lenternow **2072**, Hargenbor **1984**, Moreg **1713**, Pasgerflit **1545**, Taramistry **1210 BAC**, all directly ratified. Earlier **Taramistry 1186 BAC is superseded**.
-- **V6.5 recalibration:** creator-ratified Pencilfania **2732 BAC**, Krisberia **2320 BAC unconditional**, TFR planet **1.63**, and Year 0 real GDP growth **4.00%**; 19 nation scenarios and a single 18-country residual are reconciled.
+- **V6.5 canon C ratification:** creator-ratified Pencilfania **2732 BAC**, Krisberia **2320 BAC unconditional**, TFR planet **1.63**, and Year 0 real GDP growth **4.00%**; 19 canonical national values and one canon C combined 18-country residual are reconciled.
 - **V6.2 demographic conservation:** moved **75B internal residents** from Astrostelia and Lenternow into Scenrepolia, Calespia, Ethaptoria and Krisberia. Counts and per-capita model denominators updated; donor SDIs and six-way percentages kept.
 - **V6.1 income-output:** integrated **10× nominal GDP and GNI** model, national GDP *percentage shares unchanged*. Ceteris paribus zero net foreign primary income is a **scenario**; this is not a claim of 900% CPI inflation.
 - **14-country ancestry proxy:** all six categories are exclusive primary census labels. The creator ratified global projection **using the population-weighted PRE-MIGRATION 14-country baseline (3,288B)**. Migrants retain their ancestry; a new weighted average of the reduced 3,213B donor/country set would incorrectly change planet composition.
@@ -173,30 +179,30 @@ Each individual source nation sums to 100%, independently of the departure volum
 
 ## 5A. Reconciled national TFR — 19 nations and 18-nation residual
 
-**Planet TFR 1.63 is creator-ratified.** The 19 national figures are **S (country scenarios)** and the 18-state balancing variable is **D (derived)**. Population weighting is a temporary *model proxy*, not a biologically exact total fertility rate calculation; true TFR requires age-specific exposure and fertility data across relevant sentient cohorts.
+**Planet TFR 1.63 and all 19 national values are canon C.** The 18-state balancing variable is **C (creator-ratified calculated aggregate)**. Population weighting is a temporary *model proxy*, not a biologically exact total fertility rate calculation; true TFR requires age-specific exposure and fertility data across relevant sentient cohorts.
 
 | National unit | Population (billions) | TFR | Data status |
 |---|---:|---:|---|
-| Reltronland | 855 | 1.15 | S |
-| Depcutland | 343 | 1.32 | S |
-| Kalgered | 108 | 1.63 | S |
-| Aurastelia | 164 | 1.95 | S |
-| Astrostelia | 185 | 1.67 | S |
-| Lenternow | 174 | 1.70 | S |
-| Taramistry | 242 | 1.75 | S |
-| Moreg | 205 | 1.50 | S |
-| Pencilfania | 182 | 1.88 | S |
-| Stelpadland | 141 | 1.63 | S |
-| Pasgerflit | 279 | 1.82 | S |
-| Hargenbor | 133 | 1.86 | S |
-| Beluftner | 91 | 1.80 | S |
-| Cenrestier | 111 | 1.72 | S |
-| Scenrepolia | 88 | 1.66 | S |
-| Krisberia | 58 | 1.72 | S |
-| Mapether | 74 | 1.89 | S |
-| Ethaptoria | 84 | 1.73 | S |
-| Calespia | 91 | 2.01 | S |
-| **Other 18 sovereign states (single aggregate)** | **804** | **1.900697** | **D — residual** |
+| Reltronland | 855 | 1.15 | C |
+| Depcutland | 343 | 1.32 | C |
+| Kalgered | 108 | 1.63 | C |
+| Aurastelia | 164 | 1.95 | C |
+| Astrostelia | 185 | 1.67 | C |
+| Lenternow | 174 | 1.70 | C |
+| Taramistry | 242 | 1.75 | C |
+| Moreg | 205 | 1.50 | C |
+| Pencilfania | 182 | 1.88 | C |
+| Stelpadland | 141 | 1.63 | C |
+| Pasgerflit | 279 | 1.82 | C |
+| Hargenbor | 133 | 1.86 | C |
+| Beluftner | 91 | 1.80 | C |
+| Cenrestier | 111 | 1.72 | C |
+| Scenrepolia | 88 | 1.66 | C |
+| Krisberia | 58 | 1.72 | C |
+| Mapether | 74 | 1.89 | C |
+| Ethaptoria | 84 | 1.73 | C |
+| Calespia | 91 | 2.01 | C |
+| **Other 18 sovereign states (single aggregate)** | **804** | **1.900697** | **C — adopted calculated residual** |
 
 **Mathematical check:** Σ(population × country-TFR proxy) / 4,412 = **1.630000**. The original 14 average is **1.540451** and the five new states average is **1.807418**. Treat species-specific cohort methods as future demographic research, not a reason to falsify the creator-ratified 1.63.
 
@@ -235,30 +241,30 @@ All GDP values are the **integrated V6 nominal 10× scenario**. The country GDP 
 
 ## 6A. Reconciled Year 0 real GDP growth — 4.00% planet
 
-**Planet real GDP growth 4% is creator-ratified, superseding 7.5%.** The 19 national rates are **S (year-one country scenarios)**; the 18-country group is **D (GDP-weighted residual)**. National nominal GDP levels, GDP shares, CPI rates and SDI remain unchanged by the growth recalibration.
+**Planet real GDP growth 4% and all 19 national real-growth figures are canon C**, superseding the 7.5% historical Year 0 model. The 18-state group is **C (creator-ratified GDP-weighted aggregate)**. National nominal GDP levels, GDP shares, CPI rates and SDI remain unchanged by the growth recalibration.
 
 | National unit | GDP share | Real GDP growth Year 0 | Data status |
 |---|---:|---:|---|
-| Reltronland | 42.0000% | 4.01% | S |
-| Depcutland | 9.9834% | 4.01% | S |
-| Kalgered | 2.8011% | 3.69% | S |
-| Aurastelia | 3.6283% | 3.75% | S |
-| Astrostelia | 4.6555% | 4.17% | S |
-| Lenternow | 3.3363% | 3.91% | S |
-| Taramistry | 4.8067% | 4.39% | S |
-| Moreg | 2.8514% | 4.44% | S |
-| Pencilfania | 2.7699% | 3.80% | S |
-| Stelpadland | 2.5455% | 3.64% | S |
-| Pasgerflit | 5.6288% | 4.39% | S |
-| Hargenbor | 1.5579% | 3.58% | S |
-| Beluftner | 0.7461% | 3.32% | S |
-| Cenrestier | 1.1425% | 3.58% | S |
-| Scenrepolia | 1.2710% | 4.25% | S |
-| Krisberia | 0.8449% | 3.90% | S |
-| Mapether | 1.0043% | 4.10% | S |
-| Ethaptoria | 0.9794% | 4.20% | S |
-| Calespia | 1.0934% | 4.00% | S |
-| **Other 18 sovereign states (single aggregate)** | **6.3536%** | **3.688731%** | **D — residual** |
+| Reltronland | 42.0000% | 4.01% | C |
+| Depcutland | 9.9834% | 4.01% | C |
+| Kalgered | 2.8011% | 3.69% | C |
+| Aurastelia | 3.6283% | 3.75% | C |
+| Astrostelia | 4.6555% | 4.17% | C |
+| Lenternow | 3.3363% | 3.91% | C |
+| Taramistry | 4.8067% | 4.39% | C |
+| Moreg | 2.8514% | 4.44% | C |
+| Pencilfania | 2.7699% | 3.80% | C |
+| Stelpadland | 2.5455% | 3.64% | C |
+| Pasgerflit | 5.6288% | 4.39% | C |
+| Hargenbor | 1.5579% | 3.58% | C |
+| Beluftner | 0.7461% | 3.32% | C |
+| Cenrestier | 1.1425% | 3.58% | C |
+| Scenrepolia | 1.2710% | 4.25% | C |
+| Krisberia | 0.8449% | 3.90% | C |
+| Mapether | 1.0043% | 4.10% | C |
+| Ethaptoria | 0.9794% | 4.20% | C |
+| Calespia | 1.0934% | 4.00% | C |
+| **Other 18 sovereign states (single aggregate)** | **6.3536%** | **3.688731%** | **C — adopted calculated residual** |
 
 **Mathematical check:** Σ(national base-year GDP share × real growth) = **4.000000%**. This uses nominal base-year GDP shares as a proxy for consistent constant-price production weights. It does not claim fully measured chained-volume real GDP, and changing a prospective annual growth rate **does not change base-year nominal GDP or nominal GNI**.
 
@@ -409,7 +415,7 @@ Social and political rights attach to sentient persons, not national cultural ar
 
 1. **18 country-specific censuses** remain intentionally deferred by creator decision; the 804B population and aggregate GDP/SDI must always reconcile.
 2. **Five new national primary ancestry profiles** are unmeasured. Migrant cohort ancestry is known by source but pre-existing resident composition is unknown.
-3. **The 10× GDP/GNI uplift** is a creator-approved income-output scenario, but independent sectoral real production, capital, imports, labor, total factor productivity and deflators have not been calibrated.
+3. **The 10× GDP/GNI uplift** is the creator-ratified income-output canon model, but independent sectoral real production, capital, imports, labor, total factor productivity and deflators have not been calibrated.
 4. **Country CPI and social statistics** still include older candidates; **TFR and economic growth now have explicit V6.5 modeled national figures**, plus an 18-country residual, while country-level reproductive cohorts and detailed constant-price output models remain open.
 5. **Kalgered legacy spending brackets total 99%** and lack an authorized one-percentage-point reallocation.
 6. **KRB/KRF and MPT/MWV** local money identifiers still conflict across historical legal and FX proposal documentation.
