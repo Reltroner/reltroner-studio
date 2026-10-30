@@ -182,7 +182,6 @@ Individual dignity must not depend on clothing brand, personal aesthetics, econo
 
 ---
 
-## 7. Economics and textile value addition
 
 ## 7. NCCM V6 integrated economy
 
