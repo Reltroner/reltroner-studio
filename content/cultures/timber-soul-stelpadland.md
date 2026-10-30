@@ -107,6 +107,14 @@ Stelpadland exports:
 
 Each item comes with a *Timber Provenance Leaf* — a wooden tag with sacred lineage and ethical approval.
 
+### NCCM V6.4 — Finished Furniture as a National Productive Industry
+
+The creator-ratified contemporary economy of Stelpadland is powered by **finished furniture, precision wood-processing and durable craft/manufacturing goods**, rather than primarily selling unprocessed timber abroad. Its Timber Soul tradition gives manufacturers a value-added capability: responsible forestry, provenance certification, skilled carpentry, design and production of complete usable furnishings.
+
+**Current public debt is 52% of national GDP** (ratified 2026-10-31), replacing an unratified **42% scenario from the archived V3 comparative model**. A debt ratio does not by itself establish a specific subsidy, investment program or causal link to the furniture sector; detailed annual sector GDP, exports and financing remain unassigned.
+
+[Current Stelpadland national profile](../factions/stelpadland.md) · [Planetary NCCM V6.4 cross-domain ledger](../statistics/asthortera-nccm-v6-active-cross-domain.md)
+
 ---
 
 ## 🌿 Final Thought
