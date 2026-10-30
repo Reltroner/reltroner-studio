@@ -91,7 +91,7 @@ The following elements remain canon and are not removed:
 The final 2026 upgrade adds the following elements:
 
 - **GDP:** $LNR 182 quadrillion.
-- **GDP per Capita:** approximately $LNR 1.11 million.
+- **GDP per Capita:** approximately $LNR 850,467.
 - **Lumen Sovereign Fund:** $LNR 41 trillion in assets.
 - **Sentient Development Index:** 0.935.
 - **Lumen Quality Index:** 9.6 / 10.
@@ -114,18 +114,25 @@ The final 2026 upgrade adds the following elements:
 
 The 2026 macroeconomic figures are corrected for internal mathematical consistency.
 
-Because Lenternow has a population of **214 billion sentient beings**, a GDP per capita of approximately **$1.11 million** requires a national GDP of approximately:
+The **creator-published national anchors** are **214 billion sentients** and **LNR 182 quadrillion annual GDP**. The GDP-per-capita figure is a **derived national statistic**, so it must be recalculated from those two anchors rather than independently set:
 
 ```txt
-214,000,000,000 × $1,110,000 ≈ $182,040,000,000,000,000
+GDP per capita = LNR 182,000,000,000,000,000 / 214,000,000,000
+               ≈ LNR 850,467.2897 per sentient per year
+
+Check: 214,000,000,000 × LNR 1,110,000
+       = LNR 237,540,000,000,000,000 (not LNR 182 quadrillion)
 ```
 
-Therefore, the final canon uses:
+The aligned Year 0 baseline is therefore:
 
 ```txt
-GDP: $182 quadrillion
-GDP per Capita: approximately $1.11 million
+GDP: LNR 182 quadrillion
+Population: 214 billion
+GDP per capita: approximately LNR 850,467 per year
 ```
+
+This P0 arithmetic correction **preserves the GDP and population anchors** without changing Lenternow's high-SDI identity, institutional capabilities, or claims about national prosperity. GDP per capita is **not** disposable personal income, GNI per capita, or daily expenditure.
 
 This preserves the intended scale of Lenternow as a Top 10 Asthorteran economy while avoiding the inconsistency that would occur if GDP remained at only $182 trillion.
 
@@ -168,7 +175,7 @@ This chain defines Lenternow's identity: **light becomes resource, resource beco
 | **Currency** | $LNR — Lenternow Radiance |
 | **Government System** | Bicameral Lenternokratia |
 | **GDP** | $182 quadrillion |
-| **GDP per Capita** | approximately $1.11 million |
+| **GDP per Capita** | approximately $850,467 |
 | **Sovereign Wealth Fund** | Lumen Sovereign Fund — $41 trillion |
 | **Core Economic Identity** | Phosphor innovation, urban light engineering, glow tourism, visual light art, clean energy systems, light intelligence systems |
 | **Sentient Development Index** | 0.935 |
@@ -584,7 +591,7 @@ Lenternow is one of Asthortera's Top 10 economies. Its economic power comes from
 | Metric | Value |
 |---|---:|
 | **GDP** | $LNR 182 quadrillion |
-| **GDP per Capita** | approximately $LNR 1.11 million |
+| **GDP per Capita** | approximately $LNR 850,467 |
 | **Population** | 214 billion sentient beings |
 | **Currency** | $LNR — Lenternow Radiance |
 | **Light-Based Employment** | 82% |
@@ -1593,7 +1600,7 @@ Lenternow's role in Asthortera:
 
 # 32. Final Canon Summary
 
-Lenternow is a high-SDI luminous nation on Asthortera's western/main continent, known as **The Lanternlight Nation**. With a land area of 117 million km², a population of 214 billion sentient beings, a GDP of $182 quadrillion, a GDP per capita of approximately $1.11 million, and a Sentient Development Index of 0.935.
+Lenternow is a high-SDI luminous nation on Asthortera's western/main continent, known as **The Lanternlight Nation**. With a land area of 117 million km², a population of 214 billion sentient beings, a GDP of $182 quadrillion, a GDP per capita of approximately $850,467, and a Sentient Development Index of 0.935.
 
 Its national identity is built around phosphor innovation, lanternlight infrastructure, glow tourism, visual light art, clean energy systems, light intelligence, silent urbanism, glow diplomacy, and spiritual-tech balance.
 
