@@ -690,7 +690,7 @@ The subsequent sovereign foundation chronology is:
 | **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
 | **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
 | **1234** | Scenrepolia | Cistheta-influenced **local** interface and infrastructural discoveries |
-| **1186** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
+| **1210** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
 
 
 These countries did not form a Stelpadian empire, a single colonial system, or a permanent political alliance. Krisberia arose after Aurastelian migration and **only after Aurastelia and Astrostelia had attained 100% of their modern territories** (the proposed 2320 BAC date remains conditional on dating that prerequisite). Mapether came from Beluftner merchant seafarers whose expedition set a distance record; the small settler population decided not to extend toward the more resource-rich future Reltronland region because onward logistical and administrative costs outweighed the benefit. Initial extents were about **4%** of modern Krisberia and **5%** of modern Mapether. Depeisit migration later brought language and 1930s-inspired gangster-chic fashion to Mapether, not its original sovereignty.
