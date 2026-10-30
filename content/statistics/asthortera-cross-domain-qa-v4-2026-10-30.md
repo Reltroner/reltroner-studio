@@ -12,6 +12,8 @@ tags: ["Asthortera", "Phantomkind", "Spiritual Hybrid", "NCCM"]
 
 # NCCM V4 — Cross-Domain QA Findings
 
+> **SUPERSEDED QA REPORT — V4 (historical).** The previous 37-individual-country-census strict-QA failure must not be treated as current canon. The creator-approved current [NCCM V6.4 remodeling ledger](./asthortera-nccm-v6-active-cross-domain.md) recognizes **14 detailed + 5 additional + 18 explicitly deferred** national populations; the bounded 804B residual is transparent and the strict P0 numeric checks remain active. The earlier QA below is preserved for provenance.
+
 **Scope and integrity statement:** The inspected `main` baseline at commit `114db591f1e62d85c84da59b5e1b39d11fb9a5ee` listed **431 Markdown files in `content/`**. The pre-existing V3 audit records manual checks of all **21 faction** files, **19 then-existing statistics** files, and selected historical and philosophical sources; it did **not** conduct full line-by-line semantic review of all content. The [GitHub Actions run 41032754901](https://github.com/Reltroner/reltroner-studio/actions/runs/41032754901) confirmed passing regression tests and completed diagnostic scans but **failed strict QA** on a known 23-country census gap. A fresh run after this V4 modification must validate the revised scripts. Source values below are anchored to the directly inspected ledger/model and relevant country documents.
 
 ## Ratified / invariant facts
