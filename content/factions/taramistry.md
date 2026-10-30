@@ -98,7 +98,7 @@ This chain defines Taramistry's role in Asthortera:
 
 Tachemistria became the national research and administrative center. Present-day Synthetism of Merit, the National Scientific Presidium, the Bioethical Tribunal, and the Public Synthesis Exchange must be interpreted as mature institutions rather than assumed unchanged since foundation.
 
-At the **1125–1121 BAC** reference window, Taramistry held about **45% of its modern 125 million km² territory**, compared with **57% for Scenrepolia** and **76% for Calespia**. These are territorial—not urbanization or demographic—ratios. The **25% primary Cistheta ancestry in the current six-category NCCM ledger** does not imply Cisthetan political control at founding. The broader founding order is Stelpadland (2882), Pencilfania (2694), Calespia (2628), Ethaptoria (2556), Krisberia (2320, conditional), Mapether (2164), Scenrepolia (1234), Taramistry (1210 BAC).
+At the **1125–1121 BAC** reference window, Taramistry held about **45% of its modern 125 million km² territory**, compared with **57% for Scenrepolia** and **76% for Calespia**. These are territorial—not urbanization or demographic—ratios. The **25% primary Cistheta ancestry in the current six-category NCCM ledger** does not imply Cisthetan political control at founding. The broader founding order is Stelpadland (2882), Pencilfania (2694), Calespia (2628), Ethaptoria (2556), Krisberia (2320, conditional), Mapether (2164), Lenternow (2072), Hargenbor (1984), Moreg (1713), Pasgerflit (1545), Scenrepolia (1234), Taramistry (1210 BAC).
 
 ---
 
