@@ -1,11 +1,11 @@
 ---
 title: "Krisberia — The Crystalline Civilization of Craftsmanship"
-description: "A high-development, historically peaceful Eastern Asthorteran nation of crystal materials, precision craft, design ethics and artisan diplomacy, with conditional founding chronology and NCCM V6 sectoral modeling."
+description: "A high-development, historically peaceful Eastern Asthorteran nation of crystal materials, precision craft, design ethics and artisan diplomacy, with unconditionally ratified 2320 BAC founding and NCCM V6 sectoral modeling."
 author: "Reltroner Studio"
 date: "2026-10-30"
 lastUpdated: "2026-10-30"
 published: false
-canonStatus: "Canon historical anchors and NCCM V6 development data, with scenario status and conditional chronology explicitly identified"
+canonStatus: "Canon historical anchors and NCCM V6 development data, with scenario economics and an unconditionally ratified 2320 BAC founding"
 world: "Asthortera"
 continent: "Eastern Continent"
 category: "Worldbuilding · Nations · Eastern Continental Civilizations"
@@ -45,9 +45,9 @@ Krisberia is described in a Reltronland border source as a **crystalline kingdom
 | Position | Southeastern part of Asthortera's **Eastern Continent** |
 | State characterization | **Crystalline kingdom** in existing border lore; formal governmental structure unresolved |
 | Civilizational specialization | Crystal and advanced materials, craftsmanship, high-quality manufacturing and luxury design |
-| Founding reference | **2320 BAC, conditional** |
+| Founding reference | **2320 BAC — creator-ratified, unconditional** |
 | Historical founders | Emigrants from Aurastelia; **not** a statement of current Aurastelian sovereignty |
-| Founding prerequisite | Aurastelia and Astrostelia must have attained **100% of their modern territories before Krisberia's foundation** |
+| Founding prerequisite | **None.** The 2320 BAC date is valid regardless of Aurastelia's or Astrostelia's historical territorial-completion dates. |
 | Initial territorial extent | Approximately **4% of modern area** |
 | Territory at 1125–1121 BAC | Approximately **28% of modern area** |
 | Modern capital | Not established in the inspected sources |
@@ -57,7 +57,7 @@ Krisberia is described in a Reltronland border source as a **crystalline kingdom
 | Currency | **KRF**, scenario; older legal source **KRB** requires explicit reconciliation |
 | Working motto | *Precision Without Vanity. Beauty With Integrity* — proposed |
 
-The conditional **2320 BAC** founding must **not** be labeled unconditionally confirmed. Before ratifying that date, the historical attainment dates for Aurastelia and Astrostelia's full modern territory must be established.
+**Krisberia was founded as a sovereign nation in 2320 BAC, unconditionally ratified by the creator on 2026-10-31.** No prior attainment of 100% territorial extent by Aurastelia or Astrostelia is required. Earlier conditions are superseded, not outstanding.
 
 ---
 
@@ -83,7 +83,7 @@ Geological composition, mineral reserves, mapped deposits, national area, coastl
 
 The Eastern historical expansion notes propose **Kistalia** as a city that could develop from an artisan mineral-processing and trade settlement into a major public-administrative and commercial center of the modern crystal civilization. Its galleries, manufacturing institutes, quality-assurance institutions and craft schools would express Krisberia's transition from migrant settlement to advanced independent nation.
 
-**Status boundary:** Kistalia is a proposed urban development anchor, **not an established constitutional capital**. Its actual founding date, legal jurisdiction, municipality population, and relationship to the country's eventual confirmed capital are open. This proposal does not prematurely ratify the conditional **2320 BAC** national founding.
+**Status boundary:** Kistalia is a proposed urban development anchor, **not an established constitutional capital**. Its actual founding date, legal jurisdiction, municipality population, and relationship to the country's eventual confirmed capital are open. Kistalia's city-specific details remain proposed, while the independent **2320 BAC national founding is unconditionally ratified**.
 
 
 
@@ -97,9 +97,9 @@ Krisberia developed through **Aurastelian emigration**, retaining connections to
 
 However, no source proves that Krisberia became merely an Aurastelian colony or a modern provincial territory. Its independent statehood must be understood separately from its founders' cultural heritage.
 
-### 2320 BAC — proposed founding, conditional
+### 2320 BAC — creator-ratified sovereign founding (unconditional)
 
-The historical chronology proposes **2320 BAC** but sets a nonnegotiable prerequisite: **both Aurastelia and Astrostelia must already have reached their full modern territorial extent**. Until the source dates establishing this prerequisite exist, **2320 remains conditional**.
+**Krisberia's sovereign founding occurred in 2320 BAC.** The creator explicitly removed the historical territorial-completion prerequisite concerning Aurastelia and Astrostelia. Their eventual modern borders are independent historical research questions, not conditions for Krisberia's date.
 
 The proposed founding population initially controlled **4% of the later modern territory**, indicating a limited foothold rather than immediate possession of the entire modern state.
 
@@ -290,7 +290,7 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 
 ## 13. Outstanding national-canon decisions
 
-1. Establish dates when **Aurastelia and Astrostelia attained 100% of modern territory** before finalizing 2320 BAC.
+1. Research the earliest Aurastelian migration and the initial rise of independent Krisberian craft institutions; **2320 BAC is already finalized** and needs no prerequisite.
 2. Name the actual capital, formal government system and the relationship between the kingdom title and constitutional accountability.
 3. Decide whether the national currency is **KRF**, **KRB**, or a documented redenomination/legacy code arrangement.
 4. Create the national six-category ancestry table, species-aware longevity, cohort model and local demographic series.
