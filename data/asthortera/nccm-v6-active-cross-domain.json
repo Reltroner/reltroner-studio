@@ -1,0 +1,952 @@
+{
+  "schema_version": "NCCM-V6.1-active-comparative-ledger",
+  "created_date": "2026-10-31",
+  "scope": "Year 0 Asthortera; user-ratified decisions through 2026-10-30; earlier NCCM V3/V4 data kept as historical ledger not current six-way primary canon",
+  "provenance": {
+    "status": "creator_ratified_macro_architecture_and_ancestry; approved_S_D_baseline; individual_5_nation_numbers_modeled_not_surveyed",
+    "previous_source": "data/asthortera/nccm-v3-14-country-comparative-model.json",
+    "previous_14_source": "data/asthortera/national-cross-domain-audit-2026-10-30.json",
+    "primary_ancestry_rule": "one person exactly one of six primary categories; weighted 14-state census represents 37 states provisionally, residual nations not treated as individually measured",
+    "economic_model": "Integrated Income-Output Uplift B; GDP=production-value-added+product taxes-product subsidies; GNI=GDP+net foreign primary income; zero primary-income bridge is scenario",
+    "gdp_uplift_factor": 10,
+    "unchanged_national_gdp_share": true,
+    "legacy_ratios_58_22_10_7_3": "superseded; never current planet primary distribution",
+    "deferred_18_states": "explicit creator decision to leave 18 separate nations unprofiled; only combined bounded residual is modeled; this is a documented permissible completeness state not an assertion of individual national census",
+    "missing_local_facts": "five new country land area/ancestry/fertility/inflation/gini remain unavailable; no values are fabricated",
+    "legacy_local_fx_ambiguities": "KRB vs KRF (Krisberia) and MPT vs MWV (Mapether) remain unresolved historical code crosswalks"
+  },
+  "planet": {
+    "population_billion": 4412,
+    "sovereign_states": 37,
+    "land_area_million_km2": 4503,
+    "sdi": 0.947,
+    "year0": {
+      "median_age_years": 252,
+      "life_expectancy_years": 475,
+      "urbanization_rate": 0.895,
+      "annual_inflation": 0.0033,
+      "tfr": 1.63,
+      "real_gdp_growth": 0.075,
+      "net_interplanetary_migration": "positive_significant_not_numerically_ratifed",
+      "gdp_usd_annual_V6": 1.12973806397464e+23,
+      "gni_usd_annual_V6_zero_bridge": 1.12973806397464e+23,
+      "gdp_per_capita_usd_V6": 25606030461.8006
+    },
+    "historical_1010_BAC": {
+      "median_age_years": 30,
+      "urbanization_rate": 0.68,
+      "annual_inflation": 0.043,
+      "life_expectancy_years": 80
+    },
+    "ancestry_primary_pct_representative_14_country_weighted": {
+      "depeisit": 47.5116180048662,
+      "cistheta": 19.8596411192214,
+      "cosmeilian": 16.2104622871046,
+      "native": 11.3522810218978,
+      "phantomkind": 2.22141119221411,
+      "other": 2.84458637469586
+    },
+    "ancestry_primary_headcount_billion_representative": {
+      "depeisit": 2096.2125863747,
+      "cistheta": 876.207366180049,
+      "cosmeilian": 715.205596107056,
+      "native": 500.862638686131,
+      "phantomkind": 98.0086618004866,
+      "other": 125.503150851582
+    }
+  },
+  "census": {
+    "profiled_original_14_countries": 14,
+    "profiled_original_14_population_billion": 3288,
+    "new_five_development_countries": 5,
+    "new_five_population_billion": 320,
+    "remaining_deferred_countries": 18,
+    "remaining_deferred_population_billion": 804,
+    "original_23_population_billion": 1124,
+    "original_14_ancestry_headcount_billion": {
+      "depeisit": 1562.182,
+      "cistheta": 652.985,
+      "cosmeilian": 533,
+      "native": 373.263,
+      "phantomkind": 73.04,
+      "other": 93.53
+    },
+    "original_14_population_weighted_sdi": 0.958638077858881,
+    "new_five_population_weighted_sdi": 0.94813125,
+    "remaining_18_required_population_weighted_sdi": 0.898955223880596
+  },
+  "countries_14": [
+    {
+      "name": "Reltronland",
+      "source": "content/factions/reltronland.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 855,
+      "land_area_million_km2": 104,
+      "sdi": 0.984,
+      "sdi_individual_component": 0.978,
+      "sdi_institution_component": 0.993,
+      "ancestry_primary_pct": {
+        "depeisit": 64,
+        "cistheta": 22,
+        "cosmeilian": 4,
+        "native": 5,
+        "phantomkind": 2,
+        "other": 3
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Aerospace, AI, high-rise infrastructure, knowledge systems",
+      "specialization_factor": null,
+      "fx": {
+        "code": "REL",
+        "usd_per_local_unit": 114.26,
+        "status": "existing_REL_reference"
+      },
+      "gdp_planet_share": 0.42,
+      "gdp_usd_annual_V6": 4.7448998686935e+22,
+      "gdp_per_capita_usd_V6": 55495904897,
+      "gni_per_capita_usd_proxy_V6": 55495904897,
+      "income_gini": 0.39,
+      "government_debt_to_gdp": 0.85,
+      "unemployment_rate": 0.015,
+      "annual_inflation": 0.003,
+      "real_gdp_growth": 0.075,
+      "carbon_tonnes_per_capita": 4.3,
+      "urbanization": 0.975,
+      "median_age_years": 254,
+      "life_expectancy_years": 498,
+      "tfr_candidate": 1.13,
+      "education_access_proxy": 0.992,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Depcutland",
+      "source": "content/factions/depcutland.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 343,
+      "land_area_million_km2": 52,
+      "sdi": 0.981,
+      "sdi_individual_component": 0.973,
+      "sdi_institution_component": 0.993,
+      "ancestry_primary_pct": {
+        "depeisit": 79,
+        "cistheta": 10,
+        "cosmeilian": 3,
+        "native": 4,
+        "phantomkind": 2,
+        "other": 2
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Archives, libraries, law, epistemic and financial systems",
+      "specialization_factor": 1.32,
+      "fx": {
+        "code": "DEL",
+        "usd_per_local_unit": 110.6,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0998344629315648,
+      "gdp_usd_annual_V6": 1.12786792870254e+22,
+      "gdp_per_capita_usd_V6": 32882446900.9487,
+      "gni_per_capita_usd_proxy_V6": 32882446900.9487,
+      "income_gini": 0.25,
+      "government_debt_to_gdp": 0.61,
+      "unemployment_rate": 0.017,
+      "annual_inflation": 0.0028,
+      "real_gdp_growth": 0.075,
+      "carbon_tonnes_per_capita": 3.2,
+      "urbanization": 0.96,
+      "median_age_years": 254,
+      "life_expectancy_years": 490,
+      "tfr_candidate": 1.29,
+      "education_access_proxy": 0.989,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Kalgered",
+      "source": "content/factions/kalgered.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 108,
+      "land_area_million_km2": 108,
+      "sdi": 0.979,
+      "sdi_individual_component": 0.9698,
+      "sdi_institution_component": 0.9928,
+      "ancestry_primary_pct": {
+        "depeisit": 40,
+        "cistheta": 10,
+        "cosmeilian": 13,
+        "native": 33,
+        "phantomkind": 2,
+        "other": 2
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Diplomacy, neutral law, finance, data security, medicine",
+      "specialization_factor": 1.2,
+      "fx": {
+        "code": "KAL",
+        "usd_per_local_unit": 105.8,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0280111891770679,
+      "gdp_usd_annual_V6": 3.16453066305282e+21,
+      "gdp_per_capita_usd_V6": 29301209843.0816,
+      "gni_per_capita_usd_proxy_V6": 29301209843.0816,
+      "income_gini": 0.21,
+      "government_debt_to_gdp": 0.45,
+      "unemployment_rate": 0.018,
+      "annual_inflation": 0.0026,
+      "real_gdp_growth": 0.069,
+      "carbon_tonnes_per_capita": 1.3,
+      "urbanization": 0.86,
+      "median_age_years": 254,
+      "life_expectancy_years": 489,
+      "tfr_candidate": 1.6,
+      "education_access_proxy": 0.987,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Aurastelia",
+      "source": "content/factions/aurastelia.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 164,
+      "land_area_million_km2": 433,
+      "sdi": 0.97,
+      "sdi_individual_component": 0.976,
+      "sdi_institution_component": 0.961,
+      "ancestry_primary_pct": {
+        "depeisit": 5,
+        "cistheta": 7,
+        "cosmeilian": 80,
+        "native": 4,
+        "phantomkind": 1,
+        "other": 3
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Cosmeilian culture, wellness, aurora and resonance systems",
+      "specialization_factor": 1.12,
+      "fx": {
+        "code": "ALC",
+        "usd_per_local_unit": 101.4,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0362828933649648,
+      "gdp_usd_annual_V6": 4.09901657055337e+21,
+      "gdp_per_capita_usd_V6": 24994003478.984,
+      "gni_per_capita_usd_proxy_V6": 24994003478.984,
+      "income_gini": 0.23,
+      "government_debt_to_gdp": 0.48,
+      "unemployment_rate": 0.016,
+      "annual_inflation": 0.0024,
+      "real_gdp_growth": 0.07,
+      "carbon_tonnes_per_capita": 1.7,
+      "urbanization": 0.82,
+      "median_age_years": 254,
+      "life_expectancy_years": 485,
+      "tfr_candidate": 1.91,
+      "education_access_proxy": 0.978,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Astrostelia",
+      "source": "content/factions/astrostelia.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 220,
+      "land_area_million_km2": 216,
+      "sdi": 0.957,
+      "sdi_individual_component": 0.9533999999999999,
+      "sdi_institution_component": 0.9623999999999999,
+      "ancestry_primary_pct": {
+        "depeisit": 9,
+        "cistheta": 16,
+        "cosmeilian": 64,
+        "native": 6,
+        "phantomkind": 1,
+        "other": 4
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Cosmology, orbital engineering, interstellar research",
+      "specialization_factor": 1.22,
+      "fx": {
+        "code": "AAC",
+        "usd_per_local_unit": 98.7,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0465547791276159,
+      "gdp_usd_annual_V6": 5.25947060403999e+21,
+      "gdp_per_capita_usd_V6": 23906684563.8181,
+      "gni_per_capita_usd_proxy_V6": 23906684563.8181,
+      "income_gini": 0.28,
+      "government_debt_to_gdp": 0.56,
+      "unemployment_rate": 0.019,
+      "annual_inflation": 0.0037,
+      "real_gdp_growth": 0.078,
+      "carbon_tonnes_per_capita": 2.6,
+      "urbanization": 0.88,
+      "median_age_years": 253,
+      "life_expectancy_years": 480,
+      "tfr_candidate": 1.64,
+      "education_access_proxy": 0.965,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Lenternow",
+      "source": "content/factions/lenternow.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 214,
+      "land_area_million_km2": 117,
+      "sdi": 0.935,
+      "sdi_individual_component": 0.9334,
+      "sdi_institution_component": 0.9374,
+      "ancestry_primary_pct": {
+        "depeisit": 25,
+        "cistheta": 28,
+        "cosmeilian": 38,
+        "native": 5,
+        "phantomkind": 2,
+        "other": 2
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Light engineering, phosphor resources, luminance exports",
+      "specialization_factor": 1.12,
+      "fx": {
+        "code": "LNR",
+        "usd_per_local_unit": 68.2,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0333632822095885,
+      "gdp_usd_annual_V6": 3.76917698513002e+21,
+      "gdp_per_capita_usd_V6": 17612976566.0281,
+      "gni_per_capita_usd_proxy_V6": 17612976566.0281,
+      "income_gini": 0.31,
+      "government_debt_to_gdp": 0.57,
+      "unemployment_rate": 0.022,
+      "annual_inflation": 0.0035,
+      "real_gdp_growth": 0.073,
+      "carbon_tonnes_per_capita": 2.1,
+      "urbanization": 0.92,
+      "median_age_years": 251,
+      "life_expectancy_years": 470,
+      "tfr_candidate": 1.67,
+      "education_access_proxy": 0.9430000000000001,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Taramistry",
+      "source": "content/factions/taramistry.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 242,
+      "land_area_million_km2": 125,
+      "sdi": 0.954,
+      "sdi_individual_component": 0.9496,
+      "sdi_institution_component": 0.9606,
+      "ancestry_primary_pct": {
+        "depeisit": 54,
+        "cistheta": 25,
+        "cosmeilian": 12,
+        "native": 5,
+        "phantomkind": 2,
+        "other": 2
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Biotechnology, medicine, chemistry, applied research",
+      "specialization_factor": 1.18,
+      "fx": {
+        "code": "TAR",
+        "usd_per_local_unit": 99.4,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0480673630784528,
+      "gdp_usd_annual_V6": 5.43035297046174e+21,
+      "gdp_per_capita_usd_V6": 22439475084.5527,
+      "gni_per_capita_usd_proxy_V6": 22439475084.5527,
+      "income_gini": 0.32,
+      "government_debt_to_gdp": 0.68,
+      "unemployment_rate": 0.021,
+      "annual_inflation": 0.0041,
+      "real_gdp_growth": 0.082,
+      "carbon_tonnes_per_capita": 4.9,
+      "urbanization": 0.9,
+      "median_age_years": 252,
+      "life_expectancy_years": 478,
+      "tfr_candidate": 1.72,
+      "education_access_proxy": 0.962,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Moreg",
+      "source": "content/factions/moreg.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 205,
+      "land_area_million_km2": 79,
+      "sdi": 0.931,
+      "sdi_individual_component": 0.9286000000000001,
+      "sdi_institution_component": 0.9346000000000001,
+      "ancestry_primary_pct": {
+        "depeisit": 43,
+        "cistheta": 30,
+        "cosmeilian": 13,
+        "native": 10,
+        "phantomkind": 2,
+        "other": 2
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Automotive engineering, roads, transport mobility",
+      "specialization_factor": 1.04,
+      "fx": {
+        "code": "MG",
+        "usd_per_local_unit": 53.6,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0285136224046994,
+      "gdp_usd_annual_V6": 3.2212924572389e+21,
+      "gdp_per_capita_usd_V6": 15713621742.6288,
+      "gni_per_capita_usd_proxy_V6": 15713621742.6288,
+      "income_gini": 0.33,
+      "government_debt_to_gdp": 0.65,
+      "unemployment_rate": 0.023,
+      "annual_inflation": 0.0037,
+      "real_gdp_growth": 0.083,
+      "carbon_tonnes_per_capita": 5.4,
+      "urbanization": 0.93,
+      "median_age_years": 251,
+      "life_expectancy_years": 468,
+      "tfr_candidate": 1.47,
+      "education_access_proxy": 0.9390000000000001,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Pencilfania",
+      "source": "content/factions/pencilfania.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 182,
+      "land_area_million_km2": 166,
+      "sdi": 0.94,
+      "sdi_individual_component": 0.9443999999999999,
+      "sdi_institution_component": 0.9333999999999999,
+      "ancestry_primary_pct": {
+        "depeisit": 55,
+        "cistheta": 23,
+        "cosmeilian": 14,
+        "native": 3,
+        "phantomkind": 2,
+        "other": 3
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Creative education, animation, design, visual literacy",
+      "specialization_factor": 1.04,
+      "fx": {
+        "code": "PNL",
+        "usd_per_local_unit": 73.8,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0276985110801536,
+      "gdp_usd_annual_V6": 3.1292062282673e+21,
+      "gdp_per_capita_usd_V6": 17193440814.6555,
+      "gni_per_capita_usd_proxy_V6": 17193440814.6555,
+      "income_gini": 0.29,
+      "government_debt_to_gdp": 0.53,
+      "unemployment_rate": 0.02,
+      "annual_inflation": 0.0032,
+      "real_gdp_growth": 0.071,
+      "carbon_tonnes_per_capita": 2.2,
+      "urbanization": 0.84,
+      "median_age_years": 252,
+      "life_expectancy_years": 472,
+      "tfr_candidate": 1.84,
+      "education_access_proxy": 0.948,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Stelpadland",
+      "source": "content/factions/stelpadland.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 141,
+      "land_area_million_km2": 200,
+      "sdi": 0.961,
+      "sdi_individual_component": 0.9638,
+      "sdi_institution_component": 0.9568,
+      "ancestry_primary_pct": {
+        "depeisit": 50,
+        "cistheta": 20,
+        "cosmeilian": 6,
+        "native": 18,
+        "phantomkind": 4,
+        "other": 2
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Scouting, forestry, experiential learning, timber",
+      "specialization_factor": 1,
+      "fx": {
+        "code": "ST",
+        "usd_per_local_unit": 83.3,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0254549736012292,
+      "gdp_usd_annual_V6": 2.87574525947783e+21,
+      "gdp_per_capita_usd_V6": 20395356450.1974,
+      "gni_per_capita_usd_proxy_V6": 20395356450.1974,
+      "income_gini": 0.24,
+      "government_debt_to_gdp": 0.42,
+      "unemployment_rate": 0.018,
+      "annual_inflation": 0.0027,
+      "real_gdp_growth": 0.068,
+      "carbon_tonnes_per_capita": 1.2,
+      "urbanization": 0.73,
+      "median_age_years": 253,
+      "life_expectancy_years": 481,
+      "tfr_candidate": 1.6,
+      "education_access_proxy": 0.969,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Pasgerflit",
+      "source": "content/factions/pasgerflit.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 279,
+      "land_area_million_km2": 72,
+      "sdi": 0.949,
+      "sdi_individual_component": 0.9461999999999999,
+      "sdi_institution_component": 0.9531999999999999,
+      "ancestry_primary_pct": {
+        "depeisit": 60,
+        "cistheta": 21,
+        "cosmeilian": 5,
+        "native": 6,
+        "phantomkind": 2,
+        "other": 6
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Aviation, airports, airspace, interstellar transit",
+      "specialization_factor": 1.26,
+      "fx": {
+        "code": "PAS",
+        "usd_per_local_unit": 91.9,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0562876281699696,
+      "gdp_usd_annual_V6": 6.3590276074466e+21,
+      "gdp_per_capita_usd_V6": 22792213646.762,
+      "gni_per_capita_usd_proxy_V6": 22792213646.762,
+      "income_gini": 0.32,
+      "government_debt_to_gdp": 0.63,
+      "unemployment_rate": 0.02,
+      "annual_inflation": 0.0036,
+      "real_gdp_growth": 0.082,
+      "carbon_tonnes_per_capita": 3.7,
+      "urbanization": 0.945,
+      "median_age_years": 252,
+      "life_expectancy_years": 476,
+      "tfr_candidate": 1.78,
+      "education_access_proxy": 0.957,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Hargenbor",
+      "source": "content/factions/hargenbor.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 133,
+      "land_area_million_km2": 39,
+      "sdi": 0.925,
+      "sdi_individual_component": 0.9298000000000001,
+      "sdi_institution_component": 0.9178000000000001,
+      "ancestry_primary_pct": {
+        "depeisit": 41,
+        "cistheta": 40,
+        "cosmeilian": 6,
+        "native": 8,
+        "phantomkind": 3,
+        "other": 2
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Maritime trade, ports, aquaculture, undersea engineering",
+      "specialization_factor": 0.93,
+      "fx": {
+        "code": "HB",
+        "usd_per_local_unit": 44.2,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0155790910089852,
+      "gdp_usd_annual_V6": 1.76002921149757e+21,
+      "gdp_per_capita_usd_V6": 13233302342.087,
+      "gni_per_capita_usd_proxy_V6": 13233302342.087,
+      "income_gini": 0.37,
+      "government_debt_to_gdp": 0.74,
+      "unemployment_rate": 0.029,
+      "annual_inflation": 0.0045,
+      "real_gdp_growth": 0.067,
+      "carbon_tonnes_per_capita": 3.1,
+      "urbanization": 0.875,
+      "median_age_years": 251,
+      "life_expectancy_years": 465,
+      "tfr_candidate": 1.82,
+      "education_access_proxy": 0.933,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Beluftner",
+      "source": "content/factions/beluftner.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 91,
+      "land_area_million_km2": 88,
+      "sdi": 0.896,
+      "sdi_individual_component": 0.902,
+      "sdi_institution_component": 0.887,
+      "ancestry_primary_pct": {
+        "depeisit": 0.2,
+        "cistheta": 0.5,
+        "cosmeilian": 2,
+        "native": 90.3,
+        "phantomkind": 6,
+        "other": 1
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Arcane education, magical agriculture, spiritual heritage",
+      "specialization_factor": 0.87,
+      "fx": {
+        "code": "BLF",
+        "usd_per_local_unit": 22,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.00746144204446764,
+      "gdp_usd_annual_V6": 842947508977587000000,
+      "gdp_per_capita_usd_V6": 9263159439.31414,
+      "gni_per_capita_usd_proxy_V6": 9263159439.31414,
+      "income_gini": 0.28,
+      "government_debt_to_gdp": 0.44,
+      "unemployment_rate": 0.033,
+      "annual_inflation": 0.0048,
+      "real_gdp_growth": 0.062,
+      "carbon_tonnes_per_capita": 1.6,
+      "urbanization": 0.72,
+      "median_age_years": 249,
+      "life_expectancy_years": 452,
+      "tfr_candidate": 1.76,
+      "education_access_proxy": 0.904,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    },
+    {
+      "name": "Cenrestier",
+      "source": "content/factions/cenrestier.md",
+      "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
+      "population_billion": 111,
+      "land_area_million_km2": 102,
+      "sdi": 0.911,
+      "sdi_individual_component": 0.907,
+      "sdi_institution_component": 0.917,
+      "ancestry_primary_pct": {
+        "depeisit": 7,
+        "cistheta": 8,
+        "cosmeilian": 7,
+        "native": 70,
+        "phantomkind": 5,
+        "other": 3
+      },
+      "ancestry_status": "creator_approved_six_category_primary",
+      "specialization": "Fortress maintenance, constitutional law, history, archives",
+      "specialization_factor": 0.94,
+      "fx": {
+        "code": "CE",
+        "usd_per_local_unit": 62.8,
+        "status": "approved_scenario_fx"
+      },
+      "gdp_planet_share": 0.0114250242291777,
+      "gdp_usd_annual_V6": 1.29072847535346e+21,
+      "gdp_per_capita_usd_V6": 11628184462.6438,
+      "gni_per_capita_usd_proxy_V6": 11628184462.6438,
+      "income_gini": 0.3,
+      "government_debt_to_gdp": 0.59,
+      "unemployment_rate": 0.027,
+      "annual_inflation": 0.0034,
+      "real_gdp_growth": 0.067,
+      "carbon_tonnes_per_capita": 2.6,
+      "urbanization": 0.81,
+      "median_age_years": 250,
+      "life_expectancy_years": 459,
+      "tfr_candidate": 1.69,
+      "education_access_proxy": 0.919,
+      "reference_status": "legacy_national_economic_and_social_statistics_preserved_as_profile_or_scenario; new_V6_gdp_is_10x_target"
+    }
+  ],
+  "countries_5": [
+    {
+      "name": "Scenrepolia",
+      "source": "content/factions/scenrepolia.md",
+      "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
+      "population_billion": 68,
+      "sdi": 0.956,
+      "sdi_individual_component": 0.954,
+      "sdi_institution_component": 0.959,
+      "specialization": "Electromagnetism; induction and materials",
+      "specialization_factor": 1.23,
+      "country_specific_ancestry_status": "not_ratifed",
+      "land_area_million_km2": null,
+      "median_age_years": null,
+      "tfr": null,
+      "annual_inflation": null,
+      "fx": {
+        "code": "SCI",
+        "usd_per_local_unit": 94.3,
+        "status": "approved_scenario_fx; legacy_crosswalk_open_if_applicable"
+      },
+      "gdp_planet_share": 0.012709659476921,
+      "gdp_usd_annual_V6": 1.43585860912337e+21,
+      "gdp_per_capita_usd_V6": 21115567781.2261,
+      "gni_per_capita_usd_proxy_V6": 21115567781.2261,
+      "sectors_value_added_pct": [
+        {
+          "sector": "Field systems and infrastructure",
+          "share": 38
+        },
+        {
+          "sector": "Magnetic materials and precision components",
+          "share": 23
+        },
+        {
+          "sector": "Research education and testing",
+          "share": 17
+        },
+        {
+          "sector": "Trade and technical services",
+          "share": 15
+        },
+        {
+          "sector": "Other sectors",
+          "share": 7
+        }
+      ]
+    },
+    {
+      "name": "Krisberia",
+      "source": "content/factions/krisberia.md",
+      "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
+      "population_billion": 48,
+      "sdi": 0.955,
+      "sdi_individual_component": 0.956,
+      "sdi_institution_component": 0.9535,
+      "specialization": "Crystal craftsmanship and advanced materials",
+      "specialization_factor": 1.17,
+      "country_specific_ancestry_status": "not_ratifed",
+      "land_area_million_km2": null,
+      "median_age_years": null,
+      "tfr": null,
+      "annual_inflation": null,
+      "fx": {
+        "code": "KRF",
+        "usd_per_local_unit": 86.2,
+        "status": "approved_scenario_fx; legacy_crosswalk_open_if_applicable"
+      },
+      "gdp_planet_share": 0.00844897538880747,
+      "gdp_usd_annual_V6": 954512909832075000000,
+      "gdp_per_capita_usd_V6": 19885685621.5016,
+      "gni_per_capita_usd_proxy_V6": 19885685621.5016,
+      "sectors_value_added_pct": [
+        {
+          "sector": "Advanced crystals and materials",
+          "share": 35
+        },
+        {
+          "sector": "Craftsmanship and luxury goods",
+          "share": 27
+        },
+        {
+          "sector": "Design and research",
+          "share": 18
+        },
+        {
+          "sector": "Finance and professional services",
+          "share": 14
+        },
+        {
+          "sector": "Other sectors",
+          "share": 6
+        }
+      ]
+    },
+    {
+      "name": "Mapether",
+      "source": "content/factions/mapether.md",
+      "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
+      "population_billion": 74,
+      "sdi": 0.937,
+      "sdi_individual_component": 0.94,
+      "sdi_institution_component": 0.9325,
+      "specialization": "Fashion and textiles",
+      "specialization_factor": 1.08,
+      "country_specific_ancestry_status": "not_ratifed",
+      "land_area_million_km2": null,
+      "median_age_years": null,
+      "tfr": null,
+      "annual_inflation": null,
+      "fx": {
+        "code": "MWV",
+        "usd_per_local_unit": 77.6,
+        "status": "approved_scenario_fx; legacy_crosswalk_open_if_applicable"
+      },
+      "gdp_planet_share": 0.0100429063842716,
+      "gdp_usd_annual_V6": 1.13458536152455e+21,
+      "gdp_per_capita_usd_V6": 15332234615.1967,
+      "gni_per_capita_usd_proxy_V6": 15332234615.1967,
+      "sectors_value_added_pct": [
+        {
+          "sector": "Textiles and smart fabrics",
+          "share": 34
+        },
+        {
+          "sector": "Garments and fashion",
+          "share": 25
+        },
+        {
+          "sector": "Logistics and commerce",
+          "share": 20
+        },
+        {
+          "sector": "Services and design",
+          "share": 15
+        },
+        {
+          "sector": "Other sectors",
+          "share": 6
+        }
+      ]
+    },
+    {
+      "name": "Ethaptoria",
+      "source": "content/factions/ethaptoria.md",
+      "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
+      "population_billion": 59,
+      "sdi": 0.95,
+      "sdi_individual_component": 0.953,
+      "sdi_institution_component": 0.9455,
+      "specialization": "Combinatorial education and puzzle simulation",
+      "specialization_factor": 1.16,
+      "country_specific_ancestry_status": "not_ratifed",
+      "land_area_million_km2": null,
+      "median_age_years": null,
+      "tfr": null,
+      "annual_inflation": null,
+      "fx": {
+        "code": "EPT",
+        "usd_per_local_unit": 61.4,
+        "status": "approved_scenario_fx; legacy_crosswalk_open_if_applicable"
+      },
+      "gdp_planet_share": 0.00979427339628284,
+      "gdp_usd_annual_V6": 1.10649634647549e+21,
+      "gdp_per_capita_usd_V6": 18754175363.9914,
+      "gni_per_capita_usd_proxy_V6": 18754175363.9914,
+      "sectors_value_added_pct": [
+        {
+          "sector": "Logic software and simulation",
+          "share": 32
+        },
+        {
+          "sector": "Education and cognitive tools",
+          "share": 28
+        },
+        {
+          "sector": "Electronics and research",
+          "share": 20
+        },
+        {
+          "sector": "Experience and professional services",
+          "share": 13
+        },
+        {
+          "sector": "Other sectors",
+          "share": 7
+        }
+      ]
+    },
+    {
+      "name": "Calespia",
+      "source": "content/factions/calespia.md",
+      "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
+      "population_billion": 71,
+      "sdi": 0.946,
+      "sdi_individual_component": 0.948,
+      "sdi_institution_component": 0.943,
+      "specialization": "Agribiotechnology gastronomy and food science",
+      "specialization_factor": 1.12,
+      "country_specific_ancestry_status": "not_ratifed",
+      "land_area_million_km2": null,
+      "median_age_years": null,
+      "tfr": null,
+      "annual_inflation": null,
+      "fx": {
+        "code": "CAL",
+        "usd_per_local_unit": 71.2,
+        "status": "approved_scenario_fx; legacy_crosswalk_open_if_applicable"
+      },
+      "gdp_planet_share": 0.0109336914513842,
+      "gdp_usd_annual_V6": 1.23522074123829e+21,
+      "gdp_per_capita_usd_V6": 17397475228.7083,
+      "gni_per_capita_usd_proxy_V6": 17397475228.7083,
+      "sectors_value_added_pct": [
+        {
+          "sector": "Agribiotechnology and agricultural science",
+          "share": 31
+        },
+        {
+          "sector": "Food processing",
+          "share": 26
+        },
+        {
+          "sector": "Gastronomy and tourism",
+          "share": 21
+        },
+        {
+          "sector": "Logistics and services",
+          "share": 15
+        },
+        {
+          "sector": "Other sectors",
+          "share": 7
+        }
+      ]
+    }
+  ],
+  "aggregate_remaining_18": {
+    "state_count": 18,
+    "population_billion": 804,
+    "sdi_population_weighted_required": 0.898955223880596,
+    "gdp_planet_share": 0.063536231474396,
+    "gdp_usd_annual_V6": 7.17792991381289e+21,
+    "gdp_per_capita_usd_V6": 8927773524.64289,
+    "individual_country_data": "explicitly deferred by creator",
+    "ancestry_primary_pct_by_country": null
+  },
+  "open_issues": [
+    {
+      "severity": "P1",
+      "code": "DEFERRED_18_COUNTRY_CENSUS",
+      "description": "18 individual country census, SDI and sector values not yet allocated; bounded residual reconciles planet"
+    },
+    {
+      "severity": "P1",
+      "code": "SOURCE_MIGRATION_V4_V6",
+      "description": "V3/V4 historical JSON and many content paragraphs still carry superseded five-way ratios or 14-state ancestry; active V6 ledger is newest decision, broad editorial migration remains pending"
+    },
+    {
+      "severity": "P1",
+      "code": "GDP_SECTOR_VALIDATION",
+      "description": "sector GDP value added targets require bottom-up capital/labor/trade calibration, no double counting"
+    },
+    {
+      "severity": "P1",
+      "code": "FX_LOCAL_CODE_CROSSWALK",
+      "description": "KRB/KRF and MPT/MWV historical currency codes not resolved"
+    },
+    {
+      "severity": "P1",
+      "code": "NATIONAL_ANCESTRY_NEW_FIVE_UNASSIGNED",
+      "description": "planet representation 14-based is not separate census of each new state"
+    },
+    {
+      "severity": "P1",
+      "code": "KALGERED_SPENDING_99_PERCENT",
+      "description": "legacy 99% spending strata still lacks creator approved reclassification"
+    },
+    {
+      "severity": "P2",
+      "code": "EMPTY_CONTENT_STUBS",
+      "description": "two existing blank Markdown files outside current country-profile scope"
+    }
+  ]
+}
