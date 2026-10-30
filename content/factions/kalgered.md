@@ -237,6 +237,10 @@ A **NONCANONICAL Kalgered V1 remodeling candidate** proposes a complete **2% / 1
 
 # ⚙️ Economy
 
+### Growth Interpretation Across 1010 BAC–Year 0
+
+Kalgered's economic rise is linked to historically established diplomatic neutrality, professional protocol, financial custody, scientific partnerships, and the stabilization of intergovernmental coordination. The **1010 BAC Troncut Treaty**, **950 BAC planetary real-growth peak (15%)**, and later **197–29 BAC space governance transitions** are narrative constraints, **not a formula to apply 7% growth to every Kalgeredian year**. A **3.0% annual real CAGR for the last 100 years** is a noncanonical calibration candidate; 7% remains a plausible **specific-year growth episode** during high productivity gains. NCCM V3's **Year 0 real GDP growth of 6.9%** is also a scenario, not published observational national accounts. The planet's Year 0 7.5% single-year real growth and long-run nominal USD GDP CAGR must remain separate.
+
 ## Main Economic Sectors
 
 -   Financial & Banking Services
@@ -251,7 +255,7 @@ A **NONCANONICAL Kalgered V1 remodeling candidate** proposes a complete **2% / 1
 > **"Neutral Ground, Boundless Progress."**
 
 -   **Gini Coefficient:** 0.21
--   **Annual Economic Growth:** 7% (last 100 years average)
+-   **Growth history (reconciled):** 7% real GDP growth represents episodic high-output innovation years, **not an unchanged 100-year annual average**. NCCM V3 proposes **3.0% real CAGR over the last 100 years as a scenario candidate**; the complete historical annual series and GDP deflators are not yet independently calibrated.
 -   **National Debt:** 45% of GDP
 -   **CO₂ Emissions per Capita:** 1.3 metric tons
 -   **GNI per Capita:** KAL17,956,408
