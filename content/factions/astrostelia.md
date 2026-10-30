@@ -22,6 +22,9 @@ tags:
   ]
 ---
 
+> **Cross-country founding continuity (creator-ratified 2026-10-31):** The independent aviation country **Pasgerflit was founded in 1545 BAC** following a large Astrostelian fleet's emergency landing on its sparsely settled future territory. A cascading failure in spacecraft landing-support infrastructure prompted the deliberately simpler, modular atmospheric-aviation engineering program that later seeded Pasgerflit's aviation economy. This does **not** make Pasgerflit a province of Astrostelia, nor does it make 1545 BAC the beginning of spaceflight on Asthortera. [Full founding synthesis](../events/cosmeilian-stewardship-four-industrial-foundings.md).
+
+
 > **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **185 billion** resident sentients (previously **220 billion**); 10B to Scenrepolia; 10B to Calespia; 15B to Ethaptoria. National SDI remains **0.957**. The donor's six primary ancestry percentages remain unchanged; exported cohorts preserve these source proportions. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 28.430 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
 
 
