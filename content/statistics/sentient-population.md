@@ -38,11 +38,13 @@ This document provides a detailed overview of the sentient population structures
 ---
 
 ## 🌠 **Planet Cosmeilia**
+
+The following composition follows the planet-specific [Cosmeilia Identity](./cosmeilia_identity.md), the canonical source for this planet's census. This corrects the global summary's conflicting group weights without changing its 3.7 trillion total population.
 - **Dominant Population:** Cosmeilia-Human (cosmic aesthetic sentient lineage)
 - **Total Sentient Population:** **~3.7 trillion**
 - **Composition:**
-  - 70% Cosmeilia-Human
-  - 20% Others Cosmeilian Sentients
+  - 85% Cosmeilia-Human
+  - 5% Other Cosmeilian Sentients
   - 4% Immigrants from Asthortera
   - 3% Immigrants from Depeisit
   - 2% Immigrants from Cistheta
