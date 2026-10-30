@@ -19,6 +19,13 @@
     "candidate_component_weights": {
       "individual_mean": 0.6,
       "institutional_quality": 0.4
+    },
+    "ancestry_v4_overlay": {
+      "beluftner_phantomkind_pct": 6,
+      "known_phantomkind_primary_billion": 5.46,
+      "cosmeilian_14_source_billion": 535.2,
+      "other_13_phantomkind_primary_percent": "unknown_not_zero",
+      "planet_six_category_primary": "not_ratified"
     }
   },
   "calibration": {
@@ -61,9 +68,11 @@
           "cistheta": 22,
           "cosmeilia_or_mixed": 4,
           "native": 5,
-          "other_or_unclassified": 3
+          "other_or_unclassified": 3,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.984
+        "sdi_national": 0.984,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Aerospace, AI, high-rise infrastructure, knowledge systems",
@@ -166,9 +175,11 @@
           "cistheta": 10,
           "cosmeilia_or_mixed": 3,
           "native": 4,
-          "other_or_unclassified": 2
+          "other_or_unclassified": 2,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.981
+        "sdi_national": 0.981,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Archives, libraries, law, epistemic and financial systems",
@@ -271,9 +282,11 @@
           "cistheta": 10,
           "cosmeilia_or_mixed": 13,
           "native": 35,
-          "other_or_unclassified": 2
+          "other_or_unclassified": 2,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.979
+        "sdi_national": 0.979,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Diplomacy, neutral law, finance, data security, medicine",
@@ -376,9 +389,11 @@
           "cistheta": 7,
           "cosmeilia_or_mixed": 80,
           "native": 4,
-          "other_or_unclassified": 4
+          "other_or_unclassified": 4,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.97
+        "sdi_national": 0.97,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Cosmeilian culture, wellness, aurora and resonance systems",
@@ -481,9 +496,11 @@
           "cistheta": 16,
           "cosmeilia_or_mixed": 65,
           "native": 6,
-          "other_or_unclassified": 4
+          "other_or_unclassified": 4,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.957
+        "sdi_national": 0.957,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Cosmology, orbital engineering, interstellar research",
@@ -586,9 +603,11 @@
           "cistheta": 29,
           "cosmeilia_or_mixed": 38,
           "native": 5,
-          "other_or_unclassified": 2
+          "other_or_unclassified": 2,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.935
+        "sdi_national": 0.935,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Light engineering, phosphor resources, luminance exports",
@@ -691,9 +710,11 @@
           "cistheta": 25,
           "cosmeilia_or_mixed": 12,
           "native": 5,
-          "other_or_unclassified": 4
+          "other_or_unclassified": 4,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.954
+        "sdi_national": 0.954,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Biotechnology, medicine, chemistry, applied research",
@@ -796,9 +817,11 @@
           "cistheta": 30,
           "cosmeilia_or_mixed": 13,
           "native": 10,
-          "other_or_unclassified": 2
+          "other_or_unclassified": 2,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.931
+        "sdi_national": 0.931,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Automotive engineering, roads, transport mobility",
@@ -901,9 +924,11 @@
           "cistheta": 23,
           "cosmeilia_or_mixed": 14,
           "native": 3,
-          "other_or_unclassified": 4
+          "other_or_unclassified": 4,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.94
+        "sdi_national": 0.94,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Creative education, animation, design, visual literacy",
@@ -1006,9 +1031,11 @@
           "cistheta": 22,
           "cosmeilia_or_mixed": 6,
           "native": 18,
-          "other_or_unclassified": 2
+          "other_or_unclassified": 2,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.961
+        "sdi_national": 0.961,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Scouting, forestry, experiential learning, timber",
@@ -1111,9 +1138,11 @@
           "cistheta": 21,
           "cosmeilia_or_mixed": 5,
           "native": 6,
-          "other_or_unclassified": 6
+          "other_or_unclassified": 6,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.949
+        "sdi_national": 0.949,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Aviation, airports, airspace, interstellar transit",
@@ -1216,9 +1245,11 @@
           "cistheta": 40,
           "cosmeilia_or_mixed": 6,
           "native": 8,
-          "other_or_unclassified": 2
+          "other_or_unclassified": 2,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.925
+        "sdi_national": 0.925,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Maritime trade, ports, aquaculture, undersea engineering",
@@ -1319,11 +1350,13 @@
         "ancestry_primary_pct": {
           "depeisit": 0.2,
           "cistheta": 0.5,
-          "cosmeilia_or_mixed": 7,
+          "cosmeilia_or_mixed": 2,
           "native": 90.3,
-          "other_or_unclassified": 2
+          "other_or_unclassified": 1,
+          "phantomkind_or_spiritual_hybrid": 6
         },
-        "sdi_national": 0.896
+        "sdi_national": 0.896,
+        "ancestry_taxonomy_status": "new_six_way_ratifed"
       },
       "narrative": {
         "specialization": "Arcane education, magical agriculture, spiritual heritage",
@@ -1426,9 +1459,11 @@
           "cistheta": 8,
           "cosmeilia_or_mixed": 7,
           "native": 73,
-          "other_or_unclassified": 5
+          "other_or_unclassified": 5,
+          "phantomkind_or_spiritual_hybrid": null
         },
-        "sdi_national": 0.911
+        "sdi_national": 0.911,
+        "ancestry_taxonomy_status": "legacy_five_way_phantomkind_unknown_not_zero"
       },
       "narrative": {
         "specialization": "Fortress maintenance, constitutional law, history, archives",
@@ -1540,6 +1575,7 @@
     "National longevity/cohort calibration, median of medians is invalid",
     "All 23 remaining sovereign state entries not yet sourced",
     "Historical 100-year country growth period trajectories not independently reconstructed",
-    "Candidate TFR and education access are narrative-constrained placeholders, not cohort-model outputs or direct measurements"
+    "Candidate TFR and education access are narrative-constrained placeholders, not cohort-model outputs or direct measurements",
+    "NCCM V4 Phantomkind crosswalk pending in thirteen countries and global five-way planet"
   ]
 }
