@@ -11,7 +11,7 @@ const P=model.planet;
 const eq=(a,b,t=1e-9)=>assert.ok(Number.isFinite(a)&&Math.abs(a-b)<=t*Math.max(1,Math.abs(b)),String(a)+' != '+String(b));
 const sum=(xs,fn=x=>x)=>xs.reduce((a,c)=>a+fn(c),0);
 test('V6 Year 0 planetary baseline and historic 1010 BAC creator ratifications',()=>{
- assert.equal(model.schema_version,'NCCM-V6.2-migration-conserved-active');
+ assert.equal(model.schema_version,'NCCM-V6.3-founder-chronology-active');
  assert.equal(P.population_billion,4412);
  assert.equal(P.sovereign_states,37);
  eq(P.sdi,.947);
@@ -137,4 +137,17 @@ test('Destination populations update while country GDP and global six-category p
  }
  eq(model.census.new_five_population_billion,395);
  eq(model.census.original_23_population_billion,1199);
+});
+
+test('Creator-ratified sovereign foundations satisfy exact BAC dates and relative order',()=>{
+ const history=model.historical_foundations;
+ const index=new Map(history.ordered_core.map(x=>[x.name,x]));
+ const required={Mapether:2164,Lenternow:2072,Hargenbor:1984,Moreg:1713,Pasgerflit:1545,Scenrepolia:1234,Taramistry:1210};
+ for(const [name,bac]of Object.entries(required)){assert.equal(index.get(name)?.bac,bac,name);assert.ok(index.get(name)?.status==='creator_ratified'||index.get(name)?.status==='existing');}
+ const order=Object.keys(required);
+ for(let i=0;i<order.length-1;i++)assert.ok(index.get(order[i]).bac>index.get(order[i+1]).bac,'Incorrect BAC age order '+order[i]);
+ assert.equal(index.get('Krisberia').status,'conditional');
+ assert.equal(history.related_events.cistheta_emissaries_bac,1256);
+ assert.deepEqual(history.related_events.scenrepolia_taramistry_patent_dispute_bac,[1153,1138]);
+ assert.deepEqual(history.related_events.calespia_taramistry_botanical_dispute_bac,[1149,1137]);
 });
