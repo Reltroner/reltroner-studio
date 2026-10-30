@@ -33,7 +33,7 @@ The **binding master** governs narrative and canon release. The **timeline** rec
 | Other recognized sentient groups | **3%** | **132.36 billion** |
 | **Total** | **100%** | **4.412 trillion** |
 
-The prior **61/24/5/7/3** ancestry split is **superseded**. Ancestry does **not** mean first-generation migration, passport, citizenship, racial homogeneity, professional capability or personal merit. Mixed biological roots may overlap; the table assigns one reporting category per counted sentient. Do not impose the planetary shares on any country's census.
+Ancestry does **not** mean first-generation migration, passport, citizenship, racial homogeneity, professional capability or personal merit. Mixed biological roots may overlap; the table assigns one reporting category per counted sentient. Do not impose the planetary shares on any country's census.
 
 ## P0 — Verified GDP endpoints and derived contributions
 
