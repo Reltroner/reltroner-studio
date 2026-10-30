@@ -109,5 +109,20 @@
     "institutional_individual_weighting": "candidate 60/40 subject to approval, not independently measured",
     "year_1010_BAC_sdi": 0.707,
     "unchanged_national_profiles_count": 14
+  },
+  "archived_snapshot_notice": {
+    "status": "historical_provenance_only_not_active_canon",
+    "archived_as_of": "2026-10-31",
+    "active_reference": "data/asthortera/nccm-v6-active-cross-domain.json",
+    "active_schema": "NCCM-V6.4-stelpadland-debt-and-industry-active",
+    "superseded_model_references": [
+      "The original 14-country population denominator 3288B became 3213B after 75B internal migration and 5 new nation total changed 320B to 395B.",
+      "The ancient five-way 58/22/10/7/3 planet ancestry was replaced by six mutually exclusive current categories.",
+      "Historical nominal GDP levels were uplifted 10x under creator-approved integrated income-output Model B.",
+      "Taramistry founded 1210 BAC not 1186; Lenternow 2072, Hargenbor 1984, Moreg 1713, Pasgerflit 1545 BAC.",
+      "Stelpadland current public debt 52% GDP, not archived V3 42% unratified scenario; high-value finished furniture and wood processing are canonical.",
+      "The planet still has 4412 billion unique sentients and SDI 0.947, 37 total sovereign states, with 18 individual states deferred."
+    ],
+    "policy": "Preserve historical figures for reproducible archived regressions, but do not generate Year 0 current factual claims from this snapshot."
   }
 }
