@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "decision_date": "2026-10-30",
+  "status": "development material",
+  "year0_planet_population": 4412000000000,
+  "year0_ancestry": [
+    0.58,
+    0.22,
+    0.1,
+    0.07,
+    0.03
+  ],
+  "historical_1010": {
+    "planet_gdp_usd": 195670000000000,
+    "rel_gdp_rel": 1520000000000,
+    "usd_per_rel": 4.5,
+    "rel_population": 1520000000,
+    "planet_sdi": 0.707,
+    "planet_life_expectancy_years": 80
+  },
+  "year0": {
+    "rel_gdp_rel": 41527217475000000000,
+    "usd_per_rel": 114.26,
+    "rel_population": 855000000000,
+    "rel_gni_per_capita_rel": 48569845,
+    "rel_gdp_share_planet": 0.42,
+    "rel_market_cap_snapshot": 0.47,
+    "planet_sdi": 0.938,
+    "planet_life_expectancy_years": 475
+  },
+  "assumptions": {
+    "years": 1010,
+    "population_cagr_planet": 0.004,
+    "inflation_cagr_planet_usd_reference": 0.008,
+    "inflation_cagr_rel_usd_reference": 0.01,
+    "peak_boom_inflation": 0.06,
+    "year0_inflation_planet": 0.0033,
+    "usd_per_auc_reporting": 2.73,
+    "miracle_250_candidate": {
+      "years": 250,
+      "nominal_usd_cagr_rel": 0.03,
+      "nominal_usd_cagr_planet": 0.025
+    }
+  },
+  "open_items": [
+    "National demographic cohort transition",
+    "Sex and species survival curves",
+    "GDP deflator versus CPI",
+    "National FX and PPP series",
+    "GDP and GNI foreign-primary-income bridge",
+    "Income and wealth Gini models",
+    "SDI component weighting",
+    "Kalgered expenditure residual 1 percentage point"
+  ]
+}
