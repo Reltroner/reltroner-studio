@@ -105,7 +105,7 @@ It is also defined by **participation in a living civilization system**.
 | **Surface Gravity** | **~11 m/s²** |
 | **Natural Moons** | **12** |
 | **Canonical Sentient Population** | **~4.412 trillion** |
-| **Average SDI** | **0.938 / 1.000** |
+| **Average SDI** | **0.947 / 1.000** |
 | **Median Age** | **~252 years** |
 | **Life Expectancy** | **~475 years** |
 | **Urbanization Rate** | **~89.5%** |
@@ -467,7 +467,7 @@ The **Year 0 creator-ratified ancestry distribution (2026-10-30)** is **58% Depe
 
 | Indicator | **1010 BAC** | **Year 0** |
 |---|---:|---:|
-| **Planetary SDI** | **0.707** | **0.938** |
+| **Planetary SDI** | **0.707** | **0.947** |
 | **Period life expectancy** | **80 years** | **~475 years** |
 | **Annual planetary real economic growth** | **10%** | **7.5%** |
 
@@ -612,7 +612,7 @@ This creates civilization at enormous scale without requiring the erasure of nat
 
 Asthortera's planetary average SDI is:
 
-> **0.938 / 1.000**
+> **0.947 / 1.000**
 
 The **Sentient Development Index** measures more than conventional prosperity.
 
@@ -640,13 +640,13 @@ It is defined by the attempt to develop **minds, institutions, and civilizations
 
 | Indicator | **1010 BAC** | **Year 0** |
 |---|---:|---:|
-| **Planetary SDI** | **0.707** | **0.938** |
+| **Planetary SDI** | **0.707** | **0.947** |
 | **Period life expectancy** | **80 years** | **~475 years** |
 | **Annual planetary real economic growth** | **10%** | **7.5%** |
 
 **950 BAC:** annual planetary real economic growth reached its **15% peak**. The **1030 BAC** end of open warfare initiated declining inequality pressures, rebuilding and renewed births, while the **1010 BAC Troncut Treaty** accelerated an already-underway economic and demographic recovery. The treaty era marks the historical **minimum planetary income inequality**, followed by a gradual upward Gini trend and declining fertility, immigration intensity and GDP-growth rates toward **780 BAC**. These are planetary tendencies, not identical trends in all countries.
 
-The development of life expectancy, SDI and GDP growth must be simulated separately. A life-expectancy gain from **80 to 475 years** does **not** mathematically imply an SDI change from **0.707 to 0.938**, nor does it directly set the visual aging clock. Material affordability does not by itself determine the Gini coefficient.
+The development of life expectancy, SDI and GDP growth must be simulated separately. A life-expectancy gain from **80 to 475 years** does **not** mathematically imply an SDI change from **0.707 to 0.947**, nor does it directly set the visual aging clock. Material affordability does not by itself determine the Gini coefficient.
 
 ---
 
@@ -1210,7 +1210,7 @@ The following principles should remain stable unless explicitly revised by futur
 - Surface gravity: **~11 m/s²**.
 - Natural moons: **12**.
 - Sentient population: **~4.412 trillion**.
-- Average SDI: **0.938 / 1.000**.
+- Average SDI: **0.947 / 1.000**.
 - Median age: **~252 years**.
 - Life expectancy: **~475 years**.
 - Urbanization: **~89.5%**.
@@ -1222,7 +1222,7 @@ The following principles should remain stable unless explicitly revised by futur
 
 ### Newly established historical and biological baseline
 
-The latest creator-defined anchors are **1030 BAC ceasefire recovery**, **1010 BAC SDI 0.707 / life expectancy 80 / real GDP growth 10%**, **950 BAC real GDP growth peak 15%**, and **Year 0 SDI 0.938 / life expectancy ~475 / real GDP growth 7.5%**. **CAGR ~0.4%** over 1010 years, **near-4 peak TFR**, **near-3% brief population-growth peak**, and the **55% / 75% extended-youth aging thresholds** are governing reconstruction constraints. Intermediate yearly population, TFR, Gini, medical and SDI curves remain **explicit simulations** unless separately established. **281.25 years** is an age-X model using the 45/76 Earth benchmark and a provisional equal-female-life-expectancy assumption.
+The latest creator-defined anchors are **1030 BAC ceasefire recovery**, **1010 BAC SDI 0.707 / life expectancy 80 / real GDP growth 10%**, **950 BAC real GDP growth peak 15%**, and **Year 0 SDI 0.947 / life expectancy ~475 / real GDP growth 7.5%**. **CAGR ~0.4%** over 1010 years, **near-4 peak TFR**, **near-3% brief population-growth peak**, and the **55% / 75% extended-youth aging thresholds** are governing reconstruction constraints. Intermediate yearly population, TFR, Gini, medical and SDI curves remain **explicit simulations** unless separately established. **281.25 years** is an age-X model using the 45/76 Earth benchmark and a provisional equal-female-life-expectancy assumption.
 
 ---
 
