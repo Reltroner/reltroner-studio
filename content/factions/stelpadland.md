@@ -1427,15 +1427,27 @@ It had become **Stelpadland**.
 
 ---
 
+## NCCM V6.4 — Ratified Public Finance and Finished-Furniture Industry (2026-10-31)
+
+**Current Year 0 canonical public debt:** **52% of GDP**. This **supersedes** the prior **42% GDP** figure from the **unratified V3 scenario** quoted below. The old 42% row is retained only for historical source provenance; it must **not** be surfaced as a current Stelpadland debt benchmark.
+
+**Creator-ratified productive identity:** Stelpadland's forest economy is not primarily an economy of raw log exports. Its industrial value chain centers on **high-value finished furniture products**, skilled carpentry, precision wood processing, woodcraft design, sustainable forestry and manufacturing of durable household and institutional goods. Forest stewardship, responsible harvest and tree replanting continue to govern this sector. The national tradition of **Timber Soul** — where furniture can preserve artisanship, lineage and memories — provides an institutional and cultural explanation for its specialization.
+
+This can generate employment, domestic manufacturing capital, trade demand, quality assurance and public infrastructure spending, but the mere coexistence of a 52% debt ratio and a furniture-intensive economy **does not prove** what percentage of debt was incurred for furniture factories or subsidies. Exact national furniture GDP share, export revenue, employment share and public investment allocations remain **not yet ratified**; do not fabricate them.
+
+**Unchanged other national figures:** 141 billion sentients; 200 million km²; SDI **0.961**; current NCCM V6.4 six-way primary ancestry **50% Depeisit / 20% Cistheta / 6% Cosmeilian / 18% Native / 4% Phantomkind / 2% Other**; country GDP contribution approximately **2.5455%** under the 10× nominal GDP/GNI scenario. The 75B Astrostelia/Lenternow migration does not alter Stelpadland's population.
+
+**Current source of truth:** [NCCM V6.4 cross-domain report](../statistics/asthortera-nccm-v6-active-cross-domain.md) and [active machine-readable ledger](../../data/asthortera/nccm-v6-active-cross-domain.json). [The Timber Soul of Stelpadland](../cultures/timber-soul-stelpadland.md) remains the established artisanal-cultural basis.
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
-**Cross-country ancestry update:** Phantomkind / Spiritual Hybrid is recognized as a distinct, globally distributed category of sentient persons. The **primary-census percentage for Stelpadland is not yet separately measured** (unknown, **not 0%**). The historical five-way ancestry shares must not be enlarged beyond 100% by inventing an additional number. National population and SDI are unchanged. See [NCCM V4 six-category comparison](../statistics/asthortera-phantomkind-demography-v4.md).
+**Cross-country ancestry update:** Phantomkind / Spiritual Hybrid is recognized as a distinct, globally distributed category of sentient persons. At this historical V4 snapshot, the **primary-census percentage for Stelpadland had not yet been independently allocated**. The **later creator-approved V6.4 six-way model does assign 4% Phantomkind** and six exclusive classes totaling 100%; this more recent ledger supersedes the V4 unknown status. National population and SDI are unchanged. See [NCCM V4 six-category comparison](../statistics/asthortera-phantomkind-demography-v4.md).
 
 ## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
 
 **Unchanged canonical nation anchors:** **141 billion** residents, **200 million km²**, and **SDI 0.961**. Asthortera's **4.412 trillion** unique residents live in **37 countries**, and the **planet SDI is now 0.947**. Composite SDI integrates individual capabilities and institutional quality.
 
-**Completed cross-domain simulation columns — all asterisked figures are candidates, not independently measured national facts:**
+**Archived V3 cross-domain simulation columns — all asterisked figures are historical candidates, not current national canon. The more recent V6.4 52% public-debt ratification takes precedence:**
 
 | Metric | NCCM V3 value | Provenance |
 |---|---:|---|
@@ -1445,7 +1457,7 @@ It had become **Stelpadland**.
 | Individual SDI capacity I | **0.9638*** | Illustrative individual/institution 60/40 decomposition |
 | Institutional SDI quality Q | **0.9568*** | Illustrative institutional component, not surveyed |
 | Income Gini | **0.240*** | Unratified comparative distribution candidate |
-| Public debt to GDP | **42.0%*** | Unratified public-finance candidate |
+| Public debt to GDP | **42.0%*** | **ARCHIVED V3 scenario — superseded by creator-ratified 52.0% GDP in NCCM V6.4** |
 | Year 0 real GDP growth | **6.80%*** | One-year conditional growth candidate |
 | CPI inflation at Year 0 | **0.270%*** | Noncanonical national CPI candidate |
 | Unemployment | **1.80%*** | Candidate labor-market indicator |
