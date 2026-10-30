@@ -1,0 +1,43 @@
+name: Asthortera Cross-Domain Canon QA
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "content/**"
+      - "data/asthortera/**"
+      - "tools/audit-asthortera-canon.mjs"
+      - "package.json"
+      - ".github/workflows/asthortera-canon-qa.yml"
+  pull_request:
+    paths:
+      - "content/**"
+      - "data/asthortera/**"
+      - "tools/audit-asthortera-canon.mjs"
+      - "package.json"
+      - ".github/workflows/asthortera-canon-qa.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  canon-audit:
+    name: Cross-domain quantitative & canon consistency
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Generate diagnostic report for all content Markdown
+        run: node tools/audit-asthortera-canon.mjs --report > asthortera-canon-qa.json
+      - name: Upload diagnostics even if strict QA fails
+        uses: actions/upload-artifact@v4
+        with:
+          name: asthortera-canon-qa
+          path: asthortera-canon-qa.json
+      - name: Enforce strict planetary ancestry and numeric accounting invariants
+        run: node tools/audit-asthortera-canon.mjs --strict
