@@ -26,7 +26,7 @@ const files=new Map(docs.map(x=>[x,read(x)]));
 info.push({metric:'markdown_documents_scanned',value:docs.length});
 info.push({metric:'active_model',value:v.schema_version});
 inspect(docs.length>=433,'MARKDOWN_TREE_LOST','Fewer than 433 source documents');
-inspect(v.schema_version==='NCCM-V6.3-founder-chronology-active','V6_ACTIVE_MODEL_REQUIRED','Migration-conserved V6.2 schema is the active six-way statistical model');
+inspect(v.schema_version==='NCCM-V6.4-stelpadland-debt-and-industry-active','V6_ACTIVE_MODEL_REQUIRED','V6.4 with migration and founder-date conservation is active six-way statistical model');
 inspect(eq(P.population_billion,4412)&&P.sovereign_states===37&&eq(P.sdi,.947),'PLANET_ANCHOR','4,412B, 37 states and SDI .947 must remain');
 inspect(eq(P.year0.tfr,1.63)&&eq(P.year0.median_age_years,252)&&eq(P.year0.urbanization_rate,.895)&&eq(P.year0.annual_inflation,.0033),'YEAR0_ANCHORS','Year 0 vital and economic rates');
 inspect(eq(P.historical_1010_BAC.median_age_years,30)&&eq(P.historical_1010_BAC.urbanization_rate,.68)&&eq(P.historical_1010_BAC.annual_inflation,.043),'BAC1010_ANCHORS','Historical demographic and inflation targets');
@@ -35,6 +35,18 @@ inspect(v.provenance.legacy_ratios_58_22_10_7_3.startsWith('superseded'),'LEGACY
 inspect(v.countries_14.length===14&&v.countries_5.length===5&&v.aggregate_remaining_18.state_count===18,'NATIONAL_COUNTS','14+5+18 must equal 37');
 inspect(eq(sum(v.countries_14,x=>x.population_billion),3213)&&eq(sum(v.countries_5,x=>x.population_billion),395)&&eq(v.aggregate_remaining_18.population_billion,804),'POPULATION_PARTITION','3,213B + 395B + 804B');
 inspect(eq(sum([...v.countries_14,...v.countries_5,v.aggregate_remaining_18],x=>x.population_billion),P.population_billion),'PLANET_POPULATION_SUM','Every person counted once');
+const stel=v.countries_14.find(x=>x.name==='Stelpadland');
+const stelArchival=old.countries.find(x=>x.name==='Stelpadland');
+inspect(Boolean(stel&&stelArchival),'STELPADLAND_EXISTS','Stelpadland must exist in current and historical datasets');
+if(stel&&stelArchival){
+ inspect(eq(stel.government_debt_to_gdp,.52),'STELPADLAND_CURRENT_DEBT_52','Current creator-ratified debt is 52% GDP');
+ inspect(stel.debt_ratio_status==='creator_ratified_2026-10-31_52pct_GDP','STELPADLAND_DEBT_RATIFICATION','Debt must be tagged as ratified current canon');
+ inspect(eq(stelArchival.economy.public_debt_to_gdp.value,.42),'STELPADLAND_ARCHIVED_DEBT_42','Historical V3 source remains an explicit unratified 42% candidate');
+ inspect(/finished furniture/i.test(stel.specialization)&&/finished furniture/i.test(stel.industry_canon?.primary_industry||''),'STELPADLAND_FINISHED_FURNITURE','High-value domestic furniture manufacture is current canonical specialization');
+ inspect(stel.industry_canon?.quantitative_furniture_output_share_pct===null,'STELPADLAND_UNRATIFIED_SECTOR_SHARE','Must not invent finished furniture GDP share');
+}
+inspect((files.get('content/factions/stelpadland.md')||'').includes('**52% of GDP**'),'STELPADLAND_PROFILE_CURRENT_DEBT','52% canonical figure must appear in Stelpadland profile');
+inspect((files.get('content/statistics/asthortera-nccm-v6-active-cross-domain.md')||'').includes('**52.00% (canon)**'),'STELPADLAND_REPORT_DEBT_52','Current cross-domain reporting should show 52%');
 const oldByName=new Map(old.countries.map(x=>[x.name,x]));
 const ancestryKeys=['depeisit','cistheta','cosmeilian','native','phantomkind','other'];
 const ancestry=Object.fromEntries(ancestryKeys.map(k=>[k,0]));
