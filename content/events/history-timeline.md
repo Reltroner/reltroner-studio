@@ -900,7 +900,7 @@ At this treaty-year benchmark, **planetary SDI was 0.707**, **period life expect
 
 The creator-defined 1010 BAC anchors are **Asthortera nominal GDP USD 195.67 trillion** and **Reltronland GDP REL 1.52 trillion** with the historical nominal reference **1 REL = USD 4.50**. Thus Reltronland produced **USD 6.84 trillion**, or **3.4956815%** of planetary GDP, with **1.52 billion sentients**. The **10% real planetary GDP growth** of 1010 BAC is a year-specific narrative anchor and not a long-term compound average.
 
-The Year 0 ancestry distribution is **58% Depeisit / 22% Cistheta / 10% Cosmeilia-Human mixed / 7% native Asthorteran / 3% other**, explicitly superseding the 61/24/5/7/3 reconstruction under the 2026-10-30 creator decision. See the [NCCM V2 statistical development ledger](../statistics/asthortera-nccm-remodeling.md).
+The Year 0 ancestry distribution is **58% Depeisit / 22% Cistheta / 10% Cosmeilia-Human mixed / 7% native Asthorteran / 3% other**. See the [NCCM V2 statistical development ledger](../statistics/asthortera-nccm-remodeling.md).
 
 ---
 
