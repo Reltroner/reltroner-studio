@@ -84,7 +84,7 @@ This chain defines Taramistry's role in Asthortera:
 | **National Motto** | *"Formulate the Future, Synthesize the Present."* |
 | **Sentient Development Index** | 0.954 / 1.000 |
 | **Gini Coefficient** | 0.32 |
-| **Annual Economic Growth** | 8% average over the past 100 years |
+| **Annual Economic Growth** | 8% in exceptional biotech expansion years; **3.5% last-100-year real GDP CAGR is the NCCM V3 simulation candidate (not canon)** |
 | **National Debt to GDP Ratio** | 68% |
 | **CO₂ Emissions per Capita** | 4.9 metric tons |
 | **Gross National Income Per Capita** | $TAR2,256,740 / year |
@@ -721,12 +721,18 @@ This group includes major patent owners, biotech founders, high-value licensors,
 
 ---
 
+### Historical Growth: Reconstruction, Scientific Compounding, and the Modern Biotech Cycle
+
+The formerly quoted **8% annual growth averaged across all 100 recent years** is replaced with an **event-conditioned real output model**. Taramistry's laboratory validation, pharmaceutical licensing, medical platform breakthroughs, and science-education scaling can generate **individual 8% or higher real GDP growth years** without implying perpetual 8% compounding. The provisional **last-100-year real CAGR is 3.5%**, with **Year 0 real growth 8.2%** as a separate **illustrative one-year value**, neither of which is an independently measured national history.
+
+The national 100-year path must be reconciled with Asthortera's **1010 BAC post-Troncut reconstruction**, **950 BAC 15% single-year planet growth peak**, gradual normalization, later research institutions, and modern **7.5% planetary real growth at Year 0**. Never substitute a national 100-year real CAGR for planetary 1010-year *nominal USD* GDP CAGR **α ≈ 1.78519%**. Human and Cosmeilian education, precision biotechnology and long-lived science careers support plausible episodes, not fixed exponential 8% output in every historical year.
+
 ## 19. Economic Statistics
 
 | Metric | Value |
 |---|---:|
 | **Gini Coefficient** | 0.32 |
-| **Annual Economic Growth** | 8% average over the past 100 years |
+| **Annual Economic Growth** | 8% in exceptional biotech expansion years; **3.5% last-100-year real GDP CAGR is the NCCM V3 simulation candidate (not canon)** |
 | **National Debt to GDP Ratio** | 68% |
 | **CO₂ Emissions per Capita** | 4.9 metric tons |
 | **Gross National Income Per Capita** | $TAR2,256,740 / year |
