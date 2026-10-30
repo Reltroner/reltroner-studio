@@ -1,332 +1,361 @@
 ---
-title: "Asthortera NCCM V6.2 — Active Cross-Domain Statistical Canon & Remodeling"
-description: "Active six-way ancestry, integrated 10x GDP/GNI, 14 national profiles, five Eastern development countries and the explicitly deferred 18-state residual; QA status, quantitative and qualitative matrices."
+title: "Asthortera NCCM V6.3 — Full Cross-Domain Canon and Modeling Reference"
+description: "Creator-ratified founder dates, 75B internal migration, 19 nation demographic and economic comparisons, six-category ancestry, institutional SDI, 10x GDP/GNI, culture, sectors and unresolved constraints."
 author: "Reltroner Studio"
 date: "2026-10-31"
 lastUpdated: "2026-10-31"
 published: false
-canonStatus: "Creator-approved baseline and scenario modeling; unresolved national data and crosswalks explicitly indicated"
+canonStatus: "Active creator-ratified demographic and chronology decisions; modeled national economics and residual aggregates explicitly distinguished from direct observations"
 world: "Asthortera"
-category: "Worldbuilding · Statistics · NCCM V6"
-tags: ["Asthortera", "NCCM V6", "Demography", "Phantomkind", "GDP", "GNI", "SDI", "Eastern Continent", "QA"]
+category: "Worldbuilding · Statistics · NCCM V6.3"
+tags: ["Asthortera", "NCCM V6.3", "Demography", "Founding Dates", "Phantomkind", "GDP", "GNI", "SDI", "Ancestry", "Worldbuilding"]
 ---
 
-# NCCM V6.2 — The Active Cross-Domain Reference
+# Asthortera NCCM V6.3 — Full Cross-Domain Reference
 
-**Active machine-readable authority:** [NCCM V6.2 active data](../../data/asthortera/nccm-v6-active-cross-domain.json).
+**Active machine-readable ledger:** [NCCM V6.3 active data](../../data/asthortera/nccm-v6-active-cross-domain.json). **Chronological source:** [historical timeline](../events/history-timeline.md). **Four pre-sovereign industrial pathways:** [Cosmeilian Stewardship Frontier](../events/cosmeilian-stewardship-four-industrial-foundings.md).
 
-**Historical source snapshots, NOT active planet percentages:** [NCCM V3 data](../../data/asthortera/nccm-v3-14-country-comparative-model.json), [V3/V4 extracted national data](../../data/asthortera/national-cross-domain-audit-2026-10-30.json) and [V2 baseline](../../data/asthortera/nccm-baseline-v2.json). They remain available for provenance and historical comparison. The **old planet 58%/22%/10%/7%/3% exclusive primary ancestry has been expressly superseded**.
+## Version rules and provenance
 
-**Status legend:** **C** creator ratified; **D** derived formula; **S** accepted scenario baseline, not a direct census; **O** open. A user-approved modeled estimate can be an authoritative *modeling baseline* without being fabricated into a direct observation.
+**C** = directly ratified by creator or established canon, **D** = mathematically derived from stated modeling assumptions, **S** = accepted scenario / numerical working baseline, **O** = not measured or not yet assigned. The same figure may be both creator-approved as a *scenario* and **not** independently measured. Reported figures are **Year 0 unless marked BAC**.
 
-## I. Planetary quantitative invariants
+- **V6.3 founding dates:** Lenternow **2072**, Hargenbor **1984**, Moreg **1713**, Pasgerflit **1545**, Taramistry **1210 BAC**, all directly ratified. Earlier **Taramistry 1186 BAC is superseded**.
+- **V6.2 demographic conservation:** moved **75B internal residents** from Astrostelia and Lenternow into Scenrepolia, Calespia, Ethaptoria and Krisberia. Counts and per-capita model denominators updated; donor SDIs and six-way percentages kept.
+- **V6.1 income-output:** integrated **10× nominal GDP and GNI** model, national GDP *percentage shares unchanged*. Ceteris paribus zero net foreign primary income is a **scenario**; this is not a claim of 900% CPI inflation.
+- **14-country ancestry proxy:** all six categories are exclusive primary census labels. The creator ratified global projection **using the population-weighted PRE-MIGRATION 14-country baseline (3,288B)**. Migrants retain their ancestry; a new weighted average of the reduced 3,213B donor/country set would incorrectly change planet composition.
+- **Country coverage:** 14 original profiles + 5 recently characterized states + 18 explicitly deferred countries = **37 sovereign states**. Deferred 18 remain a **bounded aggregate**, not invented country observations.
+- **Historical V2/V3/V4 datasets** remain accessible for audit provenance but do not override current V6.3 date, ancestry or GDP decisions.
 
-| Domain | Year 0 Asthortera | Status |
+## 1. Planet Asthortera — physical, population and civilizational statistics
+
+| Domain | Year 0 value | Evidence class |
 |---|---:|---|
-| Unique sentient population | **4,412 billion (4.412 trillion)** | C |
-| Sovereign nations | **37** | C |
-| Surface area | **9,381,109,394 km²** | C |
-| Diameter | **54,646 km** | C |
-| Land / water area | **48% / 52%** | C |
+| Type | Super Earth, multi-civilizational planet | C |
+| Diameter | 54,646 km | C |
+| Total surface | 9,381,109,394 km² | C |
+| Approximate land / water | 48% / 52% | C |
+| Approximate land area | 4,503 million km² | C |
+| Approximate water area | 4,878 million km² | C |
+| Surface gravity | ~11 m/s² | Source reference |
+| Number of moons | 12 | C |
+| World map width | ~171,688 km | Source reference |
+| Unique sentient persons | **4,412 billion (4.412 trillion)** | C |
+| Sovereign national states | 37 | C |
 | Planet SDI | **0.947** | C |
-| Planet median age | **252 years** | C |
-| Planet life expectancy | **475 years** | C |
-| Planet urbanization | **89.5%** | C |
-| Planet total fertility rate | **1.63** | C |
-| Planet inflation Year 0 | **0.33% yearly** | C |
-| Planet real GDP growth Year 0 | **7.5%** | Original baseline |
-| Interplanetary net migration | **Significant and positive, amount unspecified** | C (qualitative) |
-| Nominal GDP, Model B after 10× uplift | **USD 1.129738063975e+23 / year** | D/S |
-| GNI (zero net foreign primary income bridge) | **USD 1.129738063975e+23 / year** | S |
-| GDP/GNI proxy per resident | **USD 25.606030 billion / year** | D/S |
+| Median age | **252 years** | C |
+| Life expectancy | **475 years** | C |
+| Urbanization | **89.5%** | C |
+| TFR | **1.63** | C |
+| Year 0 annual CPI inflation | **0.33%** | C |
+| Year 0 real GDP growth (reference) | **7.5%** | S/reference |
+| Net interplanetary migration | Positive and significant; net count unknown | C qualitative |
+| Model B annual GDP | **USD 1.129738063975e+23** | S/D |
+| Model B annual GNI, zero external primary-income bridge | **USD 1.129738063975e+23** | S/D |
+| Nominal GDP or provisional GNI per capita | **USD 25.606030 billion / sentient / year** | D |
 
-**1010 BAC reference:** median age **30 years**, urbanization **68%**, inflation **4.3% yearly** and life expectancy about **80 years**. The chronological bridge to Year 0 requires species-specific cohorts, productivity history and interplanetary migration accounting.
+**1010 BAC historical reference:** median age **30 years**; life expectancy **80 years**; urbanization **68%**; annual inflation **4.3%**. More detailed cohorts, growth paths and species-specific longevity remain modeling tasks.
 
-## II. Six-category primary ancestry: population-weighted 14-country planetary representation
+The globe has an unusual **89.5% urban population** while still retaining vast natural surface and multiple distinct national built-environment aesthetics. No visual style by itself determines the sophistication of technology or public institutions.
 
-Every unique resident has precisely **one primary administrative ancestry assignment**. It is distinct from optional **inclusive multigenerational lineage flags**, which may overlap. The original fourteen countries have an approved six-way primary classification. The creator froze their **pre-transfer 3,288B weighted snapshot** as the representative planet-wide distribution, so the 75B internal migration must not cause artificial planet ancestry changes. Their present-day *remaining* residents total 3,213B; migrant ancestry is carried to destination nations instead of being erased.
+## 2. Census geography — 14 + 5 + 18 after 75B migration
 
-| Category | Pre-transfer 14 snapshot (billion) | Representative world share | Planet projected headcount (billion) |
-|---|---:|---:|---:|
-| Depeisit | 1,562.182 | 47.511618% | 2,096.213 |
-| Cistheta | 652.985 | 19.859641% | 876.207 |
-| Cosmeilian (all manifestations) | 533.000 | 16.210462% | 715.206 |
-| Native Asthorteran | 373.263 | 11.352281% | 500.863 |
-| Phantomkind / Spiritual Hybrid | 73.040 | 2.221411% | 98.009 |
-| Other | 93.530 | 2.844586% | 125.503 |
-| **Total** | **3,288.000** | **100%** | **4,412.000** |
+| Coverage bloc | Sovereign countries | Population (billions) | Percent of planet | Aggregate / weighted SDI | GDP share |
+|---|---:|---:|---:|---:|---:|
+| Original 14 detailed states | 14 | **3,213** | 72.8241% | 0.958950 | 88.4534% |
+| Five added Eastern states | 5 | **395** | 8.9529% | 0.948714 | 5.1930% |
+| Other 18 states: creator-deferred aggregate | 18 | **804** | 18.2230% | 0.898402 (mathematically required) | 6.3536% |
+| **Planet** | **37** | **4,412** | **100%** | **0.947000** | **100%** |
 
-**Migration conservation:** Astrostelia exported 35B and Lenternow 40B. The 14-state current ancestry subtotal is 3,213B, and their transferred six-way migrant cohort is 75B; summed, they recover the 3,288B original reference.
+Planet total remains unchanged. SDI for the 18-nation residual is **not** an observed common SDI for each of the 18 states; it is the population-weighted residual needed to hold the planet at 0.947 under the adopted aggregation assumption.
 
-**Note:** The planet projection does not assign national ancestry fractions to the new five or the other eighteen countries. It is a provisional weighted representation with no claim that every nation has the same ancestry mix.
+### Exact internal migration routes
 
-### Six-way national percentages (14 countries only)
-
-| Nation | Dp | Ct | Cm | Nt | Ph | Ot |
-|---|---:|---:|---:|---:|---:|---:|
-| Reltronland | 64.0% | 22.0% | 4.0% | 5.0% | 2.0% | 3.0% |
-| Depcutland | 79.0% | 10.0% | 3.0% | 4.0% | 2.0% | 2.0% |
-| Kalgered | 40.0% | 10.0% | 13.0% | 33.0% | 2.0% | 2.0% |
-| Aurastelia | 5.0% | 7.0% | 80.0% | 4.0% | 1.0% | 3.0% |
-| Astrostelia | 9.0% | 16.0% | 64.0% | 6.0% | 1.0% | 4.0% |
-| Lenternow | 25.0% | 28.0% | 38.0% | 5.0% | 2.0% | 2.0% |
-| Taramistry | 54.0% | 25.0% | 12.0% | 5.0% | 2.0% | 2.0% |
-| Moreg | 43.0% | 30.0% | 13.0% | 10.0% | 2.0% | 2.0% |
-| Pencilfania | 55.0% | 23.0% | 14.0% | 3.0% | 2.0% | 3.0% |
-| Stelpadland | 50.0% | 20.0% | 6.0% | 18.0% | 4.0% | 2.0% |
-| Pasgerflit | 60.0% | 21.0% | 5.0% | 6.0% | 2.0% | 6.0% |
-| Hargenbor | 41.0% | 40.0% | 6.0% | 8.0% | 3.0% | 2.0% |
-| Beluftner | 0.2% | 0.5% | 2.0% | 90.3% | 6.0% | 1.0% |
-| Cenrestier | 7.0% | 8.0% | 7.0% | 70.0% | 5.0% | 3.0% |
-
-All rows total 100%. Dp=Depeisit, Ct=Cistheta, Cm=Cosmeilian, Nt=Native Asthorteran, Ph=Phantomkind/Spiritual Hybrid, Ot=Other.
-
-## III. Nation population, geography and living conditions
-
-| Nation | Population (billion) | Land (million km²) | SDI | Median age | Life expectancy | Urbanization |
-|---|---:|---:|---:|---:|---:|---:|
-| [Reltronland](../factions/reltronland.md) | 855 | 104 | 0.984 | 254 | 498 | 97.5000% |
-| [Depcutland](../factions/depcutland.md) | 343 | 52 | 0.981 | 254 | 490 | 96.0000% |
-| [Kalgered](../factions/kalgered.md) | 108 | 108 | 0.979 | 254 | 489 | 86.0000% |
-| [Aurastelia](../factions/aurastelia.md) | 164 | 433 | 0.970 | 254 | 485 | 82.0000% |
-| [Astrostelia](../factions/astrostelia.md) | 185 | 216 | 0.957 | 253 | 480 | 88.0000% |
-| [Lenternow](../factions/lenternow.md) | 174 | 117 | 0.935 | 251 | 470 | 92.0000% |
-| [Taramistry](../factions/taramistry.md) | 242 | 125 | 0.954 | 252 | 478 | 90.0000% |
-| [Moreg](../factions/moreg.md) | 205 | 79 | 0.931 | 251 | 468 | 93.0000% |
-| [Pencilfania](../factions/pencilfania.md) | 182 | 166 | 0.940 | 252 | 472 | 84.0000% |
-| [Stelpadland](../factions/stelpadland.md) | 141 | 200 | 0.961 | 253 | 481 | 73.0000% |
-| [Pasgerflit](../factions/pasgerflit.md) | 279 | 72 | 0.949 | 252 | 476 | 94.5000% |
-| [Hargenbor](../factions/hargenbor.md) | 133 | 39 | 0.925 | 251 | 465 | 87.5000% |
-| [Beluftner](../factions/beluftner.md) | 91 | 88 | 0.896 | 249 | 452 | 72.0000% |
-| [Cenrestier](../factions/cenrestier.md) | 111 | 102 | 0.911 | 250 | 459 | 81.0000% |
-
-The fourteen profiled nations contain **3,213 billion residents after the migration (formerly 3,288 billion)** and **1,901 million km²** of source-reported land. Many social rates remain historical scenario approximations. Reltronland Year 0 median age is updated to **254 years** under the creator's later decision.
-
-### Social and institutional data (14-country model)
-
-| Nation | Unemployment | CO₂ t/person/year | TFR scenario | Education access proxy | Individual capability | Institutional quality |
-|---|---:|---:|---:|---:|---:|---:|
-| Reltronland | 42.0000% | 47.4490 | 55.496 | 0.390 | 85.0000% | 0.3000% | 7.5000% |
-| Depcutland | 9.9834% | 11.2787 | 32.882 | 0.250 | 61.0000% | 0.2800% | 7.5000% |
-| Kalgered | 2.8011% | 3.1645 | 29.301 | 0.210 | 45.0000% | 0.2600% | 6.9000% |
-| Aurastelia | 3.6283% | 4.0990 | 24.994 | 0.230 | 48.0000% | 0.2400% | 7.0000% |
-| Astrostelia | 4.6555% | 5.2595 | 28.430 | 0.280 | 56.0000% | 0.3700% | 7.8000% |
-| Lenternow | 3.3363% | 3.7692 | 21.662 | 0.310 | 57.0000% | 0.3500% | 7.3000% |
-| Taramistry | 4.8067% | 5.4304 | 22.439 | 0.320 | 68.0000% | 0.4100% | 8.2000% |
-| Moreg | 2.8514% | 3.2213 | 15.714 | 0.330 | 65.0000% | 0.3700% | 8.3000% |
-| Pencilfania | 2.7699% | 3.1292 | 17.193 | 0.290 | 53.0000% | 0.3200% | 7.1000% |
-| Stelpadland | 2.5455% | 2.8757 | 20.395 | 0.240 | 42.0000% | 0.2700% | 6.8000% |
-| Pasgerflit | 5.6288% | 6.3590 | 22.792 | 0.320 | 63.0000% | 0.3600% | 8.2000% |
-| Hargenbor | 1.5579% | 1.7600 | 13.233 | 0.370 | 74.0000% | 0.4500% | 6.7000% |
-| Beluftner | 0.7461% | 0.8429 | 9.263 | 0.280 | 44.0000% | 0.4800% | 6.2000% |
-| Cenrestier | 1.1425% | 1.2907 | 11.628 | 0.300 | 59.0000% | 0.3400% | 6.7000% |
-
-**Interpretation:** national SDI combines individual capability and institutional quality; the 60/40 decomposition has been accepted as a modeling convention. Education indicators, unemployment and TFR must not be represented as separately field-surveyed national facts when originally modeled. Carbon values have non-identical gross/offset scopes and must not be ranked uncritically.
-
-## IV. Integrated 10× GDP/GNI model — original fourteen countries
-
-The creator selected **Model B**. Original GDP contribution percentages do not change; the nominal planetary GDP total and modeled GNI uplift together by 10×, maintaining the GDP/GNI accounting bridge under an explicitly provisional assumption of zero net primary income.
-
-| Nation | Planet GDP share | GDP (10²¹ USD/year) | GDP/person (billion USD/year) | Income Gini | Public debt/GDP | CPI inflation | Real GDP growth |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| Reltronland | 42.0000% | 47.4490 | 55.496 | 0.390 | 85.0000% | 0.3000% | 7.5000% |
-| Depcutland | 9.9834% | 11.2787 | 32.882 | 0.250 | 61.0000% | 0.2800% | 7.5000% |
-| Kalgered | 2.8011% | 3.1645 | 29.301 | 0.210 | 45.0000% | 0.2600% | 6.9000% |
-| Aurastelia | 3.6283% | 4.0990 | 24.994 | 0.230 | 48.0000% | 0.2400% | 7.0000% |
-| Astrostelia | 4.6555% | 5.2595 | 23.907 | 0.280 | 56.0000% | 0.3700% | 7.8000% |
-| Lenternow | 3.3363% | 3.7692 | 17.613 | 0.310 | 57.0000% | 0.3500% | 7.3000% |
-| Taramistry | 4.8067% | 5.4304 | 22.439 | 0.320 | 68.0000% | 0.4100% | 8.2000% |
-| Moreg | 2.8514% | 3.2213 | 15.714 | 0.330 | 65.0000% | 0.3700% | 8.3000% |
-| Pencilfania | 2.7699% | 3.1292 | 17.193 | 0.290 | 53.0000% | 0.3200% | 7.1000% |
-| Stelpadland | 2.5455% | 2.8757 | 20.395 | 0.240 | 42.0000% | 0.2700% | 6.8000% |
-| Pasgerflit | 5.6288% | 6.3590 | 22.792 | 0.320 | 63.0000% | 0.3600% | 8.2000% |
-| Hargenbor | 1.5579% | 1.7600 | 13.233 | 0.370 | 74.0000% | 0.4500% | 6.7000% |
-| Beluftner | 0.7461% | 0.8429 | 9.263 | 0.280 | 44.0000% | 0.4800% | 6.2000% |
-| Cenrestier | 1.1425% | 1.2907 | 11.628 | 0.300 | 59.0000% | 0.3400% | 6.7000% |
-
-Model identity: **GDP = sector gross value added + product taxes − product subsidies**; independently, **GDP = C + I + G + exports − imports**; and **GNI = GDP + net foreign primary income**. Do not double-count intermediate materials or foreign exports. Sectoral labor, capital, trade and price deflators are still development work.
-
-## V. Five Eastern countries: added characterization within the former 23-country aggregate
-
-| Nation | Population (billion) | SDI | Individual | Institution | Planet GDP share | GDP (10²¹ USD) | GDP/capita (billion USD) |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| [Scenrepolia](../factions/scenrepolia.md) | 88 | 0.956 | 0.9540 | 0.9590 | 1.2710% | 1.4359 | 16.317 |
-| [Krisberia](../factions/krisberia.md) | 58 | 0.955 | 0.9560 | 0.9535 | 0.8449% | 0.9545 | 16.457 |
-| [Mapether](../factions/mapether.md) | 74 | 0.937 | 0.9400 | 0.9325 | 1.0043% | 1.1346 | 15.332 |
-| [Ethaptoria](../factions/ethaptoria.md) | 84 | 0.950 | 0.9530 | 0.9455 | 0.9794% | 1.1065 | 13.173 |
-| [Calespia](../factions/calespia.md) | 91 | 0.946 | 0.9480 | 0.9430 | 1.0934% | 1.2352 | 13.574 |
-| **Five total** | **395** | **0.948714 weighted** | — | — | **5.1930%** | **5.8667** | **14.852** |
-
-**Residual 18-state bloc:** **804 billion** persons, **SDI 0.898402 required by aggregate accounting after migration**, and **6.3536% of planetary GDP**. This is **not** evidence of eighteen individual country populations or identical SDIs.
-
-### Sectoral gross value added of the Eastern five (modeling allocations)
-
-### Scenrepolia — Electromagnetism; induction and materials
-
-- Field systems and infrastructure: **38%**
-- Magnetic materials and precision components: **23%**
-- Research education and testing: **17%**
-- Trade and technical services: **15%**
-- Other sectors: **7%**
-
-### Krisberia — Crystal craftsmanship and advanced materials
-
-- Advanced crystals and materials: **35%**
-- Craftsmanship and luxury goods: **27%**
-- Design and research: **18%**
-- Finance and professional services: **14%**
-- Other sectors: **6%**
-
-### Mapether — Fashion and textiles
-
-- Textiles and smart fabrics: **34%**
-- Garments and fashion: **25%**
-- Logistics and commerce: **20%**
-- Services and design: **15%**
-- Other sectors: **6%**
-
-### Ethaptoria — Combinatorial education and puzzle simulation
-
-- Logic software and simulation: **32%**
-- Education and cognitive tools: **28%**
-- Electronics and research: **20%**
-- Experience and professional services: **13%**
-- Other sectors: **7%**
-
-### Calespia — Agribiotechnology gastronomy and food science
-
-- Agribiotechnology and agricultural science: **31%**
-- Food processing: **26%**
-- Gastronomy and tourism: **21%**
-- Logistics and services: **15%**
-- Other sectors: **7%**
-
-
-### Historical and qualitative differentiators
-
-| Country | National identity | Historical sovereignty anchor | Main interpretive challenge |
-|---|---|---|---|
-| [Scenrepolia](../factions/scenrepolia.md) | Electromagnetic civilization; U-shaped national magnet | 1234 BAC; sovereign local field/interface research after Cistheta contact; Skalatores | Technical power versus civic autonomy and field safety |
-| [Ethaptoria](../factions/ethaptoria.md) | Puzzle, reasoning, exploratory intelligence and simulation | 2556 BAC, post-Stetsonian founding; 2256–2243 BAC accreditation dispute | Simulation competence versus real-world judgment |
-| [Calespia](../factions/calespia.md) | Agriculture, gastronomy, living provenance and hospitality | 2628 BAC, post-Stetsonian farming; 1149–1137 BAC Taramistry botanical dispute | Food access, research licensing and ecological stewardship |
-| [Krisberia](../factions/krisberia.md) | Crystal materials, artisan precision and peaceful diplomacy | Proposed 2320 BAC **conditional** on Aurastelia and Astrostelia being territorially complete; 4% starting area | Authentic material quality versus extractive status economy |
-| [Mapether](../factions/mapether.md) | Textiles, fashion, jazz, improvisation and creative identity | 2164 BAC Beluftner merchant founding; later Depeisit cultural transformation | Identity expression versus conformity and mass production |
-
-**Cultural city-development placeholders, not automatically national capitals:** Ethaptoria **Enterinmech**, Calespia **Kitlunchor**, Krisberia **Kistalia**, Mapether **Bonether**. Scenrepolia's established capital is **Skalatores**. Scenrepolia's national emblem was explicitly revised to a **U-shaped magnet**; older socket/window design is historical, not current.
-
-### Ratified internal migration: donor–recipient routes
-
-| From | To | Moved (billion) | Recipient Year 0 population (billion) |
-|---|---|---:|---:|
-| Astrostelia | Scenrepolia | 10 | 88 |
-| Astrostelia | Calespia | 10 | 91 |
-| Astrostelia | Ethaptoria | 15 | 84 |
-| Lenternow | Scenrepolia | 10 | 88 |
-| Lenternow | Krisberia | 10 | 58 |
-| Lenternow | Ethaptoria | 10 | 84 |
-| Lenternow | Calespia | 10 | 91 |
-
-**Donors:** Astrostelia **220 → 185B** (SDI **0.957**); Lenternow **214 → 174B** (SDI **0.935**). Both donor six-category population percentages remain exactly unchanged by proportional migration.
-
-**New profile distribution:** 14 original states **3,213B**, five eastern states **395B**, and 18 deferred states **804B**, total **4,412B**. Planet-wide ancestry remains unchanged, including **2.221411% Phantomkind** under the frozen representative benchmark. The moved cohorts retain their source ancestry; destination whole-country primary ancestry remains unknown without original resident-census values.
-
-**SDI:** Original 14 current weighted average **0.958950**, eastern five average **0.948714**, residual 18 group **0.898402**, planet **0.947**. No observed SDI shift is inferred in either donor.
-
-**GDP/GNI:** Nominal GDP and GDP shares remain at previous V6.1 levels until the creator chooses a new production-side reallocation; per-capita GDP/GNI proxy values in tables above are **recalculated using new population denominators**, not evidence of realized productivity growth.
-
-## VI. Model FX (nominal USD per local currency unit)
-
-These are accepted **scenario** values, not verified market exchange quotations. The creator requires **REL to be the strongest nominal currency** and **USD 22/unit** to be the smallest local unit quotation.
-
-| Country | Local code (modeled) | USD / 1 local unit |
+| Origin | Destination | People moved (billions) |
 |---|---|---:|
-| Reltronland | REL | 114.26 |
-| Depcutland | DEL | 110.60 |
-| Kalgered | KAL | 105.80 |
-| Aurastelia | ALC | 101.40 |
-| Taramistry | TAR | 99.40 |
-| Astrostelia | AAC | 98.70 |
-| Scenrepolia | SCI | 94.30 |
-| Pasgerflit | PAS | 91.90 |
-| Krisberia | KRF | 86.20 |
-| Stelpadland | ST | 83.30 |
-| Mapether | MWV | 77.60 |
-| Pencilfania | PNL | 73.80 |
-| Calespia | CAL | 71.20 |
-| Lenternow | LNR | 68.20 |
-| Cenrestier | CE | 62.80 |
-| Ethaptoria | EPT | 61.40 |
-| Moreg | MG | 53.60 |
-| Hargenbor | HB | 44.20 |
-| Beluftner | BLF | 22.00 |
+| Astrostelia | Scenrepolia | 10 |
+| Astrostelia | Calespia | 10 |
+| Astrostelia | Ethaptoria | 15 |
+| Lenternow | Scenrepolia | 10 |
+| Lenternow | Krisberia | 10 |
+| Lenternow | Ethaptoria | 10 |
+| Lenternow | Calespia | 10 |
+| **Total** | **7 routes** | **75** |
 
-**Open currency crosswalk:** Existing ALREO legal documents use **KRB** for Krisberia and **MPT** for Mapether, whereas the later FX model uses **KRF** and **MWV**. These must not be silently treated as equal denominations without a conversion/redenomination decision.
+**Donor national SDIs unchanged:** Astrostelia **0.957**, Lenternow **0.935**; each donor's primary ancestry percentages are unchanged by proportional movement. Recipient national primary ancestry remains **unknown** because their original resident mixes were not independently ratified. This is not an assertion of coercive or instantaneous migration; the timeline, consent and legal pathways were not specified by the creator.
 
-## VII. The original fourteen: qualitative civilizational engines
+## 3. Current 19-country quantitative comparison (all national profiles available)
 
-| Nation | Distinct civilization engine |
-|---|---|
-| [Reltronland](../factions/reltronland.md) | Skyscraper/Office-punk, sovereign systems engineering, AI, aerospace and high-output infrastructure |
-| [Depcutland](../factions/depcutland.md) | Neoclassical archive civilization, epistemic memory, law, scholarship and Oracle systems |
-| [Kalgered](../factions/kalgered.md) | Multilateral neutrality, diplomacy, precision, public procedural legitimacy and restraint |
-| [Aurastelia](../factions/aurastelia.md) | Cosmeilian spiritual tradition, aurora harmony, care, emotions and Queen Valethra |
-| [Astrostelia](../factions/astrostelia.md) | Observatories, astronomic science, cosmic exploration and space infrastructure |
-| [Lenternow](../factions/lenternow.md) | Lampunk and photonic illumination: energy, luminous urbanism and cultural diplomacy |
-| [Taramistry](../factions/taramistry.md) | Biochemistry, medical science, pharma, Agri-Synth and scientific meritocracy |
-| [Moreg](../factions/moreg.md) | Automobile and vehicle engineering, road networks, drift/transport technology |
-| [Pencilfania](../factions/pencilfania.md) | Creative democracy, visual literacy, artistic production and public education |
-| [Stelpadland](../factions/stelpadland.md) | Maple-forest stewardship, scouting, experiential education and regional governance |
-| [Pasgerflit](../factions/pasgerflit.md) | Aviation, airport civilization, aeropolis and mobile infrastructure |
-| [Hargenbor](../factions/hargenbor.md) | Oceanic trade, aquaculture, marine technology and nautical institutions |
-| [Beluftner](../factions/beluftner.md) | Ancient native sentient society, arcane institutions, spiritual wisdom and Phantomkind |
-| [Cenrestier](../factions/cenrestier.md) | Fortress civilization, constitutional law, historical protection and continuity |
+**Units:** population = **billions** (1 billion = 1 miliar); GDP = **10²¹ USD per year**; GDP per capita = **billions USD per resident per year**. `Founding BAC` greater number = earlier foundation. Asterisk on Krisberia = conditional date, not final canon.
 
-**No automatic aesthetic → technological-level mapping.** Depcutland can be technologically advanced while visually neoclassical; Scenrepolia can emphasize restrained Magnetopunk rather than neon overload; other civilizations likewise retain independent aesthetics and epistemic frameworks.
+| Nation | Foundation BAC | Population B | SDI | Individual | Institutional | GDP 10²¹ USD | GDP/head B USD | Planet GDP share |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| [Reltronland](../factions/reltronland.md) | 1125 | 855 | 0.984 | 0.9780 | 0.9930 | 47.4490 | 55.496 | 42.0000% |
+| [Depcutland](../factions/depcutland.md) | 1121 | 343 | 0.981 | 0.9730 | 0.9930 | 11.2787 | 32.882 | 9.9834% |
+| [Kalgered](../factions/kalgered.md) | — | 108 | 0.979 | 0.9698 | 0.9928 | 3.1645 | 29.301 | 2.8011% |
+| [Aurastelia](../factions/aurastelia.md) | — | 164 | 0.970 | 0.9760 | 0.9610 | 4.0990 | 24.994 | 3.6283% |
+| [Astrostelia](../factions/astrostelia.md) | — | 185 | 0.957 | 0.9534 | 0.9624 | 5.2595 | 28.430 | 4.6555% |
+| [Lenternow](../factions/lenternow.md) | 2072 | 174 | 0.935 | 0.9334 | 0.9374 | 3.7692 | 21.662 | 3.3363% |
+| [Taramistry](../factions/taramistry.md) | 1210 | 242 | 0.954 | 0.9496 | 0.9606 | 5.4304 | 22.439 | 4.8067% |
+| [Moreg](../factions/moreg.md) | 1713 | 205 | 0.931 | 0.9286 | 0.9346 | 3.2213 | 15.714 | 2.8514% |
+| [Pencilfania](../factions/pencilfania.md) | 2694 | 182 | 0.940 | 0.9444 | 0.9334 | 3.1292 | 17.193 | 2.7699% |
+| [Stelpadland](../factions/stelpadland.md) | 2882 | 141 | 0.961 | 0.9638 | 0.9568 | 2.8757 | 20.395 | 2.5455% |
+| [Pasgerflit](../factions/pasgerflit.md) | 1545 | 279 | 0.949 | 0.9462 | 0.9532 | 6.3590 | 22.792 | 5.6288% |
+| [Hargenbor](../factions/hargenbor.md) | 1984 | 133 | 0.925 | 0.9298 | 0.9178 | 1.7600 | 13.233 | 1.5579% |
+| [Beluftner](../factions/beluftner.md) | — | 91 | 0.896 | 0.9020 | 0.8870 | 0.8429 | 9.263 | 0.7461% |
+| [Cenrestier](../factions/cenrestier.md) | — | 111 | 0.911 | 0.9070 | 0.9170 | 1.2907 | 11.628 | 1.1425% |
+| [Scenrepolia](../factions/scenrepolia.md) | 1234 | 88 | 0.956 | 0.9540 | 0.9590 | 1.4359 | 16.317 | 1.2710% |
+| [Krisberia](../factions/krisberia.md) | 2320* | 58 | 0.955 | 0.9560 | 0.9535 | 0.9545 | 16.457 | 0.8449% |
+| [Mapether](../factions/mapether.md) | 2164 | 74 | 0.937 | 0.9400 | 0.9325 | 1.1346 | 15.332 | 1.0043% |
+| [Ethaptoria](../factions/ethaptoria.md) | 2556 | 84 | 0.950 | 0.9530 | 0.9455 | 1.1065 | 13.173 | 0.9794% |
+| [Calespia](../factions/calespia.md) | 2628 | 91 | 0.946 | 0.9480 | 0.9430 | 1.2352 | 13.574 | 1.0934% |
+| **18-country residual** | — | **804** | **0.898402 weighted** | — | — | **7.1779** | **8.928** | **6.3536%** |
 
-## VIII. Historical macro-causality and Eastern stability
+All 19 individual profile national SDIs are held constant in the migration-only iteration. Their year-by-year productive inputs and their income distributions have **not** been recalculated from a complete post-migration general-equilibrium model.
 
-| BAC date | Established event |
-|---|---|
-| 7478 | Emergence of ancient Beluftner sentient civilization |
-| 3535 | Cosmeilian arrival and cosmological settlement history |
-| 2882 | Stelpadland sovereign foundation |
-| 2694 | Pencilfania foundation chronology |
-| 2628 | Calespia foundation chronology |
-| 2556 | Ethaptoria foundation chronology |
-| 2320 (conditional) | Krisberia proposed founding after Aurastelia and Astrostelia fully reach modern territory |
-| 2164 | Mapether Beluftner long-distance merchant founding |
-| 1673 | Depeisit–Cistheta interstellar pact |
-| 1256 | Cistheta emissaries reach Asthortera |
-| 1234 | Scenrepolia sovereign scientific foundation |
-| 1211 | Initial Depeisit migration |
-| 1186 | Taramistry sovereign scientific foundation |
-| 1153–1138 | Scenrepolia–Taramistry patent/interoperability dispute |
-| 1149–1137 | Calespia–Taramistry botanical sovereignty dispute |
-| 1125 | Reltronland sovereign founding |
-| 1121 | Depcutland sovereign founding |
-| 1057 | Depeisit economic crisis |
-| 1048–1030 | Reltronland–Depcutland open war |
-| 1010 | Troncut Treaty and postwar oversight |
+## 4. Exclusive six-category ancestry
 
-**Additional founder-origin sequence, ratified relative order only:** Mapether → Lenternow → Hargenbor → Moreg → Pasgerflit → Scenrepolia. Lenternow arose from material-rich illumination industrialization designed to avoid the resource curse; Hargenbor from Cosmeilian merchant sailors departing Port of Astro Bay and coastal trade with Lenternow; Moreg from independent Cenrestieran transport manufacturers in favorable border geography; Pasgerflit from an Astrostelian emergency fleet, cascading spaceship-infrastructure failures and a deliberate atmospheric aviation reset. The four exact BAC dates remain open. [Read the proposed historical synthesis](../events/cosmeilian-stewardship-four-industrial-foundings.md).
+### 4.1 Planetary composition — frozen approved representative benchmark
 
-At the **1125–1121 BAC** founding window, the following nations had reached these shares of their modern territorial extent: Stelpadland **100%**, Pencilfania **87%**, Calespia **76%**, Ethaptoria **67%**, Scenrepolia **57%**, Taramistry **45%**, Mapether **39%**, Krisberia **28%**. These are **jurisdictional territory**, not population, urban land or GDP.
+| Primary class | Pre-transfer 14B headcount | Planet representative % | Planet headcount B (projection) | Current 14B headcount | Migrants moved B |
+|---|---:|---:|---:|---:|---:|
+| Depeisit | 1,562.182 | 47.511618% | 2,096.213 | 1,549.032 | 13.150 |
+| Cistheta | 652.985 | 19.859641% | 876.207 | 636.185 | 16.800 |
+| Cosmeilian | 533.000 | 16.210462% | 715.206 | 495.400 | 37.600 |
+| Native Asthorteran | 373.263 | 11.352281% | 500.863 | 369.163 | 4.100 |
+| Phantomkind / Spiritual Hybrid | 73.040 | 2.221411% | 98.009 | 71.890 | 1.150 |
+| Other | 93.530 | 2.844586% | 125.503 | 91.330 | 2.200 |
+| **Total** | **3,288.000** | **100%** | **4,412.000** | **3,213.000** | **75.000** |
 
-**Eastern stability paradox:** Older countries resolved disputes over civic autonomy, professional accreditation, patents and biological provenance with relatively low military escalation. Mapether and Krisberia retained nonbelligerent interstate histories. They offered potential diplomatic and civilian assistance to Reltronland and Depcutland in 1057–1049, 1048–1047 and 1042–1039 BAC; the belligerents rejected **foreign-administered settlement**, not every observation or all future treaty oversight. The later monitoring roles of Beluftner, Kalgered and Aurastelia remain intact.
+The current original 14 states plus the moved primary-ancestry migrant cohorts equal the **3,288B reference population by ancestry**. The planet-wide primary composition remains unchanged by **internal** migration. A primary administrative category is exclusive and is distinct from potentially overlapping *inclusive lineage* measurements.
 
-## IX. Open modeling, audit and editorial issues
+### 4.2 National primary-class percentages (14 countries only)
 
-1. **Individual census of the remaining 18 nations — deferred by creator.** Planet population, SDI and GDP still have strict and reproducible aggregate bounds.
-2. **NCCM V3/V4 sources are historical snapshots.** Some previously published content still states superseded planetary five-way ancestry or pre-uplift amounts; editorial content migration remains separate from the active V6 math.
-3. **Krisberia 2320 BAC is conditional**, requiring proof that Aurastelia and Astrostelia had previously reached modern territorial boundaries.
-4. **Kalgered legacy spending strata sum to 99%.** Needs a distinct creator decision; no invisible 1% adjustment.
-5. **Bottom-up national sectoral economy** must include technology, capital, energy, labor, price deflators and trade before accepted scenario GDP targets become observational measurements.
-6. **KRB vs KRF, MPT vs MWV:** legal and FX references need a currency provenance map.
-7. **Ancestry for five new countries is not measured individually.** The global six-way estimate uses the explicitly accepted 14-state representative weighting.
-8. **Environmental carbon scope, species longevity and fertility, GNI foreign income flows and 2 empty Markdown stubs** remain data-quality improvements.
+| Nation | Pop B after migration | Depeisit | Cistheta | Cosmeilian | Native | Phantomkind | Other |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Reltronland | 855 | 64.0% | 22.0% | 4.0% | 5.0% | 2.0% | 3.0% |
+| Depcutland | 343 | 79.0% | 10.0% | 3.0% | 4.0% | 2.0% | 2.0% |
+| Kalgered | 108 | 40.0% | 10.0% | 13.0% | 33.0% | 2.0% | 2.0% |
+| Aurastelia | 164 | 5.0% | 7.0% | 80.0% | 4.0% | 1.0% | 3.0% |
+| Astrostelia | 185 | 9.0% | 16.0% | 64.0% | 6.0% | 1.0% | 4.0% |
+| Lenternow | 174 | 25.0% | 28.0% | 38.0% | 5.0% | 2.0% | 2.0% |
+| Taramistry | 242 | 54.0% | 25.0% | 12.0% | 5.0% | 2.0% | 2.0% |
+| Moreg | 205 | 43.0% | 30.0% | 13.0% | 10.0% | 2.0% | 2.0% |
+| Pencilfania | 182 | 55.0% | 23.0% | 14.0% | 3.0% | 2.0% | 3.0% |
+| Stelpadland | 141 | 50.0% | 20.0% | 6.0% | 18.0% | 4.0% | 2.0% |
+| Pasgerflit | 279 | 60.0% | 21.0% | 5.0% | 6.0% | 2.0% | 6.0% |
+| Hargenbor | 133 | 41.0% | 40.0% | 6.0% | 8.0% | 3.0% | 2.0% |
+| Beluftner | 91 | 0.2% | 0.5% | 2.0% | 90.3% | 6.0% | 1.0% |
+| Cenrestier | 111 | 7.0% | 8.0% | 7.0% | 70.0% | 5.0% | 3.0% |
 
-### Strict CI policy
+Each individual source nation sums to 100%, independently of the departure volume. **Five new nation census percentages remain O (unknown).** The temporary planetary average should not be copied into them as directly observed local percentages.
 
-`npm run test:worldbuilding` validates preserved historical source invariants and new V6 numeric regressions. `npm run canon:qa:strict` validates the active complete **14 + 5 + 18** accounting partition, with **P0 contradictions failing the job** and genuinely deferred fields reported as **P1/P2**. This change does not delete the 18 missing countries, fabricate their populations, or disable test execution.
+## 5. Society and development (14 detailed nations)
 
-**Canon remains a living, versioned source of truth. Preserve creator choices, document assumptions and never confuse historical snapshots with the active world state.**
+| Nation | Area million km² | Median age years | Life expectancy years | Urbanization | TFR scenario | Education access proxy (0–1) | Unemployment | CO₂ t/person/year |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Reltronland | 104 | 254 | 498 | 97.50% | 1.13 | 0.992 | 1.50% | 4.3 |
+| Depcutland | 52 | 254 | 490 | 96.00% | 1.29 | 0.989 | 1.70% | 3.2 |
+| Kalgered | 108 | 254 | 489 | 86.00% | 1.60 | 0.987 | 1.80% | 1.3 |
+| Aurastelia | 433 | 254 | 485 | 82.00% | 1.91 | 0.978 | 1.60% | 1.7 |
+| Astrostelia | 216 | 253 | 480 | 88.00% | 1.64 | 0.965 | 1.90% | 2.6 |
+| Lenternow | 117 | 251 | 470 | 92.00% | 1.67 | 0.943 | 2.20% | 2.1 |
+| Taramistry | 125 | 252 | 478 | 90.00% | 1.72 | 0.962 | 2.10% | 4.9 |
+| Moreg | 79 | 251 | 468 | 93.00% | 1.47 | 0.939 | 2.30% | 5.4 |
+| Pencilfania | 166 | 252 | 472 | 84.00% | 1.84 | 0.948 | 2.00% | 2.2 |
+| Stelpadland | 200 | 253 | 481 | 73.00% | 1.60 | 0.969 | 1.80% | 1.2 |
+| Pasgerflit | 72 | 252 | 476 | 94.50% | 1.78 | 0.957 | 2.00% | 3.7 |
+| Hargenbor | 39 | 251 | 465 | 87.50% | 1.82 | 0.933 | 2.90% | 3.1 |
+| Beluftner | 88 | 249 | 452 | 72.00% | 1.76 | 0.904 | 3.30% | 1.6 |
+| Cenrestier | 102 | 250 | 459 | 81.00% | 1.69 | 0.919 | 2.70% | 2.6 |
+
+**Scope caveats:** Carbon intensity cannot yet be ranked reliably without harmonizing gross versus offset-adjusted reporting. TFR and educational access proxies are comparative scenarios, not a universal census. National-level median ages and TFR cannot be inferred for the five newer states or the residual 18.
+
+## 6. Macro economy and governance (14 detailed nations)
+
+| Nation | GDP 10²¹ USD | GDP/head B USD | Gini | Public debt / GDP | CPI inflation | Real GDP growth |
+|---|---:|---:|---:|---:|---:|---:|
+| Reltronland | 47.4490 | 55.496 | 0.390 | 85.00% | 0.30% | 7.50% |
+| Depcutland | 11.2787 | 32.882 | 0.250 | 61.00% | 0.28% | 7.50% |
+| Kalgered | 3.1645 | 29.301 | 0.210 | 45.00% | 0.26% | 6.90% |
+| Aurastelia | 4.0990 | 24.994 | 0.230 | 48.00% | 0.24% | 7.00% |
+| Astrostelia | 5.2595 | 28.430 | 0.280 | 56.00% | 0.37% | 7.80% |
+| Lenternow | 3.7692 | 21.662 | 0.310 | 57.00% | 0.35% | 7.30% |
+| Taramistry | 5.4304 | 22.439 | 0.320 | 68.00% | 0.41% | 8.20% |
+| Moreg | 3.2213 | 15.714 | 0.330 | 65.00% | 0.37% | 8.30% |
+| Pencilfania | 3.1292 | 17.193 | 0.290 | 53.00% | 0.32% | 7.10% |
+| Stelpadland | 2.8757 | 20.395 | 0.240 | 42.00% | 0.27% | 6.80% |
+| Pasgerflit | 6.3590 | 22.792 | 0.320 | 63.00% | 0.36% | 8.20% |
+| Hargenbor | 1.7600 | 13.233 | 0.370 | 74.00% | 0.45% | 6.70% |
+| Beluftner | 0.8429 | 9.263 | 0.280 | 44.00% | 0.48% | 6.20% |
+| Cenrestier | 1.2907 | 11.628 | 0.300 | 59.00% | 0.34% | 6.70% |
+
+All GDP values are the **integrated V6 nominal 10× scenario**. The country GDP shares are fixed; per-capita figures use the updated V6.2 population denominators for Astrostelia and Lenternow. The public-debt, price, employment and Gini indicators are inherited national benchmark/source fields and are **not** claimed as newly measured post-transfer values.
+
+### 6.1 Accounting identities
+
+- **Production:** GDP = Σ sector gross value added + taxes on products − subsidies on products.
+- **Expenditure:** GDP = private consumption + investment + government final consumption + exports − imports.
+- **National income:** GNI = GDP + net primary income from foreign jurisdictions. The active *zero net primary-income bridge* is a simplifying **scenario assumption**.
+- **After a fixed GDP and population shift:** GDP per head changes mechanically, not necessarily labor productivity or household disposable income.
+- **SDI framework:** National SDI = 60% modeled individual capability + 40% modeled institutional quality; national values remain creator-approved modeling baselines, not biological group hierarchy.
+
+## 7. Eastern five — sectoral value-added specializations
+
+The following are modeled **gross value-added percentage allocations**, not employment shares or percentages of residents. Each totals 100%, and no sector may be double counted by adding exports above already-counted production.
+
+### Scenrepolia: Electromagnetism; induction and materials
+
+| Value-added sector | % of national model GDP |
+|---|---:|
+| Field systems and infrastructure | 38% |
+| Magnetic materials and precision components | 23% |
+| Research education and testing | 17% |
+| Trade and technical services | 15% |
+| Other sectors | 7% |
+| **Total** | **100%** |
+
+### Krisberia: Crystal craftsmanship and advanced materials
+
+| Value-added sector | % of national model GDP |
+|---|---:|
+| Advanced crystals and materials | 35% |
+| Craftsmanship and luxury goods | 27% |
+| Design and research | 18% |
+| Finance and professional services | 14% |
+| Other sectors | 6% |
+| **Total** | **100%** |
+
+### Mapether: Fashion and textiles
+
+| Value-added sector | % of national model GDP |
+|---|---:|
+| Textiles and smart fabrics | 34% |
+| Garments and fashion | 25% |
+| Logistics and commerce | 20% |
+| Services and design | 15% |
+| Other sectors | 6% |
+| **Total** | **100%** |
+
+### Ethaptoria: Combinatorial education and puzzle simulation
+
+| Value-added sector | % of national model GDP |
+|---|---:|
+| Logic software and simulation | 32% |
+| Education and cognitive tools | 28% |
+| Electronics and research | 20% |
+| Experience and professional services | 13% |
+| Other sectors | 7% |
+| **Total** | **100%** |
+
+### Calespia: Agribiotechnology gastronomy and food science
+
+| Value-added sector | % of national model GDP |
+|---|---:|
+| Agribiotechnology and agricultural science | 31% |
+| Food processing | 26% |
+| Gastronomy and tourism | 21% |
+| Logistics and services | 15% |
+| Other sectors | 7% |
+| **Total** | **100%** |
+
+
+**Production-side reconciliation is still open.** Labor force, capital investment, factories, energy supplies, trade intermediate inputs, technical constraints, depreciation, price deflators and productivity paths must be calibrated before sector percentage targets become a true bottom-up input-output dataset.
+
+## 8. Valuta asing — 19 modeled national currencies
+
+**Nominal one-unit USD comparisons:** REL has the highest quoted unit; Beluftner's unit is the floor of **USD 22.00**. These are scenario FX quotes, not indicators of real purchasing power.
+
+| Nation | Currency code | USD per 1 unit | Provenance |
+|---|---|---:|---|
+| Reltronland | REL | 114.26 | existing_REL_reference |
+| Depcutland | DEL | 110.60 | approved_scenario_fx |
+| Kalgered | KAL | 105.80 | approved_scenario_fx |
+| Aurastelia | ALC | 101.40 | approved_scenario_fx |
+| Taramistry | TAR | 99.40 | approved_scenario_fx |
+| Astrostelia | AAC | 98.70 | approved_scenario_fx |
+| Scenrepolia | SCI | 94.30 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Pasgerflit | PAS | 91.90 | approved_scenario_fx |
+| Krisberia | KRF | 86.20 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Stelpadland | ST | 83.30 | approved_scenario_fx |
+| Mapether | MWV | 77.60 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Pencilfania | PNL | 73.80 | approved_scenario_fx |
+| Calespia | CAL | 71.20 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Lenternow | LNR | 68.20 | approved_scenario_fx |
+| Cenrestier | CE | 62.80 | approved_scenario_fx |
+| Ethaptoria | EPT | 61.40 | approved_scenario_fx; legacy_crosswalk_open_if_applicable |
+| Moreg | MG | 53.60 | approved_scenario_fx |
+| Hargenbor | HB | 44.20 | approved_scenario_fx |
+| Beluftner | BLF | 22.00 | approved_scenario_fx |
+
+**Crosswalk O:** historic legal references to **KRB** (Krisberia) and **MPT** (Mapether) conflict with modeled **KRF** and **MWV**; do not silently equate denominations or assume a conversion ratio. GDP nominal USD and local prices require historical FX/PPP calibration.
+
+## 9. Qualitative 19-country civilization matrix
+
+| Nation | Civilizational engine and distinctive aesthetic | Productive and institutional specialization |
+|---|---|---|
+| Reltronland | Skyscraper/Office-punk and advanced sovereign systems | Tech systems, megastructures, space and institutional clarity |
+| Depcutland | Neoclassical library and the Oracle of Asthortera | Archives, scholarship, law and knowledge infrastructure |
+| Kalgered | Strategic neutrality and constitutional restraint | Diplomacy, precision standards and balance of influence |
+| Aurastelia | Aurora Sancta, harmony and Cosmeilian spirituality | Ritual and scientific ethics, cultural care |
+| Astrostelia | Observatory and outer-space research civilization | Research, orbital technology and spacecraft infrastructure |
+| Lenternow | Lanternlight / Lampunk and sustainable illumination | Phosphor materials, light manufacture and luminous civic services |
+| Taramistry | Chemispunk/Pharmapunk: synthesis and bioethics | Biotechnology, pharmaceuticals and applied science |
+| Moreg | Nation of Endless Roads / automotive modernism | Vehicle and component manufacture, transport networks, road/AI systems |
+| Pencilfania | Art, expressive education and creative institutions | Visual communication and design, creativity |
+| Stelpadland | Maple-forest, scouting and field learning | Forest stewardship, practical training, environment |
+| Pasgerflit | Sky Nation: aviation and airport culture | Civil air transport, airfields, aerospace MRO and manufacturing |
+| Hargenbor | Coastal Loop, marine trade and maritime culture | Marine production, shipping, trade and underwater industry |
+| Beluftner | Ancient native magical-spiritual civilization | Spiritual knowledge, long history and Phantomkind presence |
+| Cenrestier | Land of Fortresses and protected memory | Defense, heritage architecture and historical institutional continuity |
+| Scenrepolia | Electromagnetic civilization; U-shaped magnet | Field engineering, magnetic materials, induction and industrial systems |
+| Krisberia | Crystalline kingdom and materials craftsmanship | Crystal engineering, quality control, luxury craft |
+| Mapether | Textiles, fashion, jazz and creative identity | Garment industry, high-value textiles and design |
+| Ethaptoria | Puzzle, question-first education and simulation | Educational technology, logic models and experience design |
+| Calespia | Agricultural-gastronomic civilization | Agribiotechnology, food processing and hospitality |
+
+Social and political rights attach to sentient persons, not national cultural archetypes. Aesthetic descriptions are creative identity anchors **not** technical measures of SDI, economic production or physical ancestry.
+
+## 10. Ratified chronology and cross-country causality
+
+**BAC** is a common narrative translation calendar, not proof every country used this system locally. Larger BAC numbers are older.
+
+| Year | Nation | Canon status | Founding or historical origin |
+|---|---|---|---|
+| 2882 BAC | Stelpadland | existing | Established historical founding reference |
+| 2694 BAC | Pencilfania | existing | Established historical founding reference |
+| 2628 BAC | Calespia | existing | Established historical founding reference |
+| 2556 BAC | Ethaptoria | existing | Established historical founding reference |
+| 2320 BAC* | Krisberia | conditional | Established historical founding reference |
+| 2164 BAC | Mapether | existing | Established historical founding reference |
+| 2072 BAC | Lenternow | creator ratified | illumination materials and deliberate domestic industrialization |
+| 1984 BAC | Hargenbor | creator ratified | Cosmeilian seafaring merchants from Port of Astro Bay; Coastal Loop; trade with Lenternow |
+| 1713 BAC | Moreg | creator ratified | independent Cenrestieran transport manufacturers, direct land border and material/geographic advantage |
+| 1545 BAC | Pasgerflit | creator ratified | Astrostelian spacecraft fleet emergency landing; cascading landing infrastructure failures; re-engineered atmospheric aviation |
+| 1234 BAC | Scenrepolia | existing | independent scientific development, national symbol U magnet |
+| 1210 BAC | Taramistry | creator ratified | independent local biochemical and pharmaceutical science following Cisthetan scientific contact |
+| 1125 BAC | Reltronland | existing | Established historical founding reference |
+| 1121 BAC | Depcutland | existing | Established historical founding reference |
+
+**Key anchors:** Cosmeilian arrival **3535 BAC**; Kalgered–Cosmeilia transit/Port of Astro Bay agreement **3364 BAC**; Depeisit–Cistheta Pact **1673 BAC**; Cisthetan emissaries reach Asthortera **1256 BAC**; Depeisit first wave **1211 BAC**; Scenrepolia–Taramistry patent dispute **1153–1138 BAC**; Calespia–Taramistry botanical sovereignty dispute **1149–1137 BAC**. The newly ratified **1210 BAC** Taramistry foundation precedes both disputes.
+
+**Four different pre-state development mechanisms** now have fixed foundation dates: **Lenternow 2072 BAC** (illumination materials/anti-resource-curse processing), **Hargenbor 1984 BAC** (Port of Astro Bay merchants/coastal trade), **Moreg 1713 BAC** (independent Cenrestieran transport industrialists), **Pasgerflit 1545 BAC** (Astrostelian emergency fleet / aerospace failure cascade / scaled civilian aviation). All existed under wider Cosmeilian custodial safety influence **without** requiring Cosmeilian administrative annexation or a Cosmeilian modern population majority.
+
+**Krisberia 2320 BAC remains conditional**, subject to proving Aurastelia and Astrostelia had attained 100% of modern territory first. It is not elevated to unconditional canon just because nearby dates were ratified.
+
+## 11. Open cross-domain reconciliation issues (not hidden or bypassed)
+
+1. **18 country-specific censuses** remain intentionally deferred by creator decision; the 804B population and aggregate GDP/SDI must always reconcile.
+2. **Five new national primary ancestry profiles** are unmeasured. Migrant cohort ancestry is known by source but pre-existing resident composition is unknown.
+3. **The 10× GDP/GNI uplift** is a creator-approved income-output scenario, but independent sectoral real production, capital, imports, labor, total factor productivity and deflators have not been calibrated.
+4. **Country CPI, TFR and social statistics** largely derive from earlier modeled comparatives; they do not automatically shift with 75B internal migrants.
+5. **Kalgered legacy spending brackets total 99%** and lack an authorized one-percentage-point reallocation.
+6. **KRB/KRF and MPT/MWV** local money identifiers still conflict across historical legal and FX proposal documentation.
+7. **Some archived content** still contains old five-way ancestry, earlier pre-10× national GDP or previous migration populations. Current source-of-truth is this document and the V6.3 JSON; historical snapshots remain available with provenance.
+8. **Theoretical SDI of the 18-state bloc** is a balancing value, not a verified observed outcome. Recomputing it after migration is valid under a fixed planetary population-weighted SDI of 0.947, but not a claim of changed individual welfare.
+9. **Space infrastructure continuity:** Pasgerflit's **1545 BAC** aviation standardization does *not* imply spacecraft were first invented then; the surrounding worlds already possessed spaceflight.
+
+### Explicit QA contract
+
+`npm run test:worldbuilding` runs the historical and current regression suites. `npm run canon:qa:strict` enforces source dates and the active 37-state 14/5/18 population partition, six-class conservation under migration, SDI reconciliation and GDP/FX accounting. A genuinely contradicted numeric claim is **P0 failure**; honestly deferred country-level estimates are **P1/P2**, never invented to make the CI green.
+
+**The world is coherent when its historical causes, physical production, demographic identities and institutional choices agree without falsely declaring missing information complete.**
