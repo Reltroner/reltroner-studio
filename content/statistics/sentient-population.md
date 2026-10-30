@@ -22,7 +22,6 @@ This document provides a detailed overview of the sentient population structures
   - 10% Cosmeilia-Human mixed
   - 7% Native Asthorteran Human-Wizard-Witch
   - 3% Others (alien humanoids, hybrids)
-- **Correction:** this supersedes the older 61/24/5/7/3 ancestry model; recent immigration and citizenship are separate variables.
 - **Notable Characteristic:** Asthortera is the primary destination for immigrants across the galaxy, known for its exceptionally high standard of living and balanced civilization, attracting those seeking long-term prosperity and development.
 
 ---
