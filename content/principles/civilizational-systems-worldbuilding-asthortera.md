@@ -337,6 +337,12 @@ This means national borders remain meaningful while economic effects
 
 cross them.
 
+### NCCM V2 — Narrative-Constrained Statistical Remodeling Boundary
+
+The [NCCM V2 statistical audit](../statistics/asthortera-nccm-remodeling.md) treats **dated narrative events and the binding Master Source of Truth** as qualitative constraints before models are calibrated, then validates population, survival, GDP, inflation, income, SDI and spatial accounts through consistent denominators. This is **development material**, not an alternate planetary constitution or a frozen 1010-year time series.
+
+Separate **ancestry from recent migration**, **GNI from GDP**, **GDP flows from market capitalization stock**, **nominal FX from PPP**, **CPI from GDP deflator**, **private expenditure from material welfare**, **national Gini from planetary Gini**, **urban population from built area and biological occupancy**, and **exceptional narrative incidents from normal lived conditions**. Reconcile national accounts without double counting cross-border production, and preserve sovereign local agency despite planetary economic concentration.
+
 ### Material Post-Scarcity Is Not Post-Competition
 
 Asthortera's ordinary livelihood is not organized around compulsory expenditure for **food, water, habitable accommodation, energy, essential services, public infrastructure, construction capacity, and maintenance**. These provisions apply to the planet's broad civilizational baseline, rather than being contingent on individual market prestige.
