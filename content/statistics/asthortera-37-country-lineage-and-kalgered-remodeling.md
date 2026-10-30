@@ -16,6 +16,8 @@ tags:
 
 # Asthortera 37-Country Census and Kalgered Economic Remodeling
 
+**NCCM V4 demographic update (2026-10-30):** Beluftner now has **2% Cosmeilian primary**, **6% Phantomkind / Spiritual Hybrid primary** and **1% Other primary**, with Native 90.3%, Cistheta 0.5%, and Depeisit 0.2% unchanged. The fourteen-state Cosmeilian source subtotal is now **535.200 billion**; known Phantomkind-primary minimum **5.460 billion**. Thirteen national Phantomkind primary rates and global six-way partition are **unknown, not zero**. See [V4 ancestry census](./asthortera-phantomkind-demography-v4.md). Older five-way Beluftner values are superseded.
+
 **Creator directives (2026-10-30):** Asthortera population stays at **4.412 trillion**, distributed across **37 sovereign nations**. The current 14 profiled nations total **3.288 trillion** and are a **partial census**, not the entire planetary roster. The remaining **23 nations together contain 1.124 trillion sentients**; their individual national populations must not be fabricated or allocated uniformly without historical/national sources.
 
 ## 1. Two different census dimensions, never conflated
@@ -30,10 +32,10 @@ tags:
 |---|---:|---|
 | People residing in the 14 profiled nations | **3,288 billion** | 74.524% of the fixed planet |
 | People of the other 23 nations | **1,124 billion** | 25.476%; not yet allocated by nation |
-| Cosmeilian all-manifestation lineage (reported minimum) | **539.750 billion** | Not a final global count |
+| Cosmeilian all-manifestation lineage (reported minimum) | **535.200 billion** | Not a final global count |
 | Native Asthorteran lineage (reported minimum) | **378.753 billion** | Not a final global count |
 
-**Country source labels are not yet all mapped into one standardized lineage ontology.** These lower bounds assume the 14 country population snapshots are contemporaneous, non-overlapping residents and the source ancestry terms are harmonized. Under those assumptions the final planet-wide Cosmeilian count must be **significantly above 539.750 billion** and the native lineage count **significantly above 378.753 billion**, as the creator explicitly requires.
+**Country source labels are not yet all mapped into one standardized lineage ontology.** These lower bounds assume the 14 country population snapshots are contemporaneous, non-overlapping residents and the source ancestry terms are harmonized. Under those assumptions the final planet-wide Cosmeilian count must be **significantly above 535.200 billion** and the native lineage count **significantly above 378.753 billion**, as the creator explicitly requires.
 
 ### Non-canonical sensitivity scenario: 15% Cosmeilian, 12% native
 
@@ -41,10 +43,10 @@ For modeling feasibility only, use **15% Cosmeilian all-manifestation incidence 
 
 | Lineage | Existing 14-state headcount | Scenario planet headcount | Required in other 23 countries |
 |---|---:|---:|---:|
-| Cosmeilian all manifestations | 539.750 B | **661.800 B** | **122.050 B** |
+| Cosmeilian all manifestations | 535.200 B | **661.800 B** | **126.600 B** |
 | Native Asthorteran | 378.753 B | **529.440 B** | **150.687 B** |
 
-Thus, among the other 1.124 trillion, required Cosmeilian inclusive incidence is **~10.86%**, and native incidence is **~13.41%**. Individuals with multiple lineages are counted in both incidence totals, **never twice in planetary population**.
+Thus, among the other 1.124 trillion, required Cosmeilian inclusive incidence is **~11.26%**, and native incidence is **~13.41%**. Individuals with multiple lineages are counted in both incidence totals, **never twice in planetary population**.
 
 **15% and 12% are candidates only, NOT ratified national or planetary headline figures.** The planet has exactly **4.412 trillion unique residents**. The 37-nation full census and ancestry taxonomy must be reconciled before any global-inclusive count is described as a verified historical observation. Other ancestral category shares must not be reverse-engineered from the inclusive figures by subtracting them from the old primary partition.
 
