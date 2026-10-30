@@ -684,10 +684,10 @@ The subsequent sovereign foundation chronology is:
 | Foundation (BAC) | State | Foundation mechanism |
 |---|---|---|
 | **2882** | Stelpadland | Scot Stetson's sovereign consolidation of a pre-existing Kalgeredian-influenced frontier |
-| **2694** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
+| **2732** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
 | **2628** | Calespia | Post-Stetson agricultural settlement, later culinary specialization |
 | **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
-| **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
+| **2320** | Krisberia | Aurastelian-descended founders; no territorial-completion prerequisite to Krisberia's sovereign founding |
 | **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
 | **2072** | Lenternow | Illumination-resource development and anti-resource-curse industrialization |
 | **1984** | Hargenbor | Cosmeilian maritime merchants, Port of Astro Bay and Lenternow trade |
@@ -697,7 +697,7 @@ The subsequent sovereign foundation chronology is:
 | **1210** | Taramistry | Cistheta-influenced **local** biochemical and pharmaceutical discoveries |
 
 
-These countries did not form a Stelpadian empire, a single colonial system, or a permanent political alliance. Krisberia arose after Aurastelian migration and **only after Aurastelia and Astrostelia had attained 100% of their modern territories** (the proposed 2320 BAC date remains conditional on dating that prerequisite). Mapether came from Beluftner merchant seafarers whose expedition set a distance record; the small settler population decided not to extend toward the more resource-rich future Reltronland region because onward logistical and administrative costs outweighed the benefit. Initial extents were about **4%** of modern Krisberia and **5%** of modern Mapether. Depeisit migration later brought language and 1930s-inspired gangster-chic fashion to Mapether, not its original sovereignty.
+These countries did not form a Stelpadian empire, a single colonial system, or a permanent political alliance. Krisberia arose from Aurastelian-descended migration and was independently founded in **2320 BAC, unconditionally**, irrespective of when Aurastelia and Astrostelia reached their modern territorial boundaries. Mapether came from Beluftner merchant seafarers whose expedition set a distance record; the small settler population decided not to extend toward the more resource-rich future Reltronland region because onward logistical and administrative costs outweighed the benefit. Initial extents were about **4%** of modern Krisberia and **5%** of modern Mapether. Depeisit migration later brought language and 1930s-inspired gangster-chic fashion to Mapether, not its original sovereignty.
 
 At the **1125–1121 BAC** foundation window of Reltronland and Depcutland, the eight countries' territorial extents relative to their modern borders were: **Stelpadland 100%, Pencilfania 87%, Calespia 76%, Ethaptoria 67%, Scenrepolia 57%, Taramistry 45%, Mapether 39%, and Krisberia 28%**. These figures measure national territory against later boundaries, **not** the population share, percentage of built or inhabited land, biodiversity loss, or economic output.
 
