@@ -288,11 +288,13 @@ Functions:
 
 | Group                   | Percentage |
 | ----------------------- | ---------- |
-| Human Wizard-Witch      | 90.3%      |
-| Phantomkind             | 6.0%       |
-| Cistheta Descendants    | 0.5%       |
-| Depeisit Descendants    | 0.2%       |
-| Other Spiritual Hybrids | 3.0%       |
+| Human Wizard-Witch — Native Asthorteran | **90.3%** |
+| Unified Cosmeilian lineage (cosmic manifestations and mixed descendants) | **7.0%** |
+| Cistheta descendants | **0.5%** |
+| Depeisit descendants | **0.2%** |
+| Other spiritual/phantom lineages | **2.0%** |
+
+**Ratified Year 0 classification: native 90.3%, Cosmeilian 7%, Cistheta 0.5%, Depeisit 0.2%, others 2% = 100%.** Phantomkind and spiritual hybrids remain valid cultural/biological **subtypes** and should not be misread as eliminated populations. The updated primary reporting allocates some historical subtype records to the unified Cosmeilian ancestry; a detailed individual-level subtype crosswalk remains development material.
 
 Beluftner possesses one of the highest concentrations of native Asthorteran populations in the world.
 
