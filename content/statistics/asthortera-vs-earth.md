@@ -45,7 +45,7 @@ Asthortera-scale understanding
 | **Natural Moons** | **12** | **1** |
 | **Surface Gravity** | **~11 m/s²** | **~9.8 m/s²** |
 | **Sentient Population** | **~4.412 trillion** | External reference only; date-dependent |
-| **Average SDI** | **0.938 / 1.000** | Not applicable |
+| **Average SDI** | **0.947 / 1.000** | Not applicable |
 | **Median Age** | **~252 years** | External reference only |
 | **Life Expectancy** | **~475 years** | External reference only |
 | **Urbanization Rate** | **~89.5%** | External reference only |
@@ -284,7 +284,7 @@ A citizen may participate in several major economic, technological, cultural, or
 
 | Indicator | **1010 BAC** | **Year 0** |
 |---|---:|---:|
-| **Planetary SDI** | **0.707** | **0.938** |
+| **Planetary SDI** | **0.707** | **0.947** |
 | **Period life expectancy** | **80 years** | **~475 years** |
 | **Annual planetary real economic growth** | **10%** | **7.5%** |
 
@@ -423,7 +423,7 @@ Its civilizations are also evaluated through the **Sentient Development Index (S
 
 The planetary average is:
 
-> **0.938 / 1.000**
+> **0.947 / 1.000**
 
 SDI measures the **inner infrastructure of civilization**, including:
 
@@ -450,7 +450,7 @@ The central question is:
 
 | Indicator | **1010 BAC** | **Year 0** |
 |---|---:|---:|
-| **Planetary SDI** | **0.707** | **0.938** |
+| **Planetary SDI** | **0.707** | **0.947** |
 | **Period life expectancy** | **80 years** | **~475 years** |
 | **Annual planetary real economic growth** | **10%** | **7.5%** |
 
@@ -960,7 +960,7 @@ Its defining measurements are:
 - **Median age:** ~252 years
 - **Life expectancy:** ~475 years
 - **Urbanization:** ~89.5%
-- **Average SDI:** 0.938 / 1.000
+- **Average SDI:** 0.947 / 1.000
 
 Its civilizations can occupy territories comparable to or larger than entire Earth continents while still appearing geographically modest on the planetary map.
 
