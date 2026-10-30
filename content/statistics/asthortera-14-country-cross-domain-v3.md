@@ -100,28 +100,28 @@ The combined 23-country SDI is a **conditional implied mean**, not a claim that 
 
 **Historic-growth restructuring:** Kalgered's former **7% average per year over the last century** and Taramistry's **8% average** are not maintained as permanent 100-year national CAGRs. **Kalgered 3.0% and Taramistry 3.5% last-100-year real CAGR** are modeling proposals; **7%/8% specific-year exceptional booms** preserve their innovation narratives. See [Kalgered](../factions/kalgered.md) and [Taramistry](../factions/taramistry.md). These national 100-year scenario rates are different from Year 0 single-year growth and the 1010-year **nominal USD GDP** α/ρ endpoints.
 
-## 4. Ratified country-primary ancestry reporting (not inclusive incidence)
+## 4. NCCM V4 — Phantomkind / Spiritual Hybrid six-category ancestry overlay
 
-| Country | Depeisit | Cistheta | Primary Cosmeilian (all forms) | Native | Other |
-|---|---:|---:|---:|---:|---:|
-| [Reltronland](../factions/reltronland.md) | 66,0% | 22,0% | 4,0% | 5,0% | 3,0% |
-| [Depcutland](../factions/depcutland.md) | 81,0% | 10,0% | 3,0% | 4,0% | 2,0% |
-| [Kalgered](../factions/kalgered.md) | 40,0% | 10,0% | 13,0% | 35,0% | 2,0% |
-| [Aurastelia](../factions/aurastelia.md) | 5,0% | 7,0% | 80,0% | 4,0% | 4,0% |
-| [Astrostelia](../factions/astrostelia.md) | 9,0% | 16,0% | 65,0% | 6,0% | 4,0% |
-| [Lenternow](../factions/lenternow.md) | 26,0% | 29,0% | 38,0% | 5,0% | 2,0% |
-| [Taramistry](../factions/taramistry.md) | 54,0% | 25,0% | 12,0% | 5,0% | 4,0% |
-| [Moreg](../factions/moreg.md) | 45,0% | 30,0% | 13,0% | 10,0% | 2,0% |
-| [Pencilfania](../factions/pencilfania.md) | 56,0% | 23,0% | 14,0% | 3,0% | 4,0% |
-| [Stelpadland](../factions/stelpadland.md) | 52,0% | 22,0% | 6,0% | 18,0% | 2,0% |
-| [Pasgerflit](../factions/pasgerflit.md) | 62,0% | 21,0% | 5,0% | 6,0% | 6,0% |
-| [Hargenbor](../factions/hargenbor.md) | 44,0% | 40,0% | 6,0% | 8,0% | 2,0% |
-| [Beluftner](../factions/beluftner.md) | 0,2% | 0,5% | 7,0% | 90,3% | 2,0% |
-| [Cenrestier](../factions/cenrestier.md) | 7,0% | 8,0% | 7,0% | 73,0% | 5,0% |
+The creator recognizes **Phantomkind / Spiritual Hybrid** as a distinct, global primary registration category. Beluftner's **6% Phantomkind, 2% Cosmeilian, 1% Other** values are ratified. The other thirteen countries have **unknown, not zero** Phantomkind primary proportions: their inherited five-category tables already sum to 100%. [Detailed V4 crosswalk](./asthortera-phantomkind-demography-v4.md).
 
-The **Cosmeilian lineage variable** combines cosmic races and Cosmeilia-Human descendants regardless of shapeshifting manifestations. Primary groups sum to 100% **within each country**; inclusive ancestry incidence may overlap among lineages. The four revised profiles remain **Taramistry 54/25/12/5/4, Pencilfania 56/23/14/3/4, Beluftner .2/.5/7/90.3/2, Hargenbor 44/40/6/8/2**.
+| Country | Depeisit | Cistheta | Cosmeilian | Native | Phantomkind / Spiritual Hybrid | Other |
+|---|---:|---:|---:|---:|---:|---:|
+| [Reltronland](../factions/reltronland.md) | 66,0% | 22,0% | 4,0% | 5,0% | Unknown† | 3,0% |
+| [Depcutland](../factions/depcutland.md) | 81,0% | 10,0% | 3,0% | 4,0% | Unknown† | 2,0% |
+| [Kalgered](../factions/kalgered.md) | 40,0% | 10,0% | 13,0% | 35,0% | Unknown† | 2,0% |
+| [Aurastelia](../factions/aurastelia.md) | 5,0% | 7,0% | 80,0% | 4,0% | Unknown† | 4,0% |
+| [Astrostelia](../factions/astrostelia.md) | 9,0% | 16,0% | 65,0% | 6,0% | Unknown† | 4,0% |
+| [Lenternow](../factions/lenternow.md) | 26,0% | 29,0% | 38,0% | 5,0% | Unknown† | 2,0% |
+| [Taramistry](../factions/taramistry.md) | 54,0% | 25,0% | 12,0% | 5,0% | Unknown† | 4,0% |
+| [Moreg](../factions/moreg.md) | 45,0% | 30,0% | 13,0% | 10,0% | Unknown† | 2,0% |
+| [Pencilfania](../factions/pencilfania.md) | 56,0% | 23,0% | 14,0% | 3,0% | Unknown† | 4,0% |
+| [Stelpadland](../factions/stelpadland.md) | 52,0% | 22,0% | 6,0% | 18,0% | Unknown† | 2,0% |
+| [Pasgerflit](../factions/pasgerflit.md) | 62,0% | 21,0% | 5,0% | 6,0% | Unknown† | 6,0% |
+| [Hargenbor](../factions/hargenbor.md) | 44,0% | 40,0% | 6,0% | 8,0% | Unknown† | 2,0% |
+| [Beluftner](../factions/beluftner.md) | 0,2% | 0,5% | 2,0% | 90,3% | 6,0% | 1,0% |
+| [Cenrestier](../factions/cenrestier.md) | 7,0% | 8,0% | 7,0% | 73,0% | Unknown† | 5,0% |
 
-The fourteen-state reported **Cosmeilian source subtotal is 539.750 billion** and **native source subtotal 378.753 billion**. There are 23 other sovereign states containing **1.124 trillion** residents; inclusive planet lineage totals must be calibrated from those populations, not held under any single-choice primary-class cap. Former **15% Cosmeilian / 12% native planet-incidence scenario** is a *sensitivity candidate*, never a published census.
+† **Unknown, not 0%.** No country may receive a new positive primary demographic share without reducing some previous assigned category. These rows remain mixed five-way legacy / six-way new census until harmonized. Derived source primary totals across all fourteen: **535.200 billion Cosmeilian**, **378.753 billion Native**, and **at least 5.460 billion Phantomkind** (Beluftner). The global old **58/22/10/7/3** partition is not a harmonized six-way planetary primary taxonomy; reconcile before claiming precise global Phantomkind percentages.
 
 ## 5. Qualitative economy, currencies and education
 
