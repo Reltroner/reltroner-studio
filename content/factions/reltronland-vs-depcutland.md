@@ -97,10 +97,10 @@ The comparatively young Eastern Continent, east of the Central Ocean, already po
 | Foundation (BAC) | State | Foundation mechanism |
 |---|---|---|
 | **2882** | Stelpadland | Scot Stetson's sovereign consolidation of a pre-existing Kalgeredian-influenced frontier |
-| **2694** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
+| **2732** | Pencilfania | Post-Stetson eastern exploration, independent creative civilization |
 | **2628** | Calespia | Post-Stetson agricultural settlement, later culinary specialization |
 | **2556** | Ethaptoria | Post-Stetson exploration, combinatorial education and puzzle traditions |
-| **2320 (conditional)** | Krisberia | Aurastelian emigrants; both Aurastelia and Astrostelia must already have attained their modern territorial extents |
+| **2320** | Krisberia | Aurastelian-descended founders; no territorial-completion prerequisite to Krisberia's sovereign founding |
 | **2164** | Mapether | Beluftner long-distance maritime merchants; later cultural and linguistic adoption from Depeisit |
 | **2072** | Lenternow | Illumination-resource development and anti-resource-curse industrialization |
 | **1984** | Hargenbor | Cosmeilian maritime merchants, Port of Astro Bay and Lenternow trade |
