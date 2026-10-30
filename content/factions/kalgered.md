@@ -202,6 +202,10 @@ another instrument of escalation**.
 
 ## Population by Origin
 
+The **13% Cosmeilia Cosmic Races** reported here is included in the single planetary **Cosmeilian Lineage — All Manifestations** inclusive variable, also covering Cosmeilia-Human mixed sentients. A humanoid/fairy/star/comet/aurora form is not a separate person when an individual changes manifestation. **35% native Asthorterans** contributes to inclusive native lineage accounting. Kalgered's national population is **108 billion**, a component of the immutable **4.412 trillion** residents across **37 sovereign countries**. Inclusive lineage census and exclusive primary-ancestry reporting use different counting rules.
+
+
+
 -   40% --- Humans descended from planet **Depeisit**
 -   35% --- Indigenous Asthorterans (*Human-Wizard-Witch*)
 -   13% --- Cosmeilia Cosmic Races
@@ -214,6 +218,12 @@ another instrument of escalation**.
 -   Female: 49%
 
 ## Daily Spending Categories
+
+**Accounting and remodeling notice (2026-10-30):** the historical five-tier table below is **not a complete reconciled distribution**, and must not be used to calculate income Gini or current annual private spending. The band thresholds alone yield **at least KAL 47,530/day** in average minimum private spending across the stated 99% classified population, versus **KAL 49,195.64/day** derived from national per-capita GNI. This is a significant cross-domain modeling constraint, not merely a 1% rounding issue.
+
+A **NONCANONICAL Kalgered V1 remodeling candidate** proposes a complete **2% / 18% / 45% / 30% / 5%** distribution across revised private-expenditure bands, alongside a separate SDI-component methodology while **retaining SDI 0.979, population 108 billion, and GNI per capita KAL 17,956,408**. Those provisional shares must not silently replace the historic table until explicitly ratified. See the [37-country lineage and Kalgered remodeling proposal](../statistics/asthortera-37-country-lineage-and-kalgered-remodeling.md) and its [structured candidate](../../data/asthortera/kalgered-remodeling-candidate-v1.json).
+
+
 
 -   \<KAL100 (Impoverished): 1%
 -   KAL100--KAL9,999 (Lower Middle): 30%
