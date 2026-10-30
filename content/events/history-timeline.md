@@ -324,10 +324,10 @@ Stelpadland becomes a civilization of wilderness memory, disciplined survival, a
 | Date | State | Lineage |
 |---|---|---|
 | **2882 BAC** | Stelpadland | Scot Stetson's independent Kalgered-influenced frontier |
-| **2694 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
+| **2732 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
 | **2628 BAC** | Calespia | Post-Stetsonian agriculture and later culinary excellence |
 | **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
-| **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
+| **2320 BAC** | Krisberia | Aurastelian-descended founders; the founding is sovereign and does not depend on prior completion of Aurastelia or Astrostelia's modern territories |
 | **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
 | **2072 BAC** | Lenternow | Illumination-resource discovery, anti-resource-curse industrial manufacturing and institutional sovereignty |
 | **1984 BAC** | Hargenbor | Cosmeilian merchant sailors from Port of Astro Bay; Coastal Loop and trade with Lenternow |
@@ -338,7 +338,7 @@ Stelpadland becomes a civilization of wilderness memory, disciplined survival, a
 | **1125 BAC** | Reltronland | Independent sovereign founding, Troner Rhett |
 | **1121 BAC** | Depcutland | Independent sovereign founding, Cutter Glouster |
 
-The Stelpadland founding in **2882 BAC** remains sovereign consolidation by Scot Stetson after a pre-existing Kalgeredian-influenced frontier; its cultural maturation toward **2432 BAC** remains separate. **Krisberia's tentative 2320 BAC date must remain conditional** until the completion dates of Aurastelia and Astrostelia's modern territories are established. Krisberia and Mapether began at about **4%** and **5%** of modern territory. Mapether's Beluftner merchant expedition set an exceptional maritime-distance record, then stopped rather than extend into future resource-richer Reltronland because onward settlement was uneconomical for its small migrant population. Later Depeisit arrivals transformed Mapether's language and 1930s-inspired gangster-chic fashion without founding the state.
+The Stelpadland founding in **2882 BAC** remains sovereign consolidation by Scot Stetson after a pre-existing Kalgeredian-influenced frontier; its cultural maturation toward **2432 BAC** remains separate. **Krisberia's sovereign founding in 2320 BAC is creator-ratified and unconditional**; the territorial-completion dates of Aurastelia and Astrostelia are separate historical matters. Krisberia and Mapether began at about **4%** and **5%** of modern territory. Mapether's Beluftner merchant expedition set an exceptional maritime-distance record, then stopped rather than extend into future resource-richer Reltronland because onward settlement was uneconomical for its small migrant population. Later Depeisit arrivals transformed Mapether's language and 1930s-inspired gangster-chic fashion without founding the state.
 
 **2470–2452 BAC — Canvas–Canopy Dispute:** Stelpadland and Pencilfania contested ecological policy, artistic public space and regional autonomy; negotiated environmental review reduced the dispute. **2256–2243 BAC — Wilderness–Puzzle Controversy:** Stelpadland and Ethaptoria disputed simulation versus field-based accreditation and reached a mixed standard. These were institutional conflicts, not ethnic, tribal or religious wars.
 
@@ -349,10 +349,10 @@ The Stelpadland founding in **2882 BAC** remains sovereign consolidation by Scot
 | Date | State | Lineage |
 |---|---|---|
 | **2882 BAC** | Stelpadland | Scot Stetson's independent Kalgered-influenced frontier |
-| **2694 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
+| **2732 BAC** | Pencilfania | Post-Stetsonian exploration and artistic civic development |
 | **2628 BAC** | Calespia | Post-Stetsonian agriculture and later culinary excellence |
 | **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
-| **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
+| **2320 BAC** | Krisberia | Aurastelian-descended founders; the founding is sovereign and does not depend on prior completion of Aurastelia or Astrostelia's modern territories |
 | **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
 | **2072 BAC** | Lenternow | Illumination-resource discovery, anti-resource-curse industrial manufacturing and institutional sovereignty |
 | **1984 BAC** | Hargenbor | Cosmeilian merchant sailors from Port of Astro Bay; Coastal Loop and trade with Lenternow |
