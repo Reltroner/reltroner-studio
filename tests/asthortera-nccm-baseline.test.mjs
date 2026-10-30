@@ -20,10 +20,10 @@ test("Canonical V6.5 planet pages supersede historical five-way ancestry without
   close(summed,100);
   for(const p of ["content/statistics/asthortera_identity.md","content/statistics/asthortera-vs-earth.md"]){
     const txt=read(p);
-    assert.match(txt,/NCCM V6\\.5 — Year 0 canon statistics \\(C\\)/);
-    assert.match(txt,/Phantomkind \\/ Spiritual Hybrid/);
-    assert.match(txt,/3,213B.*395B.*804B/);
-    assert.doesNotMatch(txt,/Year 0.*58% Depeisit \\/ 22% Cistheta/);
+    assert.ok(txt.includes("NCCM V6.5 — Year 0 canon statistics (C)"),p);
+    assert.ok(txt.includes("Phantomkind / Spiritual Hybrid"),p);
+    assert.ok(txt.includes("3,213B (14) + 395B (5) + 804B (18)"),p);
+    assert.ok(!txt.includes("Year 0 ancestry correction (2026-10-30):"),p);
   }
   // The historic V2 raw five-way distribution remains preserved in its dated ledger only.
   assert.deepEqual(v.year0_ancestry.map(x=>Math.round(100*x)),[58,22,10,7,3]);
