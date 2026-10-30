@@ -18,7 +18,9 @@
     "content:validate": "node tools/validate-content.mjs",
     "postbuild": "node node_modules/next-sitemap/bin/next-sitemap.mjs && npm run assets:verify",
     "check-slugs": "node tools/check-slugs.mjs",
-    "check-all-slugs": "node tools/check-all-slugs.mjs"
+    "check-all-slugs": "node tools/check-all-slugs.mjs",
+    "test:worldbuilding": "node --test tests/asthortera-nccm-baseline.test.mjs tests/asthortera-cross-domain-regression.test.mjs",
+    "audit:worldbuilding": "node tools/audit-asthortera-cross-domain.mjs"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.1",
