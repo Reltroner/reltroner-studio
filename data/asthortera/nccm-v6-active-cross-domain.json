@@ -1,5 +1,5 @@
 {
-  "schema_version": "NCCM-V6.2-migration-conserved-active",
+  "schema_version": "NCCM-V6.3-founder-chronology-active",
   "created_date": "2026-10-31",
   "scope": "Year 0 Asthortera; user-ratified decisions through 2026-10-30; earlier NCCM V3/V4 data kept as historical ledger not current six-way primary canon",
   "provenance": {
@@ -16,7 +16,8 @@
     "legacy_local_fx_ambiguities": "KRB vs KRF (Krisberia) and MPT vs MWV (Mapether) remain unresolved historical code crosswalks",
     "migration_decision": "Creator ratified: Astrostelia exports 35B and Lenternow exports 40B to Scenrepolia/Calespia/Ethaptoria/Krisberia. Source percentages and SDI stay fixed; conserve all six ancestry categories globally.",
     "model_output_income_rule": "At this migration-only decision, national GDP and GDP-share totals remain frozen at V6.1 (no automatic new productivity/output claim). GDP per capita and zero-primary-income-bridge GNI per capita are recomputed; changes are accounting effects not welfare measurements.",
-    "ancestry_representativity_change": "The global six-class proxy remains fixed at the approved pre-migration 3288B 14-nation weighted representation; the current 3213B subset alone cannot replace it without altering the global mix."
+    "ancestry_representativity_change": "The global six-class proxy remains fixed at the approved pre-migration 3288B 14-nation weighted representation; the current 3213B subset alone cannot replace it without altering the global mix.",
+    "foundation_date_ratification": "Creator-ratified five dates: Lenternow 2072 BAC; Hargenbor 1984 BAC; Moreg 1713 BAC; Pasgerflit 1545 BAC; Taramistry 1210 BAC. Old Taramistry 1186 BAC superseded."
   },
   "planet": {
     "population_billion": 4412,
@@ -1105,5 +1106,101 @@
     "planet_ancestry_policy": "Frozen population-weighted pre-transfer 14-country benchmark, with exact ancestry conservation across destination and origin; do not recompute global composition from reduced country subset.",
     "timeframe": "Year 0 census redistribution; the creator did not specify whether the 75B movement occurred rapidly, across generations, via natural migration or policy. Do not interpret as instantaneous forced relocation.",
     "legal_personhood_policy": "Migrants retain unique person identity and primary ancestry; legal citizenship, consent, civil rights, employment integration and period of movement require separate narrative decisions."
+  },
+  "historical_foundations": {
+    "date_scale": "BAC (higher value older)",
+    "status": "five dates creator-ratified 2026-10-31; existing historic founders preserved; Krisberia conditional",
+    "ordered_core": [
+      {
+        "name": "Stelpadland",
+        "bac": 2882,
+        "status": "existing"
+      },
+      {
+        "name": "Pencilfania",
+        "bac": 2694,
+        "status": "existing"
+      },
+      {
+        "name": "Calespia",
+        "bac": 2628,
+        "status": "existing"
+      },
+      {
+        "name": "Ethaptoria",
+        "bac": 2556,
+        "status": "existing"
+      },
+      {
+        "name": "Krisberia",
+        "bac": 2320,
+        "status": "conditional"
+      },
+      {
+        "name": "Mapether",
+        "bac": 2164,
+        "status": "existing"
+      },
+      {
+        "name": "Lenternow",
+        "bac": 2072,
+        "status": "creator_ratified",
+        "trigger": "illumination materials and deliberate domestic industrialization"
+      },
+      {
+        "name": "Hargenbor",
+        "bac": 1984,
+        "status": "creator_ratified",
+        "trigger": "Cosmeilian seafaring merchants from Port of Astro Bay; Coastal Loop; trade with Lenternow"
+      },
+      {
+        "name": "Moreg",
+        "bac": 1713,
+        "status": "creator_ratified",
+        "trigger": "independent Cenrestieran transport manufacturers, direct land border and material/geographic advantage"
+      },
+      {
+        "name": "Pasgerflit",
+        "bac": 1545,
+        "status": "creator_ratified",
+        "trigger": "Astrostelian spacecraft fleet emergency landing; cascading landing infrastructure failures; re-engineered atmospheric aviation"
+      },
+      {
+        "name": "Scenrepolia",
+        "bac": 1234,
+        "status": "existing",
+        "trigger": "independent scientific development, national symbol U magnet"
+      },
+      {
+        "name": "Taramistry",
+        "bac": 1210,
+        "status": "creator_ratified",
+        "trigger": "independent local biochemical and pharmaceutical science following Cisthetan scientific contact"
+      },
+      {
+        "name": "Reltronland",
+        "bac": 1125,
+        "status": "existing"
+      },
+      {
+        "name": "Depcutland",
+        "bac": 1121,
+        "status": "existing"
+      }
+    ],
+    "related_events": {
+      "cosmeilia_kalgered_transit_and_port_of_astro_bay_bac": 3364,
+      "cistheta_emissaries_bac": 1256,
+      "depeisit_colonization_first_wave_bac": 1211,
+      "scenrepolia_taramistry_patent_dispute_bac": [
+        1153,
+        1138
+      ],
+      "calespia_taramistry_botanical_dispute_bac": [
+        1149,
+        1137
+      ]
+    },
+    "interpretation": "Date is sovereign institutional founding, not first settlement, first resource discovery, start of ship voyages, or first aircraft/spaceflight. Krisberia 2320 remains conditional; no arbitrary completion dates for Aurastelia/Astrostelia."
   }
 }
