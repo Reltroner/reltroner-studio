@@ -83,6 +83,10 @@ The 14-country numerator is **3,152.002 billion × SDI units**; the 37-country p
 
 The **1010 BAC 80-year life expectancy** and **Year 0 475-year life expectancy** must be reconciled using survival by age and biological group, not substituted as the SDI value itself. Current low private spending is not equal to poverty under a high material floor. Individual SDI assessments cannot function as retroactive ancestry/citizenship exclusion.
 
+### NCCM V4 — Species-appropriate Phantomkind inclusion
+
+Phantomkind and Spiritual Hybrid citizens are included as unique sentients. **SDI is not a score for preferred physical embodiment or species identity.** Cognitive capability evaluation must allow noncorporeal modes of memory, sensory perception, communication and learning. Institutional quality should assess equal legal personhood, representation, education, health and accessible public services for spiritual sentients. Lifespan, fertility and mortality must use meaningful **species-specific** denominators rather than copying biological human assumptions. A Phantomkind individual with Cosmeilian lineage is counted once in the population denominator and can be tagged in multiple inclusive lineage registers. See [NCCM V4 ancestry](./asthortera-phantomkind-demography-v4.md).
+
 ## 4. Validation, audience-facing controls and future ratification
 
 1. Show only **one Year 0 planetary SDI: 0.947** in all public-facing docs and the 37-state source ledger.
