@@ -9,13 +9,16 @@ on:
       - "tools/audit-asthortera-cross-domain.mjs"
       - "tools/audit-asthortera-metric-mentions.mjs"
       - "package.json"
+      - "tests/asthortera-*.test.mjs"
       - ".github/workflows/asthortera-canon-qa.yml"
   pull_request:
     paths:
       - "content/**"
       - "data/asthortera/**"
       - "tools/audit-asthortera-cross-domain.mjs"
+      - "tools/audit-asthortera-metric-mentions.mjs"
       - "package.json"
+      - "tests/asthortera-*.test.mjs"
       - ".github/workflows/asthortera-canon-qa.yml"
 
 permissions:
@@ -47,5 +50,5 @@ jobs:
           path: |
             asthortera-canon-qa.json
             asthortera-metric-mentions.json
-      - name: Enforce strict planetary ancestry and numeric accounting invariants
+      - name: Enforce active six-way ancestry, GDP/GNI, SDI and census invariants
         run: node tools/audit-asthortera-cross-domain.mjs --json
