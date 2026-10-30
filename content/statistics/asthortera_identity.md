@@ -440,13 +440,15 @@ A civilization may simultaneously contain:
 
 Asthortera is heavily shaped by interstellar migration.
 
-Its established population composition includes:
+Its **primary-reporting ancestry partition** (one assigned category per sentient, not an all-lineage census) includes:
 
 - **58%** — Humans of Depeisit planetary descent
 - **22%** — Humans of Cistheta planetary descent
-- **10%** — Cosmeilia-Human mixed populations
+- **10%** — Primary Cosmeilian affiliation (all manifestations, including Cosmeilia-Human mixed)
 - **7%** — Native Asthorteran Human-Wizard-Witch populations
 - **3%** — Other alien humanoids, hybrids, and recognized sentient groups
+
+**Different measurement:** The planet has **37 sovereign countries** and **4.412 trillion unique sentients**. Fourteen country profiles account for **3.288 trillion**, leaving **1.124 trillion** across **23 other countries**. **Inclusive Cosmeilian lineage** unifies Cosmic Races and Cosmeilia-Human mixed across humanoid, fairy, luminous star, comet, light and aurora manifestations; a transforming individual is counted once. **Inclusive native lineage** also includes mixed-heritage sentients. The previously published **10% Cosmeilian primary** and **7% native primary** are **not upper limits** on inclusive lineage counts; country-inclusive subtotals already exceed them. Exact global inclusive shares are **not yet ratified**, and candidate values are not public census claims. See [37-country lineage and Kalgered remodeling](./asthortera-37-country-lineage-and-kalgered-remodeling.md).
 
 Most modern population growth is strongly associated with immigration from outside Asthortera.
 
