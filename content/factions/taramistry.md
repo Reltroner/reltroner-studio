@@ -92,13 +92,13 @@ This chain defines Taramistry's role in Asthortera:
 
 ---
 
-### 2.1 The 1186 BAC Foundation and Scientific Independence
+### 2.1 The 1210 BAC Foundation and Scientific Independence
 
-**Taramistry was founded in 1186 BAC**, after Scenrepolia's foundation in 1234 BAC and before Reltronland (1125 BAC) and Depcutland (1121 BAC). Its independent scientific identity emerged after the **1256 BAC arrival of Cisthetan emissaries**, itself subsequent to the **1673 BAC Depeisit–Cistheta Pact**. Its local scientific communities developed original biochemical, pharmaceutical, and scientific-government methods from exchanged knowledge. This was **not the creation of a Cisthetan colony**. Scenrepolia separately developed modular interfaces and infrastructure-access science; neither nation is the other's parent civilization.
+**Taramistry was founded in 1210 BAC**, after Scenrepolia's foundation in 1234 BAC and before Reltronland (1125 BAC) and Depcutland (1121 BAC). Its independent scientific identity emerged after the **1256 BAC arrival of Cisthetan emissaries**, itself subsequent to the **1673 BAC Depeisit–Cistheta Pact**. Its local scientific communities developed original biochemical, pharmaceutical, and scientific-government methods from exchanged knowledge. This was **not the creation of a Cisthetan colony**. Scenrepolia separately developed modular interfaces and infrastructure-access science; neither nation is the other's parent civilization.
 
 Tachemistria became the national research and administrative center. Present-day Synthetism of Merit, the National Scientific Presidium, the Bioethical Tribunal, and the Public Synthesis Exchange must be interpreted as mature institutions rather than assumed unchanged since foundation.
 
-At the **1125–1121 BAC** reference window, Taramistry held about **45% of its modern 125 million km² territory**, compared with **57% for Scenrepolia** and **76% for Calespia**. These are territorial—not urbanization or demographic—ratios. The **17% modern Cisthetan-descended population** does not imply Cisthetan political control at founding. The broader founding order is Stelpadland (2882), Pencilfania (2694), Calespia (2628), Ethaptoria (2556), Krisberia (2320, conditional), Mapether (2164), Scenrepolia (1234), Taramistry (1186 BAC).
+At the **1125–1121 BAC** reference window, Taramistry held about **45% of its modern 125 million km² territory**, compared with **57% for Scenrepolia** and **76% for Calespia**. These are territorial—not urbanization or demographic—ratios. The **25% primary Cistheta ancestry in the current six-category NCCM ledger** does not imply Cisthetan political control at founding. The broader founding order is Stelpadland (2882), Pencilfania (2694), Calespia (2628), Ethaptoria (2556), Krisberia (2320, conditional), Mapether (2164), Scenrepolia (1234), Taramistry (1210 BAC).
 
 ---
 
