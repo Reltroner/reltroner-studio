@@ -248,13 +248,16 @@ Its demographic structure is strongly shaped by interstellar migration.
 
 ## 7.1 Population Composition
 
+**Scope:** these percentages are a single-choice **primary ancestry assignment**, not total inclusive lineage prevalence across all Cosmeilian or native mixed descendants. The planet contains **37 sovereign countries**, but only **14 country profiles** currently have harmonized population extraction. The other **23 countries** contain the **1.124 trillion** difference from the immutable **4.412 trillion** global population. For the unified all-manifestation Cosmeilian lineage and native-inclusive statistical bounds, see [the 37-country remodeling proposal](./asthortera-37-country-lineage-and-kalgered-remodeling.md).
+
+
 - **58%** — Humans of Depeisit planetary descent
 - **22%** — Humans of Cistheta planetary descent
-- **10%** — Cosmeilia-Human mixed populations
+- **10%** — Primary Cosmeilian affiliation (all manifestations; mixed ancestry included)
 - **7%** — Native Asthorteran Human-Wizard-Witch populations
 - **3%** — Other alien humanoids, hybrids, and recognized sentient groups
 
-**Year 0 ancestry correction (2026-10-30): 58% Depeisit / 22% Cistheta / 10% Cosmeilia-Human mixed / 7% native / 3% other sentients.** This creator-ratified distribution totals 100% of 4.412 trillion. Ancestry does not mean recent immigration, phenotype, or nationality.
+**Year 0 ancestry correction (2026-10-30): 58% Depeisit / 22% Cistheta / 10% primary Cosmeilian / 7% primary native / 3% other sentients.** This creator-ratified distribution totals 100% of 4.412 trillion. Ancestry does not mean recent immigration, phenotype, or nationality.
 
 Most modern population growth is connected to migration from older, stagnant, unstable, or collapsing civilizations.
 
