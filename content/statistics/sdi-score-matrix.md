@@ -11,6 +11,14 @@ image: "/images/sdi-score-matrix.webp"
 
 ---
 
+## SDI V3 Scope — Individual Instrument vs Planetary Composite
+
+**Creator-ratified (2026-10-30): SDI means average individual capability COMBINED WITH institutional quality.** The six components below are a Reltronland-origin **individual** evaluation instrument, not the entire mechanism that turns population and institutions into a national or planetary score. Institutional quality must include due process, health, learning access, material floor, ecological continuity and civic agency. **Planet Year 0 SDI is 0.947**; the existing fourteen national SDI scores stay unchanged.
+
+A **60% individual / 40% institutional** combination is documented as an **unratified modeling proposal** in the [SDI V3 methodology](./asthortera-sdi-methodology-v3.md). All indicators and weights must be cross-species accessible. In particular, the legacy individual-matrix language about exile, universal ideological alignment or loss of basic services must not be interpreted as an automatic planetary constitutional sanction: evaluation, due process, voluntary affiliation and material rights are different legal domains.
+
+---
+
 ## 🧠 Overview
 The **Sentient Development Index (SDI)** is the core metric used across Asthortera — and especially in **Reltronland** — to measure the overall developmental quality of an individual. Unlike traditional IQ or economic metrics, SDI integrates **intellectual, emotional, ethical, and productivity-based indicators** into a single compound score.
 
