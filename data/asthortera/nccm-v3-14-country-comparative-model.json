@@ -1,0 +1,1320 @@
+{
+  "schema_version": "3.0.0",
+  "date": "2026-10-30",
+  "publication_status": "development material; NOT CANON for unobserved estimates",
+  "provenance": {
+    "known_national_populations_and_sdi": "data/asthortera/national-cross-domain-audit-2026-10-30.json",
+    "macro_gdp_and_AUC": "data/asthortera/nccm-baseline-v2.json",
+    "economic_data_missing": "replaced with mathematically calibrated scenario values, not documentary facts"
+  },
+  "reporting": {
+    "planet_population_billion": 4412,
+    "sovereign_countries": 37,
+    "known_14_population_billion": 3288,
+    "other_23_population_billion": 1124,
+    "planet_sdi": 0.947,
+    "known_14_population_weighted_sdi": 0.9586380778588809,
+    "other_23_sdi_required": 0.9129555160142343,
+    "sdI_combined_definition": "capacity of individuals and quality of institutions",
+    "candidate_component_weights": {
+      "individual_mean": 0.6,
+      "institutional_quality": 0.4
+    }
+  },
+  "calibration": {
+    "economic_method": "Reltronland fixed to 42% of harmonized Year 0 planet nominal USD GDP; remaining 58% allocated proportional to country population × exp(10 × (SDI_country − 0.947)) × narrative specialization multiplier; 23-country block is one unsplit aggregate with factor 0.92. This is a scenario, not a measured national GDP census.",
+    "narrative_output_factors": {
+      "Reltronland": null,
+      "Depcutland": 1.32,
+      "Kalgered": 1.2,
+      "Aurastelia": 1.12,
+      "Astrostelia": 1.22,
+      "Lenternow": 1.12,
+      "Taramistry": 1.18,
+      "Moreg": 1.04,
+      "Pencilfania": 1.04,
+      "Stelpadland": 1,
+      "Pasgerflit": 1.26,
+      "Hargenbor": 0.93,
+      "Beluftner": 0.87,
+      "Cenrestier": 0.94
+    },
+    "nominal_usd_per_auc": 2.73,
+    "planet_gdp_usd": 1.1297380639746428e+22,
+    "known_reltronland_gdp_usd": 4.7448998686935e+21,
+    "other_23_aggregate_gdp_usd": 1.3044603882006664e+21,
+    "other_23_aggregate_gdp_share": 0.115465737572063,
+    "gni_nominal_fx_unknown_for_most_countries": true,
+    "year0_real_gdp_growth_planet_reference": 0.075,
+    "year0_inflation_planet_reference": 0.0033,
+    "year0_urbanization_planet_reference": 0.895
+  },
+  "countries": [
+    {
+      "name": "Reltronland",
+      "source": "content/factions/reltronland.md",
+      "census": {
+        "population_billion": 855,
+        "land_area_million_km2": 104,
+        "ancestry_primary_pct": {
+          "depeisit": 66,
+          "cistheta": 22,
+          "cosmeilia_or_mixed": 4,
+          "native": 5,
+          "other_or_unclassified": 3
+        },
+        "sdi_national": 0.984
+      },
+      "narrative": {
+        "specialization": "Aerospace, AI, high-rise infrastructure, knowledge systems",
+        "currency_known_from_profile": "REL"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.978,
+        "institutional_quality": 0.993,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.015,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 4.7448998686935e+21,
+          "status": "established_derived_from_rel_canon"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 1.738058559960989e+21,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 5549590489.7,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.42000000000000004,
+          "status": "established_canon"
+        },
+        "gni_per_capita_local_annual": {
+          "value": 48569845,
+          "currency": "REL",
+          "status": "profile_source"
+        },
+        "income_gini": {
+          "value": 0.39,
+          "status": "profile_source"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.85,
+          "status": "profile_source"
+        },
+        "inflation_year0": {
+          "value": 0.003,
+          "status": "profile_source"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.075,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.015,
+          "status": "profile_source"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 4.3,
+          "status": "profile_source_(check_offset_adjustment)"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.975,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 498,
+          "status": "profile_source"
+        },
+        "median_age_years": {
+          "value": 225,
+          "status": "profile_source"
+        }
+      }
+    },
+    {
+      "name": "Depcutland",
+      "source": "content/factions/depcutland.md",
+      "census": {
+        "population_billion": 343,
+        "land_area_million_km2": 52,
+        "ancestry_primary_pct": {
+          "depeisit": 81,
+          "cistheta": 10,
+          "cosmeilia_or_mixed": 3,
+          "native": 4,
+          "other_or_unclassified": 2
+        },
+        "sdi_national": 0.981
+      },
+      "narrative": {
+        "specialization": "Archives, libraries, law, epistemic and financial systems",
+        "currency_known_from_profile": "DEL"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.973,
+        "institutional_quality": 0.993,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.02,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 1.127867928702542e+21,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 413138435422176540000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 3288244690.094875,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.09983446293156475,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.25,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.61,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0028,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.075,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.017,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 3.2,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.96,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 490,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 254,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Kalgered",
+      "source": "content/factions/kalgered.md",
+      "census": {
+        "population_billion": 108,
+        "land_area_million_km2": 108,
+        "ancestry_primary_pct": {
+          "depeisit": 40,
+          "cistheta": 10,
+          "cosmeilia_or_mixed": 13,
+          "native": 35,
+          "other_or_unclassified": 2
+        },
+        "sdi_national": 0.979
+      },
+      "narrative": {
+        "specialization": "Diplomacy, neutral law, finance, data security, medicine",
+        "currency_known_from_profile": "KAL"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9698,
+        "institutional_quality": 0.9928,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.023,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 316453066305281600000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 115916874104498750000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 2930120984.3081627,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.0280111891770679,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": 17956408,
+          "currency": "KAL",
+          "status": "profile_source"
+        },
+        "income_gini": {
+          "value": 0.21,
+          "status": "profile_source"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.45,
+          "status": "profile_source"
+        },
+        "inflation_year0": {
+          "value": 0.0026,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.069,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.018,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 1.3,
+          "status": "profile_source_(check_offset_adjustment)"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.86,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 489,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 254,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Aurastelia",
+      "source": "content/factions/aurastelia.md",
+      "census": {
+        "population_billion": 164,
+        "land_area_million_km2": 433,
+        "ancestry_primary_pct": {
+          "depeisit": 5,
+          "cistheta": 7,
+          "cosmeilia_or_mixed": 80,
+          "native": 4,
+          "other_or_unclassified": 4
+        },
+        "sdi_national": 0.97
+      },
+      "narrative": {
+        "specialization": "Cosmeilian culture, wellness, aurora and resonance systems",
+        "currency_known_from_profile": "ALC"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.976,
+        "institutional_quality": 0.961,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": -0.015,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 409901657055337500000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 150147127126497260000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 2499400347.8983994,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.036282893364964805,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.23,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.48,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0024,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.07,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.016,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 1.7,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.82,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 485,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 254,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Astrostelia",
+      "source": "content/factions/astrostelia.md",
+      "census": {
+        "population_billion": 220,
+        "land_area_million_km2": 216,
+        "ancestry_primary_pct": {
+          "depeisit": 9,
+          "cistheta": 16,
+          "cosmeilia_or_mixed": 65,
+          "native": 6,
+          "other_or_unclassified": 4
+        },
+        "sdi_national": 0.957
+      },
+      "narrative": {
+        "specialization": "Cosmology, orbital engineering, interstellar research",
+        "currency_known_from_profile": null
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9533999999999999,
+        "institutional_quality": 0.9623999999999999,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.009,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 525947060403999100000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 192654600880585740000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 2390668456.381814,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.04655477912761591,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.28,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.56,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0037,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.078,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.019,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 2.6,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.88,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 480,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 253,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Lenternow",
+      "source": "content/factions/lenternow.md",
+      "census": {
+        "population_billion": 214,
+        "land_area_million_km2": 117,
+        "ancestry_primary_pct": {
+          "depeisit": 26,
+          "cistheta": 29,
+          "cosmeilia_or_mixed": 38,
+          "native": 5,
+          "other_or_unclassified": 2
+        },
+        "sdi_national": 0.935
+      },
+      "narrative": {
+        "specialization": "Light engineering, phosphor resources, luminance exports",
+        "currency_known_from_profile": "LNR"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9334,
+        "institutional_quality": 0.9374,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.004,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 376917698513001840000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 138065091030403610000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 1761297656.6028123,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.03336328220958853,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.31,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.57,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0035,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.073,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.022,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 2.1,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.92,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 470,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 251,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Taramistry",
+      "source": "content/factions/taramistry.md",
+      "census": {
+        "population_billion": 242,
+        "land_area_million_km2": 125,
+        "ancestry_primary_pct": {
+          "depeisit": 54,
+          "cistheta": 25,
+          "cosmeilia_or_mixed": 12,
+          "native": 5,
+          "other_or_unclassified": 4
+        },
+        "sdi_national": 0.954
+      },
+      "narrative": {
+        "specialization": "Biotechnology, medicine, chemistry, applied research",
+        "currency_known_from_profile": "TAR"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9496,
+        "institutional_quality": 0.9606,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.011,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 543035297046174430000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 198914028222041900000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 2243947508.4552665,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.04806736307845275,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": 2256740,
+          "currency": "TAR",
+          "status": "profile_source"
+        },
+        "income_gini": {
+          "value": 0.32,
+          "status": "profile_source"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.68,
+          "status": "profile_source"
+        },
+        "inflation_year0": {
+          "value": 0.0041,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.082,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.021,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 4.9,
+          "status": "profile_source_(check_offset_adjustment)"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.9,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 478,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 252,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Moreg",
+      "source": "content/factions/moreg.md",
+      "census": {
+        "population_billion": 205,
+        "land_area_million_km2": 79,
+        "ancestry_primary_pct": {
+          "depeisit": 45,
+          "cistheta": 30,
+          "cosmeilia_or_mixed": 13,
+          "native": 10,
+          "other_or_unclassified": 2
+        },
+        "sdi_national": 0.931
+      },
+      "narrative": {
+        "specialization": "Automotive engineering, roads, transport mobility",
+        "currency_known_from_profile": null
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9286000000000001,
+        "institutional_quality": 0.9346000000000001,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.006,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 322129245723890500000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 117996060704721800000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 1571362174.2628803,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.028513622404699356,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.33,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.65,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0037,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.083,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.023,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 5.4,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.93,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 468,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 251,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Pencilfania",
+      "source": "content/factions/pencilfania.md",
+      "census": {
+        "population_billion": 182,
+        "land_area_million_km2": 166,
+        "ancestry_primary_pct": {
+          "depeisit": 56,
+          "cistheta": 23,
+          "cosmeilia_or_mixed": 14,
+          "native": 3,
+          "other_or_unclassified": 4
+        },
+        "sdi_national": 0.94
+      },
+      "narrative": {
+        "specialization": "Creative education, animation, design, visual literacy",
+        "currency_known_from_profile": "PNL"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9443999999999999,
+        "institutional_quality": 0.9333999999999999,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": -0.011,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 312920622826729600000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 114622938764369800000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 1719344081.465547,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.027698511080153632,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.29,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.53,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0032,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.071,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.02,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 2.2,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.84,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 472,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 252,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Stelpadland",
+      "source": "content/factions/stelpadland.md",
+      "census": {
+        "population_billion": 141,
+        "land_area_million_km2": 200,
+        "ancestry_primary_pct": {
+          "depeisit": 52,
+          "cistheta": 22,
+          "cosmeilia_or_mixed": 6,
+          "native": 18,
+          "other_or_unclassified": 2
+        },
+        "sdi_national": 0.961
+      },
+      "narrative": {
+        "specialization": "Scouting, forestry, experiential learning, timber",
+        "currency_known_from_profile": "ST"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9638,
+        "institutional_quality": 0.9568,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": -0.007,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 287574525947782730000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 105338654193327010000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 2039535645.0197356,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.02545497360122916,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.24,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.42,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0027,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.068,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.018,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 1.2,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.73,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 481,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 253,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Pasgerflit",
+      "source": "content/factions/pasgerflit.md",
+      "census": {
+        "population_billion": 279,
+        "land_area_million_km2": 72,
+        "ancestry_primary_pct": {
+          "depeisit": 62,
+          "cistheta": 21,
+          "cosmeilia_or_mixed": 5,
+          "native": 6,
+          "other_or_unclassified": 6
+        },
+        "sdi_national": 0.949
+      },
+      "narrative": {
+        "specialization": "Aviation, airports, airspace, interstellar transit",
+        "currency_known_from_profile": "PAS"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9461999999999999,
+        "institutional_quality": 0.9531999999999999,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.007,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 635902760744660500000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 232931414192183350000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 2279221364.6762023,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.05628762816996963,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.32,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.63,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0036,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.082,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.02,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 3.7,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.945,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 476,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 252,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Hargenbor",
+      "source": "content/factions/hargenbor.md",
+      "census": {
+        "population_billion": 133,
+        "land_area_million_km2": 39,
+        "ancestry_primary_pct": {
+          "depeisit": 44,
+          "cistheta": 40,
+          "cosmeilia_or_mixed": 6,
+          "native": 8,
+          "other_or_unclassified": 2
+        },
+        "sdi_national": 0.925
+      },
+      "narrative": {
+        "specialization": "Maritime trade, ports, aquaculture, undersea engineering",
+        "currency_known_from_profile": "HB"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.9298000000000001,
+        "institutional_quality": 0.9178000000000001,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": -0.012,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 176002921149757330000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 64469934487090590000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 1323330234.2087016,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.015579091008985226,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.37,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.74,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0045,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.067,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.029,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 3.1,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.875,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 465,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 251,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Beluftner",
+      "source": "content/factions/beluftner.md",
+      "census": {
+        "population_billion": 91,
+        "land_area_million_km2": 88,
+        "ancestry_primary_pct": {
+          "depeisit": 0.2,
+          "cistheta": 0.5,
+          "cosmeilia_or_mixed": 7,
+          "native": 90.3,
+          "other_or_unclassified": 2
+        },
+        "sdi_national": 0.896
+      },
+      "narrative": {
+        "specialization": "Arcane education, magical agriculture, spiritual heritage",
+        "currency_known_from_profile": "BLF"
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.902,
+        "institutional_quality": 0.887,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": -0.015,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 84294750897758700000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 30877198131047140000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 926315943.9314142,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.007461442044467638,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.28,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.44,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0048,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.062,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.033,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 1.6,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.72,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 452,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 249,
+          "status": "scenario_not_ratified"
+        }
+      }
+    },
+    {
+      "name": "Cenrestier",
+      "source": "content/factions/cenrestier.md",
+      "census": {
+        "population_billion": 111,
+        "land_area_million_km2": 102,
+        "ancestry_primary_pct": {
+          "depeisit": 7,
+          "cistheta": 8,
+          "cosmeilia_or_mixed": 7,
+          "native": 73,
+          "other_or_unclassified": 5
+        },
+        "sdi_national": 0.911
+      },
+      "narrative": {
+        "specialization": "Fortress maintenance, constitutional law, history, archives",
+        "currency_known_from_profile": null
+      },
+      "sdi_decomposition_candidate": {
+        "individual_mean": 0.907,
+        "institutional_quality": 0.917,
+        "individual_weight": 0.6,
+        "institutional_weight": 0.4,
+        "institution_minus_individual_gap": 0.01,
+        "calibration_source": "chosen institutional-vs-individual gap to reproduce published national SDI; illustrative, not independently measured"
+      },
+      "economy": {
+        "core_gdp_nominal_usd_reference": {
+          "value": 129072847535345860000,
+          "status": "scenario_not_ratifed"
+        },
+        "core_gdp_nominal_auc_reference": {
+          "value": 47279431331628520000,
+          "status": "calculated_from_usd_using_1_AUC_2.73_nominal_reference"
+        },
+        "core_gdp_per_capita_usd_reference": {
+          "value": 1162818446.264377,
+          "status": "calculated_from_nominal_usd_gdp"
+        },
+        "planetary_gdp_share": {
+          "value": 0.011425024229177688,
+          "status": "scenario_not_ratified"
+        },
+        "gni_per_capita_local_annual": {
+          "value": null,
+          "currency": null,
+          "status": "not_independently_sourced"
+        },
+        "income_gini": {
+          "value": 0.3,
+          "status": "scenario_not_ratified"
+        },
+        "public_debt_to_gdp": {
+          "value": 0.59,
+          "status": "scenario_not_ratified"
+        },
+        "inflation_year0": {
+          "value": 0.0034,
+          "status": "scenario_not_ratified"
+        },
+        "real_gdp_growth_year0": {
+          "value": 0.067,
+          "status": "scenario_not_ratified"
+        },
+        "unemployment_rate": {
+          "value": 0.027,
+          "status": "scenario_not_ratified"
+        },
+        "carbon_per_capita_tonnes": {
+          "value": 2.6,
+          "status": "scenario_not_ratified"
+        }
+      },
+      "society": {
+        "urbanization_share": {
+          "value": 0.81,
+          "status": "scenario_not_ratified"
+        },
+        "life_expectancy_years": {
+          "value": 459,
+          "status": "scenario_not_ratified"
+        },
+        "median_age_years": {
+          "value": 250,
+          "status": "scenario_not_ratified"
+        }
+      }
+    }
+  ],
+  "remaining_23_aggregate": {
+    "population_billion": 1124,
+    "sdi_composite_required": 0.9129555160142343,
+    "gdp_usd_scenario": 1.3044603882006664e+21,
+    "gdp_auc_scenario": 477824318022222100000,
+    "gdp_per_capita_usd_scenario": 1160551946.797746,
+    "urbanization_share_required_under_population_weighted_model": 0.8614546263345201,
+    "inflation_required_under_population_weighted_CPI_proxy": 0.003261476868327401,
+    "real_gdp_growth_required_under_shared_price_weighted_proxy": 0.07430681115694233,
+    "country_level_population_and_SDI_distribution": "not available, do not evenly fabricate"
+  },
+  "unresolved": [
+    "National GDP current local currency for most nations requires sovereign FX and GDP source",
+    "GNI national foreign primary income and true current-account bridge",
+    "Independent national Gini microdata and SDI component observations",
+    "National inflation CPI basket comparison, emission definitions and long-run index series",
+    "National longevity/cohort calibration, median of medians is invalid",
+    "All 23 remaining sovereign state entries not yet sourced",
+    "Historical 100-year country growth period trajectories not independently reconstructed"
+  ]
+}
