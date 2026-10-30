@@ -1,5 +1,5 @@
 {
-  "schema_version": "NCCM-V6.1-active-comparative-ledger",
+  "schema_version": "NCCM-V6.2-migration-conserved-active",
   "created_date": "2026-10-31",
   "scope": "Year 0 Asthortera; user-ratified decisions through 2026-10-30; earlier NCCM V3/V4 data kept as historical ledger not current six-way primary canon",
   "provenance": {
@@ -13,7 +13,10 @@
     "legacy_ratios_58_22_10_7_3": "superseded; never current planet primary distribution",
     "deferred_18_states": "explicit creator decision to leave 18 separate nations unprofiled; only combined bounded residual is modeled; this is a documented permissible completeness state not an assertion of individual national census",
     "missing_local_facts": "five new country land area/ancestry/fertility/inflation/gini remain unavailable; no values are fabricated",
-    "legacy_local_fx_ambiguities": "KRB vs KRF (Krisberia) and MPT vs MWV (Mapether) remain unresolved historical code crosswalks"
+    "legacy_local_fx_ambiguities": "KRB vs KRF (Krisberia) and MPT vs MWV (Mapether) remain unresolved historical code crosswalks",
+    "migration_decision": "Creator ratified: Astrostelia exports 35B and Lenternow exports 40B to Scenrepolia/Calespia/Ethaptoria/Krisberia. Source percentages and SDI stay fixed; conserve all six ancestry categories globally.",
+    "model_output_income_rule": "At this migration-only decision, national GDP and GDP-share totals remain frozen at V6.1 (no automatic new productivity/output claim). GDP per capita and zero-primary-income-bridge GNI per capita are recomputed; changes are accounting effects not welfare measurements.",
+    "ancestry_representativity_change": "The global six-class proxy remains fixed at the approved pre-migration 3288B 14-nation weighted representation; the current 3213B subset alone cannot replace it without altering the global mix."
   },
   "planet": {
     "population_billion": 4412,
@@ -53,27 +56,43 @@
       "native": 500.862638686131,
       "phantomkind": 98.0086618004866,
       "other": 125.503150851582
-    }
+    },
+    "ancestry_reference_provenance": "Frozen pre-migration 14-country population-weighted primary ancestry reference, denominator 3288B; preserved by explicit creator instruction. After moving 75B within Asthortera, do not recompute a different planet projection from the smaller 3213B original fourteen alone; all transferred migrants retain source ancestry counts, the five recipient national compositions are incomplete."
   },
   "census": {
     "profiled_original_14_countries": 14,
-    "profiled_original_14_population_billion": 3288,
+    "profiled_original_14_population_billion": 3213,
     "new_five_development_countries": 5,
-    "new_five_population_billion": 320,
+    "new_five_population_billion": 395,
     "remaining_deferred_countries": 18,
     "remaining_deferred_population_billion": 804,
-    "original_23_population_billion": 1124,
+    "original_23_population_billion": 1199,
     "original_14_ancestry_headcount_billion": {
-      "depeisit": 1562.182,
-      "cistheta": 652.985,
-      "cosmeilian": 533,
-      "native": 373.263,
-      "phantomkind": 73.04,
-      "other": 93.53
+      "depeisit": 1549.0320000000002,
+      "cistheta": 636.1850000000002,
+      "cosmeilian": 495.4,
+      "native": 369.163,
+      "phantomkind": 71.89,
+      "other": 91.32999999999998
     },
-    "original_14_population_weighted_sdi": 0.958638077858881,
-    "new_five_population_weighted_sdi": 0.94813125,
-    "remaining_18_required_population_weighted_sdi": 0.898955223880596
+    "original_14_population_weighted_sdi": 0.9589502023031437,
+    "new_five_population_weighted_sdi": 0.9487139240506329,
+    "remaining_18_required_population_weighted_sdi": 0.8984017412935316,
+    "pre_migration_reference": {
+      "original_14_population_billion": 3288,
+      "new_five_population_billion": 320,
+      "original_23_population_billion": 1124,
+      "original_14_ancestry_headcount_billion": {
+        "depeisit": 1562.182,
+        "cistheta": 652.985,
+        "cosmeilian": 533,
+        "native": 373.263,
+        "phantomkind": 73.04,
+        "other": 93.53
+      },
+      "original_14_sdi_weighted_reference": 0.898955223880596,
+      "planetary_proxy_ancestry_denominator_billion": 3288
+    }
   },
   "countries_14": [
     {
@@ -248,7 +267,7 @@
       "name": "Astrostelia",
       "source": "content/factions/astrostelia.md",
       "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
-      "population_billion": 220,
+      "population_billion": 185,
       "land_area_million_km2": 216,
       "sdi": 0.957,
       "sdi_individual_component": 0.9533999999999999,
@@ -271,8 +290,8 @@
       },
       "gdp_planet_share": 0.0465547791276159,
       "gdp_usd_annual_V6": 5.25947060403999e+21,
-      "gdp_per_capita_usd_V6": 23906684563.8181,
-      "gni_per_capita_usd_proxy_V6": 23906684563.8181,
+      "gdp_per_capita_usd_V6": 28429570832.648594,
+      "gni_per_capita_usd_proxy_V6": 28429570832.648594,
       "income_gini": 0.28,
       "government_debt_to_gdp": 0.56,
       "unemployment_rate": 0.019,
@@ -290,7 +309,7 @@
       "name": "Lenternow",
       "source": "content/factions/lenternow.md",
       "statistics_status": "source_population_and_sdi; creator_approved_V6_ancestry; modeled_economy",
-      "population_billion": 214,
+      "population_billion": 174,
       "land_area_million_km2": 117,
       "sdi": 0.935,
       "sdi_individual_component": 0.9334,
@@ -313,8 +332,8 @@
       },
       "gdp_planet_share": 0.0333632822095885,
       "gdp_usd_annual_V6": 3.76917698513002e+21,
-      "gdp_per_capita_usd_V6": 17612976566.0281,
-      "gni_per_capita_usd_proxy_V6": 17612976566.0281,
+      "gdp_per_capita_usd_V6": 21661936696.14954,
+      "gni_per_capita_usd_proxy_V6": 21661936696.14954,
       "income_gini": 0.31,
       "government_debt_to_gdp": 0.57,
       "unemployment_rate": 0.022,
@@ -670,7 +689,7 @@
       "name": "Scenrepolia",
       "source": "content/factions/scenrepolia.md",
       "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
-      "population_billion": 68,
+      "population_billion": 88,
       "sdi": 0.956,
       "sdi_individual_component": 0.954,
       "sdi_institution_component": 0.959,
@@ -688,8 +707,8 @@
       },
       "gdp_planet_share": 0.012709659476921,
       "gdp_usd_annual_V6": 1.43585860912337e+21,
-      "gdp_per_capita_usd_V6": 21115567781.2261,
-      "gni_per_capita_usd_proxy_V6": 21115567781.2261,
+      "gdp_per_capita_usd_V6": 16316575103.674658,
+      "gni_per_capita_usd_proxy_V6": 16316575103.674658,
       "sectors_value_added_pct": [
         {
           "sector": "Field systems and infrastructure",
@@ -717,7 +736,7 @@
       "name": "Krisberia",
       "source": "content/factions/krisberia.md",
       "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
-      "population_billion": 48,
+      "population_billion": 58,
       "sdi": 0.955,
       "sdi_individual_component": 0.956,
       "sdi_institution_component": 0.9535,
@@ -735,8 +754,8 @@
       },
       "gdp_planet_share": 0.00844897538880747,
       "gdp_usd_annual_V6": 954512909832075000000,
-      "gdp_per_capita_usd_V6": 19885685621.5016,
-      "gni_per_capita_usd_proxy_V6": 19885685621.5016,
+      "gdp_per_capita_usd_V6": 16457119135.035774,
+      "gni_per_capita_usd_proxy_V6": 16457119135.035774,
       "sectors_value_added_pct": [
         {
           "sector": "Advanced crystals and materials",
@@ -782,8 +801,8 @@
       },
       "gdp_planet_share": 0.0100429063842716,
       "gdp_usd_annual_V6": 1.13458536152455e+21,
-      "gdp_per_capita_usd_V6": 15332234615.1967,
-      "gni_per_capita_usd_proxy_V6": 15332234615.1967,
+      "gdp_per_capita_usd_V6": 15332234615.19662,
+      "gni_per_capita_usd_proxy_V6": 15332234615.19662,
       "sectors_value_added_pct": [
         {
           "sector": "Textiles and smart fabrics",
@@ -811,7 +830,7 @@
       "name": "Ethaptoria",
       "source": "content/factions/ethaptoria.md",
       "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
-      "population_billion": 59,
+      "population_billion": 84,
       "sdi": 0.95,
       "sdi_individual_component": 0.953,
       "sdi_institution_component": 0.9455,
@@ -829,8 +848,8 @@
       },
       "gdp_planet_share": 0.00979427339628284,
       "gdp_usd_annual_V6": 1.10649634647549e+21,
-      "gdp_per_capita_usd_V6": 18754175363.9914,
-      "gni_per_capita_usd_proxy_V6": 18754175363.9914,
+      "gdp_per_capita_usd_V6": 13172575553.279644,
+      "gni_per_capita_usd_proxy_V6": 13172575553.279644,
       "sectors_value_added_pct": [
         {
           "sector": "Logic software and simulation",
@@ -858,7 +877,7 @@
       "name": "Calespia",
       "source": "content/factions/calespia.md",
       "status": "creator_approved_modeling_framework; numerical_nation_profile_V6_scenario",
-      "population_billion": 71,
+      "population_billion": 91,
       "sdi": 0.946,
       "sdi_individual_component": 0.948,
       "sdi_institution_component": 0.943,
@@ -876,8 +895,8 @@
       },
       "gdp_planet_share": 0.0109336914513842,
       "gdp_usd_annual_V6": 1.23522074123829e+21,
-      "gdp_per_capita_usd_V6": 17397475228.7083,
-      "gni_per_capita_usd_proxy_V6": 17397475228.7083,
+      "gdp_per_capita_usd_V6": 13573854299.321869,
+      "gni_per_capita_usd_proxy_V6": 13573854299.321869,
       "sectors_value_added_pct": [
         {
           "sector": "Agribiotechnology and agricultural science",
@@ -905,7 +924,7 @@
   "aggregate_remaining_18": {
     "state_count": 18,
     "population_billion": 804,
-    "sdi_population_weighted_required": 0.898955223880596,
+    "sdi_population_weighted_required": 0.8984017412935316,
     "gdp_planet_share": 0.063536231474396,
     "gdp_usd_annual_V6": 7.17792991381289e+21,
     "gdp_per_capita_usd_V6": 8927773524.64289,
@@ -948,5 +967,141 @@
       "code": "EMPTY_CONTENT_STUBS",
       "description": "two existing blank Markdown files outside current country-profile scope"
     }
-  ]
+  ],
+  "migration_year0": {
+    "ratification_status": "creator_approved_national_transfer",
+    "event_class": "internal_planetary_resident_reallocation_not_net_planetary_migration",
+    "before": {
+      "astrostelia_population_billion": 220,
+      "lenternow_population_billion": 214,
+      "scenrepolia_population_billion": 68,
+      "calespia_population_billion": 71,
+      "ethaptoria_population_billion": 59,
+      "krisberia_population_billion": 48
+    },
+    "routes": [
+      {
+        "origin": "Astrostelia",
+        "destination": "Scenrepolia",
+        "population_billion": 10,
+        "ancestry_primary_headcount_billion": {
+          "depeisit": 0.9,
+          "cistheta": 1.6,
+          "cosmeilian": 6.4,
+          "native": 0.6,
+          "phantomkind": 0.1,
+          "other": 0.4
+        },
+        "source_sdi_unchanged": 0.957,
+        "origin_ancestry_percent_unchanged": true
+      },
+      {
+        "origin": "Astrostelia",
+        "destination": "Calespia",
+        "population_billion": 10,
+        "ancestry_primary_headcount_billion": {
+          "depeisit": 0.9,
+          "cistheta": 1.6,
+          "cosmeilian": 6.4,
+          "native": 0.6,
+          "phantomkind": 0.1,
+          "other": 0.4
+        },
+        "source_sdi_unchanged": 0.957,
+        "origin_ancestry_percent_unchanged": true
+      },
+      {
+        "origin": "Astrostelia",
+        "destination": "Ethaptoria",
+        "population_billion": 15,
+        "ancestry_primary_headcount_billion": {
+          "depeisit": 1.35,
+          "cistheta": 2.4,
+          "cosmeilian": 9.6,
+          "native": 0.9,
+          "phantomkind": 0.15,
+          "other": 0.6
+        },
+        "source_sdi_unchanged": 0.957,
+        "origin_ancestry_percent_unchanged": true
+      },
+      {
+        "origin": "Lenternow",
+        "destination": "Scenrepolia",
+        "population_billion": 10,
+        "ancestry_primary_headcount_billion": {
+          "depeisit": 2.5,
+          "cistheta": 2.8,
+          "cosmeilian": 3.8,
+          "native": 0.5,
+          "phantomkind": 0.2,
+          "other": 0.2
+        },
+        "source_sdi_unchanged": 0.935,
+        "origin_ancestry_percent_unchanged": true
+      },
+      {
+        "origin": "Lenternow",
+        "destination": "Krisberia",
+        "population_billion": 10,
+        "ancestry_primary_headcount_billion": {
+          "depeisit": 2.5,
+          "cistheta": 2.8,
+          "cosmeilian": 3.8,
+          "native": 0.5,
+          "phantomkind": 0.2,
+          "other": 0.2
+        },
+        "source_sdi_unchanged": 0.935,
+        "origin_ancestry_percent_unchanged": true
+      },
+      {
+        "origin": "Lenternow",
+        "destination": "Ethaptoria",
+        "population_billion": 10,
+        "ancestry_primary_headcount_billion": {
+          "depeisit": 2.5,
+          "cistheta": 2.8,
+          "cosmeilian": 3.8,
+          "native": 0.5,
+          "phantomkind": 0.2,
+          "other": 0.2
+        },
+        "source_sdi_unchanged": 0.935,
+        "origin_ancestry_percent_unchanged": true
+      },
+      {
+        "origin": "Lenternow",
+        "destination": "Calespia",
+        "population_billion": 10,
+        "ancestry_primary_headcount_billion": {
+          "depeisit": 2.5,
+          "cistheta": 2.8,
+          "cosmeilian": 3.8,
+          "native": 0.5,
+          "phantomkind": 0.2,
+          "other": 0.2
+        },
+        "source_sdi_unchanged": 0.935,
+        "origin_ancestry_percent_unchanged": true
+      }
+    ],
+    "total_departures_billion": 75,
+    "total_arrivals_billion": 75,
+    "total_planet_population_change_billion": 0,
+    "ancestry_six_category_moved_billion": {
+      "depeisit": 13.15,
+      "cistheta": 16.8,
+      "cosmeilian": 37.599999999999994,
+      "native": 4.1,
+      "phantomkind": 1.15,
+      "other": 2.1999999999999997
+    },
+    "donor_country_primary_ancestry_pct_unchanged": true,
+    "donor_country_sdi_unchanged": true,
+    "recipient_primary_ancestry_policy": "Migrant cohorts retain origin ancestry; recipient whole-country ancestry percentages unmeasured; must not guess the original resident mix.",
+    "sdi_aggregator": "Each origin and receiving nation's fixed composite SDI; residual 18-country group recalculated to preserve planetary .947. This is a national-assignment model, not a measurement of changed individual capability.",
+    "gdp_policy": "Keep V6.1 country's nominal GDP and global GDP shares unchanged for this demographic-only iteration; per-capita denominators recalculated.",
+    "planet_ancestry_policy": "Frozen population-weighted pre-transfer 14-country benchmark, with exact ancestry conservation across destination and origin; do not recompute global composition from reduced country subset."
+  }
 }
