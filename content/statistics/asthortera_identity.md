@@ -810,6 +810,10 @@ Instead, conflict increasingly operates through:
 | **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
 | **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
 | **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
+| **2072 BAC** | Lenternow | Illumination resource industrialization and sovereign institution formation |
+| **1984 BAC** | Hargenbor | Cosmeilian Port of Astro Bay merchant expedition, Coastal Loop and Lenternow trade |
+| **1713 BAC** | Moreg | Independent Cenrestieran transport manufacturing frontier |
+| **1545 BAC** | Pasgerflit | Astrostelian emergency fleet and cascading infrastructure-bug-driven aviation reset |
 | **1234 BAC** | Scenrepolia | Cistheta-influenced **local** interface/connectivity science |
 | **1210 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
 | **1125 BAC** | Reltronland | Independent sovereign founding, Troner Rhett |
