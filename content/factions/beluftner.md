@@ -289,12 +289,13 @@ Functions:
 | Group                   | Percentage |
 | ----------------------- | ---------- |
 | Human Wizard-Witch — Native Asthorteran | **90.3%** |
-| Unified Cosmeilian lineage (cosmic manifestations and mixed descendants) | **7.0%** |
+| Phantomkind / Spiritual Hybrid (separate primary sentient category) | **6.0%** |
+| Unified Cosmeilian lineage (cosmic manifestations and mixed descendants) | **2.0%** |
 | Cistheta descendants | **0.5%** |
 | Depeisit descendants | **0.2%** |
-| Other spiritual/phantom lineages | **2.0%** |
+| Other lineages excluding separately registered Phantomkind | **1.0%** |
 
-**Ratified Year 0 classification: native 90.3%, Cosmeilian 7%, Cistheta 0.5%, Depeisit 0.2%, others 2% = 100%.** Phantomkind and spiritual hybrids remain valid cultural/biological **subtypes** and should not be misread as eliminated populations. The updated primary reporting allocates some historical subtype records to the unified Cosmeilian ancestry; a detailed individual-level subtype crosswalk remains development material.
+**Ratified Year 0 NCCM V4 classification: native 90.3%, Phantomkind / Spiritual Hybrid 6%, Cosmeilian 2%, Cistheta 0.5%, Depeisit 0.2%, Other 1% = 100%.** Phantomkind are diverse transnational sentients, not exclusively Beluftner residents or synonymous with all Cosmeilian manifestations. Mixed heritage is recorded through separate inclusive lineage flags while each resident is counted once. **Beluftner Phantomkind-primary: 6% × 91 billion = 5.460 billion sentients.** Read [NCCM V4 demography](../statistics/asthortera-phantomkind-demography-v4.md).
 
 Beluftner possesses one of the highest concentrations of native Asthorteran populations in the world.
 
@@ -545,6 +546,10 @@ and one of the most influential civilizations in the entire history of Asthorter
 > **"What survives longest is not the strongest force, but the most balanced one."**
 
 ---
+
+## NCCM V4 — Phantomkind / Spiritual Hybrid Classification (2026-10-30)
+
+Six-way primary ancestry is **0.2% Depeisit, 0.5% Cistheta, 2% Cosmeilian, 90.3% Native, 6% Phantomkind / Spiritual Hybrid, 1% Other**. National SDI **0.896** and population **91 billion** remain unchanged. The previous five-way profile is superseded for Year 0. See [14-country V4 ancestry](../statistics/asthortera-phantomkind-demography-v4.md).
 
 ## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
 
