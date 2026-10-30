@@ -575,7 +575,7 @@ Instead, it:
 - Integrated economic stabilization through TCBC.
 - Reconstructed cross-border infrastructure.
 
-Post-war growth accelerated from **5% to 25% YoY**, a transitional reconstruction surge that later stabilized into the long-term **12% annual GDP growth average** described in the economic miracle section.
+Post-war growth occasionally surged **5% to 25% YoY** during **short-lived transitional reconstruction episodes**, rather than establishing a perpetual 250-year rate. The NCCM V2 model retains extraordinary individual years but reconciles its long-term GDP CAGR against historical GDP endpoints.
 
 ## Modern Dominance
 
@@ -826,7 +826,7 @@ These indicators exclude the 4D, 5D, and void energy economy unless otherwise st
 | **Official Currency** | `$REL` — Reltronian Credit |
 | **1 $REL Nominal Value** | Approximately `$114.26 USD`, based on GNI parity |
 | **1 $REL PPP Estimate** | Approximately `$20–30 USD` |
-| **GDP Growth Rate** | 12% annually, 250-year average |
+| **GDP Growth Rate** | **250 BAC–Year 0: nominal USD GDP CAGR ~3.0% in NCCM V2 candidate scenario; 12% may occur in exceptional years, not all 250 years** |
 | **Stability Engine** | Sovereign AI-managed inflation matrix |
 | **Interest Rate Policy** | 0.3% – 1.2%, based on economic layer and risk tier |
 | **Total GDP** | `$REL 4.1527217475 × 10¹⁹` |
@@ -836,6 +836,10 @@ These indicators exclude the 4D, 5D, and void energy economy unless otherwise st
 | **Gini Coefficient** | 0.39, moderate income inequality |
 | **Inflation Rate** | 0.3%, regulated by sovereign AI fiscal matrix |
 | **Unemployment Rate** | 1.5%, because most sentient is assigned purpose-aligned labor regardless of monetary income |
+
+### GDP–GNI Primary-Income Bridge (NCCM V2, 2026-10-30)
+
+The published **855 billion** inhabitants multiplied by **REL 48,569,845 per-capita GNI** is **REL 4.1527217475 × 10^19**, exactly the profile's GDP. The two are **not statistically independent observations**. By `GNI = GDP + net primary income from abroad`, equality requires a **provisional zero-net-primary-income balancing convention**. This does **not** assert the absence of large incoming and outgoing cross-border royalties or investment returns. When foreign primary-income flows are independently modeled, GNI per capita must be recalculated with explicit versioning, rather than silently changing the GDP headline. Keep 4D/5D/void activity in a separate satellite-account perimeter until cross-country value-added reconciliation.
 
 ### Interpretation of GNI Per Capita
 
@@ -994,7 +998,7 @@ Reltronland's debt is a strategic trust pact with its people. Debt is sustainabl
 
 # 15. The 250-Year Economic Miracle
 
-Reltronland has maintained **12% annual GDP growth for 250 years**, sustained by recursive innovation cycles, interplanetary trade leverage, and continuous upgrades in sentient capital efficiency.
+The **250-Year Economic Miracle (250 BAC–Year 0)** is a sustained period of accumulated institutional and productive capability, **not a claim of 12% GDP growth every year for 250 years**. The **NCCM V2 provisional scenario** uses **3.0% nominal USD GDP CAGR for Reltronland** and **2.5% for Asthortera** over this interval, with exceptional 12% single-year innovation booms remaining possible. Annual paths must still be calibrated to the established historical events.
 
 > Growth is not measured solely in GDP acceleration, but in SDI stability.  
 > If SDI declines, GDP acceleration is automatically deprioritized.
@@ -1055,28 +1059,24 @@ Reltronland maintains:
 
 Henchoway and Nytherion Abyss are treated as creative pressure. Civilizational resilience is a cultural default. Innovation is born from existential confrontation.
 
-## Compounding Simulation
+## Compounding Simulation — NCCM V2 Historical Reconciliation
 
-```txt
-Future GDP = Initial GDP × (1 + r)^t
-```
+The historical **1010 BAC** baseline is **REL 1.52 trillion GDP**, converted at **USD 4.50 per REL** into **USD 6.84 trillion**, representing **3.4956815%** of the **USD 195.67 trillion planetary GDP**. Population: **1.52 billion**.
 
-Where:
+At **Year 0**, nominal GDP is **REL 4.1527217475 × 10^19**, converted at the profile's **USD 114.26 per REL** reference into **USD 4.7448998686935 × 10^21**; at a **42% GDP share**, Asthortera's core GDP is **USD 1.1297380639746428 × 10^22**, or **AUC 4.138234666573783 × 10^21** with **1 AUC = USD 2.73** as the comparative reporting benchmark.
 
-- `r = 12% annual growth`
-- `t = 250 years`
-- `Starting GDP = $REL1,000,000,000`
+The **1010-year nominal USD GDP CAGR** is **~2.0360492% for Reltronland (rho)** and **~1.7851937% for the planet (alpha)**. Reltronland's nominal REL GDP CAGR is **~1.7098141%**; the historical nominal REL/USD appreciation CAGR is **~0.3207508%**. The stipulated **1% average inflation for Reltronland is denominated in a USD price-index reference**, not automatically in REL or as a GDP deflator.
 
-Result:
+**Candidate 250 BAC–Year 0 scenario:** **3.0% nominal USD GDP CAGR** for Reltronland and **2.5% for the planet**, giving **~USD 2.930359313 × 10^18** Reltronland GDP and **~USD 2.355111177 × 10^19** planetary GDP at 250 BAC; Reltronland GDP share **~12.44255%**. The residual nominal USD CAGRs for **1010–250 BAC** must be **~1.7209362%** Reltronland and **~1.5511513%** planet to reach both fixed endpoints. These are **period averages only**, not constant annual rates or recovered historical observations. The planet's **10% real growth in 1010 BAC, 15% in 950 BAC, and 7.5% in Year 0** remain independently fixed year-specific narrative constraints.
 
-```txt
-GDP after 250 years ≈ $REL353,785,000,000,000
-```
+**Arithmetic correction:** the former toy example, **REL 1 billion × 1.12^250**, actually equals **~REL 2.016070280 × 10^21**, **not REL 353,785,000,000,000**. This hypothetical illustrates compound arithmetic only and **does not describe Reltronland's historical GDP**. The older claim of uninterrupted 12% annual GDP growth for 250 years is superseded.
+
+See [Asthortera NCCM V2 — Statistical Remodeling](../statistics/asthortera-nccm-remodeling.md) for provenance and remaining assumptions.
 
 ## Impact
 
 - Reltronland holds 42% of total GDP in Asthortera.
-- Market Capitalization Index equals 47% of planetary value.
+- The **47% planetary Market Capitalization Index is a profile snapshot**, not an eternal fixed percentage or the same metric as 42% GDP. The contemporary narrative recognizes dynamic Reltronland–Depcutland market-cap shares.
 - Reltronland alone is richer than entire galaxies in some multiversal comparisons.
 
 ## Final Clause
