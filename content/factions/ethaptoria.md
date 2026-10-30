@@ -21,6 +21,9 @@ tags:
   - NCCM V6
 ---
 
+> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **84 billion** resident sentients (previously **59 billion**); 15B from Astrostelia; 10B from Lenternow. National SDI remains **0.950**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 13.173 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+
+
 # Ethaptoria — The Civilization of Questions
 
 > **Civilizational identity:** A World of Questions.
@@ -181,18 +184,18 @@ These country-specific numeric estimates are the **NCCM V6 five-country working 
 
 | Statistic | Value | Provenance |
 |---|---:|---|
-| Year 0 population | **59 billion** | NCCM V6 proposed five-state allocation |
+| Year 0 population | **84 billion** | NCCM V6.2 creator-approved migration |
 | Sentient Development Index (SDI) | **0.950** | NCCM V6 national target |
 | Individual capability component | **0.9530** | Candidate 60/40 SDI decomposition |
 | Institutional quality component | **0.9455** | Candidate 60/40 SDI decomposition |
 | Macro specialization multiplier | **1.16** | NCCM allocation parameter |
 | Planet nominal GDP contribution | **approximately 0.9794%** | Macro distribution target |
 | Annual GDP after integrated 10× uplift | **approximately USD 1.1065 × 10²¹** | Scenario allocation, not measured accounts |
-| Annual GDP per inhabitant | **approximately USD 18.754 billion** | Derived from modeled GDP and population |
-| Annual GNI per inhabitant | **approximately USD 18.754 billion** | Proxy assuming net foreign primary income = 0 |
+| Annual GDP per inhabitant | **approximately USD 13.173 billion** | Derived from modeled GDP and population |
+| Annual GNI per inhabitant | **approximately USD 13.173 billion** | Proxy assuming net foreign primary income = 0 |
 | Currency proposal | **EPT** | Scenario code, not a ratified national monetary statute |
 | Illustrative currency conversion | **1 EPT = USD 61.40** | FX scenario, not observed exchange market |
-| Illustrative GNI per capita in local units | **305.44 million EPT/year** | GDP/GNI model divided by scenario exchange rate |
+| Illustrative GNI per capita in local units | **214.54 million EPT/year** | GDP/GNI model divided by scenario exchange rate |
 | National ancestry percentages | **Not specified** | Do not copy a planetary weighted proxy into a local census |
 | National median age, TFR, CPI, Gini | **Not specified** | Independent demographic and economic modeling required |
 | National land area and population density | **Not specified** | Map cannot substitute for land-area survey |
