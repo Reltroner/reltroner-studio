@@ -2096,3 +2096,32 @@ Its deepest truth is simple:
 **Let your ideas breathe. Let your tools sing. Let the world be your canvas.**
 
 **Welcome to Pencilfania.**
+
+---
+
+## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
+
+**Unchanged canonical nation anchors:** **182 billion** residents, **166 million km²**, and **SDI 0.940**. Asthortera's **4.412 trillion** unique residents live in **37 countries**, and the **planet SDI is now 0.947**. Composite SDI integrates individual capabilities and institutional quality.
+
+**Completed cross-domain simulation columns — all asterisked figures are candidates, not independently measured national facts:**
+
+| Metric | NCCM V3 value | Provenance |
+|---|---:|---|
+| GDP, reporting AUC/year | **1.14622939e+20*** | Modeled national GDP allocation, **not local-currency GDP** |
+| GDP/head, reporting USD/year | **1.719344e+9*** | Modeled GDP / fixed national population |
+| Planet GDP contribution | **2.7699%*** | Model shares reconcile across planet GDP |
+| Individual SDI capacity I | **0.9444*** | Illustrative individual/institution 60/40 decomposition |
+| Institutional SDI quality Q | **0.9334*** | Illustrative institutional component, not surveyed |
+| Income Gini | **0.290*** | Unratified comparative distribution candidate |
+| Public debt to GDP | **53.0%*** | Unratified public-finance candidate |
+| Year 0 real GDP growth | **7.10%*** | One-year conditional growth candidate |
+| CPI inflation at Year 0 | **0.320%*** | Noncanonical national CPI candidate |
+| Unemployment | **2.00%*** | Candidate labor-market indicator |
+| Urban population share | **84.0%*** | Does not imply urban land share |
+| Life expectancy | **472 years*** | Candidate biological cohort proxy |
+| Median age | **252 years*** | Candidate age-structure proxy |
+| Total fertility rate | **1.84*** | Candidate, not a completed life table |
+| Education/learning access index | **0.948*** | Synthetic institutional proxy, not observed |
+
+**Editorial rule:** Candidate benchmark estimates help compare the 14 countries in a common AUC/USD frame but do **not** supersede this nation's source-canonical population, SDI, historical institutions, ancestry, national currency, or independently stated financial figures. The [single 14-country comparative matrix](../statistics/asthortera-14-country-cross-domain-v3.md), its [JSON model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md) govern reproducibility and future ratification.
+
