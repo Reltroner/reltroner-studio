@@ -461,7 +461,7 @@ This makes Asthortera simultaneously:
 
 ## 13.1 Galactic Descent and the Great Demographic Transition
 
-The modern planetary categories comprise approximately **61% Depeisit descent (2.691 trillion), 24% Cistheta descent (1.059 trillion), 7% native Asthorteran (308.84 billion), 5% Cosmeilia-mixed (220.60 billion), and 3% other sentients (132.36 billion)**. These are **lineages, not first-generation migrant shares**. Cenrestier, Aurastelia, Astrostelia, Kalgered, Hargenbor, Moreg and Lenternow differ markedly from the planet average. Distinguish migration, natural increase, mixed heritage and national identity.
+The **Year 0 creator-ratified ancestry distribution (2026-10-30)** is **58% Depeisit descent (2.55896 trillion), 22% Cistheta descent (970.64 billion), 10% Cosmeilia-Human mixed (441.20 billion), 7% native Asthorteran (308.84 billion), and 3% other sentients (132.36 billion)**. The reporting shares total **100% of the 4.412 trillion** population. The former **61/24/5/7/3** allocation is superseded. These are **ancestry reporting categories, not first-generation immigrant shares or nationality**. Individual ancestry may be mixed; national populations remain distinct from planetary averages.
 
 | Indicator | **1010 BAC** | **Year 0** |
 |---|---:|---:|
