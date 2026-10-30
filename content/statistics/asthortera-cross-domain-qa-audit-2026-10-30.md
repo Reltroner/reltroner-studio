@@ -17,6 +17,8 @@ tags:
 
 # Asthortera Cross-Domain Statistical QA Audit
 
+**Historical V3 audit snapshot, superseded for Beluftner census on 2026-10-30.** The historical figures below (7% Beluftner Cosmeilian, 2% Other, 539.750B Cosmeilian subtotal) remain archival records only. The later creator-ratified **6% Phantomkind / 2% Cosmeilian / 1% Other** partition yields a **535.200B** fourteen-country Cosmeilian primary subtotal and a **5.460B** known Phantomkind-primary count. Refer to [NCCM V4 demography](./asthortera-phantomkind-demography-v4.md) and [NCCM V4 QA findings](./asthortera-cross-domain-qa-v4-2026-10-30.md) for current source of truth.
+
 **Audit scope:** repository `Reltroner/reltroner-studio`, branch `main`, **2026-10-30**. At inventory time, **427 Markdown files in `content/`**, **21 files in `content/factions/`**, and **19 in `content/statistics/`** (before adding this report). **All 21 faction files and all 19 then-existing statistics files were read for relevant quantitative facts**. Additional planetary, timeline, philosophical, and infrastructure references were searched and selectively verified. This is **not** a false claim of manually performing a line-by-line semantic review of all 427 articles: a separate automated scan is supplied for full content-tree coverage, while deeper narrative causality across all article types remains work to do.
 
 ## NCCM V3 update — 2026-10-30, creator ratification and audited model
