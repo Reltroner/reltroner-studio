@@ -1328,3 +1328,30 @@ RESILIENT INTERCIVILIZATIONAL RELATIONSHIP
 
 ---
 
+---
+
+## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
+
+**Canonical anchors unchanged:** **164 billion** residents, **433 million km²** land, and national **SDI 0.970**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
+
+**Scenario-calibrated cross-domain estimates — NOT authoritative national census results:**
+
+| Model metric | NCCM V3 comparative value | Source status |
+|---|---:|---|
+| GDP, AUC reporting equivalent/year | **1.50147127e+20 AUC** | Provisional cross-country GDP allocation |
+| GDP/head, nominal USD reporting | **2.499400e+9 USD/year** | Candidate GDP÷population |
+| Planet GDP contribution | **3.6283%** | Candidate, jointly reconciles to planet GDP with other states |
+| Individual capability SDI, I | **0.9760** | Synthetic 60/40 decomposition, **not observed** |
+| Institutional quality SDI, Q | **0.9610** | Synthetic 60/40 decomposition, **not observed** |
+| Income Gini | **0.230** | Candidate, not national survey |
+| Government debt / GDP | **48.0%** | Candidate, not national accounts |
+| Year 0 real GDP growth | **7.00%** | Candidate one-year rate, not historical CAGR |
+| Year 0 CPI inflation | **0.240%** | Candidate rate |
+| Urban population | **82.0%** | Candidate; not percentage of land area |
+| Period life expectancy | **485 years** | Cohort model candidate |
+| Median age | **254 years** | Demographic candidate |
+| Total fertility rate | **1.91** | Candidate, age/lineage cohort modeling pending |
+| Education access index | **0.978** | Synthetic learning-opportunity proxy, not surveyed |
+
+**Scope and editorial precedence:** These filled-in values support **comparison and decision-making**, not a claim that every country's local nominal GDP, GNI, real exchange rate, cohort life table or SDI microdata has been historically measured. Existing local-currency GDP/GNI, national sovereignty, aesthetic identity and the official SDI headline take precedence over any candidate field. Cross-domain reporting uses the single [14-country matrix](../statistics/asthortera-14-country-cross-domain-v3.md), the [machine-readable V3 model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and the [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md). Never silently promote a modeled candidate to published canon.
+
