@@ -13,6 +13,9 @@ region: "Eastern coastal belt of the western/main continent"
 coreTheme: "Civilization of Illumination"
 ---
 
+> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **174 billion** resident sentients (previously **214 billion**); 10B to Scenrepolia; 10B to Krisberia; 10B to Ethaptoria; 10B to Calespia. National SDI remains **0.935**. The donor's six primary ancestry percentages remain unchanged; exported cohorts preserve these source proportions. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 21.662 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+
+
 ![lenternow1](/images/lenternow1.webp)
 ![lenternow2](/images/lenternow2.webp)
 ![lenternow3](/images/lenternow3.webp)
@@ -114,7 +117,7 @@ The final 2026 upgrade adds the following elements:
 
 The 2026 macroeconomic figures are corrected for internal mathematical consistency.
 
-The **creator-published national anchors** are **214 billion sentients** and **LNR 182 quadrillion annual GDP**. The GDP-per-capita figure is a **derived national statistic**, so it must be recalculated from those two anchors rather than independently set:
+The **pre-migration national source anchors** were **214 billion sentients** and **LNR 182 quadrillion annual GDP**. The example below is preserved only as **V6.1 historical arithmetic**, not the current V6.2 census or fully converted USD income-output ledger. The GDP-per-capita figure is a **derived national statistic**, so it must be recalculated from those two anchors rather than independently set:
 
 ```txt
 GDP per capita = LNR 182,000,000,000,000,000 / 214,000,000,000
@@ -124,7 +127,7 @@ Check: 214,000,000,000 × LNR 1,110,000
        = LNR 237,540,000,000,000,000 (not LNR 182 quadrillion)
 ```
 
-The aligned Year 0 baseline is therefore:
+The **archived, pre-transfer** Year 0 baseline was therefore:
 
 ```txt
 GDP: LNR 182 quadrillion
@@ -132,7 +135,7 @@ Population: 214 billion
 GDP per capita: approximately LNR 850,467 per year
 ```
 
-This P0 arithmetic correction **preserves the GDP and population anchors** without changing Lenternow's high-SDI identity, institutional capabilities, or claims about national prosperity. GDP per capita is **not** disposable personal income, GNI per capita, or daily expenditure.
+This historical arithmetic correction preserved the **then-published** GDP and population anchors without changing Lenternow's high-SDI identity, institutional capabilities, or claims about national prosperity. GDP per capita is **not** disposable personal income, GNI per capita, or daily expenditure.
 
 This preserves the intended scale of Lenternow as a Top 10 Asthorteran economy while avoiding the inconsistency that would occur if GDP remained at only $182 trillion.
 
@@ -170,12 +173,12 @@ This chain defines Lenternow's identity: **light becomes resource, resource beco
 | **Geographic Placement** | Eastern coastal state of the western/main continent |
 | **Strategic Region** | Eastern coastal belt facing the Sea of Lenternow and Hargenbor maritime corridor |
 | **Land Area** | 117 million km² |
-| **Population** | 214 billion sentient beings |
+| **Population** | **174 billion sentients — NCCM V6.2 current Year 0** (214B before 40B emigrated) |
 | **Capital** | Lighteralis |
 | **Currency** | $LNR — Lenternow Radiance |
 | **Government System** | Bicameral Lenternokratia |
-| **GDP** | $182 quadrillion |
-| **GDP per Capita** | approximately $LNR 850,467 |
+| **GDP** | **USD 3.7692 × 10²¹/year (NCCM V6.2 nominal modeling)**; historical separate currency baseline: LNR 182 quadrillion |
+| **GDP per Capita** | **USD ~21.662 billion/year (NCCM V6.2)**; legacy LNR 850,467 was pre-migration, pre-uplift and is not an equivalent FX conversion |
 | **Sovereign Wealth Fund** | Lumen Sovereign Fund — $41 trillion |
 | **Core Economic Identity** | Phosphor innovation, urban light engineering, glow tourism, visual light art, clean energy systems, light intelligence systems |
 | **Sentient Development Index** | 0.935 |
@@ -218,7 +221,7 @@ Lenternow's landscape therefore reinforces its identity: it is not located at th
 
 ## 3.3 Population Density and Spatial Design
 
-Despite a population of **214 billion sentient beings**, Lenternow avoids the urban chaos commonly associated with extremely dense civilizations.
+With an updated population of **174 billion sentient beings**, Lenternow avoids the urban chaos commonly associated with extremely dense civilizations.
 
 This is possible because Lenternow's population is distributed through a combination of:
 
