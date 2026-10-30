@@ -13,6 +13,9 @@ region: "Eastern coastal belt of the western/main continent"
 coreTheme: "Civilization of Illumination"
 ---
 
+> **Creator-ratified national founding (2026-10-31): 2072 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** discovery of extraordinarily rich illumination materials and anti-resource-curse domestic refining and manufacturing; industrial complexity demanded safety, fiscal, labor, research and civic institutions; regional Cosmeilian stewardship predates sovereignty; Lenternow then served as manufacturing partner to later-founded Hargenbor. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 > **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **174 billion** resident sentients (previously **214 billion**); 10B to Scenrepolia; 10B to Krisberia; 10B to Ethaptoria; 10B to Calespia. National SDI remains **0.935**. The donor's six primary ancestry percentages remain unchanged; exported cohorts preserve these source proportions. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 21.662 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
 
 
