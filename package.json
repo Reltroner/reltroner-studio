@@ -16,6 +16,8 @@
     "lint": "tsc --noEmit",
     "typecheck": "tsc --noEmit",
     "content:validate": "node tools/validate-content.mjs",
+    "canon:qa:report": "node tools/audit-asthortera-canon.mjs --report",
+    "canon:qa:strict": "node tools/audit-asthortera-canon.mjs --strict",
     "postbuild": "node node_modules/next-sitemap/bin/next-sitemap.mjs && npm run assets:verify",
     "check-slugs": "node tools/check-slugs.mjs",
     "check-all-slugs": "node tools/check-all-slugs.mjs",
