@@ -27,7 +27,7 @@ The creator requires:
 
 **Mapether → Lenternow → Hargenbor → Moreg → Pasgerflit → Scenrepolia**
 
-From **oldest to youngest**, the creator has now ratified every date in the corridor: **Mapether 2164 BAC → Lenternow 2072 BAC → Hargenbor 1984 BAC → Moreg 1713 BAC → Pasgerflit 1545 BAC → Scenrepolia 1234 BAC**. The independent Taramistry follows at **1210 BAC**. **Krisberia 2320 BAC remains conditional** on Aurastelia and Astrostelia reaching their full modern territorial extents.
+From **oldest to youngest**, the creator has now ratified every date in the corridor: **Mapether 2164 BAC → Lenternow 2072 BAC → Hargenbor 1984 BAC → Moreg 1713 BAC → Pasgerflit 1545 BAC → Scenrepolia 1234 BAC**. The independent Taramistry follows at **1210 BAC**. **Krisberia 2320 BAC is creator-ratified and unconditional**; Aurastelia's and Astrostelia's modern territorial extents are separate historical issues.
 
 In BAC notation, **larger numbers are older**. Therefore their ultimate foundation dates must satisfy:
 
