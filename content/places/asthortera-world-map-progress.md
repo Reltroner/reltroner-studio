@@ -121,7 +121,7 @@ The current map should be interpreted at the scale of the planet itself.
 | **Approx. Water Area** | **~4.878 billion km²** |
 | **Natural Moons** | **12** |
 | **Sentient Population** | **~4.412 trillion** |
-| **Average SDI** | **0.938 / 1.000** |
+| **Average SDI** | **0.947 / 1.000** |
 
 The horizontal scale of the established map is almost identical to the equatorial circumference implied by the canonical planetary diameter:
 
