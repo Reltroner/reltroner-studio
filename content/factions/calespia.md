@@ -77,6 +77,14 @@ The territory can plausibly contain large cultivation districts, protected ecolo
 
 Do not invent a national density, map coordinate, coastline or precise km² from the illustration alone.
 
+### Kitlunchor — proposed culinary and civic metropolis
+
+The Eastern historical expansion notes identify **Kitlunchor** as a **proposed major Calespian city** emerging where agricultural routes, markets, warehouses, food-science laboratories and administrative functions intersect. Over time, its culinary institutions and hospitality economy could make it a renowned gastronomic center of Asthortera.
+
+**Status boundary:** The city name and its proposed development path come from worldbuilding brainstorming, not an independently ratified capital designation. The country's *constitutional capital remains unassigned*. No founding year, population, mapped district, or city-wide economic share is invented here.
+
+
+
 ---
 
 ## 3. History: founding and sovereign agency
