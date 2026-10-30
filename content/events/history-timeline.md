@@ -319,7 +319,7 @@ Stelpadland becomes a civilization of wilderness memory, disciplined survival, a
 
 ---
 
-### 2882–2164 BAC — The Older Eastern Continental Foundations
+### 2882–1121 BAC — Sovereign Foundations and the Industrial Corridor
 
 | Date | State | Lineage |
 |---|---|---|
@@ -329,14 +329,20 @@ Stelpadland becomes a civilization of wilderness memory, disciplined survival, a
 | **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
 | **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
 | **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
+| **2072 BAC** | Lenternow | Illumination-resource discovery, anti-resource-curse industrial manufacturing and institutional sovereignty |
+| **1984 BAC** | Hargenbor | Cosmeilian merchant sailors from Port of Astro Bay; Coastal Loop and trade with Lenternow |
+| **1713 BAC** | Moreg | Independent Cenrestieran transport entrepreneurs' mass-manufacturing frontier |
+| **1545 BAC** | Pasgerflit | Astrostelian emergency fleet and cascading spacecraft-system bug; terrestrial aviation re-engineering |
 | **1234 BAC** | Scenrepolia | Cistheta-influenced **local** interface/connectivity science |
-| **1186 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
+| **1210 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
 | **1125 BAC** | Reltronland | Independent sovereign founding, Troner Rhett |
 | **1121 BAC** | Depcutland | Independent sovereign founding, Cutter Glouster |
 
 The Stelpadland founding in **2882 BAC** remains sovereign consolidation by Scot Stetson after a pre-existing Kalgeredian-influenced frontier; its cultural maturation toward **2432 BAC** remains separate. **Krisberia's tentative 2320 BAC date must remain conditional** until the completion dates of Aurastelia and Astrostelia's modern territories are established. Krisberia and Mapether began at about **4%** and **5%** of modern territory. Mapether's Beluftner merchant expedition set an exceptional maritime-distance record, then stopped rather than extend into future resource-richer Reltronland because onward settlement was uneconomical for its small migrant population. Later Depeisit arrivals transformed Mapether's language and 1930s-inspired gangster-chic fashion without founding the state.
 
 **2470–2452 BAC — Canvas–Canopy Dispute:** Stelpadland and Pencilfania contested ecological policy, artistic public space and regional autonomy; negotiated environmental review reduced the dispute. **2256–2243 BAC — Wilderness–Puzzle Controversy:** Stelpadland and Ethaptoria disputed simulation versus field-based accreditation and reached a mixed standard. These were institutional conflicts, not ethnic, tribal or religious wars.
+
+**Creator-ratified 2026-10-31 founding dates:** Lenternow **2072 BAC**, Hargenbor **1984 BAC**, Moreg **1713 BAC**, Pasgerflit **1545 BAC**, Taramistry **1210 BAC**. Distinguish foundation of sovereign institutions from initial resource discoveries, Cosmeilian protection of sparse populations, pre-state merchant voyages and early industrial infrastructure. See [Cosmeilian Stewardship and Four Industrial Foundings](./cosmeilian-stewardship-four-industrial-foundings.md).
 
 ### Older Eastern States, Language and Non-Theological Civic Traditions
 
@@ -348,8 +354,12 @@ The Stelpadland founding in **2882 BAC** remains sovereign consolidation by Scot
 | **2556 BAC** | Ethaptoria | Post-Stetsonian exploration and combinatorial puzzle learning |
 | **2320 BAC (conditional)** | Krisberia | Aurastelian emigration *after* full modern territorial development of Aurastelia and Astrostelia |
 | **2164 BAC** | Mapether | Beluftner record-distance merchant voyage; later Depeisit cultural transformation |
+| **2072 BAC** | Lenternow | Illumination-resource discovery, anti-resource-curse industrial manufacturing and institutional sovereignty |
+| **1984 BAC** | Hargenbor | Cosmeilian merchant sailors from Port of Astro Bay; Coastal Loop and trade with Lenternow |
+| **1713 BAC** | Moreg | Independent Cenrestieran transport entrepreneurs' mass-manufacturing frontier |
+| **1545 BAC** | Pasgerflit | Astrostelian emergency fleet and cascading spacecraft-system bug; terrestrial aviation re-engineering |
 | **1234 BAC** | Scenrepolia | Cistheta-influenced **local** interface/connectivity science |
-| **1186 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
+| **1210 BAC** | Taramistry | Cistheta-influenced **local** biochemical science |
 | **1125 BAC** | Reltronland | Independent sovereign founding, Troner Rhett |
 | **1121 BAC** | Depcutland | Independent sovereign founding, Cutter Glouster |
 
@@ -379,7 +389,7 @@ This marks a new phase of external scientific interest in Asthortera's unique me
 
 ### 1234 BAC — Foundation of Scenrepolia
 
-After the **1256 BAC Cistheta arrival**, independent local scientific discoveries in interfaces, modular connectivity and built-environment access drove the sovereign foundation of **Scenrepolia**, capital **Skalatores**, symbol **electric socket and window**. External knowledge influenced an independent state; this was **not a direct colonial founding**.
+After the **1256 BAC Cistheta arrival**, independent local scientific discoveries in interfaces, modular connectivity and built-environment access drove the sovereign foundation of **Scenrepolia**, capital **Skalatores**, current national symbol **U-shaped magnet** (older socket/window motifs reflect historical industry). External knowledge influenced an independent state; this was **not a direct colonial founding**.
 
 ---
 
@@ -405,7 +415,7 @@ Colonists from **Depeisit** land across Asthortera, especially in the future ter
 
 This event marks the beginning of a major demographic, technological, and political transformation.
 
-### 1186 BAC — Foundation of Taramistry
+### 1210 BAC — Foundation of Taramistry
 
 Independent Cistheta-influenced **local** biochemical, pharmaceutical and ethical-governance research established **Taramistry**, capital **Tachemistria**. The Tarisian language subsequently developed Cisthetan and Depeisian influences. Scenrepolia and Taramistry have distinct sovereign origins.
 
