@@ -38,7 +38,7 @@ jobs:
       - name: Generate diagnostic report for all content Markdown
         run: node tools/audit-asthortera-canon.mjs --report > asthortera-canon-qa.json
       - name: Mine cross-content country metric references for manual QA
-        run: node tools/audit-asthortera-metric-mentions.mjs > asthortera-metric-mentions.json
+        run: node tools/audit-asthortera-metric-mentions.mjs | tee asthortera-metric-mentions.json
       - name: Upload diagnostics even if strict QA fails
         uses: actions/upload-artifact@v4
         with:
