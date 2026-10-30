@@ -316,7 +316,7 @@ The two largest human population groupings are more precisely understood through
 - the **22% Cistheta-descended population** has diverse visual and cultural expressions;
 - the **10% Cosmeilia-Human mixed** group is separately classified in the planetary reporting model.
 
-**2026-10-30 creator-ratified correction:** the superseded 61/24/5/7/3 model is replaced by **58/22/10/7/3**. Visual analogies do not define strict ancestry, citizenship, or physical uniformity.
+**Year 0 canonical composition: 58% Depeisit, 22% Cistheta, 10% Cosmeilia-Human mixed, 7% native Asthorteran, 3% others.** Visual analogies do not define strict ancestry, citizenship, or physical uniformity.
 
 The Western European and East Asian descriptors function as external visual analogies for readers. They do not imply Earth ethnic, national, or geopolitical continuity inside Asthortera.
 
