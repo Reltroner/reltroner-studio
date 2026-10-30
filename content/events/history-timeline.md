@@ -1005,7 +1005,7 @@ After the Great Acceleration, **planetary TFR, net-migration intensity and GDP g
 
 A planet-wide **0.4% population CAGR over 1010 years** and modern **4.412 trillion population** imply a **conditional 1010 BAC population of approximately 78.27 billion**, or a **56.37×** increase. This is a **calculated scenario, not an ancient census**. A piecewise-consistent population-growth reconstruction is: **1.40% (1010–995 BAC), 2.40% (995–970), 2.75% (970–950), 1.20% (950–920), 0.70% (920–850), 0.45% (850–780), 0.22% (780–600), 0.18% (600–300), and ~0.197658% (300–Year 0)**. All intermediate values are **simulation V1**, not fixed observational records.
 
-The economic-demographic transition also raised **life expectancy from 80 to ~475 years** and **SDI from 0.707 to 0.938**. Simulated intermediate markers may be **SDI 0.775/0.850/0.915** and **life expectancy 102/170/385 years** around **950/780/300 BAC**, but require separate biological and institutional validation. The **Year 0 real economic growth rate is 7.5%**.
+The economic-demographic transition also raised **life expectancy from 80 to ~475 years** and **SDI from 0.707 to 0.947**. Simulated intermediate markers may be **SDI 0.775/0.850/0.915** and **life expectancy 102/170/385 years** around **950/780/300 BAC**, but require separate biological and institutional validation. The **Year 0 real economic growth rate is 7.5%**.
 
 ---
 
