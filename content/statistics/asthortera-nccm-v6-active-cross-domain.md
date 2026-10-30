@@ -1,5 +1,5 @@
 ---
-title: "Asthortera NCCM V6.3 — Full Cross-Domain Canon and Modeling Reference"
+title: "Asthortera NCCM V6.4 — Full Cross-Domain Canon and Modeling Reference"
 description: "Creator-ratified founder dates, 75B internal migration, 19 nation demographic and economic comparisons, six-category ancestry, institutional SDI, 10x GDP/GNI, culture, sectors and unresolved constraints."
 author: "Reltroner Studio"
 date: "2026-10-31"
@@ -7,13 +7,13 @@ lastUpdated: "2026-10-31"
 published: false
 canonStatus: "Active creator-ratified demographic and chronology decisions; modeled national economics and residual aggregates explicitly distinguished from direct observations"
 world: "Asthortera"
-category: "Worldbuilding · Statistics · NCCM V6.3"
-tags: ["Asthortera", "NCCM V6.3", "Demography", "Founding Dates", "Phantomkind", "GDP", "GNI", "SDI", "Ancestry", "Worldbuilding"]
+category: "Worldbuilding · Statistics · NCCM V6.4"
+tags: ["Asthortera", "NCCM V6.4", "Demography", "Founding Dates", "Phantomkind", "GDP", "GNI", "SDI", "Ancestry", "Worldbuilding"]
 ---
 
-# Asthortera NCCM V6.3 — Full Cross-Domain Reference
+# Asthortera NCCM V6.4 — Full Cross-Domain Reference
 
-**Active machine-readable ledger:** [NCCM V6.3 active data](../../data/asthortera/nccm-v6-active-cross-domain.json). **Chronological source:** [historical timeline](../events/history-timeline.md). **Four pre-sovereign industrial pathways:** [Cosmeilian Stewardship Frontier](../events/cosmeilian-stewardship-four-industrial-foundings.md).
+**Active machine-readable ledger:** [NCCM V6.4 active data](../../data/asthortera/nccm-v6-active-cross-domain.json). **Chronological source:** [historical timeline](../events/history-timeline.md). **Four pre-sovereign industrial pathways:** [Cosmeilian Stewardship Frontier](../events/cosmeilian-stewardship-four-industrial-foundings.md).
 
 ## Version rules and provenance
 
@@ -183,7 +183,7 @@ Each individual source nation sums to 100%, independently of the departure volum
 | Taramistry | 5.4304 | 22.439 | 0.320 | 68.00% | 0.41% | 8.20% |
 | Moreg | 3.2213 | 15.714 | 0.330 | 65.00% | 0.37% | 8.30% |
 | Pencilfania | 3.1292 | 17.193 | 0.290 | 53.00% | 0.32% | 7.10% |
-| Stelpadland | 2.8757 | 20.395 | 0.240 | 42.00% | 0.27% | 6.80% |
+| Stelpadland | 2.8757 | 20.395 | 0.240 | **52.00% (canon)** | 0.27% | 6.80% |
 | Pasgerflit | 6.3590 | 22.792 | 0.320 | 63.00% | 0.36% | 8.20% |
 | Hargenbor | 1.7600 | 13.233 | 0.370 | 74.00% | 0.45% | 6.70% |
 | Beluftner | 0.8429 | 9.263 | 0.280 | 44.00% | 0.48% | 6.20% |
@@ -198,6 +198,10 @@ All GDP values are the **integrated V6 nominal 10× scenario**. The country GDP 
 - **National income:** GNI = GDP + net primary income from foreign jurisdictions. The active *zero net primary-income bridge* is a simplifying **scenario assumption**.
 - **After a fixed GDP and population shift:** GDP per head changes mechanically, not necessarily labor productivity or household disposable income.
 - **SDI framework:** National SDI = 60% modeled individual capability + 40% modeled institutional quality; national values remain creator-approved modeling baselines, not biological group hierarchy.
+
+### Stelpadland: finished-furniture manufacturing and sovereign public finance
+
+**Creator-ratified 2026-10-31:** Stelpadland's **public debt = 52% of GDP**, overriding the **unratified 42% V3 scenario**. It is a **finished-furniture and processed-timber production country**: responsible forestry provides the supply base, while manufacturers create high-value final furniture, woodcraft, durable interiors and related design/quality services. Scouting, wilderness learning, forest stewardship and Timber Soul remain national cultural and institutional foundations. No furniture share of GDP, export share, employment count or particular causal explanation for the 52% debt level has yet been quantified. [Read Stelpadland's current canon profile](../factions/stelpadland.md).
 
 ## 7. Eastern five — sectoral value-added specializations
 
@@ -302,7 +306,7 @@ The following are modeled **gross value-added percentage allocations**, not empl
 | Taramistry | Chemispunk/Pharmapunk: synthesis and bioethics | Biotechnology, pharmaceuticals and applied science |
 | Moreg | Nation of Endless Roads / automotive modernism | Vehicle and component manufacture, transport networks, road/AI systems |
 | Pencilfania | Art, expressive education and creative institutions | Visual communication and design, creativity |
-| Stelpadland | Maple-forest, scouting and field learning | Forest stewardship, practical training, environment |
+| Stelpadland | Maple-forest, scouting, Timber Soul and finished furniture | Responsible forestry, **finished-furniture production**, processing, precision carpentry, public learning and 52%-GDP debt benchmark |
 | Pasgerflit | Sky Nation: aviation and airport culture | Civil air transport, airfields, aerospace MRO and manufacturing |
 | Hargenbor | Coastal Loop, marine trade and maritime culture | Marine production, shipping, trade and underwater industry |
 | Beluftner | Ancient native magical-spiritual civilization | Spiritual knowledge, long history and Phantomkind presence |
