@@ -172,7 +172,6 @@ This must not become a universal caricature: cities should retain ordinary homes
 
 ---
 
-## 7. Economics and sectoral production
 
 ## 7. NCCM V6 national quantitative baseline
 
@@ -288,7 +287,7 @@ National success requires balancing insight, action, accountability, public serv
 
 ---
 
-## 14. Canon, provisional facts and source-of-truth distinctions
+## 13. Canon, provisional facts and source-of-truth distinctions
 
 | Domain | Status |
 |---|---|
