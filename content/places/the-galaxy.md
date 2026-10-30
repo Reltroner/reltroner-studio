@@ -150,7 +150,7 @@ Formalizes mutual interstellar ethics, sentient preservation, and hyperspace sec
 ---
 
 ## 🏛️ **Depeisit**
-- **SDI:** 0.811  
+- **SDI:** 0.852  
 - **Population:** ~25 trillion  
 - **Galactic Role:**  
   Aging empire of legacy systems and cultural inertia.  
@@ -233,7 +233,7 @@ The **Central Region** represents the most balanced and stable civilizations —
 ### **Cosmeilia**
 
 * **Population:** Approximately 3.7 trillion
-* **Median Age:** 246 years
+* **Median Age:** 249 years
 * **Sentient Development Index (SDI):** 0.907
 * **Key Traits:** Cosmeilia serves as the capital of spiritual diplomacy, defined by its emphasis on radiant consciousness and metaphysical governance.
 
@@ -242,7 +242,7 @@ The **Central Region** represents the most balanced and stable civilizations —
 ### **Cistheta**
 
 * **Population:** Approximately 10 trillion
-* **Median Age:** 240 years
+* **Median Age:** 215 years
 * **Sentient Development Index (SDI):** 0.898
 * **Key Traits:** Cistheta is a hyper-urbanized world characterized by advanced techno-governance and large-scale systemic control.
 
@@ -256,7 +256,7 @@ The **Central Region** represents the most balanced and stable civilizations —
 * **Key Traits:** Theartenra operates as an industrial stronghold, specializing in artificial intelligence development and asteroid-based resource extraction.
 
 ### 🧠 Regional Summary
-- **Median Age Range:** 240–264 years  
+- **Median Age Range:** 215–264 years  
 - **Population Range:** 100 billion – 10 trillion per planet  
 - **Dominant Ideology:** Astralis Pinnacle (Red Pill Extreme)  
 - **Core Stability:** Extremely high — long-lived civilizations with sustainable growth.  
@@ -274,8 +274,8 @@ Here, progress has slowed into preservation, and many worlds battle cultural ine
 ### **Depeisit**
 
 * **Population:** Approximately 25 trillion
-* **Median Age:** 288 years
-* **Sentient Development Index (SDI):** 0.811
+* **Median Age:** 307 years
+* **Sentient Development Index (SDI):** 0.852
 * **Key Traits:** Depeisit is an aging imperial world defined by an entrenched bureaucratic legacy, systemic inertia, and long-term institutional stagnation.
 
 ---
@@ -294,7 +294,7 @@ Here, progress has slowed into preservation, and many worlds battle cultural ine
 - **Ideology:** *Blue Pill Dominance* — comfort, conformity, and illusion of stability  
 
 ### 🧠 Regional Summary
-- **Median Age Range:** 270–300 years  
+- **Median Age Range:** 270–307 years  
 - **Population Range:** 250 billion – 25 trillion per planet  
 - **Dominant Ideology:** Blue Pill Conservatism  
 - **Core Stability:** High structural inertia, low adaptive innovation  
@@ -491,7 +491,7 @@ The previous pseudo-equation treated demographic age, population density, and ga
 | Institutions | Systems of decision, correction, audit, and accountability | An advanced world must be infallible |
 | Migration and history | Historical continuity and potential renewal | A fixed social or ideological outcome |
 
-**Internal counterexample:** Depeisit's **288-year** median is greater than Asthortera's **252-year** median despite Depeisit's greater distance and lower SDI. The galactic pattern is **not monotonic**.
+**Internal counterexample:** Depeisit's **307-year** median is greater than Asthortera's **252-year** median despite Depeisit's greater distance and lower SDI. The galactic pattern is **not monotonic**.
 
 Keep this model as a worldbuilding heuristic for **causal investigations**, not as a deterministic ranking or a replacement for each civilization's documented agency.
 
@@ -502,7 +502,7 @@ Keep this model as a worldbuilding heuristic for **causal investigations**, not 
 
 ### 🔹 Central Region (Asthortera, Cosmeilia)
 - Located in the **Central Core**, a convergence zone with strong Astralis traditions; location alone does not guarantee institutional quality.  
-- Long-lived median age (Asthortera ~252 years; Cosmeilia ~246 years) and trillion-scale planetary populations.  
+- Long-lived median age (Asthortera ~252 years; Cosmeilia ~249 years) and trillion-scale planetary populations.  
 - **Interpretation:** High SDI requires institutional evidence and civilizational capacity; population totals alone cannot establish density or causation.  
 - These worlds reach *dynamic equilibrium* — they neither collapse from youth nor stagnate from age.  
 
@@ -512,7 +512,7 @@ Keep this model as a worldbuilding heuristic for **causal investigations**, not 
 
 ### 🔸 Deep Region (Depeisit)
 - Further from the core (~15 kpc), with entrenched institutional history; the observed outcomes cannot be attributed solely to Astralis exposure.  
-- Median age 288 years coexists with institutional fatigue; age itself is not the cause, and population totals alone cannot prove overcrowding.  
+- Median age 307 years coexists with institutional fatigue; age itself is not the cause, and population totals alone cannot prove overcrowding.  
 - **Interpretation:** Institutional rigidity without renewal can drive prolonged stagnation, irrespective of unverified physical density.  
 - The result: long life expectancy but *low renewal velocity*.  
 
@@ -541,18 +541,20 @@ Keep this model as a worldbuilding heuristic for **causal investigations**, not 
 ---
 
 
+**Cross-source reconciliation (2026-10-30):** current planetary medians and Depeisit SDI follow the specific [Cosmeilia](../statistics/cosmeilia_identity.md), [Cistheta](../statistics/cistheta_identity.md), and [Depeisit](../statistics/depeisit_identity.md) identity records, rather than conflicting aggregate overview estimates.
+
 ## 📉 5. Comparative Demographic Summary
 
 | World | Belt | Median Age | Population | SDI |
 |---|---|---:|---:|---:|
 | Asthortera | Central | **252 years** | ~4.4 trillion | 0.938 |
-| Cosmeilia | Central | **246 years** | ~3.7 trillion | 0.907 |
-| Cistheta | Central | **240 years** | ~10 trillion | 0.898 |
+| Cosmeilia | Central | **249 years** | ~3.7 trillion | 0.907 |
+| Cistheta | Central | **215 years** | ~10 trillion | 0.898 |
 | Theartenra | Central | **258 years** | ~1.6 trillion | 0.889 |
-| Depeisit | Deep | **288 years** | ~25 trillion | 0.811 |
+| Depeisit | Deep | **307 years** | ~25 trillion | 0.852 |
 | Vanyathra | Outer Veil | **144 years** | ~1.3 billion | ~0.413 |
 
-**Regional age intervals, preserving the original proportional structure:** Central **240–264 years**, Deep **270–300 years**, Middle **162–234 years**, Outer Veil **84–174 years**.
+**Regional age intervals, preserving the original proportional structure:** Central **215–264 years**, Deep **270–307 years**, Middle **162–234 years**, Outer Veil **84–174 years**.
 
 These are **median ages rather than life expectancy**. Without land area and settlement-distribution figures for the other worlds, the figures cannot establish a quantitative density-versus-distance trend.
 
