@@ -12,13 +12,21 @@ test("Archived V2 five-way ancestry snapshot sums to 100%; superseded by active 
   close(v.year0_ancestry.reduce((a,b)=>a+b,0),1);
   close(v.year0_ancestry.reduce((a,b)=>a+b*v.year0_planet_population,0),4.412e12);
 });
-test("Legacy five-way narrative references preserved for documented V6 migration review",()=>{
-  for(const p of ["content/statistics/asthortera_identity.md","content/statistics/asthortera-vs-earth.md","content/places/asthortera-core-world.md","content/statistics/sentient-population.md","content/philosophies/why-immigrants-choose-asthortera.md"]){
+test("Canonical V6.5 planet pages supersede historical five-way ancestry without erasing V2 archives",()=>{
+  const current=JSON.parse(read("data/asthortera/nccm-v6-active-cross-domain.json"));
+  assert.equal(current.canon_ratification.status,"C");
+  assert.deepEqual(Object.keys(current.planet.ancestry_primary_pct_representative_14_country_weighted),["depeisit","cistheta","cosmeilian","native","phantomkind","other"]);
+  const summed=Object.values(current.planet.ancestry_primary_pct_representative_14_country_weighted).reduce((a,b)=>a+b,0);
+  close(summed,100);
+  for(const p of ["content/statistics/asthortera_identity.md","content/statistics/asthortera-vs-earth.md"]){
     const txt=read(p);
-    for(const str of ["58%","22%","10%","7%","3%"])assert.ok(txt.includes(str),`Missing ${str}: ${p}`);
-    assert.doesNotMatch(txt,/61%\s+(?:Human|Depeisit|Western)/);
-    assert.doesNotMatch(txt,/24%\s+(?:Human|Cistheta|East Asian)/);
+    assert.match(txt,/NCCM V6\\.5 — Year 0 canon statistics \\(C\\)/);
+    assert.match(txt,/Phantomkind \\/ Spiritual Hybrid/);
+    assert.match(txt,/3,213B.*395B.*804B/);
+    assert.doesNotMatch(txt,/Year 0.*58% Depeisit \\/ 22% Cistheta/);
   }
+  // The historic V2 raw five-way distribution remains preserved in its dated ledger only.
+  assert.deepEqual(v.year0_ancestry.map(x=>Math.round(100*x)),[58,22,10,7,3]);
 });
 test("Archived V2 REL/USD and pre-uplift GDP/AUC bridge remains reproducible",()=>{
   const h=v.historical_1010,m=v.year0,a=v.assumptions;
