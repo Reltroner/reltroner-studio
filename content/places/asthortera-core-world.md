@@ -68,7 +68,7 @@ Asthortera must therefore be understood first through its own internal civilizat
 | **Quadrant**                      | South-Central                                                |
 | **Planetary Role**                | Core World of conscious civilization                         |
 | **Total Sentient Population**     | ~4.4 trillion                                                |
-| **Average Planetary SDI**         | 0.938 / 1.000                                                |
+| **Average Planetary SDI**         | 0.947 / 1.000                                                |
 | **Median Age**                    | ~252 years                                                   |
 | **Life Expectancy**               | ~475 years                                                   |
 | **Urbanization Rate**             | ~89.5%                                                       |
@@ -336,7 +336,7 @@ Asthortera has one of the highest planetary SDI scores in the inhabited galaxy.
 
 ### Sentient Development Index
 
-**SDI:** `0.938 / 1.000`
+**SDI:** `0.947 / 1.000`
 
 This score reflects the planet’s strong performance in:
 
@@ -1086,7 +1086,7 @@ The following planetary properties are established unless explicitly revised by 
 - Surface gravity: **~11 m/s²**.
 - Natural moons: **12**.
 - Sentient population: **~4.412 trillion**.
-- Average planetary SDI: **0.938 / 1.000**.
+- Average planetary SDI: **0.947 / 1.000**.
 - Median age: **~252 years**.
 - Life expectancy: **~475 years**.
 - Urbanization rate: **~89.5%**.
