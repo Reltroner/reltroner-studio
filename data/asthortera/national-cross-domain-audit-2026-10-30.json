@@ -1,0 +1,275 @@
+{
+  "schema": "ast-qa-national-profile-snapshot-v1",
+  "generated_utc_date": "2026-10-30",
+  "status": "development material; manual extraction of current national profiles; not a new canon",
+  "planet": {
+    "population_billion": 4412,
+    "ancestry_ratified_pct": {
+      "depeisit": 58,
+      "cistheta": 22,
+      "cosmeilia_human_mixed": 10,
+      "native": 7,
+      "other": 3
+    },
+    "sdi": 0.938,
+    "land_area_million_km2": 4503
+  },
+  "coverage": {
+    "faction_documents_reviewed": 21,
+    "statistics_documents_reviewed": 19,
+    "content_tree_files_indexed": 427,
+    "sovereign_country_profiles_with_extractable_statistics": 14
+  },
+  "countries": [
+    {
+      "name": "Reltronland",
+      "source": "content/factions/reltronland.md",
+      "population_billion": 855,
+      "area_million_km2": 104,
+      "sdi": 0.984,
+      "reported_ancestry_pct": {
+        "depeisit": 66,
+        "cistheta": 22,
+        "cosmeilia_or_mixed": 4,
+        "native": 5,
+        "other_or_unclassified": 3
+      }
+    },
+    {
+      "name": "Depcutland",
+      "source": "content/factions/depcutland.md",
+      "population_billion": 343,
+      "area_million_km2": 52,
+      "sdi": 0.981,
+      "reported_ancestry_pct": {
+        "depeisit": 81,
+        "cistheta": 10,
+        "cosmeilia_or_mixed": 3,
+        "native": 4,
+        "other_or_unclassified": 2
+      }
+    },
+    {
+      "name": "Kalgered",
+      "source": "content/factions/kalgered.md",
+      "population_billion": 108,
+      "area_million_km2": 108,
+      "sdi": 0.979,
+      "reported_ancestry_pct": {
+        "depeisit": 40,
+        "cistheta": 10,
+        "cosmeilia_or_mixed": 13,
+        "native": 35,
+        "other_or_unclassified": 2
+      }
+    },
+    {
+      "name": "Aurastelia",
+      "source": "content/factions/aurastelia.md",
+      "population_billion": 164,
+      "area_million_km2": 433,
+      "sdi": 0.97,
+      "reported_ancestry_pct": {
+        "depeisit": 5,
+        "cistheta": 7,
+        "cosmeilia_or_mixed": 80,
+        "native": 4,
+        "other_or_unclassified": 4
+      }
+    },
+    {
+      "name": "Astrostelia",
+      "source": "content/factions/astrostelia.md",
+      "population_billion": 220,
+      "area_million_km2": 216,
+      "sdi": 0.957,
+      "reported_ancestry_pct": {
+        "depeisit": 9,
+        "cistheta": 16,
+        "cosmeilia_or_mixed": 65,
+        "native": 6,
+        "other_or_unclassified": 4
+      }
+    },
+    {
+      "name": "Lenternow",
+      "source": "content/factions/lenternow.md",
+      "population_billion": 214,
+      "area_million_km2": 117,
+      "sdi": 0.935,
+      "reported_ancestry_pct": {
+        "depeisit": 26,
+        "cistheta": 29,
+        "cosmeilia_or_mixed": 38,
+        "native": 5,
+        "other_or_unclassified": 2
+      }
+    },
+    {
+      "name": "Taramistry",
+      "source": "content/factions/taramistry.md",
+      "population_billion": 242,
+      "area_million_km2": 125,
+      "sdi": 0.954,
+      "reported_ancestry_pct": {
+        "depeisit": 74,
+        "cistheta": 17,
+        "cosmeilia_or_mixed": null,
+        "native": 5,
+        "other_or_unclassified": 4
+      }
+    },
+    {
+      "name": "Moreg",
+      "source": "content/factions/moreg.md",
+      "population_billion": 205,
+      "area_million_km2": 79,
+      "sdi": 0.931,
+      "reported_ancestry_pct": {
+        "depeisit": 45,
+        "cistheta": 30,
+        "cosmeilia_or_mixed": 13,
+        "native": 10,
+        "other_or_unclassified": 2
+      }
+    },
+    {
+      "name": "Pencilfania",
+      "source": "content/factions/pencilfania.md",
+      "population_billion": 182,
+      "area_million_km2": 166,
+      "sdi": 0.94,
+      "reported_ancestry_pct": {
+        "depeisit": 66,
+        "cistheta": 23,
+        "cosmeilia_or_mixed": 4,
+        "native": 3,
+        "other_or_unclassified": 4
+      }
+    },
+    {
+      "name": "Stelpadland",
+      "source": "content/factions/stelpadland.md",
+      "population_billion": 141,
+      "area_million_km2": 200,
+      "sdi": 0.961,
+      "reported_ancestry_pct": {
+        "depeisit": 52,
+        "cistheta": 22,
+        "cosmeilia_or_mixed": 6,
+        "native": 18,
+        "other_or_unclassified": 2
+      }
+    },
+    {
+      "name": "Pasgerflit",
+      "source": "content/factions/pasgerflit.md",
+      "population_billion": 279,
+      "area_million_km2": 72,
+      "sdi": 0.949,
+      "reported_ancestry_pct": {
+        "depeisit": 62,
+        "cistheta": 21,
+        "cosmeilia_or_mixed": 5,
+        "native": 6,
+        "other_or_unclassified": 6
+      }
+    },
+    {
+      "name": "Hargenbor",
+      "source": "content/factions/hargenbor.md",
+      "population_billion": 133,
+      "area_million_km2": 39,
+      "sdi": 0.925,
+      "reported_ancestry_pct": {
+        "depeisit": 48,
+        "cistheta": 40,
+        "cosmeilia_or_mixed": null,
+        "native": 7,
+        "other_or_unclassified": 5
+      }
+    },
+    {
+      "name": "Beluftner",
+      "source": "content/factions/beluftner.md",
+      "population_billion": 91,
+      "area_million_km2": 88,
+      "sdi": 0.896,
+      "reported_ancestry_pct": {
+        "depeisit": 0.2,
+        "cistheta": 0.5,
+        "cosmeilia_or_mixed": null,
+        "native": 90.3,
+        "other_or_unclassified": 9
+      }
+    },
+    {
+      "name": "Cenrestier",
+      "source": "content/factions/cenrestier.md",
+      "population_billion": 111,
+      "area_million_km2": 102,
+      "sdi": 0.911,
+      "reported_ancestry_pct": {
+        "depeisit": 7,
+        "cistheta": 8,
+        "cosmeilia_or_mixed": 7,
+        "native": 73,
+        "other_or_unclassified": 5
+      }
+    }
+  ],
+  "audit": {
+    "profiled_population_billion": 3288,
+    "unprofiled_or_unreconciled_population_billion": 1124,
+    "native_profiled_billion": 377.423,
+    "planet_native_cap_billion": 308.84000000000003,
+    "native_excess_billion": 68.58299999999997,
+    "reported_cosmeilia_or_mixed_profiled_billion": 478.1599999999999,
+    "planet_mixed_cap_billion": 441.20000000000005,
+    "category_mapping_warning": "National Cosmeilia cosmic races include non-mixed sentients and are not necessarily equivalent to planet Cosmeilia-Human mixed; do not directly equate."
+  },
+  "known_gaps": [
+    {
+      "severity": "P0",
+      "code": "NATIVE_AGGREGATION_EXCEEDS_PLANET",
+      "status": "OPEN",
+      "notes": "14 countries alone report native populations greater than 7% of 4.412T under same-year and same-category comparability."
+    },
+    {
+      "severity": "P0",
+      "code": "NATIONAL_POPULATION_COVERAGE_INCOMPLETE",
+      "status": "OPEN",
+      "notes": "1.124T planet population not allocated to the 14 nation profiles; unknown national census years, other sovereigns, territories, offworld status."
+    },
+    {
+      "severity": "P1",
+      "code": "COSMEILIA_TAXONOMY_NOT_COMPARABLE",
+      "status": "OPEN",
+      "notes": "Planet mixed group vs broad Cosmeilia cosmic races in nations."
+    },
+    {
+      "severity": "P1",
+      "code": "KALGERED_SPENDING_99_PERCENT",
+      "status": "OPEN",
+      "notes": "1 percentage point discrepancy, cannot invent class."
+    },
+    {
+      "severity": "P1",
+      "code": "SDI_WEIGHTING_AND_REMAINDER",
+      "status": "OPEN",
+      "notes": "Weighted SDI of current 14 states ~0.95864 implies ~0.87763 in remaining population IF planetary SDI is a population-weighted arithmetic average."
+    },
+    {
+      "severity": "P1",
+      "code": "GDP_NATIONAL_FX_PPP_INCOMPLETE",
+      "status": "OPEN",
+      "notes": "GDP/GNI and AUC conversions cannot be fully reconciled without FX rates and GDP deflator."
+    },
+    {
+      "severity": "P2",
+      "code": "EMPTY_STATISTICS_DOCUMENT",
+      "status": "OPEN",
+      "notes": "content/statistics/sdi-character.md is empty."
+    }
+  ]
+}
