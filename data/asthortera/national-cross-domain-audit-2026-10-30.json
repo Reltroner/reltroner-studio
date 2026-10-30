@@ -11,7 +11,7 @@
       "native": 7,
       "other": 3
     },
-    "sdi": 0.938,
+    "sdi": 0.947,
     "land_area_million_km2": 4503,
     "sovereign_country_count": 37
   },
@@ -115,12 +115,13 @@
       "area_million_km2": 125,
       "sdi": 0.954,
       "reported_ancestry_pct": {
-        "depeisit": 74,
-        "cistheta": 17,
-        "cosmeilia_or_mixed": null,
+        "depeisit": 54,
+        "cistheta": 25,
+        "cosmeilia_or_mixed": 12,
         "native": 5,
         "other_or_unclassified": 4
-      }
+      },
+      "ancestry_revision_status": "creator_ratified_2026-10-30"
     },
     {
       "name": "Moreg",
@@ -143,12 +144,13 @@
       "area_million_km2": 166,
       "sdi": 0.94,
       "reported_ancestry_pct": {
-        "depeisit": 66,
+        "depeisit": 56,
         "cistheta": 23,
-        "cosmeilia_or_mixed": 4,
+        "cosmeilia_or_mixed": 14,
         "native": 3,
         "other_or_unclassified": 4
-      }
+      },
+      "ancestry_revision_status": "creator_ratified_2026-10-30"
     },
     {
       "name": "Stelpadland",
@@ -185,12 +187,13 @@
       "area_million_km2": 39,
       "sdi": 0.925,
       "reported_ancestry_pct": {
-        "depeisit": 48,
+        "depeisit": 44,
         "cistheta": 40,
-        "cosmeilia_or_mixed": null,
-        "native": 7,
-        "other_or_unclassified": 5
-      }
+        "cosmeilia_or_mixed": 6,
+        "native": 8,
+        "other_or_unclassified": 2
+      },
+      "ancestry_revision_status": "creator_ratified_2026-10-30"
     },
     {
       "name": "Beluftner",
@@ -201,10 +204,11 @@
       "reported_ancestry_pct": {
         "depeisit": 0.2,
         "cistheta": 0.5,
-        "cosmeilia_or_mixed": null,
+        "cosmeilia_or_mixed": 7,
         "native": 90.3,
-        "other_or_unclassified": 9
-      }
+        "other_or_unclassified": 2
+      },
+      "ancestry_revision_status": "creator_ratified_2026-10-30"
     },
     {
       "name": "Cenrestier",
@@ -224,17 +228,29 @@
   "audit": {
     "profiled_population_billion": 3288,
     "unprofiled_or_unreconciled_population_billion": 1124,
-    "native_profiled_billion": 377.423,
-    "reported_cosmeilia_or_mixed_profiled_billion": 478.1599999999999,
+    "native_profiled_billion": 378.753,
+    "reported_cosmeilia_or_mixed_profiled_billion": 539.75,
     "census_37_country_remainder_explained": "1.124 trillion residents belong to the remaining 23 sovereign countries; this is an accounting remainder, not missing inhabitants or a proposed equal split.",
     "ancestry_scopes": {
       "primary_partition": "Legacy five-part primary-assignment shares only, not bounds on inclusive ancestry.",
-      "inclusive_cosmeilian": "One variable for cosmic species and Cosmeilia-Human hybrids across all physical manifestations; national source-count lower bound 478.160 billion, full planet > lower bound, exact value pending 23-country audit.",
-      "inclusive_native": "Native Asthorteran lineage may appear alongside other ancestry; national source-count lower bound 377.423 billion, full planet > lower bound, exact value pending 23-country audit.",
+      "inclusive_cosmeilian": "One unified all-manifestation Cosmeilian ancestry variable, encompassing Cosmic Races and Cosmeilia-Human mixed. Source-country subtotal 539.750 billion across 14 audited countries; exact 37-country global inclusive total unratified.",
+      "inclusive_native": "Source-country native subtotal 378.753 billion from 14 countries; primary 7% is not an inclusive-lineage cap.",
       "candidate_only": {
         "cosmeilian_planet_percent": 15,
-        "native_planet_percent": 12
+        "native_planet_percent": 12,
+        "cosmeilian_remaining_23_billion": 122.05,
+        "native_remaining_23_billion": 150.687,
+        "status": "hypothetical_not_ratified"
       }
+    },
+    "sdi_remodeling_v3": {
+      "planet_sdi": 0.947,
+      "aggregation": "population_weighted_mean_of_national_composite_SDI_candidate_operator",
+      "known_14_weighted_mean": 0.9586380778588809,
+      "remaining_23_population_billion": 1124,
+      "required_remaining_23_weighted_sdi": 0.9129555160142343,
+      "individual_and_institutional_combined": true,
+      "component_weights": "candidate_pending_independent_validation"
     }
   },
   "known_gaps": [
@@ -254,7 +270,7 @@
       "severity": "P1",
       "code": "SDI_WEIGHTING_AND_REMAINDER",
       "status": "OPEN",
-      "notes": "Weighted SDI of current 14 states ~0.95864 implies ~0.87763 in remaining population IF planetary SDI is a population-weighted arithmetic average."
+      "notes": "Planetary SDI 0.947 (creator-ratified) and population-weighted national composite operator imply 23-country weighted mean 0.912955516; national 14 SDI unchanged. Individual/institutional split calibration pending evidence."
     },
     {
       "severity": "P1",
