@@ -7,6 +7,9 @@ date: "2025-04-17"
 published: true
 ---
 
+> **Cross-country founding continuity (creator-ratified 2026-10-31):** The independent transport-manufacturing country **Moreg was founded in 1713 BAC** through industrial settlement and institution-building led by **independent Cenrestieran transport entrepreneurs**, not by a Cenrestier state-sponsored annexation. Direct border geography and locally accessible manufacturing inputs made the region attractive while it remained under broader pre-sovereign Cosmeilian protection. Moreg ultimately formed its own sovereign government. [Full founding synthesis](../events/cosmeilian-stewardship-four-industrial-foundings.md).
+
+
 ![cenrestier1](/images/cenrestier1.webp)
 ![cenrestier2](/images/cenrestier2.webp)
 ![cenrestier3](/images/cenrestier3.webp)
