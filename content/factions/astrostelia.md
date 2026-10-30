@@ -22,6 +22,9 @@ tags:
   ]
 ---
 
+> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **185 billion** resident sentients (previously **220 billion**); 10B to Scenrepolia; 10B to Calespia; 15B to Ethaptoria. National SDI remains **0.957**. The donor's six primary ancestry percentages remain unchanged; exported cohorts preserve these source proportions. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 28.430 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+
+
 ![astrostelia1](/images/astrostelia1.webp)
 ![astrostelia2](/images/astrostelia2.webp)
 ![astrostelia3](/images/astrostelia3.webp)
@@ -78,7 +81,7 @@ Where its observatories study the unknown, its institutions regulate access to i
 - **Spiritual Doctrine:** Cosmognosis — the sacred study of stars, dimensions, and cosmic law
 - **Core National Values:** Discovery, objectivity, cosmic responsibility, dimensional diplomacy, institutional continuity, scientific humility
 - **Official Language:** Astrostelian Celestial Language
-- **Population:** 220 billion sentient beings
+- **Population:** 185 billion sentient beings (Year 0 NCCM V6.2; formerly 220B)
 - **Primary National Character:** Scientific, contemplative, technocratic, spiritually cosmic, commercially advanced
 - **Primary Strategic Institution:** Asthortera Space Command
 - **Primary Private Industrial Institution:** Astortera Enterprise
