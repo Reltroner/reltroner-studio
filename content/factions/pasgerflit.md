@@ -22,6 +22,9 @@ tags:
   - Astralis Series
 ---
 
+> **Creator-ratified national founding (2026-10-31): 1545 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** an Astrostelian fleet bound for planet Cosmeilia emergency-landed in the region; coupled spacecraft-landing and ground-support bugs cascaded into a reliability crisis, prompting a deliberate, testable atmospheric-aviation/aerospace engineering reset, civil airfields, MRO, air-traffic standards and eventual sovereign aviation institutions; not Asthortera's first spaceflight. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
+
+
 ![pasgerflit1](/images/pasgerflit1.webp)
 ![pasgerflit2](/images/pasgerflit2.webp)
 ![pasgerflit3](/images/pasgerflit3.webp)
