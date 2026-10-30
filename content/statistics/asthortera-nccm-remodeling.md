@@ -50,7 +50,7 @@ Primary ancestry does **not** mean first-generation migration, passport, citizen
 | Reltronland GDP contribution | **3.4956815%** | **42%** |
 | Reltronland population | **1.52 billion** | **855 billion** |
 | Asthortera population | **~78.268 billion (conditional 0.4% population CAGR)** | **4.412 trillion** |
-| Planet SDI | **0.707** | **0.938** |
+| Planet SDI | **0.707** | **0.947** |
 | Planet period life expectancy | **80 years** | **~475 years** |
 
 **Exact anchors and math:**
@@ -96,7 +96,7 @@ The stipulated historical **planet inflation 0.8% geometric average**, **Reltron
 |---|---|---|
 | Cohort demography | Nation × biological population × age × fertility category, births, deaths, internal/outer migration | `P(t+1)=P(t)+B(t)-D(t)+netM(t)`; national internal flows cancel in planet total; Year 0 4.412T and age median ~252 |
 | Longevity | Distinct maturation, senescence, age-specific survival and age-specific fecundity | Year 0 life expectancy ~475, youth and childhood near Earth-time, aging 55% ~261.25, greying 75% ~356.25, X ~281.25 only under female-life-expectancy proxy |
-| SDI | Public component index: cognition, education, health, material access, agency, institutional quality, emotional resilience | 1010 BAC 0.707 → Year 0 0.938; do not infer SDI from GDP or lifespan; interim values 0.775/0.850/0.915 unratified |
+| SDI | Public component index: cognition, education, health, material access, agency, institutional quality, emotional resilience | 1010 BAC 0.707 → Year 0 0.947; do not infer SDI from GDP or lifespan; interim values 0.775/0.850/0.915 unratified |
 | Monetary | Country FX histories, price baskets, GDP deflators, AUC reporting, PPP and standard sector perimeter | National/planet GDP reconciliation, historical and modern currency meanings, no counting of same value added twice |
 | Distribution | Income and wealth microdistributions, household size, nonmarket material rights, national daily expenditure bands | Planet Gini is not an average of national Ginis; 1010 0.240 and Year 0 0.340 still unratified |
 | National profiles | Audit census years, currencies and country income categories; complete all 37 nations | **14/37** profiled; the other 23 contain **1.124T**, and Kalgered's historic 1+30+45+18+5=99% class table needs structural remodeling, not just 1% normalization |
