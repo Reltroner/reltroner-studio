@@ -39,9 +39,9 @@ The [Master Source of Truth](../principles/reltroner-studio-master-source-of-tru
 
 The creator directs **one Cosmeilian ancestry variable encompassing both Cosmeilia Cosmic Races and Cosmeilia-Human mixed**, irrespective of humanoid, fairy, luminous star, comet, cosmic light or aurora manifestation. One person capable of several shapes remains **one sentient**, and forms do not create additional headcounts. **Native Asthorteran lineage** also must include native-descended mixed-heritage individuals.
 
-The profiled 14 states report **377.423 billion native-lineage** sentients and **478.160 billion Cosmeilian-all-manifestation-lineage** sentients, subject to source-category comparability. The planet's **7% primary native reporting class** and **10% primary Cosmeilian class** are **not maxima** for the inclusive lineage variables. Earlier claims that these nation-level counts exceed a binding global native or Cosmeilian cap were **measurement-category errors**, not proven demographic contradictions.
+The profiled 14 states report **378.753 billion native-lineage** sentients and **539.750 billion Cosmeilian-all-manifestation-lineage** sentients, subject to source-category comparability. The planet's **7% primary native reporting class** and **10% primary Cosmeilian class** are **not maxima** for the inclusive lineage variables. Earlier claims that these nation-level counts exceed a binding global native or Cosmeilian cap were **measurement-category errors**, not proven demographic contradictions.
 
-The **full planet-wide inclusive counts must be significantly above 377.423 billion native and 478.160 billion Cosmeilian**, as more countries exist. No exact total has yet been creator-ratified. A sensitivity example of **12% inclusive native incidence (529.440 billion)** and **15% inclusive Cosmeilian incidence (661.800 billion)** is mathematically feasible, implying respectively **152.017** and **183.640 billion** in the remaining 23 countries. These are **noncanonical scenarios**, not official census statistics.
+The **full planet-wide inclusive counts must be significantly above 378.753 billion native and 539.750 billion Cosmeilian**, as more countries exist. No exact total has yet been creator-ratified. A sensitivity example of **12% inclusive native incidence (529.440 billion)** and **15% inclusive Cosmeilian incidence (661.800 billion)** is mathematically feasible, implying respectively **152.017** and **183.640 billion** in the remaining 23 countries. These are **noncanonical scenarios**, not official census statistics.
 
 **Canonical accounting rule:** primary administrative ancestry is an *exclusive partition*; lineage incidence is *nonexclusive*. The same individual can appear once in the planetary unique-person denominator and in multiple lineage flags. A true global-inclusive lineage cap must not be inferred from primary registration categories.
 
@@ -60,16 +60,16 @@ The **full planet-wide inclusive counts must be significantly above 377.423 bill
 | Pencilfania | 182 | 3% | 5.460 | 0.940 |
 | Stelpadland | 141 | 18% | 25.380 | 0.961 |
 | Pasgerflit | 279 | 6% | 16.740 | 0.949 |
-| Hargenbor | 133 | 7% | 9.310 | 0.925 |
+| Hargenbor | 133 | 8% | 10.640 | 0.925 |
 | Beluftner | 91 | 90.3% | 82.173 | 0.896 |
 | Cenrestier | 111 | 73% | 81.030 | 0.911 |
-| **14-country subtotal** | **3,288** | — | **377.423** | — |
+| **14-country subtotal** | **3,288** | — | **378.753** | — |
 
 The source reports different forms of ancestry, lineage and nationality. The national-to-planet crosswalk is not yet finalized. See [37-Country Lineage and Kalgered Remodeling](./asthortera-37-country-lineage-and-kalgered-remodeling.md) and [audit data](../../data/asthortera/national-cross-domain-audit-2026-10-30.json).
 
 ### SDI consistency under a conditional population-weighted example
 
-The profiled countries' population-weighted SDI is **~0.958638**. If planetary SDI **0.938** were an ordinary population-weighted arithmetic average, the other **1.124 trillion** would need **~0.877628** average. The index aggregation rule has **not** been ratified, so this is a sensitivity result, not a national contradiction or mandated average.
+The profiled countries' population-weighted SDI is **~0.958638**. If planetary SDI **0.947** were an ordinary population-weighted arithmetic average, the other **1.124 trillion** would need **~0.912956** average. The index aggregation rule has **not** been ratified, so this is a sensitivity result, not a national contradiction or mandated average.
 
 ## Confirmed P0 corrections completed
 
