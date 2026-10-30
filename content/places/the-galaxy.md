@@ -39,7 +39,7 @@ The heart of the galaxy—rich in civilization, diplomacy, conflict, and innovat
   Intellectual and spiritual rebirth hub for post-Depeisit migrants.  
   *Birthplace of Reltronland and the Astralis Pinnacle Doctrine.*
 
-  **Binding planetary baseline:** Asthortera has approximately **4.412 trillion sentients**, **0.938 planetary SDI**, and a **252-year median age**. Its post-scarcity living standard includes essential food, shelter, resources, energy, public infrastructure, and services, without abolishing economic competition for trustworthy judgment, professional opportunity, leadership, reputation, and strategic authority. Most residents experience intensely active, orderly, multi-layered metropolitan nodes; most land stays natural, while extensive built urban infrastructure can be biological-zero operational or dormant. Such emptiness is normal rather than inherently threatening or Nytherion-linked. **These conditions belong to Asthortera and must not automatically be applied to every other planet.**
+  **Binding planetary baseline:** Asthortera has approximately **4.412 trillion sentients**, **0.947 planetary SDI**, and a **252-year median age**. Its post-scarcity living standard includes essential food, shelter, resources, energy, public infrastructure, and services, without abolishing economic competition for trustworthy judgment, professional opportunity, leadership, reputation, and strategic authority. Most residents experience intensely active, orderly, multi-layered metropolitan nodes; most land stays natural, while extensive built urban infrastructure can be biological-zero operational or dormant. Such emptiness is normal rather than inherently threatening or Nytherion-linked. **These conditions belong to Asthortera and must not automatically be applied to every other planet.**
 
 ---
 
@@ -116,7 +116,7 @@ Formalizes mutual interstellar ethics, sentient preservation, and hyperspace sec
 ## 📊 Comparative Metrics Table
 
 ## 🌍 **Asthortera**
-- **SDI:** 0.938  
+- **SDI:** 0.947  
 - **Population:** ~4.4 trillion  
 - **Galactic Role:**  
   Beacon of civilizational rebirth and advanced sentient innovation.  
@@ -219,13 +219,13 @@ Each region offers descriptive relationships among **population scale, median ag
 ## 🌠 1. Central Region — *Central Core Belt*
 
 ### 🌍 Overview
-The **Central Region** represents the most balanced and stable civilizations — the seat of power, research, and governance. The listed Central worlds have **SDI values from 0.889 to 0.938**, including Cistheta at 0.898 and Theartenra at 0.889. High development describes aggregate capacity, not perfection or uniform ideological alignment.
+The **Central Region** represents the most balanced and stable civilizations — the seat of power, research, and governance. The listed Central worlds have **SDI values from 0.889 to 0.947**, including Cistheta at 0.898 and Theartenra at 0.889. High development describes aggregate capacity, not perfection or uniform ideological alignment.
 
 ### **Asthortera**
 
 * **Population:** Approximately 4.4 trillion
 * **Median Age:** 252 years
-* **Sentient Development Index (SDI):** 0.938
+* **Sentient Development Index (SDI):** 0.947
 * **Key Traits:** Asthortera functions as an interdimensional hub of sentient civilization and is recognized as the birthplace of the Astralis Doctrine.
 
 ---
@@ -356,7 +356,7 @@ Vanyathra, once a thriving frontier colony, now serves as a cautionary tale of c
 
 * **Median Age:** Between 240 and 264 years
 * **Population Range (per planet):** Approximately 100 billion to 10 trillion
-* **Sentient Development Index (SDI):** Ranges from 0.85 to 0.938
+* **Sentient Development Index (SDI):** Ranges from 0.85 to 0.947
 * **Developmental State:** Balanced and enlightened civilizations with mature institutional stability and high sentient awareness.
 * **Dominant Ideology:** Astralis Pinnacle, emphasizing clarity, conscious advancement, and equilibrium between progress and responsibility.
 
@@ -547,7 +547,7 @@ Keep this model as a worldbuilding heuristic for **causal investigations**, not 
 
 | World | Belt | Median Age | Population | SDI |
 |---|---|---:|---:|---:|
-| Asthortera | Central | **252 years** | ~4.4 trillion | 0.938 |
+| Asthortera | Central | **252 years** | ~4.4 trillion | 0.947 |
 | Cosmeilia | Central | **249 years** | ~3.7 trillion | 0.907 |
 | Cistheta | Central | **215 years** | ~10 trillion | 0.898 |
 | Theartenra | Central | **258 years** | ~1.6 trillion | 0.889 |
