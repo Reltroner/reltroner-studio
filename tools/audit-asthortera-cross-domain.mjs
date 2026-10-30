@@ -70,12 +70,12 @@ const countries = country.countries;
 const totalSovereigns = country.planet.sovereign_country_count;
 if (totalSovereigns !== 37) fail('SOVEREIGN_COUNT_CANON', 'Year 0 sovereignty registry must include 37 states.');
 if (countries.length > totalSovereigns) fail('COUNTRY_REGISTRY_OVERFLOW', 'Profile count exceeds 37 sovereign states.');
-let pop = 0, native = 0, cosmeilian = 0, land = 0, popSDI = 0;
+let pop = 0, native = 0, cosmeilian = 0, phantomkind = 0, land = 0, popSDI = 0;
 for (const c of countries) {
   const text = contents.get(c.source);
   if (!text) { fail('COUNTRY_PROFILE_NOT_FOUND', c.source); continue; }
   const a = c.reported_ancestry_pct;
-  const shares = a.depeisit + a.cistheta + (a.cosmeilia_or_mixed ?? 0) + a.native + a.other_or_unclassified;
+  const shares = a.depeisit + a.cistheta + (a.cosmeilia_or_mixed ?? 0) + a.native + a.other_or_unclassified + (a.phantomkind_or_spiritual_hybrid ?? 0);
   if (!eq(shares, 100)) fail('NATIONAL_ANCESTRY_SUM', c.name + ' = ' + shares + '%');
   const expectedPct = a.native === 90.3 ? '90.3%' : a.native + '%';
   if (!text.includes(expectedPct)) warn('NATIONAL_NATIVE_VALUE_NOT_LOCATABLE', c.source + ': ' + expectedPct);
@@ -83,6 +83,8 @@ for (const c of countries) {
   land += c.area_million_km2;
   native += c.population_billion * a.native / 100;
   cosmeilian += c.population_billion * (a.cosmeilia_or_mixed ?? 0) / 100;
+  phantomkind += c.population_billion*(a.phantomkind_or_spiritual_hybrid??0)/100;
+  if(c.name!=='Beluftner'&&a.phantomkind_or_spiritual_hybrid!==null)fail('V4_UNRATIFIED_PHANTOMKIND_NATION',c.name+' primary rate must stay null pending national census');
   popSDI += c.population_billion * c.sdi;
 }
 const primaryNativeCount = country.planet.population_billion * country.planet.ancestry_ratified_pct.native / 100;
@@ -93,6 +95,9 @@ info.push({ metric: 'sovereign_countries', value: totalSovereigns });
 info.push({ metric: 'countries_profiled', value: countries.length });
 info.push({ metric: 'countries_pending_profiles', value: totalSovereigns - countries.length });
 info.push({ metric: 'profiled_population_billion', value: pop });
+info.push({ metric: 'confirmed_phantomkind_primary_billion', value: Number(phantomkind.toFixed(6)) });
+if(!eq(phantomkind,5.46))fail('V4_BELUFTNER_PHANTOMKIND_SUM','Expected 5.46B');
+warn('V4_PLANET_ANCESTRY_CROSSWALK_OPEN','Planet legacy five-way ratios do not yet reconcile with the upgraded six-way country census');
 info.push({ metric: 'population_in_other_23_countries_billion', value: remaining });
 info.push({ metric: 'reported_inclusive_native_lineage_lower_bound_billion', value: Number(native.toFixed(6)) });
 info.push({ metric: 'reported_inclusive_cosmeilian_lineage_lower_bound_billion', value: Number(cosmeilian.toFixed(6)) });
@@ -158,7 +163,7 @@ if (!eq(v3.reporting.other_23_sdi_required,requiredOtherSDI)) {
 const revisedAncestry = {
   Taramistry:[54,25,12,5,4],
   Pencilfania:[56,23,14,3,4],
-  Beluftner:[.2,.5,7,90.3,2],
+  Beluftner:[.2,.5,2,90.3,6,1],
   Hargenbor:[44,40,6,8,2]
 };
 for (const c of countries) {
@@ -177,7 +182,7 @@ for (const c of countries) {
   const exp=revisedAncestry[c.name];
   if (exp){
     const a=c.reported_ancestry_pct;
-    const actual=[a.depeisit,a.cistheta,a.cosmeilia_or_mixed,a.native,a.other_or_unclassified];
+    const actual=c.name==='Beluftner'?[a.depeisit,a.cistheta,a.cosmeilia_or_mixed,a.native,a.phantomkind_or_spiritual_hybrid,a.other_or_unclassified]:[a.depeisit,a.cistheta,a.cosmeilia_or_mixed,a.native,a.other_or_unclassified];
     if (JSON.stringify(actual)!==JSON.stringify(exp))fail('V3_ANCESTRY_RATIFICATION',c.name);
   }
 }
