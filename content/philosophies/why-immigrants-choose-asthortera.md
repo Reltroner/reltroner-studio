@@ -86,12 +86,13 @@ This document provides a detailed overview of the sentient population structures
 
 - **Dominant Population:** Humans with East Asian Mongoloid and Western European features
 - **Total Sentient Population:** \~4.4 trillion
-- **Composition:**
-  - 61% Human (Caucasian lineages)
-  - 24% Human (East Asian Mongoloid)
-  - 7% Human-Wizard-Witch (native Asthorteran race)
-  - 5% Cosmeilia-Human Mixed
+- **Composition (Year 0, creator-ratified 2026-10-30):**
+  - 58% Humans of Depeisit planetary descent
+  - 22% Humans of Cistheta planetary descent
+  - 10% Cosmeilia-Human mixed
+  - 7% Native Asthorteran Human-Wizard-Witch
   - 3% Others (alien humanoids, hybrids)
+- **Correction:** the prior 61/24/5/7/3 reporting split is superseded; ancestry is not synonymous with recent immigration.
 - **Notable Characteristic:** Asthortera is the primary destination for immigrants across the galaxy, known for its exceptionally high standard of living and balanced civilization.
 
 ### 🏛️ Planet Depeisit
