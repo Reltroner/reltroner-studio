@@ -254,7 +254,7 @@ Its demographic structure is strongly shaped by interstellar migration.
 - **7%** — Native Asthorteran Human-Wizard-Witch populations
 - **3%** — Other alien humanoids, hybrids, and recognized sentient groups
 
-**Year 0 ancestry correction (2026-10-30): 58% Depeisit / 22% Cistheta / 10% Cosmeilia-Human mixed / 7% native / 3% other sentients.** This creator-ratified distribution totals 100% of 4.412 trillion and supersedes the old **61/24/5/7/3** reconstruction. Ancestry does not mean recent immigration, phenotype, or nationality.
+**Year 0 ancestry correction (2026-10-30): 58% Depeisit / 22% Cistheta / 10% Cosmeilia-Human mixed / 7% native / 3% other sentients.** This creator-ratified distribution totals 100% of 4.412 trillion. Ancestry does not mean recent immigration, phenotype, or nationality.
 
 Most modern population growth is connected to migration from older, stagnant, unstable, or collapsing civilizations.
 
