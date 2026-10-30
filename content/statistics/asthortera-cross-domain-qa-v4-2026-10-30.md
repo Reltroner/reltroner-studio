@@ -34,7 +34,11 @@ tags: ["Asthortera", "Phantomkind", "Spiritual Hybrid", "NCCM"]
 | **P1** | AST-COHORT-001 | Planetary 1010 BAC life expectancy ~80 to Year 0 ~475 requires long-run cohort series, especially for noncorporeal Phantomkind | Define survival/fertility/age methods by biological species |
 | **P1** | AST-CARBON-SCOPE | Reltronland's offset-adjusted emissions are not directly comparable with unadjusted national emissions | Define production/consumption/net carbon scope |
 | **P1** | AST-QUAL-431 | Whole-content automated scan is not exhaustive qualitative review of every chronology, society, institution and character arc | Manual narrative causal and cross-source reconciliation |
-| **P2** | AST-EMPTY-001 | [sdi-character.md](./sdi-character.md) was an empty document in the previous audit | Decide intentional stub or create backed article |
+| **P2** | AST-EMPTY-001 | Two empty files: `content/statistics/sdi-character.md` and `content/blog/how-i-built-249k-startup-idea.md` | Confirm intentional stubs versus missing content |
+
+## Verified post-patch GitHub Actions result
+
+[Run 41037470554](https://github.com/Reltroner/reltroner-studio/actions/runs/41037470554) at commit `1ade4c3376e0d22d90e07794f111946dcc78eaa2` completed with **19 / 19 regression tests passed**, **433 Markdown files scanned**, all 14-country model GDP/SDI numeric invariants consistent, and **strict QA RED by design** because 23 national censuses remain missing. Additional strict warnings: the unreconciled five-way/six-way planet origin mapping, the Kalgered 99% spending bands, and **two empty Markdown files**: `content/blog/how-i-built-249k-startup-idea.md` and `content/statistics/sdi-character.md`. The separate metric-mentions diagnostic produced **6 candidate sightings**, all found to be contextual false positives rather than demonstrated canon contradictions: subpopulation 5.46B mistaken for total Beluftner population (2), planet SDI 0.947 mistaken for Cenrestier/Reltronland national SDI (2), and 4,412B planet population mistaken for Kalgered/Beluftner population (2). These heuristics require subject/scope awareness; do not classify their six hits as genuine contradictions.
 
 ## Numerical acceptance tests
 
