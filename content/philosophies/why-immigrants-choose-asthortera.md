@@ -86,12 +86,13 @@ This document provides a detailed overview of the sentient population structures
 
 - **Dominant Population:** Humans with East Asian Mongoloid and Western European features
 - **Total Sentient Population:** \~4.4 trillion
-- **Composition (Year 0, creator-ratified 2026-10-30):**
+- **Primary ancestry assignment (Year 0, exclusive reporting classes):**
   - 58% Humans of Depeisit planetary descent
   - 22% Humans of Cistheta planetary descent
-  - 10% Cosmeilia-Human mixed
+  - 10% Primary Cosmeilian affiliation (all manifestations including hybrids)
   - 7% Native Asthorteran Human-Wizard-Witch
   - 3% Others (alien humanoids, hybrids)
+- **Inclusive-lineage clarification:** Cosmeilian Cosmic Races and Cosmeilia-Human mixed belong to **one all-manifestation lineage variable**, and this lineage may also be represented under another primary origin class. Native ancestry can also overlap mixed descent. **4.412 trillion sentients** reside in **37 countries**; the 23 not yet represented in the 14-country audit account for **1.124 trillion**. This classification must not be confused with first-generation immigration.
 - **Notable Characteristic:** Asthortera is the primary destination for immigrants across the galaxy, known for its exceptionally high standard of living and balanced civilization.
 
 ### 🏛️ Planet Depeisit
