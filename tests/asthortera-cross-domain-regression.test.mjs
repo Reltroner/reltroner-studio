@@ -49,15 +49,34 @@ test('Galactic demography and PAIA Depcutland SDI agree with specialized sources
   assert.match(g,/Cistheta \| Central \| \*\*215 years\*\*/);
   assert.match(read('content/places/paia-aeropolis-hub.md'),/Depcutland \(0\.981\)/);
 });
-test('National native overhang remains explicitly registered as an open P0, not hidden',()=>{
-  const sum=data.countries.reduce((s,c)=>s+c.population_billion*c.reported_ancestry_pct.native/100,0);
-  eq(sum,377.423);
-  eq(sum-data.planet.population_billion*.07,68.583);
-  assert.ok(data.known_gaps.some(x=>x.code==='NATIVE_AGGREGATION_EXCEEDS_PLANET'&&x.status==='OPEN'));
-  // This test verifies honest detection; the strict audit CLI MUST still fail.
-});
-test('The country-scope ceiling is recorded; unprofiled sovereign states must not be fabricated',()=>{
+test('The immutable planet holds 37 sovereign nations and 4.412 trillion unique sentients',()=>{
+  assert.equal(data.planet.sovereign_country_count,37);
+  assert.equal(data.coverage.sovereign_countries_without_profiled_demographics,23);
   const total=data.countries.reduce((s,c)=>s+c.population_billion,0);
   eq(total,3288);
   eq(data.planet.population_billion-total,1124);
+  assert.ok(data.known_gaps.some(x=>x.code==='INCOMPLETE_37_COUNTRY_LINEAGE_CENSUS'&&x.status==='OPEN'));
+});
+test('Inclusive native/Cosmeilian lineage counts are not capped by primary ancestry classes',()=>{
+  const n=data.countries.reduce((s,c)=>s+c.population_billion*c.reported_ancestry_pct.native/100,0);
+  const cos=data.countries.reduce((s,c)=>s+c.population_billion*(c.reported_ancestry_pct.cosmeilia_or_mixed||0)/100,0);
+  eq(n,377.423);
+  eq(cos,478.16);
+  const model=JSON.parse(read('data/asthortera/nccm-baseline-v2.json'));
+  const scopes=model.ancestry_measurement_scopes.inclusive_lineage_presence;
+  eq(scopes.cosmeilian_lineage.observed_14_country_lower_bound/1e9,cos);
+  eq(scopes.native_asthorteran_lineage.observed_14_country_lower_bound/1e9,n);
+  assert.ok(scopes.cosmeilian_lineage.candidate_planet_headcount > cos*1e9);
+  assert.ok(scopes.native_asthorteran_lineage.candidate_planet_headcount > n*1e9);
+  assert.equal(model.year0_planet_population,4.412e12);
+});
+test('Kalgered private expenditure candidate is explicitly noncanonical and sums to 100%',()=>{
+  const k=JSON.parse(read('data/asthortera/kalgered-remodeling-candidate-v1.json'));
+  assert.match(k.status,/not ratified/);
+  eq(k.remodel_scenario.bands.reduce((s,b)=>s+b.share,0),1);
+  const avg=k.remodel_scenario.bands.reduce((s,b)=>s+b.share*b.representative,0);
+  eq(avg,23050);
+  eq(k.year0.population,108e9);
+  eq(k.year0.gni_per_capita_kal_year,17956408);
+  eq(k.year0.sdi,.979);
 });
