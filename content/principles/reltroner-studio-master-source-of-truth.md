@@ -1440,7 +1440,7 @@ Earth comparisons are external reader-facing scale translations, **not** part of
 | Land area | **~4.503 billion km²** |
 | Sentient population | **~4.412 trillion** |
 | Urbanization | **~89.5%** |
-| Planetary average SDI | **0.938 / 1.000** |
+| Planetary average SDI | **0.947 / 1.000** |
 | Median age / life expectancy | **~252 years / ~475 years** |
 | Surface gravity | **~11 m/s²** |
 | Natural moons | **12** |
