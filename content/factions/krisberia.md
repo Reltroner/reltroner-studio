@@ -76,6 +76,14 @@ The established geographic model specifies a relationship among **Reltronepolis'
 
 Geological composition, mineral reserves, mapped deposits, national area, coastline and exact terrain remain undetermined. A glowing gemstone aesthetic alone cannot establish extractable resources or magical properties.
 
+### Kistalia — proposed national center of crystal craftsmanship
+
+The Eastern historical expansion notes propose **Kistalia** as a city that could develop from an artisan mineral-processing and trade settlement into a major public-administrative and commercial center of the modern crystal civilization. Its galleries, manufacturing institutes, quality-assurance institutions and craft schools would express Krisberia's transition from migrant settlement to advanced independent nation.
+
+**Status boundary:** Kistalia is a proposed urban development anchor, **not an established constitutional capital**. Its actual founding date, legal jurisdiction, municipality population, and relationship to the country's eventual confirmed capital are open. This proposal does not prematurely ratify the conditional **2320 BAC** national founding.
+
+
+
 ---
 
 ## 3. Historical lineage and the founding constraint
