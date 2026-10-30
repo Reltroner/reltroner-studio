@@ -12,13 +12,16 @@
       "other": 3
     },
     "sdi": 0.938,
-    "land_area_million_km2": 4503
+    "land_area_million_km2": 4503,
+    "sovereign_country_count": 37
   },
   "coverage": {
     "faction_documents_reviewed": 21,
     "statistics_documents_reviewed": 19,
     "content_tree_files_indexed": 427,
-    "sovereign_country_profiles_with_extractable_statistics": 14
+    "sovereign_country_profiles_with_extractable_statistics": 14,
+    "sovereign_countries_total": 37,
+    "sovereign_countries_without_profiled_demographics": 23
   },
   "countries": [
     {
@@ -222,30 +225,24 @@
     "profiled_population_billion": 3288,
     "unprofiled_or_unreconciled_population_billion": 1124,
     "native_profiled_billion": 377.423,
-    "planet_native_cap_billion": 308.84000000000003,
-    "native_excess_billion": 68.58299999999997,
     "reported_cosmeilia_or_mixed_profiled_billion": 478.1599999999999,
-    "planet_mixed_cap_billion": 441.20000000000005,
-    "category_mapping_warning": "National Cosmeilia cosmic races include non-mixed sentients and are not necessarily equivalent to planet Cosmeilia-Human mixed; do not directly equate."
+    "census_37_country_remainder_explained": "1.124 trillion residents belong to the remaining 23 sovereign countries; this is an accounting remainder, not missing inhabitants or a proposed equal split.",
+    "ancestry_scopes": {
+      "primary_partition": "Legacy five-part primary-assignment shares only, not bounds on inclusive ancestry.",
+      "inclusive_cosmeilian": "One variable for cosmic species and Cosmeilia-Human hybrids across all physical manifestations; national source-count lower bound 478.160 billion, full planet > lower bound, exact value pending 23-country audit.",
+      "inclusive_native": "Native Asthorteran lineage may appear alongside other ancestry; national source-count lower bound 377.423 billion, full planet > lower bound, exact value pending 23-country audit.",
+      "candidate_only": {
+        "cosmeilian_planet_percent": 15,
+        "native_planet_percent": 12
+      }
+    }
   },
   "known_gaps": [
     {
       "severity": "P0",
-      "code": "NATIVE_AGGREGATION_EXCEEDS_PLANET",
+      "code": "INCOMPLETE_37_COUNTRY_LINEAGE_CENSUS",
       "status": "OPEN",
-      "notes": "14 countries alone report native populations greater than 7% of 4.412T under same-year and same-category comparability."
-    },
-    {
-      "severity": "P0",
-      "code": "NATIONAL_POPULATION_COVERAGE_INCOMPLETE",
-      "status": "OPEN",
-      "notes": "1.124T planet population not allocated to the 14 nation profiles; unknown national census years, other sovereigns, territories, offworld status."
-    },
-    {
-      "severity": "P1",
-      "code": "COSMEILIA_TAXONOMY_NOT_COMPARABLE",
-      "status": "OPEN",
-      "notes": "Planet mixed group vs broad Cosmeilia cosmic races in nations."
+      "notes": "14 of 37 countries have recorded population and lineage totals; remaining 23 countries' 1.124T inhabitants must be distributed with compatible Year 0 census boundaries. Inclusive Cosmeilian >478.160B and Native >377.423B; exact planetary totals pending ratification."
     },
     {
       "severity": "P1",
@@ -270,6 +267,12 @@
       "code": "EMPTY_STATISTICS_DOCUMENT",
       "status": "OPEN",
       "notes": "content/statistics/sdi-character.md is empty."
+    },
+    {
+      "severity": "P1",
+      "code": "INCLUSIVE_LINEAGE_CANDIDATES_NOT_RATIFIED",
+      "status": "OPEN",
+      "notes": "Cosmeilian 15% and Native 12% are illustrative nonexclusive lineage scenarios; historical primary 10% and 7% reporting cells must not be mistaken for population ceilings."
     }
   ]
 }
