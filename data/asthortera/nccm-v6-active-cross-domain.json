@@ -1102,6 +1102,8 @@
     "recipient_primary_ancestry_policy": "Migrant cohorts retain origin ancestry; recipient whole-country ancestry percentages unmeasured; must not guess the original resident mix.",
     "sdi_aggregator": "Each origin and receiving nation's fixed composite SDI; residual 18-country group recalculated to preserve planetary .947. This is a national-assignment model, not a measurement of changed individual capability.",
     "gdp_policy": "Keep V6.1 country's nominal GDP and global GDP shares unchanged for this demographic-only iteration; per-capita denominators recalculated.",
-    "planet_ancestry_policy": "Frozen population-weighted pre-transfer 14-country benchmark, with exact ancestry conservation across destination and origin; do not recompute global composition from reduced country subset."
+    "planet_ancestry_policy": "Frozen population-weighted pre-transfer 14-country benchmark, with exact ancestry conservation across destination and origin; do not recompute global composition from reduced country subset.",
+    "timeframe": "Year 0 census redistribution; the creator did not specify whether the 75B movement occurred rapidly, across generations, via natural migration or policy. Do not interpret as instantaneous forced relocation.",
+    "legal_personhood_policy": "Migrants retain unique person identity and primary ancestry; legal citizenship, consent, civil rights, employment integration and period of movement require separate narrative decisions."
   }
 }
