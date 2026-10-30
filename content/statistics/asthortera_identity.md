@@ -461,7 +461,7 @@ This makes Asthortera simultaneously:
 
 ## 13.1 Galactic Descent and the Great Demographic Transition
 
-The **Year 0 creator-ratified ancestry distribution (2026-10-30)** is **58% Depeisit descent (2.55896 trillion), 22% Cistheta descent (970.64 billion), 10% Cosmeilia-Human mixed (441.20 billion), 7% native Asthorteran (308.84 billion), and 3% other sentients (132.36 billion)**. The reporting shares total **100% of the 4.412 trillion** population. The former **61/24/5/7/3** allocation is superseded. These are **ancestry reporting categories, not first-generation immigrant shares or nationality**. Individual ancestry may be mixed; national populations remain distinct from planetary averages.
+The **Year 0 creator-ratified ancestry distribution (2026-10-30)** is **58% Depeisit descent (2.55896 trillion), 22% Cistheta descent (970.64 billion), 10% Cosmeilia-Human mixed (441.20 billion), 7% native Asthorteran (308.84 billion), and 3% other sentients (132.36 billion)**. The reporting shares total **100% of the 4.412 trillion** population. These are **ancestry reporting categories, not first-generation immigrant shares or nationality**. Individual ancestry may be mixed; national populations remain distinct from planetary averages.
 
 | Indicator | **1010 BAC** | **Year 0** |
 |---|---:|---:|
