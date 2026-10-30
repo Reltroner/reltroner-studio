@@ -84,7 +84,7 @@ The governing creative logic is **systemic thinking → world model → causal i
 | Sentient population | **~4.412 trillion** | Not evenly distributed |
 | Land area | **~4.503 billion km²** (approximately **48%** of total surface) | Most terrestrial land remains natural and habitable |
 | Urbanization | **~89.5%** of population | Does not imply 89.5% of land is built over |
-| Planetary average SDI | **0.938 / 1.000** | High aggregate development, not perfection |
+| Planetary average SDI | **0.947 / 1.000** | High aggregate development, not perfection |
 | Median age / life expectancy | **~252 / ~475 years** | Demographic and life-course timescales, not guaranteed individual outcomes |
 | Material provision | **Post-scarcity for essential needs and public-capability baselines** | Does not erase law, strategic competition, or unequal influence |
 
