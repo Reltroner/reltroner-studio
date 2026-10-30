@@ -1273,7 +1273,7 @@ It seeks to understand them, coexist with them, build responsibly among them, an
 
 ## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
 
-**Canonical anchors unchanged:** **220 billion** residents, **216 million km²** land, and national **SDI 0.957**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
+**NCCM V6.2 migration-adjusted national anchors:** **185 billion** Year 0 residents (220B in the archived pre-migration census), **216 million km²** land, and national **SDI 0.957**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
 
 **Scenario-calibrated cross-domain estimates — NOT authoritative national census results:**
 
