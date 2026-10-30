@@ -3,7 +3,7 @@
  * Reltroner Studio — narrative-first, repository-wide quantitative QA.
  * Usage: node tools/audit-asthortera-canon.mjs --report
  *        node tools/audit-asthortera-canon.mjs --strict
- * This inventories ALL content/**/*.md, checks global invariants, and reports
+ * This inventories all Markdown in the content directory, checks invariants, and reports
  * unresolved cross-domain gaps without pretending they are solved.
  */
 import fs from "node:fs";
