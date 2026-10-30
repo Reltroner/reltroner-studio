@@ -655,10 +655,13 @@ Taramistry's trade advantage comes from value multiplication. It imports materia
 
 | Group | Share |
 |---|---:|
-| Humans of Depeisit descent | 74% |
-| Humans of Cistheta descent | 17% |
-| Native species of Asthortera — Human-Wizard-Witch hybrids | 5% |
-| Others, including immigrants from other planets | 4% |
+| Humans of Depeisit descent | **54%** |
+| Humans of Cistheta descent | **25%** |
+| Cosmeilian Lineage — Cosmic Races and Cosmeilia-Human mixed (all manifestations) | **12%** |
+| Native species of Asthortera — Human-Wizard-Witch hybrids | **5%** |
+| Others, including immigrants from other planets | **4%** |
+
+**Ratified Year 0 demographic allocation (2026-10-30): 54% Depeisit / 25% Cistheta / 12% unified Cosmeilian / 5% native / 4% others = 100%.** This is a primary category distribution; inclusive mixed ancestries may overlap. Current national totals remain **242 billion**. The arrival of diverse Cosmeilian life-forms enriches Taramistry's biochemical, medical and cross-species research without changing its scientific-meritocratic identity.
 
 ### Demographic Interpretation
 
