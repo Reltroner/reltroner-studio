@@ -4,7 +4,7 @@ description: "A canonical country profile of Reltronland: the Astralis Pinnacle 
 image: "/images/reltronland-cover.webp"
 author: "Rei Reltroner"
 date: "2026-07-16"
-lastUpdated: "2026-10-19"
+lastUpdated: "2026-10-31"
 published: true
 world: "Asthortera"
 category: "Apex Superpower Nation-Faction"
@@ -96,23 +96,13 @@ Reltronland does not promise comfort as an end goal. It offers opportunity, stru
 
 ---
 
-## Canon Resolution
+## Canon Resolution — NCCM V6.5 (2026-10-31)
 
-This document is the final cleaned and structured profile of **Reltronland**.
+**Current Year 0 authority:** The [NCCM V6.5 JSON ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and the auto-generated canon C block at the top govern all assigned national quantities. Historical V2/V3/V4 measurements elsewhere in this long-form profile are archival, not competing Year 0 truth.
 
-All major elements, data, metrics, doctrines, institutions, economic simulations, SDI indicators, territorial systems, RSC materials, digital nation concepts, and philosophical sections from the source document are preserved.
+The creator-ratified Model B 10× income-output baseline fixes **REL 4.1527217475 × 10²⁰ = USD 4.7448998686935 × 10²² annual GDP**; **855 billion** residents; **REL 485,698,450 per resident/year GNI** under the zero-net-foreign-primary-income bridge; **4.01% Year 0 real GDP growth**; **254-year median age**; and **SDI 0.984**. It is an income/output accounting adoption, **not an automatic tenfold increase in consumer prices, personal consumption, purchasing power or historical annual growth**.
 
-The only substantive metric modification is the **Daily Spending Demographics** section. The previous spending tiers were too low compared to Reltronland's stated **Gross National Income per capita of `$REL48,569,845/year`**, which equals approximately **`$REL133,068/day`**. The revised tiers now remain consistent with:
-
-- Very high GNI per capita.
-- Moderate inequality measured by a **Gini Coefficient of 0.39**.
-- Universal access to essential services.
-- AI-optimized cost of living.
-- A high share of wealth stored in digital assets, sovereign AI royalties, trust-fund mechanisms, and non-consumption financial layers.
-- Reltronland's stated class structure and meritocratic mobility.
-
-The rest of the profile is reorganized for deterministic causal logic.
-
+The legacy daily-expenditure brackets remain as an **unratified illustrative distribution**; they are not newly calibrated to V6.5 and do not independently establish household income or the observed Gini coefficient. Cultural identity, social philosophy, geography, institutional history and space-governance material keep their own established scopes.
 
 ## Canonical Integration Update — 2026-08-10
 
@@ -875,29 +865,31 @@ Reltronland's economy is built on:
 4. Advanced Tech Devices from Chatechlink.
 5. Art and Cultural Goods from Pencilfania.
 
-## Economic Indicators
+## Economic Indicators — Active NCCM V6.5 Year 0 (canon C)
 
-These indicators exclude the 4D, 5D, and void energy economy unless otherwise stated.
+These are **current Year 0 national canon** ledger values, excluding unreconciled 4D/5D/void satellite accounts. USD 114.26/REL is a nominal reference rate, not an independently estimated PPP rate.
 
 | Indicator | Value |
 |---|---:|
 | **Official Currency** | `$REL` — Reltronian Credit |
 | **1 $REL Nominal Value** | Approximately `$114.26 USD`, based on GNI parity |
-| **1 $REL PPP Estimate** | Approximately `$20–30 USD` |
-| **GDP Growth Rate** | **250 BAC–Year 0: nominal USD GDP CAGR ~3.0% in NCCM V2 candidate scenario; 12% may occur in exceptional years, not all 250 years** |
+| **1 $REL PPP Estimate** | Historical illustrative USD 20–30 range; **not calibrated as a V6.5 PPP observation** |
+| **Year 0 Real GDP Growth** | **4.01% (NCCM V6.5 canon C)**; historical nominal CAGR estimates are archival |
 | **Stability Engine** | Sovereign AI-managed inflation matrix |
 | **Interest Rate Policy** | 0.3% – 1.2%, based on economic layer and risk tier |
-| **Total GDP** | `$REL 4.1527217475 × 10¹⁹` |
-| **Nominal USD GDP Equivalent** | Approximately `$4.7448998686935 × 10²¹ USD` |
-| **Gross National Income per Capita** | `$REL48,569,845/year` |
+| **Total GDP (Year 0, Model B)** | **`REL 4.1527217475 × 10²⁰`** |
+| **Nominal USD GDP Equivalent (Model B)** | **`USD 4.7448998686935 × 10²²`** |
+| **GNI per Resident per Year (adopted zero-net-primary-income bridge)** | **`REL 485,698,450` (USD 55,495,904,897)** |
 | **CO₂ Emissions per Capita** | 4.3 metric tons, offset-adjusted |
 | **Gini Coefficient** | 0.39, moderate income inequality |
 | **Inflation Rate** | 0.3%, regulated by sovereign AI fiscal matrix |
 | **Unemployment Rate** | 1.5%, because most sentient is assigned purpose-aligned labor regardless of monetary income |
 
-### GDP–GNI Primary-Income Bridge (NCCM V2, 2026-10-30)
+### GDP–GNI Primary-Income Bridge — NCCM V6.5 (canon C)
 
-The published **855 billion** inhabitants multiplied by **REL 48,569,845 per-capita GNI** is **REL 4.1527217475 × 10^19**, exactly the profile's GDP. The two are **not statistically independent observations**. By `GNI = GDP + net primary income from abroad`, equality requires a **provisional zero-net-primary-income balancing convention**. This does **not** assert the absence of large incoming and outgoing cross-border royalties or investment returns. When foreign primary-income flows are independently modeled, GNI per capita must be recalculated with explicit versioning, rather than silently changing the GDP headline. Keep 4D/5D/void activity in a separate satellite-account perimeter until cross-country value-added reconciliation.
+**Year 0 calculation:** **855,000,000,000 residents × REL 485,698,450 per resident/year = REL 4.1527217475 × 10²⁰/year**. At **USD 114.26/REL**, this is **USD 4.7448998686935 × 10²²**. The adopted accounting bridge is `GNI = GDP + net primary income from abroad`, with net foreign primary income **set to zero for modeled reconciliation**. GDP and GNI are therefore not two independent matching empirical observations. Gross cross-border income streams can still exist and must be modeled separately if quantified.
+
+**Real Year 0 GDP growth is 4.01%, not the 10× nominal baseline uplift or the 0.30% CPI inflation rate.** Model B does not automatically imply a 10× increase in household purchasing power, local prices, expenditure or historical cumulative growth. Keep unreconciled 4D/5D/void production in satellite accounts.
 
 ### Interpretation of GNI Per Capita
 
@@ -915,19 +907,21 @@ This is why daily personal expenditure must be high enough to reflect a very wea
 
 ---
 
-# 13. Revised Daily Spending Demographics
+# 13. Daily Spending Demographics — Historical Illustration (not a V6.5 census)
 
 Reltronland uses the **REL** as its official currency. This classification represents **average personal spending per day in REL/day** across the population. It reflects economic class, realized consumption, digital consumption capacity, and discretionary spending.
 
-This section replaces the previous Daily Spending Demographics. It is calibrated against:
+**Status:** The expenditure tiers and their population shares below were proposed under a historical baseline and remain **illustrative and not independently creator-ratified as a V6.5 expenditure census**. This table must not be used to infer measured disposable household income or to derive the Gini coefficient. The 10× Model B output baseline does not authorize scaling prices or consumption by ten.
 
-- **GNI per capita:** `$REL48,569,845/year`
-- **Approximate daily GNI:** `$REL133,068/day`
+For context, the current national accounting anchors are:
+
+- **GNI per capita (V6.5 canon C):** `REL 485,698,450/year` (USD 55,495,904,897/year)
+- **Approximate daily GNI accounting proxy:** `REL 1,330,681/day` (365-day divisor, not observed cash expenditure)
 - **Gini coefficient:** `0.39`
 - **Universal access:** housing, transportation, education, healthcare, clothing support, nutrition support, and AI-managed civic services
 - **Financial structure:** significant wealth held in digital assets, sovereign royalties, and trust-fund mechanisms rather than daily cash spending
 
-## Daily Spending Demographics Table
+## Illustrative Spending-Tier Table — Shares Not Yet Ratified Under V6.5
 
 | Tier | Daily Expenditure | Population Share | Structural Meaning |
 |---|---:|---:|---|
@@ -939,7 +933,7 @@ This section replaces the previous Daily Spending Demographics. It is calibrated
 
 ## Why This Version Is More Consistent
 
-The revised model is more coherent than the earlier version because the original lower tiers were too small compared to stated national income. With GNI per capita near `$REL48.57 million/year`, the average daily economic capacity is approximately `$REL133,068/day`.
+These older expenditure brackets cannot be called newly reconciled merely because their values appear beside the current GDP. NCCM V6.5 GNI per resident is **REL 485,698,450/year**, or **approximately REL 1,330,681/day** as an accounting ratio; household disposable income, wealth, GDP and realized spending are different measures.
 
 However, because Reltronland provides extremely efficient or zero-cost essentials, average **daily expenditure** is not identical to total GNI. Citizens may hold large wealth in long-term capital systems while spending only part of their daily economic capacity on personal consumption.
 
@@ -1006,9 +1000,9 @@ All interest rates are dynamically controlled by the **AI Treasury Forecast Engi
 | Medium-Term Maturity | `$5.1 trillion` | 2.5% | `$127.5 billion/year` |
 | Short-Term Maturity | `$0.85 trillion` | 3.5% | `$29.75 billion/year` |
 
-**Total Annual Interest Payment:** `$1.105 trillion`
+**Total Annual Interest Payment (USD 100T normalized example):** `$1.10585 trillion`
 
-**Conclusion:** The interest burden equals approximately **1.1% of GDP**, indicating strong sustainability. Despite massive scale, rates remain favorable because of Reltronland's near-zero risk profile and vast digital creditworthiness.
+**Conclusion (illustrative example only):** Interest totals **1.10585% of the assumed USD 100T GDP**. The separate budget's 2%-of-GDP debt allocation is an illustrative policy envelope, not evidence of actual coupon expense. Despite massive scale, rates remain favorable because of Reltronland's near-zero risk profile and vast digital creditworthiness.
 
 ## National Budget Simulation
 
@@ -1031,7 +1025,7 @@ All interest rates are dynamically controlled by the **AI Treasury Forecast Engi
 | R&D and Technology | 10% | Core engine of civilization advancement and SDI development. |
 | Infrastructure Projects | 9% | Hyperloops, arcologies, orbital ports, transportation hubs, and megastructure renewal. |
 | Education and SDI Growth | 6% | AI-driven education, literacy, creativity, and sentient development. |
-| Health and Longevity | 4% | Medical and biotech programs. Legacy budget notation references a 214-year medical baseline, while broader demographic canon includes a 498-year life expectancy and 225-year median age. |
+| Health and Longevity | 4% | Illustrative budget allocation; NCCM V6.5 Year 0 records **498-year period life expectancy and 254-year median age**. Earlier 214-/225-year baselines are archival. |
 | National Defense | 3% | Focused on Nytherion Abyss, Henchoway remnants, and deep-space security. |
 | Public Services | 1% | Fully automated civic services, digital ID, housing assistance, and civic AI bots. |
 | Debt Interest Payment | 2% | Covered by economic output and sovereign tech yields. |
@@ -1068,7 +1062,7 @@ The **250-Year Economic Miracle (250 BAC–Year 0)** is a sustained period of ac
 Key demographic metrics:
 
 - **Life expectancy:** 498 years.
-- **Median age:** 225 years.
+- **Median age (NCCM V6.5 canon C):** 254 years.
 - **Cognitive maturity:** Begins exceptionally early.
 - **Systemic aging collapse:** Prevented by extended vitality and lifelong civic participation.
 
@@ -1117,19 +1111,15 @@ Reltronland maintains:
 
 Henchoway and Nytherion Abyss are treated as creative pressure. Civilizational resilience is a cultural default. Innovation is born from existential confrontation.
 
-## Compounding Simulation — NCCM V2 Historical Reconciliation
+## Compounding Simulation — Archived V2 Baseline and V6.5 Boundary
 
-The historical **1010 BAC** baseline is **REL 1.52 trillion GDP**, converted at **USD 4.50 per REL** into **USD 6.84 trillion**, representing **3.4956815%** of the **USD 195.67 trillion planetary GDP**. Population: **1.52 billion**.
+**ARCHIVED V2 modeling snapshot (2026-10-30; not current Year 0 canon):** V2 formerly used **REL 4.1527217475 × 10¹⁹** or **USD 4.7448998686935 × 10²¹** at 114.26 USD/REL, precisely one-tenth of the ratified Model B baseline. Historical long-run nominal CAGRs of 3.0% or 2.5% and proposed 250-year GDP paths belonged to that *provisional V2 scenario*. They must not be reclassified as Year 0 real growth.
 
-At **Year 0**, nominal GDP is **REL 4.1527217475 × 10^19**, converted at the profile's **USD 114.26 per REL** reference into **USD 4.7448998686935 × 10^21**; at a **42% GDP share**, Asthortera's core GDP is **USD 1.1297380639746428 × 10^22**, or **AUC 4.138234666573783 × 10^21** with **1 AUC = USD 2.73** as the comparative reporting benchmark.
+**NCCM V6.5 Year 0 canon C:** National nominal GDP **REL 4.1527217475 × 10²⁰ = USD 4.7448998686935 × 10²²**; national share of global GDP **42%**; **4.01% national real annual growth** and **4.00% planet real annual growth**. Those quantities do not establish a unique preceding 250-year nominal GDP time series. The historical 1010 BAC quotation (**REL 1.52 trillion GDP; USD 4.50/REL**) remains an archival historical reference, not proof of uncalibrated intermediate growth rates.
 
-The **1010-year nominal USD GDP CAGR** is **~2.0360492% for Reltronland (rho)** and **~1.7851937% for the planet (alpha)**. Reltronland's nominal REL GDP CAGR is **~1.7098141%**; the historical nominal REL/USD appreciation CAGR is **~0.3207508%**. The stipulated **1% average inflation for Reltronland is denominated in a USD price-index reference**, not automatically in REL or as a GDP deflator.
+**Arithmetic-only provenance:** The outdated toy example `REL 1 billion × 1.12^250` is approximately **REL 2.016070280 × 10²¹**. It does not describe actual national GDP. **12% growth every year for 250 years is superseded and is not current canon**.
 
-**Candidate 250 BAC–Year 0 scenario:** **3.0% nominal USD GDP CAGR** for Reltronland and **2.5% for the planet**, giving **~USD 2.930359313 × 10^18** Reltronland GDP and **~USD 2.355111177 × 10^19** planetary GDP at 250 BAC; Reltronland GDP share **~12.44255%**. The residual nominal USD CAGRs for **1010–250 BAC** must be **~1.7209362%** Reltronland and **~1.5511513%** planet to reach both fixed endpoints. These are **period averages only**, not constant annual rates or recovered historical observations. The planet's **10% real growth in 1010 BAC, 15% in 950 BAC, and 7.5% in Year 0** remain independently fixed year-specific narrative constraints.
-
-**Arithmetic correction:** the former toy example, **REL 1 billion × 1.12^250**, actually equals **~REL 2.016070280 × 10^21**, **not REL 353,785,000,000,000**. This hypothetical illustrates compound arithmetic only and **does not describe Reltronland's historical GDP**. The older claim of uninterrupted 12% annual GDP growth for 250 years is superseded.
-
-See [Asthortera NCCM V2 — Statistical Remodeling](../statistics/asthortera-nccm-remodeling.md) for provenance and remaining assumptions.
+Historical methodology: [NCCM V2 archive](../statistics/asthortera-nccm-remodeling.md). Current authority: [NCCM V6.5 report](../statistics/asthortera-nccm-v6-active-cross-domain.md).
 
 ## Impact
 
@@ -2579,23 +2569,19 @@ This layer does not replace the physical country. It is an extended digital mani
 - `app.reltroner.com` → Central Government Hub with SSO and Modular ERP.
 - `github.com/reltroner` → Archives and Legislative Repository.
 
-## Digital Economic Simulation
+## Digital Economic Simulation — No Double Counting
 
-| Metric | Value |
-|---|---:|
-| **GNI per Capita** | `$REL48,569,845` |
-| **Population** | 855 billion sentient citizens |
-| **GDP Total** | `$REL4.1527217475 × 10¹⁹` |
-| **Dominant Sector** | Knowledge, Conscious Capital, AI-Sentient Economy |
+The digital-nation layer is a symbolic and institutional manifestation of the same sovereign civilization, **not** a second physical population or independently measured additional national economy.
 
-## Consistency Note on Digital Simulation Metrics
+| Metric | NCCM V6.5 Year 0 Treatment |
+|---|---|
+| **Resident sentients** | **855 billion**, already counted in the national ledger |
+| **National GDP (Model B C)** | **REL 4.1527217475 × 10²⁰** (USD 4.7448998686935 × 10²²) |
+| **National GNI per resident** | **REL 485,698,450/year**, under the zero-net-primary-income bridge |
+| **Independent digital-economy GDP or sector share** | **Unassigned**; no second GDP total can be inferred |
+| **Digital domains** | Knowledge systems, creative capital, AI-sentient productivity, repositories |
 
-The digital nation figures are preserved as a separate symbolic and metaverse-oriented simulation layer. They do not override the physical-state macroeconomic indicators where GNI per capita is stated as `$REL48,569,845` and total GDP as `$REL4.1527217475 × 10¹⁹`.
-
-This allows both data blocks to coexist:
-
-- The **physical Reltronland economy** measures the full national civilization.
-- The **digital nation simulation** measures the repository/metaverse/cognitive-domain layer.
+The old digital summary mirrored **NCCM V2-era national income/output numbers**, which are superseded for the Year 0 national aggregate. Additional digital output would require explicit value-added measurement and reconciliation to avoid double counting.
 
 ## Nature of Existence
 
@@ -3281,7 +3267,7 @@ The current canon further clarifies that Reltronland's deepest geopolitical iden
 
 Its SDI of **0.984** is the highest known in Asthortera, supported by cognitive maturity, emotional resilience, civic loyalty, universal education access, dignity-based living standards, holistic health, and a culture of contribution beyond pay. Its population of **855 billion sentient beings** operates within a hyper-urbanized national territory of **104 million km²**, structured through continuous CBD-scale development, ecological anchors, Rufintern water systems, stabilized volcanic corridors, 4D transitional zones, and 5D administrative fields.
 
-Reltronland's economy is a high-output cyber-meritocratic model with a total GDP of **`$REL4.1527217475 × 10¹⁹`**, a nominal USD equivalent of approximately **`$4.7448998686935 × 10²¹ USD`**, a GNI per capita of **`$REL48,569,845/year`**, a Gini coefficient of **0.39**, inflation of **0.3%**, 1.5% unemployment, and a long-term GDP growth rate of **12% annually over 250 years**. Its revised daily spending model now aligns with this high-income structure while preserving the canon that essential services are universally guaranteed and much citizen wealth exists in digital assets, sovereign royalties, and trust-fund mechanisms.
+In **NCCM V6.5 Year 0 canon C**, Reltronland records annual nominal GDP of **REL 4.1527217475 × 10²⁰** (USD 4.7448998686935 × 10²²), per-resident GNI of **REL 485,698,450/year** under the zero-net-primary-income bridge, **4.01% real annual GDP growth**, **42% of planetary GDP**, a **0.390 income Gini**, **0.30% inflation**, **1.50% unemployment**, **254-year median age** and **498-year period life expectancy**. The 12%-for-250-years claim is superseded, while the old daily expenditure distribution remains a clearly labeled illustration. Universal basic services and substantial productive digital/sovereign assets remain national narrative features.
 
 The nation is symbolized by the skyscraper: a timeless emblem of vertical growth, resilience, system integration, and civilization maturity. Its major provinces — Reltralia, Rathroper, Reltronepolis, Rufintern, Troneiput, and Reiweston — form a multi-core national network of governance, maritime power, culture, industry, border diplomacy, and ecological stability.
 
@@ -3323,9 +3309,9 @@ Reltronland is not a utopia. It is a proving ground. Its strength lies not in do
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.
 
-## NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
+## ARCHIVED — NCCM V3 Cross-Domain Benchmark (2026-10-30; superseded development material)
 
-**Canonical anchors unchanged:** **855 billion** residents, **104 million km²** land, and national **SDI 0.984**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
+**Archive-only warning:** The following V3 estimates record an older modeling checkpoint, **not authoritative current Year 0 figures**. The V3 GDP/head, GDP, median age 225, TFR 1.13 and real growth 7.50% are superseded. In NCCM V6.5, SDI weights **60% individual / 40% institutional** are adopted as canon C, with **254-year median age, TFR 1.15, 4.01% real growth and USD 4.7448998686935 × 10²² GDP**. The table below remains only for historical provenance.
 
 **Scenario-calibrated cross-domain estimates — NOT authoritative national census results:**
 
@@ -3346,5 +3332,5 @@ Reltronland is not a utopia. It is a proving ground. Its strength lies not in do
 | Total fertility rate | **1.13** | Candidate, age/lineage cohort modeling pending |
 | Education access index | **0.992** | Synthetic learning-opportunity proxy, not surveyed |
 
-**Scope and editorial precedence:** These filled-in values support **comparison and decision-making**, not a claim that every country's local nominal GDP, GNI, real exchange rate, cohort life table or SDI microdata has been historically measured. Existing local-currency GDP/GNI, national sovereignty, aesthetic identity and the official SDI headline take precedence over any candidate field. Cross-domain reporting uses the single [14-country matrix](../statistics/asthortera-14-country-cross-domain-v3.md), the [machine-readable V3 model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and the [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md). Never silently promote a modeled candidate to published canon.
+**V3 archival precedence:** The [V3 matrix](../statistics/asthortera-14-country-cross-domain-v3.md), [archived V3 data](../../data/asthortera/nccm-v3-14-country-comparative-model.json) and [V3 SDI methodology](../statistics/asthortera-sdi-methodology-v3.md) are kept for provenance only. The **NCCM V6.5 machine-readable ledger and generated canon C block at the beginning of this file supersede conflicting V3 figures**. Unassigned measurements remain unassigned.
 
