@@ -10,12 +10,20 @@ const MAX_ATTEMPTS = 3;
 const MAX_RATE_LIMIT_WAIT = 60_000;
 const UNSPECIFIED_RATE_LIMIT_WAIT = 60_000;
 
-/** GITHUB_TOKEN is the only credential source; Cloudflare Pages production builds must provide it. */
+/** GITHUB_TOKEN is the only credential source; Cloudflare Pages Production and Preview builds must provide it. */
 function resolveGithubCredentials(env) {
   const token = String(env.GITHUB_TOKEN ?? "").trim();
   if (token && !/^[\x21-\x7e]+$/.test(token)) throw new Error("GITHUB_TOKEN contains characters that cannot be sent in an HTTP header; no request was sent");
-  const production = env.CF_PAGES === "1" && env.CF_PAGES_BRANCH === "main";
-  if (production && !token) throw new Error("GITHUB_TOKEN is required for Cloudflare Pages production builds (CF_PAGES_BRANCH=main); no request was sent");
+  // Cloudflare injects CF_PAGES=1 and CF_PAGES_BRANCH. Require authentication in BOTH
+  // Production and Preview: a branch-only deployment must never fall back to GitHub's
+  // shared 60-requests/hour anonymous rate limit when a token is missing.
+  const pages = String(env.CF_PAGES ?? "").trim() === "1" || Boolean(String(env.CF_PAGES_BRANCH ?? "").trim());
+  const production = pages && env.CF_PAGES_BRANCH === "main";
+  if (pages && !token) throw new Error(
+    "GITHUB_TOKEN is required for Cloudflare Pages builds (Production AND Preview). " +
+    "Configure it as an encrypted build-time secret in the Pages project for both environments; " +
+    "no GitHub API request was sent."
+  );
   return { token: token || null, production };
 }
 
