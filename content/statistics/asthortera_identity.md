@@ -49,6 +49,70 @@ and:
 
 ---
 
+<!-- BEGIN NCCM_V65_PLANETARY_CROSSDOC -->
+### NCCM V6.5 Canon C — Deterministic Cross-Domain Concordance
+
+**Authority:** [NCCM V6.5 JSON ledger](../../data/asthortera/nccm-v6-active-cross-domain.json). Current Year 0 values are **CANON (C)**, ratified **2026-10-31**. All numerical aggregates below derive from the ledger, not this document's legacy narrative.
+
+| Model invariant | Current canon C |
+|---|---:|
+| Countries / unique residents | **37 / 4,412 billion** |
+| Original 14 + additional 5 + residual 18 | **3,213B + 395B + 804B** |
+| Internal Year 0 migration / planetary net headcount | **75B / zero** |
+| Planet SDI | **0.947** |
+| Planet TFR, adopted population-weighted proxy | **1.63** |
+| Planet real GDP growth, GDP-share-weighted | **4.00%** |
+| Year 0 GDP, nominal Model B, USD | **1.129738063975e+23** |
+| GNI, zero-foreign-primary-income bridge, USD | **1.129738063975e+23** |
+| 14 / 5 / residual 18 SDI, population weighted | **0.958950 / 0.948714 / 0.898402** |
+| Residual 18 aggregate TFR proxy / real growth | **1.900697 / 3.688731%** |
+
+Six-class primary ancestry, representative planetary population benchmark:
+
+| Exclusive class | Share | Residents (billions) |
+|---|---:|---:|
+| Depeisit | 47.511618% | 2096.213 |
+| Cistheta | 19.859641% | 876.207 |
+| Cosmeilian | 16.210462% | 715.206 |
+| Native Asthorteran | 11.352281% | 500.863 |
+| Phantomkind / Spiritual Hybrid | 2.221411% | 98.009 |
+| Other | 2.844586% | 125.503 |
+| **Total** | **100%** | **4,412** |
+
+**Ancestry provenance:** Frozen from the original 3288B pre-transfer 14-country reference, not calculated from today's 3,213B donor-group population. Mixed lineage overlaps primary ancestry and must not be added twice.
+
+**Seven ratified internal routes (total 75B):** Astrostelia → Scenrepolia 10B; Astrostelia → Calespia 10B; Astrostelia → Ethaptoria 15B; Lenternow → Scenrepolia 10B; Lenternow → Krisberia 10B; Lenternow → Ethaptoria 10B; Lenternow → Calespia 10B. This moves existing residents between countries, **not** 75B incoming interplanetary migrants. The ledger leaves transfer duration, consent/citizenship procedures, and external immigration headcounts open.
+
+**Sovereign foundations (BAC):** Stelpadland 2882; Pencilfania 2732; Calespia 2628; Ethaptoria 2556; Krisberia 2320 (unconditional); Mapether 2164; Lenternow 2072; Hargenbor 1984; Moreg 1713; Pasgerflit 1545; Scenrepolia 1234; Taramistry 1210; Reltronland 1125; Depcutland 1121. These record sovereign founding, not first settlement.
+
+**Boundaries:** Model B 10× nominal GDP does not imply 10× inflation, personal spending or welfare. TFR 1.63 is a canon population-weighted proxy, not measured reproductive-cohort fertility. Real growth 4.00% depends on a common price base and future-deflator work. Five added countries' individual ancestry and the eighteen residual nations' national detail remain **unassigned**, even though their combined aggregate is canon C.
+
+**Nineteen country-level canon C anchors**
+
+| Country | Residents B | SDI | TFR proxy | Year 0 real GDP growth | Nominal GDP (USD 10²¹) |
+|---|---:|---:|---:|---:|---:|
+| Reltronland | 855 | 0.984 | 1.15 | 4.01% | 47.4490 |
+| Depcutland | 343 | 0.981 | 1.32 | 4.01% | 11.2787 |
+| Kalgered | 108 | 0.979 | 1.63 | 3.69% | 3.1645 |
+| Aurastelia | 164 | 0.970 | 1.95 | 3.75% | 4.0990 |
+| Astrostelia | 185 | 0.957 | 1.67 | 4.17% | 5.2595 |
+| Lenternow | 174 | 0.935 | 1.70 | 3.91% | 3.7692 |
+| Taramistry | 242 | 0.954 | 1.75 | 4.39% | 5.4304 |
+| Moreg | 205 | 0.931 | 1.50 | 4.44% | 3.2213 |
+| Pencilfania | 182 | 0.940 | 1.88 | 3.80% | 3.1292 |
+| Stelpadland | 141 | 0.961 | 1.63 | 3.64% | 2.8757 |
+| Pasgerflit | 279 | 0.949 | 1.82 | 4.39% | 6.3590 |
+| Hargenbor | 133 | 0.925 | 1.86 | 3.58% | 1.7600 |
+| Beluftner | 91 | 0.896 | 1.80 | 3.32% | 0.8429 |
+| Cenrestier | 111 | 0.911 | 1.72 | 3.58% | 1.2907 |
+| Scenrepolia | 88 | 0.956 | 1.66 | 4.25% | 1.4359 |
+| Krisberia | 58 | 0.955 | 1.72 | 3.90% | 0.9545 |
+| Mapether | 74 | 0.937 | 1.89 | 4.10% | 1.1346 |
+| Ethaptoria | 84 | 0.950 | 1.73 | 4.20% | 1.1065 |
+| Calespia | 91 | 0.946 | 2.01 | 4.00% | 1.2352 |
+| **Residual 18 — one aggregate only** | **804** | **0.898402** | **1.900697** | **3.688731%** | **7.1779** |
+<!-- END NCCM_V65_PLANETARY_CROSSDOC -->
+
 ## NCCM V6.5 — Year 0 canon statistics (C)
 
 **CURRENT YEAR 0 CANON — NCCM V6.5 (creator-ratified on 2026-10-31).** All currently assigned national remodeling values, including the 19 national SDIs, GDP/GNI accounting basis, TFR, real GDP growth, six-way primary ancestry, seven migration routes, foundation dates, and the 18-nation aggregate, have **canon status C**. A mathematically calibrated result is canon **as a defined worldbuilding model value**, not falsely claimed to be an independently observed age-cohort survey or input-output microdata. Previously proposed/unresolved *unassigned* figures are not converted into invented facts. [Current machine ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) · [NCCM V6.5 full tables](./asthortera-nccm-v6-active-cross-domain.md).
@@ -549,7 +613,7 @@ The total increase is about **56.370×**. The resulting early number is a **cond
 
 These piecewise rates close to the stated 4.412 trillion by construction, to rounding. The interval **970–950 BAC** can contain an **individual-year near-2.95% population-growth peak** and a **2.75% interval average**; a 3%-per-year increase cannot persist throughout 1010–780 BAC without contradicting the 0.4% 1010-year CAGR. **Births minus deaths plus net immigration** determine annual change. TFR is not the annual birth-rate percentage. A peak **near four children per woman** during the Great Acceleration and net-positive immigration are narrative constraints, not a uniquely inferable set of annual births and migrants.
 
-**Provisional research targets, not independently validated facts:** income Gini **~0.240 at 1010 BAC** as a candidate planetary low; SDI **0.775 (950 BAC), 0.850 (780 BAC), 0.915 (300 BAC)**; period life expectancy **102, 170, 385 years** at those respective dates; TFR **~3.95 around 970 BAC** and **~1.70 at Year 0**. A full cohort/survival/migration model and independently defined SDI/Gini methodologies are required before freezing intermediate values.
+**Provisional research targets, not independently validated facts:** income Gini **~0.240 at 1010 BAC** as a candidate planetary low; SDI **0.775 (950 BAC), 0.850 (780 BAC), 0.915 (300 BAC)**; period life expectancy **102, 170, 385 years** at those respective dates; TFR **~3.95 around 970 BAC** and **1.63 at Year 0 (NCCM V6.5 canon C)**. A full cohort/survival/migration model and independently defined SDI/Gini methodologies are required before freezing intermediate values.
 
 Price stability amid major stimulus requires parallel expansion in productive supply and reliable institutions; **cheap necessities do not mathematically imply low income Gini**. If real GDP growth is **15%** and population growth is **2.75%** at the same date, real GDP-per-capita growth is approximately **(1.15 / 1.0275 − 1) = 11.92%**, not 15%.
 

@@ -7,6 +7,7 @@ on:
       - "content/**"
       - "data/asthortera/**"
       - "tools/audit-asthortera-cross-domain.mjs"
+      - "tools/sync-asthortera-nccm-crossdocs.mjs"
       - "tools/audit-asthortera-metric-mentions.mjs"
       - "package.json"
       - "tests/asthortera-*.test.mjs"
@@ -16,6 +17,7 @@ on:
       - "content/**"
       - "data/asthortera/**"
       - "tools/audit-asthortera-cross-domain.mjs"
+      - "tools/sync-asthortera-nccm-crossdocs.mjs"
       - "tools/audit-asthortera-metric-mentions.mjs"
       - "package.json"
       - "tests/asthortera-*.test.mjs"
@@ -40,6 +42,8 @@ jobs:
         run: npm run test:worldbuilding
       - name: Enforce all 19 NCCM V6.5 national profile integration gates
         run: npm run canon:v65:reconcile:check
+      - name: Enforce NCCM V6.5 planetary and immigrant-document concordance
+        run: npm run canon:v65:crossdocs:check
       - name: Generate diagnostic report for all content Markdown
         continue-on-error: true
         run: node tools/audit-asthortera-cross-domain.mjs --json > asthortera-canon-qa.json
