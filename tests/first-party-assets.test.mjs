@@ -281,7 +281,7 @@ test("a configured GITHUB_TOKEN is sent as a bearer to api.github.com only, neve
   for (const text of [JSON.stringify(result), logs.join("\n"), await fs.readFile(path.join(root, "lib/assets/generated/first-party-manifest.json"), "utf8"), await fs.readFile(path.join(root, "lib/assets/resource-snapshot.json"), "utf8")]) assert.ok(!text.includes(TOKEN));
 });
 
-test("local and preview builds stay anonymous without a token and send no Authorization header", async t => {
+test("local builds remain anonymous, but Cloudflare preview uses an authenticated GitHub API client", async t => {
   const root = await fixtureRoot();
   t.after(() => fs.rm(root, { recursive: true, force: true }));
   const remote = upstream(syncedCommits(), MAIN_1);
@@ -291,8 +291,8 @@ test("local and preview builds stay anonymous without a token and send no Author
   assert.ok(recorder.requests.length > 0);
   assert.ok(recorder.requests.every(request => header(request, "authorization") === undefined));
   assert.match(logs.join("\n"), /GitHub API anonymous/);
-  const preview = createGithubClient({ fetchImpl: async () => { throw new Error("unused"); }, env: { CF_PAGES: "1", CF_PAGES_BRANCH: "feature/assets" } });
-  assert.equal(preview.authenticated, false);
+  const preview = createGithubClient({ fetchImpl: async () => { throw new Error("unused"); }, env: { CF_PAGES: "1", CF_PAGES_BRANCH: "feature/assets", GITHUB_TOKEN: TOKEN } });
+  assert.equal(preview.authenticated, true);
   assert.equal(preview.production, false);
   const production = createGithubClient({ fetchImpl: async () => { throw new Error("unused"); }, env: { CF_PAGES: "1", CF_PAGES_BRANCH: "main", GITHUB_TOKEN: TOKEN } });
   assert.equal(production.authenticated, true);
@@ -300,12 +300,20 @@ test("local and preview builds stay anonymous without a token and send no Author
   assert.ok(!JSON.stringify(production).includes(TOKEN));
 });
 
-test("Cloudflare production builds without a usable token fail before any request or write", async t => {
+test("Cloudflare Production and Preview builds without a usable token fail BEFORE any network request or write", async t => {
   const root = await fixtureRoot();
   t.after(() => fs.rm(root, { recursive: true, force: true }));
-  for (const env of [{ CF_PAGES: "1", CF_PAGES_BRANCH: "main" }, { CF_PAGES: "1", CF_PAGES_BRANCH: "main", GITHUB_TOKEN: "   " }]) {
+  for (const env of [
+    { CF_PAGES: "1", CF_PAGES_BRANCH: "main" },
+    { CF_PAGES: "1", CF_PAGES_BRANCH: "main", GITHUB_TOKEN: "   " },
+    { CF_PAGES: "1", CF_PAGES_BRANCH: "feature/assets" },
+    { CF_PAGES: "1", CF_PAGES_BRANCH: "feature/assets", GITHUB_TOKEN: "   " },
+    { CF_PAGES_BRANCH: "main" },
+    { CF_PAGES_BRANCH: "preview/branch" },
+    { CF_PAGES: "1" }
+  ]) {
     const recorder = recording(() => { throw new Error("no request may be sent"); });
-    await assert.rejects(synchronizeFirstPartyAssets({ root, fetchImpl: recorder.fetchImpl, env, collect, log: null }), /GITHUB_TOKEN is required for Cloudflare Pages production builds/);
+    await assert.rejects(synchronizeFirstPartyAssets({ root, fetchImpl: recorder.fetchImpl, env, collect, log: null }), /GITHUB_TOKEN is required for Cloudflare Pages builds \(Production AND Preview\)/);
     assert.equal(recorder.requests.length, 0);
   }
   const unsafe = "ghp_fixture\nInjected: header";

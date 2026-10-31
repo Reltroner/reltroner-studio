@@ -1,0 +1,33 @@
+name: Cloudflare asset sync auth preflight
+
+on:
+  pull_request:
+    paths:
+      - "tools/sync-resource-manifest.mjs"
+      - "tools/sync-first-party-assets.mjs"
+      - "tests/cloudflare-assets-auth-preflight.test.mjs"
+      - "tests/first-party-assets.test.mjs"
+      - ".github/workflows/cloudflare-assets-auth.yml"
+  push:
+    paths:
+      - "tools/sync-resource-manifest.mjs"
+      - "tools/sync-first-party-assets.mjs"
+      - "tests/cloudflare-assets-auth-preflight.test.mjs"
+      - "tests/first-party-assets.test.mjs"
+      - ".github/workflows/cloudflare-assets-auth.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  credential-safety:
+    name: Build-time credential safety (no secrets, no network)
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Exercise Cloudflare Production, Preview and local clients
+        run: node --test tests/cloudflare-assets-auth-preflight.test.mjs
