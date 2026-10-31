@@ -272,36 +272,37 @@ another instrument of escalation**.
 | Phantomkind / Spiritual Hybrid | **2%** |
 | Other | **2%** |
 
-Primary ancestry is mutually exclusive; the old 35% Native five-way classification was superseded by 33% Native and 2% Phantomkind in NCCM V6.5.
+Primary ancestry is mutually exclusive; all six currently assigned classes total 100%.
 
 ## Gender Ratio
 
 -   Male: 51%
 -   Female: 49%
 
-## Daily Spending Categories
+## Year 0 Daily Private Expenditure — NCCM V6.5 Canon C
 
-**Accounting and remodeling notice (2026-10-30):** the **archived, unratified V1** five-tier table below is **not a complete reconciled distribution**, and must not be used to calculate income Gini or current annual private spending. The band thresholds alone yield **at least KAL 47,530/day** in average minimum private spending across the stated 99% classified population, versus **archived pre-Model-B KAL 49,195.64/day** (current V6.5 modeled GNI capacity ≈ **KAL 758,765/day**, not actual expenditure). This is a significant cross-domain modeling constraint, not merely a 1% rounding issue.
+**Reference population:** 108 billion residents · **Currency and unit:** KAL per resident per day · **Evidence:** creator-ratified fictional five-class consumption model (C), not observed household microdata.
 
-A **NONCANONICAL Kalgered V1 remodeling candidate** proposes a complete **2% / 18% / 45% / 30% / 5%** distribution across revised private-expenditure bands, alongside a separate SDI-component methodology while **retaining SDI 0.979, population 108 billion, and **archived V1** GNI per capita KAL 17,956,408 (superseded by V6.5 Model B)**. Those provisional shares must not silently replace the historic table until explicitly ratified. See the [37-country lineage and Kalgered remodeling proposal](../statistics/asthortera-37-country-lineage-and-kalgered-remodeling.md) and its [structured candidate](../../data/asthortera/kalgered-remodeling-candidate-v1.json).
+| Daily private-expenditure band | Share of residents |
+|---|---:|
+| KAL 0–999.99 | **2%** |
+| KAL 1,000–4,999.99 | **18%** |
+| KAL 5,000–19,999.99 | **45%** |
+| KAL 20,000–59,999.99 | **30%** |
+| KAL 60,000+ | **5%** |
+| **Total** | **100%** |
 
+These are **daily spending** brackets, **not** salary, wealth, GDP per person or the basis of income Gini **0.210**. The value for average *observed* daily spending is **not assigned**. Category population estimates are derived from the resident denominator, not from an independently conducted census.
 
-
--   \<KAL100 (Impoverished): 1%
--   KAL100--KAL9,999 (Lower Middle): 30%
--   KAL10,000--KAL99,999 (Upper Middle): 45%
--   KAL100,000--KAL499,999 (Affluent): 18%
--   KAL500,000+ (Ultra Wealthy): 5%
-
-**NCCM V2 statistical audit:** the five reported expenditure-band shares sum to **99%**, with an **unreconciled 1 percentage point** (potentially rounding or missing reporting allocation). These published shares are preserved rather than silently inventing a new class or normalizing values. They must not be used as a complete 100% census until corrected with national-level source evidence; expenditure shares alone do not derive the income Gini.
+[Indicator methodology, data sources and glossary](../statistics/kalgered-consumption-v65.md).
 
 ------------------------------------------------------------------------
 
 # ⚙️ Economy
 
-### Growth Interpretation Across 1010 BAC–Year 0
+### Year 0 Economic Growth
 
-Kalgered's economic rise is linked to historically established diplomatic neutrality, professional protocol, financial custody, scientific partnerships, and the stabilization of intergovernmental coordination. The **1010 BAC Troncut Treaty**, **950 BAC planetary real-growth peak (15%)**, and later **197–29 BAC space governance transitions** are narrative constraints, **not a formula to apply 7% growth to every Kalgeredian year**. A **3.0% annual real CAGR for the last 100 years** is a noncanonical calibration candidate; 7% remains a plausible **specific-year growth episode** during high productivity gains. NCCM V3's **Year 0 real GDP growth of 6.9%** is also a scenario, not published observational national accounts. The planet's **archived V3 7.5% Year 0 growth candidate (superseded by NCCM V6.5 4.00%)** and long-run nominal USD GDP CAGR must remain separate.
+The NCCM V6.5 creator-ratified Year 0 real GDP growth model is **3.69%**. The country's national accounts keep **GDP**, **GNI**, **household private expenditure** and **government spending** as distinct statistics. [Definitions and sources](../statistics/kalgered-consumption-v65.md).
 
 ## Main Economic Sectors
 
@@ -317,7 +318,7 @@ Kalgered's economic rise is linked to historically established diplomatic neutra
 > **"Neutral Ground, Boundless Progress."**
 
 -   **Gini Coefficient:** 0.21
--   **Growth history (reconciled):** 7% real GDP growth represents episodic high-output innovation years, **not an unchanged 100-year annual average**. NCCM V3 proposes **3.0% real CAGR over the last 100 years as a scenario candidate**; the complete historical annual series and GDP deflators are not yet independently calibrated.
+-   **Year 0 Real GDP Growth (NCCM V6.5 C):** 3.69%
 -   **National Debt:** 45% of GDP
 -   **CO₂ Emissions per Capita:** 1.3 metric tons
 -   **GNI per Capita (Year 0 NCCM V6.5 C):** KAL 276,949,053/year (USD 29,301,209,843)
@@ -1058,36 +1059,3 @@ strategic partner**.
 Reltroner Studio.*
 
 ---
-
-## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
-
-**ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.
-
-## ARCHIVED — NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)
-
-<!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->
-> **V3 archive: superseded for Year 0.** The values below are kept as historical candidate provenance, not current statistics. The ratified NCCM V6.5 C national GDP is **USD 3.164530663053e+21**, TFR **1.63**, real growth **3.69%**, and SDI **0.979**. The current model remains distinct from independently observed demographic cohorts or deflated real production accounts.
-
-**Canonical anchors unchanged:** **108 billion** residents, **108 million km²** land, and national **SDI 0.979**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
-
-**Scenario-calibrated cross-domain estimates — NOT authoritative national census results:**
-
-| Model metric | NCCM V3 comparative value | Source status |
-|---|---:|---|
-| GDP, AUC reporting equivalent/year | **1.15916874e+20 AUC** | Provisional cross-country GDP allocation |
-| GDP/head, nominal USD reporting | **2.930121e+9 USD/year** | Candidate GDP÷population |
-| Planet GDP contribution | **2.8011%** | Candidate, jointly reconciles to planet GDP with other states |
-| Individual capability SDI, I | **0.9698** | Synthetic 60/40 decomposition, **not observed** |
-| Institutional quality SDI, Q | **0.9928** | Synthetic 60/40 decomposition, **not observed** |
-| Income Gini | **0.210** | Existing national profile |
-| Government debt / GDP | **45.0%** | Existing national profile |
-| Year 0 real GDP growth | **6.90%** | Candidate one-year rate, not historical CAGR |
-| Year 0 CPI inflation | **0.260%** | Candidate rate |
-| Urban population | **86.0%** | Candidate; not percentage of land area |
-| Period life expectancy | **489 years** | Cohort model candidate |
-| Median age | **254 years** | Demographic candidate |
-| Total fertility rate | **1.60** | Candidate, age/lineage cohort modeling pending |
-| Education access index | **0.987** | Synthetic learning-opportunity proxy, not surveyed |
-
-**Scope and editorial precedence:** These filled-in values support **comparison and decision-making**, not a claim that every country's local nominal GDP, GNI, real exchange rate, cohort life table or SDI microdata has been historically measured. Existing local-currency GDP/GNI, national sovereignty, aesthetic identity and the official SDI headline take precedence over any candidate field. Cross-domain reporting uses the single [14-country matrix](../statistics/asthortera-14-country-cross-domain-v3.md), the [machine-readable V3 model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and the [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md). Never silently promote a modeled candidate to published canon.
-
