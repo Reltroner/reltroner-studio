@@ -38,6 +38,8 @@ jobs:
           node-version: "22"
       - name: Run worldbuilding statistical regression tests
         run: npm run test:worldbuilding
+      - name: Enforce all 19 NCCM V6.5 national profile integration gates
+        run: npm run canon:v65:reconcile:check
       - name: Generate diagnostic report for all content Markdown
         continue-on-error: true
         run: node tools/audit-asthortera-cross-domain.mjs --json > asthortera-canon-qa.json

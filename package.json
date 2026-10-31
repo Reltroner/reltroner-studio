@@ -21,10 +21,12 @@
     "postbuild": "node node_modules/next-sitemap/bin/next-sitemap.mjs && npm run assets:verify",
     "check-slugs": "node tools/check-slugs.mjs",
     "check-all-slugs": "node tools/check-all-slugs.mjs",
-    "test:worldbuilding": "node --test tests/asthortera-nccm-baseline.test.mjs tests/asthortera-cross-domain-regression.test.mjs tests/asthortera-nccm-v6-active.test.mjs tests/asthortera-canon-profile-renderer.test.mjs",
+    "test:worldbuilding": "node --test tests/asthortera-nccm-baseline.test.mjs tests/asthortera-cross-domain-regression.test.mjs tests/asthortera-nccm-v6-active.test.mjs tests/asthortera-canon-profile-renderer.test.mjs tests/asthortera-nccm-v65-integrated-profiles.test.mjs",
     "audit:worldbuilding": "node tools/audit-asthortera-cross-domain.mjs",
     "canon:nations:check": "node tools/sync-asthortera-nccm-profiles.mjs --check",
-    "canon:nations:sync": "node tools/sync-asthortera-nccm-profiles.mjs --write"
+    "canon:nations:sync": "node tools/sync-asthortera-nccm-profiles.mjs --write",
+    "canon:v65:reconcile:check": "node tools/reconcile-asthortera-nccm-v65.mjs --check",
+    "canon:v65:reconcile:write": "node tools/reconcile-asthortera-nccm-v65.mjs --write"
   },
   "dependencies": {
     "@headlessui/react": "^2.2.1",
