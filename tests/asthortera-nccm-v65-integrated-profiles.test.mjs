@@ -47,7 +47,7 @@ test('No silent pre-Model-B GNI headlines or old aggregate population split rema
  assert.match(file('taramistry'),/Year 0 real growth is 4\.39% canon C/);
  assert.match(file('lenternow'),/GDP \(NCCM V6\.5 Year 0 C\)/);
  assert.match(file('lenternow'),/GDP\/GNI per resident \(Year 0 C\)/);
- assert.match(file('mapether'),/14 profiled countries contain \*\*3,213 billion\*\*/);
+ assert.match(file('mapether'),/the 14 countries contain \*\*3,213 billion\*\*/);
  assert.match(file('mapether'),/five Eastern countries \*\*395 billion\*\*/);
  assert.match(file('scenrepolia'),/national TFR \*\*1\.66 canon C\*\*/);
 });
