@@ -52,3 +52,51 @@ test('75B migration routes and special cases are conserved and rendered',()=>{
  assert.match(kris,/2320 BAC/);
  assert.match(kris,/unconditional/);
 });
+
+
+test('Reltronland public economic tables and end summary use V6.5 Model B, not archived V2 GDP/GNI',()=>{
+ const c=nations.find(x=>x.name==='Reltronland');
+ assert.ok(c,'Reltronland ledger entry');
+ const profile=readFileSync(path.join(root,c.source),'utf8');
+ const localGdp=c.gdp_usd_annual_V6/c.fx.usd_per_local_unit;
+ const localGni=c.gni_per_capita_usd_proxy_V6/c.fx.usd_per_local_unit;
+ const formatted=x=>x.toLocaleString('en-US');
+ assert.equal(localGdp,4.1527217475e20);
+ assert.equal(localGni,485698450);
+ const economics=profile.split('## Economic Indicators — Active NCCM V6.5 Year 0 (canon C)')[1]?.split('### Interpretation of GNI Per Capita')[0];
+ assert.ok(economics,'Missing active economic indicators section');
+ assert.ok(economics.includes('REL 4.1527217475 × 10²⁰'),'GDP/local mismatch');
+ assert.ok(economics.includes('USD 4.7448998686935 × 10²²'),'GDP/USD mismatch');
+ assert.ok(economics.includes('REL '+formatted(localGni)),'GNI/local mismatch');
+ assert.ok(economics.includes('USD '+formatted(c.gni_per_capita_usd_proxy_V6)),'GNI/USD mismatch');
+ assert.ok(economics.includes((100*c.real_gdp_growth).toFixed(2)+'%'),'Growth mismatch');
+ assert.ok(economics.includes('zero-net'),'GNI bridge missing');
+ const summary=profile.split('# 31. Final Canon Summary')[1]?.split('# 32. Navigation Links')[0];
+ assert.ok(summary,'Final summary missing');
+ for(const snippet of ['REL 4.1527217475 × 10²⁰','USD 4.7448998686935 × 10²²','REL '+formatted(localGni)+'/year','4.01% real annual GDP growth','254-year median age'])assert.ok(summary.includes(snippet),'Final summary conflict: '+snippet);
+ assert.doesNotMatch(summary,/12% annually over 250 years|48,569,845|4\.1527217475 × 10¹⁹/,'Obsolete GDP/GNI in final summary');
+});
+
+test('Reltronland spending, demography, digital economy and legacy modeling boundaries cannot silently override canon C',()=>{
+ const c=nations.find(x=>x.name==='Reltronland');
+ const profile=readFileSync(path.join(root,c.source),'utf8');
+ const v3archive=profile.indexOf('## ARCHIVED — NCCM V3 Cross-Domain Benchmark');
+ assert.ok(v3archive>0,'V3 archive boundary required');
+ const active=profile.slice(0,v3archive);
+ assert.doesNotMatch(active,/\$REL48,569,845|\$REL133,068|225-year median age|\*\*Median age:\*\* 225 years/,'Unscoped old GNI or median age');
+ assert.match(active,/Daily Spending Demographics — Historical Illustration \(not a V6\.5 census\)/);
+ assert.match(active,/Shares Not Yet Ratified Under V6\.5/);
+ assert.match(active,/REL 1,330,681\/day/);
+ assert.match(active,/Independent digital-economy GDP or sector share\*\* \| \*\*Unassigned/);
+ assert.match(active,/Compounding Simulation — Archived V2 Baseline and V6\.5 Boundary/);
+ const bridge=active.split('### GDP–GNI Primary-Income Bridge — NCCM V6.5 (canon C)')[1]?.split('### Interpretation of GNI Per Capita')[0];
+ assert.ok(bridge);
+ assert.match(bridge,/855,000,000,000 residents × REL 485,698,450/);
+ assert.match(bridge,/not two independent matching empirical observations/);
+ assert.ok(active.includes('254-year median age'));
+ assert.ok(active.includes('498-year period life expectancy'));
+ const activeOutsideHistoric=active.replace(/## Compounding Simulation — Archived V2 Baseline[\s\S]*?(?=## Impact)/,'');
+ assert.doesNotMatch(activeOutsideHistoric,/4\.1527217475 × 10¹⁹|4\.7448998686935 × 10²¹/,'Legacy nominal amounts outside archive');
+ assert.match(profile.slice(v3archive),/not authoritative current Year 0 figures/);
+ assert.match(profile.slice(v3archive),/supersede conflicting V3 figures/);
+});
