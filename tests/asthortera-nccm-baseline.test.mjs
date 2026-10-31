@@ -52,7 +52,11 @@ test("GDP CAGRs and the candidate 250-year period close the endpoints",()=>{
 });
 test("Archived V2 GDP/GNI zero-net-income bridge assumption is explicit",()=>{
   close(v.year0.rel_population*v.year0.rel_gni_per_capita_rel,v.year0.rel_gdp_rel);
-  assert.match(read("content/factions/reltronland.md"),/provisional zero-net-primary-income balancing convention/);
+  const active=read("content/factions/reltronland.md");
+  assert.match(active,/GDP–GNI Primary-Income Bridge — NCCM V6\.5 \(canon C\)/);
+  assert.match(active,/net foreign primary income \*\*set to zero for modeled reconciliation\*\*/);
+  assert.match(active,/855,000,000,000 residents × REL 485,698,450/);
+  assert.match(active,/ARCHIVED V2 modeling snapshot/);
 });
 test("12-percent compounding is corrected and Kalgered residual is not hidden",()=>{
   close(1e9*1.12**250,2.0160702802211032e21);
