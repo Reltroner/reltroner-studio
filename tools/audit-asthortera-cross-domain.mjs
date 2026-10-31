@@ -4,6 +4,7 @@
  * Fail any broken numeric/semantic invariant; report incomplete nonfalsified data as warnings.
  */
 import fs from 'node:fs';
+import {patchNational} from './asthortera-canon-profile-renderer.mjs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -138,6 +139,13 @@ for(const c of activeNations)inspect((files.get(c.source)||'').includes('NCCM V6
 warning('TFR_COHORT_EXPOSURE_UNCALIBRATED','Full species-specific age fertility denominators are absent; 1.63 population-weighted proxy is mathematical reconciliation only');
 warning('GROWTH_DEFLATOR_UNCALIBRATED','4% GDP-share-weighted growth assumes consistent real-price bases; full chain-volume statistics pending');
 info.push({metric:'modeled_planet_TFR',value:modeledTFR},{metric:'modeled_planet_growth',value:modeledRealGrowth});
+// Detect source-of-truth drift between the ratified numerical ledger and every profile.
+for(const c of [...v.countries_14,...v.countries_5]){
+ const existing=files.get(c.source)||'';
+ let matches=false;
+ try{matches=patchNational(existing,c,v)===existing}catch(err){warning('CANON_RENDER_EXCEPTION',c.name+': '+String(err));}
+ inspect(matches,'NATIONAL_PROFILE_DETERMINISTIC_CANON',c.name);
+}
 // Ratification overlay: canon C is authoritative even for adopted calculated aggregates.
 inspect(v.canon_ratification?.status==='C'&&P.year0.canon_status==='C','V65_CREATOR_RATIFICATION_C','Every currently assigned NCCM V6.5 model value must be canon C');
 inspect([...v.countries_14,...v.countries_5].every(c=>c.canon_status==='C'),'V65_NATIONAL_CANON_C','19 national model outputs must be C');
