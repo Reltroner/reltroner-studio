@@ -122,7 +122,8 @@ export function verifyCloudflareNewsletterActivation(
       return { ok: false, reason: 'UNAUTHORIZED_HOSTNAME' };
     }
   }
-  // Cloudflare Free WAF rule `reltroner-newsletter-protection` (3 req/10s/IP) is currently Disabled
+  // Operators must verify the active Cloudflare Free WAF rule for /api/newsletter
+  // (3 req/10s/IP, potentially including OPTIONS). A runtime flag alone is not proof.
   if (env.CLOUDFLARE_WAF_PROTECTION_VERIFIED !== 'true') {
     return { ok: false, reason: 'WAF_PROTECTION_UNVERIFIED' };
   }
