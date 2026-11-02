@@ -1,7 +1,60 @@
 import { validateSubscription } from '../../lib/newsletter/schema';
 import { readFormRequest } from '../../lib/forms/request';
+import { isSameOriginRequest } from '../../lib/security/request-origin';
 import { createResendNewsletterProvider, type ResendProviderOptions } from '../../lib/newsletter/resend-provider';
 import type { NewsletterServiceAdapter, SubscriptionResult } from '../../lib/newsletter/types';
+
+// Only the canonical Studio newsletter endpoint may accept the LMS form.
+// This is a narrowly scoped cross-origin exception, not a general forms/CORS policy.
+const LMS_NEWSLETTER_ORIGIN = 'https://lms.reltroner.com';
+const STUDIO_NEWSLETTER_ORIGINS = new Set(['https://www.reltroner.com', 'https://reltroner.com']);
+
+function isApprovedLmsNewsletterOrigin(request: Request): boolean {
+  if (request.headers.get('origin') !== LMS_NEWSLETTER_ORIGIN
+    || request.headers.get('sec-fetch-site') === 'cross-site') return false;
+  try {
+    const url = new URL(request.url);
+    const host = request.headers.get('host')?.toLowerCase();
+    return STUDIO_NEWSLETTER_ORIGINS.has(url.origin)
+      && (!host || host === url.host || (url.port === '' && host === `${url.hostname}:443`))
+      && url.pathname === '/api/newsletter';
+  } catch { return false; }
+}
+
+function isAllowedNewsletterOrigin(request: Request): boolean {
+  return Boolean(request.headers.get('origin'))
+    && (isSameOriginRequest(request) || isApprovedLmsNewsletterOrigin(request));
+}
+
+function withNewsletterCors(request: Request, response: Response): Response {
+  if (!isApprovedLmsNewsletterOrigin(request)) return response;
+  const headers = new Headers(response.headers);
+  headers.set('Access-Control-Allow-Origin', LMS_NEWSLETTER_ORIGIN);
+  headers.set('Access-Control-Expose-Headers', 'Retry-After');
+  headers.set('Vary', 'Origin');
+  headers.set('Cache-Control', 'no-store');
+  return new Response(response.body, { status: response.status, statusText: response.statusText, headers });
+}
+
+export function handleNewsletterPreflight(request: Request): Response {
+  const method = request.headers.get('access-control-request-method');
+  const headers = (request.headers.get('access-control-request-headers') || '')
+    .split(',').map(value => value.trim().toLowerCase()).filter(Boolean);
+  if (!isApprovedLmsNewsletterOrigin(request) || method !== 'POST'
+    || !headers.includes('content-type')
+    || headers.some(header => header !== 'content-type' && header !== 'accept')) {
+    return Response.json({ status: 'rejected', message: 'Newsletter preflight is not permitted.' },
+      { status: 403, headers: { 'Cache-Control': 'no-store' } });
+  }
+  return new Response(null, { status: 204, headers: {
+    'Access-Control-Allow-Origin': LMS_NEWSLETTER_ORIGIN,
+    'Access-Control-Allow-Methods': 'POST',
+    'Access-Control-Allow-Headers': 'Content-Type, Accept',
+    'Access-Control-Max-Age': '600',
+    'Vary': 'Origin, Access-Control-Request-Method, Access-Control-Request-Headers',
+    'Cache-Control': 'no-store',
+  } });
+}
 
 export interface CloudflareNewsletterEnv {
   RESEND_API_KEY?: string;
@@ -69,7 +122,8 @@ export function verifyCloudflareNewsletterActivation(
       return { ok: false, reason: 'UNAUTHORIZED_HOSTNAME' };
     }
   }
-  // Cloudflare Free WAF rule `reltroner-newsletter-protection` (3 req/10s/IP) is currently Disabled
+  // Operators must verify the active Cloudflare Free WAF rule for /api/newsletter
+  // (3 req/10s/IP, potentially including OPTIONS). A runtime flag alone is not proof.
   if (env.CLOUDFLARE_WAF_PROTECTION_VERIFIED !== 'true') {
     return { ok: false, reason: 'WAF_PROTECTION_UNVERIFIED' };
   }
@@ -151,11 +205,11 @@ export async function handleNewsletterRequest(
   service: NewsletterServiceAdapter
 ): Promise<Response> {
   try {
-    // Browser-only same-origin form: missing Origin is not an automation bypass.
-    if (!request.headers.get('origin')) throw new Error('ORIGIN');
-    const result = validateSubscription(await readFormRequest(request));
+    // Studio same-origin forms and the one approved LMS origin only. Never trust arbitrary Origin.
+    if (!isAllowedNewsletterOrigin(request)) throw new Error('ORIGIN');
+    const result = validateSubscription(await readFormRequest(request, isAllowedNewsletterOrigin));
     if (!result.input) {
-      return Response.json({ status: 'invalid', message: result.error }, { status: 422 });
+      return withNewsletterCors(request, Response.json({ status: 'invalid', message: result.error }, { status: 422 }));
     }
 
     const requestId = crypto.randomUUID();
@@ -167,18 +221,18 @@ export async function handleNewsletterRequest(
       : feedback.status === 'invalid' ? 422
       : 200;
 
-    return Response.json(feedback, {
+    return withNewsletterCors(request, Response.json(feedback, {
       status,
       headers: {
         'Cache-Control': 'no-store',
         'X-Request-Id': requestId,
       },
-    });
+    }));
   } catch (error) {
-    return Response.json(
+    return withNewsletterCors(request, Response.json(
       { status: 'rejected', message: 'The request could not be validated. Try again from this website.' },
       { status: error instanceof Error && error.message === 'ORIGIN' ? 403 : 400 }
-    );
+    ));
   }
 }
 
@@ -187,7 +241,12 @@ export async function onRequestPost(context: { request: Request; env: Cloudflare
   return handleNewsletterRequest(context.request, service);
 }
 
+export async function onRequestOptions(context: { request: Request; env: CloudflareNewsletterEnv }): Promise<Response> {
+  return handleNewsletterPreflight(context.request);
+}
+
 export async function onRequest(context: { request: Request; env: CloudflareNewsletterEnv }): Promise<Response> {
+  if (context.request.method === 'OPTIONS') return onRequestOptions(context);
   if (context.request.method === 'POST') {
     return onRequestPost(context);
   }
