@@ -18,6 +18,29 @@ SDI evaluates the **inner infrastructure of civilization**: how sentient beings 
 
 ---
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Asthortera reference
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🧠 1. What the SDI Measures](#-1-what-the-sdi-measures)
+- [🌍 2. Global SDI Baseline](#-2-global-sdi-baseline)
+- [🌈 4. Asthortera's High-SDI Nations](#-4-asthorteras-high-sdi-nations)
+- [🔗 5. SDI Does Not Mean Civilizational Uniformity](#-5-sdi-does-not-mean-civilizational-uniformity)
+- [🧬 6. Civilizational Engines](#-6-civilizational-engines)
+- [🧠 8. Conflict After the End of Primary Scarcity](#-8-conflict-after-the-end-of-primary-scarcity)
+- [🌌 9. The Higher-Order Conflict: Astralis and Nytherion](#-9-the-higher-order-conflict-astralis-and-nytherion)
+- [📊 11. Country Identity by Per Capita Indicator](#-11-country-identity-by-per-capita-indicator)
+- [🧠 12. Functional Symbolism](#-12-functional-symbolism)
+- [🌍 13. Implications for Worldbuilding](#-13-implications-for-worldbuilding)
+- [🌌 15. Civilizational Differentiation Without Civilizational Collapse](#-15-civilizational-differentiation-without-civilizational-collapse)
+- [🔭 16. Final Interpretation](#-16-final-interpretation)
+
+**Source boundary:** Existing numerical indicators, limitations, and evidence statuses remain unchanged.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 # 🧠 1. What the SDI Measures
 
 The **Sentient Development Index (SDI)** evaluates more than surface-level prosperity. Its principal dimensions include:

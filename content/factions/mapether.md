@@ -29,18 +29,19 @@ tags:
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **74 billion** |
+| Share of Asthortera's 4,412B residents | **1.6772%** |
 | National SDI | **0.937** |
 | SDI individual capability component | 0.9400 |
 | SDI institutional quality component | 0.9325 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.89** |
 | Real GDP growth (Year 0, C) | **4.10%** |
-| Annual nominal GDP (Model B, C) | **USD 1.134585361525e+21** |
+| Annual nominal GDP (Canon C) | **USD 1.134585361525e+21** |
 | National share of planetary GDP | **1.004291%** |
 | GDP per resident per year | **USD 15.332235 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 15.332235 billion** |
 | Local currency / reference quotation | **MWV** / USD 77.60 per unit |
-| Land area | **Unassigned** |
+| Land area | **91 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -52,22 +53,45 @@ tags:
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **Unassigned (not zero)** |
-| Cistheta | **Unassigned (not zero)** |
-| Cosmeilian | **Unassigned (not zero)** |
-| Native Asthorteran | **Unassigned (not zero)** |
-| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** |
-| Other | **Unassigned (not zero)** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cistheta | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cosmeilian | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Native Asthorteran | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Other | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| **Total primary residents** | **Not calculated** | **Unassigned** |
 
-**Scope:** This country has no ratified six-class *whole-country ancestry percentage* in the current ledger. Known migrant cohorts carry their source classification; they do not determine the ancestry percentages of the entire recipient country.
+**Scope:** Five added countries have no ratified countrywide six-class ancestry proportions. Neither the planetary ancestry reference nor the retired population-balancing worksheet determines those local percentages. Derived category headcounts remain unassigned, not zero.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **77%** |
+| Active built urban | **7%** |
+| Operational low/biological-zero built urban | **9%** |
+| Dormant built urban | **7%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **79%** | **58.46** |
+| Underground | **10%** | **7.40** |
+| Underwater | **6%** | **4.44** |
+| Floating | **5%** | **3.70** |
+| **Total primary residents** | **100%** | **74.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Fashion and textiles. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
-
+**Productive specialization:** Fashion and textiles. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Sector value-added composition (C):**
 - Textiles and smart fabrics: **34%**
 - Garments and fashion: **25%**
@@ -75,18 +99,41 @@ tags:
 - Services and design: **15%**
 - Other sectors: **6%**
 
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Mapether · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **74 billion** residents; SDI **0.937**; TFR **1.89**; annual real GDP growth **4.10%**; nominal annual GDP (Model B) **USD 1.134585361525e+21**; GDP share **1.0043%** (approximately).
+> Current national anchors: **74 billion** residents; SDI **0.937**; TFR **1.89**; annual real GDP growth **4.10%**; nominal annual GDP (Canon C) **USD 1.134585361525e+21**; GDP share **1.0043%** (approximately); share of planetary residents **1.6772%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 15,332,234,615/year**, or approximately **MWV 197,580,343/year** using the modeled **USD 77.60 per MWV** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **Unassigned (not zero)**; CPI: **Unassigned (not zero)**; income Gini: **Unassigned (not zero)**; national six-way primary ancestry: **Unassigned (not zero)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Mapether
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National overview](#1-national-overview)
+- [2. Geography, coast and cultural landscapes](#2-geography-coast-and-cultural-landscapes)
+- [3. The long historical transformation](#3-the-long-historical-transformation)
+- [5. Music, nightlife and national cultural life](#5-music-nightlife-and-national-cultural-life)
+- [6. Government, commercial neutrality and rights](#6-government-commercial-neutrality-and-rights)
+- [7. NCCM V6 integrated economy](#7-nccm-v6-integrated-economy)
+- [8. Diplomacy and trade network](#8-diplomacy-and-trade-network)
+- [9. National language and its historical layers](#9-national-language-and-its-historical-layers)
+- [10. Urban design, architecture and material culture](#10-urban-design-architecture-and-material-culture)
+- [12. The Abyss of Comfort — proposed arc](#12-the-abyss-of-comfort--proposed-arc)
+- [13. National character, limits and outstanding decisions](#13-national-character-limits-and-outstanding-decisions)
+- [14. Model boundaries and source precedence](#14-model-boundaries-and-source-precedence)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 # Mapether — The Textile, Fashion and Improvisation Civilization
 
@@ -122,7 +169,7 @@ Mapether is a highly developed society with factories, trade institutions and pu
 | Cultural urban center | **Bonether**, referenced in development notes for fashion and classical visual culture |
 | Government capital | **Not independently established**; Bonether must not be silently designated capital |
 | Modern language ancestry | Primarily Depeisian, with an earlier Beluftner linguistic substrate |
-| Scenario currency | **MWV**; legacy **MPT** in ALREO must be reconciled |
+| Scenario currency | **MWV**, sole active national currency code (Canon C) |
 | National flag | Not yet formally ratified; character hat motif is distinct from a constitutional flag |
 
 ### Civilizational proposition
@@ -252,7 +299,7 @@ Individual dignity must not depend on clothing brand, personal aesthetics, econo
 
 ## 7. NCCM V6 integrated economy
 
-**Model status.** The NCCM V6.5 five-country allocation is a **creator-ratified canon C national modeled baseline**, not an independently completed national statistical survey. The creator adopted **Integrated Income-Output Uplift (Model B)**: planet GDP and GNI nominal level rise 10× while national percentage GDP contributions remain unchanged. National CPI inflation does not thereby become 900%. The model's planet totals remain **4,412 billion unique sentients, 37 sovereign countries, SDI 0.947**, and planetary TFR **1.63**.
+**Model status.** The NCCM V6.5 five-country allocation is a **creator-ratified canon C national modeled baseline**, not an independently completed national statistical survey. The creator adopted **ratified integrated production-and-income baseline**: planet GDP and GNI nominal level rise 10× while national percentage GDP contributions remain unchanged. National CPI inflation does not thereby become 900%. The model's planet totals remain **4,412 billion unique sentients, 37 sovereign countries, SDI 0.947**, and planetary TFR **1.63**.
 
 | Metric | Ratified NCCM V6.5 Year 0 model (C where assigned) | Interpretation |
 |---|---:|---|
@@ -266,14 +313,14 @@ Individual dignity must not depend on clothing brand, personal aesthetics, econo
 | Nominal annual GDP after 10× uplift | **approximately USD 1.1346 × 10²¹** | Provisional output allocation |
 | Annual GDP/head | **approximately USD 15.332 billion** | Derived proxy from GDP / population |
 | Annual GNI/head | **approximately USD 15.332 billion** | Assumes net foreign primary income = zero |
-| V6 proposed currency code | **MWV** | Subject to legacy-code reconciliation |
+| Current currency code (Canon C) | **MWV** | Sole active national identifier |
 | Proposed FX quotation | **1 MWV = USD 77.60** | Hypothetical, not historical market quotation |
 | Illustrative local GNI/head | **approximately 197.58 million MWV/year** | Derived via proposed FX |
 | National census ancestry / Phantomkind rate | **Open** | Do not copy 14-country planetary representative distribution into national statistics |
 | National total fertility rate (Year 0 C) | **1.89** | Ratified modeled TFR; cohort data unassigned |
 | National median age and life expectancy | **Unassigned** | No invented demographic measurements |
 | Annual CPI, income Gini, unemployment, carbon | **Open** | No invented measured figures |
-| National land area | **Open** | Map provides geography, not verified km² |
+| National land area | **91 million km²** | Creator-ratified land-area Canon C (2026-11-01) |
 
 The modeled SDI identity is **0.60 × 0.9400 + 0.40 × 0.9325 = 0.937**. This gives a conceptually consistent individual/institution split, **not** an independently observed microdata result.
 
@@ -299,7 +346,7 @@ The total is **100% gross value added**. These percentages do **not** describe s
 - **Currency:** an expensive nominal currency unit alone does not demonstrate higher real purchasing power or welfare.
 - **SDI:** represents individual capability and institutional conditions, not nationality-based biological superiority.
 
-**Legacy currency conflict:** the more recent FX proposal uses **MWV** and **USD 77.60 per MWV**. The existing [ALREO source](../laws/alreo.md) quotes Mapether hourly labor amounts in **MPT**. These codes must **not** be treated as equivalent at a 1:1 conversion until an explicit monetary crosswalk, obsolete-code designation or redenomination law is approved. Keep historical MPT text intact.
+**Currency code ratified (2026-10-31):** **MWV** is the sole active Mapetheran code, also used in [ALREO](../laws/alreo.md). USD 77.60 per MWV is a canon model quotation, not independent evidence of actual FX, real wages or any historical conversion.
 
 **Nominal versus real:** fashion luxury prices and strong nominal USD quotations cannot establish household purchasing power. Model actual wages, household distribution, materials, import content, manufacturing automation, final consumption and prices independently.
 
@@ -387,8 +434,8 @@ This is a **Countryball storytelling persona**, not a universal psychological pr
 Outstanding issues:
 
 - Confirm the political **capital**, distinct from the cultural references to **Bonether**.
-- Resolve **MWV versus MPT** and define any currency redenomination and foreign exchange history.
-- Establish the modern land area, class structure, wage survey, labor productivity, CPI, urbanization and interplanetary migration.
+- **Resolved:** MWV is the sole active national currency; market FX and purchasing power remain to be measured.
+- Model settlement density, class structure, wage survey, labor productivity, CPI, urbanization and interplanetary migration; modern national land area is already **91 million km² Canon C**.
 - Ratify the six-category national ancestry table; the planetary representative average is not a local census.
 - Differentiate fashion manufacturing, textiles, design IP and export margins without double counting.
 - Preserve **2164 BAC founding**, **5% initial territory**, **39% territory at 1125–1121 BAC**, Beluftner-origin sovereignty and subsequent Depeisit cultural influence.
@@ -404,9 +451,9 @@ Outstanding issues:
 | Sovereign foundation 2164 BAC | **Canon C**; distinct from historical expansion scenarios |
 | Distinct cultural and economic identity | Worldbuilding identity developed from existing source motifs |
 | Population, SDI, GDP and sector percentages | NCCM V6.5 national canon C modeled values; not empirical microdata |
-| Currency codes and exchange-rate assignments | Explicit crosswalk needed against legacy records |
+| Currency code and modeled FX | **MWV** active Canon C; observed FX and real wages open |
 | Named new ministries, administrative districts and slogans | Development proposals only |
-| Unpublished national ancestry, land area and vital statistics | Unassigned: do not fabricate |
+| Unpublished national ancestry and other vital statistics | Unassigned; national land area **91 million km²** is ratified C |
 | 18 remaining unprofiled countries | Remain in unchanged combined residual after allocation of five nations |
 
 **World-scale accounting:** Year 0 after migration: the 14 countries contain **3,213 billion**, the five Eastern countries **395 billion**, and 18 other countries **804 billion combined**. The earlier **3,288B/320B** partition was pre-redistribution, not current canon. Mapether is part of these **five**, not a 38th country. Planetary six-category primary ancestry is represented for now by the original 14-country population-weighted shares; that planetary proxy does **not** establish Mapether's local ancestry percentages.

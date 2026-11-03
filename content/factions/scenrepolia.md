@@ -3,7 +3,7 @@ title: "Scenrepolia — The Electromagnetic Civilization of Asthortera"
 description: "An Eastern Continental civilization whose U-shaped magnet symbolizes controlled fields, scientific independence, public accountability, electromagnetic engineering and the freedom of sentient minds."
 author: "Reltroner Studio"
 date: "2026-10-30"
-lastUpdated: "2026-10-30"
+lastUpdated: "2026-11-01"
 published: false
 canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remain unassigned"
 world: "Asthortera"
@@ -32,18 +32,19 @@ tags:
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **88 billion** |
+| Share of Asthortera's 4,412B residents | **1.9946%** |
 | National SDI | **0.956** |
 | SDI individual capability component | 0.9540 |
 | SDI institutional quality component | 0.9590 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.66** |
 | Real GDP growth (Year 0, C) | **4.25%** |
-| Annual nominal GDP (Model B, C) | **USD 1.435858609123e+21** |
+| Annual nominal GDP (Canon C) | **USD 1.435858609123e+21** |
 | National share of planetary GDP | **1.270966%** |
 | GDP per resident per year | **USD 16.316575 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 16.316575 billion** |
 | Local currency / reference quotation | **SCI** / USD 94.30 per unit |
-| Land area | **Unassigned** |
+| Land area | **100 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -55,24 +56,45 @@ tags:
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **Unassigned (not zero)** |
-| Cistheta | **Unassigned (not zero)** |
-| Cosmeilian | **Unassigned (not zero)** |
-| Native Asthorteran | **Unassigned (not zero)** |
-| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** |
-| Other | **Unassigned (not zero)** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cistheta | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cosmeilian | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Native Asthorteran | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Other | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| **Total primary residents** | **Not calculated** | **Unassigned** |
 
-**Scope:** This country has no ratified six-class *whole-country ancestry percentage* in the current ledger. Known migrant cohorts carry their source classification; they do not determine the ancestry percentages of the entire recipient country.
+**Scope:** Five added countries have no ratified countrywide six-class ancestry proportions. Neither the planetary ancestry reference nor the retired population-balancing worksheet determines those local percentages. Derived category headcounts remain unassigned, not zero.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **74%** |
+| Active built urban | **10%** |
+| Operational low/biological-zero built urban | **9%** |
+| Dormant built urban | **7%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **78%** | **68.64** |
+| Underground | **14%** | **12.32** |
+| Underwater | **3%** | **2.64** |
+| Floating | **5%** | **4.40** |
+| **Total primary residents** | **100%** | **88.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Electromagnetism; induction and materials. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 internal migration provenance (2 routes):**
-- Astrostelia → Scenrepolia: **10 billion** residents (origin primary ancestry preserved)
-- Lenternow → Scenrepolia: **10 billion** residents (origin primary ancestry preserved)
-
+**Productive specialization:** Electromagnetism; induction and materials. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Sector value-added composition (C):**
 - Field systems and infrastructure: **38%**
 - Magnetic materials and precision components: **23%**
@@ -80,20 +102,43 @@ tags:
 - Trade and technical services: **15%**
 - Other sectors: **7%**
 
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Scenrepolia · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **88 billion** residents; SDI **0.956**; TFR **1.66**; annual real GDP growth **4.25%**; nominal annual GDP (Model B) **USD 1.435858609123e+21**; GDP share **1.2710%** (approximately).
+> Current national anchors: **88 billion** residents; SDI **0.956**; TFR **1.66**; annual real GDP growth **4.25%**; nominal annual GDP (Canon C) **USD 1.435858609123e+21**; GDP share **1.2710%** (approximately); share of planetary residents **1.9946%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 16,316,575,104/year**, or approximately **SCI 173,028,368/year** using the modeled **USD 94.30 per SCI** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **Unassigned (not zero)**; CPI: **Unassigned (not zero)**; income Gini: **Unassigned (not zero)**; national six-way primary ancestry: **Unassigned (not zero)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
-> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **88 billion** resident sentients (previously **68 billion**); 10B from Astrostelia; 10B from Lenternow. National SDI remains **0.956**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 16.317 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Scenrepolia
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National overview](#1-national-overview)
+- [2. Geography and the Eastern Continental position](#2-geography-and-the-eastern-continental-position)
+- [4. Historical development and sovereign continuity](#4-historical-development-and-sovereign-continuity)
+- [5. Government, rights and institutional design](#5-government-rights-and-institutional-design)
+- [6. Physics and engineering boundaries](#6-physics-and-engineering-boundaries)
+- [8. SDI, civic quality and economic inequality](#8-sdi-civic-quality-and-economic-inequality)
+- [9. Urban life and national architecture](#9-urban-life-and-national-architecture)
+- [11. Trade, diplomacy and interdependence](#11-trade-diplomacy-and-interdependence)
+- [12. The Perfect Alignment Controversy — narrative development](#12-the-perfect-alignment-controversy--narrative-development)
+- [13. National character: three levels of truth](#13-national-character-three-levels-of-truth)
+- [15. Connections to established Asthortera sources](#15-connections-to-established-asthortera-sources)
+- [Closing statement](#closing-statement)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
+> **Year 0 national population reference (Canon C):** **88 billion** resident sentients; SDI **0.956**; modeled annual GDP/GNI per resident approximately **USD 16.317 billion**. This is a standing national census allocation, not a narrative of physical relocation. [Active ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
 # Scenrepolia — The Electromagnetic Civilization
@@ -133,7 +178,7 @@ Scenrepolia is a second-world Asthorteran civilization. No Earth country, Earth 
 | Proposed government form | Constitutional scientific-civic republic, subject to future constitutional design |
 | Working national motto | *Power Without Possession. Alignment Without Submission.* — proposal |
 | Currency code | **SCI**, model candidate from the Eastern five-nation NCCM scenario |
-| Land area | **Not yet established**; do not fabricate a density or territorial area |
+| Land area | **100 million km² (Canon C, 2026-11-01)**; cadastral polygons remain undigitized |
 | Publication status | Development profile: canon facts and proposals are separated |
 
 ### What electromagnetic identity means
@@ -155,7 +200,7 @@ The defining question is not simply *How powerful can the field become?* It is *
 
 On the developing Asthortera world map, Scenrepolia occupies a **Central Ocean-facing sector of the Eastern Continent**, below the broader Stelpadland region, west of Calespia and north of the Ethaptorian coastal belt. Its coastline links the electromagnetic production corridor to continental and overseas supply chains.
 
-The world map is a **development reference**, not a final cadastral boundary survey. Consequently, modern land area, national population density, internal provincial borders and exact route distances must remain **unassigned** unless supported by a later creator decision.
+The world map remains a **development reference**, not a final cadastral boundary survey. **National land area is 100 million km² (Canon C, 2026-11-01)**. National border polygons, local settlement-density measurements, internal provincial boundaries and exact route distances remain **unassigned**. Terrestrial land-based arithmetic density must not be mistaken for 3D habitat or city density.
 
 This placement creates a believable national role:
 
@@ -359,7 +404,7 @@ The figures in this section are the **creator-ratified NCCM V6.5 national modele
 | National CPI inflation | Unassigned | Do not infer from GDP uplift |
 | National total fertility rate (Year 0 C) | **1.66** | Creator-ratified population-weighted proxy; full reproductive cohort data unassigned |
 | National ancestry percentages | Unassigned | Planet's six-category representative breakdown is not this country's census |
-| Modern land area | Unassigned | Territorial density cannot yet be calculated |
+| Modern land area | **100 million km² (Canon C)** | National terrestrial footprint approved; exact polygons and local settlement density unmeasured |
 
 The nominal GDP uplift changes the **scale** of modeled economy-wide production and incomes. It is **not** a 900% consumer-price inflation event. In particular, the planet's Year 0 inflation reference remains 0.33% unless the creator changes it.
 
@@ -558,7 +603,7 @@ This separation protects Scenrepolia from becoming a one-note metaphor in which 
 | SCI currency and 94.30 USD/SCI | **FX scenario; no verified exchange-rate history** |
 | Magnetopunk / Fieldpunk aesthetic and color system | **Development proposal** |
 | Named government institutions, motto and Skalatores districts | **Development proposals** |
-| Nation-specific ancestry, land area, Gini and emissions | **Not assigned**; national TFR **1.66 canon C** |
+| Nation-specific ancestry, Gini and emissions | **Not assigned**; land area **100 million km² canon C**, national TFR **1.66 canon C** |
 | Perfect Alignment Controversy | **Proposed future narrative hook** |
 
 The planet's separate anchors—**4.412 trillion unique sentients, 37 sovereign countries, SDI 0.947 and six-category primary ancestry represented provisionally by the 14 detailed countries**—remain unchanged. Scenrepolia is one of the **five newly characterized countries within the five-country group, leaving 18 countries only as an aggregate residual**; it is **not** an additional thirty-eighth sovereign country.

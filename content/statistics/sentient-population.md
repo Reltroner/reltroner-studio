@@ -13,16 +13,34 @@ This document provides a detailed overview of the sentient population structures
 
 ---
 
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Asthortera reference
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🌍 Planet Asthortera](#-planet-asthortera)
+- [🏛️ Planet Depeisit](#️-planet-depeisit)
+- [🌠 Planet Cosmeilia](#-planet-cosmeilia)
+- [🪐 Planet Cistheta](#-planet-cistheta)
+- [🧠 Philosophical Summary](#-philosophical-summary)
+
+**Source boundary:** Existing numerical indicators, limitations, and evidence statuses remain unchanged.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
 ## 🌍 **Planet Asthortera**
-- **Dominant Population:** Humans with East Asian Mongoloid and Western European features
+- **Population:** Multilineage sentient citizens; primary ancestry classification does not derive from physical appearance
 - **Total Sentient Population:** **~4.412 trillion**
-- **Primary ancestry assignment (Year 0, one category per person, not inclusive lineage census):**
-  - 58% Humans of Depeisit planetary descent
-  - 22% Humans of Cistheta planetary descent
-  - 10% Primary Cosmeilian affiliation (any physical manifestation, including human hybrids)
-  - 7% Native Asthorteran Human-Wizard-Witch
-  - 3% Others (alien humanoids, hybrids)
-- **37 sovereign countries:** 14 profiled nations hold **3.288 trillion** sentients; the other **23 hold 1.124 trillion**. In the separate all-manifestation lineage count, the 14 already include **535.200 billion Cosmeilian** and **378.753 billion native** lineage reports. Inclusive global totals are higher and not yet assigned exact percentages. **NCCM V4:** Beluftner separately registers **6% Phantomkind / Spiritual Hybrid** (5.460 billion primary residents). Thirteen other national Phantomkind rates are unknown, not zero; the five-way global categories await a six-way crosswalk. A shapeshifting sentient remains one counted person.
+- **NCCM V6.5 Canon C: six mutually exclusive planetary primary ancestry classes (representative model)**:
+  - Depeisit **47.511618%**
+  - Cistheta **19.859641%**
+  - Cosmeilian **16.210462%**
+  - Native Asthorteran **11.352281%**
+  - Phantomkind / Spiritual Hybrid **2.221411%**
+  - Other **2.844586%**
+- **Current 37-state population partition:** original fourteen **3,213 billion**, added five **395 billion**, and the remaining eighteen **804 billion** as one unsplit aggregate. The **75B seven-route migration** is internal with zero net planet headcount. Old five-class and 14+23 census categories were superseded. Read the [active NCCM V6.5 model](./asthortera-nccm-v6-active-cross-domain.md).
+
 - **Notable Characteristic:** Asthortera is the primary destination for immigrants across the galaxy, known for its exceptionally high standard of living and balanced civilization, attracting those seeking long-term prosperity and development.
 
 ---
@@ -75,4 +93,3 @@ The racial composition of each planet reflects its function and aesthetic in the
 - **Cistheta** embodies precision, order, and a futuristic collectivism rooted in ancestral honor.
 
 Each planet has a different distribution, but all tie back into the larger cosmic balance of the Astralis and the threat of Nytherion.
-

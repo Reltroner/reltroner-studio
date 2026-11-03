@@ -3,7 +3,7 @@ title: "Krisberia — The Crystalline Civilization of Craftsmanship"
 description: "A high-development, historically peaceful Eastern Asthorteran nation of crystal materials, precision craft, design ethics and artisan diplomacy, with unconditionally ratified 2320 BAC founding and NCCM V6 sectoral modeling."
 author: "Reltroner Studio"
 date: "2026-10-30"
-lastUpdated: "2026-10-30"
+lastUpdated: "2026-11-01"
 published: false
 canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remain unassigned"
 world: "Asthortera"
@@ -28,18 +28,19 @@ tags:
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **58 billion** |
+| Share of Asthortera's 4,412B residents | **1.3146%** |
 | National SDI | **0.955** |
 | SDI individual capability component | 0.9560 |
 | SDI institutional quality component | 0.9535 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.72** |
 | Real GDP growth (Year 0, C) | **3.90%** |
-| Annual nominal GDP (Model B, C) | **USD 9.545129098321e+20** |
+| Annual nominal GDP (Canon C) | **USD 9.545129098321e+20** |
 | National share of planetary GDP | **0.844898%** |
 | GDP per resident per year | **USD 16.457119 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 16.457119 billion** |
 | Local currency / reference quotation | **KRF** / USD 86.20 per unit |
-| Land area | **Unassigned** |
+| Land area | **75 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -51,23 +52,45 @@ tags:
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **Unassigned (not zero)** |
-| Cistheta | **Unassigned (not zero)** |
-| Cosmeilian | **Unassigned (not zero)** |
-| Native Asthorteran | **Unassigned (not zero)** |
-| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** |
-| Other | **Unassigned (not zero)** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cistheta | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cosmeilian | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Native Asthorteran | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Other | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| **Total primary residents** | **Not calculated** | **Unassigned** |
 
-**Scope:** This country has no ratified six-class *whole-country ancestry percentage* in the current ledger. Known migrant cohorts carry their source classification; they do not determine the ancestry percentages of the entire recipient country.
+**Scope:** Five added countries have no ratified countrywide six-class ancestry proportions. Neither the planetary ancestry reference nor the retired population-balancing worksheet determines those local percentages. Derived category headcounts remain unassigned, not zero.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **73%** |
+| Active built urban | **10%** |
+| Operational low/biological-zero built urban | **10%** |
+| Dormant built urban | **7%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **73%** | **42.34** |
+| Underground | **19%** | **11.02** |
+| Underwater | **2%** | **1.16** |
+| Floating | **6%** | **3.48** |
+| **Total primary residents** | **100%** | **58.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Crystal craftsmanship and advanced materials. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 internal migration provenance (1 routes):**
-- Lenternow → Krisberia: **10 billion** residents (origin primary ancestry preserved)
-
+**Productive specialization:** Crystal craftsmanship and advanced materials. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Sector value-added composition (C):**
 - Advanced crystals and materials: **35%**
 - Craftsmanship and luxury goods: **27%**
@@ -75,20 +98,43 @@ tags:
 - Finance and professional services: **14%**
 - Other sectors: **6%**
 
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Krisberia · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **58 billion** residents; SDI **0.955**; TFR **1.72**; annual real GDP growth **3.90%**; nominal annual GDP (Model B) **USD 9.545129098321e+20**; GDP share **0.8449%** (approximately).
+> Current national anchors: **58 billion** residents; SDI **0.955**; TFR **1.72**; annual real GDP growth **3.90%**; nominal annual GDP (Canon C) **USD 9.545129098321e+20**; GDP share **0.8449%** (approximately); share of planetary residents **1.3146%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 16,457,119,135/year**, or approximately **KRF 190,917,855/year** using the modeled **USD 86.20 per KRF** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **Unassigned (not zero)**; CPI: **Unassigned (not zero)**; income Gini: **Unassigned (not zero)**; national six-way primary ancestry: **Unassigned (not zero)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
-> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **58 billion** resident sentients (previously **48 billion**); 10B from Lenternow. National SDI remains **0.955**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 16.457 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Krisberia
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National identity and basic facts](#1-national-identity-and-basic-facts)
+- [2. Geography and the Reltronland–Krisberia frontier](#2-geography-and-the-reltronlandkrisberia-frontier)
+- [3. Historical lineage and the founding constraint](#3-historical-lineage-and-the-founding-constraint)
+- [5. The craftsmanship learning pathway](#5-the-craftsmanship-learning-pathway)
+- [6. Government, social responsibility and institutional ethics](#6-government-social-responsibility-and-institutional-ethics)
+- [7. NCCM V6 integrated economy](#7-nccm-v6-integrated-economy)
+- [8. Relations, exports and diplomacy](#8-relations-exports-and-diplomacy)
+- [9. Linguistic evolution and cultural autonomy](#9-linguistic-evolution-and-cultural-autonomy)
+- [10. Architecture and visual style](#10-architecture-and-visual-style)
+- [12. The Abyss of Comfort — proposed arc](#12-the-abyss-of-comfort--proposed-arc)
+- [13. Outstanding national-canon decisions](#13-outstanding-national-canon-decisions)
+- [14. Model boundaries and source precedence](#14-model-boundaries-and-source-precedence)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
+> **Year 0 national population reference (Canon C):** **58 billion** resident sentients; SDI **0.955**; modeled annual GDP/GNI per resident approximately **USD 16.457 billion**. This is a standing national census allocation, not a narrative of physical relocation. [Active ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
 # Krisberia — The Crystalline Civilization of Craftsmanship
@@ -110,6 +156,7 @@ Krisberia is described in a Reltronland border source as a **crystalline kingdom
 | Field | Current profile |
 |---|---|
 | Country | **Krisberia** |
+| National terrestrial land area (Year 0) | **75 million km² (Canon C, 2026-11-01)** |
 | Position | Southeastern part of Asthortera's **Eastern Continent** |
 | State characterization | **Crystalline kingdom** in existing border lore; formal governmental structure unresolved |
 | Civilizational specialization | Crystal and advanced materials, craftsmanship, high-quality manufacturing and luxury design |
@@ -122,7 +169,7 @@ Krisberia is described in a Reltronland border source as a **crystalline kingdom
 | Language lineage | **Aurastelian-derived** branch; specific national language name unresolved |
 | Existing special relationship | Peaceful eastern border with Reltronland's **Leastroper** province |
 | National flag and emblem | Proposed crystal facet; not yet separately canonized as the sovereign flag |
-| Currency | **KRF**, scenario; older legal source **KRB** requires explicit reconciliation |
+| Currency | **KRF**, sole active national currency code (Canon C) |
 | Working motto | *Precision Without Vanity. Beauty With Integrity* — proposed |
 
 **Krisberia was founded as a sovereign nation in 2320 BAC, unconditionally ratified by the creator on 2026-10-31.** No prior attainment of 100% territorial extent by Aurastelia or Astrostelia is required. Earlier conditions are superseded, not outstanding.
@@ -145,7 +192,7 @@ The established geographic model specifies a relationship among **Reltronepolis'
 - specialty manufacturing corridors connected to neighboring transport infrastructure;
 - residential cities with sustainable sourcing and ecological impact controls.
 
-Geological composition, mineral reserves, mapped deposits, national area, coastline and exact terrain remain undetermined. A glowing gemstone aesthetic alone cannot establish extractable resources or magical properties.
+Geological composition, mineral reserves, mapped deposits, coastline and exact terrain remain undetermined. **National terrestrial land area is 75 million km² (Canon C, 2026-11-01)**, although the border polygon is not digitized. A glowing gemstone aesthetic alone cannot establish extractable resources or magical properties.
 
 ### Kistalia — proposed national center of crystal craftsmanship
 
@@ -232,7 +279,7 @@ The Eastern **non-theological civic tradition** can guide state legitimacy witho
 
 ## 7. NCCM V6 integrated economy
 
-**Model status.** The NCCM V6.5 five-country allocation is a **creator-ratified canon C national modeled baseline**, not an independently completed national statistical survey. The creator adopted **Integrated Income-Output Uplift (Model B)**: planet GDP and GNI nominal level rise 10× while national percentage GDP contributions remain unchanged. National CPI inflation does not thereby become 900%. The model's planet totals remain **4,412 billion unique sentients, 37 sovereign countries, SDI 0.947**, and planetary TFR **1.63**.
+**Model status.** The NCCM V6.5 five-country allocation is a **creator-ratified canon C national modeled baseline**, not an independently completed national statistical survey. The creator adopted **ratified integrated production-and-income baseline**: planet GDP and GNI nominal level rise 10× while national percentage GDP contributions remain unchanged. National CPI inflation does not thereby become 900%. The model's planet totals remain **4,412 billion unique sentients, 37 sovereign countries, SDI 0.947**, and planetary TFR **1.63**.
 
 | Metric | Ratified NCCM V6.5 Year 0 model (C where assigned) | Interpretation |
 |---|---:|---|
@@ -246,14 +293,14 @@ The Eastern **non-theological civic tradition** can guide state legitimacy witho
 | Nominal annual GDP after 10× uplift | **approximately USD 0.9545 × 10²¹** | Provisional output allocation |
 | Annual GDP/head | **approximately USD 16.457 billion** | Derived proxy from GDP / population |
 | Annual GNI/head | **approximately USD 16.457 billion** | Assumes net foreign primary income = zero |
-| V6 proposed currency code | **KRF** | Subject to legacy-code reconciliation |
+| Current currency code (Canon C) | **KRF** | Sole active national identifier |
 | Proposed FX quotation | **1 KRF = USD 86.20** | Hypothetical, not historical market quotation |
 | Illustrative local GNI/head | **approximately 190.92 million KRF/year** | Derived via proposed FX |
 | National census ancestry / Phantomkind rate | **Open** | Do not copy 14-country planetary representative distribution into national statistics |
 | National total fertility rate (Year 0 C) | **1.72** | Ratified modeled TFR; cohort data unassigned |
 | National median age and life expectancy | **Unassigned** | No invented demographic measurements |
 | Annual CPI, income Gini, unemployment, carbon | **Open** | No invented measured figures |
-| National land area | **Open** | Map provides geography, not verified km² |
+| National land area | **75 million km²** | Creator-ratified terrestrial footprint (Canon C); exact polygon remains open |
 
 The modeled SDI identity is **0.60 × 0.9560 + 0.40 × 0.9535 = 0.955**. This gives a conceptually consistent individual/institution split, **not** an independently observed microdata result.
 
@@ -279,7 +326,7 @@ The total is **100% gross value added**. These percentages do **not** describe s
 - **Currency:** an expensive nominal currency unit alone does not demonstrate higher real purchasing power or welfare.
 - **SDI:** represents individual capability and institutional conditions, not nationality-based biological superiority.
 
-**Legacy currency conflict:** the preceding FX discussion proposed **KRF** with **USD 86.20 per KRF**, while the existing [ALREO legal text](../laws/alreo.md) quotes wages in **KRB**. Until the creator establishes whether KRF supersedes KRB, represents a redenomination, or is a separate reporting code, **do not convert historical KRB contracts by treating them as KRF at parity**. Historical legal text must be preserved as an unresolved source discrepancy.
+**Currency code ratified (2026-10-31):** **KRF** is the sole active Krisberian code, also used in [ALREO](../laws/alreo.md). USD 86.20 per KRF is a canon model quotation, not independent evidence of actual FX, real wages or any historical conversion.
 
 **Resource cost:** mining and purification consume energy, labor and materials; a high market price and the country's peaceful diplomacy do not automatically ensure that extraction is sustainable.
 
@@ -361,9 +408,9 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 
 1. Research the earliest Aurastelian migration and the initial rise of independent Krisberian craft institutions; **2320 BAC is already finalized** and needs no prerequisite.
 2. Name the actual capital, formal government system and the relationship between the kingdom title and constitutional accountability.
-3. Decide whether the national currency is **KRF**, **KRB**, or a documented redenomination/legacy code arrangement.
+3. **Resolved:** KRF is the sole active national currency; market FX and purchasing power remain to be measured.
 4. Create the national six-category ancestry table, species-aware longevity, cohort model and local demographic series.
-5. Establish geology, modern land area, reserve extraction rules and national density.
+5. Establish geology, reserve extraction rules, national border polygons and settlement density without changing the ratified 75 million km² terrestrial area.
 6. Derive actual GDP through materials supply chains and services while preserving the NCCM V6 macro contribution target.
 7. Preserve the **4% founding territory**, **28% 1125–1121 territory**, **nonbelligerence**, and Leastroper sovereignty boundary.
 
@@ -377,9 +424,9 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 | Sovereign foundation 2320 BAC | **Canon C — unconditional**, no Aurastelia/Astrostelia territorial prerequisite |
 | Distinct cultural and economic identity | Worldbuilding identity developed from existing source motifs |
 | Population, SDI, GDP and sector percentages | NCCM V6.5 national canon C modeled values; not empirical microdata |
-| Currency codes and exchange-rate assignments | Explicit crosswalk needed against legacy records |
+| Currency code and modeled FX | **KRF** active Canon C; observed FX and real wages open |
 | Named new ministries, administrative districts and slogans | Development proposals only |
-| Unpublished national ancestry, land area and vital statistics | Unassigned: do not fabricate |
+| Unpublished national ancestry and vital statistics | Unassigned: do not fabricate; terrestrial area **75 million km² Canon C** |
 | 18 remaining unprofiled countries | Remain in unchanged combined residual after allocation of five nations |
 
 **World-scale accounting:** The original 14 profiled countries now contain **3,213 billion** people after internal migration. The five additional Eastern countries now contain **395 billion combined**, leaving **804 billion in 18 other countries**. Krisberia is part of these **five**, not a 38th country. Planetary six-category primary ancestry is represented for now by the original 14-country population-weighted shares; that planetary proxy does **not** establish Krisberia's local ancestry percentages.

@@ -38,13 +38,14 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **205 billion** |
+| Share of Asthortera's 4,412B residents | **4.6464%** |
 | National SDI | **0.931** |
 | SDI individual capability component | 0.9286 |
 | SDI institutional quality component | 0.9346 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.50** |
 | Real GDP growth (Year 0, C) | **4.44%** |
-| Annual nominal GDP (Model B, C) | **USD 3.221292457239e+21** |
+| Annual nominal GDP (Canon C) | **USD 3.221292457239e+21** |
 | National share of planetary GDP | **2.851362%** |
 | GDP per resident per year | **USD 15.713622 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 15.713622 billion** |
@@ -61,34 +62,80 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **43%** |
-| Cistheta | **30%** |
-| Cosmeilian | **13%** |
-| Native Asthorteran | **10%** |
-| Phantomkind / Spiritual Hybrid | **2%** |
-| Other | **2%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **43%** | **88.150** |
+| Cistheta | **30%** | **61.500** |
+| Cosmeilian | **13%** | **26.650** |
+| Native Asthorteran | **10%** | **20.500** |
+| Phantomkind / Spiritual Hybrid | **2%** | **4.100** |
+| Other | **2%** | **4.100** |
+| **Total primary residents** | **100%** | **205.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 205.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **65%** |
+| Active built urban | **10%** |
+| Operational low/biological-zero built urban | **14%** |
+| Dormant built urban | **11%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **72%** | **147.60** |
+| Underground | **20%** | **41.00** |
+| Underwater | **2%** | **4.10** |
+| Floating | **6%** | **12.30** |
+| **Total primary residents** | **100%** | **205.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Automotive engineering, roads, transport mobility. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Automotive engineering, roads, transport mobility. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Moreg · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **205 billion** residents; SDI **0.931**; TFR **1.50**; annual real GDP growth **4.44%**; nominal annual GDP (Model B) **USD 3.221292457239e+21**; GDP share **2.8514%** (approximately).
+> Current national anchors: **205 billion** residents; SDI **0.931**; TFR **1.50**; annual real GDP growth **4.44%**; nominal annual GDP (Canon C) **USD 3.221292457239e+21**; GDP share **2.8514%** (approximately); share of planetary residents **4.6464%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 15,713,621,743/year**, or approximately **MG 293,164,585/year** using the modeled **USD 53.60 per MG** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **251 years**; CPI: **0.37%**; income Gini: **0.330**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Moreg
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [The Moreg Driftwar](#the-moreg-driftwar)
+- [II. NATIONAL PHILOSOPHY](#ii-national-philosophy)
+- [Motogenix](#motogenix-1)
+- [Motostrata](#motostrata)
+- [Vehicular AI Spirit](#vehicular-ai-spirit)
+- [XIV. EDUCATION](#xiv-education)
+- [XVIII. MYTHOLOGY AND SPIRITUALITY](#xviii-mythology-and-spirituality)
+- [XXI. AI-ANTI ABYSS TRANSPORT CORPS](#xxi-ai-anti-abyss-transport-corps)
+- [XXIV. DRIFT-ABYSS TECH SYNDICATES](#xxiv-drift-abyss-tech-syndicates)
+- [Project Roadglass](#project-roadglass)
+- [XXX. THEMATIC RELATIONSHIP WITH NYTHERION](#xxx-thematic-relationship-with-nytherion)
+- [XXXIV. NATIONAL STATEMENT](#xxxiv-national-statement)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 > **Creator-ratified national founding (2026-10-31): 1713 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** independent Cenrestieran transport entrepreneurs, not the Cenrestier state, established mass manufacturing on favorable Moreg-border geography with suitable raw materials, then required public infrastructure and locally legitimate institutions; Cosmeilian protection of the earlier sparsely inhabited area is not a colonial government. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
@@ -1937,4 +1984,3 @@ Let Moreg’s asphalt veins roar across Asthortera. 🛣️🏎️
 | Education/learning access index | **0.939*** | Synthetic institutional proxy, not observed |
 
 **Editorial rule:** Candidate benchmark estimates help compare the 14 countries in a common AUC/USD frame but do **not** supersede this nation's source-canonical population, SDI, historical institutions, ancestry, national currency, or independently stated financial figures. The [single 14-country comparative matrix](../statistics/asthortera-14-country-cross-domain-v3.md), its [JSON model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md) govern reproducibility and future ratification.
-

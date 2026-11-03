@@ -20,13 +20,14 @@ region: "Eastern and southeastern scientific-industrial belt of the eastern cont
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **242 billion** |
+| Share of Asthortera's 4,412B residents | **5.4850%** |
 | National SDI | **0.954** |
 | SDI individual capability component | 0.9496 |
 | SDI institutional quality component | 0.9606 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.75** |
 | Real GDP growth (Year 0, C) | **4.39%** |
-| Annual nominal GDP (Model B, C) | **USD 5.430352970462e+21** |
+| Annual nominal GDP (Canon C) | **USD 5.430352970462e+21** |
 | National share of planetary GDP | **4.806736%** |
 | GDP per resident per year | **USD 22.439475 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 22.439475 billion** |
@@ -43,34 +44,80 @@ region: "Eastern and southeastern scientific-industrial belt of the eastern cont
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **54%** |
-| Cistheta | **25%** |
-| Cosmeilian | **12%** |
-| Native Asthorteran | **5%** |
-| Phantomkind / Spiritual Hybrid | **2%** |
-| Other | **2%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **54%** | **130.680** |
+| Cistheta | **25%** | **60.500** |
+| Cosmeilian | **12%** | **29.040** |
+| Native Asthorteran | **5%** | **12.100** |
+| Phantomkind / Spiritual Hybrid | **2%** | **4.840** |
+| Other | **2%** | **4.840** |
+| **Total primary residents** | **100%** | **242.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 242.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **64%** |
+| Active built urban | **11%** |
+| Operational low/biological-zero built urban | **13%** |
+| Dormant built urban | **12%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **77%** | **186.34** |
+| Underground | **17%** | **41.14** |
+| Underwater | **2%** | **4.84** |
+| Floating | **4%** | **9.68** |
+| **Total primary residents** | **100%** | **242.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Biotechnology, medicine, chemistry, applied research. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Biotechnology, medicine, chemistry, applied research. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Taramistry · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **242 billion** residents; SDI **0.954**; TFR **1.75**; annual real GDP growth **4.39%**; nominal annual GDP (Model B) **USD 5.430352970462e+21**; GDP share **4.8067%** (approximately).
+> Current national anchors: **242 billion** residents; SDI **0.954**; TFR **1.75**; annual real GDP growth **4.39%**; nominal annual GDP (Canon C) **USD 5.430352970462e+21**; GDP share **4.8067%** (approximately); share of planetary residents **5.4850%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 22,439,475,085/year**, or approximately **TAR 225,749,246/year** using the modeled **USD 99.40 per TAR** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **252 years**; CPI: **0.41%**; income Gini: **0.320**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Taramistry
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. Deterministic Canon Logic](#1-deterministic-canon-logic)
+- [4. National Identity](#4-national-identity)
+- [6. Manifestations of Synthetism](#6-manifestations-of-synthetism)
+- [9. Urban Centers](#9-urban-centers)
+- [12. Education System](#12-education-system)
+- [15. Economic Sectors](#15-economic-sectors)
+- [17. Statistical Overview](#17-statistical-overview)
+- [20. National Symbols](#20-national-symbols)
+- [23. Ethics and Public Trust](#23-ethics-and-public-trust)
+- [26. Foreign Relations](#26-foreign-relations)
+- [28. National Narrative Role in Asthortera](#28-national-narrative-role-in-asthortera)
+- [ARCHIVED — NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)](#archived--nccm-v3--cross-domain-benchmark-2026-10-30-development-material)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 ![taramistry1](/images/taramistry7.webp)
 ![taramistry2](/images/taramistry6.webp)
@@ -734,7 +781,7 @@ The Cisthetan population contributes technocultural sophistication, while native
 
 ## 18. By Daily Expenditure
 
-**Archived, noncanonical expenditure-tier illustration:** the original spending tiers were calibrated to TAR 2,256,740/year (TAR 6,183/day), now superseded for GNI. NCCM V6.5 C yields **TAR 225,749,246/resident/year**, about **TAR 618,491/day** as an income-output accounting ratio. The bands are not a ratified household spending census and must not be multiplied automatically by the Model B uplift.
+**Archived, noncanonical expenditure-tier illustration:** the original spending tiers were calibrated to TAR 2,256,740/year (TAR 6,183/day), now superseded for GNI. NCCM V6.5 C yields **TAR 225,749,246/resident/year**, about **TAR 618,491/day** as an income-output accounting ratio. The bands are not a ratified household spending census and must not be multiplied automatically by the ratified accounting baseline uplift.
 
 The bands below describe **daily personal expenditure capacity**, not total daily income. In a high-SDI scientific society like Taramistry, citizens often allocate large portions of income into taxes, research funds, healthcare systems, savings, education contributions, patent pools, and institutional investment. Therefore, daily expenditure should be high enough to reflect national prosperity, but not identical to total income.
 
@@ -1150,4 +1197,3 @@ Taramistry's conflicts are high-development conflicts: merit pressure, citation 
 | Education access index | **0.962** | Synthetic learning-opportunity proxy, not surveyed |
 
 **Scope and editorial precedence:** These filled-in values support **comparison and decision-making**, not a claim that every country's local nominal GDP, GNI, real exchange rate, cohort life table or SDI microdata has been historically measured. Existing local-currency GDP/GNI, national sovereignty, aesthetic identity and the official SDI headline take precedence over any candidate field. Cross-domain reporting uses the single [14-country matrix](../statistics/asthortera-14-country-cross-domain-v3.md), the [machine-readable V3 model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and the [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md). Never silently promote a modeled candidate to published canon.
-

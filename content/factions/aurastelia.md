@@ -16,13 +16,14 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **164 billion** |
+| Share of Asthortera's 4,412B residents | **3.7171%** |
 | National SDI | **0.970** |
 | SDI individual capability component | 0.9760 |
 | SDI institutional quality component | 0.9610 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.95** |
 | Real GDP growth (Year 0, C) | **3.75%** |
-| Annual nominal GDP (Model B, C) | **USD 4.099016570553e+21** |
+| Annual nominal GDP (Canon C) | **USD 4.099016570553e+21** |
 | National share of planetary GDP | **3.628289%** |
 | GDP per resident per year | **USD 24.994003 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 24.994003 billion** |
@@ -39,34 +40,80 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **5%** |
-| Cistheta | **7%** |
-| Cosmeilian | **80%** |
-| Native Asthorteran | **4%** |
-| Phantomkind / Spiritual Hybrid | **1%** |
-| Other | **3%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **5%** | **8.200** |
+| Cistheta | **7%** | **11.480** |
+| Cosmeilian | **80%** | **131.200** |
+| Native Asthorteran | **4%** | **6.560** |
+| Phantomkind / Spiritual Hybrid | **1%** | **1.640** |
+| Other | **3%** | **4.920** |
+| **Total primary residents** | **100%** | **164.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 164.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **84%** |
+| Active built urban | **6%** |
+| Operational low/biological-zero built urban | **6%** |
+| Dormant built urban | **4%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **83%** | **136.12** |
+| Underground | **12%** | **19.68** |
+| Underwater | **1%** | **1.64** |
+| Floating | **4%** | **6.56** |
+| **Total primary residents** | **100%** | **164.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Cosmeilian culture, wellness, aurora and resonance systems. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Cosmeilian culture, wellness, aurora and resonance systems. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Aurastelia · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **164 billion** residents; SDI **0.970**; TFR **1.95**; annual real GDP growth **3.75%**; nominal annual GDP (Model B) **USD 4.099016570553e+21**; GDP share **3.6283%** (approximately).
+> Current national anchors: **164 billion** residents; SDI **0.970**; TFR **1.95**; annual real GDP growth **3.75%**; nominal annual GDP (Canon C) **USD 4.099016570553e+21**; GDP share **3.6283%** (approximately); share of planetary residents **3.7171%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 24,994,003,479/year**, or approximately **ALC 246,489,186/year** using the modeled **USD 101.40 per ALC** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **254 years**; CPI: **0.24%**; income Gini: **0.230**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Aurastelia
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🌷 1. Core Identity](#-1-core-identity)
+- [🧬 2. Demographic Composition](#-2-demographic-composition)
+- [🗺️ 3. Geography & Landmark Features](#️-3-geography--landmark-features)
+- [🏙️ 4. Major Cities](#️-4-major-cities)
+- [🧘 5. Social & Cultural Life](#-5-social--cultural-life)
+- [🧠 6. Governance & Political Structure](#-6-governance--political-structure)
+- [✨ 8. Philosophy and Intergalactic Role](#-8-philosophy-and-intergalactic-role)
+- [📊 9. Indexes & Indicators](#-9-indexes--indicators)
+- [🔬 10. Psychological Effects on Visitors](#-10-psychological-effects-on-visitors)
+- [🎴 11. Cultural Fabric of Aurastelia](#-11-cultural-fabric-of-aurastelia)
+- [📜 12. Quotes from Queen Valethra](#-12-quotes-from-queen-valethra)
+- [🌌 Aurastelia Olympic Doctrine](#-aurastelia-olympic-doctrine)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 ![aurastelia1](/images/aurastelia1.webp)
 ![aurastelia2](/images/aurastelia2.webp)
@@ -1428,4 +1475,3 @@ RESILIENT INTERCIVILIZATIONAL RELATIONSHIP
 | Education access index | **0.978** | Synthetic learning-opportunity proxy, not surveyed |
 
 **Scope and editorial precedence:** These filled-in values support **comparison and decision-making**, not a claim that every country's local nominal GDP, GNI, real exchange rate, cohort life table or SDI microdata has been historically measured. Existing local-currency GDP/GNI, national sovereignty, aesthetic identity and the official SDI headline take precedence over any candidate field. Cross-domain reporting uses the single [14-country matrix](../statistics/asthortera-14-country-cross-domain-v3.md), the [machine-readable V3 model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and the [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md). Never silently promote a modeled candidate to published canon.
-

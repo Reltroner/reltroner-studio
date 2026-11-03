@@ -32,18 +32,21 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **133 billion** |
+| Share of Asthortera's 4,412B residents | **3.0145%** |
 | National SDI | **0.925** |
 | SDI individual capability component | 0.9298 |
 | SDI institutional quality component | 0.9178 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.86** |
 | Real GDP growth (Year 0, C) | **3.58%** |
-| Annual nominal GDP (Model B, C) | **USD 1.760029211498e+21** |
+| Annual nominal GDP (Canon C) | **USD 1.760029211498e+21** |
 | National share of planetary GDP | **1.557909%** |
 | GDP per resident per year | **USD 13.233302 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 13.233302 billion** |
 | Local currency / reference quotation | **HB** / USD 44.20 per unit |
 | Land area | **39 million km²** |
+| Civilian/public underwater urban minimum z | **−1,000 m** (maximum inhabited underwater depth) |
+| Sovereign maritime jurisdiction minimum z | **−36,000 m** (not a civilian residential zone) |
 | Median age | **251 years** |
 | Period life expectancy | **465 years** |
 | Urbanization | **87.50%** |
@@ -55,34 +58,81 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **41%** |
-| Cistheta | **40%** |
-| Cosmeilian | **6%** |
-| Native Asthorteran | **8%** |
-| Phantomkind / Spiritual Hybrid | **3%** |
-| Other | **2%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **41%** | **54.530** |
+| Cistheta | **40%** | **53.200** |
+| Cosmeilian | **6%** | **7.980** |
+| Native Asthorteran | **8%** | **10.640** |
+| Phantomkind / Spiritual Hybrid | **3%** | **3.990** |
+| Other | **2%** | **2.660** |
+| **Total primary residents** | **100%** | **133.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 133.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **85%** |
+| Active built urban | **5%** |
+| Operational low/biological-zero built urban | **6%** |
+| Dormant built urban | **4%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **46%** | **61.18** |
+| Underground | **8%** | **10.64** |
+| Underwater | **42%** | **55.86** |
+| Floating | **4%** | **5.32** |
+| **Total primary residents** | **100%** | **133.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
+**Hargenbor:** 42% underwater usual residents (55.86 billion derived); permanent public civilian underwater homes **−1,000 to 0 m**; maritime sovereign jurisdiction extends to **−36,000 m**, but does not permit deep civilian residency.
 
 ### National production and population continuity
 
-**Productive specialization:** Maritime trade, ports, aquaculture, undersea engineering. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Maritime trade, ports, aquaculture, undersea engineering. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Hargenbor · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **133 billion** residents; SDI **0.925**; TFR **1.86**; annual real GDP growth **3.58%**; nominal annual GDP (Model B) **USD 1.760029211498e+21**; GDP share **1.5579%** (approximately).
+> Current national anchors: **133 billion** residents; SDI **0.925**; TFR **1.86**; annual real GDP growth **3.58%**; nominal annual GDP (Canon C) **USD 1.760029211498e+21**; GDP share **1.5579%** (approximately); share of planetary residents **3.0145%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 13,233,302,342/year**, or approximately **HB 299,395,981/year** using the modeled **USD 44.20 per HB** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **251 years**; CPI: **0.45%**; income Gini: **0.370**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Hargenbor
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🌍 General Information](#-general-information)
+- [🌊 Vertical Oceanic Sovereignty](#-vertical-oceanic-sovereignty)
+- [🌀 Core National Duality](#-core-national-duality)
+- [⚙️ Key Economic Sectors](#️-key-economic-sectors)
+- [🌌 Astralis–Nytherion State Polarity](#-astralisnytherion-state-polarity)
+- [🏙️ Major Cities in Hargenbor](#️-major-cities-in-hargenbor)
+- [🎵 Music and Atmosphere](#-music-and-atmosphere)
+- [⚔️ Three-Domain Fleet Structure](#️-three-domain-fleet-structure)
+- [🧩 Internal Political Factions](#-internal-political-factions)
+- [🔥 Key Plot Events in Hargenbor](#-key-plot-events-in-hargenbor)
+- [🧠 Civilizational Theme](#-civilizational-theme)
+- [Final Assessment](#final-assessment)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 > **Creator-ratified national founding (2026-10-31): 1984 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** Cosmeilian merchant sailors from the established Port of Astro Bay developed the coastal loop, fisheries, harbors, shipyards and maritime trade with already-founded Lenternow (2072 BAC); expansion demanded navigation law, maritime safety, resource management and independent state institutions. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
@@ -211,6 +261,10 @@ Its claimed oceanic depth extends:
 
 > **From 0 meters at sea level to approximately 36 kilometers below sea level.**
 
+**Civilian/public underwater urban habitation — Canon C (2026-11-01):** Permanent residential neighborhoods, family urban districts, schools, hospitality and publicly accessible civilian underwater cities are limited to the vertical corridor **z = 0 m through z = −1,000 m**, measured against local mean sea level. Natural daylight usually weakens well above the 1-km floor; civic habitats approaching the floor require engineered illumination. This is a **maximum permissible civilian depth**, not a claim that the entire corridor is permanently sunlit or habitable without pressure and life-support systems.
+
+The remaining depth down to **−36 km** stays within the existing maritime sovereignty framework for appropriately permitted naval, abyss-monitoring, scientific, infrastructural, transportation, and other **non-civilian-residential** purposes. Sovereignty and residence have separate spatial denominators. No permanent civilian town or public residential metropolis may be described below −1 km.
+
 This vertical sovereignty gives Hargenbor control over:
 
 * surface ports
@@ -238,7 +292,7 @@ Hargenbor’s underwater sovereignty is divided into several recognized depth la
 | ------------------ | ---------------: | -------------------- | -------------------------------------------------------------- |
 | Surface Layer      |              0 m | Sailor Surface       | Ports, ships, coastal tourism, naval patrol                    |
 | Coral Shelf        |   -1 m to -500 m | Coral Commonwealth   | Snorkeling, reef cities, aquaculture, marine education         |
-| Blue Descent       |  -500 m to -3 km | Midwater Corridor    | Submarine routes, underwater rail, marine logistics            |
+| Blue Descent       |  -500 m to -3 km | Midwater Corridor    | At −500 to −1,000 m: allowed civilian districts; below −1,000 m: non-residential transit, research and regulated logistics only |
 | Deep Blue Province |  -3 km to -12 km | Deepguard Zone       | Research bases, military surveillance, anomaly watch           |
 | Abyssal Province   | -12 km to -25 km | Abyssline Frontier   | Submarine bases, ancient ruins, abyssal extraction             |
 | Trench Crown       | -25 km to -36 km | Nytherion Watchfloor | Forbidden military zone, abyss monitoring, classified activity |
@@ -248,7 +302,7 @@ The deeper the layer, the less public Hargenbor becomes.
 
 The surface belongs to tourists, sailors, fishermen, and merchants.
 
-The middle depths belong to engineers, researchers, divers, submarine crews, and underwater citizens.
+The upper marine depths through **−1 km** support underwater civilian communities alongside engineers, researchers and divers. Below **−1 km**, sovereign deepwater layers serve authorized non-residential activities, including submarines, research operations and crews on bounded missions.
 
 The lowest depths belong to the navy, abyssal institutions, classified authorities, Henchoway networks, and Nytherion-linked strategic forces.
 
@@ -1922,4 +1976,3 @@ Between them lies one of the central tensions of Asthortera:
 | Education/learning access index | **0.933*** | Synthetic institutional proxy, not observed |
 
 **Editorial rule:** Candidate benchmark estimates help compare the 14 countries in a common AUC/USD frame but do **not** supersede this nation's source-canonical population, SDI, historical institutions, ancestry, national currency, or independently stated financial figures. The [single 14-country comparative matrix](../statistics/asthortera-14-country-cross-domain-v3.md), its [JSON model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md) govern reproducibility and future ratification.
-

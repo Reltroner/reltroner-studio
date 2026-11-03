@@ -21,13 +21,14 @@ coreTheme: "Civilization of Illumination"
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **174 billion** |
+| Share of Asthortera's 4,412B residents | **3.9438%** |
 | National SDI | **0.935** |
 | SDI individual capability component | 0.9334 |
 | SDI institutional quality component | 0.9374 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.70** |
 | Real GDP growth (Year 0, C) | **3.91%** |
-| Annual nominal GDP (Model B, C) | **USD 3.769176985130e+21** |
+| Annual nominal GDP (Canon C) | **USD 3.769176985130e+21** |
 | National share of planetary GDP | **3.336328%** |
 | GDP per resident per year | **USD 21.661937 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 21.661937 billion** |
@@ -44,43 +45,85 @@ coreTheme: "Civilization of Illumination"
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **25%** |
-| Cistheta | **28%** |
-| Cosmeilian | **38%** |
-| Native Asthorteran | **5%** |
-| Phantomkind / Spiritual Hybrid | **2%** |
-| Other | **2%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **25%** | **43.500** |
+| Cistheta | **28%** | **48.720** |
+| Cosmeilian | **38%** | **66.120** |
+| Native Asthorteran | **5%** | **8.700** |
+| Phantomkind / Spiritual Hybrid | **2%** | **3.480** |
+| Other | **2%** | **3.480** |
+| **Total primary residents** | **100%** | **174.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 174.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **62%** |
+| Active built urban | **14%** |
+| Operational low/biological-zero built urban | **13%** |
+| Dormant built urban | **11%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **74%** | **128.76** |
+| Underground | **13%** | **22.62** |
+| Underwater | **3%** | **5.22** |
+| Floating | **10%** | **17.40** |
+| **Total primary residents** | **100%** | **174.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Light engineering, phosphor resources, luminance exports. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 internal migration provenance (4 routes):**
-- Lenternow → Scenrepolia: **10 billion** residents (origin primary ancestry preserved)
-- Lenternow → Krisberia: **10 billion** residents (origin primary ancestry preserved)
-- Lenternow → Ethaptoria: **10 billion** residents (origin primary ancestry preserved)
-- Lenternow → Calespia: **10 billion** residents (origin primary ancestry preserved)
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Light engineering, phosphor resources, luminance exports. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Lenternow · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **174 billion** residents; SDI **0.935**; TFR **1.70**; annual real GDP growth **3.91%**; nominal annual GDP (Model B) **USD 3.769176985130e+21**; GDP share **3.3363%** (approximately).
+> Current national anchors: **174 billion** residents; SDI **0.935**; TFR **1.70**; annual real GDP growth **3.91%**; nominal annual GDP (Canon C) **USD 3.769176985130e+21**; GDP share **3.3363%** (approximately); share of planetary residents **3.9438%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 21,661,936,696/year**, or approximately **LNR 317,623,705/year** using the modeled **USD 68.20 per LNR** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **251 years**; CPI: **0.35%**; income Gini: **0.310**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Lenternow
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. Canon Resolution and Deterministic Logic](#1-canon-resolution-and-deterministic-logic)
+- [4. National Philosophy](#4-national-philosophy)
+- [7. Key Cities](#7-key-cities)
+- [10. Macroeconomic Profile](#10-macroeconomic-profile)
+- [13. Top Exports](#13-top-exports)
+- [16. Illuminary Bonds](#16-illuminary-bonds)
+- [18. Energy and Infrastructure](#18-energy-and-infrastructure)
+- [21. Government and Ideology — Bicameral Lenternokratia](#21-government-and-ideology--bicameral-lenternokratia)
+- [24. Tourism and Nightscape Civilization](#24-tourism-and-nightscape-civilization)
+- [27. Conflict System and Blind Spots](#27-conflict-system-and-blind-spots)
+- [30. National Character](#30-national-character)
+- [33. One-Line Canon Lock](#33-one-line-canon-lock)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 > **Creator-ratified national founding (2026-10-31): 2072 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** discovery of extraordinarily rich illumination materials and anti-resource-curse domestic refining and manufacturing; industrial complexity demanded safety, fiscal, labor, research and civic institutions; regional Cosmeilian stewardship predates sovereignty; Lenternow then served as manufacturing partner to later-founded Hargenbor. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
-> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **174 billion** resident sentients (previously **214 billion**); 10B to Scenrepolia; 10B to Krisberia; 10B to Ethaptoria; 10B to Calespia. National SDI remains **0.935**. The donor's six primary ancestry percentages remain unchanged; exported cohorts preserve these source proportions. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 21.662 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+> **Year 0 national population reference (Canon C):** **174 billion** resident sentients; SDI **0.935**; modeled annual GDP/GNI per resident approximately **USD 21.662 billion**. This is a standing national census allocation, not a narrative of physical relocation. [Active ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
 ![lenternow1](/images/lenternow1.webp)
@@ -160,8 +203,8 @@ The following elements remain canon and are not removed:
 
 The final 2026 upgrade adds the following elements:
 
-- **Current Year 0 GDP:** LNR 5.526652470865e+19 / USD 3.769176985130e+21 (NCCM V6.5 C); LNR 182 quadrillion is a legacy pre-migration baseline.
-- **Current Year 0 GDP/GNI per resident:** LNR 317,623,705/year; LNR 850,467 was an archived pre-migration figure.
+- **Current Year 0 GDP:** LNR 5.526652470865e+19 / USD 3.769176985130e+21 (NCCM V6.5 C); LNR 182 quadrillion is a legacy older-vintage baseline.
+- **Current Year 0 GDP/GNI per resident:** LNR 317,623,705/year; LNR 850,467 was an archived older-vintage figure.
 - **Lumen Sovereign Fund:** $LNR 41 trillion in assets.
 - **Sentient Development Index:** 0.935.
 - **Lumen Quality Index:** 9.6 / 10.
@@ -184,7 +227,7 @@ The final 2026 upgrade adds the following elements:
 
 The 2026 macroeconomic figures are corrected for internal mathematical consistency.
 
-The **pre-migration national source anchors** were **214 billion sentients** and **LNR 182 quadrillion annual GDP**. The example below is preserved only as **V6.1 historical arithmetic**, not the current V6.2 census or fully converted USD income-output ledger. The GDP-per-capita figure is a **derived national statistic**, so it must be recalculated from those two anchors rather than independently set:
+The **archived national source anchors** were **214 billion sentients** and **LNR 182 quadrillion annual GDP**. The example below is preserved only as **V6.1 historical arithmetic**, not the current Year 0 census or fully converted USD income-output ledger. The GDP-per-capita figure is a **derived national statistic**, so it must be recalculated from those two anchors rather than independently set:
 
 ```txt
 GDP per capita = LNR 182,000,000,000,000,000 / 214,000,000,000
@@ -1713,7 +1756,7 @@ Lenternow is more than a country of beautiful lights. It is a civilization that 
 <!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->
 > **V3 archive: superseded for Year 0.** The values below are kept as historical candidate provenance, not current statistics. The ratified NCCM V6.5 C national GDP is **USD 3.769176985130e+21**, TFR **1.70**, real growth **3.91%**, and SDI **0.935**. The current model remains distinct from independently observed demographic cohorts or deflated real production accounts.
 
-**NCCM V6.2 migration-adjusted national anchors:** **174 billion** Year 0 residents (214B in the archived pre-migration census), **117 million km²** land, and national **SDI 0.935**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
+**Current Year 0 national anchors (Canon C):** **174 billion** residents, **117 million km²** terrestrial land, **SDI 0.935**. The current ledger is the authoritative source of the national population allocation.
 
 **Scenario-calibrated cross-domain estimates — NOT authoritative national census results:**
 
@@ -1735,4 +1778,3 @@ Lenternow is more than a country of beautiful lights. It is a civilization that 
 | Education access index | **0.943** | Synthetic learning-opportunity proxy, not surveyed |
 
 **Scope and editorial precedence:** These filled-in values support **comparison and decision-making**, not a claim that every country's local nominal GDP, GNI, real exchange rate, cohort life table or SDI microdata has been historically measured. Existing local-currency GDP/GNI, national sovereignty, aesthetic identity and the official SDI headline take precedence over any candidate field. Cross-domain reporting uses the single [14-country matrix](../statistics/asthortera-14-country-cross-domain-v3.md), the [machine-readable V3 model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and the [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md). Never silently promote a modeled candidate to published canon.
-

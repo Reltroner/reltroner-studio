@@ -31,13 +31,14 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **279 billion** |
+| Share of Asthortera's 4,412B residents | **6.3237%** |
 | National SDI | **0.949** |
 | SDI individual capability component | 0.9462 |
 | SDI institutional quality component | 0.9532 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.82** |
 | Real GDP growth (Year 0, C) | **4.39%** |
-| Annual nominal GDP (Model B, C) | **USD 6.359027607447e+21** |
+| Annual nominal GDP (Canon C) | **USD 6.359027607447e+21** |
 | National share of planetary GDP | **5.628763%** |
 | GDP per resident per year | **USD 22.792214 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 22.792214 billion** |
@@ -54,34 +55,80 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **60%** |
-| Cistheta | **21%** |
-| Cosmeilian | **5%** |
-| Native Asthorteran | **6%** |
-| Phantomkind / Spiritual Hybrid | **2%** |
-| Other | **6%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **60%** | **167.400** |
+| Cistheta | **21%** | **58.590** |
+| Cosmeilian | **5%** | **13.950** |
+| Native Asthorteran | **6%** | **16.740** |
+| Phantomkind / Spiritual Hybrid | **2%** | **5.580** |
+| Other | **6%** | **16.740** |
+| **Total primary residents** | **100%** | **279.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 279.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **63%** |
+| Active built urban | **10%** |
+| Operational low/biological-zero built urban | **14%** |
+| Dormant built urban | **13%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **69%** | **192.51** |
+| Underground | **23%** | **64.17** |
+| Underwater | **3%** | **8.37** |
+| Floating | **5%** | **13.95** |
+| **Total primary residents** | **100%** | **279.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Aviation, airports, airspace, interstellar transit. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Aviation, airports, airspace, interstellar transit. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Pasgerflit · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **279 billion** residents; SDI **0.949**; TFR **1.82**; annual real GDP growth **4.39%**; nominal annual GDP (Model B) **USD 6.359027607447e+21**; GDP share **5.6288%** (approximately).
+> Current national anchors: **279 billion** residents; SDI **0.949**; TFR **1.82**; annual real GDP growth **4.39%**; nominal annual GDP (Canon C) **USD 6.359027607447e+21**; GDP share **5.6288%** (approximately); share of planetary residents **6.3237%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 22,792,213,647/year**, or approximately **PAS 248,011,030/year** using the modeled **USD 91.90 per PAS** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **252 years**; CPI: **0.36%**; income Gini: **0.320**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Pasgerflit
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. Canon Integrity Rules](#1-canon-integrity-rules)
+- [4. Designed Purpose: A Home for Aviation Enthusiasts](#4-designed-purpose-a-home-for-aviation-enthusiasts)
+- [6. Astralis Alignment](#6-astralis-alignment)
+- [9. Demographics](#9-demographics)
+- [11. National Values](#11-national-values)
+- [14. PAIA — Pasgerflit Aeropolis International Airport Hub](#14-paia--pasgerflit-aeropolis-international-airport-hub)
+- [16. Culture and Education](#16-culture-and-education)
+- [19. Sovereignty Forms Integration](#19-sovereignty-forms-integration)
+- [21. ComicBall Role and Media Identity](#21-comicball-role-and-media-identity)
+- [24. Relationship With Other Nations](#24-relationship-with-other-nations)
+- [26. National Quotes](#26-national-quotes)
+- [Final Canon Statement](#final-canon-statement)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 > **Creator-ratified national founding (2026-10-31): 1545 BAC.** This is the date of the nation's sovereign institutional foundation, not the first settlement or first discovery. **Historical cause:** an Astrostelian fleet bound for planet Cosmeilia emergency-landed in the region; coupled spacecraft-landing and ground-support bugs cascaded into a reliability crisis, prompting a deliberate, testable atmospheric-aviation/aerospace engineering reset, civil airfields, MRO, air-traffic standards and eventual sovereign aviation institutions; not Asthortera's first spaceflight. [Integrated four-country historical chronology](../events/cosmeilian-stewardship-four-industrial-foundings.md). [NCCM active founder-date ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
@@ -1743,4 +1790,3 @@ It turns movement into consciousness.
 | Education/learning access index | **0.957*** | Synthetic institutional proxy, not observed |
 
 **Editorial rule:** Candidate benchmark estimates help compare the 14 countries in a common AUC/USD frame but do **not** supersede this nation's source-canonical population, SDI, historical institutions, ancestry, national currency, or independently stated financial figures. The [single 14-country comparative matrix](../statistics/asthortera-14-country-cross-domain-v3.md), its [JSON model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md) govern reproducibility and future ratification.
-

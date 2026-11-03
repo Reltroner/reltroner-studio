@@ -29,18 +29,19 @@ tags:
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **84 billion** |
+| Share of Asthortera's 4,412B residents | **1.9039%** |
 | National SDI | **0.950** |
 | SDI individual capability component | 0.9530 |
 | SDI institutional quality component | 0.9455 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.73** |
 | Real GDP growth (Year 0, C) | **4.20%** |
-| Annual nominal GDP (Model B, C) | **USD 1.106496346475e+21** |
+| Annual nominal GDP (Canon C) | **USD 1.106496346475e+21** |
 | National share of planetary GDP | **0.979427%** |
 | GDP per resident per year | **USD 13.172576 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 13.172576 billion** |
 | Local currency / reference quotation | **EPT** / USD 61.40 per unit |
-| Land area | **Unassigned** |
+| Land area | **110 million km²** |
 | Median age | **Unassigned** |
 | Period life expectancy | **Unassigned** |
 | Urbanization | **Unassigned** |
@@ -52,24 +53,45 @@ tags:
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **Unassigned (not zero)** |
-| Cistheta | **Unassigned (not zero)** |
-| Cosmeilian | **Unassigned (not zero)** |
-| Native Asthorteran | **Unassigned (not zero)** |
-| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** |
-| Other | **Unassigned (not zero)** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cistheta | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Cosmeilian | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Native Asthorteran | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Phantomkind / Spiritual Hybrid | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| Other | **Unassigned (not zero)** | **Unassigned (not zero)** |
+| **Total primary residents** | **Not calculated** | **Unassigned** |
 
-**Scope:** This country has no ratified six-class *whole-country ancestry percentage* in the current ledger. Known migrant cohorts carry their source classification; they do not determine the ancestry percentages of the entire recipient country.
+**Scope:** Five added countries have no ratified countrywide six-class ancestry proportions. Neither the planetary ancestry reference nor the retired population-balancing worksheet determines those local percentages. Derived category headcounts remain unassigned, not zero.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **70%** |
+| Active built urban | **11%** |
+| Operational low/biological-zero built urban | **11%** |
+| Dormant built urban | **8%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **74%** | **62.16** |
+| Underground | **17%** | **14.28** |
+| Underwater | **4%** | **3.36** |
+| Floating | **5%** | **4.20** |
+| **Total primary residents** | **100%** | **84.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Combinatorial education and puzzle simulation. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 internal migration provenance (2 routes):**
-- Astrostelia → Ethaptoria: **15 billion** residents (origin primary ancestry preserved)
-- Lenternow → Ethaptoria: **10 billion** residents (origin primary ancestry preserved)
-
+**Productive specialization:** Combinatorial education and puzzle simulation. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
 **Sector value-added composition (C):**
 - Logic software and simulation: **32%**
 - Education and cognitive tools: **28%**
@@ -77,20 +99,43 @@ tags:
 - Experience and professional services: **13%**
 - Other sectors: **7%**
 
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Ethaptoria · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **84 billion** residents; SDI **0.950**; TFR **1.73**; annual real GDP growth **4.20%**; nominal annual GDP (Model B) **USD 1.106496346475e+21**; GDP share **0.9794%** (approximately).
+> Current national anchors: **84 billion** residents; SDI **0.950**; TFR **1.73**; annual real GDP growth **4.20%**; nominal annual GDP (Canon C) **USD 1.106496346475e+21**; GDP share **0.9794%** (approximately); share of planetary residents **1.9039%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 13,172,575,553/year**, or approximately **EPT 214,537,061/year** using the modeled **USD 61.40 per EPT** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **Unassigned (not zero)**; CPI: **Unassigned (not zero)**; income Gini: **Unassigned (not zero)**; national six-way primary ancestry: **Unassigned (not zero)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
 
-> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **84 billion** resident sentients (previously **59 billion**); 15B from Astrostelia; 10B from Lenternow. National SDI remains **0.950**. Arriving residents keep their country-of-origin ancestry; the destination's overall six-way census remains unassigned. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 13.173 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Ethaptoria
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National overview](#1-national-overview)
+- [2. Geography and settlements](#2-geography-and-settlements)
+- [3. History and national formation](#3-history-and-national-formation)
+- [4. Education and the culture of inquiry](#4-education-and-the-culture-of-inquiry)
+- [5. Politics and civic institutions](#5-politics-and-civic-institutions)
+- [6. Linguistic and cultural evolution](#6-linguistic-and-cultural-evolution)
+- [8. Regional partnerships and diplomatic relationships](#8-regional-partnerships-and-diplomatic-relationships)
+- [9. Risks, limits and ethical tradeoffs](#9-risks-limits-and-ethical-tradeoffs)
+- [10. The Abyss of Comfort — proposed narrative tension](#10-the-abyss-of-comfort--proposed-narrative-tension)
+- [11. National identity versus countryball characterization](#11-national-identity-versus-countryball-characterization)
+- [12. Cross-domain QA and future remodeling agenda](#12-cross-domain-qa-and-future-remodeling-agenda)
+- [13. Canon, provisional facts and source-of-truth distinctions](#13-canon-provisional-facts-and-source-of-truth-distinctions)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+
+> **Year 0 national population reference (Canon C):** **84 billion** resident sentients; SDI **0.950**; modeled annual GDP/GNI per resident approximately **USD 13.173 billion**. This is a standing national census allocation, not a narrative of physical relocation. [Active ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
 # Ethaptoria — The Civilization of Questions
@@ -126,7 +171,7 @@ The society must not be reduced to a population of identical geniuses or permane
 | Government | Sovereign civic institutions; exact official constitutional names **to be developed** |
 | Working motto | *A Problem Understood Is a Possibility Opened* — proposal |
 | State flag | Not yet formalized; the countryball jigsaw is an existing visual anchor, not proof of an official flag |
-| National land area | Undetermined; the existing 67% figure is a historical share of modern territory, not a measurement in km² |
+| National land area | **110 million km² — creator-ratified Canon C (2026-11-01)**; the historical 67% figure refers to territorial coverage, not an additional area |
 
 ### Epistemic foundation
 
@@ -247,7 +292,7 @@ This must not become a universal caricature: cities should retain ordinary homes
 
 ## 7. NCCM V6 national quantitative baseline
 
-The creator-approved **Integrated Income-Output Uplift (Model B)** increases the Year 0 harmonized nominal GDP and GNI levels by **10×** while preserving national GDP contribution percentages. **Neither the uplift nor a high nominal USD value is a 900% consumer-price inflation event.** Asthortera's Year 0 total stays at **4,412 billion distinct sentients** in **37 sovereign countries**, with planetary SDI **0.947** and planetary TFR **1.63**. The original fourteen statistically detailed nations plus five Eastern candidates sit inside that fixed set; no new population is created by profiling this country.
+The creator-approved **ratified integrated production-and-income baseline** increases the Year 0 harmonized nominal GDP and GNI levels by **10×** while preserving national GDP contribution percentages. **Neither the uplift nor a high nominal USD value is a 900% consumer-price inflation event.** Asthortera's Year 0 total stays at **4,412 billion distinct sentients** in **37 sovereign countries**, with planetary SDI **0.947** and planetary TFR **1.63**. The original fourteen statistically detailed nations plus five Eastern candidates sit inside that fixed set; no new population is created by profiling this country.
 
 These country-specific numeric estimates are the **creator-ratified NCCM V6.5 five-country national model C**. The creator accepted prior scenario/derived model classes in principle; the assigned five-country values are canonical within the model, **not separately reconstructed census observations**.
 
@@ -268,7 +313,7 @@ These country-specific numeric estimates are the **creator-ratified NCCM V6.5 fi
 | National ancestry percentages | **Not specified** | Do not copy a planetary weighted proxy into a local census |
 | National total fertility rate (Year 0 C) | **1.73** | Canon C modeled proxy, not independently surveyed |
 | National median age, CPI and Gini | **Unassigned** | No invented national measures |
-| National land area and population density | **Not specified** | Map cannot substitute for land-area survey |
+| National land area | **110 million km² (Canon C)** | Population-density modeling and habitat volume remain unassigned |
 
 The national SDI model is \`0.60 × 0.9530 + 0.40 × 0.9455 = 0.950\`. This is a calibrated component decomposition, not an independent measurement of every individual's cognitive capacity or every institution's quality.
 
@@ -352,7 +397,7 @@ National success requires balancing insight, action, accountability, public serv
 
 - Decide the **official capital** without assuming Enterinmech's cultural role proves administrative status.
 - Ratify any flag, national motto, language name, constitutional branches or ministries.
-- Establish national land area, ancestry, TFR, age pyramid, median age, urbanization and species-appropriate education indicators.
+- Model national ancestry, age pyramid, median age, urbanization, population-density denominator and species-appropriate education indicators; land area **110 million km²** and Year 0 TFR are already canon C.
 - Build real sectoral productivity, FX/PPP, trade, household income and budget series.
 - Distinguish **training simulation accuracy** from public-institution SDI quality.
 - Preserve the 2256–2243 BAC resolution and the **67% territorial** historical reference.
@@ -371,7 +416,7 @@ National success requires balancing insight, action, accountability, public serv
 | Quantitative population / SDI / GDP / sectors | NCCM V6.5 creator-ratified national modeled values (C) |
 | Currency name, proposed code and USD exchange rate | FX development scenario, requiring legacy-code crosswalk |
 | Undocumented constitutional titles and specific districts | Development proposals only |
-| National ancestry, other unassigned vital statistics and land area | **Unassigned**; the national TFR is already ratified C |
+| National ancestry and other unassigned vital statistics | **Unassigned**; national TFR and **110 million km²** terrestrial land area are canon C |
 | 18 other unprofiled nations | Remain within the unchanged combined residual of 804 billion people in the five-country model |
 
 The six-category planetary ancestry distribution is temporarily **represented by the population-weighted distribution of the original 14 nations**. It is **not** a statement that every citizen of Ethaptoria follows those exact percentages. Distinct nationality, citizenship, primary ancestry, inclusive lineage and personal appearance must not be collapsed into one label.

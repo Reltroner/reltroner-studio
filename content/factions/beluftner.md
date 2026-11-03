@@ -24,18 +24,19 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **91 billion** |
+| Share of Asthortera's 4,412B residents | **2.0626%** |
 | National SDI | **0.896** |
 | SDI individual capability component | 0.9020 |
 | SDI institutional quality component | 0.8870 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.80** |
 | Real GDP growth (Year 0, C) | **3.32%** |
-| Annual nominal GDP (Model B, C) | **USD 8.429475089776e+20** |
+| Annual nominal GDP (Canon C) | **USD 8.429475089776e+20** |
 | National share of planetary GDP | **0.746144%** |
 | GDP per resident per year | **USD 9.263159 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 9.263159 billion** |
 | Local currency / reference quotation | **BLF** / USD 22.00 per unit |
-| Land area | **88 million km²** |
+| Land area | **363 million km²** |
 | Median age | **249 years** |
 | Period life expectancy | **452 years** |
 | Urbanization | **72.00%** |
@@ -47,34 +48,80 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **0.2%** |
-| Cistheta | **0.5%** |
-| Cosmeilian | **2%** |
-| Native Asthorteran | **90.3%** |
-| Phantomkind / Spiritual Hybrid | **6%** |
-| Other | **1%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **0.2%** | **0.182** |
+| Cistheta | **0.5%** | **0.455** |
+| Cosmeilian | **2%** | **1.820** |
+| Native Asthorteran | **90.3%** | **82.173** |
+| Phantomkind / Spiritual Hybrid | **6%** | **5.460** |
+| Other | **1%** | **0.910** |
+| **Total primary residents** | **100%** | **91.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 91.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **87%** |
+| Active built urban | **4%** |
+| Operational low/biological-zero built urban | **5%** |
+| Dormant built urban | **4%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **82%** | **74.62** |
+| Underground | **12%** | **10.92** |
+| Underwater | **2%** | **1.82** |
+| Floating | **4%** | **3.64** |
+| **Total primary residents** | **100%** | **91.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Arcane education, magical agriculture, spiritual heritage. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Arcane education, magical agriculture, spiritual heritage. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Beluftner · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **91 billion** residents; SDI **0.896**; TFR **1.80**; annual real GDP growth **3.32%**; nominal annual GDP (Model B) **USD 8.429475089776e+20**; GDP share **0.7461%** (approximately).
+> Current national anchors: **91 billion** residents; SDI **0.896**; TFR **1.80**; annual real GDP growth **3.32%**; nominal annual GDP (Canon C) **USD 8.429475089776e+20**; GDP share **0.7461%** (approximately); share of planetary residents **2.0626%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 9,263,159,439/year**, or approximately **BLF 421,052,702/year** using the modeled **USD 22.00 per BLF** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **249 years**; CPI: **0.48%**; income Gini: **0.280**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Beluftner
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [🌍 General Information](#-general-information)
+- [🌌 National Overview](#-national-overview)
+- [🏛️ Civilization Philosophy](#️-civilization-philosophy)
+- [🧠 Cultural Identity](#-cultural-identity)
+- [🏙️ Major Cities](#️-major-cities)
+- [👥 Demographics](#-demographics)
+- [💰 Economy](#-economy)
+- [🚢 Major Exports](#-major-exports)
+- [⚔️ Military Doctrine](#️-military-doctrine)
+- [🌍 Foreign Relations](#-foreign-relations)
+- [Official National Motto](#official-national-motto)
+- [Civilizational Principle](#civilizational-principle)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 ![beluftnerball](/images/beluftnerball.webp)
 <video controls preload="metadata" playsinline style="width:100%; border-radius:16px;">
@@ -102,7 +149,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Official Language       | Beluftner National Language                                          |
 | Currency                | $BLF (Beluftnerian Enchantmark)                                      |
 | Population              | 91 Billion Sentients                                                 |
-| Territory               | 88 Million km²                                                       |
+| Territory               | 363 Million km²                                                       |
 | SDI                     | 0.896                                              |
 | National Archetype      | The Cradle Civilization                                              |
 | Civilization Type       | Ancient Arcane Civilization                                          |
@@ -617,7 +664,7 @@ Six-way primary ancestry is **0.2% Depeisit, 0.5% Cistheta, 2% Cosmeilian, 90.3%
 <!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->
 > **V3 archive: superseded for Year 0.** The values below are kept as historical candidate provenance, not current statistics. The ratified NCCM V6.5 C national GDP is **USD 8.429475089776e+20**, TFR **1.80**, real growth **3.32%**, and SDI **0.896**. The current model remains distinct from independently observed demographic cohorts or deflated real production accounts.
 
-**Unchanged canonical nation anchors:** **91 billion** residents, **88 million km²**, and **SDI 0.896**. Asthortera's **4.412 trillion** unique residents live in **37 countries**, and the **planet SDI is now 0.947**. Composite SDI integrates individual capabilities and institutional quality.
+**Current Canon C national anchors (area amended 2026-11-01):** **91 billion** residents, **363 million km²**, and **SDI 0.896**. The previous **88 million km²** was a superseded early-model footprint, not a current national area. Asthortera's **4.412 trillion** unique residents live in **37 countries**, and the **planet SDI is now 0.947**. Composite SDI integrates individual capabilities and institutional quality.
 
 **Completed cross-domain simulation columns — all asterisked figures are candidates, not independently measured national facts:**
 
@@ -640,4 +687,3 @@ Six-way primary ancestry is **0.2% Depeisit, 0.5% Cistheta, 2% Cosmeilian, 90.3%
 | Education/learning access index | **0.904*** | Synthetic institutional proxy, not observed |
 
 **Editorial rule:** Candidate benchmark estimates help compare the 14 countries in a common AUC/USD frame but do **not** supersede this nation's source-canonical population, SDI, historical institutions, ancestry, national currency, or independently stated financial figures. The [single 14-country comparative matrix](../statistics/asthortera-14-country-cross-domain-v3.md), its [JSON model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md) govern reproducibility and future ratification.
-

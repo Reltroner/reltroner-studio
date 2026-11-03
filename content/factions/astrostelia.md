@@ -31,13 +31,14 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **185 billion** |
+| Share of Asthortera's 4,412B residents | **4.1931%** |
 | National SDI | **0.957** |
 | SDI individual capability component | 0.9534 |
 | SDI institutional quality component | 0.9624 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.67** |
 | Real GDP growth (Year 0, C) | **4.17%** |
-| Annual nominal GDP (Model B, C) | **USD 5.259470604040e+21** |
+| Annual nominal GDP (Canon C) | **USD 5.259470604040e+21** |
 | National share of planetary GDP | **4.655478%** |
 | GDP per resident per year | **USD 28.429571 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 28.429571 billion** |
@@ -54,42 +55,85 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **9%** |
-| Cistheta | **16%** |
-| Cosmeilian | **64%** |
-| Native Asthorteran | **6%** |
-| Phantomkind / Spiritual Hybrid | **1%** |
-| Other | **4%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **9%** | **16.650** |
+| Cistheta | **16%** | **29.600** |
+| Cosmeilian | **64%** | **118.400** |
+| Native Asthorteran | **6%** | **11.100** |
+| Phantomkind / Spiritual Hybrid | **1%** | **1.850** |
+| Other | **4%** | **7.400** |
+| **Total primary residents** | **100%** | **185.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 185.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **67%** |
+| Active built urban | **12%** |
+| Operational low/biological-zero built urban | **12%** |
+| Dormant built urban | **9%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **76%** | **140.60** |
+| Underground | **17%** | **31.45** |
+| Underwater | **1%** | **1.85** |
+| Floating | **6%** | **11.10** |
+| **Total primary residents** | **100%** | **185.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Cosmology, orbital engineering, interstellar research. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 internal migration provenance (3 routes):**
-- Astrostelia → Scenrepolia: **10 billion** residents (origin primary ancestry preserved)
-- Astrostelia → Calespia: **10 billion** residents (origin primary ancestry preserved)
-- Astrostelia → Ethaptoria: **15 billion** residents (origin primary ancestry preserved)
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Cosmology, orbital engineering, interstellar research. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Astrostelia · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **185 billion** residents; SDI **0.957**; TFR **1.67**; annual real GDP growth **4.17%**; nominal annual GDP (Model B) **USD 5.259470604040e+21**; GDP share **4.6555%** (approximately).
+> Current national anchors: **185 billion** residents; SDI **0.957**; TFR **1.67**; annual real GDP growth **4.17%**; nominal annual GDP (Canon C) **USD 5.259470604040e+21**; GDP share **4.6555%** (approximately); share of planetary residents **4.1931%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 28,429,570,833/year**, or approximately **AAC 288,040,231/year** using the modeled **USD 98.70 per AAC** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **253 years**; CPI: **0.37%**; income Gini: **0.280**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Astrostelia
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. 🔌 Core Identity](#1--core-identity)
+- [3. 🌍 Geography and Natural Features](#3--geography-and-natural-features)
+- [5. ✨ Society and Culture](#5--society-and-culture)
+- [6. 🔬 Key Institutions and Wonders](#6--key-institutions-and-wonders)
+- [8. 🌌 Philosophical Stance](#8--philosophical-stance)
+- [10. 💠 The Astrostelian Economy](#10--the-astrostelian-economy)
+- [12. 🌌 Astrostelia as the Founding Soul of the Asthortera Space Command](#12--astrostelia-as-the-founding-soul-of-the-asthortera-space-command)
+- [14. 🌠 Strategic Implications](#14--strategic-implications)
+- [16. 🛡️ Position Relative to Reltronland Space Command](#16-️-position-relative-to-reltronland-space-command)
+- [17. 📈 Comparative Power Matrix](#17--comparative-power-matrix)
+- [19. 🌠 Strategic Triangle of Astrostelian Space Civilization](#19--strategic-triangle-of-astrostelian-space-civilization)
+- [21. Final National Position](#21-final-national-position)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 > **Cross-country founding continuity (creator-ratified 2026-10-31):** The independent aviation country **Pasgerflit was founded in 1545 BAC** following a large Astrostelian fleet's emergency landing on its sparsely settled future territory. A cascading failure in spacecraft landing-support infrastructure prompted the deliberately simpler, modular atmospheric-aviation engineering program that later seeded Pasgerflit's aviation economy. This does **not** make Pasgerflit a province of Astrostelia, nor does it make 1545 BAC the beginning of spaceflight on Asthortera. [Full founding synthesis](../events/cosmeilian-stewardship-four-industrial-foundings.md).
 
 
-> **NCCM V6.2 · Creator-approved Year 0 population update (2026-10-31).** **185 billion** resident sentients (previously **220 billion**); 10B to Scenrepolia; 10B to Calespia; 15B to Ethaptoria. National SDI remains **0.957**. The donor's six primary ancestry percentages remain unchanged; exported cohorts preserve these source proportions. Planet population **4,412 billion** and the frozen planet-wide six-category representative composition remain unchanged. Under this migration-only iteration, GDP and GDP shares are held constant; modeled GDP/GNI per inhabitant becomes approximately **USD 28.430 billion/year**. [Authoritative live ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and [cross-domain comparison](../statistics/asthortera-nccm-v6-active-cross-domain.md). Older figures below, if present, are **pre-migration historical reporting**, not current Year 0 population.
+> **Year 0 national population reference (Canon C):** **185 billion** resident sentients; SDI **0.957**; modeled annual GDP/GNI per resident approximately **USD 28.430 billion**. This is a standing national census allocation, not a narrative of physical relocation. [Active ledger](../../data/asthortera/nccm-v6-active-cross-domain.json).
 
 
 ![astrostelia1](/images/astrostelia1.webp)
@@ -1343,7 +1387,7 @@ It seeks to understand them, coexist with them, build responsibly among them, an
 <!-- NCCM_V65_ARCHIVED_V3_NOT_CURRENT -->
 > **V3 archive: superseded for Year 0.** The values below are kept as historical candidate provenance, not current statistics. The ratified NCCM V6.5 C national GDP is **USD 5.259470604040e+21**, TFR **1.67**, real growth **4.17%**, and SDI **0.957**. The current model remains distinct from independently observed demographic cohorts or deflated real production accounts.
 
-**NCCM V6.2 migration-adjusted national anchors:** **185 billion** Year 0 residents (220B in the archived pre-migration census), **216 million km²** land, and national **SDI 0.957**. Asthortera now has **4.412 trillion** residents, **37 sovereign countries**, and creator-ratified **planet SDI 0.947**. SDI means **average individual capacity combined with quality of institutions**; the exact relative weighting has not yet been ratified.
+**Current Year 0 national anchors (Canon C):** **185 billion** residents, **216 million km²** terrestrial land, **SDI 0.957**. The current ledger is the authoritative source of the national population allocation.
 
 **Scenario-calibrated cross-domain estimates — NOT authoritative national census results:**
 
@@ -1365,4 +1409,3 @@ It seeks to understand them, coexist with them, build responsibly among them, an
 | Education access index | **0.965** | Synthetic learning-opportunity proxy, not surveyed |
 
 **Scope and editorial precedence:** These filled-in values support **comparison and decision-making**, not a claim that every country's local nominal GDP, GNI, real exchange rate, cohort life table or SDI microdata has been historically measured. Existing local-currency GDP/GNI, national sovereignty, aesthetic identity and the official SDI headline take precedence over any candidate field. Cross-domain reporting uses the single [14-country matrix](../statistics/asthortera-14-country-cross-domain-v3.md), the [machine-readable V3 model](../../data/asthortera/nccm-v3-14-country-comparative-model.json), and the [SDI methodology](../statistics/asthortera-sdi-methodology-v3.md). Never silently promote a modeled candidate to published canon.
-

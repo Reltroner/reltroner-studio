@@ -26,13 +26,14 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 | Canonical Year 0 indicator | Value |
 |---|---:|
 | Resident sentients | **855 billion** |
+| Share of Asthortera's 4,412B residents | **19.3790%** |
 | National SDI | **0.984** |
 | SDI individual capability component | 0.9780 |
 | SDI institutional quality component | 0.9930 |
 | SDI model weights | **60% individual / 40% institutional** |
 | Total fertility rate (national, C) | **1.15** |
 | Real GDP growth (Year 0, C) | **4.01%** |
-| Annual nominal GDP (Model B, C) | **USD 4.744899868694e+22** |
+| Annual nominal GDP (Canon C) | **USD 4.744899868694e+22** |
 | National share of planetary GDP | **42.000000%** |
 | GDP per resident per year | **USD 55.495905 billion** |
 | GNI per resident (adopted zero-net-primary-income bridge) | **USD 55.495905 billion** |
@@ -49,34 +50,80 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 ### Exclusive primary ancestry, six categories (C)
 
-| Ancestry class | Share |
-|---|---:|
-| Depeisit | **64%** |
-| Cistheta | **22%** |
-| Cosmeilian | **4%** |
-| Native Asthorteran | **5%** |
-| Phantomkind / Spiritual Hybrid | **2%** |
-| Other | **3%** |
+| Ancestry class | National resident share | Derived residents (billions) |
+|---|---:|---:|
+| Depeisit | **64%** | **547.200** |
+| Cistheta | **22%** | **188.100** |
+| Cosmeilian | **4%** | **34.200** |
+| Native Asthorteran | **5%** | **42.750** |
+| Phantomkind / Spiritual Hybrid | **2%** | **17.100** |
+| Other | **3%** | **25.650** |
+| **Total primary residents** | **100%** | **855.000** |
 
-**Accounting check:** the six mutually exclusive primary shares sum to 100.00%. Mixed-lineage presence is a separate overlapping measure, not a seventh primary category.
+**Accounting check:** six mutually exclusive national primary shares sum to 100.00%; derived class headcounts sum to 855.000 billion. These are current-resident calculations, not a migration history. Inclusive mixed ancestry is an overlapping measure, not a seventh primary category.
+
+### NCCM V6.5 — Spatial 3D composition (Canon C, Year 0)
+
+**Terrestrial surface footprint — percent national land area (not built km³):**
+
+| Surface class | Share |
+|---|---:|
+| Natural low-intervention | **58%** |
+| Active built urban | **15%** |
+| Operational low/biological-zero built urban | **14%** |
+| Dormant built urban | **13%** |
+| **Total terrestrial land** | **100%** |
+
+**Principal home habitats — percent unique residents (not surface area or urbanization):**
+
+| Home habitat | Share | Derived residents (billion) |
+|---|---:|---:|
+| Land surface | **70%** | **598.50** |
+| Underground | **22%** | **188.10** |
+| Underwater | **2%** | **17.10** |
+| Floating | **6%** | **51.30** |
+| **Total primary residents** | **100%** | **855.00** |
+
+**Missing geometric measurements:** country polygons, occupied/constructed/habitable km³, marine habitat capacity and residence-by-depth remain **unassigned (not zero)**. A natural forest is not the same as an operational empty city.
 
 ### National production and population continuity
 
-**Productive specialization:** Aerospace, AI, high-rise infrastructure, knowledge systems. The Model B 10× integrated income-output baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
-**Year 0 migration:** no direct leg of the seven ratified Astrostelia–Lenternow redistribution routes enters or leaves this country.
-
-**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. The 75B internal movement adds no planet residents and does not alter global six-category ancestry. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
+**Productive specialization:** Aerospace, AI, high-rise infrastructure, knowledge systems. The ratified 10× integrated production-and-income baseline is adopted canon (C); GDP is value added (plus net product taxes), and GNI uses the adopted zero-net-foreign-primary-income bridge. A change in population denominator does not by itself create output or change household purchasing power.
+**Planet invariant:** **37 countries; 4,412 billion** unique sentients; **planet SDI 0.947; TFR 1.63; Year 0 real GDP growth 4.00%**. Populations: **14-country group 3,213B + five-country group 395B + 18-country aggregate 804B**. These current population totals do not establish any specific cross-border relocation event. The 18-country statistical residual is adopted canon C *only as one aggregate*, not 18 fabricated national censuses.
 
 **Precedence:** This deterministic V6.5 section supersedes conflicting V2/V3/V4 or earlier unmarked statistical tables elsewhere in the profile. Historic models remain readable as dated archival material. Ratification of the model does not imply external empirical observations of age-specific reproduction or chain-price real GDP. Do not infer values where the ledger contains `null`.
 <!-- END NCCM_V6_5_CANON_C_AUTOGENERATED -->
 
 <!-- BEGIN NCCM_V65_FULL_PROFILE_INTEGRATION -->
 > **NCCM V6.5 · Reltronland · Year 0 Canon (C), creator-ratified national model.**
-> Current national anchors: **855 billion** residents; SDI **0.984**; TFR **1.15**; annual real GDP growth **4.01%**; nominal annual GDP (Model B) **USD 4.744899868694e+22**; GDP share **42.0000%** (approximately).
+> Current national anchors: **855 billion** residents; SDI **0.984**; TFR **1.15**; annual real GDP growth **4.01%**; nominal annual GDP (Canon C) **USD 4.744899868694e+22**; GDP share **42.0000%** (approximately); share of planetary residents **19.3790%**.
 > Under the adopted zero-net-foreign-primary-income bridge, per-resident GDP/GNI is **USD 55,495,904,897/year**, or approximately **REL 485,698,450/year** using the modeled **USD 114.26 per REL** quotation. This is not an independent cash-income survey and does not imply 10× inflation or household spending.
 > Median age: **254 years**; CPI: **0.30%**; income Gini: **0.390**; national six-way primary ancestry: **Ratified C (see above)**.
-> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and pre-migration statistics. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
+> **Strict precedence:** This country's generated V6.5 national C table and the current JSON ledger override earlier V2/V3/V4 figures, candidate growth trajectories and older census snapshots. Historical and illustrative material is retained as provenance only; TFR cohorts and unassigned microdata remain open. The 18 remaining nations are only one aggregate residual.
 <!-- END NCCM_V65_FULL_PROFILE_INTEGRATION -->
+
+<!-- BEGIN ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
+### Reading guide — Reltronland
+
+> **Purpose:** Follow selected original sections in reading order. This is an editorial navigation aid; it does not add facts, replace canonical data, or promote proposals to Canon C.
+
+**Sections in this document**
+
+- [1. National Definition](#1-national-definition)
+- [4. Faction Classification](#4-faction-classification)
+- [7. Reltronland as a Red Pill Civilization](#7-reltronland-as-a-red-pill-civilization)
+- [9. Historical Overview](#9-historical-overview)
+- [12. Economic Model](#12-economic-model)
+- [15. The 250-Year Economic Miracle](#15-the-250-year-economic-miracle)
+- [18. Immigration and Social Policies](#18-immigration-and-social-policies)
+- [21. Civilizational Strength Doctrine](#21-civilizational-strength-doctrine)
+- [24. Strategic Behavior and Foreign Relations](#24-strategic-behavior-and-foreign-relations)
+- [26. Current Canon Integration Layer](#26-current-canon-integration-layer)
+- [29. Post-War Order and Twin Pillars Role](#29-post-war-order-and-twin-pillars-role)
+- [32. Navigation Links](#32-navigation-links)
+
+**Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
+<!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
 
 ![reltronland1](/images/reltronland4.webp)
 ![reltronland1](/images/reltronland1.webp)
@@ -108,7 +155,7 @@ Reltronland does not promise comfort as an end goal. It offers opportunity, stru
 
 **Current Year 0 authority:** The [NCCM V6.5 JSON ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) and the auto-generated canon C block at the top govern all assigned national quantities. Historical V2/V3/V4 measurements elsewhere in this long-form profile are archival, not competing Year 0 truth.
 
-The creator-ratified Model B 10× income-output baseline fixes **REL 4.1527217475 × 10²⁰ = USD 4.7448998686935 × 10²² annual GDP**; **855 billion** residents; **REL 485,698,450 per resident/year GNI** under the zero-net-foreign-primary-income bridge; **4.01% Year 0 real GDP growth**; **254-year median age**; and **SDI 0.984**. It is an income/output accounting adoption, **not an automatic tenfold increase in consumer prices, personal consumption, purchasing power or historical annual growth**.
+The creator-ratified ratified accounting baseline 10× income-output baseline fixes **REL 4.1527217475 × 10²⁰ = USD 4.7448998686935 × 10²² annual GDP**; **855 billion** residents; **REL 485,698,450 per resident/year GNI** under the zero-net-foreign-primary-income bridge; **4.01% Year 0 real GDP growth**; **254-year median age**; and **SDI 0.984**. It is an income/output accounting adoption, **not an automatic tenfold increase in consumer prices, personal consumption, purchasing power or historical annual growth**.
 
 The legacy daily-expenditure brackets remain as an **unratified illustrative distribution**; they are not newly calibrated to V6.5 and do not independently establish household income or the observed Gini coefficient. Cultural identity, social philosophy, geography, institutional history and space-governance material keep their own established scopes.
 
@@ -885,8 +932,8 @@ These are **current Year 0 national canon** ledger values, excluding unreconcile
 | **Year 0 Real GDP Growth** | **4.01% (NCCM V6.5 canon C)**; historical nominal CAGR estimates are archival |
 | **Stability Engine** | Sovereign AI-managed inflation matrix |
 | **Interest Rate Policy** | 0.3% – 1.2%, based on economic layer and risk tier |
-| **Total GDP (Year 0, Model B)** | **`REL 4.1527217475 × 10²⁰`** |
-| **Nominal USD GDP Equivalent (Model B)** | **`USD 4.7448998686935 × 10²²`** |
+| **Total GDP (Year 0, ratified accounting baseline)** | **`REL 4.1527217475 × 10²⁰`** |
+| **Nominal USD GDP Equivalent (ratified accounting baseline)** | **`USD 4.7448998686935 × 10²²`** |
 | **GNI per Resident per Year (adopted zero-net-primary-income bridge)** | **`REL 485,698,450` (USD 55,495,904,897)** |
 | **CO₂ Emissions per Capita** | 4.3 metric tons, offset-adjusted |
 | **Gini Coefficient** | 0.39, moderate income inequality |
@@ -897,7 +944,7 @@ These are **current Year 0 national canon** ledger values, excluding unreconcile
 
 **Year 0 calculation:** **855,000,000,000 residents × REL 485,698,450 per resident/year = REL 4.1527217475 × 10²⁰/year**. At **USD 114.26/REL**, this is **USD 4.7448998686935 × 10²²**. The adopted accounting bridge is `GNI = GDP + net primary income from abroad`, with net foreign primary income **set to zero for modeled reconciliation**. GDP and GNI are therefore not two independent matching empirical observations. Gross cross-border income streams can still exist and must be modeled separately if quantified.
 
-**Real Year 0 GDP growth is 4.01%, not the 10× nominal baseline uplift or the 0.30% CPI inflation rate.** Model B does not automatically imply a 10× increase in household purchasing power, local prices, expenditure or historical cumulative growth. Keep unreconciled 4D/5D/void production in satellite accounts.
+**Real Year 0 GDP growth is 4.01%, not the 10× nominal baseline uplift or the 0.30% CPI inflation rate.** ratified accounting baseline does not automatically imply a 10× increase in household purchasing power, local prices, expenditure or historical cumulative growth. Keep unreconciled 4D/5D/void production in satellite accounts.
 
 ### Interpretation of GNI Per Capita
 
@@ -919,7 +966,7 @@ This is why daily personal expenditure must be high enough to reflect a very wea
 
 Reltronland uses the **REL** as its official currency. This classification represents **average personal spending per day in REL/day** across the population. It reflects economic class, realized consumption, digital consumption capacity, and discretionary spending.
 
-**Status:** The expenditure tiers and their population shares below were proposed under a historical baseline and remain **illustrative and not independently creator-ratified as a V6.5 expenditure census**. This table must not be used to infer measured disposable household income or to derive the Gini coefficient. The 10× Model B output baseline does not authorize scaling prices or consumption by ten.
+**Status:** The expenditure tiers and their population shares below were proposed under a historical baseline and remain **illustrative and not independently creator-ratified as a V6.5 expenditure census**. This table must not be used to infer measured disposable household income or to derive the Gini coefficient. The 10× ratified accounting baseline output baseline does not authorize scaling prices or consumption by ten.
 
 For context, the current national accounting anchors are:
 
@@ -1121,7 +1168,7 @@ Henchoway and Nytherion Abyss are treated as creative pressure. Civilizational r
 
 ## Compounding Simulation — Archived V2 Baseline and V6.5 Boundary
 
-**ARCHIVED V2 modeling snapshot (2026-10-30; not current Year 0 canon):** V2 formerly used **REL 4.1527217475 × 10¹⁹** or **USD 4.7448998686935 × 10²¹** at 114.26 USD/REL, precisely one-tenth of the ratified Model B baseline. Historical long-run nominal CAGRs of 3.0% or 2.5% and proposed 250-year GDP paths belonged to that *provisional V2 scenario*. They must not be reclassified as Year 0 real growth.
+**ARCHIVED V2 modeling snapshot (2026-10-30; not current Year 0 canon):** V2 formerly used **REL 4.1527217475 × 10¹⁹** or **USD 4.7448998686935 × 10²¹** at 114.26 USD/REL, precisely one-tenth of the ratified ratified accounting baseline baseline. Historical long-run nominal CAGRs of 3.0% or 2.5% and proposed 250-year GDP paths belonged to that *provisional V2 scenario*. They must not be reclassified as Year 0 real growth.
 
 **NCCM V6.5 Year 0 canon C:** National nominal GDP **REL 4.1527217475 × 10²⁰ = USD 4.7448998686935 × 10²²**; national share of global GDP **42%**; **4.01% national real annual growth** and **4.00% planet real annual growth**. Those quantities do not establish a unique preceding 250-year nominal GDP time series. The historical 1010 BAC quotation (**REL 1.52 trillion GDP; USD 4.50/REL**) remains an archival historical reference, not proof of uncalibrated intermediate growth rates.
 
@@ -2584,7 +2631,7 @@ The digital-nation layer is a symbolic and institutional manifestation of the sa
 | Metric | NCCM V6.5 Year 0 Treatment |
 |---|---|
 | **Resident sentients** | **855 billion**, already counted in the national ledger |
-| **National GDP (Model B C)** | **REL 4.1527217475 × 10²⁰** (USD 4.7448998686935 × 10²²) |
+| **National GDP (ratified accounting baseline C)** | **REL 4.1527217475 × 10²⁰** (USD 4.7448998686935 × 10²²) |
 | **National GNI per resident** | **REL 485,698,450/year**, under the zero-net-primary-income bridge |
 | **Independent digital-economy GDP or sector share** | **Unassigned**; no second GDP total can be inferred |
 | **Digital domains** | Knowledge systems, creative capital, AI-sentient productivity, repositories |
@@ -3341,4 +3388,3 @@ Reltronland is not a utopia. It is a proving ground. Its strength lies not in do
 | Education access index | **0.992** | Synthetic learning-opportunity proxy, not surveyed |
 
 **V3 archival precedence:** The [V3 matrix](../statistics/asthortera-14-country-cross-domain-v3.md), [archived V3 data](../../data/asthortera/nccm-v3-14-country-comparative-model.json) and [V3 SDI methodology](../statistics/asthortera-sdi-methodology-v3.md) are kept for provenance only. The **NCCM V6.5 machine-readable ledger and generated canon C block at the beginning of this file supersede conflicting V3 figures**. Unassigned measurements remain unassigned.
-
