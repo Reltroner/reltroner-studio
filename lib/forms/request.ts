@@ -1,8 +1,11 @@
 import { isSameOriginRequest } from '@/lib/security/request-origin';
 
 /** Small local API boundary shared by the two independent forms. */
-export async function readFormRequest(request: Request): Promise<unknown> {
-  if (!isSameOriginRequest(request)) throw new Error('ORIGIN');
+export async function readFormRequest(
+  request: Request,
+  originGuard: (request: Request) => boolean = isSameOriginRequest
+): Promise<unknown> {
+  if (!originGuard(request)) throw new Error('ORIGIN');
   if (request.headers.get('content-type')?.split(';')[0].trim().toLowerCase() !== 'application/json') throw new Error('FORMAT');
   if (Number(request.headers.get('content-length') || 0) > 12000) throw new Error('SIZE');
   const reader = request.body?.getReader();
