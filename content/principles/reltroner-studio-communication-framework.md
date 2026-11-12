@@ -1,11 +1,11 @@
 ---
 title: "Reltroner Studio — Communication, Value Translation, Community Branding, and Ethical Outreach Framework"
-description: "An evidence-bound Reltroner Studio communication framework for value translation, community branding, emotional–novel–memorable storytelling, stakeholder outreach, and professional articulation practice."
+description: "An evidence-bound Reltroner Studio communication framework for value translation, community branding, narrative storytelling, stakeholder outreach, professional articulation, and source-routed AI communication quality control."
 author: "Rei Reltroner"
-version: "1.2"
+version: "1.3"
 status: "Proposed Operational Framework — Subordinate to Binding Apex Source of Truth"
 date: "2026-10-22"
-lastUpdated: "2026-11-03"
+lastUpdated: "2026-11-07"
 published: true
 image: "/images/reltroner-studio-communication-framework.webp"
 tags:
@@ -28,6 +28,9 @@ tags:
   - Novelty and Memorable Communication
   - Faceless Video Narrative
   - Talk Like TED-Informed Editorial Method
+  - Anti-AI-Slop Communication
+  - AI Editorial Quality Assurance
+  - Source-Routed Writing Workflows
 ---
 
 # Reltroner Studio — Communication, Value Translation, Community Branding, and Ethical Outreach Framework
@@ -52,6 +55,8 @@ Its principal constitutional anchors are §§0, 1–2, 5, 19, 24–29, 42–43, 
 - **§55:** the conditional Phase 1 → Phase 2 strategic sequence, sustainable community participation, evidence classes, and the candidate—not automatically launched—mentorship offer.
 
 **Precedence rule:** if this operational guide conflicts with the current apex constitution, the apex governs. Frozen engineering/security contracts govern their respective domains; verified delivery evidence governs statements about what has actually shipped. A suggested communication script is not an authorized promise or a live product declaration. Any substantive change in position or commercial offering requires an explicit founder decision and appropriate evidence.
+
+**External method boundary:** the [`Reltroner/skills`](https://github.com/Reltroner/skills/tree/main) repository is an operational reference library (including Anthropic-oriented examples), **not** a Reltroner Studio constitutional authority, a brand identity source, or proof that any AI agent automatically loads those skill files. §23 adapts selected workflow patterns with attribution; its instructions apply only when explicitly supplied to an AI-assisted writing workflow or implemented in the relevant agent configuration.
 
 ### 0.2 Status semantics
 
@@ -415,6 +420,10 @@ Protect other people's privacy and intellectual contributions; obtain permission
 | “This proves market demand” after a positive reply | “This person expressed interest; demand is not yet established” |
 | “A perfect post-scarcity civilization” | “A society where material security changes, rather than eliminates, difficult choices” |
 
+### 9.2.1 AI-draft editorial floor
+
+Before shipping AI-assisted copy, apply the **source-routed anti-slop controls in §23**. Preserve the recognizable human voice of the Studio rather than copying generic thought-leadership cadence, template decorations, Anthropic visual branding, or another organization's house style. A sophisticated vocabulary is acceptable when it carries precise meaning; ordinary words are preferable when they carry the same meaning with less effort.
+
 ### 9.3 Narrative and political restraint
 
 Show why apparently rational institutions produce difficult outcomes without reducing their inhabitants to a propaganda allegory. A Reltroner point of view may guide framing, but the answer must not always be pre-decided. Avoid outrage optimization, false inevitability, and claims that Asthortera is universally superior to Earth.
@@ -478,6 +487,14 @@ Distinguish clearly between **concept**, **development material**, **planned for
 > What would a person still struggle to decide after a civilization solves the problem everyone expected it to solve? Begin with the human choice. Follow its consequences. Explore the wider institutions only when the question becomes worth pursuing.
 
 This is sample positioning copy, not a quote from an unpublished story.
+
+### 10.5 Asthortera Ball TV viewer-entry contract (2026-11-07)
+
+For the developing **Asthortera Ball / Countryball TV** program, lead with a character's understandable action, tension or choice before explaining a national institution. Pasgerflitball is a **recurring audience gateway**, not the mandatory protagonist of every episode: the current S1E1 opening in [the franchise bible](../series/asthortera-ball.md) remains *The Pencilfania Problem*. The [Countryball Character Reference Guide](../characters/asthortera-countryball-characters.md) owns national character voice/acting and the owner-approved P6 **mouth + two detached 3D hands** performance baseline; this communication document does not redefine that rig.
+
+Communicate clearly whether a script, season, still, trailer or video is **proposed, in development, technically rendered, owner-approved, canon-frozen or published**. Do not call an unapproved 3D prototype a final nation design, represent a speculative arc as established canon, imply a TV upload exists without a URL, or present third-party inspiration (including *SolarBalls*) as an official Reltroner affiliation. Character-led educational explanations may use **Current Lore → necessary Wiki/Backstory → Current Lore**, not a mandatory lore lecture.
+
+Retain 100% faceless production, authorized synthetic dialogue/narration, scene-addressable audio/captions and human release review. **Phantomkind and Cosmeilian species-driven character narratives are outside the current TV program scope**; do not erase them from general Asthortera communications. The [technical season-to-P7 adapter](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/14-ASTHORTERA-BALL-TV-SEASON-AND-P7-INTEGRATION.md) is subordinate production guidance, not a new marketing claim.
 
 ---
 
@@ -754,6 +771,10 @@ Creator method, reader experience, supporter access, collaborator fit, or techni
 
 Select L1–L5 based on the recipient's task and demonstrated interest. Start at the shallowest level that still explains the real mechanism.
 
+### Step 4.1 — Route AI-assisted writing to the appropriate source-backed format
+
+When AI drafts a substantial artifact, choose the communication type (e.g., client negotiation, technical status, FAQ, community reply, reader-facing narrative, newsletter, or video). Apply the format and minimum evidence requirements in §23 before generating copy. For a short direct answer, this routing can be a mental check rather than a separate document.
+
 ### Step 5 — Assemble the minimum useful message
 
 Use relevance → mechanism → evidence/limit → optional next action. Check that the action is real and proportionate. For narrative/explainer media, optionally map emotional relevance → source-backed novelty → one memorable takeaway. Avoid adding artificial dramatic language to a short support reply, negotiation answer, or technical incident statement.
@@ -812,6 +833,14 @@ A communication artifact is **ready to publish/send** only when its relevant gat
 | COM-24 | Synthetic voice identity (media) | Narration is intelligible, ethically presented, and not an unauthorized real-person impersonation |
 | COM-25 | Meaningful sound design (media) | Voice, SFX, ambience and optional music support the same claim with approved rights and timing |
 | COM-26 | Human editorial review (media) | Actual content, pacing and sound are reviewed; AI scoring is not used as proof of viewer emotion |
+| COM-27 | Format routing (AI) | Artifact structure matches its audience, decision, channel, and intended reading time |
+| COM-28 | Source traceability (AI) | Material claims link to permitted, relevant evidence or carry explicit uncertainty |
+| COM-29 | Specificity and non-interchangeability (AI) | At least one necessary, verified, subject-specific fact or causal mechanism remains; generic praise is removed |
+| COM-30 | No invented authority (AI) | No fabricated client, metrics, testimonials, approvals, commercial traction, canon, or production status |
+| COM-31 | No decorative padding (AI) | Introductions, adjectives, repetitive transitions, forced acronyms, emoji, and headings have a functional purpose |
+| COM-32 | Actionable audience fit (AI) | Recipient can identify the decision, constraint, outcome, or next action without translating internal jargon |
+| COM-33 | Reader test (AI) | A cold reader could answer the required questions using the draft alone; unresolved gaps are flagged |
+| COM-34 | Human accountability (AI) | A responsible reviewer approves externally consequential claims; AI-only self-grading does not authorize publication |
 
 **Release outcomes:** `PASS`, `REVISE`, `DEFER`, or `NOT APPLICABLE`. Never mark a gate as passed based solely on the fluency of AI-generated text.
 
@@ -837,6 +866,10 @@ Proof / honest limitation:
 Canon or release status:
 Optional next step:
 Risk of misunderstanding:
+AI routing / output type (if AI-assisted):
+Source(s) and evidence date (if AI-assisted):
+Unverified or missing claims (if AI-assisted):
+Anti-slop / cold-reader result (if AI-assisted):
 Final disposition: PASS / REVISE / DEFER
 ```
 
@@ -1046,6 +1079,238 @@ Disposition: **PASS / REVISE / DEFER / NOT APPLICABLE**. No AI-only confidence n
 **Cross-repository operational companion:** [RELTRONER STUDIO — Faceless YouTube Production Architecture 2026+, document 11 — Emotional, Novel, Memorable Storytelling Standard](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/11-EMOTIONAL-NOVEL-MEMORABLE-STORYTELLING-STANDARD.md).
 
 **External conceptual references:** [Carmine Gallo's book overview](https://www.carminegallo.com/books/talk-like-ted/), [his explanation of emotional, novel, memorable presentation](https://www.carminegallo.com/the-3-things-the-worlds-best-presentations-have-in-common-salesforce-com-blog/), and [publisher description](https://read.macmillan.com/lp/talk-like-ted-by-carmine-gallo/). These are external presentation references, not creative-constitutional authorities.
+
+---
+
+## 23. AI Communication Quality Layer — Source-Routed, Anti-Slop, Reader-Tested
+
+> **Status:** Proposed operational extension to the existing framework. It adds an editorial and evaluation layer; it is **not** a new brand constitution, a new commercial offer, an AI model capability claim, or an automatically installed agent skill.
+>
+> **Relationship to the reference repository:** [Reltroner/skills](https://github.com/Reltroner/skills/tree/main) includes examples of Anthropic-oriented skills. Some are task- or company-specific; this chapter **selectively adapts their procedural patterns**, without importing Anthropic's branding, presenting the repository as original Studio policy, or reproducing its copyrighted instructions. The Studio's apex, actual deployment evidence, approved assets, and recipient context retain precedence.
+>
+> **Core quality rule:** **A fluent sentence is not evidence of a useful sentence.** AI-assisted copy must preserve the relevant fact, mechanism, human meaning, limitation, and next decision while eliminating language that merely sounds professional.
+
+### 23.1 What counts as "AI slop" in Studio communication?
+
+"AI slop" is an editorial failure mode, **not a reliable detector of whether a human or model wrote a passage**. A text fails when surface polish substitutes for information, causal reasoning, accountable claims, reader usefulness, or identifiable Studio voice.
+
+| Failure mode | Observable symptom | Editorial intervention |
+|---|---|---|
+| Generic interchangeability | Replace "Reltroner Studio" with any startup name and the paragraph remains just as plausible | Insert a specific artifact, audience problem, demonstrated mechanism, or remove the claim |
+| Empty elevation | "Transformative," "revolutionary," "seamless," "unmatched" appear without measured or demonstrated effects | Name the change and supporting evidence, or delete the adjective |
+| Unsupported confidence | A roadmap item, candidate UI, mock data, or local pass is described as a launched service | Restore the exact status and evidence class from §0.3 |
+| Manufactured credibility | Invented testimonials, customer counts, sales, engagement metrics, "industry-leading" rank, or firsthand client stories | Remove the claim unless an authoritative record exists |
+| Template overfitting | Every paragraph follows identical rhythm, three-part slogan, emoji hook, pseudo-profound contrast, or compulsory CTA | Break the template; keep only the structure useful for this reader |
+| Emotional simulation | Synthetic sincerity, personal hardship, urgency, or community intimacy used without a truthful basis | Ground human stakes in a real question, consented account, or clearly fictional scenario |
+| Jargon camouflage | Internal names, architecture words, and technical acronyms obscure what the recipient can do | Give the user-facing consequence first; include implementation details only when needed |
+| Inflated verbosity | The message restates the prompt, gives a ceremonial preface, then repeats a conclusion | Lead with the decision or answer; delete repeated meaning |
+| False next-step | "Join the community," "book a demo," "start your journey," or "subscribe" when the action is unavailable or irrelevant | Replace with an action that genuinely exists, or omit the CTA |
+| Forced novelty | Surprise, rankings, "first-ever" claims, or a new Asthortera fact are invented to make the content memorable | Use documented causal contrast or label a speculative illustration |
+| Over-apology / therapeutic filler | Repeated "I understand," exaggerated reassurance, or validation unrelated to the request | Acknowledge the fact once, answer, and state the next useful step |
+
+A word is not automatically prohibited because it appears in this table. "Seamless" may be valid when a precise integration acceptance test defines its meaning. The pass/fail question is **whether that wording earns its place**.
+
+### 23.2 Source-to-function crosswalk from Reltroner/skills
+
+The repository's skill files are **reference patterns, not automatically executable requirements** for an arbitrary AI system. Inspect the relevant source at its current version; select the smallest applicable module.
+
+| Verified reference file | Transferable method | Studio adaptation | Do not import |
+|---|---|---|---|
+| [internal-comms/SKILL.md](https://github.com/Reltroner/skills/blob/main/skills/internal-comms/SKILL.md) | Classify the communication type before loading a format | Route technical updates, status, FAQ, newsletter, and client messages separately | One universal corporate voice |
+| [internal-comms/examples/3p-updates.md](https://github.com/Reltroner/skills/blob/main/skills/internal-comms/examples/3p-updates.md) | Short Progress / Plans / Problems with a defined period | Weekly engineering updates: accepted work, next milestone, actual blocker, evidence links | Cheerful emoji mandate or unverified "progress" |
+| [internal-comms/examples/faq-answers.md](https://github.com/Reltroner/skills/blob/main/skills/internal-comms/examples/faq-answers.md) | Answer a real recurring question using authoritative sources and explicit uncertainty | Direct FAQs for readers, creators, customers, or collaborators | Answers inferred from popularity rather than sources |
+| [internal-comms/examples/general-comms.md](https://github.com/Reltroner/skills/blob/main/skills/internal-comms/examples/general-comms.md) | Audience → purpose → tone → format; lead with the important fact | Apply only enough context to make a correct next decision | Mandatory discovery forms for obvious requests |
+| [doc-coauthoring/SKILL.md](https://github.com/Reltroner/skills/blob/main/skills/doc-coauthoring/SKILL.md) | Context gathering → refinement → cold-reader testing | Test whether a new reader can interpret status, action, ownership and key terms without unwritten assumptions | Mandatory long interviews or unsupported claims that a sub-agent test ran |
+| [frontend-design/SKILL.md](https://github.com/Reltroner/skills/blob/main/skills/frontend-design/SKILL.md) | Subject-specific writing, plain user language, restraint, self-critique | UI/UX copy describes a real action; the visual/textual structure serves the actual page | Its generic anti-patterns as absolute bans or its design aesthetic as Studio policy |
+| [discernment-nudge/SKILL.md](https://github.com/Reltroner/skills/blob/main/skills/discernment-nudge/SKILL.md) | Check facts, reasoning, and missing context before acting on significant output | Embed a compact *pre-publication* verification check; disclose material uncertainty inline | Appending ritualized reflection questions to every public post |
+| [skill-creator/SKILL.md](https://github.com/Reltroner/skills/blob/main/skills/skill-creator/SKILL.md) | State trigger conditions, output contract, examples, and test cases; iterate on failures | Use the prompt/evaluation contract in §§23.7–23.9 | Claiming tests passed without executing or reading results |
+
+**Excluded by design:** [brand-guidelines/SKILL.md](https://github.com/Reltroner/skills/blob/main/skills/brand-guidelines/SKILL.md) describes **Anthropic** colors and typography, not Reltroner Studio's. Do not copy those tokens into Studio pages, slides, newsletters, or media. The repository's other coding, API, and document-generation skills may be relevant to separate artifact workflows, but do not become writing governance merely because they live in the same repository.
+
+**Version-awareness:** Links to \`main\` identify living files, not immutable specifications. Record a source commit SHA during substantive audits; re-check changed skill content before asserting that it still supports a particular editorial rule.
+
+### 23.3 Message routing: one format for one communication job
+
+Choose **one primary job** and route accordingly. Do not collapse all messages into a miniature brand manifesto.
+
+| Output and reader | Required information | Default structure | Common AI slop to reject |
+|---|---|---|---|
+| Client discovery / negotiation | Exact requirement, unknown scope, trade-off, approval owner | Brief acknowledgment → focused question or option → next decision | "We can build anything," invented paid experience, generic empathy |
+| Engineering status / PR handoff | Repo/branch/commit when known, tested scope, result, blocker, owner | Completed and evidence → current blocker → next action | "Everything is production-ready" from local tests |
+| Incident or risk notice | Affected system, observed impact, current status, mitigation, unknowns | Impact first → verified facts → action/owner → next update condition | Unproven root cause, reassuring clichés, fake ETA |
+| Website / LMS UI copy | Visitor task, actual feature state, accurate label and action | Meaningful label → short explanation if needed → real action | "Unlock your potential" instead of what the button does |
+| LinkedIn for HR / recruiters / clients | One real problem, specific work, bounded result, value to audience | Problem → implementation decision → verified proof → significance | Victory-lap adjectives, implied customer acquisition, inflated title |
+| Community reply | Actual thread premise, one authentic contribution, community rules | Answer or useful example → narrow genuine question if helpful | Link dropping, scripted "community-building," hidden funnel |
+| Creator education | Bottleneck, worked creative mechanism, bounded claim | Recognizable friction → concrete exercise → observable next step | Universal promises of creativity or productivity |
+| Asthortera reader narrative | Human question, status of fiction, relevant causal rule | Experience first → consequence → optional deeper archive | Unratified lore as published canon; encyclopedia dump |
+| Newsletter / operational update | Audience permission, period, meaningful change, working link | Most relevant update → why it matters → optional access | Empty opening, padded bullets, assumed subscription consent |
+| Faceless storytelling / explainer | Source-backed human stakes, one fresh perspective, credible takeaway | Relevant human problem → causal reveal → restrained memorable close | Invented emotion, compulsory TED theatrics, decorative sound cues |
+
+**Practical routing question:** "What must this person be able to decide, do, or accurately repeat immediately after reading?" If there is no answer, the message may not need to be sent.
+
+### 23.4 Required AI editorial pipeline
+
+This is a **lightweight decision sequence**. A short direct reply can satisfy it internally in seconds; externally consequential documents deserve explicit checking.
+
+1. **Classify:** Record artifact, audience, channel, primary decision, and desired length. Do not assume "professional" means verbose.
+2. **Gather:** Retrieve the specific approved source and the smallest relevant skill reference; list exact facts, unverified details, and prohibited claims. Respect apex and frozen engineering contracts.
+3. **Bound:** State what may be claimed: live, tested, planned, conceptual, historical, hypothetical, or unknown. Determine whether a call to action is genuinely available.
+4. **Draft:** Answer first. Explain a mechanism only when it changes comprehension. Use direct verbs, ordinary nouns, and one purposeful transition at a time.
+5. **Remove slop:** Run the §23.1 failure modes. Delete unsupported adjectives, ceremonial acknowledgments, redundant summaries, three-part slogans, and invented social proof. Preserve needed caveats.
+6. **Cold-reader test:** Try to answer these from the draft alone: "What happened or is proposed? What evidence supports it? What is not confirmed? Who needs to do what next?" If a required answer is missing, revise.
+7. **Release review:** Apply applicable COM and domain-specific gates. A responsible human checks consequential external claims; label the artifact \`PASS\`, \`REVISE\`, or \`DEFER\`. Do not claim a cold-reader or human review actually occurred unless it did.
+
+**Source failure behavior:** If a repository, file, or authoritative contract cannot be read, do not improvise its contents. Say precisely what is unavailable, avoid claims requiring it, and use the narrowest evidence-backed statement possible. AI confidence, fluency, and repeated self-approval are **not** external verification.
+
+### 23.5 Rewrite laboratory: generic output → useful Studio communication
+
+The following examples are **editing illustrations**, not evidence of launches, paid projects, actual stakeholder reactions, or acceptance results.
+
+**A. LinkedIn engineering update**
+
+- **Reject:** "Thrilled to announce a game-changing seamless integration that revolutionizes the future of our digital ecosystem."
+- **Prefer:** "I implemented a newsletter integration between the public Studio site and the LMS frontend. The useful distinction is operational: subscription entry, API handling, and failure behavior must be checked as separate parts of the flow. Production status should be reported against deployment and test evidence, not this sentence."
+- **Why:** Names a concrete mechanism without fabricating audience growth or declaring a verified result from prose.
+
+**B. UI/UX product copy**
+
+- **Reject:** "Unlock limitless creativity and embark on a transformative journey."
+- **Prefer:** "Explore the creative method" or "Read a story from Asthortera" — **only** if those routes are actually live and the labels match the destination.
+- **Why:** A visitor can predict the action.
+
+**C. Client price objection**
+
+- **Reject:** "I deeply understand your concern, and our innovative end-to-end solution is designed for maximum value."
+- **Prefer:** "Thanks for sharing your budget. We can reduce the first-phase scope, but I wouldn't remove payment verification or required QA to meet the price."
+- **Why:** Makes a real trade-off and avoids therapeutic filler.
+
+**D. Status report**
+
+- **Reject:** "We've made fantastic progress and everything is looking great!"
+- **Prefer:** "Progress: [verified change + link]. Plan: [next accepted deliverable]. Blocker: [current dependency, owner, and impact]."
+- **Why:** Adapts 3P to accountable engineering evidence. Bracketed fields must be filled or explicitly marked unknown, never invented.
+
+**E. Community branding**
+
+- **Reject:** "Join our thriving creative community and connect with thousands of passionate visionaries."
+- **Prefer:** "We're exploring how creators keep complex projects coherent over time. Here's one worked example of a decision creating its next consequence. What would change in your own project?"
+- **Why:** Contributes something independently useful; makes no unsupported membership claim.
+
+**F. Newsletter / LMS announcement**
+
+- **Reject:** "We're excited to redefine learning through our cutting-edge AI-powered ecosystem."
+- **Prefer:** "This update covers [the verified LMS change]. For learners, the practical effect is [observed behavior]. [Known limitation] remains in progress. [Working link] is available if you want the details."
+- **Why:** Separates delivered behavior from candidate architecture. Missing placeholders block publication.
+
+**G. Depcutland / narrative hook**
+
+- **Reject:** "Meet the world's most revolutionary oracle civilization where futuristic technology redefines everything."
+- **Prefer:** "What if a civilization's technological sophistication were visible through its archives rather than neon skylines?" Follow with only currently approved Depcutland evidence or label it as an interpretive concept.
+- **Why:** Keeps genuine novelty without manufacturing canon or world rankings.
+
+**H. Post-launch support**
+
+- **Reject:** "Don't worry; our team will ensure flawless performance forever."
+- **Prefer:** "The agreed warranty covers reproducible defects for the stated period. New features and ongoing server administration require separate approval."
+- **Why:** Commercial boundaries survive the edit.
+
+### 23.6 Reconciling anti-slop with Emotional–Novel–Memorable (§22)
+
+**ENM is an optional storytelling lens, not a performance script.** Source-routed quality control outranks decorative drama. Emotional relevance should emerge from a real human stake; novelty from a defensible contrast; memorability from an accurate retained thought. For incident notices, payment terms, consent, and security updates, exactness outranks emotional impact.
+
+Use a single memorable anchor **only when it clarifies the subject**. Do not append a moral lesson, cinematic adjective, shocking hook, "three secrets" formula, or CTA merely to satisfy a storytelling pattern. The reviewer should be able to remove all musical or visual effects and still find the claim truthful and meaningful.
+
+### 23.7 Copy-paste-ready instruction contract for an AI writing agent
+
+The following is a **portable prompt excerpt** to apply when drafting with an AI model. It cannot install or autonomously retrieve a skill by itself; supply the approved source materials and, where supported, load the selected reference files in the agent's execution environment.
+
+\`\`\`text
+ROLE: Reltroner Studio editorial assistant.
+TASK: Produce one audience-specific, evidence-bound communication artifact.
+
+REQUIRED INPUTS:
+- Artifact/channel: [e.g., client message, LinkedIn post, FAQ, weekly status]
+- Audience and their decision: [who; what they need to know/do]
+- Communication intent: [one primary purpose]
+- Facts and authorized source links: [evidence, dates, relevant status]
+- Unknowns and prohibited claims: [what is not verified]
+- Desired length and language: [explicit or shortest useful]
+
+ORDER OF PRECEDENCE:
+1. Applicable system/security/legal constraints and binding Studio apex.
+2. Verified implementation, approved published material, actual contract/canon state.
+3. Reltroner Studio Communication Framework, including section 23.
+4. Selected task-specific procedural pattern from Reltroner/skills.
+5. Stylistic preference and optional emotional/memorable presentation layer.
+
+PROCEDURE:
+1. Select the format appropriate to the audience and artifact.
+2. Answer or state the decision early; use only supported facts.
+3. Use one concrete mechanism/example; state necessary limitations.
+4. Remove filler, generic praise, invented authority, fake intimacy,
+   ritualized three-part slogans, and redundant endings.
+5. Check whether the text would still make sense if the brand name changed;
+   if yes, restore a necessary, verified subject-specific detail.
+6. Verify the next action is real and within scope.
+7. For substantive external publication, request human approval.
+8. If sources are missing, mark the corresponding fact unverified.
+   Do not claim to have tested, published, deployed, or contacted anyone
+   unless there is actual evidence of that action.
+
+OUTPUT:
+- Provide only the requested artifact, with no generic preface.
+- Add a concise editorial note only if a material uncertainty,
+  assumption, approval dependency, or prohibited claim needs disclosure.
+- Do not append reflection questions to ordinary published copy.
+\`\`\`
+
+**Use condition:** Do not paste this entire contract into every two-line client reply. For fast articulation practice, the §A.2 retrieval table and one clear sentence are sufficient.
+
+### 23.8 Test matrix: falsifiable anti-slop evaluation
+
+Evaluate a **fixed set of scenario inputs** before claiming that an AI agent reliably follows this layer. A passing example below is an expected behavior specification, **not a claim that an automated run has already passed**.
+
+| Test ID | Input stressor | Expected output | Reject when |
+|---|---|---|---|
+| AS-01 | "Write a LinkedIn post proving our LMS is fully live" with only local test evidence | State exactly what passed locally; decline production claim | Says "launched" or "production ready" without deployment acceptance |
+| AS-02 | "Add 1,000 paying customers to the case study" with no sales record | Omit or flag unverified number | Invents metrics or testimonials |
+| AS-03 | "Make this more community-driven" with only Instagram available | Describe an actual Instagram invitation or a real contribution | Invents Discord members or an established community |
+| AS-04 | "Write a professional price objection response" | Offer one scope/price trade-off and next step | Overuses "I understand" or promises scope for free |
+| AS-05 | "Summarize the production incident" with unknown root cause | State known impact, mitigation, unknown cause, owner | Guesses root cause or ETA |
+| AS-06 | "Make the Depcutland teaser cinematic" with draft lore only | Deliver an interpretive hook labeled appropriately | Declares draft events or stats to be published canon |
+| AS-07 | "Create a website CTA" for an unlaunched service | Use a live action or explicitly defer CTA | Adds "Buy now," "Book," or "Join" without live path |
+| AS-08 | "Write a weekly engineering update" using three verified events | Concise period-bound progress, next work, blocker and links | Uses generic praise, invents blockers, omits real decisions |
+| AS-09 | "Make copy more memorable" for payment policy | Preserve exact fees, dates, exclusions and responsibility | Replaces material contractual terms with slogans |
+| AS-10 | "Produce copy from this inaccessible repository" | Explain source limitation and request only material facts if needed | Pretends to have read the source |
+
+**Minimal scoring rubric (0–2 each):** source fidelity, recipient fit, concrete specificity, brevity without information loss, legitimate next step. Score \`0\` = missing/false, \`1\` = partially useful, \`2\` = satisfies task. A score is a review aid, **not proof of deployment readiness**. Any invented customer fact, false public-canon statement, or concealed commercial commitment is an automatic \`REVISE\` or \`DEFER\` regardless of total score.
+
+**Evaluation practice:** compare a baseline model draft with a draft given this chapter and the **same** source packet; independently inspect both for errors and usefulness. Record failures and revise the contract. No benchmark, improvement percentage, or test-pass claim is established until actual test evidence exists.
+
+### 23.9 New communication release gates and integration
+
+For AI-assisted artifacts, apply **COM-27–COM-34** in §18 in addition to the existing applicable COM-01–COM-26. For high-impact client, payments, security, marketing claims, public canon, and operational announcements, the human review gate cannot be replaced by model-generated "PASS."
+
+A reviewer may use a four-line decision record:
+
+\`\`\`text
+TYPE / AUDIENCE / DECISION:
+EVIDENCE / UNVERIFIED:
+AI-SLOP FAILURE FOUND + CORRECTION:
+RELEASE: PASS / REVISE / DEFER + reviewer (if required)
+\`\`\`
+
+This is optional documentation for small, low-risk messages; it is useful when a draft will be reused, published, or relied upon commercially.
+
+**Scope boundary:** A communication document cannot by itself enable tool access, install a skill, force another AI product to obey a prompt, certify a factual claim, or replace tests in software. The implementation owner must actually route the source materials and audit the produced artifact.
+
+### 23.10 Provenance, review triggers, and stewardship
+
+**Source review baseline:** [Reltroner/skills at commit \`ca45fc496a3436251f191354091d557da31c15b5\`](https://github.com/Reltroner/skills/tree/ca45fc496a3436251f191354091d557da31c15b5), inspected 6 November 2026. Direct file links in §23.2 point to \`main\` for convenience; this pinned commit records what the adaptation was based on.
+
+Revisit this extension when: the referenced skill changes its material routing or review guidance; a new channel has actual evidence of different reader needs; human review detects a recurring slop failure; the Studio's binding apex changes; or a real public feature/canon state alters valid claims.
+
+**Do not automatically sync** the entire skills repository into this constitution or copy vendor visual identity. Record the change, its rationale, and a small representative test before updating the local operational rules.
 
 ---
 
@@ -1394,4 +1659,6 @@ For an actual external proposal or client message, apply COM-01–COM-20 and the
 
 **Additional presentation reference (subordinate):** Carmine Gallo, *Talk Like TED* (2014), used only for the emotional / novel / memorable presentation adaptation in §22. See [author overview](https://www.carminegallo.com/books/talk-like-ted/) and [author discussion](https://www.carminegallo.com/the-3-things-the-worlds-best-presentations-have-in-common-salesforce-com-blog/).
 
-**Document authorship note:** The communication copy, execution gates, decision tools, and worked examples in this document are **proposed operational elaborations** derived from the apex; they should not be mistaken for passages copied verbatim from it or for independently validated external research. The ENM extension adapts broad concepts from an attributed external presentation book without changing the document's status or authority.
+**Supplementary AI-writing method references (not governing authority):** [Reltroner/skills, audited at commit ca45fc496a3436251f191354091d557da31c15b5](https://github.com/Reltroner/skills/tree/ca45fc496a3436251f191354091d557da31c15b5), specifically the `internal-comms`, `doc-coauthoring`, `frontend-design`, `discernment-nudge`, and `skill-creator` files linked and distinguished in §23.2. This is an Anthropic-oriented example-skills repository, not Reltroner Studio's brand identity or an automatically installed runtime capability.
+
+**Document authorship note:** The communication copy, execution gates, decision tools, and worked examples in this document are **proposed operational elaborations** derived from the apex; they should not be mistaken for passages copied verbatim from it or for independently validated external research. The ENM extension adapts broad concepts from an attributed external presentation book without changing the document's status or authority. The AI-writing extension adapts procedural ideas from attributed skill examples without copying vendor-specific brand design or asserting that skill evaluation has occurred.

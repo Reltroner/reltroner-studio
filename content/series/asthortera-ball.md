@@ -1,6 +1,6 @@
 ---
 title: "Asthortera Ball"
-subtitle: "The Quiet Drift"
+subtitle: "Asthortera Countryball TV — In Development"
 description: "Official franchise profile for Asthortera Ball, an animated countryball series exploring civilization, stagnation, growth, and the subtle influence of Nytherion Abyss across the world of Asthortera."
 image: "/images/asthortera-countryball-characters.webp"
 creator: "Reltroner Studio"
@@ -10,6 +10,7 @@ format: "Animated Countryball Series"
 genre: "Comedy, Civilizational Satire, Philosophical Fiction, Political Comedy, Social Commentary"
 status: "In Development"
 classification: "Official Franchise Bible"
+lastUpdated: "2026-11-07"
 published: true
 ---
 
@@ -52,6 +53,20 @@ Asthortera itself continues to exist and develop whether or not a particular cou
 Countryballs can have independent stories, conflicting interests, alliances, rivalries, failures, discoveries, and comedic situations.
 
 The world does not revolve around the protagonists.
+
+---
+
+## TV program integration decision — 2026-11-07
+
+**Asthortera Ball / Asthortera Countryball TV** is an in-development screen program inside the shared Asthortera universe, not a renumbering of *The Abyss of Comfort* seasons. The frontmatter `continuity: Primary Canon` refers to the intended universe continuity, **not** canon-freeze or publication of future episode events. Episode order, arc changes and canon freeze require explicit owner decisions.
+
+**P6 continuity is binding for this TV adaptation:** The genuine 3D **WB-NPC-001** engineering foundation retains **one expressive mouth and two detached 3D hands**, not the older mouthless/handless illustration restriction. Every named nation still needs its approved emblem, color, established personality and any signature accessories under the [Countryball Character Reference Guide](../characters/asthortera-countryball-characters.md). The generic white NPC is **not** already a final Pasgerflitball or any other named character. No long arms, legs or anthropomorphic anatomy are introduced.
+
+**Current scope** covers the civilization/country personifications, their institutions and supporting scene roles. Phantomkind and Cosmeilian species-centered characters/manifestations are deferred from this TV program; their existing world canon remains untouched.
+
+**Ensemble architecture:** Asthortera is the overarching narrative center; Pasgerflitball is an important recurring **audience gateway**, not the exclusive lead. **S1E1 remains "The Pencilfania Problem"** below. *The Wrong Kind of Wake-Up*, *Boarding Pass to Trouble*, and the historical eight-episode *The Quiet Drift* proposal may be considered for future placement, but are **not alternative active S1E1 decisions**.
+
+**P7 production boundary:** The [long-form landscape TV adapter](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/14-ASTHORTERA-BALL-TV-SEASON-AND-P7-INTEGRATION.md) proposes how season manifests drive the existing Three.js/Remotion character/world/audio engine. A proposal is **not** a completed landscape render, approved season or published episode.
 
 ---
 
@@ -385,36 +400,9 @@ The previous *Boarding Pass to Trouble* material is retained as an earlier produ
 
 ---
 
+## Archived development profile (retained for provenance)
 
----
-
----
-
-title: "Asthortera Ball"
-
-subtitle: "The Quiet Drift"
-
-description: "Official franchise profile for Asthortera Ball, an animated countryball series exploring civilization, stagnation, growth, and the subtle influence of Nytherion Abyss across the world of Asthortera."
-
-image: "/images/asthortera-countryball-characters.webp"
-
-creator: "Reltroner Studio"
-
-universe: "Asthortera"
-
-continuity: "Primary Canon"
-
-format: "Animated Countryball Series"
-
-genre: "Comedy, Civilizational Satire, Philosophical Fiction, Political Comedy, Social Commentary"
-
-status: "In Development"
-
-classification: "Official Franchise Bible"
-
-published: true
-
----
+The profile and eight-episode *The Quiet Drift* proposal below are **historical development material**, not a second active series metadata block or a competing S1E1. The only page frontmatter is at the top. Narrative details may be reused after continuity review; active TV performance rules live above and in the [Countryball character guide](../characters/asthortera-countryball-characters.md).
 
 # 🌍 ASTHORTERA BALL
 
@@ -790,29 +778,15 @@ Each civilization serves as a cultural lens through which different approaches t
 
 # VISUAL DIRECTION
 
-## Art Style
+## Art Style — archived reference
 
-MrSpherical-inspired countryball animation.
+The older draft cited a countryball illustration reference. It is historical inspiration, **not** a directive to copy third-party visual identity or replace the original P6-based 3D TV design.
 
 ---
 
-## Character Standards
+## Character Standards — archived vector direction
 
-All characters must maintain:
-
-* Perfect spherical geometry
-
-* No arms
-
-* No legs
-
-* No hands
-
-* No feet
-
-* No mouths
-
-* Minimalist design language
+The old mouthless/handless flat-vector rules were part of an earlier 2D plan and are **superseded for the active 3D TV format**. The current rule is owned by the [Countryball Character Reference Guide](../characters/asthortera-countryball-characters.md): genuine 3D spherical body, expressive mouth, exactly two detached 3D hands, no long arms or legs, and distinct nation-specific identities.
 
 ---
 
@@ -828,31 +802,21 @@ All characters must maintain:
 
 ---
 
-## Rendering Standards
+## Rendering Standards — current/legacy distinction
 
-* Clean vector artwork
-
-* Consistent shading
-
-* Broadcast-quality presentation
-
-* High readability at all screen sizes
+Historical still illustrations may use vector artwork. Active Countryball TV uses the existing Three.js **P6 real-geometry rig**, coherent lighting/shading, readable outlines and national iconography. Technical QA is distinct from owner visual approval.
 
 ---
 
-## Production Format
+## Production Format — archived planning example
 
-Resolution: 1920×1080
-
-Aspect Ratio: 16:9
-
-Frame Rate: 24 FPS
+This older section used 1920×1080 (16:9) at **24 FPS**. The P7 landscape-TV target is **1920×1080 at 30 FPS**, reusing the existing Remotion 30 FPS timebase. P7 landscape rendering remains a **proposal until locally implemented and tested**; see the [TV/P7 adapter contract](https://github.com/Reltroner/progress-documentation/blob/main/RELTRONER%20STUDIO%20%E2%80%94%20Faceless%20YouTube%20Production%20Architecture%202026%2B/14-ASTHORTERA-BALL-TV-SEASON-AND-P7-INTEGRATION.md).
 
 ---
 
-# SEASON ONE
+# ARCHIVED SEASON-ONE OUTLINE — THE QUIET DRIFT
 
-# THE QUIET DRIFT
+**Development archive:** These eight episode concepts are retained for future adaptation, but do **not** override the current S1E1 *The Pencilfania Problem* described at the start of this franchise bible. Reordering or promoting them requires explicit continuity review.
 
 ## Season Statement
 

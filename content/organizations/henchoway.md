@@ -4,7 +4,7 @@ description: "Operational dossier of the transnational Henchoway network: its hi
 image: "/images/henchoway.webp"
 author: "Rei Reltroner"
 date: "2025-04-07"
-lastUpdated: "2026-10-26"
+lastUpdated: "2026-11-11"
 published: true
 tags: ["Henchoway", "Organizations", "Tremora Trench", "Hargenbor", "Nytherion Abyss", "The Abyss of Comfort"]
 ---
@@ -147,6 +147,28 @@ Henchoway's older doctrine emphasizes stillness, cultural influence, emotional s
 The developed doctrine of **Adaptive Stillness**, explored in planned Season 26, responds to a recurring failure: conspicuous suppression creates grievances, networks of inquiry and new Astralis resistance. Vitor begins to favor managing destabilizing possibility over trying to eliminate every inconvenient person.
 
 This is **a planned evolution**, not evidence that all future operations have already happened.
+
+### Recognition-scarcity leverage and the comfort-as-freedom frame (Creator-Ratified, 2026-11-11)
+
+<!-- CREATOR-RATIFIED 2026-11-11: RECOGNITION SCARCITY / COMFORT-AS-FREEDOM DOCTRINE -->
+
+**Operational significance:** Within a high-SDI, materially secure knowledge economy, large numbers of useful works and qualified applicants can compete for finite human/sentient attention, professional invitations and institutional trust. Henchoway's *Adaptive Stillness* can make use of this pressure **without creating the scarcity**. Its preferred institutional result is that disaffected residents cease translating disappointment, evidence and independent inquiry into demands for correction.
+
+| Operating interface | Possible observable pattern | Evidentiary boundary |
+| --- | --- | --- |
+| Cultural and community narratives | Genuine relief, belonging or ordinary-life dignity is rhetorically extended into discouragement of inquiry | Offering rest or a private life is not evidence of infiltration |
+| Information distribution | Useful knowledge remains visible, but correction-relevant findings lose a path to consequential review | Ordinary ranking, low engagement or insufficient reach alone does not establish tampering |
+| Reputation and hiring | Historical prestige becomes a self-reinforcing gate; pathways to reconsideration narrow | Legitimate competence screening and justified refusal remain lawful |
+| Research, capital and infrastructure | Commercially beneficial systems create dependencies that make reform costly | A profitable partnership is not automatically Henchoway-directed |
+| Institutional governance | Stakeholders retain apparent consultation but lose effective ability to change underlying decisions | Allegations require actual rules, decisions, provenance and attributable actors |
+
+**Classification for investigators:** distinguish (a) directly attributable Henchoway interference, (b) independent actors who knowingly cooperate, (c) ordinary incentives that happen to align with stillness, (d) mistaken or justified local choices, and (e) metaphysical Nytherion-linked anomalies requiring their own evidence. Do **not** infer culpability from a resident's lack of attention capital, choice of leisure, unpromoted work, or professional disappointment.
+
+**No invented completed operation:** This patch ratifies the **strategic mechanism** and the relevance of knowledge-platform and reputational incentives. It does not establish a new division, named campaign, controlled planetary algorithm, successful capture of a sovereign state, or completed plot event. Future deployments need specific scenes, agents, methods, affected jurisdictions, and consequences in the [master series](../series/the-abyss-of-comfort.md).
+
+**Accountability test:** Did the alleged system merely offer valuable recovery, or did it demonstrably prevent people from questioning premises, preserving evidence, appealing decisions or exercising future-oriented agency? A credible answer must be based on verifiable conduct, not the aesthetics of comfort.
+
+See [the faction's ideology](../factions/henchoway.md), [Nytherion's existential doctrine](../philosophies/nytherion-abyss.md), and [the binding master canon](../principles/reltroner-studio-master-source-of-truth.md).
 
 ### Intellectual integrity
 

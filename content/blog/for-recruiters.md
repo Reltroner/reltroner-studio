@@ -139,238 +139,7 @@ My goal is to make systems that:
 
 ---
 
-## Case Study 1 — Client Portal Authentication Modernization & Same-Origin API Routing
-
-**Project:** Skill-Wanderer Client Portal
-
-**Role:** Full-Stack / Platform Engineer
-
-**Stack:** Laravel 12, PHP 8.2+, Keycloak, OIDC, JWT RS256, JWKS, Cloudflare Workers, Cloudflare Tunnel, Next.js, Rancher/Kubernetes, GitHub Actions
-
-**Production URL:** https://client.skill-wanderer.com
-
-### Case
-
-The Client Portal required a production-grade authentication and API routing modernization.
-
-The backend needed to validate real Keycloak access tokens from two trusted realms:
-
-```text
-client-portal
-
-skill-wanderer-admin
-```
-
-The required authentication boundary was strict:
-
-```text
-client-portal realm
-
-→ accept valid access token when aud contains client-portal-be
-
-
-skill-wanderer-admin realm
-
-→ accept valid access token only when aud contains client-portal-be
-  and realm role contains client
-```
-
-At the same time, the frontend needed to stop exposing the legacy browser-facing API base:
-
-```text
-https://api.skill-wanderer.com
-```
-
-and move to same-origin API access:
-
-```text
-https://client.skill-wanderer.com/api/*
-```
-
-The challenge was multi-layered:
-
-* Keycloak tokens needed the correct backend audience
-* Admin realm tokens needed role-based restriction
-* Laravel needed JWKS-backed JWT validation
-* Rancher needed a new backend deployment
-* Cloudflare could not directly route `client.skill-wanderer.com/api/*` through Tunnel because the hostname was already managed by the frontend Worker
-* The frontend dashboard initially did not send the Bearer token
-* The backend dashboard route still used legacy session middleware instead of the new Keycloak token middleware
-
-### Solution
-
-I resolved the issue end-to-end across identity, backend, frontend, Cloudflare, and deployment layers.
-
-#### Keycloak
-
-Configured and validated access tokens so they contained the backend audience:
-
-```json
-"aud": ["client-portal-be", "account"]
-```
-
-For the `skill-wanderer-admin` realm, the token also needed:
-
-```json
-"realm_access": {
-  "roles": ["client"]
-}
-```
-
-This ensured the backend did not accept generic Keycloak tokens. It only accepted tokens explicitly intended for the backend resource server.
-
-#### Backend
-
-Implemented deterministic Keycloak JWT validation in Laravel:
-
-* JWKS provider
-* JWT validator
-* Multi-issuer validation
-* Audience validation
-* Admin realm role validation
-* `keycloak.token` middleware
-* Keycloak principal extraction into request attributes
-
-Production backend configuration included:
-
-```text
-KEYCLOAK_BASE_URL=https://sso.skill-wanderer.com
-KEYCLOAK_ALLOWED_REALMS=client-portal,skill-wanderer-admin
-KEYCLOAK_EXPECTED_AUDIENCE=client-portal-be
-KEYCLOAK_ADMIN_REALM=skill-wanderer-admin
-KEYCLOAK_ADMIN_REQUIRED_REALM_ROLE=client
-```
-
-#### Deployment
-
-Deployed the backend to Rancher using the image:
-
-```text
-ghcr.io/skill-wanderer/client-portal-be:sha-4ab8871
-```
-
-Updated deployment metadata:
-
-```text
-BE_DEPLOYMENT_ID=client-portal-be-sha-4ab8871
-```
-
-#### Same-Origin API Routing
-
-Because `client.skill-wanderer.com` was already owned by the frontend Worker, direct Cloudflare Tunnel path routing could not be used.
-
-The solution was to add a Next.js API proxy route:
-
-```text
-app/api/[...path]/route.ts
-```
-
-This allows:
-
-```text
-https://client.skill-wanderer.com/api/*
-```
-
-to proxy internally to:
-
-```text
-https://client-portal-api.skill-wanderer.com
-```
-
-Final runtime variables:
-
-```text
-API_BASE_URL=https://client.skill-wanderer.com
-
-NEXT_PUBLIC_API_BASE_URL=https://client.skill-wanderer.com
-
-API_UPSTREAM_URL=https://client-portal-api.skill-wanderer.com
-```
-
-#### Frontend Dashboard Authorization
-
-Fixed the frontend dashboard request so it sends:
-
-```text
-Authorization: Bearer <access_token>
-```
-
-to:
-
-```text
-/api/v1/client/dashboard
-```
-
-#### Backend Dashboard Route Migration
-
-The dashboard route originally used legacy authentication middleware:
-
-```text
-dashboard.audit
-bearer.validate
-session.load
-rbac:client
-```
-
-It was migrated to:
-
-```text
-dashboard.audit
-keycloak.token
-```
-
-The controller now reads the authenticated identity from:
-
-```text
-keycloak_principal
-```
-
-The route no longer requires `X-Session-Id` when a valid Keycloak Bearer token is present.
-
-### Result
-
-Final production validation:
-
-```text
-GET https://client.skill-wanderer.com/api/v1/client/dashboard
-
-Authorization: Bearer <valid-token>
-
-→ 200 OK
-```
-
-Response headers confirmed Laravel backend execution:
-
-```text
-x-powered-by: PHP/8.4.22
-x-deployment-id: client-portal-be-sha-4ab8871
-```
-
-Final dashboard result:
-
-```text
-Welcome back
-
-Email: test@reltroner.com
-
-Role: AUTHENTICATED
-```
-
-**Impact:**
-
-* Implemented production-grade Keycloak multi-realm token validation
-* Enforced backend audience boundary with `aud=client-portal-be`
-* Restricted admin realm access using realm role `client`
-* Removed browser dependency on `api.skill-wanderer.com` as API base
-* Enabled same-origin API access through `client.skill-wanderer.com/api/*`
-* Migrated dashboard authorization from legacy session auth to Keycloak JWT auth
-* Verified browser dashboard loads successfully with authenticated backend data
-* Reduced authentication ambiguity across frontend, backend, Keycloak, Cloudflare, and deployment layers
-* Produced a cleaner trust boundary and safer production authentication model
-
----
-
-## Case Study 2 — Emergency SSO Domain Isolation for Production LMS
+## Case Study 1 — Emergency SSO Domain Isolation for Production LMS
 
 **Project:** Reltroner Learning Academy / Reltroner Identity
 
@@ -509,7 +278,7 @@ Reltroner     → sso.reltroner.com
 
 ---
 
-## Case Study 3 — Tradixa Retail Management System: ERP SaaS Architecture & Affiliate Enablement
+## Case Study 2 — Tradixa Retail Management System: ERP SaaS Architecture & Affiliate Enablement
 
 **Project:** Tradixa Retail Management System
 
@@ -517,7 +286,7 @@ Reltroner     → sso.reltroner.com
 
 **Focus:** Retail ERP, Inventory, Procurement, WMS, Sales, Finance, HRIS, Reports, Settings, AI Assistant, B2B SaaS sales communication
 
-**Period:** 2026 – Present
+**Period:** June 2026 – September 2026
 
 **Product URL:** https://tradixasystems.com
 
@@ -671,7 +440,7 @@ software architecture
 
 ---
 
-## Case Study 4 — Reltroner HRM
+## Case Study 3 — Reltroner HRM
 
 **Role:** Full-Stack / Platform Engineer
 
@@ -735,7 +504,7 @@ Repositories:
 
 ---
 
-## Case Study 5 — Modular Course Engine System
+## Case Study 4 — Modular Course Engine System
 
 **Project Type:** LMS / Learning Platform Architecture
 
@@ -790,7 +559,7 @@ Key improvements:
 
 ---
 
-## Case Study 6 — Security Incident Response: RSA Key Exposure
+## Case Study 5 — Security Incident Response: RSA Key Exposure
 
 ### Case
 
@@ -827,7 +596,7 @@ I handled the incident with a structured remediation process:
 
 **Remote**
 
-**March 2026 – Present**
+**March 2026 – September 2026**
 
 Working in a distributed engineering environment across Vietnam and Europe, contributing to full-cycle product delivery across backend reasoning, platform architecture, frontend integration, authentication flows, debugging, deployment validation, and technical handoff/documentation.
 
@@ -860,7 +629,7 @@ Working in a distributed engineering environment across Vietnam and Europe, cont
 
 **Affiliate / Independent SaaS GTM Enablement**
 
-**June 2026 – Present**
+**June 2026 – September 2026**
 
 Worked on understanding, mapping, and communicating Tradixa as an ERP SaaS platform for retail, distribution, payment point, and B2B business operations.
 

@@ -1,10 +1,10 @@
 ---
 title: "Reltronland — Country Profile"
-description: "A canonical country profile of Reltronland: the Astralis Pinnacle civilization of clarity, cyber-meritocracy, anti-capture doctrine, sentient development, structural sovereignty, RSC autonomy, and disciplined growth within Asthortera."
+description: "Reltronland, the Astralis Pinnacle: Asthortera’s highest-SDI civilization, largest financial-custody center, interplanetary corporate-finance hub, and civilian-linked competitor-partner of sovereign Depcutland."
 image: "/images/reltronland-cover.webp"
 author: "Rei Reltroner"
 date: "2026-07-16"
-lastUpdated: "2026-10-31"
+lastUpdated: "2026-11-07"
 published: true
 world: "Asthortera"
 category: "Apex Superpower Nation-Faction"
@@ -876,6 +876,32 @@ Each tower declares:
 > _"We do not bow to the abyss — we rise above it."_
 
 **Reltronland = The Skyscraper Civilization.**
+
+---
+
+## Asthortera's Largest Financial Custody and Interplanetary Pricing Gravity
+
+**Reltronland is the largest financial-custody center in Asthortera**, holding exceptional international market confidence in asset administration, secure custody, settlement, banking infrastructure and related financial services. Its reach includes **corporations, investors and institutions from planets outside Asthortera** whose financial systems may be less technologically, institutionally or operationally advanced.
+
+Reltronland is also a major **interplanetary hub for transfer-pricing and related-party corporate arrangements**. This gravitational concentration arises **predominantly from the choices of market participants** seeking reliable custody, liquidity, enforcement, expertise and integrated services. **It is not established as a deliberate Reltronland state campaign to redirect the tax bases, research outputs or sovereignty of less advanced planets or of Depcutland.**
+
+### Separate the financial functions
+
+| Function | What it means | What it does not automatically mean |
+|---|---|---|
+| **Financial custody** | Safekeeping and administering clients' assets under custodial duties | Reltronland becomes beneficial owner of those assets |
+| **Corporate treasury / settlement** | Concentrating liquidity management, payments and cross-border financial operations | The government controls every private balance sheet |
+| **Transfer pricing** | Setting prices for transactions among related corporate entities | Every transaction is abusive or artificially shifts profit |
+| **Intellectual-property licensing** | Assigning contractual rights and payment for valuable research or technology | Custody of funds automatically transfers inventorship or archive jurisdiction |
+| **Tax and profit attribution** | Applying applicable economic substance, functions, risks and legal standards | A financial booking location alone resolves every tax or sovereignty question |
+
+**Financial concentration can create spillovers without malign intent.** Network effects may lead corporate groups to locate treasury, licensing, financing or shared-service functions in Reltronland, concentrating influence over economic decisions. These processes remain subject to their actual contracts, regulatory authorities, economic substance and the independent sovereignty of every participating country.
+
+**Depcutland recognizes this gravity and takes preventive institutional measures to protect itself.** As the **Oracle of Asthortera**, it seeks to keep control over the economic value, research provenance and custodial governance of Depcutland-created knowledge. Its protection against structural transfer-pricing leakage and the loss of strategic intellectual-property decision rights is **not evidence that Reltronland wants to attack its archive**. A multinational firm, a depositor, a national regulator, an archivist and a bank are distinguishable actors.
+
+The two civilizations can consequently cooperate in finance while contesting corporate structuring, licensing, pricing and jurisdiction. **TCBC** remains a privately governed bank, **not Reltronland's treasury**, and Depcutland's **Endless Library** remains an independent custodial institution even when using Reltronland-licensed dimensional technology.
+
+**Statistical boundary:** Reltronland's **42% share of planetary GDP** is the separate **ratified NCCM V6.5 Year 0 metric**. The forward Season 40 narrative's **40% market-cap modeling floor for Reltronland and 51–65% combined dynamic market-cap share** are different measures and a different narrative scope. **Financial-custody scale, GDP, corporate transfer pricing and market capitalization must not be equated or double-counted.**
 
 ---
 
@@ -2267,6 +2293,24 @@ This distinction is now canonical throughout the Reltronland country profile.
 
 ---
 
+## Selective Citizenship, Voluntary Talent Retention and Everyday Mobility
+
+Reltronland and Depcutland are Asthortera's **two highest-SDI civilizations** (ratified Year 0 **0.984** and **0.981**, respectively) and both experience intense **post-modern epistemic and professional competition**. Their extremely demanding environments attract top talent from across the universe. **Admission and naturalization are selective**; permanent departure from citizenship is **even more difficult** under sophisticated anti-brain-drain systems.
+
+This does **not** imply that the majority of talented people would prefer to leave. **Most elite citizens and high-value talents genuinely prefer to remain in Reltronland or Depcutland**, independently of the legal and institutional costs of renouncing citizenship. Attractive research ecosystems, household quality of life, community belonging, personal ambition and meaningful institutional participation can coexist with brutal competition. Both countries maintain **positive net immigration** (inflows above outward migration). The exact legal grounds for citizenship renunciation and exceptions remain unassigned; no automatic universal travel prohibition or lifetime detention should be inferred.
+
+**Cross-border circulation is a separate, much larger social phenomenon.** Large numbers of ordinary Reltronians routinely travel to Depcutland and back for family, relatives, children, work, education, social communities, ecological and regional activity. Depcutians do the same in Reltronland. Many families span the two countries while retaining **different, strongly held national identities**.
+
+Reltronland's initial **five-year standard citizenship eligibility** and exceptional recommendation routes below remain **conditional pathways**, not unconditional acceptance promises. A visitor, student, resident or worker crossing Neiput's regulated border **does not thereby acquire, exchange or renounce citizenship**. Border authorization and citizenship eligibility require distinct legal decisions.
+
+**Civilian ties—not just treaties, banks or state-level strategy—are the dominant long-run reason the two countries cannot cleanly detach.** Governments can disagree about nearly everything and still face profound consequences when ordinary family visits, education, shared environments and daily commerce are interrupted. The relationship predates the 1048–1030 BAC war, though safe physical travel should not be presumed possible during wartime.
+
+### Epistemic-native mother tongue
+
+Reltronian communication is also a **civilizationally ordinary means of modeling and changing social reality**. From childhood, abstraction, decomposition, causal structure and adaptation to an interlocutor's ability to understand become familiar cognitive and linguistic habits. Reltronland's common tendency is toward **clarity, system engineering, execution and actionable commitments**; Depcutland's toward **provenance, context and historical interpretation**. Both can use concise emotional language and both possess the other's skills. These are cultural tendencies, not universal intellectual types or mandatory technical jargon.
+
+---
+
 # 18. Immigration and Social Policies
 
 Reltronland is open to talented outsiders but uses strict layered immigration programs to preserve equilibrium.
@@ -2667,6 +2711,23 @@ Reltronland's official currency is `$REL`, but it will **not launch a crypto tok
 
 ---
 
+## Reltronland–Depcutland: Crisis Cooperation and the Appearance of Alliance
+
+**Reltronland and Depcutland do not need shared ideology, foreign policy, military command or agreement on liability to cooperate when Asthortera faces a systemic threat.** Their interdependent civilian lives, industrial networks, finance and independent knowledge infrastructures give both practical incentives to maintain cooperation. **Henchoway** is a purposive transnational actor exploiting systems and **Nytherion Abyss** is a wider existential/metaphysical condition; the latter is not synonymous with all Henchoway activity nor a force that can simply be permanently defeated.
+
+Coordinated archive deposits, infrastructure maintenance, investigation, emergency interoperability, risk mitigation and preservation of independent evidence are **bounded actions**, not merger. Their differing objectives can nevertheless look to foreign governments like **unconditional mutual backing**, particularly because both nations often understand each other's structural objections more precisely than outsiders do.
+
+**The series demonstrates the distinction as forward narrative design**, not previously completed events. In [*The Abyss of Comfort*](../series/the-abyss-of-comfort.md):
+- **Season 30–31 (planned):** AICR Reltronland deposits selected record duplicates under the independent custody of Depcutland's Endless Library; reciprocity preserves evidence across sovereign failure domains.
+- **Season 39 (planned):** Reltronland presses for early risk mitigation, while Depcutland presses for historical state and provenance preservation; the multilateral forum seeks a minimum interoperable response without falsely announcing consensus.
+- **Season 40 (planned):** Other delegates push Reltronland toward an open-ended planetary-guarantor role. Depcutland accurately explains the limits of an unconsented obligation and is **accused of siding with its rival**. Reltronland accepts that depiction of its objection, **not necessarily Depcutland's proposed liability allocation**.
+
+**A capability to help does not create an unlimited treaty obligation.** Reltronland still remains accountable for harm attributable to its own contracts, actions and enforceable duties, and may accept proportional additional assistance. Likewise, Depcutland's independent analytical judgment is not a veto over others' sovereign choices. The appearance of a geopolitical bloc arises from **selective convergence of actions**, not a blanket alliance, merged treasury or unbounded planetary guarantee.
+
+**Most consequential everyday driver:** the two countries' ordinary citizens, families, schools, firms and communities already have so much ongoing cross-border life that severe unilateral separation would injure each country's own population. Their strategic institutions cooperate within a societal landscape that political elites did not create from scratch.
+
+---
+
 # 24. Strategic Behavior and Foreign Relations
 
 ## Allies
@@ -2800,7 +2861,11 @@ Instead, it clarifies their deeper cause.
 | SDI 0.984 | Measurement of cognitive, emotional, civic, and institutional maturity |
 | Continuous CBD urbanization | Spatial expression of clarity, density, and synchronized productivity |
 | RSC autonomy | Outer-void continuation of strategic independence |
-| Depcutland rivalry | Stable twin-pillar tension, not permanent annihilation |
+| Depcutland rivalry | Stable twin-pillar tension with dominant ordinary-civilian ties, global threat cooperation and separate national mandates |
+| Cross-border family networks | Mass ordinary-citizen mobility sustains kinship, education, work, communities and shared regional life |
+| Financial custody leadership | Private global and interplanetary trust concentrates custody, corporate treasury and related-party services without presumed state manipulation |
+| Depcutland epistemic sovereignty | Oracle civilization anticipates economic-value leakage and remains independent of Reltronland's financial gravity |
+| Global crisis response | Issue-specific coordination against Henchoway-linked risks and Nytherion-related threats may appear to outsiders as political allegiance |
 | Anti-Abyss doctrine | Cosmic extension of anti-stagnation philosophy |
 | Digital nation layer | Repository-era sovereignty through systems, identity, and meritocratic contribution |
 

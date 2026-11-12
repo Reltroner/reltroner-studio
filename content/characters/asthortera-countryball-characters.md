@@ -4,6 +4,7 @@ description: "Official visual identity, personality archetype, narrative role, a
 image: "/images/asthortera-countryball-characters.webp"
 author: "Rei Reltroner"
 date: "2026-06-06"
+lastUpdated: "2026-11-07"
 published: true
 category: "Character Design"
 tags: [Asthortera, Countryball, Character Design, Animation, Worldbuilding, Visual Identity, Character Bible, Asthortera Ball, Geopolitics]
@@ -63,55 +64,29 @@ animated productions.
 
 ------------------------------------------------------------------------
 
-# UNIVERSAL DESIGN STANDARDS
+# COUNTRYBALL IDENTITY & ACTIVE 3D TV PERFORMANCE STANDARD
 
-Every Asthortera Countryball must follow these core rules.
+The national identities and behavioral profiles below remain the character authority. The owner's 2026-11-07 screen-production decision **reuses the genuine 3D WB-NPC-001 P6 work**, rather than replacing it with a no-mouth/no-hand model. This is the active **Asthortera Ball TV performance adapter**, not a biological species declaration or automatic approval of all national assets.
 
-### Body Structure
+### 3D body and face contract
 
--   Perfect spherical geometry
+- Recognizably spherical body with stable at-rest proportions; controlled squash/stretch is temporary acting rather than identity drift.
+- **One expressive facial mouth and exactly two small, detached, volumetric 3D hands.** The reusable rig always provides both hands, though particular shots can minimize gestures.
+- **No long arms, legs, feet, nose, ears or realistic human anatomy** by default.
+- Eye and mouth performance, hand position, rotations, pauses and timing work together; no compulsory exaggerated gestures.
+- Country-specific colors, national emblems, approved accessories and established personalities are essential. The generic white ball is an **engineering base**, not a finished Pasgerflitball/Reltronlandball/Depcutlandball asset.
+- Use genuinely three-dimensional body, curved face and hands with scene-consistent lighting/shadows, clear outlines and readable silhouettes.
 
--   Uniform proportions
+### Legacy illustration compatibility
 
--   No limbs
+The earlier **mouthless/handless flat-vector** instruction remains an archived 2D visual direction; it does **not** govern the active P6-based TV version. Historical artwork and older story drafts are preserved, not retroactively deleted. This guide owns national character look and acting, while [Asthortera Ball](../series/asthortera-ball.md) owns season/episode decisions and the [master constitution](../principles/reltroner-studio-master-source-of-truth.md) governs canon/publication.
 
--   No realistic anatomy
+### Animation and format compatibility
 
--   No mouth
-
--   No nose
-
--   No ears
-
-### Visual Style
-
--   Thick black outline
-
--   Flat vector appearance
-
--   Subtle glossy highlight
-
--   Clean silhouette
-
--   Minimalist national symbol
-
--   Consistent eye system
-
-### Animation Compatibility
-
-Designed for:
-
--   Countryball animation
-
--   Motion comics
-
--   2D digital animation
-
--   MrSpherical-style productions
-
--   Educational media
-
--   Short-form content
+- Reuse P6 Three.js 3D geometry and deterministic Remotion frame timebase through an additive national-character profile/adapter.
+- Preserve the P3/P5 2D and billboard implementations for legacy use and regression checks.
+- Support landscape and portrait formats without changing character identity.
+- Do not import Phantomkind or Cosmeilian species/manifestation character arcs into the current Countryball TV contract.
 
 ------------------------------------------------------------------------
 
@@ -2661,8 +2636,7 @@ Examples:
 
 What the character usually does without needing explicit narration.
 
-This is especially important because Countryballs do not have arms,
-hands, mouths, or conventional human body language.
+In the active TV format, Countryballs have a facial mouth and two detached 3D hands but no long arms, legs or conventional human anatomy. Character-specific behavior still matters more than exaggerated gestures.
 
 ### 4. Stress Response
 
@@ -2682,8 +2656,7 @@ This is the primary engine for character-driven comedy.
 
 # COUNTRYBALL PERFORMANCE LANGUAGE
 
-Because Asthortera Countryballs have no limbs or mouths, personality
-must be communicated through:
+In the active 3D TV profile, a facial mouth and two detached hands supplement the nonverbal performance language. Personality must remain understandable through:
 
 -   Eye direction
 -   Eye narrowing or widening
@@ -2698,6 +2671,8 @@ must be communicated through:
 -   Repetition
 -   Delayed reactions
 -   Silence
+-   Readable mouth expression and dialogue timing
+-   Small, purposeful gestures by the two detached hands
 
 A character should remain visually recognizable even when dialogue is
 removed.
@@ -2708,7 +2683,7 @@ Asthortera Ball should prefer:
 
 -   Pauses instead of shouting
 -   Stares instead of exaggerated gestures
--   Movement instead of hand gestures
+-   Purposeful movement before unnecessary hand gestures
 -   Positioning instead of physical confrontation
 -   Deadpan silence instead of slapstick
 -   Understatement instead of melodrama
@@ -2771,8 +2746,8 @@ No future Asthortera Countryball may violate the following standards:
 -   Perfect spherical body
 -   Thick black outline
 -   Minimalist national symbol
--   No mouth
--   No limbs
+-   Expressive 3D facial mouth in the active TV rig
+-   Exactly two detached 3D hands with no long arms, legs or feet
 -   Clean silhouette
 -   Readable iconography
 -   Consistent eye system
