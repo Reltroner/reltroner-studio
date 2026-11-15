@@ -850,7 +850,7 @@ Despite the stronger gravitational environment, Asthorteran humans and human-lik
 
 | Population | Male | Female |
 |---|---:|---:|
-| **Asthortera** | **174.8 cm** | **162.4 cm** |
+| **Asthortera** | **184 cm** | **171 cm** |
 | **Earth benchmark** | **~171 cm** | **~158 cm** |
 
 Asthorteran biological adaptation is explained through several interacting mechanisms.
