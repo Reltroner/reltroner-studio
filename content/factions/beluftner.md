@@ -655,6 +655,20 @@ and one of the most influential civilizations in the entire history of Asthorter
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Arcane education, magical agriculture, heritage preservation and the Arcane Order.
+
+**Pressure interpretation:** Training, safety and credible stewardship can impose substantial professional responsibility despite the nation's harmony-before-power ethos.
+
+**Possible internal psychological burden:** Pressure to preserve inherited knowledge, adapt ancient instruction and protect institutional legitimacy is an interpretive scenario, **not** an existing measured national distress rate.
+
+**Evidence and canon boundary:** These are **qualitative, occupation-specific interpretations** grounded in this national profile, not new national clinical statistics, mandatory work-hour figures, uniform experiences for all residents or evidence of overt aggression. Professional pressure, inner distress, external emotional regulation, and physical/intimidating conflict must be distinguished. Aurastelia's **97% outward Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** apply **only to Aurastelia** and do not transfer to this country.
+
+**Comparison:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md) records the nineteen-country distinction and its evidentiary limits.
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Classification (2026-10-30)
 
 Six-way primary ancestry is **0.2% Depeisit, 0.5% Cistheta, 2% Cosmeilian, 90.3% Native, 6% Phantomkind / Spiritual Hybrid, 1% Other**. National SDI **0.896** and population **91 billion** remain unchanged. The previous five-way profile is superseded for Year 0. See [14-country V4 ancestry](../statistics/asthortera-phantomkind-demography-v4.md).

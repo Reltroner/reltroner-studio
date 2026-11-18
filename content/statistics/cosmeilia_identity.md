@@ -28,6 +28,9 @@ Cosmeilia is a planet unlike any other—rooted in cosmic elegance and spiritual
 - 2% Immigrants from Cistheta  
 - 1% Others (alien humanoids, hybrids)  
 
+> **Taxonomy interpretation, 2026-11-17:** The historic **85% Cosmeilia-Human** refers to an older demographic label, **not** the percentage of Cosmeilian currently manifesting as humans. The creator's newer single-lineage rule allows human-like, fairy, stellar, comet, auroral and luminous forms with unchanged species/census identity. The above composition remains archival until a distinct planet-Cosmeilia reclassification is ratified; do not automatically substitute the Asthortera national Cosmeilian count. See [Cosmeilian/Phantomkind life course](./asthortera-cosmeilian-phantomkind-life-course.md).
+
+
 No full-blooded Earth-human exists natively on Cosmeilia.
 
 ---
@@ -156,4 +159,3 @@ It is not paradise—it is purpose.
 ---
 
 📍 Return to [Statistics Overview](https://www.reltroner.com/statistics)
-

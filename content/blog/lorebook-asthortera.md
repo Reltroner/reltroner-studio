@@ -2,7 +2,7 @@
 title: "Grandmaster Lorebook of Asthortera — Collector’s Compendium"
 description: "An integrated and immersive worldbuilding codex of Asthortera, its civilizations, dimensions, conflicts, and characters — from Spiral to Astralis."
 author: "Reltroner Studio"
-date: "March 29, 2025"
+date: "2025-03-29"
 published: true
 image: "/images/lorebook-asthortera.webp"
 ---
@@ -46,6 +46,10 @@ Asthortera is a battleground of ideology, energy, and evolution — where consci
 - **Specialty:** Star navigation, cosmic oracle, advanced telescience
 
 ### 🌌 Aurastelia — "The Aurora Kingdom"
+
+**2026-11-16 creator-established Aurora Sancta clarification:** The **Aurora people and their descendants** can personally feel beneficial **skyborne Aurora energy by seeing the Aurora with their naked eyes**. Aurora Sancta is their culturally grounded national religion, not a claim that all citizens or visitors are obliged to believe or feel an identical effect. Those who do not experience the benefit can freely leave the faith and pursue a change of citizenship; leaving the faith does not force expatriation. Queen Valethra invites public theological criticism, suggestions and revision. Within House of Valethra, spiritual institutional leadership, industry, astronomy, education and Hana's independent technical life remain valid divergent vocations. See [Aurora Sancta — Lived Aurora, Freedom of Faith, and Living Revision](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) and [House of Valethra](../series/house-of-valethra.md).
+
+
 - **Population:** 104 billion
 - **Philosophy:** Cosmic spirituality, light-mind harmony
 - **Known For:** Priesthood of Light, Aurora Guardians

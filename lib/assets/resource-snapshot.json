@@ -1,5 +1,5 @@
 {
-  "sourceSha": "628cdb6b987845d4b6436cc264e0348bb46ee21f",
+  "sourceSha": "ebec03e79206406fd55ffaab1974774b9186278b",
   "provenance": "Verified read-only Git tree at one immutable resource commit.",
   "resources": [
     {
@@ -318,14 +318,9 @@
       "bytes": 703038
     },
     {
-      "path": "landing-page-resource/images/asthortera-world-map-progress.png",
-      "blobSha": "887b9f068c595f268ec45777e7b81e1e6d0c909d",
-      "bytes": 1700744
-    },
-    {
       "path": "landing-page-resource/images/asthortera-world-map-progress.webp",
-      "blobSha": "15ffe3d019328155a3465ab03774cd77177fd174",
-      "bytes": 401052
+      "blobSha": "e8e460f8365aa7cc1f9d664da4bfd2ad40c814c2",
+      "bytes": 571986
     },
     {
       "path": "landing-page-resource/images/asthortera_identity.webp",
@@ -1054,8 +1049,8 @@
     },
     {
       "path": "landing-page-resource/images/depcutland-the-grand-library.webp",
-      "blobSha": "fa2a79308ed9263c3fa445267c2586406e66c517",
-      "bytes": 533392
+      "blobSha": "ac27c39fc7d4c3fad492cb6bd79b549718cbc94c",
+      "bytes": 740952
     },
     {
       "path": "landing-page-resource/images/depcutland-the-secret-between-pages.webp",
@@ -2606,6 +2601,11 @@
       "path": "landing-page-resource/images/reltroner-ai-fork.webp",
       "blobSha": "880d0e5a4467bf3ce2b2e7dc4e8d69d93368a1ec",
       "bytes": 60302
+    },
+    {
+      "path": "landing-page-resource/images/reltroner-contact.webp",
+      "blobSha": "da8c1f626938ec75275dffbe79d7c02b1c7bc38a",
+      "bytes": 482646
     },
     {
       "path": "landing-page-resource/images/reltroner-cv-banner.webp",

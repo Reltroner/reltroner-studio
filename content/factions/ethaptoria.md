@@ -122,15 +122,15 @@ tags:
 - [1. National overview](#1-national-overview)
 - [2. Geography and settlements](#2-geography-and-settlements)
 - [3. History and national formation](#3-history-and-national-formation)
-- [4. Education and the culture of inquiry](#4-education-and-the-culture-of-inquiry)
 - [5. Politics and civic institutions](#5-politics-and-civic-institutions)
 - [6. Linguistic and cultural evolution](#6-linguistic-and-cultural-evolution)
+- [7. NCCM V6 national quantitative baseline](#7-nccm-v6-national-quantitative-baseline)
 - [8. Regional partnerships and diplomatic relationships](#8-regional-partnerships-and-diplomatic-relationships)
 - [9. Risks, limits and ethical tradeoffs](#9-risks-limits-and-ethical-tradeoffs)
 - [10. The Abyss of Comfort — proposed narrative tension](#10-the-abyss-of-comfort--proposed-narrative-tension)
-- [11. National identity versus countryball characterization](#11-national-identity-versus-countryball-characterization)
 - [12. Cross-domain QA and future remodeling agenda](#12-cross-domain-qa-and-future-remodeling-agenda)
 - [13. Canon, provisional facts and source-of-truth distinctions](#13-canon-provisional-facts-and-source-of-truth-distinctions)
+- [Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)](#professional-and-psychosocial-pressure--cross-national-clarification-2026-11-13)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
 <!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
@@ -434,3 +434,15 @@ The six-category planetary ancestry distribution is temporarily **represented by
 - [Planet Asthortera and demographic context](../statistics/asthortera_identity.md)
 - [Asthortera countryball identities](../characters/asthortera-countryball-characters.md)
 - [Scenrepolia's electromagnetic national development](./scenrepolia.md)
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Puzzle-driven education, repeatable simulation, field testing and the certification dispute with Stelpadland.
+
+**Professional pressure:** Professionals must distinguish a correct model or examination from successful and safe field performance. Accreditation and the ability to acknowledge unresolved questions can matter as much as puzzle-solving speed.
+
+**Possible psychological burden:** Possible strain includes examination anxiety, misplaced prestige attached to abstract scores and discomfort with uncertainty; no universal assessment regime or national psychiatric rate is established.
+
+**Evidence boundary:** Distinguish explicit national descriptions from **plausible sector-derived interpretation**. No measured nationwide burnout, internal emotional-health prevalence, forced work-hour regime, social violence rate or identical experience for every resident is inferred. A person's internal strain, outward conduct, professional responsibility and overt aggressive conflict are four different dimensions. Aurastelia's **97% external Emotional Stability Rate** and **Near Zero violent/aggressive Conflict Rate** are **Aurastelia-specific**, not values assigned to ethaptoria.
+
+**Cross-reference:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).

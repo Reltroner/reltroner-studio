@@ -15,6 +15,14 @@ published: true
 
 ---
 
+### Creator-Established Boundary — Skyborne Personal Benefit vs Engineering (2026-11-16)
+
+The Aurora people's and their descendants' **direct naked-eye viewing of the skyborne Aurora** can produce a **personally felt benefit of Aurora energy**; this is an experiential foundation of their national faith, [Aurora Sancta](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md). **It is not the same assertion as** operating Aurora energy conversion, synchronization devices, crystals, grid technology, industrial infrastructure or remote instrumentation. A successful technical measurement does not automatically demonstrate personal religious benefit, nor does a lived benefit prove every scientific or doctrinal explanation.
+
+A person who does not experience this benefit is free to leave Aurora Sancta and pursue a change of citizenship; spiritual participation is voluntary. Queen Valethra invites public criticism and improvements to Aurora Sancta, including scientific scrutiny of technical claims. No universal medical efficacy, biological percentage, guaranteed effect or substitute device is established by this page. Researchers should distinguish measured system outcomes from spiritual interpretations.
+
+---
+
 ### 🔸 1. Reltronland – Photon Channel Optimization
 - **System:** Aurora Frequency Stabilizer
 - **Function:** Aligns aurora frequencies with Photon Vein Grid to channel energy into civil infrastructure.
@@ -101,4 +109,3 @@ A **neural stabilization interface** linking human cognition with sentient AI.
 
 Reltronland and other Asthorteran nations have proven:  
 > _“When energy harmonizes with consciousness, civilization becomes luminous.”_
-

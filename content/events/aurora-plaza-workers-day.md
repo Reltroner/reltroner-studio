@@ -214,6 +214,14 @@ The aurora shone brightly.
 
 ---
 
+## 2026-11-16 Canonical Reading — Work, Conscience and Aurora Energy
+
+This ceremonial celebration of work is **an expression of Aurora Sancta ethics, not a demand that every employee be religious or turn every professional duty into compulsory worship**. Aurora Sancta is rooted in the **Aurora people's and their descendants' capacity to feel beneficial skyborne Aurora energy when looking at the Aurora with the naked eye**. Such personal experience is not universally guaranteed and must not serve as a labor eligibility test.
+
+A person who does not experience the benefit is free to leave Aurora Sancta and pursue a change of citizenship; faith departure and nationality transition are distinct. Queen Valethra invites public critique and revision of Aurora Sancta, and a worker can challenge an institution's religious interpretation or working conditions without being classed as spiritually defective. Historical ceremonial descriptions such as the absence of protest banners are **scene descriptions**, not a ban on lawful labor grievances. Relevant civil, workplace and public safety protections remain distinct from voluntary ritual. Reference: [Aurora Sancta — Lived Aurora, Freedom of Faith, and Living Revision](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+---
+
 # VII. DOCTRINAL INTERPRETATION
 
 In many worlds:

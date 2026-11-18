@@ -16,6 +16,14 @@ image: "/images/aurora-synthesia-ritual-dance.webp"
 
 ---
 
+## Continuity Note — Ritual as Voluntary Living Culture (2026-11-16)
+
+Aurora Synthesia remains a culturally significant artistic ceremony, **not a compulsory condition for Aurora Sancta membership, public status or citizenship**. Aurora Sancta is rooted in the **Aurora people's and descendants' firsthand benefit from skyborne Aurora energy when they look directly at the Aurora with their naked eyes**; participation in a ceremonial dance is a different activity and must not be treated as the physical mechanism or a universal substitute for sky viewing.
+
+Those who do not feel Aurora's benefit may leave the faith and pursue a citizenship change without spiritual stigma. Queen Valethra invites criticism and improvements to Aurora Sancta and its interpretations; choreographic innovations or disagreements do not automatically indicate disloyalty. See [Aurora Sancta living-faith clarification](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+---
+
 ## 💖 Essence and Meaning
 
 *Aurora Synthesia* is the ceremonial dance of Aurastelia, symbolizing the **integration between spiritual fantasy and sci-fi futurism**. It is performed to express the belief that **logic and mysticism are not enemies, but harmonized forces within sentient evolution**.

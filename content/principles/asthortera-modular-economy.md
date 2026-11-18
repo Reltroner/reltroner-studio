@@ -436,6 +436,14 @@ They are reflections of **civilizational contribution to the broader planetary s
 
 ---
 
+### Cross-domain interpretation — 2026-11-17
+
+The creator-supplied AI/ASI, licensed cosmic-resource and household-manufacturing economy is mapped in [Cosmic Resource and Monetary Economy](./asthortera-cosmic-resource-and-monetary-economy.md); [FX, PPP and fiscal inputs](../statistics/asthortera-monetary-ppp-fiscal-parameter-register.md) are kept distinct. Currency unit value is **not automatically purchasing power, output or wages**; off-world resource stocks and imported QA invoices are **not automatic additions to domestic GDP**.
+
+The earlier microservices analogy describes **national specialization and interoperability**, not an exclusive ban on overlapping industrial sectors. Makers in multiple countries may produce the same kinds of hardware while remaining within national laws and monetary systems.
+
+---
+
 # 🌌 HYBRID CIVILIZATIONAL SETTLEMENT SYSTEM  
 ## Local Currency + Anchor Currency Model
 

@@ -126,14 +126,14 @@ tags:
 - [2. Geography and the Eastern Continental position](#2-geography-and-the-eastern-continental-position)
 - [4. Historical development and sovereign continuity](#4-historical-development-and-sovereign-continuity)
 - [5. Government, rights and institutional design](#5-government-rights-and-institutional-design)
-- [6. Physics and engineering boundaries](#6-physics-and-engineering-boundaries)
+- [7. Economic identity and NCCM V6 development baseline](#7-economic-identity-and-nccm-v6-development-baseline)
 - [8. SDI, civic quality and economic inequality](#8-sdi-civic-quality-and-economic-inequality)
-- [9. Urban life and national architecture](#9-urban-life-and-national-architecture)
+- [10. Education, language and non-theological civic culture](#10-education-language-and-non-theological-civic-culture)
 - [11. Trade, diplomacy and interdependence](#11-trade-diplomacy-and-interdependence)
-- [12. The Perfect Alignment Controversy — narrative development](#12-the-perfect-alignment-controversy--narrative-development)
 - [13. National character: three levels of truth](#13-national-character-three-levels-of-truth)
-- [15. Connections to established Asthortera sources](#15-connections-to-established-asthortera-sources)
+- [14. Canon, model and proposal boundaries](#14-canon-model-and-proposal-boundaries)
 - [Closing statement](#closing-statement)
+- [Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)](#professional-and-psychosocial-pressure--cross-national-clarification-2026-11-13)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
 <!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
@@ -632,3 +632,15 @@ The U-shaped magnet represents more than the ability to attract, repel or align 
 Its central question is not how to make every sentient mind agree.
 
 **Its central question is how to build systems powerful enough to serve free minds without possessing them.**
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Electromagnetic energy engineering, calibrated infrastructure, field safety and independent civic rights.
+
+**Professional / institutional pressure:** Work can involve high-reliability infrastructure maintenance, experimental measurement, public-exposure reviews and defensible technical explanations under legal and industrial scrutiny.
+
+**Psychosocial interpretation:** Possible strains include safety vigilance, incident-liability concerns and the tension between industrial optimization and individual freedom. The profile's proposed tribunal arrangements must retain their provisional status.
+
+**Evidence boundary:** This is domain-grounded qualitative analysis; it does not define a nationwide mental-health statistic, workplace-hour threshold, new clinical condition or a rank among countries. Work demands, subjective stress, outward composure and aggressive/violent incidents are separate subjects. Aurastelia's creator-clarified **97% external Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** have no automatic numerical equivalent in scenrepolia.
+
+**Comparative framework:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).

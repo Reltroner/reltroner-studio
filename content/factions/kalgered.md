@@ -1106,3 +1106,15 @@ strategic partner**.
 Reltroner Studio.*
 
 ---
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Neutral diplomacy, treaty practice, finance, data security, medicine and historical mediation.
+
+**Professional pressure:** Neutral institutions can face difficult proof and duty-of-care expectations when rival states request assistance without accepting shared political authority.
+
+**Possible psychological burden:** Possible strain includes neutrality fatigue, contested legal interpretation and pressure to take sides. Historical conflict does not prove current nationwide militancy or a particular clinical distress prevalence.
+
+**Evidence boundary:** Distinguish explicit national descriptions from **plausible sector-derived interpretation**. No measured nationwide burnout, internal emotional-health prevalence, forced work-hour regime, social violence rate or identical experience for every resident is inferred. A person's internal strain, outward conduct, professional responsibility and overt aggressive conflict are four different dimensions. Aurastelia's **97% external Emotional Stability Rate** and **Near Zero violent/aggressive Conflict Rate** are **Aurastelia-specific**, not values assigned to kalgered.
+
+**Cross-reference:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).

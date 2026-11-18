@@ -3413,6 +3413,20 @@ And in that tension, modern Asthortera survives.
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Archival sovereignty, historical provenance, memory rights and a demanding merit-epistemic institutional culture.
+
+**Professional pressure:** The profile already explicitly describes *brutal epistemic competition*: specialists are expected to defend interpretations, preserve reliable records and update knowledge while safeguarding independent custodial authority.
+
+**Possible psychological burden:** Possible inner burdens include reputation pressure, information-continuity fatigue and anxiety about misrepresenting history. This coexists with high life quality, voluntary talent retention and positive net immigration.
+
+**Evidence boundary:** Distinguish explicit national descriptions from **plausible sector-derived interpretation**. No measured nationwide burnout, internal emotional-health prevalence, forced work-hour regime, social violence rate or identical experience for every resident is inferred. A person's internal strain, outward conduct, professional responsibility and overt aggressive conflict are four different dimensions. Aurastelia's **97% external Emotional Stability Rate** and **Near Zero violent/aggressive Conflict Rate** are **Aurastelia-specific**, not values assigned to depcutland.
+
+**Cross-reference:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.

@@ -1952,6 +1952,20 @@ Let Moreg’s asphalt veins roar across Asthortera. 🛣️🏎️
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Automotive engineering, mobility, racing culture, road infrastructures and the active Moreg Driftwar.
+
+**Professional pressure:** Engineering and operational staff carry safety-critical responsibility for transport integrity, system reliability and crisis response when mobility-control systems are contested.
+
+**Possible psychosocial burden:** Possible internal strains include performance pressure, disrupted control and uncertainty during the Driftwar; these are not evidence that every Moreg resident faces identical peril or that work must be nonstop.
+
+**Continuity and evidence boundary:** Existing national specializations support these qualitative observations, but do **not** establish quantified burnout, psychiatric prevalence, nationwide uniform working hours, an aggressive-conflict statistic or a fixed ranking. Professional accountability can coexist with high quality of life; visible emotional control does not demonstrate internal psychological ease. Aurastelia's **97% external Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** have **Aurastelia-specific definitions** and do not apply numerically to this country.
+
+**Comparative context:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.

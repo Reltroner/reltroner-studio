@@ -2212,6 +2212,20 @@ Its deepest truth is simple:
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Creative education, animation, public arts, visual-literacy systems and a distinctive design economy.
+
+**Professional / institutional pressure:** An artist, creative professional or public designer may face originality demands, delivery deadlines, critical feedback, safety in creative public infrastructure and trade-offs between expressiveness and utility.
+
+**Possible internal psychological burden:** Possible psychosocial strain includes creative exhaustion, social comparison and reputational anxiety. The nation is not a universal carefree arts festival nor proof that every artist is psychologically distressed.
+
+**Evidentiary limits:** Do not convert qualitative canon into an invented nationwide stress prevalence, fixed work-hour mandate, clinical diagnosis or national ranking. Recognized expertise, strong material opportunity and intensely demanding work can coexist. Professional disagreement is not automatically overt aggression, and outward composure is not a private well-being certificate. Aurastelia's distinct **97% outward Emotional Stability Rate** and **Near Zero overt aggressive/violent Conflict Rate** do **not** describe pencilfania.
+
+**Shared reference:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.

@@ -32,6 +32,8 @@ tags: ["music", "aurastelia", "aurora", "resonance", "fantasy", "cosmic", "auror
 
 # Aurastelia — Aurora Resonance
 
+**Faith-and-energy canon note (2026-11-16):** This music expresses Aurastelia's Aurora Sancta culture; it is **not proof that every listener, visitor, citizen or descendant experiences identical Aurora energy**. The Aurora people and their descendants can feel beneficial skyborne Aurora energy **when seeing the Aurora directly with their naked eyes**. Religious participation is voluntary: one who does not feel its benefit can leave Aurora Sancta and pursue a citizenship change, and Queen Valethra invites citizens to criticize and improve the faith. Musical symbolism remains artistic, distinct from scientific proof, coercive religious duty and personal bodily experience. See [Aurora Sancta living-faith canon](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
 **Aurastelia — Aurora Resonance** is a musical archive entry from **Aurastelia**, the Realm of Resonant Light of Asthortera.
 
 It represents the luminous serenity of Aurastelia, the eternal aurora above its celestial landscapes, the harmony of crystalline architecture, and the quiet spiritual resonance of a civilization that understands light as more than something that can be seen.

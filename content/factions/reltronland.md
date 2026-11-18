@@ -3425,6 +3425,20 @@ Reltronland is not a utopia. It is a proving ground. Its strength lies not in do
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Astralis-oriented cyber-meritocracy, systems engineering, high-level research, structural accountability and professional talent competition.
+
+**Professional / institutional pressure:** The profile already explicitly establishes unusually intense epistemic/professional competition; continual learning, verifiable delivery, clarity, adaptation and demonstrated competence are major expectations.
+
+**Possible internal psychological burden:** Possible costs include merit pressure, fear of obsolescence and self-worth tied excessively to productivity. The same national canon affirms attractive research ecosystems, positive net immigration and that most high-value talent voluntarily prefer to remain.
+
+**Evidentiary limits:** Do not convert qualitative canon into an invented nationwide stress prevalence, fixed work-hour mandate, clinical diagnosis or national ranking. Recognized expertise, strong material opportunity and intensely demanding work can coexist. Professional disagreement is not automatically overt aggression, and outward composure is not a private well-being certificate. Aurastelia's distinct **97% outward Emotional Stability Rate** and **Near Zero overt aggressive/violent Conflict Rate** do **not** describe reltronland.
+
+**Shared reference:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.

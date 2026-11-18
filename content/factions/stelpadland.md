@@ -1550,6 +1550,20 @@ This can generate employment, domestic manufacturing capital, trade demand, qual
 
 **Current source of truth:** [NCCM V6.4 cross-domain report](../statistics/asthortera-nccm-v6-active-cross-domain.md) and [active machine-readable ledger](../../data/asthortera/nccm-v6-active-cross-domain.json). [The Timber Soul of Stelpadland](../cultures/timber-soul-stelpadland.md) remains the established artisanal-cultural basis.
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Scouting, wilderness and ecological stewardship, practical survival instruction, responsible forestry and experiential learning.
+
+**Professional / institutional pressure:** Qualified professionals may face demanding field-safety decisions, proof of real readiness beyond simulations, continuity of forest stewardship and disputes over land and public use.
+
+**Psychosocial interpretation:** Possible pressures include field responsibility, time-sensitive safety decisions and disagreement over ecological trade-offs. Do not presume hazardous testing or a universal militarized training mandate.
+
+**Evidence boundary:** This is domain-grounded qualitative analysis; it does not define a nationwide mental-health statistic, workplace-hour threshold, new clinical condition or a rank among countries. Work demands, subjective stress, outward composure and aggressive/violent incidents are separate subjects. Aurastelia's creator-clarified **97% external Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** have no automatic numerical equivalent in stelpadland.
+
+**Comparative framework:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **4%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.

@@ -12,6 +12,14 @@ published: true
 
 ---
 
+## Creator Clarification — Beauty, Lived Aurora and Voluntary Faith (2026-11-16)
+
+For the **Aurora people and their descendants**, watching the skyborne Aurora **directly with the naked eye** can mean experiencing the **benefit of Aurora energy**, not merely seeing a beautiful landscape. **Aurora Sancta** interprets this lived relationship as part of a national spiritual tradition, while the exact physiological mechanism and individual variation remain unspecified.
+
+Such benefits must not be projected onto **every tourist, every resident or every descendant**. An Aurora person who does not experience them is free to leave the religion and pursue a citizenship change without religious condemnation; leaving the faith is not forced expatriation. Queen Valethra invites public criticism and revisions to Aurora Sancta, including the religious interpretation of the scenery. Aurastelia's beauty can coexist with difficult work, grief, peaceful disagreement, scientific inquiry and personal religious freedom. See [Aurora Sancta living-faith canon](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+---
+
 ## ✨ A Beauty Not Just Seen — But Felt
 
 Most fictional realms dazzle us with color, gravity-defying architecture, or endless fantasy terrains.  
@@ -117,4 +125,3 @@ It’s built from *aurora marble* that stores the emotional memory of visitors.
 > 🌠 *“There are universes of color.  
 But only one realm of resonance.”*  
 — *Valethra, The Quiet Declaration*
-

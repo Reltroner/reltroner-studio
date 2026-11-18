@@ -121,16 +121,16 @@ tags:
 
 - [1. National overview](#1-national-overview)
 - [2. Geography, coast and cultural landscapes](#2-geography-coast-and-cultural-landscapes)
-- [3. The long historical transformation](#3-the-long-historical-transformation)
+- [4. Textile engineering, fashion and the production economy](#4-textile-engineering-fashion-and-the-production-economy)
 - [5. Music, nightlife and national cultural life](#5-music-nightlife-and-national-cultural-life)
 - [6. Government, commercial neutrality and rights](#6-government-commercial-neutrality-and-rights)
 - [7. NCCM V6 integrated economy](#7-nccm-v6-integrated-economy)
-- [8. Diplomacy and trade network](#8-diplomacy-and-trade-network)
 - [9. National language and its historical layers](#9-national-language-and-its-historical-layers)
 - [10. Urban design, architecture and material culture](#10-urban-design-architecture-and-material-culture)
+- [11. Education and non-theological reflection](#11-education-and-non-theological-reflection)
 - [12. The Abyss of Comfort — proposed arc](#12-the-abyss-of-comfort--proposed-arc)
-- [13. National character, limits and outstanding decisions](#13-national-character-limits-and-outstanding-decisions)
 - [14. Model boundaries and source precedence](#14-model-boundaries-and-source-precedence)
+- [Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)](#professional-and-psychosocial-pressure--cross-national-clarification-2026-11-13)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
 <!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
@@ -474,3 +474,15 @@ Outstanding issues:
 - [Planet Asthortera demographic and historical overview](../statistics/asthortera_identity.md)
 - [Asthortera Countryball character language](../characters/asthortera-countryball-characters.md)
 - [Existing ALREO legal and wage-unit references](../laws/alreo.md)
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Fashion, textile engineering, performance culture, manufacturing, labor and commercial neutrality.
+
+**Professional pressure:** Professional work combines original design, functioning textiles, supply-chain obligations, cultural expression and commercial commitments.
+
+**Possible psychosocial burden:** Possible burdens include aesthetic conformity pressure, image fatigue, market comparison and fear of losing authenticity. The entire population is not a luxury-fashion workforce.
+
+**Continuity and evidence boundary:** Existing national specializations support these qualitative observations, but do **not** establish quantified burnout, psychiatric prevalence, nationwide uniform working hours, an aggressive-conflict statistic or a fixed ranking. Professional accountability can coexist with high quality of life; visible emotional control does not demonstrate internal psychological ease. Aurastelia's **97% external Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** have **Aurastelia-specific definitions** and do not apply numerically to this country.
+
+**Comparative context:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).

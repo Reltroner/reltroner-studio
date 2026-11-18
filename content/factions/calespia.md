@@ -121,16 +121,16 @@ tags:
 
 - [1. Country overview](#1-country-overview)
 - [2. Geography, land and settlement](#2-geography-land-and-settlement)
-- [3. History: founding and sovereign agency](#3-history-founding-and-sovereign-agency)
+- [4. The Agricultural and Gastronomic civilization](#4-the-agricultural-and-gastronomic-civilization)
 - [5. National culture and everyday life](#5-national-culture-and-everyday-life)
 - [6. Government and agrarian rights](#6-government-and-agrarian-rights)
 - [7. NCCM V6 national quantitative baseline](#7-nccm-v6-national-quantitative-baseline)
-- [8. Trade diplomacy and the Calespian supply network](#8-trade-diplomacy-and-the-calespian-supply-network)
 - [9. Aesthetic identity, colors and symbolism](#9-aesthetic-identity-colors-and-symbolism)
 - [10. Institutional conflict and scientific ethics](#10-institutional-conflict-and-scientific-ethics)
+- [11. The Abyss of Comfort — potential arc](#11-the-abyss-of-comfort--potential-arc)
 - [12. Countryball portrayal versus citizens](#12-countryball-portrayal-versus-citizens)
-- [13. Next quantitative and cultural decisions](#13-next-quantitative-and-cultural-decisions)
 - [14. Canon, provisional facts and source-of-truth distinctions](#14-canon-provisional-facts-and-source-of-truth-distinctions)
+- [Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)](#professional-and-psychosocial-pressure--cross-national-clarification-2026-11-13)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
 <!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
@@ -453,3 +453,15 @@ The six-category planetary ancestry distribution is temporarily **represented by
 - [Planet Asthortera and demographic context](../statistics/asthortera_identity.md)
 - [Asthortera countryball identities](../characters/asthortera-countryball-characters.md)
 - [Scenrepolia's electromagnetic national development](./scenrepolia.md)
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Agriculture, food science, botanical provenance, food distribution and culinary hospitality.
+
+**Pressure interpretation:** Quality assurance, plant and ingredient traceability, food safety, production cycles and the botanical sovereignty dispute create defensible professional trade-offs.
+
+**Possible internal psychological burden:** Plausible strains include sensory perfectionism, seasonal delivery responsibilities and concern that optimized convenience can overwhelm genuine personal choice.
+
+**Evidence and canon boundary:** These are **qualitative, occupation-specific interpretations** grounded in this national profile, not new national clinical statistics, mandatory work-hour figures, uniform experiences for all residents or evidence of overt aggression. Professional pressure, inner distress, external emotional regulation, and physical/intimidating conflict must be distinguished. Aurastelia's **97% outward Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** apply **only to Aurastelia** and do not transfer to this country.
+
+**Comparison:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md) records the nineteen-country distinction and its evidentiary limits.

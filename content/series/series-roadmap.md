@@ -78,6 +78,12 @@ The owner-approved TV **visual-performance direction** retains the P6 genuine 3D
 
 ---
 
+### Aurora Sancta / Valethra Cross-Series Interpretation (2026-11-16)
+
+Aurora Sancta is a **living, voluntary religion of the Aurora people and their descendants**, rooted in the personally felt benefit of **skyborne Aurora energy when seeing the Aurora with the naked eye**. A person who does not feel that benefit can leave the religion and pursue a citizenship change; neither choice implies forced expatriation or stigma. Queen Valethra invites criticism and revision proposals about Aurora Sancta. Spirituality remains relevant to different adult vocations—including the House's spiritual, commercial, astronomical and independent engineering work—rather than requiring all characters to become clergy or follow a fixed ritual schedule.
+
+In planned Seasons 38–44, Valethra's spiritual influence does **not** override sovereign institutions, professional consent, research integrity, or Hana's responsibility for her planned actions. These additions are **creator-established general canon**, not evidence that the proposed seasons have already occurred. See [Aurora Sancta living-faith canon](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md), [House of Valethra](house-of-valethra.md) and [The Abyss of Comfort](the-abyss-of-comfort.md).
+
 ### The Abyss of Comfort — Seasons 38–41 Cross-Series Development Bridge (Planned)
 
 The series entry above remains the **inter-series novel premise**. For season-level causality, the binding narrative reference is [The Abyss of Comfort — Complete End-to-End Narrative Architecture](the-abyss-of-comfort.md). This bridge gives downstream authors and adaptation planners a compact overview; it is **not** a second competing episode-master or the Asthortera Ball TV production schedule.

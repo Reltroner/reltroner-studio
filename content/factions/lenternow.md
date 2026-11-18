@@ -1747,6 +1747,20 @@ Lenternow is more than a country of beautiful lights. It is a civilization that 
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Lanternlight technology, visual culture, civic beauty and high-SDI creative production.
+
+**Professional pressure:** Work can demand genuine originality, reliable visual infrastructure and ethical distinction between restorative beauty and aesthetics that merely numb civic responsibility.
+
+**Possible psychosocial burden:** The existing profile explicitly identifies prestige, reputation anxiety, artistic perfectionism and Nytherion-compatible false-comfort vulnerabilities. Healthy rest must not be classified as surrender.
+
+**Continuity and evidence boundary:** Existing national specializations support these qualitative observations, but do **not** establish quantified burnout, psychiatric prevalence, nationwide uniform working hours, an aggressive-conflict statistic or a fixed ranking. Professional accountability can coexist with high quality of life; visible emotional control does not demonstrate internal psychological ease. Aurastelia's **97% external Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** have **Aurastelia-specific definitions** and do not apply numerically to this country.
+
+**Comparative context:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.

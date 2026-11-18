@@ -57,6 +57,8 @@ Instead, its sentient civilizations are defined by **divergent yet deeply meanin
 
 ## 🌌 Aurora Sancta — *Faith of Light and Silence*
 
+**Creator clarification (2026-11-16):** Aurora Sancta is a national faith rooted in the **Aurora people's and their descendants' firsthand experience of beneficial skyborne Aurora energy when they look at the Aurora with their naked eyes**. A person who does not feel that benefit is free to leave the faith and pursue a change of citizenship; belief is not imposed, and leaving the faith does not itself require leaving Aurastelia. Queen Valethra **invites doctrinal criticism and suggestions for revision**, including criticism of her own interpretation. Ritual silence and living humility are meaningful practices, not compulsory replacements for professional, family or scientific life. The benefit's precise mechanism and accessibility boundaries remain open. See [Aurora Sancta — Lived Aurora, Freedom of Faith, and Living Revision](aurora-sancta-living-faith-and-voluntary-resonance.md).
+
 - **Origin:** Aurastelia  
 - **Essence:** Resonance, clarity, peace without performance  
 - **Core Principle:** *Let the light reveal you, but let no pride grow within.*  

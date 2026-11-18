@@ -10,6 +10,9 @@ published: true
 ## 📜 Reltronland Civilized Taxation Charter  
 **A Declaration of Fiscal Clarity, Trust, and Citizen Protection**
 
+> **Cross-domain rate-status note (2026-11-17):** A consolidated creator scenario specifies a **12% standard Reltronland VAT**; a **proposed** 8%–16% range has been discussed for Asthortera countries. These values are recorded, with status, in the [nominal/PPP/fiscal parameter register](../statistics/asthortera-monetary-ppp-fiscal-parameter-register.md). They are **not a statutory amendment in this charter** without separate legal ratification. Revenue from VAT as a proportion of GDP must not be confused with the tax rate.
+
+
 ---
 
 ### 🧠 Vision  
@@ -162,4 +165,3 @@ but through **a taxation system that respects intelligence, effort, and peace of
 
 **Let Astralis guide every tax form to justice.**
 **Let Astralis enforce taxation without fear, friction, or fallacy.**
-

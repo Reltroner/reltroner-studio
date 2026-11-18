@@ -4,6 +4,7 @@ description: "The Kingdom of Light Aurastelia: a cosmic-aurora civilization of A
 image: "/images/aurastelia.webp"
 author: "Rei Reltroner"
 date: "2025-06-14"
+lastUpdated: "2026-11-13"
 published: true
 canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remain unassigned"
 ---
@@ -101,14 +102,14 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 - [🌷 1. Core Identity](#-1-core-identity)
 - [🧬 2. Demographic Composition](#-2-demographic-composition)
-- [🗺️ 3. Geography & Landmark Features](#️-3-geography--landmark-features)
 - [🏙️ 4. Major Cities](#️-4-major-cities)
 - [🧘 5. Social & Cultural Life](#-5-social--cultural-life)
 - [🧠 6. Governance & Political Structure](#-6-governance--political-structure)
-- [✨ 8. Philosophy and Intergalactic Role](#-8-philosophy-and-intergalactic-role)
+- [🔿️ 7. Architecture & Technology](#️-7-architecture--technology)
 - [📊 9. Indexes & Indicators](#-9-indexes--indicators)
+- [Canonical Interpretation — External Emotional Stability and Overt Aggressive Conflict (2026-11-13)](#canonical-interpretation--external-emotional-stability-and-overt-aggressive-conflict-2026-11-13)
+- [Professional Pressure in the Realm of Resonant Light](#professional-pressure-in-the-realm-of-resonant-light)
 - [🔬 10. Psychological Effects on Visitors](#-10-psychological-effects-on-visitors)
-- [🎴 11. Cultural Fabric of Aurastelia](#-11-cultural-fabric-of-aurastelia)
 - [📜 12. Quotes from Queen Valethra](#-12-quotes-from-queen-valethra)
 - [🌌 Aurastelia Olympic Doctrine](#-aurastelia-olympic-doctrine)
 
@@ -154,7 +155,7 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 * **Sovereign Leadership Functions:** Head of State, Head of Government, Spiritual Leader, and Civilizational Apex for Resonance (within Aurastelian constitutional and institutional limits).
 * **Population:** 164 billion sentient beings
 * **Official Language:** Auroral Luminaris
-* **State Religion:** Aurora Sancta
+* **State Religion:** Aurora Sancta — a lived, revisable faith of the Aurora people and descendants, with freedom of conscience
 * **Currency:** \$ALC (Aurora Luminar Cosmic currency)
 * **Core National Values:** Spiritual harmony, emotional clarity, cosmic alignment, collective consciousness.
 
@@ -280,7 +281,13 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 #### 📿 Aurora Sancta
 
-* The national spiritual doctrine — lead without pride, rest without guilt, exist without suppression
+**Creator-ratified interpretation (2026-11-16):** Aurora Sancta is the religion of the **Aurora people and their descendants**. They can directly feel beneficial skyborne Aurora energy **when they look at the visible Aurora with their naked eyes**; this experiential possibility is not a guaranteed or compulsory sensation for every individual. Religious meaning, institutional teaching and scientific explanation must be distinguished.
+
+A person who **does not experience the benefit is free to leave Aurora Sancta and pursue a change of citizenship**. They are not spiritually defective or disloyal. Departure from the religion is separate from nationality transition; neither forced emigration nor compelled ritual participation follows. Queen Valethra **invites citizens to criticize Aurora Sancta and suggest revisions or improvements**, including criticism of the Queen's spiritual interpretations. Specific procedures for revisions or nationality changes remain open. See [Aurora Sancta — Lived Aurora, Freedom of Faith, and Living Revision](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+**Lived relevance:** Silence, meditation, Aurora viewing and festivals remain meaningful practices, but the faith does not make worship a second compulsory profession. Aurastelian scientists, engineers, entrepreneurs, caregivers, educators and distinct members of [House of Valethra](../series/house-of-valethra.md) may follow different life paths and exercise reasoned dissent while remaining part of the civilizational culture.
+
+* The national spiritual doctrine — lead without pride, rest without guilt, exist without suppression; voluntary belonging, open criticism and reform
 
 ---
 
@@ -335,6 +342,46 @@ canonStatus: "C — ratified NCCM V6.5 Year 0 national values; open fields remai
 
 **🔗 Techno-Spiritual Synergy:**
 **Extremely High**
+
+---
+
+### Canonical Interpretation — External Emotional Stability and Overt Aggressive Conflict (2026-11-13)
+
+**Creator clarification:** Aurastelia's **Emotional Stability Rate 97%** concerns **visible regulation of emotional behavior in social interaction**, especially avoiding aggressive shouting, uncontrolled rampages, destructive anger and intimidation. It is **not** a measurement of inward happiness, absence of anxiety, depression, grief, shame, professional exhaustion or romantic distress. Nor does it identify the remaining 3% as violent, clinically ill or socially dangerous. An observation period, numerical denominator, behavioral classification protocol and statistical sampling methodology are **not yet defined in canon**.
+
+Aurastelia's **Conflict Rate Near Zero** concerns **externally observable aggressive or violent confrontations**—physical assaults, credible threats, coercive intimidation, destructive confrontations and similar escalation. It **does not** count every difference of opinion, competitive professional decision, legal dispute, policy objection, family argument, workplace disagreement or internal conflict. *Near Zero* is **not** proof that aggression is impossible, no hidden victims exist, every dispute is resolved, or a mathematically specified criminal-incidence rate exists.
+
+These indicators are **distinct**: the 97% describes outward emotional comportment; *Near Zero* describes extremely rare overt aggressive confrontation. Neither indicator establishes that every Aurastelian has a peaceful inner life or an easy job. An intense but non-threatening argument can coexist with high outward regulation. A loud emergency warning is not automatically aggression. A quiet professional may be privately distressed; a calm face cannot prove consent, well-being, agreement or freedom from coercion.
+
+| Aurastelian situation | Interpretation compatible with both figures |
+|---|---|
+| A senior engineer disputes a technical design with sustained evidence and a firm tone | Disagreement, not necessarily aggression |
+| Professionals compete for recognition or challenge research findings | Institutional tension remains possible despite near-zero overt violence |
+| Five sisters argue about CLM-42 project readiness at their own home | Strong disagreement may be entirely nonviolent and non-intimidating |
+| Hana privately cries over disappointing her community or harming another person's trust | Severe internal pain is not outward aggressive misconduct |
+| A resident openly challenges an institution or refuses unauthorized access | Independent dissent is not violent conflict |
+| A person threatens coworkers, physically attacks them or deliberately destroys property to frighten others | Example of overt aggressive escalation; near-zero does not mean logically impossible |
+
+**Safety and agency guardrail:** Preference for non-aggressive conduct must not be converted into state-mandated silence, suppression of justified dissent, refusal of psychological care, forced emotional masking or denial of misconduct complaints. Public restraint and meaningful private suffering can coexist. No national statistical metric substitutes for an individual's actual circumstances or clinical assessment.
+
+### Professional Pressure in the Realm of Resonant Light
+
+Aurastelia is visually a **cosmic-aurora-kingdom** of extraordinary beauty, spiritual practices and resonant public life. It is simultaneously a technologically functional nation with laboratories, aviation safety, security, data centers, private engineering, financial services, medicine, governance and independent community institutions. Professional delegates must already demonstrate proven expertise before assignment to demanding partner environments such as Reltronland.
+
+Accordingly, highly demanding professional responsibilities are **compatible with** a predominantly calm, non-aggressive public manner. Pressure may arise from verifiable work outcomes, difficult ethical decisions, legal and sovereign authority, sophisticated scientific problems, contested resources, institutional expectations, responsibility after failure and personal fear of disappointing people who trust one's work. It is not necessary to invent violent office culture, omnipresent cruelty, fixed work-hour totals or a measured national burnout rate.
+
+The approved **planned Seasons 41–44** of [The Abyss of Comfort](../series/the-abyss-of-comfort.md) provide a bounded six-character illustration:
+
+- **Hana Seraphine Lunara:** technical competence, independent coordination and initiative coexist with strong internal disappointment over CLM-42, followed by serious personal accountability after knowingly enabling the unauthorized Roadglass-5 tracker. Her private shame and love for Delwyn are not equivalent to aggressive public behavior, and royal status excuses nothing.
+- **Andrea:** discipline in schedules, records, provenance and assignment; a complete document is not proof that a commitment was delivered.
+- **Elise:** external liaison, supplier discussions and rejection tolerance; a warm conversation is not a binding professional or romantic promise.
+- **Inela:** reproducible technical verification; passing implementation tests does not prove operational readiness or sufficient permission.
+- **Olivia:** execution and resource coordination; her participation in the tracker breach illustrates that practical reliability does not guarantee ethical judgment when emotion intervenes.
+- **Uriela:** privacy, consent and legal boundaries; principled dissent can remain respectful and nonviolent without becoming passive compliance.
+
+The five sisters may debate energetically while keeping distinct opinions. The same applies to their romantic uncertainty: a respectful but emotionally difficult refusal is still compatible with a low overt-violence culture. These scenes are **forward narrative architecture**, not past documentary episodes; the series remains active at **Mid-Season 17**.
+
+**Cross-national reference:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md) compares pressure types across all nineteen canonical national profiles without fabricating numeric rankings or applying Aurastelia's behavioral indicators to other nations.
 
 ---
 
@@ -578,7 +625,7 @@ Two locations hold highest priority in this doctrine:
 
 This doctrine is safeguarded by the High Sanctum of Aurora, and enacted under direct order from Her Radiant Majesty, Queen Valethra Seraphine Lunara.
 
-**All embassies, institutions, and academies must align with this doctrine** in training, education, and mission preparation.
+**Aurora Sancta-affiliated embassies' cultural programs, spiritual institutions, and academies participating in this voluntary spiritual-deployment framework** align their relevant training and mission preparation with its ethical purpose. **This is not mandatory worship or religious affiliation for every embassy employee, institution, professional, athlete, or resident;** ordinary civil law, conscience, and freedom to leave the faith remain distinct. The [2026-11-16 creator clarification](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) governs this older mandate's scope.
 
 ---
 

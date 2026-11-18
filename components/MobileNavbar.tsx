@@ -19,6 +19,7 @@ import {
   useReadingPath,
   decodeHtmlEntities,
 } from '@/components/archive/ReadingPathContext';
+import { PlatformEcosystemList } from '@/components/navigation/PlatformEcosystemMenu';
 
 const commandPaletteEvent = 'reltroner:command-palette:open';
 
@@ -26,17 +27,6 @@ type NavigationItem = {
   name: string;
   href: string;
 };
-
-const ecosystemLinks: NavigationItem[] = [
-  {
-    name: 'Reltroner Studio',
-    href: '/',
-  },
-  {
-    name: 'Explore the archive',
-    href: '/#explore',
-  },
-];
 
 const companyLinks: NavigationItem[] = [
   {
@@ -344,10 +334,18 @@ export default function MobileNavbar() {
                     ) : null}
 
                     <NavigationSection title="Ecosystem">
-                      <MobileLinkGrid
-                        items={ecosystemLinks}
-                        onNavigate={closeNavigation}
-                      />
+                      <PlatformEcosystemList onNavigate={closeNavigation} />
+                      <div className="mt-2">
+                        <Link
+                          href="/#explore"
+                          onClick={closeNavigation}
+                          className={`${interactiveClassName} border-white/10 bg-white/[0.03]`}
+                        >
+                          <span className="min-w-0 break-words">
+                            Explore the archive
+                          </span>
+                        </Link>
+                      </div>
                     </NavigationSection>
 
                     <NavigationSection title="Apps">

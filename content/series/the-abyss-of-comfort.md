@@ -18,6 +18,18 @@ tags: ["The Abyss of Comfort", "Asthortera", "Narrative Architecture", "Season T
 # Complete End-to-End Narrative Architecture
 > **“The most terrifying abyss is not darkness, but comfort.”**
 ---
+## Aurora Sancta and House of Valethra — Creator-Established Cross-Season Clarification (2026-11-16)
+
+Within Aurastelia's spiritual civilization, **Aurora Sancta is the religion of the Aurora people and their descendants**, grounded in their capacity to **experience beneficial skyborne Aurora energy by directly seeing the Aurora with their naked eyes**. Religious interpretations, rituals, state offices, science and the observable phenomenon are distinct. Personal experience is not universally guaranteed or a substitute for verification.
+
+**Voluntary belief and departure:** when someone does not feel the Aurora's benefit, they may **leave Aurora Sancta and pursue a change of citizenship freely**; religious departure is not compulsory expatriation or evidence of moral failure. Queen Valethra **invites Aurora citizens to criticize Aurora Sancta and propose doctrinal or practical improvements**, including to her own interpretations. Specific mechanisms for theological revision and nationality transition remain open to future canon design.
+
+The family demonstrates that a spiritual dynasty need not share a single vocation: Valethra leads as Queen and spiritual guide; her eldest daughter leads a spiritual institution; her son pursues commerce and Aurora-energy industry; Hana's father studies astronomy and cultural interpretation; and Hana maintains independent technical work and community coordination. Royal ancestry does not confer compulsory worship, scientific infallibility or immunity from consequences. The five sisters of Aurora Covenant also retain independent personhood and beliefs. Historical spiritual exhortations should not be read as blanket coercive law, and Aurora's **97% outward emotional stability** does not prove unanimous conviction, absence of distress, or lack of peaceful theological disagreement.
+
+**Continuity:** this clarification applies to all existing and planned Aurastelia/Valethra references without rewriting the chronology of Seasons 1–17 or upgrading forward Seasons 18–44 into completed episodes. Detailed authority: [Aurora Sancta — Lived Aurora, Freedom of Faith, and Living Revision](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md), [House of Valethra](house-of-valethra.md), and [Aurora Faith](../cultures/aurora-faith.md).
+
+---
+
 ## 1. Purpose and Canon Boundary
 **Authority:** This series-level narrative architecture is subordinate to the binding [Reltroner Studio Master Source of Truth](../principles/reltroner-studio-master-source-of-truth.md) and must remain consistent with the specialized [Nytherion Abyss philosophy](../philosophies/nytherion-abyss.md). The additions dated 2026-10-25 clarify franchise form and future design rules; they do **not** retroactively finalize proposed season events or establish unmentioned factions.
 

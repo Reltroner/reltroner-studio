@@ -105,15 +105,15 @@ region: "Eastern and southeastern scientific-industrial belt of the eastern cont
 
 - [1. Deterministic Canon Logic](#1-deterministic-canon-logic)
 - [4. National Identity](#4-national-identity)
-- [6. Manifestations of Synthetism](#6-manifestations-of-synthetism)
+- [7. State Apparatus](#7-state-apparatus)
 - [9. Urban Centers](#9-urban-centers)
 - [12. Education System](#12-education-system)
 - [15. Economic Sectors](#15-economic-sectors)
-- [17. Statistical Overview](#17-statistical-overview)
-- [20. National Symbols](#20-national-symbols)
-- [23. Ethics and Public Trust](#23-ethics-and-public-trust)
+- [18. By Daily Expenditure](#18-by-daily-expenditure)
+- [21. Language — Tarisian](#21-language--tarisian)
+- [24. Security and Risk System](#24-security-and-risk-system)
 - [26. Foreign Relations](#26-foreign-relations)
-- [28. National Narrative Role in Asthortera](#28-national-narrative-role-in-asthortera)
+- [29. Final Canon Summary](#29-final-canon-summary)
 - [ARCHIVED — NCCM V3 — Cross-Domain Benchmark (2026-10-30; development material)](#archived--nccm-v3--cross-domain-benchmark-2026-10-30-development-material)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
@@ -1165,6 +1165,20 @@ Taramistry's conflicts are high-development conflicts: merit pressure, citation 
 **© 2026 Reltroner Studio — Scientific, Economic & Cultural Simulation Division**
 
 ---
+
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Biochemical sciences, medicine, reproducibility, bioethical review and a merit-oriented research ecosystem.
+
+**Professional / institutional pressure:** The national profile already explicitly identifies Merit Pressure, Citation Anxiety, ethical friction versus innovation speed, data transparency fatigue and professional concern over public-benefit metrics.
+
+**Psychosocial interpretation:** These tensions can produce severe intellectual and reputational pressure even with high societal development. Clinical disorder prevalence, compulsory exploitation and identical exhaustion among all researchers are not established.
+
+**Evidence boundary:** This is domain-grounded qualitative analysis; it does not define a nationwide mental-health statistic, workplace-hour threshold, new clinical condition or a rank among countries. Work demands, subjective stress, outward composure and aggressive/violent incidents are separate subjects. Aurastelia's creator-clarified **97% external Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** have no automatic numerical equivalent in taramistry.
+
+**Comparative framework:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
 
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 

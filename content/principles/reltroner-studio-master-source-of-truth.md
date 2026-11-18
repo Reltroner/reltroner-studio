@@ -5,7 +5,7 @@ author: "Rei Reltroner"
 version: "2.3"
 status: "Binding Apex Source of Truth"
 date: "2026-10-07"
-lastUpdated: "2026-11-11"
+lastUpdated: "2026-11-17"
 published: true
 image: "/images/reltroner-studio-master-source-of-truth.webp"
 tags:
@@ -1808,6 +1808,21 @@ These are **candidate satellite indicators**, not current NCCM V6.5 measurements
 **Ratified antagonist linkage:** Henchoway may use legitimate rejection fatigue and the language of *"freedom from achievement"* to normalize **Adaptive Stillness**—a prosperous order where residents cease making independent challenges and institutional decisions become difficult to reverse. Nytherion describes the deeper existential possibility of comfortable surrender. But **chosen ordinary life and restorative comfort remain legitimate**. The failure is not lack of exceptional success; it is the erosion of genuine agency, evidence-based correction and future choice. A claimed Henchoway operation must be separately proven.
 
 **Narrative discipline:** Preserve the [series' planned *Right to Be Ordinary* theme](../series/the-abyss-of-comfort.md), the 60/40 individual/institutional SDI concept, nation-specific cultures and the fact that **most Asthorterans are not living the exceptional tragedies followed by the story**. The setting's high-quality knowledge economy can create new competitive pressures without being reduced to a universal dystopia.
+
+---
+
+## 18.7 Asthortera Civilizational Engineering Integration (2026-11-17)
+
+**Binding documentation routing:** The [Asthortera Integrated Civilization Model](./asthortera-integrated-civilization-model.md) links creator-directed worldbuilding to existing Canon C. It is a **cross-domain index**, not a second quantitative ledger. The [NCCM V6.5 active ledger](../../data/asthortera/nccm-v6-active-cross-domain.json) continues to own current population, SDI, TFR, GDP, exchange quotes and other accepted Year 0 numbers.
+
+- [Nationality and nested civic identity](./asthortera-nationality-centered-citizenship.md): species and morphological form never dissolve state citizenship.
+- [Species demographic overlay](../statistics/asthortera-species-demographic-variation.md) and [Cosmeilian/Phantomkind biology](../statistics/asthortera-cosmeilian-phantomkind-life-course.md): ±10% coefficient choices and reproduction ages are **proposed**, not new census.
+- [Personal AI physical engineering](../technologies/asthortera-personal-ai-physical-engineering.md) and [distributed maker provenance](./asthortera-distributed-manufacturing-provenance.md): technical autonomy remains under national law and risk-based QA.
+- [Qualified verification labor and off-world QA](../statistics/asthortera-qa-verification-labor-market.md) and [industrial environmental-career scopes](./reltronland-environmental-industrial-assurance.md): funded qualified openings are distinct from generic AI tests.
+- [Cosmic economy and GDP treatment](./asthortera-cosmic-resource-and-monetary-economy.md) and [nominal FX / PPP / VAT status register](../statistics/asthortera-monetary-ppp-fiscal-parameter-register.md): no FX-to-PPP conflation or double-counting imported services / unreconciled cosmic production.
+- The already-ratified [Henchoway](../factions/henchoway.md) and [Nytherion](../philosophies/nytherion-abyss.md) recognition-scarcity boundary remains intact: restorative ordinary life is not equivalent to engineered loss of agency.
+
+**Publication gate:** New ecotype lists, REIC naming, salary figures, QA vacancy rates, AI adoption estimates, PPP basket assumptions and VAT scenarios do **not** become Canon C merely by being linked here. The internal [decision register](../remodeling/asthortera-2026-11-17-integration-decision-register.md) records remaining measurement/legal decisions and must not be published as public Studio content.
 
 ---
 

@@ -87,6 +87,16 @@ Used to rank civilizations, organizations, and even individuals in the Asthorter
 
 ---
 
+### 🌌 **Aurora Sancta — Aurora Faith**
+
+The national **religion of the Aurora people and their descendants**, grounded in the potential to feel beneficial **skyborne Aurora energy by seeing the Aurora with the naked eye**. Ritual, scientific explanation and lived benefit are distinct. People who do not experience the benefit can leave the faith and pursue a voluntary change of citizenship; leaving the faith does not automatically require expatriation. **Queen Valethra invites criticism and proposed revisions** of Aurora Sancta. Spiritual practice is compatible with diverse professional and family lives, not a compulsory single vocation. [Canonical reference](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+### 👑 **House of Valethra**
+
+Queen Valethra's disclosed family, with genuinely distinct professional and personal paths: spiritual institutional leadership, commerce and Aurora-energy industry, astronomy, heritage and education, and Hana's independent science/design/community work. Royal lineage neither dictates religion nor guarantees professional authority. Names marked *working* in [the family record](../series/house-of-valethra.md) remain unratified.
+
+---
+
 ## 🔐 Legal Protection Notice
 
 All terms above are protected under the intellectual rights of **Reltroner Studio**. Their narrative function is embedded in the world of Asthortera and may not be abstracted, repurposed, or commercialized outside this context without written permission.
@@ -98,4 +108,3 @@ If you're unsure about proper use or wish to reference these terms in your own w
 
 > _“Terminology is territory. In Asthortera, every term is earned through struggle.”_  
 > — Creative Lore Bible, Reltroner Studio
-

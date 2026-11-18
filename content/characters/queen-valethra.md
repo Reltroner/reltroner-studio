@@ -629,6 +629,19 @@ Valethra governs by maintaining the conditions in which society can govern itsel
 
 ### XIII. AURORA SANCTA
 
+#### Creator-Established Living-Faith Clarification (2026-11-16)
+
+Valethra leads the **Aurora people's and their descendants' Aurora Sancta**, whose experiential root is the benefit of **skyborne Aurora energy directly seen with the naked eye**. Such benefit is a personal experience, **not** an automatic feeling or mandatory religious proof for all descendants, visitors or citizens.
+
+**Freedom of conscience:** a person who does not feel the benefit may **leave Aurora Sancta and pursue a change of citizenship freely**. Neither decision entails forced deportation or moral condemnation, and religious membership is distinct from nationality. Valethra's sacred role is **not** permission to compel worship, punish doubt, or monopolize the interpretation of another person's experience.
+
+**Criticism as living doctrine:** Valethra explicitly **invites Aurora citizens to criticize Aurora Sancta and propose updates or improvements**. Her own theological interpretations and spiritual leadership can be questioned through peaceful, legitimate civic and community channels. Deliberation is substantive; an individual's proposal does not become formal doctrine without proper institutional action, whose exact procedure is not yet defined. Adaptive relevance across generations—not frozen ritual or mandatory clerical careers—is the intended meaning of timeless spirituality.
+
+**House example:** Valethra and her disclosed descendants may work in spiritual administration, enterprise, astronomy, science, technology or independent community service without reproducing the Queen's personal calling. Their diverse professional lives do not prove that any one vocation is holier than another. See [House of Valethra](../series/house-of-valethra.md) and the [living-faith source of truth](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+**Continuity boundary:** older speeches about mandatory spiritual alignment, all professions as sacred missions, or Aurora reprimanding dissonance are theological exhortation and symbolic interpretations, **not** an override of personal conscience, citizenship freedom, professional regulation, scientific evidence or civil law. The Queen remains fallible in doctrine and answerable for the consequences of governance decisions.
+
+
 Valethra is the principal living guardian of:
 
 > **Aurora Sancta**

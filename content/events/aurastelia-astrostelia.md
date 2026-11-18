@@ -9,6 +9,14 @@ image: "/images/aurastelia-astrostelia.webp"
 
 # 🌌 Origins of Aurastelia and Astrostelia
 
+## Modern Aurora Sancta Interpretation — Continuity Without Religious Compulsion (2026-11-16)
+
+The historical division between Aurastelia's inward resonance tradition and Astrostelia's outward observational tradition must **not** be retold as proof that all descendants inherited one mandatory spiritual vocation. The **Aurora people and their descendants** can personally feel beneficial skyborne Aurora energy when seeing the Aurora with the naked eye, and Aurora Sancta grew as a distinct religious-cultural interpretation of this relationship. Direct benefit, ritual teaching and scientific explanations are separate levels of claim.
+
+**Not every individual is required to feel the benefit or to accept the interpretation.** Those who do not experience it are free to leave Aurora Sancta and pursue a change of citizenship; leaving religion is not automatic exile. Queen Valethra invites believers and other Aurora citizens to criticize the faith and propose improvements or updates. This modern clarification does not retroactively invent a complete prehistoric constitutional freedom code, change the two nations' historical formation, or assert that Astrostelia's science invalidates Aurastelia's lived experience. See [Aurora Sancta — Living Faith](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md).
+
+---
+
 ## 🚀 3535 BAC — *Arrival of Cosmeilia*
 
 > *“They did not arrive to conquer stars, but to harmonize with their silence.”*

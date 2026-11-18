@@ -27,6 +27,14 @@ category: "Aurastelia · Civilizational Events · International Strategic Counci
 
 ------------------------------------------------------------------------
 
+## Aurora Sancta Interpretive Priority — Creator Clarification (2026-11-16)
+
+The international dialogues preserve Valethra's spiritual worldview and sovereign diplomatic speeches, **not an unlimited mandate for compulsory religion**. Aurora Sancta is rooted in the **Aurora people's and descendants' lived benefit from skyborne Aurora energy when seeing the Aurora with the naked eye**. Individuals who do not experience the benefit may leave the faith and pursue a change of citizenship without moral stigma or coerced expatriation. Queen Valethra **invites Aurora citizens to criticize and propose amendments or improvements to Aurora Sancta itself**, including her interpretations. Specific legal and doctrinal procedures are not yet established.
+
+References to mandatory spiritual coherence, professional missions, or Aurora as a universal compass should therefore be read as **bounded cultural or institutional exhortations**, not proof of coerced religious membership, infallible national leadership or unrestricted foreign jurisdiction. Distinct science, diplomacy, contracts, professional autonomy and civic dissent remain valid. See [Aurora Sancta living-faith source](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) and [House of Valethra](../series/house-of-valethra.md).
+
+---
+
 # PART I --- DOCUMENT PURPOSE AND CANONICAL POSITION
 
 ## 1. Purpose

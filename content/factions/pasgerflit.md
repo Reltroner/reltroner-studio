@@ -1758,6 +1758,20 @@ It turns movement into consciousness.
 
 ---
 
+
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Airspace sovereignty, high-capacity airports, aviation safety, passenger care, route logistics and public mobility.
+
+**Professional / institutional pressure:** Safety-critical certification, ground–air handovers, accurate flight authorization and separating expected spare capacity from legally accepted transportation commitments create difficult operational decisions.
+
+**Possible internal psychological burden:** Possible strain includes continuous-service fatigue, passenger expectations and pressure to avoid disruption without bypassing safety or legal clearance. No universal accident rate or failure is presumed.
+
+**Evidentiary limits:** Do not convert qualitative canon into an invented nationwide stress prevalence, fixed work-hour mandate, clinical diagnosis or national ranking. Recognized expertise, strong material opportunity and intensely demanding work can coexist. Professional disagreement is not automatically overt aggression, and outward composure is not a private well-being certificate. Aurastelia's distinct **97% outward Emotional Stability Rate** and **Near Zero overt aggressive/violent Conflict Rate** do **not** describe pasgerflit.
+
+**Shared reference:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).
+
 ## NCCM V4 — Phantomkind / Spiritual Hybrid Census Status (2026-10-30)
 
 **ARCHIVED NCCM V4 — superseded by ratified V6.5 canon C:** At the old V4 checkpoint, national Phantomkind percentages were undecided. The current exclusive primary Phantomkind share is **2%** and the six shares sum to 100%. Use the canonical section at the top; do not treat the historical V4 uncertainty as a Year 0 current measurement.

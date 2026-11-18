@@ -120,16 +120,16 @@ tags:
 
 - [1. National identity and basic facts](#1-national-identity-and-basic-facts)
 - [2. Geography and the Reltronland–Krisberia frontier](#2-geography-and-the-reltronlandkrisberia-frontier)
-- [3. Historical lineage and the founding constraint](#3-historical-lineage-and-the-founding-constraint)
+- [4. Material civilization: what craftsmanship means](#4-material-civilization-what-craftsmanship-means)
 - [5. The craftsmanship learning pathway](#5-the-craftsmanship-learning-pathway)
 - [6. Government, social responsibility and institutional ethics](#6-government-social-responsibility-and-institutional-ethics)
 - [7. NCCM V6 integrated economy](#7-nccm-v6-integrated-economy)
-- [8. Relations, exports and diplomacy](#8-relations-exports-and-diplomacy)
 - [9. Linguistic evolution and cultural autonomy](#9-linguistic-evolution-and-cultural-autonomy)
 - [10. Architecture and visual style](#10-architecture-and-visual-style)
+- [11. Peaceful sovereignty and institutional tension](#11-peaceful-sovereignty-and-institutional-tension)
 - [12. The Abyss of Comfort — proposed arc](#12-the-abyss-of-comfort--proposed-arc)
-- [13. Outstanding national-canon decisions](#13-outstanding-national-canon-decisions)
 - [14. Model boundaries and source precedence](#14-model-boundaries-and-source-precedence)
+- [Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)](#professional-and-psychosocial-pressure--cross-national-clarification-2026-11-13)
 
 **Canonical reference:** The generated Year 0 tables above retain precedence over historical illustrations and narrative proposals.
 <!-- END ASTHORTERA_EDITORIAL_READING_GUIDE_V1 -->
@@ -447,3 +447,15 @@ Nytherion's pressure emerges through standards that quietly discourage variation
 - [Planet Asthortera demographic and historical overview](../statistics/asthortera_identity.md)
 - [Asthortera Countryball character language](../characters/asthortera-countryball-characters.md)
 - [Existing ALREO legal and wage-unit references](../laws/alreo.md)
+
+## Professional and Psychosocial Pressure — Cross-National Clarification (2026-11-13)
+
+**Established national domain:** Precision crystal crafts, advanced materials, ethical provenance, apprenticeship and historically peaceful sovereignty.
+
+**Professional pressure:** Specialists must substantiate material integrity, safe sourcing, production quality and why a costly item has real engineering or artistic value.
+
+**Possible psychosocial burden:** A plausible risk is precision-work perfectionism, public prestige pressure and tension between excellence and inclusive artisan access. Historical peace does not mean no workplace disagreement.
+
+**Continuity and evidence boundary:** Existing national specializations support these qualitative observations, but do **not** establish quantified burnout, psychiatric prevalence, nationwide uniform working hours, an aggressive-conflict statistic or a fixed ranking. Professional accountability can coexist with high quality of life; visible emotional control does not demonstrate internal psychological ease. Aurastelia's **97% external Emotional Stability Rate** and **Near Zero overt aggressive Conflict Rate** have **Aurastelia-specific definitions** and do not apply numerically to this country.
+
+**Comparative context:** [Professional and Psychosocial Pressure Across Asthortera](./asthortera-professional-and-psychosocial-pressure.md).

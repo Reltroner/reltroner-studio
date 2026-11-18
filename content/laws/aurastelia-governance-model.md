@@ -21,6 +21,18 @@ At its heart stands **Queen Valethra Seraphine Lunara**, not as a ruler of power
 
 ---
 
+## Aurora Sancta and Freedom of Conscience — Canonical Governance Clarification (2026-11-16)
+
+Aurora Sancta is the national religion of the **Aurora people and their descendants**. Its experiential root is the benefit they can personally feel from **skyborne Aurora energy when viewing the Aurora directly with the naked eye**. Queen Valethra does not claim that all residents, every descendant or every other nationality must have the same experience.
+
+**A person who does not feel the benefit may freely leave Aurora Sancta and pursue a change of citizenship.** Neither choice authorizes coercion, stigma, punishment or forced expatriation; religious membership and nationality are separate legal relationships. Detailed nationality-transition procedures are not yet defined in canon.
+
+**The Queen actively invites citizens to criticize and propose improvements or updates to Aurora Sancta**, including her own interpretations. Public Lumina Circle, cultural institutions, and professional communities can carry dissent and deliberation rather than staged unanimity. Specific adoption or amendment procedures must not be fabricated; legitimate institutional processes, evidence and constitutional boundaries still matter.
+
+Aurora Sancta's presence within civic culture does **not** require every engineer, schoolteacher, business owner, scientist or royal descendant to make ritual their main occupation. Generally applicable ethical and public-safety obligations are **not** equivalent to compulsory worship. A spiritual blessing does not override civil rights, scientific validation, consent or sovereign procedure. See [Aurora Sancta living-faith clarification](../philosophies/aurora-sancta-living-faith-and-voluntary-resonance.md) and [House of Valethra](../series/house-of-valethra.md).
+
+---
+
 ## 🪷 Core Components
 
 ### 1. 👑 **The Aurora Queen**  
@@ -104,4 +116,3 @@ At its heart stands **Queen Valethra Seraphine Lunara**, not as a ruler of power
 
 > 🌟 *Aurastelia is not the richest, the biggest, or the most powerful.*  
 > *But it may be the most awake nation in all of Asthortera.*
-
