@@ -7,6 +7,7 @@ import { readFormRequest } from '../lib/forms/request.ts';
 
 const canonical = 'https://www.reltroner.com/api/newsletter';
 const lmsOrigin = 'https://lms.reltroner.com';
+const statisticsOrigin = 'https://statistics.reltroner.com';
 const payload = { email: 'synthetic-lms@example.test', consent: true };
 let mutations = 0;
 const service = {
@@ -141,4 +142,89 @@ test('General contact/form reader remains same-origin-only: LMS exception is sco
     readFormRequest(post()),
     /ORIGIN/
   );
+});
+
+test('CORS: the precise Statistics origin receives its own OPTIONS 204 without contacting Resend', async () => {
+  const before = mutations;
+  const response = await onRequest({ request: preflight(statisticsOrigin), env: {} });
+  assert.equal(response.status, 204);
+  assert.equal(response.headers.get('access-control-allow-origin'), statisticsOrigin);
+  assert.equal(response.headers.get('access-control-allow-methods'), 'POST');
+  assert.match(response.headers.get('access-control-allow-headers'), /Content-Type/);
+  assert.equal(response.headers.get('access-control-max-age'), '600');
+  assert.match(response.headers.get('vary'), /Origin/);
+  assert.equal(response.headers.get('access-control-allow-credentials'), null);
+  assert.equal(await response.text(), '');
+  const lms = handleNewsletterPreflight(preflight(lmsOrigin));
+  assert.equal(lms.headers.get('access-control-allow-origin'), lmsOrigin, 'each origin receives only itself');
+  assert.equal(mutations, before);
+});
+
+test('POST from Statistics delegates to the Studio service with the unchanged JSON contract', async () => {
+  const before = mutations;
+  const response = await handleNewsletterRequest(post(statisticsOrigin), service);
+  assert.equal(response.status, 200);
+  assert.equal(response.headers.get('access-control-allow-origin'), statisticsOrigin);
+  assert.equal(response.headers.get('access-control-expose-headers'), 'Retry-After');
+  assert.equal(response.headers.get('access-control-allow-credentials'), null);
+  assert.equal(response.headers.get('vary'), 'Origin');
+  assert.equal(response.headers.get('cache-control'), 'no-store');
+  assert.deepEqual(await response.json(), {
+    status: 'accepted',
+    message: 'Your subscription was saved in Resend. No email was sent.',
+    delivered: false,
+    verified: false,
+  });
+  assert.equal(mutations, before + 1);
+  const invalid = await handleNewsletterRequest(post(statisticsOrigin, canonical, {}, { email: 'bad', consent: true }), service);
+  assert.equal(invalid.status, 422);
+  assert.equal(invalid.headers.get('access-control-allow-origin'), statisticsOrigin);
+  assert.equal(mutations, before + 1);
+});
+
+test('Statistics exception rejects lookalike, insecure, null, Unicode, preview, wrong host, endpoint, method, headers and cross-site requests', async () => {
+  const before = mutations;
+  const preflights = [
+    preflight('https://statistics.reltroner.com.evil.test'),
+    preflight('http://statistics.reltroner.com'),
+    preflight('https://statistics.reltroner.com:8443'),
+    preflight('https://STATISTICS.reltroner.com'),
+    preflight('https://statistics.reltr\u00F8ner.com'),
+    preflight('https://statistics.xn--reltrner-2ih.com'),
+    preflight('https://reltroner-statistics.pages.dev'),
+    preflight('https://evil.test'),
+    preflight('null'),
+    preflight(statisticsOrigin, 'https://reltroner-studio.pages.dev/api/newsletter'),
+    preflight(statisticsOrigin, 'https://www.reltroner.com/api/contact'),
+    preflight(statisticsOrigin, canonical, { Host: 'statistics.reltroner.com' }),
+    preflight(statisticsOrigin, canonical, { 'Sec-Fetch-Site': 'cross-site' }),
+    preflight(statisticsOrigin, canonical, { 'Access-Control-Request-Method': 'PUT' }),
+    preflight(statisticsOrigin, canonical, { 'Access-Control-Request-Headers': 'content-type,x-api-key' }),
+  ];
+  for (const request of preflights) {
+    const response = handleNewsletterPreflight(request);
+    assert.equal(response.status, 403, request.headers.get('origin') + ' ' + request.url);
+    assert.equal(response.headers.get('access-control-allow-origin'), null);
+  }
+  for (const request of [
+    post('https://statistics.reltroner.com.evil.test'),
+    post('http://statistics.reltroner.com'),
+    post('https://reltroner-statistics.pages.dev'),
+    post(statisticsOrigin, 'https://www.reltroner.com.evil.test/api/newsletter'),
+    post(statisticsOrigin, 'https://reltroner-studio.pages.dev/api/newsletter'),
+    post(statisticsOrigin, canonical, { Host: 'evil.test' }),
+    post(statisticsOrigin, canonical, { 'Sec-Fetch-Site': 'cross-site' }),
+  ]) {
+    const response = await handleNewsletterRequest(request, service);
+    assert.equal(response.status, 403, request.headers.get('origin') + ' ' + request.url);
+    assert.equal(response.headers.get('access-control-allow-origin'), null);
+  }
+  const wrongMethod = await onRequest({ request: new Request(canonical, { method: 'GET', headers: { Origin: statisticsOrigin } }), env: {} });
+  assert.equal(wrongMethod.status, 405);
+  assert.equal(wrongMethod.headers.get('access-control-allow-origin'), null);
+  assert.equal(mutations, before);
+});
+
+test('General contact/form reader remains same-origin-only: the Statistics exception is scoped to newsletter', async () => {
+  await assert.rejects(readFormRequest(post(statisticsOrigin)), /ORIGIN/);
 });

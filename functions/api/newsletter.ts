@@ -4,32 +4,37 @@ import { isSameOriginRequest } from '../../lib/security/request-origin';
 import { createResendNewsletterProvider, type ResendProviderOptions } from '../../lib/newsletter/resend-provider';
 import type { NewsletterServiceAdapter, SubscriptionResult } from '../../lib/newsletter/types';
 
-// Only the canonical Studio newsletter endpoint may accept the LMS form.
+// Only the canonical Studio newsletter endpoint may accept forms from these exact sibling origins.
 // This is a narrowly scoped cross-origin exception, not a general forms/CORS policy.
 const LMS_NEWSLETTER_ORIGIN = 'https://lms.reltroner.com';
+const STATISTICS_NEWSLETTER_ORIGIN = 'https://statistics.reltroner.com';
+const SIBLING_NEWSLETTER_ORIGINS = new Set([LMS_NEWSLETTER_ORIGIN, STATISTICS_NEWSLETTER_ORIGIN]);
 const STUDIO_NEWSLETTER_ORIGINS = new Set(['https://www.reltroner.com', 'https://reltroner.com']);
 
-function isApprovedLmsNewsletterOrigin(request: Request): boolean {
-  if (request.headers.get('origin') !== LMS_NEWSLETTER_ORIGIN
-    || request.headers.get('sec-fetch-site') === 'cross-site') return false;
+/** The request's exact approved sibling origin (LMS or Statistics) at the canonical endpoint, else null. */
+function approvedSiblingNewsletterOrigin(request: Request): string | null {
+  const origin = request.headers.get('origin');
+  if (!origin || !SIBLING_NEWSLETTER_ORIGINS.has(origin)
+    || request.headers.get('sec-fetch-site') === 'cross-site') return null;
   try {
     const url = new URL(request.url);
     const host = request.headers.get('host')?.toLowerCase();
     return STUDIO_NEWSLETTER_ORIGINS.has(url.origin)
       && (!host || host === url.host || (url.port === '' && host === `${url.hostname}:443`))
-      && url.pathname === '/api/newsletter';
-  } catch { return false; }
+      && url.pathname === '/api/newsletter' ? origin : null;
+  } catch { return null; }
 }
 
 function isAllowedNewsletterOrigin(request: Request): boolean {
   return Boolean(request.headers.get('origin'))
-    && (isSameOriginRequest(request) || isApprovedLmsNewsletterOrigin(request));
+    && (isSameOriginRequest(request) || approvedSiblingNewsletterOrigin(request) !== null);
 }
 
 function withNewsletterCors(request: Request, response: Response): Response {
-  if (!isApprovedLmsNewsletterOrigin(request)) return response;
+  const origin = approvedSiblingNewsletterOrigin(request);
+  if (!origin) return response;
   const headers = new Headers(response.headers);
-  headers.set('Access-Control-Allow-Origin', LMS_NEWSLETTER_ORIGIN);
+  headers.set('Access-Control-Allow-Origin', origin);
   headers.set('Access-Control-Expose-Headers', 'Retry-After');
   headers.set('Vary', 'Origin');
   headers.set('Cache-Control', 'no-store');
@@ -40,14 +45,15 @@ export function handleNewsletterPreflight(request: Request): Response {
   const method = request.headers.get('access-control-request-method');
   const headers = (request.headers.get('access-control-request-headers') || '')
     .split(',').map(value => value.trim().toLowerCase()).filter(Boolean);
-  if (!isApprovedLmsNewsletterOrigin(request) || method !== 'POST'
+  const origin = approvedSiblingNewsletterOrigin(request);
+  if (!origin || method !== 'POST'
     || !headers.includes('content-type')
     || headers.some(header => header !== 'content-type' && header !== 'accept')) {
     return Response.json({ status: 'rejected', message: 'Newsletter preflight is not permitted.' },
       { status: 403, headers: { 'Cache-Control': 'no-store' } });
   }
   return new Response(null, { status: 204, headers: {
-    'Access-Control-Allow-Origin': LMS_NEWSLETTER_ORIGIN,
+    'Access-Control-Allow-Origin': origin,
     'Access-Control-Allow-Methods': 'POST',
     'Access-Control-Allow-Headers': 'Content-Type, Accept',
     'Access-Control-Max-Age': '600',
@@ -205,7 +211,7 @@ export async function handleNewsletterRequest(
   service: NewsletterServiceAdapter
 ): Promise<Response> {
   try {
-    // Studio same-origin forms and the one approved LMS origin only. Never trust arbitrary Origin.
+    // Studio same-origin forms and the exact approved sibling origins only. Never trust arbitrary Origin.
     if (!isAllowedNewsletterOrigin(request)) throw new Error('ORIGIN');
     const result = validateSubscription(await readFormRequest(request, isAllowedNewsletterOrigin));
     if (!result.input) {
