@@ -34,7 +34,7 @@ At **Reltroner Studio**, I have worked on frontend products, data tools, course 
 
 **Result:** A reproducible pinned baseline compared **448 paths** and generated **422 JSON-field findings**. Documented *local* verification: **180 Node**, **24 Python**, and **441 browser tests passed** (one browser test skipped by configuration).
 
-**Evidence:** [Source repository](https://github.com/Reltroner/reltroner-statistics) · [Architecture and documentation](https://github.com/Reltroner/reltroner-statistics/tree/main/docs)
+**Evidence:** [Source repository](https://github.com/Reltroner/reltroner-statistics) · [Architecture and documentation](https://github.com/Reltroner/reltroner-statistics/tree/main/docs) · **[Live deployment](https://statistics.reltroner.com/)**
 
 The figures above are pinned-baseline and documented local-test results, **not** proof that the latest commit is deployed on the public website.
 
@@ -46,7 +46,7 @@ The figures above are pinned-baseline and documented local-test results, **not**
 
 **Result:** The codebase implements distinct entry pages, searchable collections, and connected article-reading paths—without requiring new readers to navigate the entire archive first.
 
-**Evidence:** [Source repository](https://github.com/Reltroner/reltroner-studio) · [Reader journey](https://www.reltroner.com/readers) · [Creator journey](https://www.reltroner.com/creators)
+**Evidence:** [Source repository](https://github.com/Reltroner/reltroner-studio) · **[Live deployment](https://reltroner.com/)** · [Reader journey](https://www.reltroner.com/readers) · [Creator journey](https://www.reltroner.com/creators)
 
 ### 03 | Reltroner LMS-FE — Course Content & UX
 
@@ -56,7 +56,7 @@ The figures above are pinned-baseline and documented local-test results, **not**
 
 **Result:** The current catalog presents **Worldbuilding Operating System** with **one authored public lesson**. Its broader **89-lesson curriculum is a plan, not a claim of 89 completed lessons**; unpublished material is excluded from public static output through validated publishing rules.
 
-**Evidence:** [LMS-FE source](https://github.com/Reltroner/LMS-FE) · [Course architecture](https://github.com/Reltroner/LMS-FE/blob/main/COURSE_ARCHITECTURE.md) · [Course implementation](https://github.com/Reltroner/LMS-FE/blob/main/src/catalog/courses/worldbuilding-operating-system/course.ts)
+**Evidence:** [LMS-FE source](https://github.com/Reltroner/LMS-FE) · **[Live deployment](https://lms.reltroner.com/)** · [Course architecture](https://github.com/Reltroner/LMS-FE/blob/main/COURSE_ARCHITECTURE.md) · [Course implementation](https://github.com/Reltroner/LMS-FE/blob/main/src/catalog/courses/worldbuilding-operating-system/course.ts)
 
 ### 04 | Reltroner HRM — Operational Workflow Delivery
 
@@ -66,7 +66,7 @@ The figures above are pinned-baseline and documented local-test results, **not**
 
 **Result:** Delivered connected HRM workflows and a reproducible deployment guide covering database, DNS, and SSH release issues. No unverified business-impact percentage is claimed.
 
-**Evidence:** [Source repository and deployment guide](https://github.com/Reltroner/reltroner-hr-app)
+**Evidence:** [Source repository and deployment guide](https://github.com/Reltroner/reltroner-hr-app) · **[Live deployment](https://hrm.reltroner.com/)**
 
 ## Additional Project Perspective: ERP & B2B Communication
 
