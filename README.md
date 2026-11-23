@@ -4,6 +4,10 @@ Welcome to the official repository of **Reltroner Studio** — a creative and te
 
 This studio serves as a digital home and knowledge base for **Asthortera**, an original fictional universe. It features narrative archives, structured philosophy, and data-driven lore for fictional civilizations like **Reltronland**, **Pasgerflit**, and more.
 
+## 🌐 Live Deployment
+
+[https://reltroner.com/](https://reltroner.com/)
+
 ---
 
 ## 🚀 Tech Stack
@@ -11,11 +15,11 @@ This studio serves as a digital home and knowledge base for **Asthortera**, an o
 - **Framework:** Next.js 16 (App Router)  
 - **Language:** React 19  
 - **Styling:** Tailwind CSS  
-- **Deployment:** Vercel  
+- **Deployment:** Cloudflare Pages  
 - **SEO + Metadata:** `head.jsx` with schema.org JSON-LD  
 - **Markdown Rendering:** `gray-matter`, `remark`, `marked`  
 - **Content Licensing:** IPFS-hosted PDF  
-- **Hosting:** [https://reltroner-studio.vercel.app](https://reltroner-studio.vercel.app)
+- **Live site:** [https://reltroner.com/](https://reltroner.com/)
 
 ---
 
